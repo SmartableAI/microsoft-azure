@@ -4,6 +4,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
+      "title": "Create an Azure Cosmos DB database built to scale",
+      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 3987,
+        "average": 4.6481066
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
       "title": "Design a geographically distributed application",
       "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
@@ -295,8 +331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2672,
-        "average": 4.6455836
+        "count": 2673,
+        "average": 4.645716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,8 +503,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 225,
-        "average": 4.728889
+        "count": 226,
+        "average": 4.7300887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2377,51 +2413,6 @@
         "Containers",
         "Mobile",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
-      "title": "See Azure in action",
-      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2128,
-        "average": 4.7039475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases",
-        "Compute"
       ]
     }
   ],

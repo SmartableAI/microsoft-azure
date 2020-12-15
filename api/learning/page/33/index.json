@@ -4,49 +4,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
-      "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
-      "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 906,
-        "average": 4.6004415
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
       "title": "Protect your virtual machines by using Azure Backup",
       "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
@@ -100,8 +57,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 950,
-        "average": 4.6673684
+        "count": 951,
+        "average": 4.6677184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,6 +431,50 @@
         "Azure",
         "Compute",
         "Serverless",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+      "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+      "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 325,
+        "average": 4.753846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
         "Web"
       ]
     },

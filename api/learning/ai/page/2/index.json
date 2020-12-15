@@ -4,94 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-classification.md",
-      "title": "Predict categories with machine learning classification",
-      "excerpt": "Use machine learning models to categorize data. Build a logistic regression model and support vector machine models to predict categories like win/loss and tree species.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-classification/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-classification/",
-      "length": "60 mins",
-      "ratings": {
-        "count": 385,
-        "average": 4.7194805
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-classification-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict categories with machine learning classification",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
-      "title": "Predict numeric values with regression",
-      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 606,
-        "average": 4.6254125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict numeric values with regression",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
       "title": "Create a classification model with Azure Machine Learning designer",
       "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
@@ -177,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 435,
-        "average": 4.765517
+        "count": 436,
+        "average": 4.766055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 404,
-        "average": 4.8366337
+        "count": 406,
+        "average": 4.8374386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -466,6 +378,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
+      "title": "Analyze text with the Text Analytics service",
+      "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 416,
+        "average": 4.8028846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
       "title": "Automate machine learning model selection with Azure Machine Learning",
       "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
@@ -551,8 +499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 247,
-        "average": 4.6153846
+        "count": 248,
+        "average": 4.6169353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 392,
-        "average": 4.734694
+        "count": 393,
+        "average": 4.7353687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -681,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 386,
-        "average": 4.8186526
+        "count": 387,
+        "average": 4.8191214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 325,
-        "average": 4.753846
+        "count": 326,
+        "average": 4.754601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -811,8 +759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 226,
-        "average": 4.6902657
+        "count": 227,
+        "average": 4.69163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1357,6 +1305,49 @@
       "topics": [
         "Azure",
         "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-register-and-deploy-model-with-amls.md",
+      "title": "Deploy real-time machine learning services with Azure Machine Learning",
+      "excerpt": "Learn how to register and deploy ML models as real-rim services with the Azure Machine Learning service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-deploy-model-with-amls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1004,
+        "average": 4.6035857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     }

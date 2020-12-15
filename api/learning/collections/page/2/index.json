@@ -4,178 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
-      "title": "Manage resources in Azure",
-      "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-resources-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-resources-in-azure/",
-      "length": "PT5H2M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
-          "title": "Align requirements with cloud types and service models in Azure",
-          "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-align-requirements-in-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 6229,
-            "average": 4.74105
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
-          "title": "Control Azure services with the CLI",
-          "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 4676,
-            "average": 4.755774
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-automate-azure-tasks-with-powershell.md",
-          "title": "Automate Azure tasks using scripts with PowerShell",
-          "excerpt": "Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-azure-tasks-with-powershell/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
-          "length": "PT1H11M",
-          "ratings": {
-            "count": 5402,
-            "average": 4.716401
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-predict-costs-and-optimize-spending.md",
-          "title": "Predict costs and optimize spending for Azure",
-          "excerpt": "Discover how to use Azure pricing calculator, Azure Cost Management, and Azure Advisor to predict and manage cloud expenses.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-costs-and-optimize-spending/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/",
-          "length": "PT1H14M",
-          "ratings": {
-            "count": 41343,
-            "average": 4.7165422
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 74,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 68,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-compute-infrastructure-in-azure.md",
       "title": "Architect compute infrastructure in Azure",
       "excerpt": "Learn how to architect compute infrastructure and solutions to automate your business processes in Azure.",
@@ -206,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1665,
-            "average": 4.7735734
+            "count": 1671,
+            "average": 4.773788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -329,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 8778,
-            "average": 4.663477
+            "count": 8779,
+            "average": 4.663401
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -443,8 +271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13660,
-            "average": 4.7119327
+            "count": 13661,
+            "average": 4.7119536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -638,8 +466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13660,
-            "average": 4.7119327
+            "count": 13661,
+            "average": 4.7119536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1007,8 +835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11140,
-            "average": 4.578007
+            "count": 11141,
+            "average": 4.578045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,8 +1142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 1835,
-            "average": 4.517166
+            "count": 1836,
+            "average": 4.515795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1401,8 +1229,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3551,
-            "average": 4.63813
+            "count": 3552,
+            "average": 4.6382318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1470,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2429,
-            "average": 4.6171265
+            "count": 2430,
+            "average": 4.617284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1505,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6146,
-            "average": 4.71396
+            "count": 6147,
+            "average": 4.714007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1437,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6146,
-            "average": 4.71396
+            "count": 6147,
+            "average": 4.714007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1645,8 +1473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2429,
-            "average": 4.6171265
+            "count": 2430,
+            "average": 4.617284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1753,8 +1581,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 5558,
-            "average": 4.607233
+            "count": 5559,
+            "average": 4.6073036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1796,8 +1624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 3734,
-            "average": 4.6735406
+            "count": 3735,
+            "average": 4.673628
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1968,8 +1796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 7028,
-            "average": 4.708879
+            "count": 7029,
+            "average": 4.70892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2010,8 +1838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 7234,
-            "average": 4.7249103
+            "count": 7235,
+            "average": 4.7249484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2045,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 5465,
-            "average": 4.7443733
+            "count": 5466,
+            "average": 4.74442
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2279,8 +2107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 844,
-            "average": 4.5699053
+            "count": 845,
+            "average": 4.570414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2541,8 +2369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3551,
-            "average": 4.63813
+            "count": 3552,
+            "average": 4.6382318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2619,8 +2447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
           "length": "PT25M",
           "ratings": {
-            "count": 3676,
-            "average": 4.6147985
+            "count": 3677,
+            "average": 4.6149035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2739,8 +2567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 1955,
-            "average": 4.7263427
+            "count": 1958,
+            "average": 4.726251
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3258,7 +3086,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
@@ -3827,8 +3655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 743,
-            "average": 4.8156123
+            "count": 744,
+            "average": 4.8158603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4040,8 +3868,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 435,
-            "average": 4.765517
+            "count": 436,
+            "average": 4.766055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4083,8 +3911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 392,
-            "average": 4.734694
+            "count": 393,
+            "average": 4.7353687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4181,216 +4009,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
-      "title": "Explore natural language processing",
-      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing/",
-      "length": "PT2H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-          "title": "Analyze text with the Text Analytics service",
-          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 416,
-            "average": 4.8028846
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 132,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
-          "title": "Recognize and synthesize speech",
-          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 386,
-            "average": 4.8186526
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
-          "title": "Translate text and speech",
-          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 325,
-            "average": 4.753846
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
-          "title": "Create a language model with Language Understanding",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 404,
-            "average": 4.8366337
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
       "title": "Migrate application workloads and data to Azure",
       "excerpt": "Migrate application workloads and data to Azure",
@@ -4421,8 +4039,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2131,
-            "average": 4.658376
+            "count": 2133,
+            "average": 4.6586967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4732,7 +4350,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
@@ -5132,8 +4750,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 1956,
-            "average": 4.632413
+            "count": 1957,
+            "average": 4.632601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5545,8 +5163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1613,
-            "average": 4.601984
+            "count": 1614,
+            "average": 4.601611
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5664,8 +5282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
           "length": "PT55M",
           "ratings": {
-            "count": 628,
-            "average": 4.7308917
+            "count": 629,
+            "average": 4.7313194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5698,8 +5316,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 1975,
-            "average": 4.64557
+            "count": 1976,
+            "average": 4.645749
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5785,8 +5403,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
           "length": "PT35M",
           "ratings": {
-            "count": 379,
-            "average": 4.6833773
+            "count": 380,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6014,6 +5632,414 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
+      "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
+      "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/",
+      "length": "PT5H38M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-azure-well-architected-introduction.md",
+          "title": "Introduction to the Microsoft Azure Well-Architected Framework",
+          "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-introduction/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
+          "length": "PT1H4M",
+          "ratings": {
+            "count": 1169,
+            "average": 4.7399487
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 1142,
+            "average": 4.717163
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
+          "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
+          "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 602,
+            "average": 4.7093024
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+          "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+          "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 565,
+            "average": 4.706195
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Web",
+            "Compute",
+            "Databases",
+            "Serverless",
+            "Containers",
+            "DevOps",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "DevOps",
+        "Networking",
+        "Web",
+        "Identity",
+        "Compute",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
+      "title": "Connect your services together",
+      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together/",
+      "length": "PT3H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 3356,
+            "average": 4.5882
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "IoT",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+          "title": "Implement message-based communication workflows with Azure Service Bus",
+          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 2251,
+            "average": 4.651266
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+          "title": "Communicate between applications with Azure Queue storage",
+          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1842,
+            "average": 4.5857763
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 2012,
+            "average": 4.447316
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 62,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     }
   ],
