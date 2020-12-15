@@ -4,6 +4,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+      "title": "Choose an Azure service for deploying your Java application",
+      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 6,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -34,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9708,
-            "average": 4.7843018
+            "count": 9737,
+            "average": 4.783917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 4757,
-            "average": 4.8118563
+            "count": 4774,
+            "average": 4.8118978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 2334,
-            "average": 4.80934
+            "count": 2340,
+            "average": 4.809829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +230,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 4757,
-        "average": 4.8118563
+        "count": 4774,
+        "average": 4.8118978
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,8 +297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9708,
-            "average": 4.7843018
+            "count": 9737,
+            "average": 4.783917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1271,
-            "average": 4.749803
+            "count": 1274,
+            "average": 4.7503924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 863,
-            "average": 4.752028
+            "count": 864,
+            "average": 4.752315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 745,
-        "average": 4.7704697
+        "count": 747,
+        "average": 4.764391
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -638,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 426,
-            "average": 4.5751176
+            "count": 427,
+            "average": 4.5761123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -770,8 +816,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11148,
-            "average": 4.5778613
+            "count": 11149,
+            "average": 4.5775404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -812,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7111,
-            "average": 4.657854
+            "count": 7112,
+            "average": 4.6579022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -849,8 +895,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 3768,
-            "average": 4.708068
+            "count": 3769,
+            "average": 4.7081456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -970,8 +1016,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7111,
-            "average": 4.657854
+            "count": 7112,
+            "average": 4.6579022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1053,8 +1099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3357,
-            "average": 4.588323
+            "count": 3358,
+            "average": 4.5884457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1446,8 +1492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7111,
-        "average": 4.657854
+        "count": 7112,
+        "average": 4.6579022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1561,8 +1607,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3768,
-        "average": 4.708068
+        "count": 3769,
+        "average": 4.7081456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1718,8 +1764,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 2824,
-        "average": 4.4691925
+        "count": 2825,
+        "average": 4.4693804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2083,8 +2129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 565,
-        "average": 4.706195
+        "count": 566,
+        "average": 4.7067137
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2166,50 +2212,6 @@
       "topics": [
         "Azure",
         "DevOps",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
-      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 1922,
-        "average": 4.712799
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Serverless"
       ]
     }
