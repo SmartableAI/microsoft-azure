@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
-      "title": "Choose an Azure service for deploying your Java application",
-      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/",
+      "length": "PT52M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 290,
+        "average": 4.6310344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -44,9 +44,8 @@
       "topics": [
         "Azure",
         "Compute",
-        "Web",
         "Serverless",
-        "Containers"
+        "Web"
       ]
     },
     {
@@ -80,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9737,
-            "average": 4.783917
+            "count": 9761,
+            "average": 4.783731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2014,
-            "average": 4.725422
+            "count": 2019,
+            "average": 4.726102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1723,
-            "average": 4.7736506
+            "count": 1726,
+            "average": 4.774044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -213,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1315,
-            "average": 4.7657795
+            "count": 1321,
+            "average": 4.7668433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -282,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 1723,
-        "average": 4.7736506
+        "count": 1726,
+        "average": 4.774044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3415,
-            "average": 4.7136164
+            "count": 3416,
+            "average": 4.7137003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +817,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4997,
-            "average": 4.696418
+            "count": 4998,
+            "average": 4.6960783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,8 +889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3062,
-            "average": 4.6691704
+            "count": 3063,
+            "average": 4.6692786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1011,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 2928,
-            "average": 4.6116805
+            "count": 2929,
+            "average": 4.611813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1190,8 +1189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3951,
-            "average": 4.5573273
+            "count": 3952,
+            "average": 4.5574393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1486,8 +1485,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 603,
-            "average": 4.7097845
+            "count": 604,
+            "average": 4.7102647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1630,8 +1629,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2788,
-            "average": 4.7245336
+            "count": 2789,
+            "average": 4.7246323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2771,7 +2770,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

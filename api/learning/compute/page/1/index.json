@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
-      "title": "Choose an Azure service for deploying your Java application",
-      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-microservices-architecture.md",
+      "title": "Decompose a monolithic application into a microservices architecture",
+      "excerpt": "Improve development agility, deployment, fault tolerance, and scalability by modernizing your application with a microservices architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-architecture/",
+      "length": "PT52M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 290,
+        "average": 4.6310344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/microservices-architecture-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -44,9 +44,8 @@
       "topics": [
         "Azure",
         "Compute",
-        "Web",
         "Serverless",
-        "Containers"
+        "Web"
       ]
     },
     {
@@ -80,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9737,
-            "average": 4.783917
+            "count": 9761,
+            "average": 4.783731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 4774,
-            "average": 4.8118978
+            "count": 4785,
+            "average": 4.8114944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -166,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 2340,
-            "average": 4.809829
+            "count": 2348,
+            "average": 4.810051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -230,8 +229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 4774,
-        "average": 4.8118978
+        "count": 4785,
+        "average": 4.8114944
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -332,8 +331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 138056,
-            "average": 4.6997957
+            "count": 138061,
+            "average": 4.6998067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9737,
-            "average": 4.783917
+            "count": 9761,
+            "average": 4.783731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -514,8 +513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2014,
-            "average": 4.725422
+            "count": 2019,
+            "average": 4.726102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -560,8 +559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1723,
-            "average": 4.7736506
+            "count": 1726,
+            "average": 4.774044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -605,8 +604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1315,
-            "average": 4.7657795
+            "count": 1321,
+            "average": 4.7668433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -697,8 +696,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 9737,
-            "average": 4.783917
+            "count": 9761,
+            "average": 4.783731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1274,
-            "average": 4.7503924
+            "count": 1276,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -782,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1006,
-            "average": 4.718688
+            "count": 1011,
+            "average": 4.720079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -825,8 +824,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 864,
-            "average": 4.752315
+            "count": 869,
+            "average": 4.7502875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -895,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 1723,
-        "average": 4.7736506
+        "count": 1726,
+        "average": 4.774044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1074,8 +1073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3852,
-            "average": 4.7043095
+            "count": 3853,
+            "average": 4.704386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1109,8 +1108,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2840,
-            "average": 4.700352
+            "count": 2842,
+            "average": 4.700563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1253,8 +1252,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3852,
-            "average": 4.7043095
+            "count": 3853,
+            "average": 4.704386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2840,
-            "average": 4.700352
+            "count": 2842,
+            "average": 4.700563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,8 +1338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 747,
-        "average": 4.764391
+        "count": 749,
+        "average": 4.76502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,8 +1443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8505,
-            "average": 4.6912403
+            "count": 8506,
+            "average": 4.6912766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1639,8 +1638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8505,
-            "average": 4.6912403
+            "count": 8506,
+            "average": 4.6912766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1718,8 +1717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
           "length": "PT42M",
           "ratings": {
-            "count": 1996,
-            "average": 4.56513
+            "count": 1997,
+            "average": 4.565348
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2218,8 +2217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2788,
-            "average": 4.7245336
+            "count": 2789,
+            "average": 4.7246323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,8 +2304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8505,
-            "average": 4.6912403
+            "count": 8506,
+            "average": 4.6912766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2428,8 +2427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1723,
-            "average": 4.7736506
+            "count": 1726,
+            "average": 4.774044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2629,8 +2628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8505,
-            "average": 4.6912403
+            "count": 8506,
+            "average": 4.6912766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2824,8 +2823,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8505,
-            "average": 4.6912403
+            "count": 8506,
+            "average": 4.6912766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3380,8 +3379,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3007,
-            "average": 4.577652
+            "count": 3008,
+            "average": 4.5777926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3464,8 +3463,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 4997,
-            "average": 4.696418
+            "count": 4998,
+            "average": 4.6960783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3536,8 +3535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3062,
-            "average": 4.6691704
+            "count": 3063,
+            "average": 4.6692786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3658,8 +3657,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 2928,
-            "average": 4.6116805
+            "count": 2929,
+            "average": 4.611813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3836,8 +3835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3951,
-            "average": 4.5573273
+            "count": 3952,
+            "average": 4.5574393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4266,8 +4265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3951,
-            "average": 4.5573273
+            "count": 3952,
+            "average": 4.5574393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4780,8 +4779,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3358,
-            "average": 4.5884457
+            "count": 3359,
+            "average": 4.588568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4817,8 +4816,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1844,
-            "average": 4.5856833
+            "count": 1845,
+            "average": 4.585908
           },
           "provider": {
             "name": "Microsoft Learn",
