@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M9S
 publishedDateTime: 2020-03-30T21:28:06Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UE1WgB96_fc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5WsEz3TucrI0V1XgdPGfXL+2GFkwRAP8vVqq2V07dlSQm2v5jfetJNhZwQ4reJ3VGGlbsaglNjVq2N2h5y83PA+4gxYxO6jTWzCWIXrmYVG8fFBk17I0eRkTqUZkbVpbJeM+mXLDfZ0UaOVbVG1bp49azXPRJ+BHYXaYJR+lQpScSKXIIowl0PxSk14rdfXuW8K4Krr0JmGYPfAwZk7m7rErDxyuPUZowbRHFvl6gLKTDhdVBtas7k6GCXcplZ+53GXGkOfRRK6f3faqA0as2UmpUnX6H+ztqXT6uKzCCxusfkoLdMiKjmhORM2XsWzJ8vqnG4fX68oZl+pNVaJCgTtPN9DiEW2Day9QXme0XKH2XbsypOpOZt5UlG04UYOGBHDmgGuf6vga618Wz03l9GQVd7DNbIOIwPia+CwJOCo=;kWhxeYbT0BgyXPokxKmaMA=="
+secured: "HaextcwyiwXgytzbNJroZ/WctWJkGUsz4e/yxir+RTZwCrZPTiT+y86rf69xyN+Oc4epVLzeO+sRKJYNXogC9g7SFkVPYISQoBfCysclayEumLMd+aGgoySOcgk4xXe92kzqfnVrwGNQ1CkDYDEVLHJnGdpEfQCI4xQf2NNGpMQxnt3ww94uaHSTTY/CVtaIlc7lcjzZ06vkaUj8qkXzLz3YF6dBrWDcejHUOFMy5S57tIw6OwA1tcNVzmnsQaknmlEvm1a0H47SimslUBXfvdpe8wd+vCS0FlQ4fyoDViXbGDDt+gGFrIu7yiybWqCK6trr1KLv6WpvW0Shdm0Ne7xqk+8gTtOWHF7RRontvvk/vvbmpWXIEF/3FzzKUjGgtioLULDogVzo0BGvn+yJzUIKccZKJUmDo/WkiRkK0zs=;2kda0gq+Fz3EuVIp94ELUA=="
 ---
 
