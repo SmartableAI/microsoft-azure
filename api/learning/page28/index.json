@@ -4,42 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1651,
-        "average": 4.608722
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-enable-external-access-with-b2c.md",
       "title": "Enable secure access to apps for external users with Azure AD B2C",
       "excerpt": "Use Azure AD B2C as the full-featured identity system for your application, and ensure that users are required to sign in securely by using multi-factor authentication.",
@@ -649,7 +613,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extend-resource-manager-template-deployment-scripts/",
       "length": "PT33M",
       "ratings": {
-        "count": 3,
+        "count": 4,
         "average": 5.0
       },
       "provider": {
@@ -1246,6 +1210,48 @@
         "Beginner"
       ],
       "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse.md",
+      "title": "Use Azure Lighthouse to govern, monitor, and secure customer resources",
+      "excerpt": "Learn about how Azure Lighthouse can help you monitor, secure, and govern your customer resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/govern-monitor-secure-resources-azure-lighthouse/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 12,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",

@@ -4,83 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
-      "title": "Introduction to Linux on Azure",
-      "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-linux/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
-      "length": "PT16M",
-      "ratings": {
-        "count": 1039,
-        "average": 4.755534
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-      "title": "Introduction to Docker containers",
-      "excerpt": "Introduction to Docker containers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 3560,
-        "average": 4.638483
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
       "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
       "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
@@ -88,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3074,
-        "average": 4.685101
+        "count": 3075,
+        "average": 4.685203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -279,8 +202,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2000,
-        "average": 4.566
+        "count": 2001,
+        "average": 4.566217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,8 +353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 1964,
-        "average": 4.6334014
+        "count": 1965,
+        "average": 4.633588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 6643,
-        "average": 4.757941
+        "count": 6644,
+        "average": 4.757977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -510,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 412,
-        "average": 4.8373785
+        "count": 413,
+        "average": 4.8377724
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -554,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 449,
-        "average": 4.752784
+        "count": 450,
+        "average": 4.7533336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -682,8 +605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 5074,
-        "average": 4.7642884
+        "count": 5075,
+        "average": 4.764335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,6 +684,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
+      "title": "Prepare your development environment for Azure development",
+      "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 5004,
+        "average": 4.696043
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
       "title": "Secure your Azure resources with role-based access control (RBAC)",
       "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
@@ -768,8 +726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5476,
-        "average": 4.661249
+        "count": 5477,
+        "average": 4.661311
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +762,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 8223,
-        "average": 4.6459928
+        "count": 8224,
+        "average": 4.646036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1064,8 +1022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 591,
-            "average": 4.7681894
+            "count": 592,
+            "average": 4.768581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1106,8 +1064,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 449,
-            "average": 4.752784
+            "count": 450,
+            "average": 4.7533336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,8 +1106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 438,
-            "average": 4.6872144
+            "count": 439,
+            "average": 4.6879272
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1233,8 +1191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 347,
-            "average": 4.821326
+            "count": 348,
+            "average": 4.821839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1420,8 +1378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6236,
-        "average": 4.7410197
+        "count": 6237,
+        "average": 4.741061
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,6 +1402,42 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 1835,
+        "average": 4.724251
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
       ]
     }
   ],

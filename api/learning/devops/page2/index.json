@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
+      "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
+      "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 1146,
+        "average": 4.71815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-characterize-devops-continous-collaboration-improvement.md",
       "title": "Characterize DevOps Continuous Collaboration and Continuous Improvement",
       "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Collaboration and Continuous Improvement.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 1272,
-        "average": 4.691824
+        "count": 1273,
+        "average": 4.692066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -89,8 +133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
       "length": "PT18M",
       "ratings": {
-        "count": 1453,
-        "average": 4.7185135
+        "count": 1454,
+        "average": 4.718707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -124,8 +168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 942,
-        "average": 4.708068
+        "count": 943,
+        "average": 4.7083774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -415,8 +459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 7237,
-        "average": 4.724886
+        "count": 7238,
+        "average": 4.724924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-system-feedback/",
           "length": "PT22M",
           "ratings": {
-            "count": 385,
-            "average": 4.6285715
+            "count": 386,
+            "average": 4.629534
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1451,51 +1495,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 1621,
-        "average": 4.5903764
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
       ]
     }
   ],
