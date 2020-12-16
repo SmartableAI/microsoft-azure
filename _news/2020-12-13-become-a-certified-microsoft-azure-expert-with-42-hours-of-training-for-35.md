@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
-excerpt: "With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training, and it's now just $34.99 for a limited time."
-publishedDateTime: 2020-12-13T03:43:00Z
-originalUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-webUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-ampWebUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
-cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
+publishedDateTime: 2020-12-12T17:24:00Z
+originalUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: CrackBerry.com
-  domain: crackberry.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -439,6 +439,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "OMxIOfc5pSmapqbYpQ0aiX3ow4Ym8NngxMJRG3Joiwlr6gc6slD7WxdODMhjJZeLIxNa0MUfcUuqAIaCHsA3mrX7teXAbXTOU8u11dYfjJnQRBCPMe4HMmnM3RLDAVsPNex2gft0OFwUZDhjBqfQ0G5Y3D07xXatJMUNaECtpZCYPd1NGCkFz0fClwYv1KnFFm0nLJHhbDHD838izXXjBUExnrUhp7QyjENtaOmgtVetNEV4cDKQbGu8+mTomiMx+IWKWK2i+yk4OCgxJhQkR1s6zlYZ+1Ewiozl7i0cj40+8fcWmc+syoAAcx+AYpBGzxEGcIRlpQdIJuW5DPzSwJFqIaoNDe9hP70RyHy3zEc=;aRs9bNF7HKRmr1ewtQhmoA=="
+secured: "ynCQp9S3W7OrRCyX0zsTsqgAmyhVCvp4agxDaQ+MJ/XKXa4wkEYHANFNFVTzk19AFpNKF4D+/BY/m92wzCBrd/CDKBvRiD9SyspnSN7vbHJxiVzARO/SSe0Ilu3isXXtXVz8yuIKvU7CX0Jt7pEJk3gabzeNWasTmwishZi4UxJvADuvs6RSfhAZoa74sTQbb966YOR1e8Y04OveuvJNJn23wAGhvY0yxpSasbBBZo4ZL/N5Yi7xMV6fOVx4w7k1bs/Z1StgI977MMIInuWD9wEyoNScQTtRFh2k7RlzJzG/vvVLhjh0fOyIW+4gGh9t1F+zN9EGorwsIGJX8fWM6g9OJ/tnAWtt8MSUs1Wxz38=;Z7YHc5lmha19ZhNGE4YXkQ=="
 ---
 
