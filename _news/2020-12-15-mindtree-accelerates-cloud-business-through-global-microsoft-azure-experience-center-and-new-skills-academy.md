@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-publishedDateTime: 2020-12-15T07:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+publishedDateTime: 2020-12-15T07:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18788749/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18788749/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18788749"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18788749"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -441,6 +437,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "l7zgl3EYyP1hb6Fe2vN5KJu2hBkRO9EvSo4eZezasKSHPXVm3QTNFS2Hvf2klx9rWUgNbcbU2HQIKZiHsm0vb+y+4iWYciFV29pvvn5omN0tE0sQ2w6yQYORXF95iiNvIuEh0nS21+/9ylY+zvXPgfuR5UuHS/BL4F3l07G0x1i3pMMoo000ZY6AArToY2YZzcFSPOQEdzTK3VD+ippS27gZ77bNYWv0ALjr23QUDr/wlq56srRfmCbzBEhCdJLWMEcQcThIgUG1Oxci1TXB5274IfuEEhOkaCZuUQ7MjTBicPTAKcLQgBj2mrit4KP3ClP4rTZ4jcreUxYVpYEaFQjFEmOFrCRNLKYhLBG5Avs=;RSz9Z2EaSi4G8+Nu4ETDzA=="
+secured: "lfyw4HkaxNufXFQIZ34zp+SGUTIl72TaCkhhMgTA21iphmj5jsGYpOAGiYSkaH/Se4JpxLqLm80pKaxYv7x031eqya6Tmo3a6/ElCOFRqN2OLSlQCo8JoLWE7XSgt7HFhB8AtnMD0bSL5ng6+RSAQeNNIMMCpyus3FEgA4U8bNK1vis2tdndw912oaQU9pZd2Yp2y4DDDbQAO7U0Xkbnf1yaE+54oaYQcgJ1SZdszaTgqo5GzEisCJIYVbG9ss7cCEOcxsf+Lr0Mg3SkvLTY/v1/wbRUSVSsYPreBr0Cy/wyxVT/w8e6zFhiXnpszEjsM2WwJI9ASrLVpBI8MpI27Ny0EM3kE85JkUYNbZW4clw=;mayTEvgt4ue3GVhU/GBX+Q=="
 ---
 

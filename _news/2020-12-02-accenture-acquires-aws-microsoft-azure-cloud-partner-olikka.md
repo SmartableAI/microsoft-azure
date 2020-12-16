@@ -403,19 +403,16 @@ related:
         height: 1067
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-    publishedDateTime: 2020-12-15T07:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T07:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18788749/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18788749"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18788749"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
   - title: "Microsoft announces Azure Hybrid Benefit for Linux in India"
     excerpt: "Azure Hybrid Benefit helps Linux customers migrate on-premises Windows Server and SQL Server licenses, RHEL, and SLES VMs to Azure"
     publishedDateTime: 2020-12-10T06:26:00Z
