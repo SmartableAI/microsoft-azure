@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-01-azure-dns-introducing-automatic-child-zone-delegation.md",
+      "title": "Azure DNS: Introducing automatic child zone delegation",
+      "excerpt": "A new Azure DNS update released to general availability in all clouds makes it easier for our customers to create child zones which are easily attached to parent zones.  ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-dns-introducing-automatic-child-zone-delegation/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-dns-introducing-automatic-child-zone-delegation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/f84e0f24-60b8-4628-b347-c6332b0c944d.png",
+          "width": 991,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T13:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-visualize-and-manage-your-aws-costs-in-azure-cost-management.md",
       "title": "Visualize and Manage your AWS costs in Azure Cost Management",
       "excerpt": "Connector for AWS in Azure Cost Management is now Generally Available.",
@@ -1056,57 +1108,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-12T12:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-improvements-to-azure-vm-backups-are-now-available.md",
-      "title": "Improvements to Azure VM backups are now available",
-      "excerpt": "Azure Backup now supports restoring unmanaged VMs/Disks as Managed Disks, backup for Virtual Machine Scale Sets, and allows replacing existing disks for VMs with Managed Service Identity",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-vm-backups-are-now-available-2/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55214874-ff7e-4517-9cab-f38d0d53a8d3.jpg",
-          "width": 521,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T11:00:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
