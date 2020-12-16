@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-t
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
 type: article
 quality: 57
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/shugart_farms_industrial_photo1.2e16d0ba.fill-1200x630.jpg"
         width: 683
         height: 360
+        isCached: true
+  - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
+    excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
+    publishedDateTime: 2020-12-16T16:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-taps-microsoft-azure-to-power-new-ehr-platform-3-notes.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
     excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
-excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
-publishedDateTime: 2020-12-14T16:01:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
+title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
+excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
+publishedDateTime: 2020-12-16T16:09:00Z
+originalUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-taps-microsoft-azure-to-power-new-ehr-platform-3-notes.html"
+webUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-taps-microsoft-azure-to-power-new-ehr-platform-3-notes.html"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.beckershospitalreview.com/images/channels/ehrs/1.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -70,19 +70,19 @@ related:
         width: 683
         height: 360
         isCached: true
-  - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
-    excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
-    publishedDateTime: 2020-12-16T16:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-taps-microsoft-azure-to-power-new-ehr-platform-3-notes.html"
+  - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
+    excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
+    publishedDateTime: 2020-12-14T16:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
@@ -113,6 +113,6 @@ related:
         height: 785
         isCached: true
 
-secured: "8YTp/JQSBpkm0FTLXUSqT0GCSnC4hrmOPbOb7cfzxr6phacXDbnBT8OJMJ4XLW6U/zsHcxeUYWFJ4AqRoxM6qPopPW5WUC++iwG3SgCJycU36YzSAeuxDOHGDBPg9HrAtG+zGPmu6s6GL9iGTOmUIzBemkBUqGYbA8RGGNoME4sGWRtRxdtmQrXvnIXWNgazl3loO4PiGiQk4AbS0jfYA+Wc0c67vjCn9jI8nBg4sgoIAFmxOBN+zhqEEn9OSVGupmOFXy/3Sh0cGSvhNRFjazG6FMjdlpdH1t3M5uY8WhIn4y7bqTHwSRBMFOnlwscqxtG/qBYGn/QIKVaCvZfiPKD91+wLnCyWWg4bdgf0gc1RMPDrOYRDzImBMBqCp1nPLuIf2d6fr1M245yozhG1fk8nHTynxRKf56nRZemvsIJJblXxFDNVjp28EMRz/V1VsteGvgOpg6vMVIpEy2ZiCkGH/XG+T5BKZzjrm7dGMcQsXYav48VRLdSHokj6raNFme8pEYFokOvqQ6lcOIOwhQ==;yPENvbco+rsHGf5mz3WAXQ=="
+secured: "toqeO3RrhFUC1+a1HHJfFg/cAGJk7rw9bJReJGYDxjyx3oPbpl87HFOHQzr+7Wuf3zs8N/aRK5MRoaosLTd4xtWyGyVKgoxoG9eDgcOWu89AVwG1Vkr34pPceXdThES7H1SfnnPjPPw1TguTJYU+pm7TFIpvrDWJpcv7yUoYXozDhapVU7yex547f7nYSMgsUwvq+kWEGkZ/3U6hoB8hrbRXQGw5G+hYkR9BW3AKDRgbAqjlFoDGsJSGbEvblTPprfiH0WqF4v40yGand+dkHv5bFUOl/emVSD9banBksFISnYBh+q+y8Hxgnf24VLjBUKZzlbAhH2AkEQlcnfe9/+rT2wg451gWmCigKJSpnNk=;O9TJt7FFDIhcdQiHjqb7aw=="
 ---
 

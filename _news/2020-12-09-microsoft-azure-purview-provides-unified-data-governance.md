@@ -373,19 +373,16 @@ related:
         height: 450
         isCached: true
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-    publishedDateTime: 2020-12-04T03:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+    publishedDateTime: 2020-12-04T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z
@@ -433,14 +430,19 @@ related:
       domain: microsoft.com
     quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-    publishedDateTime: 2020-12-08T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
+    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+    publishedDateTime: 2020-12-08T15:47:00Z
+    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Newswire
+      domain: newswire.ca
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+        width: 1955
+        height: 1024
+        isCached: true
 
 secured: "5HQmlguY4tm3hArrOPl3NHewKoZdqgLMN0LI4GQWN7VBznIiqcyiaBKsFL+aU1pUTKVoCBBWIjwLZj/hAjuZTkyFkOBT93UsVGo2wJdFoIYsCa85ijoxXtiCZLMVBw7UwL1i5eMqkcBPpdp91sTYdrq51ssa94pjwtJ+c2O0z8N3wKsFjWEOvFGsRLNvOKIi0RKA/Nb6fU9MamIvOyDJg2nMmsxGSrf5wlsm+bTvADGHFSZQxhD2kDZ8C/hy2AKB2Yx4Km3HbeTa1hD2bbJIeFGtEmycBJ3tMw/B2XlEwwFbzU/A9iZ1XY6Iy0HxQRrOnDFG4Bz0hNeiB8GWpI/CdtkqbPyCECpETWh5UG6RRlw=;1w9GzF70AQsq5Z5FQ3munQ=="
 ---

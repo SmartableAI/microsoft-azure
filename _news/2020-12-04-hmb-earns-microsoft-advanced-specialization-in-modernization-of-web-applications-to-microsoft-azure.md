@@ -1,27 +1,23 @@
 ---
 category: news
 title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-publishedDateTime: 2020-12-04T03:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
-webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+publishedDateTime: 2020-12-04T04:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -430,15 +426,20 @@ related:
       domain: microsoft.com
     quality: 17
   - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-    publishedDateTime: 2020-12-08T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
+    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+    publishedDateTime: 2020-12-08T15:47:00Z
+    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Newswire
+      domain: newswire.ca
+    quality: 9
+    images:
+      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+        width: 1955
+        height: 1024
+        isCached: true
 
-secured: "Cw2KHa23/TG6DQVFOSK6BZMPcyS64QiNIclPutuP5hCLuOarkmJXDyNWIgNviN13Cs9XmljPD1BFjuoptzx2LVfwaiQ41HD9Sk4yYgZLnzRU2lXB6Uham0W7HCuhgXxkaGOl/YmNJyOjKDtdNowU2oCnq1UadZ20sYkn30V21alufplAdCDHFzCqbFCf1ED5JMFAhvfa+3FmCY6DxXIgTRh17HAxk9UlLj8Up9d0UkFkjzfqkvANMxSgDJHhoQtXQ5MwEQ86PDRiYIbavn+avTrIse1yXH1gxyR1v5pkwnuSsvupDc2QWZww9RF7t8q/ONVWEmfsqR5IMfL66pNeFFPJLLlC5g4Pzkjukbjdr2c=;qBPa5K4HKIkBTcUfpPic/Q=="
+secured: "DfjTh7uBvvRToE9qx0NwAjXXh+V6XgBoCUt+hkucPtRuf+wY5xPzZZeuC3zdcwJbwW4XB3ymp6VdNxIWagfCh948/ZdgluE4HKLiyrV9BkVnRws2pUDLMIEFDiGuk+EzpnJ7aI59ERoqpQe+Sd2/8PxXQm8VWmAfybUeYTzlLb7N/c86Wqva/6uPFnRO4eWvYjpXHEuSXyKYQh38xkKQxBMXTnPgV8DO8elWgzVCxCSz2Rw87l7pwsmZjOhhvBU4WdKXza7j3QDNfcNIN8d7DuYj95KocAyzulQ47eHYH3EPgW4zNEmr/t57pKy7Kh82s75pRgzr+dIqIdcz1TlTPaFhrdvFwA+50/F3owZ2/MU=;6QJJt4qcZM6SNwKxehrZ/w=="
 ---
 

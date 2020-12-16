@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-excerpt: "Peloton, the global leader in Well Lifecycle Data Management software solutions for the energy industry, is excited to announce that the Peloton Platform"
-publishedDateTime: 2020-12-08T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the/article_207cc8e8-b873-5e3b-a8c9-c23a8f036dbf.html"
+excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
+publishedDateTime: 2020-12-08T15:47:00Z
+originalUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
+webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
 type: article
-quality: 0
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
+    width: 1955
+    height: 1024
+    isCached: true
 
 related:
   - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
@@ -378,19 +384,16 @@ related:
         height: 450
         isCached: true
   - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft"
-    publishedDateTime: 2020-12-04T03:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azure-301186295.html"
+    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
+    publishedDateTime: 2020-12-04T04:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 23
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
     excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
     publishedDateTime: 2020-12-07T10:43:00Z
@@ -438,6 +441,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "vqECnWdHXy6im7x9IpwaoYw6UrzmsodPPF4oqAN4cDWp6lxyzwEBeVzdUJW7l9L+1+C7oMRuvpQ9jWgBDc1heJ6uk9Z9MF33cLtmyM+JUGH26D/SHU2cZYtBcYItjyr8cKGmY96Qmtx6XT/XqzCmas7VpHwDVdDRk/zZXED00SEpNo7ctA6UBfmHkOrsFn8DfGNuJiP9MCNe2o3rl12EzIoQzezxrtXCtbnTxZIIO30rmEX88rguTneSnuqBehXNUHA5Dfn5mXHrDd1q2Lkti4UlIgMKbvy5fNnyM9+792N3lFSeVkCbOY1pv3ovgHD8fi1AuC5ujlSX/6dl3Wl46e7qadCyNOcTUIgZbGtOjE8M4H063TdJvpdKVTzpEO/idzUdAJ8XKHD8YNdBeSaymDqqQv0v2QksGdlPckzfzNTwpnaGG3hXsAM0Wp/11UoqjW9pk/WAA8gFJNlhr9ngPDC+DblZng32xvDW8GkEAJZn/Kbl2IccV/F+Khgyst4IDxiazYMMVNCLneDANRdH/w==;egVTDatMCesnYmohv+Uqzg=="
+secured: "L44MIKi8cU97sg4T4A6iOMuoZyLt3S3EqQGdya/RFokDUEGiZ4w9seBDJjb2gtVq+6eTCs+JvQfhpL/8dpwXa6EZkYx8DniCVoSSFpgbO6FW14HOa6JI5gdthXdEQ9CXTOnRCJB/cT9HkXcBFrbdh9zqd8XO5N8Pn15VbgIDy4zvRIQEjIbLUm1gKFdwGF01up8wuiZw7WiPA+XaABwoJsJKyQDUCmSdVXePo4JFJ+MA/YUy8PHErKC9kE/0otEMrOonobBIwFQS8HSpqO6nj/i+5GdtdB/0p8QyHvgdLFLywKxS4hukihhGsH6zuWahc8xrYRtpYu7Rm2lgv0wCHVqa3MO4IaQEQlslhqo/R84=;HUvrWA4rJ404rr+mHwFB9g=="
 ---
 
