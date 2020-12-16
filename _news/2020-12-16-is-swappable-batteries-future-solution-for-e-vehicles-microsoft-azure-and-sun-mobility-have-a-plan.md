@@ -1,46 +1,46 @@
 ---
 category: news
-title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
-excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-publishedDateTime: 2020-12-15T12:33:00Z
-originalUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
+excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
+publishedDateTime: 2020-12-16T10:56:00Z
+originalUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
 type: article
-quality: 57
-heat: 157
-published: true
+quality: 43
+heat: -1
+published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
-    width: 1000
-    height: 696
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
-    excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
-    publishedDateTime: 2020-12-16T10:56:00Z
-    webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
-    ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T12:33:00Z
+    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 43
+      name: Sify.com
+      domain: sify.com
+    quality: 57
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+        width: 1000
+        height: 696
         isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
@@ -99,6 +99,6 @@ related:
         height: 785
         isCached: true
 
-secured: "EBdqc2psobqihmsVoP6hPjSfJbEDHqRVDYkouRTv7SUbUoMO8IConOhSvB7U11UFMKZR7b36D0L0wqBmH2TPflI7RN+UpTcSqSDRybzFUMTQEN2KR9zhdEPno9nltGWlLFHlYJBVLiTZbGLLNvoZsm6sUmxzYpdSUzny8iRSux2cYudvDatm0eXfHDY0mQyFjnaNum2b+GA6xg+6nvnEL6C/4hll4xkopQLWpIH445ejJYm5eJVF746JoD3qgVmi/XGG20rr2WNaVUg/pAu9AGN1LunzKMtc5+yevT6d8Iq0M0AXljKdq3vOZkK88YAczazPY7ljNoZ/T98QlPAsyoQgSRB/GUAMWsGxlD+t9+M=;3N31+4NQypDXVs3N1ym1eA=="
+secured: "i7D16Gffn74mX8ZmqatAjS3MnnTzyPhsEM1Ni15Fz/hx/wphHtCQ1m0BGs613YU/+5GiUAuzIVt6fgwKyBtegugEShpah4y8T0tgLbJsEO08B7XKHa3H91jFtggl7Ft/Fm2KvK4oAqDnf/LnBjo0AIbE6HKhA6bdA9QgLaIGmGK+NR0gFAmbpxS3/bRJo0pIx2FDglraN7y/ZD2RCTfAqOjtPR1BZ9mntSwP/K+WoWTKuoR/s5qHDQG7trsrbziU/k641oMB/ntzJDziT84xMa71xdArMHKRgKs35ZRwh/rDIFNF0czShUa/cYtUXT/Pid38uAO8V5XO6SAIL1cwnbJXDOXhpiH5nSONgntp0KQ=;K04zdQsoEDw5eZlQRrmJ2Q=="
 ---
 

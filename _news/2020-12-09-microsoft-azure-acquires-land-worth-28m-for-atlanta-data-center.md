@@ -40,6 +40,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
+    excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
+    publishedDateTime: 2020-12-16T10:56:00Z
+    webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 43
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
     excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
     publishedDateTime: 2020-12-14T16:01:00Z

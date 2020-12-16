@@ -44,6 +44,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
+    excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
+    publishedDateTime: 2020-12-16T10:56:00Z
+    webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 43
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
     publishedDateTime: 2020-12-09T10:43:00Z
