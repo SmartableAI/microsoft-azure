@@ -4,7 +4,7 @@ excerpt: "Explore how to create Azure landing zone architecture at enterprise sc
 type: collection
 price: Free
 length: PT2H46M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
