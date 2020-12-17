@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 20.12 is now available"
+    excerpt: "Learn more about what's new in Azure Sphere OS version 20.12."
+    publishedDateTime: 2020-12-17T21:15:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

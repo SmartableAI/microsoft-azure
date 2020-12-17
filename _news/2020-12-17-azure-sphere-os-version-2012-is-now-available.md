@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 20.12 is now available for evaluation"
-excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
-publishedDateTime: 2020-12-02T22:22:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 20.12 is now available"
+excerpt: "Learn more about what's new in Azure Sphere OS version 20.12."
+publishedDateTime: 2020-12-17T21:15:10Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available/"
 type: article
 quality: 67
 heat: -1
@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 20.12 is now available for evaluation"
+    excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
+    publishedDateTime: 2020-12-02T22:22:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: " Azure Automation is now available in Norway East region"
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
     publishedDateTime: 2020-12-07T17:12:01Z
@@ -53,15 +62,6 @@ related:
     excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
     publishedDateTime: 2020-12-11T21:09:31Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Sphere OS version 20.12 is now available"
-    excerpt: "Learn more about what's new in Azure Sphere OS version 20.12."
-    publishedDateTime: 2020-12-17T21:15:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -86,6 +86,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "75+lbeO5Pgz1jqT4ocMw6VS3UCnqIJMmbvmoKiPnJ72ZxkPp9GFtkpzUtp4RWlNGJcL/T8ucfrhPcHFqKXaUYv7sN4oeZjlq9chqf6SkwcfTGp5/juiiNBy2o2Gcrn/5cJ8C1/UYK5qS4meRc5YN/ZLKIowf22+xRVH500Se606ZsQU36uiToujTVY1xdS64irILjnXxd/eZDv8862UTyPG3rAGe6OpZ6YdISheoaR8GKPPDCiMTpoEN/KDMFwb+lHWIdMpbrv+Nx59ec5U36UK28wi2vbcSnJBcxgUGri7yjcyBQpGg88dPWkNl8ayZ6uQ1wiKKdtn+c8R2hmOMV8r2D4xiqgbOmwdrUk2qIg4=;G8Xefk+onW2k5Ah4ZQB2ag=="
+secured: "k751BEXLGC5gulhdAkbU+v+HeWqAdvtzLWz8ewUEGwfb53xZKTi1k5bePkqc7z2Yscwh81Vav9czFblc2gmDYL8WbSrlbTNrsAIb83cI+oaHSrJosVRbUsoi6KeeRMK8KscpBqhvz3peTmhJTk9dUrUw2JIhj4N3VsvNLsFjaXxpcidvtF6msK3/GgaQFXVEgVjhI3o/CNsNbS5QEfr7QLTEv+m1gtcr1uySGYnyl6PzVQRqeSDq7zwnETGheJaRv8L2tJqN1fxIkezFSAUqfn+e/eatJVgXym0eClpfQlNjAxYJL2t9JnfKoDzKwuvN8U1HBStSSXPL5v+9t6ioLm9/MZvWLc8RKL1y+hGgicI=;DnkwsJEjzfPp/Si8HYmnwQ=="
 ---
 
