@@ -102,6 +102,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
+    excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
+    publishedDateTime: 2020-12-17T19:49:00Z
+    webUrl: "https://www.datacenterknowledge.com/hyper-convergence/microsoft-adds-azure-stack-hci-features-catch-nutanix-vmware"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 36
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20microsoft%20france%20campus%20getty.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
     publishedDateTime: 2020-12-09T11:38:00Z

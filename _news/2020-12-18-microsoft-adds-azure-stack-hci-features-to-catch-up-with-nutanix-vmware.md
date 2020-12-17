@@ -1,28 +1,26 @@
 ---
 category: news
-title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
-excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-publishedDateTime: 2020-12-15T12:33:00Z
-originalUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
+excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
+publishedDateTime: 2020-12-17T19:49:00Z
+originalUrl: "https://www.datacenterknowledge.com/hyper-convergence/microsoft-adds-azure-stack-hci-features-catch-nutanix-vmware"
+webUrl: "https://www.datacenterknowledge.com/hyper-convergence/microsoft-adds-azure-stack-hci-features-catch-nutanix-vmware"
 type: article
-quality: 57
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Data Center Knowledge
+  domain: datacenterknowledge.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
-    width: 1000
-    height: 696
+  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20microsoft%20france%20campus%20getty.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -41,6 +39,22 @@ related:
       - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T12:33:00Z
+    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+        width: 1000
+        height: 696
         isCached: true
   - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
     excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
@@ -102,20 +116,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
-    excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
-    publishedDateTime: 2020-12-17T19:49:00Z
-    webUrl: "https://www.datacenterknowledge.com/hyper-convergence/microsoft-adds-azure-stack-hci-features-catch-nutanix-vmware"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 36
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20microsoft%20france%20campus%20getty.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
     publishedDateTime: 2020-12-09T11:38:00Z
@@ -145,6 +145,6 @@ related:
         height: 785
         isCached: true
 
-secured: "EBdqc2psobqihmsVoP6hPjSfJbEDHqRVDYkouRTv7SUbUoMO8IConOhSvB7U11UFMKZR7b36D0L0wqBmH2TPflI7RN+UpTcSqSDRybzFUMTQEN2KR9zhdEPno9nltGWlLFHlYJBVLiTZbGLLNvoZsm6sUmxzYpdSUzny8iRSux2cYudvDatm0eXfHDY0mQyFjnaNum2b+GA6xg+6nvnEL6C/4hll4xkopQLWpIH445ejJYm5eJVF746JoD3qgVmi/XGG20rr2WNaVUg/pAu9AGN1LunzKMtc5+yevT6d8Iq0M0AXljKdq3vOZkK88YAczazPY7ljNoZ/T98QlPAsyoQgSRB/GUAMWsGxlD+t9+M=;3N31+4NQypDXVs3N1ym1eA=="
+secured: "yP1NFHlZiqaln50+AvLLhTm8RhMGEx5NUkdwvP5z/nIbqIsCYsIQshqWu1HlcbDfs25ZRWrEjLk+UpmDok15n4AqJzqP7Rer1QRYJvKlN6uT8Qv0GvFuaX0XHZMff5eWLig0EDj1Cmk+GSmRRbtzXMD+GEzh1la/LKJmYDyB3YZkDo8KiZVYgs22rd5MIQHJMe6NaW+bdh2U9wQ8BziwTPLgubmPJ1E3jkYulTzTNHL7IV4qMTmuDx/OY0itd3FpGipa+Fae81apmVpZcGpQF4hWBsysTBWfteJhoQJpwITUJN6EQYFjMZB8JSzYkliHzWH2oF440X6EboummUckV693+FwUWdKV7iF3RY6AQRQ=;uttLzjxwwXva1m3hx/yRgg=="
 ---
 
