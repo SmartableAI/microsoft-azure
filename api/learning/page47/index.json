@@ -4,45 +4,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_learning/videos/microsoft-preview-of-availability-zones-for-your-kubernetes-cluster-in-azure-azure-friday.md",
-      "title": "Preview of Availability Zones for your Kubernetes cluster in Azure | Azure Friday",
-      "excerpt": "Justin Luk joins Scott Hanselman to discuss AKS preview features and enabling new functionality like Virtual Machine Scale Set node pools and Availability Zones. Availability Zones (AZ) is a high availability offering from Azure that protects applications and data from datacenter failures. By using AZ",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-preview-of-availability-zones-for-your-kubernetes-cluster-in-azure-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-preview-of-availability-zones-for-your-kubernetes-cluster-in-azure-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=ji3seKHf8m4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ji3seKHf8m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M55S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-17T11:59:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ji3seKHf8m4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-private-video.md",
       "title": "Private video",
       "excerpt": "This video is private.",
@@ -1152,6 +1113,44 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday.md",
+      "title": "Using API server authorized IP ranges to secure your cluster | Azure Friday",
+      "excerpt": "In Kubernetes, the API server is the central way to interact and manage the cluster. To improve cluster security in Azure Kubernetes Server, Ruchika Gupta shows Scott Hanselman how you can restrict access to the API server to a limited set of IP address ranges.  2:23 - Demo  Secure access to the API",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-api-server-authorized-ip-ranges-to-secure-your-cluster-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=zua4vmq7Kss",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zua4vmq7Kss\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-27T22:51:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zua4vmq7Kss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

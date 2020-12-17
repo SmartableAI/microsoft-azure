@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automate-model-selection-with-azure-automl.md",
+      "title": "Automate machine learning model selection with Azure Machine Learning",
+      "excerpt": "Learn how to use automated machine learning in Azure Machine Learning to find the best model for your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-model-selection-with-azure-automl/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 947,
+        "average": 4.624076
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-model-selection-with-azure-automl-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-ai-strategy.md",
       "title": "Microsoft Azure Artificial Intelligence (AI) strategy and solutions",
       "excerpt": "This module provides an overview of Azure AI and demonstrates how Microsoft tools, services, and infrastructure can help make AI real for your organization, whether you want to unlock insights from your latent data with knowledge mining, develop your own AI models with machine learning, or build immersive apps using AI.",
@@ -175,49 +218,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
-      "title": "Introduction to AI technology",
-      "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1682,
-        "average": 4.6979785
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "AI"
       ]
     },
@@ -2036,8 +2036,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
       "length": "PT40M",
       "ratings": {
-        "count": 673,
-        "average": 4.7741456
+        "count": 674,
+        "average": 4.7715135
       },
       "provider": {
         "name": "Microsoft Learn",

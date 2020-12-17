@@ -525,50 +525,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
-      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
-      "excerpt": "Learn how to protect your virtual machine settings with Azure Automation State Configuration",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 952,
-        "average": 4.667017
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-python-object-oriented-programming.md",
       "title": "Object-oriented programming in Python",
       "excerpt": "Learn more about object-oriented programming with this next-steps module in Python.",
@@ -829,8 +785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1580,
-        "average": 4.698101
+        "count": 1581,
+        "average": 4.6982923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1190,6 +1146,50 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
+      "title": "Introduction to threat modeling",
+      "excerpt": "Explore the four high-level steps of threat modeling.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 432,
+        "average": 4.7314816
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
