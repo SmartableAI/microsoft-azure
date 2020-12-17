@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/api-management-s-named-v
 webUrl: "https://azure.microsoft.com/en-us/updates/api-management-s-named-values-integration-with-azure-key-vault/"
 type: article
 quality: 116
-heat: 117
+heat: 116
 published: true
 
 provider:

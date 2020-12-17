@@ -2,441 +2,135 @@
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
 excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T07:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18788749/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/n18788749/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18788749"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18788749"
+publishedDateTime: 2020-12-15T09:37:00Z
+originalUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
+webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
+ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Azure
 
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
+    width: 763
+    height: 509
+    isCached: true
+
 related:
-  - title: "Microsoft just stress-tested its most powerful Azure node in a pretty fun way"
-    excerpt: "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF."
-    publishedDateTime: 2020-12-07T16:10:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way"
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
+    excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T08:08:00Z
+    webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
+    ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
+    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 94
+      name: Prokerala
+      domain: prokerala.com
+    quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9v2cYY3QaQvXNuTdL4DeSF-1200-80.jpg"
-        width: 971
-        height: 545
-        isCached: true
-  - title: "Microsoft's Azure Purview data governance service will help enterprises manage data"
-    excerpt: "Microsoft's Azure Purview is a new cloud-based service that will help enterprises manage data and support compliance and data privacy regulations."
-    publishedDateTime: 2020-12-07T16:04:00Z
-    webUrl: "https://www.businessinsider.com/microsofts-data-governance-service-tackles-complex-privacy-landscape-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/5fce3b9deadd8400183df6ee?width=1200&format=jpeg"
+      - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Microsoft introduces steps to improve internet routing security"
-    excerpt: "The internet runs on the Border Gateway Protocol (BGP). A network or autonomous system (AS) is bound to trust, accept, and propagate the routes advertised by its peers without questioning its provenance. "
-    publishedDateTime: 2020-12-09T08:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-introduces-steps-to-improve-internet-routing-security/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-  - title: "Microsoft Azure Purview provides unified data governance"
-    excerpt: "Announcing the public preview of a unified data governance service to maximize business value of data."
-    publishedDateTime: 2020-12-09T17:58:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-azure-purview-provides-unified-data-governance/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Nadella takes a dig at Amazon as Microsoft unveils Azure Purview"
-    excerpt: "Taking an apparent dig at Amazon and its Cloud arm AWS, Microsoft CEO Satya Nadella has said that it is important to not only trust a vendors technology capabilities but also its ‘business model alignment with its customers."
-    publishedDateTime: 2020-12-04T08:41:00Z
-    webUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    ampWebUrl: "https://www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/nadella-takes-a-dig-at-amazon-as-microsoft-unveils-azure-purview-news-topnews-umegIohfjjjib.html"
+  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T12:33:00Z
+    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
     type: article
     provider:
       name: Sify.com
       domain: sify.com
     quality: 57
     images:
-      - url: "https://www.sify.com/uploads/satya_nadella_microsoft_ap_ul3hPHcfcijca.jpeg"
-        width: 900
-        height: 450
+      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+        width: 1000
+        height: 696
         isCached: true
-  - title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
-    excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
-    publishedDateTime: 2020-12-12T17:24:00Z
-    webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-    ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+  - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
+    excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
+    publishedDateTime: 2020-12-16T10:56:00Z
+    webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
+      name: India TV
+      domain: indiatvnews.com
+    quality: 43
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Cyber Security Cloud Launches WafCharm on Microsoft Azure"
-    excerpt: "Cyber Security Cloud, Inc. (CSC) is pleased to announce the availability of WafCharm on Microsoft Azure. Already available to over one million Amazon AWS users around the world, this launch provides Azure users with AI operation of Web Application Firewall (WAF) rules,"
-    publishedDateTime: 2020-12-01T13:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-asia-cloud-computing-services-94e459be8e4b46e28c817ad8937de808"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
-    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
-    publishedDateTime: 2020-12-02T01:18:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 54
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
         width: 1200
-        height: 627
+        height: 675
         isCached: true
-  - title: "Microsoft Announces Milestones for Data Tools Azure Synapse and Azure Purview"
-    excerpt: "Microsoft this week described release milestones for several of its emerging cloud data management products. Azure Synapse Analytics and Azure Synapse Studio are now generally available (GA ..."
-    publishedDateTime: 2020-12-03T00:00:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/03/microsoft-azure-data-tools-milestones.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 51
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/1214red_F1DRaaSTools.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft just launched new Azure cloud capabilities that will help it meet the needs of the $10 billion JEDI contract with the Pentagon"
-    excerpt: "Microsoft beat out Amazon last year in winning the $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract with the Department of Defense."
-    publishedDateTime: 2020-12-07T14:12:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-azure-government-cloud-jedi-contract-dod-pentagon-2020-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://i.insider.com/5fcabc41037cbd00186140ed?width=700"
-        width: 700
-        height: 525
-        isCached: true
-  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-    publishedDateTime: 2020-12-14T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 40
-    images:
-      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-        width: 400
-        height: 328
-        isCached: true
-  - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
-    excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
-    publishedDateTime: 2020-12-09T20:11:00Z
-    webUrl: "https://www.darkreading.com/cloud/former-microsoft-cloud-security-leads-unveil-new-startup/d/d-id/1339663"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
-    publishedDateTime: 2020-12-10T13:31:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/acts-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301189907.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1362265/Azure_Specialization_Press_Release_Image.jpg?p=facebook"
-        width: 1146
-        height: 600
-        isCached: true
-  - title: "Ex-Microsoft Cloud Security Head Debuts Startup Wiz With $100M In Funding"
-    excerpt: "Cloud security startup Wiz emerged from stealth with an astronomical $100 million of funding just nine months after the founding team wrote its first line of code."
-    publishedDateTime: 2020-12-09T17:27:00Z
-    webUrl: "https://www.crn.com/news/security/ex-microsoft-cloud-security-head-debuts-startup-wiz-with-100m-in-funding"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 38
-    images:
-      - url: "https://www.crn.com/resources/0264-110cc4e677d0-0a90783eb386-1000/1603320546291.jpeg"
-        width: 799
-        height: 799
-        isCached: true
-  - title: "Mavenir’s RCS Business Messaging Solution Available in Microsoft Azure"
-    excerpt: "today announced that its RCS Business Messaging Solution is available to deploy globally from Microsoft Azure. The current Covid-19 pandemic has forced businesses to accelerate their digital ..."
-    publishedDateTime: 2020-12-01T14:46:00Z
-    webUrl: "https://www.oaoa.com/news/business/mavenir-s-rcs-business-messaging-solution-available-in-microsoft-azure/article_47a91ccf-1c8b-5efc-9ee8-accdd09b80b9.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 37
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
-  - title: "Microsoft Azure Service Fabric 7.2 Fourth Refresh Release Notes"
-    excerpt: "Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. - microsoft/service-fabric"
-    publishedDateTime: 2020-12-03T09:25:20Z
-    webUrl: "https://github.com/microsoft/service-fabric/blob/master/release_notes/Service-Fabric-72CU4.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 37
-    images:
-      - url: "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Exoprise CloudReady now available in the Microsoft Azure Marketplace"
-    excerpt: "Exoprise announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, with streamlined deployment and management."
-    publishedDateTime: 2020-12-04T01:34:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/12/04/exoprise-cloudready-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 37
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Snowflake: Microsoft Azure Looks To Bridge Buffett's Moat"
-    excerpt: "Microsoft moves in on Snowflake with Purview tool. The outlook for big cloud competitors in 2021. Snowflake (SNOW) stock has moved above its IPO highs on its first earnings report and rocketed higher last week."
-    publishedDateTime: 2020-12-08T14:18:00Z
-    webUrl: "https://seekingalpha.com/article/4393572-snowflake-microsoft-azure-looks-to-bridge-buffetts-moat"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static3.seekingalpha.com/uploads/2020/12/32994745_16070915773107_rId7.png"
-        width: 742
-        height: 649
-        isCached: true
-  - title: "Microsoft announces Azure data center region in Denmark"
-    excerpt: "Microsoft has announced a data center region for its Azure cloud services in Denmark. The announcement follows the establishment of two regions in Norway, and comes after the company started work on a data center in Sweden."
-    publishedDateTime: 2020-12-08T16:29:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-data-center-region-denmark/"
+  - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
+    excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
+    publishedDateTime: 2020-12-09T10:43:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-acquires-land-worth-28m-atlanta-data-center/"
     type: article
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 37
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/architecture-2287327_1920.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.datacenterdynamics.com/media/images/shugart_farms_industrial_photo1.2e16d0ba.fill-1200x630.jpg"
+        width: 683
+        height: 360
         isCached: true
-  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI Announced"
-    excerpt: "Dell Tech updated its Dell EMC for Microsoft Azure Stack portfolio with the Dell EMC Integrated System for Microsoft Azure Stack HCI."
-    publishedDateTime: 2020-12-10T19:40:00Z
-    webUrl: "https://www.storagereview.com/news/dell-emc-integrated-system-for-microsoft-azure-stack-hci-announced"
+  - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
+    excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
+    publishedDateTime: 2020-12-16T16:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/allscripts-taps-microsoft-azure-to-power-new-ehr-platform-3-notes.html"
     type: article
     provider:
-      name: StorageReview
-      domain: storagereview.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 37
     images:
-      - url: "https://www.storagereview.com/wp-content/plugins/instagram-feed/img/placeholder.png"
-        width: 1000
-        height: 560
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/1.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Why Microsoft’s Azure Arc Is A ‘Value Proposition’"
-    excerpt: "CRN looks at the value proposition of Microsoft’s Azure Arc, a set of technologies that brings Azure’s cloud management capabilities and services to customers’ on-premises, multi-cloud and multi-edge environments."
-    publishedDateTime: 2020-12-10T16:14:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/why-microsoft-s-azure-arc-is-a-value-proposition-"
+  - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
+    excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
+    publishedDateTime: 2020-12-09T11:38:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
     images:
-      - url: "https://www.crn.com/resources/0264-110ea09b76c2-ca31b6f7d3df-1000/microsoft-azure-sign.jpg"
-        width: 609
-        height: 456
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
+        width: 1600
+        height: 1067
         isCached: true
-  - title: "Microsoft Azure Creates Top Secret Government Cloud As JEDI Battle Rages On"
-    excerpt: "Microsoft Azure’s new Government Top Secret cloud meets the Department of Defense JEDI cloud contract requirement of commercial parity."
-    publishedDateTime: 2020-12-08T10:10:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-azure-creates-top-secret-government-cloud-as-jedi-battle-rages-on"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 35
-    images:
-      - url: "https://www.crn.com/resources/0264-1108feaab360-3f03b36b0abc-1000/pentagon-front.jpg"
-        width: 610
-        height: 457
-        isCached: true
-  - title: "Microsoft Launches New Data Governance Service Azure Purview in Public Preview"
-    excerpt: "Microsoft announced a new data governance solution in public preview on its cloud platform called Azure Purview. This new service automates the discovery of data and cataloging while minimizing compliance risk and helps customers map all their data,"
-    publishedDateTime: 2020-12-09T15:12:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-purview-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 33
-    images:
-      - url: "https://res.infoq.com/news/2020/12/microsoft-azure-purview-preview/en/headerimage/croppted-ms-azutre-purview-1607335922430.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "DataON announces availability of integrated systems for Microsoft Azure Stack HCI"
-    excerpt: "DataON is one of the first Microsoft partners to offer integrated systems for Azure Stack HCI. ANAHEIM, Calif. (PRWEB) DataON, an industry-leading provider"
-    publishedDateTime: 2020-12-10T17:17:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18737523/dataon-announces-availability-of-integrated-systems-for-microsoft-azure-stack-hci"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18737523"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18737523"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its"
-    publishedDateTime: 2020-12-01T15:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/exoprise-office-365-monitoring-app-now-available-in-the-microsoft-azure-marketplace-301182861.html"
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T17:45:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 31
+    quality: 19
     images:
-      - url: "https://mma.prnewswire.com/media/1020851/exoprise_Logo.jpg?p=facebook"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Exoprise Office 365 Monitoring App Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- Exoprise, a leading provider of software-as-a-service (SaaS) and Office 365 monitoring, today announced the availability of its CloudReady solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2020-12-01T18:20:00Z
-    webUrl: "https://apnews.com/article/technology-business-software-industry-information-technology-cloud-computing-services-701a49c713a36e14dd19c41663dd9368"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "HMB Earns Microsoft Advanced Specialization in Modernization of Web Applications to Microsoft Azure"
-    excerpt: "COLUMBUS, Ohio, Dec. 3, 2020 /PRNewswire/ -- HMB, a technology solutions company with offices in Columbus, Ohio and Louisville, Kentucky, announced it has earned a Microsoft advanced ..."
-    publishedDateTime: 2020-12-04T04:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18647766/hmb-earns-microsoft-advanced-specialization-in-modernization-of-web-applications-to-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18647766"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18647766"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "UK’s first electric car charging forecourt opens to the public, powered by Microsoft Azure and Dynamics"
-    excerpt: "All the energy is sourced from a 10 MWp solar farm 44 miles away that can produce enough energy to drive 5,000 electric cars every year."
-    publishedDateTime: 2020-12-07T10:43:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/12/07/uks-first-electric-car-charging-forecourt-opens-to-the-public-powered-by-microsoft-azure-and-dynamics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 21
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/GS-EF-Braintree-093-1600x1067.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "Accenture Acquires AWS, Microsoft Azure Cloud Partner Olikka"
-    excerpt: "Accenture acquires Olikka, an Australia-based systems integrator for Amazon Web Services (AWS) & Microsoft Azure. Accenture is the worlds' top public cloud MSP, ChannelE2E research says."
-    publishedDateTime: 2020-12-02T02:31:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/accenture-buys-aws-microsoft-azure-cloud-partner-olikka/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
-  - title: "Microsoft announces Azure Hybrid Benefit for Linux in India"
-    excerpt: "Azure Hybrid Benefit helps Linux customers migrate on-premises Windows Server and SQL Server licenses, RHEL, and SLES VMs to Azure"
-    publishedDateTime: 2020-12-10T06:26:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-announces-azure-hybrid-benefit-for-linux-in-india/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Peloton Well Focused Data Management Solutions, powered by Microsoft Azure, leads digital transformation in the energy industry"
-    excerpt: "Developed with Microsoft Azure technology, the Peloton Platform delivers a robust end user experience to oil and gas companies around the world. The Peloton Platform provides a secure, optimized ..."
-    publishedDateTime: 2020-12-08T15:47:00Z
-    webUrl: "https://www.newswire.ca/news-releases/peloton-well-focused-data-management-solutions-powered-by-microsoft-azure-leads-digital-transformation-in-the-energy-industry-817941631.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/1163960/Peloton_Logo.jpg?p=facebook"
-        width: 1955
-        height: 1024
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
         isCached: true
 
-secured: "lfyw4HkaxNufXFQIZ34zp+SGUTIl72TaCkhhMgTA21iphmj5jsGYpOAGiYSkaH/Se4JpxLqLm80pKaxYv7x031eqya6Tmo3a6/ElCOFRqN2OLSlQCo8JoLWE7XSgt7HFhB8AtnMD0bSL5ng6+RSAQeNNIMMCpyus3FEgA4U8bNK1vis2tdndw912oaQU9pZd2Yp2y4DDDbQAO7U0Xkbnf1yaE+54oaYQcgJ1SZdszaTgqo5GzEisCJIYVbG9ss7cCEOcxsf+Lr0Mg3SkvLTY/v1/wbRUSVSsYPreBr0Cy/wyxVT/w8e6zFhiXnpszEjsM2WwJI9ASrLVpBI8MpI27Ny0EM3kE85JkUYNbZW4clw=;mayTEvgt4ue3GVhU/GBX+Q=="
+secured: "vr6ByZiPzjkG79O+Ik/YfJsK3Wylu/mXSTZFmi89Mcvyrbk7w0cNF0br60DA8/KA8INfPGj4316Gjecs/Ikq9191RUnv5xeYBHZgNm0FAq+4ceQx6wtXXuQzJN5XkRIRhBQALhi7eaTuSRu6blEBveIWsZsZ1IzaoVBxtxXM+5HcbbAMhVoLjK7CmmsOH5nIWkeb8VsDpZIpscSpFb4/u5Ixt/83e/vmfwWOEQ7ze0+0ln2zaPdO4lPKp45qFERZ8ioJiokgImpwyPFz7EnX6zZCCcRYBEMt7c5nNUNAUDD9Cno83YhutFPX0rRBxX8PrtR4baXHQfCxlgUfW0YEC5mnxHdOTqJa6oZ2WeN5/uQ=;FfZshIndVHQhgJYOwk/dhQ=="
 ---
 

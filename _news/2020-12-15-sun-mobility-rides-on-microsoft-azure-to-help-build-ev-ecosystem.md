@@ -1,45 +1,31 @@
 ---
 category: news
-title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
-excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
-publishedDateTime: 2020-12-09T10:43:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-acquires-land-worth-28m-atlanta-data-center/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-acquires-land-worth-28m-atlanta-data-center/"
+title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
+excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+publishedDateTime: 2020-12-15T08:08:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1111892.html"
+webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 197
+published: true
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/shugart_farms_industrial_photo1.2e16d0ba.fill-1200x630.jpg"
-    width: 683
-    height: 360
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
-    excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T08:08:00Z
-    webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
-    ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
-    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
-    type: article
-    provider:
-      name: Prokerala
-      domain: prokerala.com
-    quality: 57
-    images:
-      - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
     excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T12:33:00Z
@@ -88,6 +74,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
+    excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
+    publishedDateTime: 2020-12-09T10:43:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-acquires-land-worth-28m-atlanta-data-center/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/shugart_farms_industrial_photo1.2e16d0ba.fill-1200x630.jpg"
+        width: 683
+        height: 360
+        isCached: true
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
     publishedDateTime: 2020-12-16T16:09:00Z
@@ -131,6 +131,6 @@ related:
         height: 785
         isCached: true
 
-secured: "MIdRm6mKHugDpL0kwmqE41lGlfoXTTQ9O+gkkTqWZdV0axCD8yIMwRjByKeGUbhknsUfH76X2a0V6MR7CcM+mWSXxtkGVQokAXoZEniChlqj1EZO3nbppKIUbDByHlMGncSUnW073NjuHjE3o9g9OlVMkV1pvR637vHhlIVk6ooU3+FMdR4dp7UrxJ7Bo99kkBasLIYm9ws/NAV2bZAUMt9miRiuut3nMl8DCiEhpAvo6KRAmAgog1ZHkIINxi1OkeiYiZ2b3LjTW9xn9E1ulDhNF7OEcCg123jI3vN4eAANOgMTlHBy1F7s8JDaXh+RgjfkQHh1Ian3h5j5+rW9Stv05KnyJMt5VPuh07mKJSTOACNIpUJTfXg5tMLzPWpGTjbk4UNcqsNPk85QF037pWcvKYWUvBIkbwxQkWkmSwzsTiDk5IU3MkJjTu584aGlzNORJ2+NJfC7XcjMkj7T8aHQQKKpW1j/0Z0ZK2799XcZ/9sS655GUAvLTzp8Zo3pxtAZ5lxR6lzEWXIhknziXg==;MhJLvE9klbU12EFd/UJJRg=="
+secured: "yPXxsKIPaZGMpCwOiGfQMSVvAxfqAyU1Mlhncdt4lri5fK9cVjSm+C1xslZAMtgL0K3XUXUeIAwfU6WtzVACeiPkOuH94tBWECgUBen/yTtkkEjW5Cmjr5mtSFn2ZaGaq3Sx+9AaiHJFeARQ0/CKgCeDr0yLsW+VN0b6kF6I/+qoyffqAEItjcOD3dJtyZVpnQX2kRIV+JeblambQPhGmgApsY5dAAyOPO8LNcaRkdmajuowKD69BM/1pAYltrKE9dX8QUtgJDISrVyrD31gDabi1rJNIpWSuTDuyc830DVaKeyGA0ei56Mq6DfBLsNnHP6O3qP2QMHjAzGhZzWCGPAnWUmNGo5nBdbZpq5ovdM=;ZBrbWkh5GSNbbwyYKAcCvQ=="
 ---
 

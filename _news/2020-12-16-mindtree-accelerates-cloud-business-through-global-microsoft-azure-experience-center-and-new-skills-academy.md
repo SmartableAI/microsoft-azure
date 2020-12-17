@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
+    excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T08:08:00Z
+    webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
+    ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
+    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
+    type: article
+    provider:
+      name: Prokerala
+      domain: prokerala.com
+    quality: 57
+    images:
+      - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
     excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T12:33:00Z
@@ -56,6 +72,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T09:37:00Z
+    webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
+    ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
     publishedDateTime: 2020-12-09T10:43:00Z
@@ -83,20 +115,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/ehrs/1.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
-    excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
-    publishedDateTime: 2020-12-14T16:01:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 35
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
