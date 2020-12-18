@@ -4,7 +4,7 @@ excerpt: "This learning path takes you through the four main phases of threat mo
 type: collection
 price: Free
 length: PT3H12M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
