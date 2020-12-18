@@ -58,6 +58,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
+    excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
+    publishedDateTime: 2020-12-18T22:41:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-275719/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
     excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
     publishedDateTime: 2020-12-17T23:00:00Z
@@ -84,6 +100,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
+    excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
+    publishedDateTime: 2020-12-16T06:14:00Z
+    webUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/"
+    ampWebUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 42
+    images:
+      - url: "https://images.financialexpress.com/2020/12/sun-mobility-battery-swapping.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
@@ -156,6 +188,6 @@ related:
         height: 785
         isCached: true
 
-secured: "mg71wYfkfu2rRqDCDe6p6+PwOQtYIbaVK/sUA0B5ouq0GbCEvcxNzFV9HhePGC9lz6JJwGmsdeShcAxmiW9xKZXtxRjbJuzJU8cb6TSMS/Fhpk0W8zjrWIjgNwKXBD8oMnB+6O4v/GYatT9bkiMxj1MqCPc/WOEDqCxSP9BxrNvJ68urzMp2r0+Bg+/stvS5dZo+4J+32hy4Va94yp5n7/sSipK+fMuHr17764WXuwQBbWBp+TYfKaCVkQweMt2DNORaW4GFsPCnB5AKSVZVAsG+xtl3sMylfeFye6FR0oK/zZM3uGCroXex9HOOP0nignawZ9nWlTRi4Tncx1/uXcnYnYQzY1S8oyv/CQ/aCDU=;EZEuLvZD8rLIAEJtHIjzFw=="
+secured: "kgrZaIHfnJ5+WFuxM+6dB+FE1JS3X0oU8GbbAzGYqGkl7O81BIIPbKB9gty6ZxJ/AbOVJrlg0dokdPoymBkkmeMkXth/3T/UohPvQ3RP/EBTEGuDERY+Ari8cQpOIGTKLhFvCu5nomReePvTXTlvD0hm8+YaqZ9xI5nWD0NAtgFPKiuiMB5gVFHGy/B56eEJ/ik9r0UXqaI1BPV8lO0ebk0pSbQZdvhFnJAnZmU1wsBSw4XTRwaDZujRwZUXobytzYRcA35lPCz2kCeV2bETKP9Xz5tLvuqyVt4jvOHaPnDep0zHRJNShassKWFo5QkWC59fpGXznISn2JaUdBjVY944BcOYyf1C3FhSRvKeL70=;NZCwxuVsWUTmnCwRhNzoiA=="
 ---
 

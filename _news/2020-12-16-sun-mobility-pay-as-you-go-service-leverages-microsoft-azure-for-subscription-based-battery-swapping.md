@@ -1,30 +1,28 @@
 ---
 category: news
-title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
-excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
-publishedDateTime: 2020-12-09T11:38:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
-webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
+title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
+excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
+publishedDateTime: 2020-12-16T06:14:00Z
+originalUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/"
+webUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/"
+ampWebUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
 type: article
-quality: 20
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://images.financialexpress.com/2020/12/sun-mobility-battery-swapping.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -103,22 +101,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
-    excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
-    publishedDateTime: 2020-12-16T06:14:00Z
-    webUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/"
-    ampWebUrl: "https://www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/electric-vehicles/sun-mobility-introduces-pay-as-you-go-battery-service-subscription-based-battery-swapping/2150483/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 42
-    images:
-      - url: "https://images.financialexpress.com/2020/12/sun-mobility-battery-swapping.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
     publishedDateTime: 2020-12-15T09:37:00Z
@@ -177,6 +159,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
+    excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
+    publishedDateTime: 2020-12-09T11:38:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
@@ -192,6 +188,6 @@ related:
         height: 785
         isCached: true
 
-secured: "XILRwKZa9rhKoqpdc49+PnmvILVY9IjibjgUC+Mb9bVZe8AKKSdnGr3HSVU+y8EvPXaVLQsymyzftbIrk/0yOO0YivCrd7nY3UmU7w8C0s/QfJg9KypS9TIgJOjl4cJlquNiKfyQLsuwOf+z7bhaDBRLDz3KNu38cCDk3QyO52P5q2D8yAYMYUH6cXw3KUmEKLP4z2wYd/oxT1BPFWuFtlyyRMj8g2JWcJucPPxZnZxRlTby5Zr3g9rJCmO3K6+PBvcbE+oyUNtsidLeh/sEPwKZ7VXfliWuYmXx2VcudR9FA/IJJIfyxBawiK4BlhpabjOC1k+YZcS4vG8h4y8jaQyU0I/oc5urnW67qiuzj8TGkrKJhEjKjUQgSaNzeYDqGwrAGqu9dUxOUhreAg4JG93zoy6gsidiMOtjHJrFf9eGjxhQQBnx5QEXlj3Lqoqwyfa9E87VR3KzRxwdIHq7fxJTuhhKYONHB3f6ChN+yEEphqXZfJ9F9nEcWuXaIvJFfLckLqjle3ZIb4XegNQTkw==;xtnIJXPOCDqqKvqpX7jqhg=="
+secured: "o5UPutH30zn3LGSxA5uEhLgvnTpmTA4bRUdVN+VJW1ofuXpp/E1pGQeM8Ny2dFzjE4IOibZgQTT7cdr8q8mo49RCokNsxzUtgDdgxdPp3o+njYa+PFpd1CDZYYLiPVyNMjIc8FxAQ2gyRoVXuCXMIKUdZvMqUvntcC+2oxCxRm79PnEGSRka2njyPe5aRoQ2sRCiON7NFAcIGaHpEbZnX1pVF+AqjB+dLR3d/gC18wt8AyaWnPFe5fi8R8q4kJ2Ns95EDMpSURqfhxluBFJF3UhsyvGl8XEVhFnP+hhVsS8YfW5Fl57iMSKPrfhpN/vi7yJ9HC2ajuILUJ52M/NNxNWjkGaJdf2ANFkIdGoWgio=;j2NkVBkv8Ka6oaYnGXVTOw=="
 ---
 

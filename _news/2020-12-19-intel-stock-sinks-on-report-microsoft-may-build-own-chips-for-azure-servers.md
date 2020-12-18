@@ -1,30 +1,28 @@
 ---
 category: news
-title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
-excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
-publishedDateTime: 2020-12-09T11:38:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
-webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
+title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
+excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
+publishedDateTime: 2020-12-18T22:41:00Z
+originalUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
 type: article
-quality: 20
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://images.barrons.com/im-275719/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -59,22 +57,6 @@ related:
       - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
         width: 1000
         height: 696
-        isCached: true
-  - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
-    excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
-    publishedDateTime: 2020-12-18T22:41:00Z
-    webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
-    images:
-      - url: "https://images.barrons.com/im-275719/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
     excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
@@ -177,6 +159,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
+    excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
+    publishedDateTime: 2020-12-09T11:38:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
@@ -192,6 +188,6 @@ related:
         height: 785
         isCached: true
 
-secured: "XILRwKZa9rhKoqpdc49+PnmvILVY9IjibjgUC+Mb9bVZe8AKKSdnGr3HSVU+y8EvPXaVLQsymyzftbIrk/0yOO0YivCrd7nY3UmU7w8C0s/QfJg9KypS9TIgJOjl4cJlquNiKfyQLsuwOf+z7bhaDBRLDz3KNu38cCDk3QyO52P5q2D8yAYMYUH6cXw3KUmEKLP4z2wYd/oxT1BPFWuFtlyyRMj8g2JWcJucPPxZnZxRlTby5Zr3g9rJCmO3K6+PBvcbE+oyUNtsidLeh/sEPwKZ7VXfliWuYmXx2VcudR9FA/IJJIfyxBawiK4BlhpabjOC1k+YZcS4vG8h4y8jaQyU0I/oc5urnW67qiuzj8TGkrKJhEjKjUQgSaNzeYDqGwrAGqu9dUxOUhreAg4JG93zoy6gsidiMOtjHJrFf9eGjxhQQBnx5QEXlj3Lqoqwyfa9E87VR3KzRxwdIHq7fxJTuhhKYONHB3f6ChN+yEEphqXZfJ9F9nEcWuXaIvJFfLckLqjle3ZIb4XegNQTkw==;xtnIJXPOCDqqKvqpX7jqhg=="
+secured: "nDuSUEf43xB8QA08G7Hfdto3qWNb0yGVlvGrGoF7igTLaqghB+dIwYr81M6uGOCklV6xiCIxby6CllTdCrQMSH3c9+Z9n+BhaQ2UizEYSXRnlW8G5mufLjnujLXvOn4Ud0WOdAtI7VvKX/NZ6y949UDqEsOiYZNdT/nu7itzeAeyyMXC2Fxhlbh1/k6YfgHOjaf0sDhjSO9yK4vJTFJS2n7HrXxAqdi+p5afJi7xF/AV3zZvkJKOzPGCD7ua2zgrMKVUixZnALpvjfiZTWwc4u087SPAFaKbDlgx0N1icBg7zd4cX0OXX3j80aDqB163+LnFjkVG2Qg74NouolDVaZ3/1g6gAwymz8QDRW9YpnA=;Q7PIpDRFbf1rZQh5bhxFQg=="
 ---
 
