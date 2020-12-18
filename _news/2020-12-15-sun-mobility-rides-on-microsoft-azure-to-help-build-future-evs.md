@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
+    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
+    publishedDateTime: 2020-12-17T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
     excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
     publishedDateTime: 2020-12-16T10:56:00Z

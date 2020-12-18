@@ -58,6 +58,17 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
+    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
+    publishedDateTime: 2020-12-17T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
     publishedDateTime: 2020-12-15T09:37:00Z

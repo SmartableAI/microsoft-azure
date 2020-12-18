@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T09:37:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
+excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
+publishedDateTime: 2020-12-17T23:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
-    width: 763
-    height: 509
-    isCached: true
+  - IoT
 
 related:
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
@@ -58,17 +53,6 @@ related:
         width: 1000
         height: 696
         isCached: true
-  - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
-    publishedDateTime: 2020-12-17T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
     excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
     publishedDateTime: 2020-12-16T10:56:00Z
@@ -84,6 +68,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T09:37:00Z
+    webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
+    ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
+        width: 763
+        height: 509
         isCached: true
   - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
     excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
@@ -156,6 +156,6 @@ related:
         height: 785
         isCached: true
 
-secured: "IQ57E8SIvxEn90hcOuUeKSrX2fM14GkJuiyjQ1u8RZtS7K8a3a6p+Ytq1tEJmOD6n5p4E2xN2tNOSI4xLj5S1GxhsxT/CH6D7adR/bGtWzvhypuqR3VVQggTVNYP2Tm2JzEdXNn1VCBtnDW0g9KUO6p36hotCioCZ5v9bB0RP5dg1RfFxv/ELA5JRJtKNL0FlpC78VoaQzSKECGDcYvcfptpzXW5rBSsdFDlh+odZmQveZ7bbtjDDHy/im0YRS3TBhcUhSyk38fUyf0bxPHWpPNrZieX07mLKLWFblrjOfiAJRuIzc1dQ/ZY+J8vq8OtLdnB3LE3qnrKVr+hZp8cz13fkpVLpb0SmmRlaGK5CJI=;0BHMGyeUZ0TyjuUancUi8Q=="
+secured: "QKkoo9jGcLj41kM/sztsxGSpxVF+1GJ34swHS0vwuaqk3IlO1bduoK03NSXvTDsCQjY4RRFomVCDesbRBXQnvT/Mo1OYf5VrLQPSI2FEgst5KVFsG3/aD1zDMN5AC6Tec+6fiw8rUVmbl7uqiGdLuNqcYfYGipKKEPKn8K6x3XDQCJIN0oLljQQlV/yjkFQrJktLl2E2CXP/JA+S+0JXH4zqutT+VdT4JHztOvwPobJTVdFGDnUjeyYOKdT40w1UslGOZ006FPFdu5LbtzpePLxhjjwa2Tcb+6b9k3yEaiBEfindgUFLkMNTYrVufhmCWBhR09F2AdYOoIRcE8Ly5RkOvUYlhkxUE12UTVidIDw=;DPANeL8b/2CwYwHQIJoc9Q=="
 ---
 
