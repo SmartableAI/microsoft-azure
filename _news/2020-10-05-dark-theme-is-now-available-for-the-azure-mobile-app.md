@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-availa
 webUrl: "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/"
 type: article
 quality: 104
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
     excerpt: "Review new Azure Advisor recommendations to help you achieve better performance."
     publishedDateTime: 2020-09-30T16:00:56Z
     webUrl: "https://azure.microsoft.com/en-us/updates/new-performance-recommendations-now-available-in-azure-advisor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Five more free services now available in the Azure free account"
+    excerpt: "Free amounts of Archive Storage, Container Registry, Load Balancer, Service Bus, and VPN Gateway are now available for eligible Azure free account users, as well as and increased free amounts of Cosmos DB. "
+    publishedDateTime: 2020-12-18T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/five-more-free-services-now-available-in-the-azure-free-account/"
     type: article
     provider:
       name: Microsoft

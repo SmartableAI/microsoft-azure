@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Five more free services now available in the Azure free account"
+    excerpt: "Free amounts of Archive Storage, Container Registry, Load Balancer, Service Bus, and VPN Gateway are now available for eligible Azure free account users, as well as and increased free amounts of Cosmos DB. "
+    publishedDateTime: 2020-12-18T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/five-more-free-services-now-available-in-the-azure-free-account/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "BOiwNMF0uEI26WNrggeg7XioEwdAAd2IuMVdKHWSKXiz1foGvkRgp7TZwqC8PDGpQvqnpbEm9lJ98+6bY8dkFiESZrGgYRJi4MLjqGk2ivGRisS5e/TLFYmBnkOF+ZyjZDJvXihT61WlgRDbeHakTPn7cj3sTPl6Wrg9Cx5nj6xYHsqxd1/ZZnrxya4OstY3IEDQVVu7ezLYi5os3ZaNDOOes9o7O37EJudB79+TSQAnhTtHNKwR9PL12kHssRUiF4zCidGopgx47Bj+39KKgWqEMNmpUIONoOnrkdvykwY28v53y8StPxVHkUTRP8zZBhsFqReap5DERXgekyC2rcwkTCM2Todv3NJ+AXKX2wQ=;PVKt7OwhzGL3kASJNmIOZg=="
 ---

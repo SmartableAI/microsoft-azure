@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
-excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
-publishedDateTime: 2020-12-03T18:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
-webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
+title: "Additional support for managed identity in Azure Stream Analytics now in public preview"
+excerpt: "Azure Stream Analytics now supports managed identity for Blob input, Event Hubs (input and output), Synapse SQL Pools and customer storage account. As a result, customers do not have to manage service-to-service credentials by themselves, and can process events when streams of data are coming from Event"
+publishedDateTime: 2020-12-18T16:49:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-in-azure-stream-analytics/"
+webUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-in-azure-stream-analytics/"
 type: article
-quality: 54
+quality: 93
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Analytics
-
-images:
-  - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
+  - Identity
 
 related:
   - title: "Harness analytical and predictive power with Azure Synapse Analytics"
@@ -173,15 +172,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Additional support for managed identity in Azure Stream Analytics now in public preview"
-    excerpt: "Azure Stream Analytics now supports managed identity for Blob input, Event Hubs (input and output), Synapse SQL Pools and customer storage account. As a result, customers do not have to manage service-to-service credentials by themselves, and can process events when streams of data are coming from Event"
-    publishedDateTime: 2020-12-18T16:49:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-in-azure-stream-analytics/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
   - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
     excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
     publishedDateTime: 2020-09-30T17:00:20Z
@@ -287,6 +277,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
+    excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
+    publishedDateTime: 2020-12-03T18:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tamr-joins-microsoft-other-leading-technology-companies-as-a-azure-synapse-analytics-launch-partner-301186087.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1157929/Tamr_Logo.jpg?p=facebook"
+        width: 1500
+        height: 785
         isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
@@ -438,6 +442,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "6Nnxg+9sZ1h9b73EFLv6IXveGIKSWZFHC/MfF52YQ28mar6xgjn89o73GS+M7KCMy1SWapegLAbiZMAF1mkYlPvoQJ7gWpGFZZztC8EcRmWjSVKvYUkpu6vdDQDnYqvj5CLOh9lQEGbggIN+WkRs22tA7WmdL/dqZL3Ylg3Rjg4Jt3dSLPKg/D/TgeGwH/G4jE1QPvddHiYmZNHvRNWZ/e1GofXB4FQbL1ZjkhBu2z4BgkUzEZoQpNOQFE3Sl6Mns81VHtvnwodVLFxJpGdlYB0nfnIj2TdU2diD8BzJ3jIpJEJpIpSsbb+tT9QBd8iBq9kh0o8hzYTUmaKoVoLlW3SXtgl9jcTahit5bzrZ9uI=;7udRofVwqC8rcS+G613oWg=="
+secured: "nQs671aKQPqTkm3mjqYI5Yh8YmRdckzBNJnpQGBJ8QX65l3AReY0n3GYIz0geLyN7n+vvb1grxN7oN6vvMhtWeqXsYNw3/Z8QeaJ1BukIeg+jAXI66N1RATnuuKn7+7e4s9VpXNtlhRTBU8ohMrdkHyljeOuxSXvXlwGbcjKh9fRFpPWvtmJ8h2PF0Yqf7Y23NPlrEAZU/LVEB8/OJNPgN+dBdvqwrLfDz4aLpyrpjWad2Dl3uwakOLwxxUBui6fad+CnttunhGKbGr3zT/MraMzcBXpFKUseJbD3ruWgSwSWQw3q7Wq+qeF297QuHNb6GIeCKjx6KtqWDUBvV4lsoXCSN9BEXmEvNQFjY8hBoQ=;Y9gYlMW5887B4dzlFWSKFA=="
 ---
 

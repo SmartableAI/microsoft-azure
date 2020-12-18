@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 85
+  - title: "Python Durable Functions support in Azure Functions is now generally available"
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
+    publishedDateTime: 2020-12-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Database for PostgreSQL—Single Server now available in the France South region"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:09Z

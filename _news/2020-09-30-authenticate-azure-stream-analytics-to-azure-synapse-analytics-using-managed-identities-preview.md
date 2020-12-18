@@ -171,6 +171,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Additional support for managed identity in Azure Stream Analytics now in public preview"
+    excerpt: "Azure Stream Analytics now supports managed identity for Blob input, Event Hubs (input and output), Synapse SQL Pools and customer storage account. As a result, customers do not have to manage service-to-service credentials by themselves, and can process events when streams of data are coming from Event"
+    publishedDateTime: 2020-12-18T16:49:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-in-azure-stream-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z

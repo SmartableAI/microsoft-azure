@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postg
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-logical-decoding-feature/"
 type: article
 quality: 85
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Databases
 
 related:
+  - title: "Python Durable Functions support in Azure Functions is now generally available"
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions."
+    publishedDateTime: 2020-12-16T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Data encryption for Azure Database for PostgreSQL—single server"
     excerpt: ""
     publishedDateTime: 2020-06-10T16:00:19Z

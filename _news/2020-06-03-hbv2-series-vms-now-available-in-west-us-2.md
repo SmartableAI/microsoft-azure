@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "HBv2-series VMs for HPC now available in the UAE North region"
+    excerpt: "."
+    publishedDateTime: 2020-12-11T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/hbv2series-vms-for-hpc-now-available-in-the-uae-north-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "HBv2-Series VMs now available in Japan East"
     excerpt: "HBv2-series VMs for HPC now available in the Japan East region."
     publishedDateTime: 2020-06-15T23:00:00Z
