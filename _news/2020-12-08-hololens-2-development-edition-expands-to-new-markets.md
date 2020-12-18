@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/hololens2-development-ed
 webUrl: "https://azure.microsoft.com/en-us/updates/hololens2-development-edition-expanded-markets/"
 type: article
 quality: 52
-heat: 72
+heat: 73
 published: true
 
 provider:

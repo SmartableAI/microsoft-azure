@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Become a certified Microsoft Azure expert with 42 hours of training for $35"
-excerpt: "StackCommerce With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training,"
-publishedDateTime: 2020-12-12T17:24:00Z
-originalUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-webUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35"
-ampWebUrl: "https://www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+excerpt: "With so many businesses setting up online in the past year, cloud engineers are in demand. The 2021 Complete Microsoft Azure Certification Prep Bundle helps you become a certified expert with 42 hours of training, and it's now just $34.99 for a limited time."
+publishedDateTime: 2020-12-13T03:43:00Z
+originalUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+webUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35"
+ampWebUrl: "https://crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
+cdnAmpWebUrl: "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/become-certified-microsoft-azure-expert-42-hours-training-35?amp"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: CrackBerry.com
+  domain: crackberry.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
-    width: 800
-    height: 533
+  - url: "https://crackberry.com/sites/crackberry.com/files/styles/large/public/field/image/2020/12/sale_148067_article_image-3gfx.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -425,6 +425,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "6NVLBxhEm76tPA/6kTRCDz7LZi+up6dBfTj4wpoIqffgRMIMUugr5ct1XPirBwDz9XSPLyM3vlfcpr4e3zGvzAUK8yKqAiZKxJSvCob5YoVnfx8+z61qNHYZOfo3nxy4WTroAeXu5XxU8duUXZ1UKWNZxWdhopSTfwlKnA02rB/Gvomx9wUcOHctvG38YPZNd/YPfFhSFeS/oKXrN/dBimerIcUpg6EqWCknpWY1uqhE6G5GvnOzcltogKTSFY9y1+qn8YiJgEln6rKjyT5uGTqsCTPqPk0XPfUezLZ7tL9/QHDAfDgfOi+qjac2a/dr5pOwndMWj7MckxBfP5scat5jpPAw3QvNluKAIVGc9Rt2EA/VSvwc02jaOf51IHPEwVgby0b/W6mawjH4qsLLQlcQ1kIonBbAbWDY/M5QBuzfhPGD9dyI9n237Le+OIh6EcIhAG9mJWEsD8H0BSWphpnHpi2sn3mkGBqnYY4byhXBMIkcArcOYHvdZs7aX1SRWzo9vJew7Z7mcBrufGr+wg==;p3e0cRYwViuhBEkWUS8DSw=="
+secured: "GQsP7cMGulL3cOgTv4bkHqqUhmMr7NJff6bdfkqqQn4ewE052SYQFMNT90ib8Rb0eHOu9IAnz9dD6T/0wMViuJWW9evpYQOs2cZdDG7dbR5yDwK4zdqaWLr4G3Jly0v1x53sCL+vGLnA6gbgOKzB0IVUxkPQjeKx/OQUvL15dw+jWnhozZhEX3YkuFFTKszWy8fNES1p3/FsKYxuKzs9Gl3kv1GdOYJgf4rDzp0NENLRXPbESQ6/PqshWNm1s8dw0JREEKqMStCA2sTyIGYAwsWUdD8H4kRcn4azu+EZ0W97+D1w3YDTHN7Lgx7Zi6Ye+niIzazz1cAxLUlS4vRdCTYLzuee2E864VakAn3TRyU=;juM6a9uki663aRLyINoaXg=="
 ---
 
