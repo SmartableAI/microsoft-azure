@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-no
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
 type: article
 quality: 64
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - Azure
 
 related:
+  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+    excerpt: "Native Technology from JetStream Software Delivers Cost-Efficiency and Continuous Data Protection on Microsoft Azure."
+    publishedDateTime: 2020-12-17T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
   - title: "New Azure VMware Solution is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:35Z
