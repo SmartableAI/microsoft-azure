@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 10650,
-            "average": 4.7838497
+            "count": 10661,
+            "average": 4.783885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 5243,
-            "average": 4.8098416
+            "count": 5247,
+            "average": 4.809796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 2567,
-            "average": 4.8083367
+            "count": 2568,
+            "average": 4.808411
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 5243,
-        "average": 4.8098416
+        "count": 5247,
+        "average": 4.809796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,12 +221,16 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure.md",
-      "title": "Migrate ASP.NET Apps to Azure",
-      "excerpt": "Migrate ASP.NET web applications and their data to Azure App Service and Azure SQL Database to take advantage of the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-aspnet-apps-to-azure/",
-      "length": "PT2H0M",
+      "path": "_learning/courses/microsoft-learn-interactive-deep-learning.md",
+      "title": "Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine",
+      "excerpt": "Learn to train deep learning models with Jupyter, PyTorch and the Data Science Virtual Machine.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-interactive-deep-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/interactive-deep-learning/",
+      "length": "74 mins",
+      "ratings": {
+        "count": 65,
+        "average": 4.6923075
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -240,107 +244,24 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-app-service-migration-assistant.md",
-          "title": "Migrate an on-premises web application to Azure App Service",
-          "excerpt": "Use the Azure App Service Migration Assistant to assess the readiness of a web app to be deployed on App Service, and perform the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-app-service-migration-assistant/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 68,
-            "average": 4.6911764
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 1069,
-            "average": 4.4293733
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 130,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 2,
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/interactive-deep-learning-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Interactive deep learning with Jupyter, Docker and PyTorch on the Data Science Virtual Machine",
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Compute",
-        "Web"
+        "Compute"
       ]
     },
     {
@@ -374,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 10650,
-            "average": 4.7838497
+            "count": 10661,
+            "average": 4.783885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2225,
-            "average": 4.723146
+            "count": 2229,
+            "average": 4.723643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -462,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1904,
-            "average": 4.7741594
+            "count": 1905,
+            "average": 4.774278
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -507,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1447,
-            "average": 4.7691774
+            "count": 1448,
+            "average": 4.769337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -599,8 +520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 10650,
-            "average": 4.7838497
+            "count": 10661,
+            "average": 4.783885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1425,
-            "average": 4.76
+            "count": 1427,
+            "average": 4.7596354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -684,8 +605,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1125,
-            "average": 4.718222
+            "count": 1130,
+            "average": 4.719469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -727,8 +648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 968,
-            "average": 4.7592974
+            "count": 973,
+            "average": 4.758479
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -855,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 138195,
-            "average": 4.6999383
+            "count": 138196,
+            "average": 4.6999407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +893,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 1904,
-        "average": 4.7741594
+        "count": 1905,
+        "average": 4.774278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1510,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13715,
-            "average": 4.712067
+            "count": 13716,
+            "average": 4.712088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1705,8 +1626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13715,
-            "average": 4.712067
+            "count": 13716,
+            "average": 4.712088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1828,8 +1749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2824,
-            "average": 4.7248583
+            "count": 2825,
+            "average": 4.7249556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1951,8 +1872,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13715,
-            "average": 4.712067
+            "count": 13716,
+            "average": 4.712088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2015,8 +1936,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 833,
-        "average": 4.7647057
+        "count": 834,
+        "average": 4.764988
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2121,8 +2042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13715,
-            "average": 4.712067
+            "count": 13716,
+            "average": 4.712088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2316,8 +2237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13715,
-            "average": 4.712067
+            "count": 13716,
+            "average": 4.712088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2475,8 +2396,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6666,
-            "average": 4.757876
+            "count": 6667,
+            "average": 4.757912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2598,8 +2519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8239,
-            "average": 4.6463165
+            "count": 8240,
+            "average": 4.646238
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2886,8 +2807,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6666,
-            "average": 4.757876
+            "count": 6667,
+            "average": 4.757912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3009,8 +2930,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8239,
-            "average": 4.6463165
+            "count": 8240,
+            "average": 4.646238
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3096,8 +3017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1904,
-            "average": 4.7741594
+            "count": 1905,
+            "average": 4.774278
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3719,8 +3640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2224,
-            "average": 4.6632195
+            "count": 2226,
+            "average": 4.6635222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4176,8 +4097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1474,
-            "average": 4.7286296
+            "count": 1475,
+            "average": 4.7281356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4219,8 +4140,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2949,
-            "average": 4.727365
+            "count": 2950,
+            "average": 4.7267795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4385,8 +4306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1474,
-            "average": 4.7286296
+            "count": 1475,
+            "average": 4.7281356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4428,8 +4349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2949,
-            "average": 4.727365
+            "count": 2950,
+            "average": 4.7267795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4631,8 +4552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3074,
-            "average": 4.669161
+            "count": 3075,
+            "average": 4.668943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4753,8 +4674,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1629,
-            "average": 4.590546
+            "count": 1630,
+            "average": 4.5907974
           },
           "provider": {
             "name": "Microsoft Learn",
