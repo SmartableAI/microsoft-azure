@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
-      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
-      "length": "PT1H6M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
+      "title": "Describe Azure Databricks Delta Lake architecture",
+      "excerpt": "Describe Azure Databricks Delta Lake architecture",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "length": "PT33M",
       "ratings": {
-        "count": 222,
-        "average": 4.581081
+        "count": 93,
+        "average": 4.5591397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -43,9 +43,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
         "Analytics",
-        "Storage"
+        "AI"
       ]
     },
     {
@@ -79,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 10541,
-            "average": 4.783797
+            "count": 10549,
+            "average": 4.7839603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2188,
-            "average": 4.7216635
+            "count": 2194,
+            "average": 4.721969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1879,
-            "average": 4.7738156
+            "count": 1884,
+            "average": 4.7733545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1419,
-            "average": 4.769556
+            "count": 1421,
+            "average": 4.7684727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -281,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 2188,
-        "average": 4.7216635
+        "count": 2194,
+        "average": 4.721969
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2054,
-            "average": 4.604187
+            "count": 2055,
+            "average": 4.603893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2188,
-            "average": 4.7216635
+            "count": 2194,
+            "average": 4.721969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +634,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3595,
-            "average": 4.583032
+            "count": 3596,
+            "average": 4.583148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -959,8 +958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 538,
-            "average": 4.5148697
+            "count": 539,
+            "average": 4.5139146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1178,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 538,
-            "average": 4.5148697
+            "count": 539,
+            "average": 4.5139146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3058,8 +3057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 1152,
-        "average": 4.829861
+        "count": 1153,
+        "average": 4.8300085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3306,8 +3305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 538,
-        "average": 4.5148697
+        "count": 539,
+        "average": 4.5139146
       },
       "provider": {
         "name": "Microsoft Learn",
