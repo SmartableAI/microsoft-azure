@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-no
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
 type: article
 quality: 64
-heat: 104
+heat: 105
 published: true
 
 provider:
