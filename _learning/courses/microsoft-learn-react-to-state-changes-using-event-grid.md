@@ -8,7 +8,7 @@ length: PT33M
 ratings:
   count: 345
   average: 4.5855074
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "c00ReLJdwvoqITKuN9Qv604qS5b/dqLj0t6Y1o7srFLcEIsCm/blQh5nbQ5t0yWGDf8kW+ICQq29KCSH/eMxsJ0M8FI5AaSQCQucitJTkSm3slJFQSFRnPfZ2F7fLle6zuS9cXDFHOIVZqblIkqeoTJ0rYWYHIXnSX+15tIU6RSL7s4d+ptHYoJqnTq01Yh9WN6/Oc0HwbZ7p0CRgTvz9HenHupc52e4m/K8l4Grhu5evlY06RmLgW6OYzk9zpIRCe6gn0S7lozGKoM5o3xZ2HjHJbmjgMh/GJBGCrTLuBrZeYet65YUaVK79QZZxFUp9xa4582SYuMFVckJDl3xoZL14VbScbyDbuRijeokTykssm5ERNbXyPUhKq2wY08NzmgSXcjHISjdclulloEhQ6npDnsPTgDjw8g5Ms3GdIA=;G2hSMRpOa4djKOGSu/fMEA=="
+secured: "7+S2llfi9yiC0iywdw7FeIJ4+kTVUs0stSFVPP9tK8ZTLa81Ae8I7lNL9MnimxYIXQgIKlkYPWScS8wehG3SfRvRWJSeyR6Gm2OC0tXdyw/ecyRttz7t59RWwKDIc8cKup/JpGPysFghokyHR+/Rsudv43nfKcw2xdzED3AAmjqfGd/WkT/2XNTrhy241g4dX/2V6RFAygTKAdr8dDegkqx66qaQxmvrY7gq0U/+PC3priwqVyb4TJL/1/bV/AluTIbtM7+oeyF/u9l16PdrrPClLi1E1OVpkw6MVbbJNZPgKCcjimIH2wqo0Nm0RJdjh5qEGhSDxxmGXfldJJ3oYds+Dn53MTiceyPEJmHvjbXJIJxMk0maSDSfZ+E5gw9F08Wy1oYDTpwkP1r7OmbA0OMtWVpCtDA2slnss9aN6L4=;cIU37S1g2oHTU76VWXG0Og=="
 ---
 

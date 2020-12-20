@@ -4,6 +4,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 645,
+        "average": 4.6899223
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +83,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 10670,
-            "average": 4.7839737
+            "count": 10684,
+            "average": 4.7838826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +101,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 166,
+          "heat": 144,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2232,
-            "average": 4.7240143
+            "count": 2233,
+            "average": 4.724138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +143,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 94,
+          "heat": 85,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -122,8 +171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 1908,
-            "average": 4.774633
+            "count": 1911,
+            "average": 4.7749867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -140,7 +189,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 92,
+          "heat": 81,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
@@ -167,8 +216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1449,
-            "average": 4.7694964
+            "count": 1452,
+            "average": 4.7699723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -185,7 +234,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 79,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
@@ -204,7 +253,7 @@
         }
       ],
       "size": 5,
-      "heat": 112,
+      "heat": 102,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -236,8 +285,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 1490,
-        "average": 4.6610737
+        "count": 1493,
+        "average": 4.661755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,7 +303,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 84,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png",
@@ -355,7 +404,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 65,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -390,7 +439,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -425,7 +474,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -436,7 +485,7 @@
         }
       ],
       "size": 9,
-      "heat": 78,
+      "heat": 69,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -534,7 +583,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 65,
+          "heat": 58,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -569,7 +618,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -604,7 +653,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -615,7 +664,7 @@
         }
       ],
       "size": 9,
-      "heat": 78,
+      "heat": 69,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -660,8 +709,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 5587,
-            "average": 4.6078396
+            "count": 5588,
+            "average": 4.607552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -678,7 +727,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
@@ -721,7 +770,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
@@ -764,7 +813,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
@@ -808,7 +857,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
@@ -827,7 +876,7 @@
         }
       ],
       "size": 12,
-      "heat": 66,
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
@@ -842,205 +891,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
-      "title": "Architect secure infrastructure in Azure",
-      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
-      "length": "PT6H37M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
-          "title": "Resolve security threats with Azure Security Center",
-          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1171,
-            "average": 4.5695987
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-          "title": "Secure your Azure virtual machine disks",
-          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-          "length": "PT1H1M",
-          "ratings": {
-            "count": 2812,
-            "average": 4.667141
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Storage",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-          "title": "Manage secrets in your server apps with Azure Key Vault",
-          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 1620,
-            "average": 4.6012344
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
-          "title": "Secure your Azure resources with role-based access control (RBAC)",
-          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 5484,
-            "average": 4.661196
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Networking",
-        "Security",
-        "Databases"
       ]
     },
     {
@@ -1092,7 +942,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1128,7 +978,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
@@ -1171,7 +1021,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
@@ -1214,7 +1064,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
@@ -1301,7 +1151,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1337,7 +1187,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
@@ -1380,7 +1230,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
@@ -1423,7 +1273,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
@@ -1548,7 +1398,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1584,7 +1434,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
@@ -1667,12 +1517,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
-      "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
-      "excerpt": "Sustainably achieve the appropriate level of reliability in your systems, services, and products and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/",
-      "length": "PT7H46M",
+      "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
+      "title": "Architect secure infrastructure in Azure",
+      "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure/",
+      "length": "PT6H37M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -1686,140 +1536,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
-          "title": "Introduction to Site Reliability Engineering (SRE)",
-          "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-site-reliability-engineering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
-          "length": "PT55M",
+          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
+          "title": "Resolve security threats with Azure Security Center",
+          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
+          "length": "PT44M",
           "ratings": {
-            "count": 631,
-            "average": 4.7305865
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 1981,
-            "average": 4.6456337
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 1525,
-            "average": 4.6445904
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
-          "title": "Manage site reliability",
-          "excerpt": "Learn how to manage site reliability.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 383,
-            "average": 4.6814623
+            "count": 1171,
+            "average": 4.5695987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1836,12 +1565,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-              "width": 1000,
-              "height": 500,
+              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -1849,7 +1578,118 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "DevOps"
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+          "title": "Secure your Azure virtual machine disks",
+          "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 2812,
+            "average": 4.667141
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Storage",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
+          "title": "Manage secrets in your server apps with Azure Key Vault",
+          "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 1620,
+            "average": 4.6012344
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+          "title": "Secure your Azure resources with role-based access control (RBAC)",
+          "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 5485,
+            "average": 4.6612577
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Identity"
           ]
         }
       ],
@@ -1857,7 +1697,7 @@
       "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1868,10 +1708,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
+        "Compute",
         "Management Tools",
         "Networking",
-        "Compute"
+        "Security",
+        "Databases"
       ]
     },
     {
@@ -1965,7 +1806,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
@@ -2009,7 +1850,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
@@ -2051,7 +1892,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -2077,7 +1918,7 @@
         }
       ],
       "size": 6,
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
@@ -2100,6 +1941,214 @@
         "Identity",
         "Compute",
         "Migration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
+      "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
+      "excerpt": "Sustainably achieve the appropriate level of reliability in your systems, services, and products and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/",
+      "length": "PT7H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
+          "title": "Introduction to Site Reliability Engineering (SRE)",
+          "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-site-reliability-engineering/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 631,
+            "average": 4.7305865
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
+          "title": "Improve incident response with alerting on Azure",
+          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 1981,
+            "average": 4.6456337
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1525,
+            "average": 4.6445904
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
+          "title": "Manage site reliability",
+          "excerpt": "Learn how to manage site reliability.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 383,
+            "average": 4.6814623
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Networking",
+        "Compute"
       ]
     },
     {
@@ -2128,7 +2177,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 60,
+      "heat": 58,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -2145,8 +2194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 5587,
-        "average": 4.6078396
+        "count": 5588,
+        "average": 4.607552
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2163,7 +2212,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 57,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
@@ -2206,7 +2255,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
@@ -2224,15 +2273,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
-      "title": "Manage and control traffic flow in your Azure deployment with routes",
-      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
+      "title": "Load balance your web service traffic with Application Gateway",
+      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
+      "length": "PT1H32M",
       "ratings": {
-        "count": 2033,
-        "average": 4.6340384
+        "count": 2268,
+        "average": 4.585538
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2252,7 +2301,7 @@
       "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2263,20 +2312,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
         "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
-      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
-      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
-      "length": "PT29M",
+      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
+      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
+      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
+      "length": "PT42M",
       "ratings": {
-        "count": 2316,
-        "average": 4.5738344
+        "count": 2950,
+        "average": 4.7267795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2293,10 +2341,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2336,61 +2384,25 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines.md",
-      "title": "Configure the network for your virtual machines",
-      "excerpt": "Learn how to connect your local on-premises networks into Azure using virtual networks, VPN gateways, and Azure ExpressRoute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-the-network-for-your-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
-      "length": "PT1H34M",
-      "ratings": {
-        "count": 3960,
-        "average": 4.5578284
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
       "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
         "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
-      "title": "Design an IP addressing schema for your Azure deployment",
-      "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+      "length": "PT43M",
       "ratings": {
-        "count": 1475,
-        "average": 4.7281356
+        "count": 6923,
+        "average": 4.6507297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2410,7 +2422,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2421,7 +2433,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Networking",
+        "Security"
       ]
     },
     {
@@ -2465,6 +2478,93 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-control-network-traffic-flow-with-routes.md",
+      "title": "Manage and control traffic flow in your Azure deployment with routes",
+      "excerpt": "Learn how to control Azure virtual network traffic by implementing custom routes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-network-traffic-flow-with-routes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2033,
+        "average": 4.6340384
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-network-traffic-flow-with-routes-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
+      "title": "Host your domain on Azure DNS",
+      "excerpt": "Learn how to host your domain on Azure DNS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 2725,
+        "average": 4.8227525
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
@@ -2490,7 +2590,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -2515,15 +2615,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-hybrid-network-architecture.md",
-      "title": "Design a hybrid network architecture on Azure",
-      "excerpt": "You have a traditional on-premises infrastructure that you need to connect to resources in Azure. In this module, you learn how to select a connectivity method for your use cases that balances functionality, cost, and security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-hybrid-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
-      "length": "PT47M",
+      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
+      "title": "Design an IP addressing schema for your Azure deployment",
+      "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
+      "length": "PT37M",
       "ratings": {
-        "count": 1309,
-        "average": 4.6401834
+        "count": 1475,
+        "average": 4.7281356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2540,10 +2640,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-network-architecture-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2558,15 +2658,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
-      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
-      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
-      "length": "PT36M",
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
       "ratings": {
-        "count": 1313,
-        "average": 4.6572733
+        "count": 2316,
+        "average": 4.5738344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2581,12 +2681,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2626,53 +2726,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/improve-app-scalability-resiliency-with-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-      "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-      "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 2950,
-        "average": 4.7267795
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2712,7 +2769,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-azure-network-infrastructure-social.png",
@@ -2730,15 +2787,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
+      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
+      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
+      "length": "PT1H38M",
       "ratings": {
-        "count": 645,
-        "average": 4.6899223
+        "count": 447,
+        "average": 4.6510067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2753,14 +2810,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -2769,28 +2826,22 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Databases",
+        "DevOps",
         "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
+        "Networking"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
-      "title": "Host your domain on Azure DNS",
-      "excerpt": "Learn how to host your domain on Azure DNS.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 2725,
-        "average": 4.8227525
-      },
+      "path": "_learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration.md",
+      "title": "Azure Friday | Azure CDN: Dynamic Site Acceleration",
+      "excerpt": "Richard Li joins Scott Hanselman to discuss the new Dynamic Site Acceleration (DSA) optimization for Azure CDN, and how it can be used in combination with standard CDN caching features to measurably improve the performance of web pages with dynamic content.   For more information, see:  Dynamic Site",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/",
+      "originalUrl": "https://youtube.com/watch?v=IOt_POy3k60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IOt_POy3k60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -2801,20 +2852,18 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2017-11-20T10:16:18-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/IOt_POy3k60/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
@@ -2822,18 +2871,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway.md",
-      "title": "Load balance your web service traffic with Application Gateway",
-      "excerpt": "Improve application resilience by distributing load across multiple servers and use path-based routing to direct web traffic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-balance-web-traffic-with-application-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
-      "length": "PT1H32M",
-      "ratings": {
-        "count": 2268,
-        "average": 4.585538
-      },
+      "path": "_learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday.md",
+      "title": "How to defend against denial of service attacks with Azure DDoS Protection | Azure Friday",
+      "excerpt": "Distributed denial of service (DDoS) attacks are rampant and it's not a question of if a business will be impacted but when. Anupam Vij shows Scott Hanselman how Azure DDoS Protection Standard can protect your applications against targeted DDoS attacks and why it is critical for every business running",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=D0vR6YNRCww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0vR6YNRCww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M57S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -2844,63 +2891,18 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2019-10-31T23:58:56-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/load-balance-web-traffic-with-application-gateway-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/D0vR6YNRCww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-      "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-      "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 6923,
-        "average": 4.6507297
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",

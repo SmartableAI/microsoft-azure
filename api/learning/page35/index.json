@@ -4,6 +4,260 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
+      "title": "Secure a data warehouse in Azure Synapse Analytics",
+      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-responsible-conversational-ai.md",
+      "title": "Discover Microsoft safety guidelines for responsible conversational AI development",
+      "excerpt": "Learn Microsoft development guidelines for fair and secure responsible conversational AI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-responsible-conversational-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-responsible-conversational-ai/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 8,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-responsible-conversational-ai-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
+      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
+      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 992,
+        "average": 4.649194
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-securing-you-basics-beyond.md",
+      "title": "Securing you: Basics and beyond",
+      "excerpt": "Learn how to secure yourself from common online threats and protect your identity at work and home.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-securing-you-basics-beyond/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securing-you-basics-beyond/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 17,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/security/securing-you-basics-beyond-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 11,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio.md",
+      "title": "Share your location as a text message using Azure Functions and Twilio",
+      "excerpt": "Learn how to use location tracking on your phone mixed with Azure Functions and Twilio to share your location with your friends as a text message.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-using-azure-functions-twilio/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 33,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-serve-data-from-azure-synapse-serverless-sql-pool.md",
       "title": "Serve the data from Azure Synapse serverless SQL pool",
       "excerpt": "Serve the data from Azure Synapse serverless SQL pool",
@@ -216,48 +470,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace.md",
-      "title": "Simplify cloud procurement and governance with Azure Marketplace",
-      "excerpt": "Overview of using Azure Marketplace for cloud procurement and governance for customers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 14,
-        "average": 4.928571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
       "title": "Simulate the distribution of regression coefficients",
       "excerpt": "Learn",
@@ -452,49 +664,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
-      "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
-      "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1844,
-        "average": 4.5173535
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
       "title": "Start the machine learning lifecycle with MLOps",
       "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
@@ -535,93 +704,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-graph-api.md",
-      "title": "Store and access graph data in Azure Cosmos DB with the Graph API",
-      "excerpt": "Find out about creating an application with Azure Cosmos DB as a graph database, then retrieve, manipulate, and visualize graph data using Data Explorer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-graph-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 1535,
-        "average": 4.651466
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-with-cosmos-db-and-the-graph-api-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-table-api.md",
-      "title": "Store and Access NoSQL Data with Azure Cosmos DB and the Table API",
-      "excerpt": "By using the Azure Cosmos DB Table API, you will benefit from the low latency, high availability, and scalability of Azure Cosmos DB in a Table storage application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-table-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 1383,
-        "average": 4.6008677
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-cosmos-db-table-api-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
       ]
     },
     {
@@ -1004,6 +1086,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
+      "title": "Introduction to threat modeling",
+      "excerpt": "Explore the four high-level steps of threat modeling.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 437,
+        "average": 4.729977
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
       "title": "Prioritize your issues and apply security controls",
       "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
@@ -1011,8 +1137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 230,
-        "average": 4.6826086
+        "count": 231,
+        "average": 4.683983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,137 +1251,6 @@
         "Azure",
         "IoT",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-local-model-with-azure-mls.md",
-      "title": "Train a machine learning model with Azure Machine Learning",
-      "excerpt": "Learn how to use Azure Machine Learning to train a model and register it in a workspace.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-local-model-with-azure-mls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1559,
-        "average": 4.594612
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-local-model-with-azure-mls-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
-      "title": "Train a machine learning model",
-      "excerpt": "Train a machine learning model",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 27,
-        "average": 4.814815
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge.md",
-      "title": "Train and package an Azure machine learning module for deployment to IoT Edge device",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 145,
-        "average": 4.4068966
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/train-and-package-an-azure-machine-learning-module-for-deployment-to-iot-edge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "AI"
       ]
     }
   ],

@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-      "title": "Design your migration to Azure",
-      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
+      "title": "Microsoft Azure Well-Architected Framework - Reliability",
+      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
+      "length": "PT59M",
       "ratings": {
-        "count": 2226,
-        "average": 4.6635222
+        "count": 645,
+        "average": 4.6899223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,56 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 70,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Management Tools",
+        "Migration",
+        "Networking",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+      "title": "Design your migration to Azure",
+      "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 2228,
+        "average": 4.6633754
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 66,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -77,8 +126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6667,
-            "average": 4.757912
+            "count": 6668,
+            "average": 4.7577987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -131,7 +180,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -175,7 +224,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
@@ -218,7 +267,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -237,7 +286,7 @@
         }
       ],
       "size": 9,
-      "heat": 67,
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -287,8 +336,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6667,
-            "average": 4.757912
+            "count": 6668,
+            "average": 4.7577987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -341,7 +390,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -385,7 +434,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
@@ -428,7 +477,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -447,7 +496,7 @@
         }
       ],
       "size": 10,
-      "heat": 67,
+      "heat": 64,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/choose-the-right-disk-storage-for-vm-workload-social.png",
@@ -497,8 +546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2226,
-            "average": 4.6635222
+            "count": 2228,
+            "average": 4.6633754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,7 +564,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 70,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -558,7 +607,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
@@ -601,7 +650,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
@@ -644,7 +693,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
@@ -666,7 +715,7 @@
         }
       ],
       "size": 9,
-      "heat": 63,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -737,7 +786,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -782,7 +831,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
@@ -825,7 +874,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
@@ -888,7 +937,7 @@
         }
       ],
       "size": 9,
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1000,7 +1049,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
@@ -1044,7 +1093,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
@@ -1086,7 +1135,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -1112,7 +1161,7 @@
         }
       ],
       "size": 6,
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
@@ -1186,7 +1235,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1231,7 +1280,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
@@ -1274,7 +1323,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
@@ -1337,7 +1386,7 @@
         }
       ],
       "size": 9,
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
@@ -1583,6 +1632,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 232,
+        "average": 4.7198277
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
       "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
       "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
@@ -1608,189 +1701,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 645,
-        "average": 4.6899223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
-      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
-      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 569,
-        "average": 4.652021
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
-      "title": "Prepare on-premises workloads for migration to Azure",
-      "excerpt": "Prepare on-premises workloads for migration to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 167,
-        "average": 4.6467066
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
-      "title": "Protect your Azure infrastructure with Azure Site Recovery",
-      "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 978,
-        "average": 4.534765
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1965,50 +1879,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Migration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
-      "title": "Introduction to open-source database migration on Azure",
-      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 232,
-        "average": 4.7198277
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2201,6 +2071,136 @@
         "Compute",
         "Migration",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-move-data-with-azure-data-box.md",
+      "title": "Move large amounts of data to the cloud by using Azure Data Box family",
+      "excerpt": "Learn how to move large amounts of data to the cloud by using Azure Data Box devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-move-data-with-azure-data-box/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 569,
+        "average": 4.652021
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/move-data-with-azure-data-box-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
+      "title": "Prepare on-premises workloads for migration to Azure",
+      "excerpt": "Prepare on-premises workloads for migration to Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 167,
+        "average": 4.6467066
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
+      "title": "Protect your Azure infrastructure with Azure Site Recovery",
+      "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 978,
+        "average": 4.534765
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Migration"
       ]
     },
     {

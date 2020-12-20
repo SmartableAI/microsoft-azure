@@ -8,7 +8,7 @@ length: PT1H10M
 ratings:
   count: 3023
   average: 4.579557
-heat: 54
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Storage
 
-secured: "v5D3mZY/Tihj+ypa7JEJCA6uWn/Nx/CS+hxB0zLZMpIQJaEwthdlXE47dgg9yPEVdTZoeHSJuGMNQiaII/UmbcMueq+yprsQy5ZpWdwIfJw7iaeh+198CDeWCJlv7jV0QIxVPH2EXnGjqXhoFVZuAlg5Ly8vX93cwmUcrp/1mhP+UQcoULnK4FGcSpxJnMCpfQpevxacw49xhtTNsp90HAiFVAQVIuzVMnWiL/e8OV3KMeQpz07KCElfPavfHOvYUqY7T61yK0AgqzkTc7Gef7vZhZHILq5tMpKh94G1QmbYBp7DBFi72xeKFz8hyOTI6x5rc41XgEVqbcAWTclhfPlWN/KUKryNt3YSVwmxpTpd5WLFf0P2yQvvPTFFWX30dQNPjHuG7gZTBgLz4c7nKhElZ5gCZJILebg+nWQIJ4Y=;7RVqEfdGoJ0PfkfSaWzV2g=="
+secured: "crxRyyRVw2/PY980Ehm+hLFvXQV5Xp73wGvXQxfua3UiaTjj0jCMfSqUV09DgYOZGHV4ny4YaFSEl/DbQRqTUAJTUwmPURyXku6kWmGtvXg52jxvHqzhlQ+nUI4tP/xqBeY3Gv0ymod0zloAaS0rxV/Dup70ZKXO945d1mz/14B4xjURl9V97XKHxfZnkOYB8kq0iR049RRACC1zrs3UwZkh3H3/q935Y+7fu3iRhGaJnObXAY2fhCQKqCkVeMUJ0LtEKRlMUlxuogzfLTCybVSgaKUUqOzddElgPOb30E12Ch/hIbwXXWWE0eMBQUEL6hUw0hW+c2AWJeyyA5UDNTk2ff7XDDLJaaRlTG2yq3NsndniMsrdR/4zTxH5lvpHZxV/A7tS8SPjVm1N9gtSYLDv6QOnlGakye5Ne35FaFI=;Kp8QG81M7kTnVRrT49xkUw=="
 ---
 

@@ -4,354 +4,15 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-version-control-with-git.md",
-      "title": "Introduction to version control with Git",
-      "excerpt": "Git is the leading version control tool and essential for developers. Learn how to leverage Git to track your own changes and collaborate with others.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-version-control-with-git/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-version-control-with-git/",
-      "length": "PT3H0M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-git.md",
-          "title": "Introduction to Git",
-          "excerpt": "Use Git to track changes and collaborate with other developers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-git/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 535,
-            "average": 4.7570095
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-collaborate-with-git.md",
-          "title": "Collaborate with Git",
-          "excerpt": "Use Git to track changes to source code and collaborate with other developers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-collaborate-with-git/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 326,
-            "average": 4.665644
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/collaborate-with-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-branch-merge-git.md",
-          "title": "Edit code through branching and merging in Git",
-          "excerpt": "Level up your Git knowledge by learning about how to keep code separate using branches and how to merge them later",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-branch-merge-git/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/branch-merge-git/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 281,
-            "average": 4.5907474
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/branch-merge-git-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-plan-and-implement-data-platform-resources.md",
-      "title": "Plan and implement data platform resources",
-      "excerpt": "Deploy data platform resources in Azure for SQL Server and Open Source databases. Explore options for upgrade and migration.  Calculate resource requirements and create templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-and-implement-data-platform-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-and-implement-data-platform-resources/",
-      "length": "PT2H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
-          "title": "Deploy SQL Server in a virtual machine",
-          "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 2742,
-            "average": 4.7826405
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
-          "title": "Deploy Azure SQL Database",
-          "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-sql-database/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 2073,
-            "average": 4.7978773
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-azure-sql-database-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
-          "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
-          "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 2390,
-            "average": 4.7782426
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api.md",
-      "title": "Insert and query data in your Azure Cosmos DB database",
-      "excerpt": "Discover the Azure Cosmos DB Data Explorer tool that enables you to add or modify data. Create stored procedures in JavaScript.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-data-with-cosmos-db-and-sql-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
-      "length": "PT58M",
+      "path": "_learning/courses/microsoft-learn-create-nodejs-project-dependencies.md",
+      "title": "Create a new Node.js project and work with dependencies",
+      "excerpt": "Create a Node.js project and learn to add packages and manage package dependencies in your project. Use the NPM CLI and registry to add libraries and tools to your JavaScript/TypeScript applications using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-nodejs-project-dependencies/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
+      "length": "PT25M",
       "ratings": {
-        "count": 2683,
-        "average": 4.645546
+        "count": 279,
+        "average": 4.767025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -369,46 +30,10 @@
         "Beginner"
       ],
       "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-add-conversational-intelligence-luis.md",
-      "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-      "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-conversational-intelligence-luis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 48,
-        "average": 4.7708335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
-          "width": 643,
+          "url": "https://docs.microsoft.com/learn/achievements/create-nodejs-project-dependencies-social.png",
+          "width": 642,
           "height": 321,
           "isCached": true
         }
@@ -417,897 +42,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-      "title": "Deploy a containerized application on Azure Kubernetes Service",
-      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7727275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks.md",
-      "title": "Analyze climate data with Azure Notebooks",
-      "excerpt": "Create an Azure Notebook and use three popular Python libraries to analyze climate data collected by NASA, then share it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-climate-data-with-azure-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-climate-data-with-azure-notebooks/",
-      "length": "45 mins",
-      "ratings": {
-        "count": 1912,
-        "average": 4.714958
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/analyze-climate-data-with-azure-notebooks-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Analyze climate data with Azure Notebooks",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
-      "title": "Microsoft Azure IoT strategy and solutions",
-      "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 5971,
-        "average": 4.736225
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-reliability.md",
-      "title": "Microsoft Azure Well-Architected Framework - Reliability",
-      "excerpt": "Learn how to recover from infrastructure and service failure, loss of data, and disasters by incorporating reliability into your architecture.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-reliability/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 645,
-        "average": 4.6899223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-reliability-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "Migration",
-        "Networking",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
-      "title": "Build and query a Delta Lake",
-      "excerpt": "Build and query a Delta Lake",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 122,
-        "average": 4.647541
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
-      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-      "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 1374,
-        "average": 4.636827
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-      "title": "Deploy a Java web app to Azure",
-      "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
-      "title": "Caching and performance in Azure storage disks",
-      "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1749,
-        "average": 4.6855345
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-capture-page-load-times-application-insights.md",
-      "title": "Capture and view page load times in your Azure web app with Application Insights",
-      "excerpt": "In this module, you'll configure Application Insights and use it to study page load data for an Azure web app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-page-load-times-application-insights/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 605,
-        "average": 4.540496
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-cloud-economics.md",
-      "title": "Economics of cloud computing",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers pay to use the cloud and how cloud providers are able to charge for their services. Get an overview of how the cloud is kept secure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-economics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-economics/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 90,
-        "average": 4.588889
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/economics-of-the-cloud-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-collaborate-with-git.md",
-      "title": "Collaborate with Git",
-      "excerpt": "Use Git to track changes to source code and collaborate with other developers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-collaborate-with-git/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 326,
-        "average": 4.665644
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/collaborate-with-git-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
-      "title": "Configure and manage secrets in Azure Key Vault",
-      "excerpt": "Configure and manage secrets in Azure Key Vault",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2047,
-        "average": 4.6116266
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines.md",
-      "title": "Configure infrastructure in Azure Pipelines",
-      "excerpt": "Run configuration management tools in Azure Pipelines to help keep your infrastructure configured as you need.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-infrastructure-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-infrastructure-azure-pipelines/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 400,
-        "average": 4.57
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/configure-infrastructure-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-security-policies-to-manage-data.md",
-      "title": "Configure security policies to manage data",
-      "excerpt": "Learn how to set up policies to classify, retain, and protect your cloud-based data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-security-policies-to-manage-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 2055,
-        "average": 4.603893
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-vm-with-azure-bastion.md",
-      "title": "Connect to virtual machines through the Azure portal by using Azure Bastion",
-      "excerpt": "Learn how to deploy Azure Bastion to securely connect to Azure Virtual Machines directly within the Azure portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-vm-with-azure-bastion/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 83,
-        "average": 4.554217
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-vm-with-azure-bastion-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Introduction to Azure Database for PostgreSQL",
-      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 1968,
-        "average": 4.634146
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-cosmos-db-for-scale.md",
-      "title": "Create an Azure Cosmos DB database built to scale",
-      "excerpt": "Learn how to create an Azure Cosmos DB account, database, and container built to scale as your application grows.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-cosmos-db-for-scale/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3995,
-        "average": 4.6485605
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services.md",
-      "title": "Create a language translator application with Unity and Azure Cognitive Services",
-      "excerpt": "Create a language translator application for your Mixed Reality device (Windows Mixed Reality, HoloLens 2, etc.) by using Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-translator-mixed-reality-application-unity-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-translator-mixed-reality-application-unity-azure-cognitive-services/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 8,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
-      "title": "Create a multistage pipeline by using Azure Pipelines",
-      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 893,
-        "average": 4.74804
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
-      "title": "Create a release pipeline in Azure Pipelines",
-      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 1072,
-        "average": 4.6847014
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     },
     {
@@ -1353,6 +88,49 @@
         "IoT",
         "Mobile",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-debug-nodejs.md",
+      "title": "Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers",
+      "excerpt": "Learn how to efficiently debug your Node.js app by using Visual Studio Code to fix your bugs quickly. Use the interactive debugger within Visual Studio Code to analyze and fix your JavaScript/TypeScript applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-debug-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/debug-nodejs/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 155,
+        "average": 4.6903224
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/debug-nodejs-social.png",
+          "width": 642,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
       ]
     },
     {
@@ -1443,15 +221,57 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
-      "title": "Deploy batch inference pipelines with Azure Machine Learning",
-      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
+      "title": "Deploy SAP certified offerings on Azure",
+      "excerpt": "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
+      "length": "PT43M",
       "ratings": {
-        "count": 254,
-        "average": 4.6220474
+        "count": 411,
+        "average": 4.7980537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
+      "title": "Deploy SQL Server in a virtual machine",
+      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 2742,
+        "average": 4.7826405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1471,9 +291,748 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-ip-addressing-for-azure.md",
+      "title": "Design an IP addressing schema for your Azure deployment",
+      "excerpt": "In this module, you will learn how to plan and implement an IP addressing scheme for virtual networks and virtual machines in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-ip-addressing-for-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1475,
+        "average": 4.7281356
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-ip-addressing-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-load-with-traffic-manager.md",
+      "title": "Enhance your service availability and data locality by using Azure Traffic Manager",
+      "excerpt": "Discover how Azure Traffic Manager provides DNS load balancing for your application to improve the performance and availability of your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-load-with-traffic-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 2316,
+        "average": 4.5738344
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/distribute-load-with-traffic-manager-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
+      "title": "Enabling digital transformation",
+      "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 8988,
+        "average": 4.696484
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
+      "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
+      "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 2020,
+        "average": 4.44802
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
+      "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
+      "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 128,
+        "average": 4.625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles.md",
+      "title": "Enterprise-scale architecture organizational design principles",
+      "excerpt": "Enterprise-scale architecture organizational design principles",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 105,
+        "average": 4.6571426
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-organizational-design-principles-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-and-analyze-time-series-insights.md",
+      "title": "Explore and analyze time-stamped data with Time Series Insights",
+      "excerpt": "Azure Time Series Insights allows you to collect, process, store, analyze, and query data at Internet Of Things (IoT) scale. Learn how to deploy this service and use it to gain insights from data generated by IoT devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-and-analyze-time-series-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-analyze-time-series-insights/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 414,
+        "average": 4.6835747
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
+      "title": "Explore data ingestion in Azure",
+      "excerpt": "Explore data ingestion in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 461,
+        "average": 4.754881
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-devops-continuous-security-operations.md",
+      "title": "Explore DevOps Continuous Security and Continuous Operations",
+      "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Security and Continuous Operations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-devops-continuous-security-operations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 948,
+        "average": 4.707806
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
+      "title": "Expose hybrid services securely with Azure Relay",
+      "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/expose-hybrid-services-with-azure-relay/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 255,
+        "average": 4.607843
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
+      "title": "Make your application storage highly available with read-access geo-redundant storage",
+      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1398,
+        "average": 4.4835477
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
+      "title": "Host your own build agent in Azure Pipelines",
+      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 1811,
+        "average": 4.7090006
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identify-threats-with-azure-security-center.md",
+      "title": "Identify security threats with Azure Security Center",
+      "excerpt": "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-threats-with-azure-security-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 833,
+        "average": 4.6938777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer.md",
+      "title": "Improve application scalability and resiliency by using Azure Load Balancer",
+      "excerpt": "In this module, you will learn how to use Azure Load Balancer to distribute traffic between multiple virtual servers or services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 2302,
+        "average": 4.720678
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-app-scalability-resiliency-with-load-balancer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights.md",
+      "title": "Instrument server-side web application code with Application Insights",
+      "excerpt": "Get full information and custom telemetry about a web app in Application Insights by installing the Application Insights SDK.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-instrument-web-app-code-with-application-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 351,
+        "average": 4.6011395
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/instrument-web-app-code-with-application-insights-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-commercial-marketplace.md",
+      "title": "Introduction to the Microsoft commercial marketplace",
+      "excerpt": "Overview of the Microsoft commercial marketplace, including Microsoft AppSource, Azure Marketplace, offer types, and Marketplace Rewards",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-commercial-marketplace/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 822,
+        "average": 4.770073
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
+      "title": "Introduction to AI technology",
+      "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1687,
+        "average": 4.698281
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+      "title": "Introduction to App Center",
+      "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 433,
+        "average": 4.5796766
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1483,19 +1042,19 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "AI"
+        "Mobile"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure.md",
-      "title": "Deploy MariaDB, MySQL, and PostgreSQL on Azure",
-      "excerpt": "Compare Open Source Azure Database offerings with Azure SQL Server offerings. Configure an Open Source database and configure high availability and security options.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-mariadb-mysql-postgresql-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
-      "length": "PT23M",
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to the Azure Machine Learning SDK",
+      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "PT40M",
       "ratings": {
-        "count": 2390,
-        "average": 4.7782426
+        "count": 2357,
+        "average": 4.6194315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1510,14 +1069,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-mariadb-mysql-and-postgresql-on-azure-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1526,7 +1085,163 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "AI",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
+      "title": "Introduction to Azure Sentinel",
+      "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 122,
+        "average": 4.7295084
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-containers.md",
+      "title": "Build a containerized web application with Docker",
+      "excerpt": "Learn how to use Docker to build, store, and manage private container images with the Azure Container Registry.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 2937,
+        "average": 4.611849
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-edge.md",
+      "title": "Introduction to Azure IoT Edge",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 841,
+        "average": 4.64566
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+      "title": "Introduction to Azure IoT Hub",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1436,
+        "average": 4.658078
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],
