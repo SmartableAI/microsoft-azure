@@ -145,6 +145,20 @@ related:
         width: 683
         height: 360
         isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Stack HCI"
+    excerpt: "In a recent Azure blog post, Microsoft announced the general availability of Azure Stack HCI, the new subscription service for hyper-converged infrastructure (HCI) from Microsoft Azure. With the GA of Azure Stack HCI,"
+    publishedDateTime: 2020-12-20T15:14:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T23:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+title: "Microsoft Announces the General Availability of Azure Stack HCI"
+excerpt: "In a recent Azure blog post, Microsoft announced the general availability of Azure Stack HCI, the new subscription service for hyper-converged infrastructure (HCI) from Microsoft Azure. With the GA of Azure Stack HCI,"
+publishedDateTime: 2020-12-20T15:14:00Z
+originalUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
+webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -159,20 +159,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft Announces the General Availability of Azure Stack HCI"
-    excerpt: "In a recent Azure blog post, Microsoft announced the general availability of Azure Stack HCI, the new subscription service for hyper-converged infrastructure (HCI) from Microsoft Azure. With the GA of Azure Stack HCI,"
-    publishedDateTime: 2020-12-20T15:14:00Z
-    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z
@@ -201,7 +187,21 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T23:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
 
-secured: "1WofsoahR1WXZA6ILQMpBHRHrFADIEQYxlMhgudhfqL5npvFhXb04ICTypFkoinY2vWIJmwwCVOAO5yd0WnukDnFOlgFqvob7nyZ8LbwO2gUtUuDHJuAGeS4PpZnUBgtTCM836XYgPsUqnURMiGCyuc1DjohJfFKVKeCX4qcCVwIp9GSSw6snACfOvC6xlQAhN3d77JuLqo+ogzdi5llUlnWW+ljVoCYpcHsN0Y+5Eb+o+LsBILE/O/PARrQa6KQgLKknvRNtCJ8A1uqHX4S/gksvGG/A25Ows5ijlru3UarBk5Oakw2sMzBr0Atq/8l424j+8yplBOTFO2q1XXDXEgpXayNGNIgnNRax8uXQ2A=;Lq6Qoq8WzOVG1d3OKNP7vA=="
+secured: "kZUfnAjqQHYAMiuuJC/s0h1Mclz8n1EgqppABijiwB75KLy8auaLITbLDTIG8VfO32YTPO8Jt+UzM513PAv1aQIojIeLxg8L8+oE/D0MCKySZR6EfqERoG++8Qdk0K3TeCCYSwC2zkXXXLKmPeb0WYbEPavP9NnAqUroluIwMarr0w8SKSYftuidZ6WQ1Wtp4k4htP0wbOPyqjK9kgyEZnBPftujjGcU29DL5WuZeatnu0Qpqz336UXJ+0KbXBrvr3YMch9XaiHh9X0isqrfqEyyOBAUz1VTYEdgUxSW2OXQi7fR7wDmmLNR8anXfDpbDc/4rjTyykW/Dt7bwItDMz9h1Nj9QhdI+tY4Dp/6vjQ=;zvGKKluN6AL6l0qGBjll9g=="
 ---
 
