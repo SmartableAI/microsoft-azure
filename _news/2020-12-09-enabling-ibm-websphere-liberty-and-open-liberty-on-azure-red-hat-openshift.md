@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-l
 webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-liberty-and-open-liberty-on-azure-red-hat-openshift/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

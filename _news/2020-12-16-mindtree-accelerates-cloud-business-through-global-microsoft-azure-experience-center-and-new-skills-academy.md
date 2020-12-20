@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-publishedDateTime: 2020-12-15T17:45:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+publishedDateTime: 2020-12-15T23:49:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
 type: article
 quality: 19
 heat: -1
@@ -188,6 +188,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "Kpik3LSBScBZHWJU86OJBHpE03ihdi0V1M16Lt/IvOwdUwA5ibfkr06AMvhTL8bA/e/B+sHVzmjaxf/6vlItzWXriF87qf2y50KTUFfc5pGTEC4Zvcf5lbmHYHIs5Yn3imp2axOCbqBQlIran2LkHkf5jO2YZA2UxOdOSWJGApQTnga8y7hTb9zigQvm6IRM/t2hJBcab5vL0qVaC6a8VJRYsBihca0qVH6N832K0PQrKJiSdyE5K0ujlDLUxY8CyoHMJCqr0u8z/1/snjv2lyQZqn2tQf600zfrgdaDldGUsjMOhHNEBO+1UlbefTXK+RFyMRGw6SCUQv1XWJ7EEJi3g8pVWx4FoxLr28sbNxM=;AJxhgFXceO5+JLcN4zX0Lw=="
+secured: "1WofsoahR1WXZA6ILQMpBHRHrFADIEQYxlMhgudhfqL5npvFhXb04ICTypFkoinY2vWIJmwwCVOAO5yd0WnukDnFOlgFqvob7nyZ8LbwO2gUtUuDHJuAGeS4PpZnUBgtTCM836XYgPsUqnURMiGCyuc1DjohJfFKVKeCX4qcCVwIp9GSSw6snACfOvC6xlQAhN3d77JuLqo+ogzdi5llUlnWW+ljVoCYpcHsN0Y+5Eb+o+LsBILE/O/PARrQa6KQgLKknvRNtCJ8A1uqHX4S/gksvGG/A25Ows5ijlru3UarBk5Oakw2sMzBr0Atq/8l424j+8yplBOTFO2q1XXDXEgpXayNGNIgnNRax8uXQ2A=;Lq6Qoq8WzOVG1d3OKNP7vA=="
 ---
 
