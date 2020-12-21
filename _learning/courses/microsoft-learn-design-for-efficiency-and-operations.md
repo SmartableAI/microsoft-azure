@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-for-efficiency-and
 type: course
 price: Free
 length: 42 mins
-heat: 130
+heat: 50
 
 provider:
   name: Microsoft Learn
