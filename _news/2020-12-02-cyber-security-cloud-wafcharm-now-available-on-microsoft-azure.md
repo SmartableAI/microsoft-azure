@@ -156,22 +156,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-    publishedDateTime: 2020-12-14T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 40
-    images:
-      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-        width: 400
-        height: 328
-        isCached: true
   - title: "Former Microsoft Cloud Security Leads Unveil New Startup"
     excerpt: "Wiz has raised $100 million since its January launch and plans to help businesses with visibility into cloud security threats."
     publishedDateTime: 2020-12-09T20:11:00Z

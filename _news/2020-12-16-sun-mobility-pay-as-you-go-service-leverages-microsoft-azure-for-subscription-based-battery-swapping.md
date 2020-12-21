@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure breach left thousands of customer records exposed"
+    excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
+    publishedDateTime: 2020-12-21T10:45:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
     excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T08:08:00Z
@@ -85,21 +101,35 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
-  - title: "Is swappable batteries future solution for e-vehicles? Microsoft Azure and SUN Mobility have a plan"
-    excerpt: "Microsoft Azure, SUN Mobility working on future solutions for e-vehicles. Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to ..."
-    publishedDateTime: 2020-12-16T10:56:00Z
-    webUrl: "https://www.indiatvnews.com/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
-    ampWebUrl: "https://www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/auto/electric-vehicles-swappable-batteries-microsoft-azure-cloud-sun-mobility-solution-671839"
+  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+    excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
+    publishedDateTime: 2020-12-17T15:31:00Z
+    webUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 43
+      name: Odessa American
+      domain: oaoa.com
+    quality: 46
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/12/electric-vehicles-rep1-1608115956.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
+  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
+    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
+    publishedDateTime: 2020-12-14T09:04:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 40
+    images:
+      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
+        width: 400
+        height: 328
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
@@ -116,20 +146,6 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
         width: 763
         height: 509
-        isCached: true
-  - title: "Microsoft Azure acquires land worth $28m for Atlanta data center"
-    excerpt: "Microsoft Azure has paid $28.8m to secure a site in Palmetto, a city in the outskirts of Atlanta, Georgia, for $28.8 million, where it plans to build a 250,000 square foot (23,225 square meter) cloud data center."
-    publishedDateTime: 2020-12-09T10:43:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-acquires-land-worth-28m-atlanta-data-center/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/shugart_farms_industrial_photo1.2e16d0ba.fill-1200x630.jpg"
-        width: 683
-        height: 360
         isCached: true
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
@@ -173,6 +189,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Azure and Deutsche Telekom sign seven-year joint growth agreement"
+    excerpt: "Deutsche will move most of its IT operations to Microsoft’s cloud by 2025, promote the company’s products and add access to Azure to sales packages"
+    publishedDateTime: 2020-12-14T16:01:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-and-deutsche-telekom-sign-seven-year-joint-growth-agreement/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
     excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
     publishedDateTime: 2020-12-18T04:05:00Z
@@ -188,20 +218,6 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
         width: 763
         height: 509
-        isCached: true
-  - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
-    excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
-    publishedDateTime: 2020-12-09T11:38:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2020/12/09/university-hospitals-birmingham-nhs-foundation-trust-chooses-to-run-new-data-hub-on-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 20
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/12/pexels-karolina-grabowska-4021775-1600x1067.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."

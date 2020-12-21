@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
-excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
-publishedDateTime: 2020-12-18T04:05:00Z
-originalUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
-webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
-ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+title: "Microsoft Azure breach left thousands of customer records exposed"
+excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
+publishedDateTime: 2020-12-21T10:45:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 97
+heat: 377
+published: true
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
-    width: 763
-    height: 509
+  - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Microsoft Azure breach left thousands of customer records exposed"
-    excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
-    publishedDateTime: 2020-12-21T10:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
     excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T08:08:00Z
@@ -219,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
+    excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
+    publishedDateTime: 2020-12-18T04:05:00Z
+    webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
+    ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 34
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
     publishedDateTime: 2020-12-15T23:49:00Z
@@ -234,6 +238,6 @@ related:
         height: 785
         isCached: true
 
-secured: "UFAz2eeHANrXa59ui6vI7yHZBw6IGfIU+HKmnBN7s4NMWqcrhMgDiJ8eZ8sU7nmgCGQou7O/3JxrxQOsfQNG5MA5uXOREqlWvNRId5xDqzeQ2Hr3YAVHHr7iSSZ3H5PgxicuVXjeTbfj3NWOUEHZIRDynM1pHNPiJFiCUKoDJXAlCA+vLbSS1Zq+P3G79GfMpeqAbV7ABwRDIKhfGZ2CPR2G/ItlHLwwqEwe1N+G0wqluq7b5aGcsMl90m25q4kz1TCWvy2YtZNLXZKVuoPbLnBsDlpS+Wp3aPtiDwSjsr1fKzjS9sffTgp1nwgV++mmcHEUJPHjGZUSERu+dYN55+tzSgkC2LQfE1Q/7TjfjBc=;dRMjMGE0CBOGBgYpI+6F5A=="
+secured: "f3To7udRKORLjFWgXPZHkn3tLcVy0Bi0uPOSOLZc+6/mtpAmWfmuAkNZnd+489k0+CcyHNKX88fPr2Zdv3L3fMUR3on5SPZZOCedgvgHxkqSywBXIvDebqh1uAZR5Rxumjt+Y/vDoTQIAOHckPl4+g7d9yaqd9ClSB4ZwLxmdhe41XzMR8Ro4DJ8pqnQAXzmuo2tFkCoNX3a86H2EljmUmm8qZl8AlDmhgpOjPvYF3xWE02bwL2p1rhidC3KIZ8++mn3IfHr90+ag/PQw/y1o1scISJwtcXug4uT100PJXnpU5JKpABbQO+Ht0xBdctKqiHBj6thcwBlCIr5eltjBZ0aS7ivO+ewXd1ADF217cU=;09kgSUlMkr3mKAIQ3fLmfQ=="
 ---
 

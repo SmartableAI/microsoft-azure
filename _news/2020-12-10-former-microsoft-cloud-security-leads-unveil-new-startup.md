@@ -170,22 +170,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
-  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-    publishedDateTime: 2020-12-14T09:04:00Z
-    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 40
-    images:
-      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-        width: 400
-        height: 328
-        isCached: true
   - title: "ACTS Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "PRNewswire/ -- Today ACTS (  ) announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
     publishedDateTime: 2020-12-10T13:31:00Z

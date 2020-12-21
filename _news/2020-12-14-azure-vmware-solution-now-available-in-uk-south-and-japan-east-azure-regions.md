@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-no
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
 type: article
 quality: 64
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-    excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
-    publishedDateTime: 2020-12-17T15:31:00Z
-    webUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 46
-    images:
-      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-        width: 576
-        height: 288
-        isCached: true
   - title: "New Azure VMware Solution is now in preview"
     excerpt: ""
     publishedDateTime: 2020-05-04T18:00:35Z

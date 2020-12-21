@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/5-ways-to-save-costs-by-running-n
 webUrl: "https://azure.microsoft.com/blog/5-ways-to-save-costs-by-running-net-apps-on-azure/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
