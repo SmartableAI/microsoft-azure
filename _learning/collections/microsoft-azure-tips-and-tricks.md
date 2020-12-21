@@ -44,7 +44,6 @@ items:
   - videos/microsoft-azure-security-best-practices-azure-tips-and-tricks
   - videos/microsoft-how-to-use-azure-functions-and-secure-configuration-with-azure-key-vault-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-azure-quickstart-center-azure-tips-and-tricks
-  - videos/microsoft-how-to-create-dev-environments-in-minutes-with-visual-studio-codespaces-azure-tips-and-tricks
   - videos/microsoft-how-to-edit-and-debug-code-in-real-time-with-visual-studio-code-live-share-azure-tips-and-tricks
   - videos/microsoft-how-to-use-the-whiteboard-within-your-visual-studio-live-share-experience-azure-tips-and-tricks
   - videos/microsoft-how-to-easily-manage-github-gists-from-within-visual-studio-code-azure-tips-and-tricks
