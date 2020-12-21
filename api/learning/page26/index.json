@@ -4,48 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-handle-transient-errors-in-your-app.md",
-      "title": "Handle transient errors in your app",
-      "excerpt": "Detect, handle, and recover from errors when working with cloud-based services to make your apps more resilient and improve user experience.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-handle-transient-errors-in-your-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/handle-transient-errors-in-your-app/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 54,
-        "average": 4.7777777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/handle-transient-errors-in-your-app-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-hdinsight-configuration-to-build-open-source-analytical-solutions.md",
       "title": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
       "excerpt": "Choose the correct HDInsight Configuration to build open-source analytics solutions",
@@ -96,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "PT36M",
       "ratings": {
-        "count": 1313,
-        "average": 4.6572733
+        "count": 1314,
+        "average": 4.657534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
       "length": "PT50M",
       "ratings": {
-        "count": 127,
-        "average": 4.6062994
+        "count": 128,
+        "average": 4.609375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1239,8 +1197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 752,
-        "average": 4.675532
+        "count": 753,
+        "average": 4.675963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,6 +1231,49 @@
         "Azure",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation.md",
+      "title": "Improve the developer experience of an API with Swagger documentation",
+      "excerpt": "Learn how to document an existing API, written in C#/ASP.NET Core, using Swashbuckle, Swagger/OpenAPI, and Swagger UI.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-developer-experience-with-swagger/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 545,
+        "average": 4.6348624
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-developer-experience-of-an-api-with-swagger-documentation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
       ]
     }
   ],
