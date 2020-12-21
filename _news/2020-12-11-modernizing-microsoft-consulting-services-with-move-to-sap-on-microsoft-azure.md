@@ -44,6 +44,20 @@ related:
         width: 1527
         height: 969
         isCached: true
+  - title: "Microsoft Azure growing like crazy – Dig into the fundamentals for $35"
+    excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
+    publishedDateTime: 2020-12-12T03:03:00Z
+    webUrl: "https://www.androidguys.com/deals/2021-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: AndroidGuys
+      domain: androidguys.com
+    quality: 37
+    images:
+      - url: "https://www.androidguys.com/wp-content/uploads/2019/10/computer_code_developer_training.jpg"
+        width: 596
+        height: 447
+        isCached: true
 
 secured: "gR/S5j5aTVM3f7AZ5gfZDlm/29OX0WU0en9sAPQG1xEHuZ8zeGHa30a9Hws6bQpxnqfu8Cpco0pOJQ54G80d/HKlV6Cg4Wy+uUS9bucdxJJqia7dDqhYoX/hZ1DQehSJioPH135zfu+Z3TFpAG7YMH8G0y4FD7gtxMyrG+xxp9O6Ty2bHLb6eVjG92QGNBSQQgpiVIK4PK0AB1kbICODPZ5tCpfjVkKshCiv2CAMNg1DYQgrU1qcqSLHd2RHkgYvS/jMfnbIkeJAq6Yy6vpS6sZIP3CLfY/22CsoNYN/v+d469+xGHkz/PYe65ecizBia517wDRIbKamtmz5/nMHvLEEWwmJhD+JrE1v68A8o8H0PL+8s7r6focJ8HmY6AzexRLOu3XXJKMMRn/vpzfxtunZHycT6nDLTHOgaelB8ns6d1VqtnR8QrBeLV3Z1G/Qr++ZgesA9yt4UhZXsh520M82lEMrFn/sKZ2M0QqPgyOfc/X7jEaUTWFHXRL7IDhMTAT5CGdUL2r3iGbChZ4hEg==;i82dazGHRyEWjna671DNvw=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
-excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
-publishedDateTime: 2020-12-18T22:41:00Z
-originalUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
+excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
+publishedDateTime: 2020-12-18T04:05:00Z
+originalUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
+webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
+ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
 type: article
-quality: 55
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.barrons.com/im-275719/social"
-    width: 1280
-    height: 640
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -57,6 +57,22 @@ related:
       - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
         width: 1000
         height: 696
+        isCached: true
+  - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
+    excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
+    publishedDateTime: 2020-12-18T22:41:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-stock-sinks-on-report-microsoft-may-build-own-chips-for-azure-servers-51608331195"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-275719/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
     excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
@@ -173,22 +189,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
-    excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
-    publishedDateTime: 2020-12-18T04:05:00Z
-    webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
-    ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 34
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
-        width: 763
-        height: 509
-        isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
     publishedDateTime: 2020-12-09T11:38:00Z
@@ -218,6 +218,6 @@ related:
         height: 785
         isCached: true
 
-secured: "KZQ3BH7MgaN8iijZvt5V9XzRf23HYbNVYdZB5llHA5TGS+HqfuAgarFnq4DaJnlCEk48xLRRyzREV7hn+jSOCrVkiGJeC8guJetPshUKlEP3sAt53Fq33/QocfAy6Jro8FXODDIIXyki+XgcUDdvFjckSw0wFWGZWVQdAH9dMmQpo5mjSq1p0e8clfmmKN6Utc/JySW+VeHuKE8YMqEWKyujEM4vVdIvjAovufHPoamSkFSG0WRFV628U+jwk7AuewKyzDepKSrnGAhmlBxytcqx4dUObsvM4Scs+z1qF7JUrRvLs7WAduEXQ+y63H+TJeKRp772Z/fdtujDTnFHo1uD/kPcqEzi5bBaGX4/83CjolDMdkZ21Iib5Zajllqy9vtphhEEgxJdNMmkAln4q+Il+qKy4/L9M5YJmTVODqT0yyqavj5r+BntriQiQQQKJ+utz2d0n7oByuW9E7IoudncB639eL7JhIxoL7TJRSY5e2vjAeheVX8TInJ2ei3xY49jn5ElnKn4zX8bglXt/g==;G+WdpZsBNPE9TnSw4ie7LQ=="
+secured: "UFAz2eeHANrXa59ui6vI7yHZBw6IGfIU+HKmnBN7s4NMWqcrhMgDiJ8eZ8sU7nmgCGQou7O/3JxrxQOsfQNG5MA5uXOREqlWvNRId5xDqzeQ2Hr3YAVHHr7iSSZ3H5PgxicuVXjeTbfj3NWOUEHZIRDynM1pHNPiJFiCUKoDJXAlCA+vLbSS1Zq+P3G79GfMpeqAbV7ABwRDIKhfGZ2CPR2G/ItlHLwwqEwe1N+G0wqluq7b5aGcsMl90m25q4kz1TCWvy2YtZNLXZKVuoPbLnBsDlpS+Wp3aPtiDwSjsr1fKzjS9sffTgp1nwgV++mmcHEUJPHjGZUSERu+dYN55+tzSgkC2LQfE1Q/7TjfjBc=;dRMjMGE0CBOGBgYpI+6F5A=="
 ---
 

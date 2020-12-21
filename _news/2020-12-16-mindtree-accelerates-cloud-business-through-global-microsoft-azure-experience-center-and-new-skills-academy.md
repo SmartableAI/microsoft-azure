@@ -187,6 +187,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
+    excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
+    publishedDateTime: 2020-12-18T04:05:00Z
+    webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
+    ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 34
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
+        width: 763
+        height: 509
+        isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
     publishedDateTime: 2020-12-09T11:38:00Z
@@ -202,6 +218,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "TS1p+ixhm1yVqoXRboX2wpU40wTxcalIKUWYlGBxMaOPW4/5G3OwJBpOzsp5w2lih8zQR402z/XH2CRFC62c300xgMdFxDNCnAZg27dOV/kUGl0bIBf5un7ZusNDEAvxD8+u+zqPhBw5ux8r04dGKS9Vh39oZ+Nk11JGnRjYC/XGBLR50UEHsMHOUy3oI1v5V/SK5f/DqZuP/1rrrubglKvz9/2IzEMaNS2/GkLlE7F1UK/zMM5L5HwSapzggmdS6usOz9bJwtepyeJhxSCNBmi6P4CLmE291c55ub2zp4s4YsfKuWXMmqvH8V+PbN+aHiwmRtcPB+L0WiTxsq7Awt5KfHrMynoJ74u72BjigZE=;BRZutGEKY6ew7zw6zgAa+A=="
+secured: "bjXNmwZn3HFUpfHV0p5RZr6Wbfzo7yPqqxX+A5ku2pXfPEkxinvD0hLTDZEmGKk1ZCgoy1Z8vJ6ghlLbtpNwUlTjQ6BekJolAlDwiLEcJiwQnH3PU857Xks7ntvW0XLQtkgmcspIC5P7lk7Vlq3FGoFeBcO/XVtndrG/uY6iUb35Aw9NPJgVEIxtRU+Z1vSRaaNBu8HqrM2SxZ1Jvp6pTGoi+GS5b6wIK7HW31TqBsJQJxxFnUq+F1kv3wRR4pDUMq5Zhumo2KXaGCDRX1Ah8M+L9FDpiXvpIKmvv/tnZ0cM6SpH4dd5MLVPEB+QdQBd6ze8U950rG7DPzykoYgDWVlDa4l4AybSNX4mMWtEr1k=;CFKxhYC3mx+XFKAfS4jkNw=="
 ---
 

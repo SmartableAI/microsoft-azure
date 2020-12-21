@@ -9,7 +9,7 @@ ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
 cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
 type: article
 quality: 57
-heat: 297
+heat: 317
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20microsoft%20france%20campus%20getty.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
+    excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
+    publishedDateTime: 2020-12-18T04:05:00Z
+    webUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital"
+    ampWebUrl: "https://www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/adobe-launches-adobe-sign-microsoft-azure-singapore-accelerate-modernization-digital?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 34
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
+        width: 763
+        height: 509
         isCached: true
   - title: "University Hospitals Birmingham NHS Foundation Trust chooses to run new data hub on Microsoft Azure cloud"
     excerpt: "By using Azure, UHB ensures that all medical data is secure, kept in the UK and can be accessed by approved people."
