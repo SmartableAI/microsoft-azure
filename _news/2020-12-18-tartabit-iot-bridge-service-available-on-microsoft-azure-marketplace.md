@@ -24,9 +24,9 @@ related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
     excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
     publishedDateTime: 2020-12-21T10:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     type: article
     provider:
       name: TechRadar

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.androidguys.com/wp-content/uploads/2019/10/computer_code_developer_training.jpg"
         width: 596
         height: 447
+        isCached: true
+  - title: "Microsoft Azure server and Surface processor designs in gestation"
+    excerpt: "A report citing insider sources says that Microsoft is developing Arm-based chips for its cloud servers and Surface devices. Bloomberg says that people familiar with the plans have indicated that Microsoft's Arm-based designs would be initially rolled out in its Azure servers,"
+    publishedDateTime: 2020-12-21T11:00:00Z
+    webUrl: "https://www.bit-tech.net/news/tech/cpus/microsoft-azure-server-and-surface-processor-designs-in-gestation/1/"
+    type: article
+    provider:
+      name: Bit-Tech
+      domain: bit-tech.net
+    quality: 37
+    images:
+      - url: "https://bit-tech.net/media/image/2020/12/d99d52fa-1377-40d7-b3c9-8c038a055837.jpeg"
+        width: 450
+        height: 230
         isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"

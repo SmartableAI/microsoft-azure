@@ -58,6 +58,20 @@ related:
         width: 596
         height: 447
         isCached: true
+  - title: "Microsoft Azure server and Surface processor designs in gestation"
+    excerpt: "A report citing insider sources says that Microsoft is developing Arm-based chips for its cloud servers and Surface devices. Bloomberg says that people familiar with the plans have indicated that Microsoft's Arm-based designs would be initially rolled out in its Azure servers,"
+    publishedDateTime: 2020-12-21T11:00:00Z
+    webUrl: "https://www.bit-tech.net/news/tech/cpus/microsoft-azure-server-and-surface-processor-designs-in-gestation/1/"
+    type: article
+    provider:
+      name: Bit-Tech
+      domain: bit-tech.net
+    quality: 37
+    images:
+      - url: "https://bit-tech.net/media/image/2020/12/d99d52fa-1377-40d7-b3c9-8c038a055837.jpeg"
+        width: 450
+        height: 230
+        isCached: true
 
 secured: "gR/S5j5aTVM3f7AZ5gfZDlm/29OX0WU0en9sAPQG1xEHuZ8zeGHa30a9Hws6bQpxnqfu8Cpco0pOJQ54G80d/HKlV6Cg4Wy+uUS9bucdxJJqia7dDqhYoX/hZ1DQehSJioPH135zfu+Z3TFpAG7YMH8G0y4FD7gtxMyrG+xxp9O6Ty2bHLb6eVjG92QGNBSQQgpiVIK4PK0AB1kbICODPZ5tCpfjVkKshCiv2CAMNg1DYQgrU1qcqSLHd2RHkgYvS/jMfnbIkeJAq6Yy6vpS6sZIP3CLfY/22CsoNYN/v+d469+xGHkz/PYe65ecizBia517wDRIbKamtmz5/nMHvLEEWwmJhD+JrE1v68A8o8H0PL+8s7r6focJ8HmY6AzexRLOu3XXJKMMRn/vpzfxtunZHycT6nDLTHOgaelB8ns6d1VqtnR8QrBeLV3Z1G/Qr++ZgesA9yt4UhZXsh520M82lEMrFn/sKZ2M0QqPgyOfc/X7jEaUTWFHXRL7IDhMTAT5CGdUL2r3iGbChZ4hEg==;i82dazGHRyEWjna671DNvw=="
 ---

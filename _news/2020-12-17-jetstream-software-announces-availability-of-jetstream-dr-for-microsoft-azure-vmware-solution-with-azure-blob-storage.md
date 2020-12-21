@@ -28,9 +28,9 @@ related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
     excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
     publishedDateTime: 2020-12-21T10:45:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     type: article
     provider:
       name: TechRadar
@@ -235,6 +235,6 @@ related:
         height: 785
         isCached: true
 
-secured: "nwc32HGC4IhkYd2hECNBz8oKriAlApcGqFIRLE/ZJxQTQ39yiOkQMqf83SfBr04L275RIewKigOIEsmOaYdyXHDKTM2s1BNpz0pzn90T9ihug2NGgIsaj8KUa0cRy392YyTaT3d9wwJNEH0YkDSFRwa/mcB6pD5wqVplXmkl+uccYaov3ZzjMFLv4uAwby1NZ/AL7haaY9SrDAhE4IrW9hpmsU47IMz2tQyFot8qIiqjIf7tOf52pdsWI6Bp1dnoxBep9PsBPnMw86L3ZIaAXSEB2AeBQMX8gzB3BOWzYJDf5+EdhD1PPDezww0IWVMKlwIFDdnGBLok11TivGtPVPNR4QdWm8E/+kQ/jGjthLk=;f/pNIy1iGWBLjY7Nb8o/kw=="
+secured: "OkSjs5tOTHkPpknu6IjkWSQiwnu4XC+odAakFUJnco/U9wqtwd/Kjg2k3YidnoQElzQVoqPjIXAQeGG5Ke3lGcuXsOCnaQiRr09lwXB+2FtUOkjl4j6ZAnWSY4vO6u3XdufF4tnfMkFKjvKk9fDXQIgX4STKWud41QYfQaWSqIx+C80X8c148lut9PPNQ3cENNdgmcuP8Ot2gX+tE65iEnMI2ZTOgV5ru5VnncwaWNOjkfNFlbLFwwVgBDoM+23nYGXxzpYanNYCS5UlEEDlMt9RVDZPY9YsVds3sVJzRqIqsL8Dd+odLxRF0bKIPBLjXFJ4IhfDZ+HomWZ3ZDEfvBrIH0xE/F9iXBVlEimh0cc=;0AolynOrjiOe/pRhDVjngg=="
 ---
 
