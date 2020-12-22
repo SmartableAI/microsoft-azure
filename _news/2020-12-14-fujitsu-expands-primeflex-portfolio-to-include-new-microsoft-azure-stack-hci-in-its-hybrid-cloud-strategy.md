@@ -247,6 +247,15 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
+    publishedDateTime: 2020-12-22T13:50:00Z
+    webUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
+    type: article
+    provider:
+      name: GNT
+      domain: generation-nt.com
+    quality: 0
 
 secured: "Q6kMH7z0zclz+nmkY+lVdMRkJaJ5G5aluibsXZbxPNrlCed7d7lbbVFLj+zm08TuYNNJs3XzreeJYc+3hcfYqil2fuK0n1IX2+UyfQyfO0zcMS9JbF5Xs3JCMZlS3qOuPtQYZVLYhhD4rpvpR3aHQbEKL8vvYaIemflwbzK8F0mngJ2Y3Gz21DgKnWPJSP8FmyyIRycy7SYH04BT2RWxSu0LTiy+/F2l554IaKwBHb9f1o4wK5s8FRFFjtwkYIAVIscsnGViVBxQfEgqZTPzAARTig36KCcFTV+ze63Yr5Ylvw6NadgGMlr8rgFT5CRIqla6TKHslTsysHLoglgEN8vGLZlSO4t9sKC/W2tSIl0=;r0zBT+BtU5h6VKwujelLqA=="
 ---

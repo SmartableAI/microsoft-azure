@@ -1,29 +1,21 @@
 ---
 category: news
-title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
-excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-publishedDateTime: 2020-12-15T08:08:00Z
-originalUrl: "https://www.prokerala.com/news/articles/a1111892.html"
-webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
-ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
-cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
+title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
+publishedDateTime: 2020-12-22T13:50:00Z
+originalUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
+webUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
 type: article
-quality: 57
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Prokerala
-  domain: prokerala.com
+  name: GNT
+  domain: generation-nt.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -41,6 +33,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
+    excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T08:08:00Z
+    webUrl: "https://www.prokerala.com/news/articles/a1111892.html"
+    ampWebUrl: "https://www.prokerala.com/news/articles/a1111892.html?amp=1"
+    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1111892.html?amp=1"
+    type: article
+    provider:
+      name: Prokerala
+      domain: prokerala.com
+    quality: 57
+    images:
+      - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
     excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
@@ -247,16 +255,7 @@ related:
         width: 1496
         height: 785
         isCached: true
-  - title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
-    publishedDateTime: 2020-12-22T13:50:00Z
-    webUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
-    type: article
-    provider:
-      name: GNT
-      domain: generation-nt.com
-    quality: 0
 
-secured: "yPXxsKIPaZGMpCwOiGfQMSVvAxfqAyU1Mlhncdt4lri5fK9cVjSm+C1xslZAMtgL0K3XUXUeIAwfU6WtzVACeiPkOuH94tBWECgUBen/yTtkkEjW5Cmjr5mtSFn2ZaGaq3Sx+9AaiHJFeARQ0/CKgCeDr0yLsW+VN0b6kF6I/+qoyffqAEItjcOD3dJtyZVpnQX2kRIV+JeblambQPhGmgApsY5dAAyOPO8LNcaRkdmajuowKD69BM/1pAYltrKE9dX8QUtgJDISrVyrD31gDabi1rJNIpWSuTDuyc830DVaKeyGA0ei56Mq6DfBLsNnHP6O3qP2QMHjAzGhZzWCGPAnWUmNGo5nBdbZpq5ovdM=;ZBrbWkh5GSNbbwyYKAcCvQ=="
+secured: "x/87cwVF29vByLiy0vAhPiM7HKCkpVaicBeUajgTUi4EdkoVBOLWJpVAvWtEJEsN+OxUxBtBoxSWsxtBy7wmC03tY73BKwr+qtJsfjJCxuRE5hbGW4KOIsqV60rf5Su447XA1jO2xob8PMxuQdsNaCKqSZJTn400z/ytq/8A5NKT4d/5QFVyN5yGOCycEtJprcaxFQrqW8tCQDwGU2XmrNgMnVRKWK6dyAcE5eyDy77Y0ZtnppRVwZ4WnnVflKCg8fn1eRZqMBpUTmBKekbgYZBsA7ZTgYOSSToKryPM0n6XiGPnfBoRsHi9rGvnmYmA+LKEjXZbQ0lqjsT+p0igVQtbKjH3BlGP2V/qZoC9NZY=;fmdxwQIfmrADWIhd9CD7VQ=="
 ---
 
