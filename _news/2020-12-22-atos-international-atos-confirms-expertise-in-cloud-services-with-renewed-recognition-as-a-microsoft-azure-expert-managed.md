@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T09:37:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
+excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
+publishedDateTime: 2020-12-22T09:09:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
+webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
 type: article
-quality: 39
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
-    width: 763
-    height: 509
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -101,20 +103,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
-  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
-    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
-    publishedDateTime: 2020-12-22T09:09:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 51
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
     excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
     publishedDateTime: 2020-12-17T15:31:00Z
@@ -160,6 +148,22 @@ related:
       - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
         width: 400
         height: 328
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T09:37:00Z
+    webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
+    ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
+        width: 763
+        height: 509
         isCached: true
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
@@ -248,6 +252,6 @@ related:
         height: 785
         isCached: true
 
-secured: "gmGerliUyqZGhZ64gy6LIEFyt+gqO0k96tKuVU6anV48Cd13oT++in8nY1Cb7n7AEaur6YV1nSwhl2StCHfSQlujROjaAUtH9FKLEfxvQ+7AmA81wjUCkGe8anJwP8w+omR0ArKmnaWlj4UrT3VRKcFk17chAjjzZPNCbib25pdyupkIAQymeWJsTTxunj9MSOZjrcqC10brWAAElK871qFhP2qEtTN2c9ecQVNsTqzMqZlV3v83zZMZ//IfYCcsVTxP119uTFV9fi/P6XSePXzu3IS71zinfYbcPUYDGAQKixzC2bd3TBUYOnqmpFIGjVytnDDcKXSKgXRDhIOkUboTtljCmsZRlQO3/7A5W58=;CVbqiBiIXRTERr2Ee+zMcQ=="
+secured: "tlLDVaYotIHjpQdLg6s0vLw1yQ/vvjwgr7P8m5PXFj2BSeJA7XJa4udXoGLaw8+CbE7tEyuMvORvaz7oTWzdnRJSnPVNknfwCtzscptdboW4xS2po1Gm6MGL1rkB4s49uGY0r5/5DrawKurYECfaIUJHYZnK5Hx6fkipBgCBlI3yBY6P4rHc7X4ZDJvAFTNVjgEicoMybbW7rx0T3S9QkECkFD8cbeOyFdoi+uEFfadEqXq5D68CHtPlZbsTESvx2dHR6usigYEQ10wa7uj5dmdkWwAENX7MGtSoi+ILsW9Z2YnqfW4zbc+bq2haiYOgzVej/HxMx9GuRVS6gSGRs5J+oFCQF4EGd7S3gPyijtw=;G/C/KmeQfW7FB+azBLSWRw=="
 ---
 

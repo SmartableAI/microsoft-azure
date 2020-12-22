@@ -100,6 +100,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
+    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
+    publishedDateTime: 2020-12-22T09:09:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 51
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
     excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
     publishedDateTime: 2020-12-16T06:14:00Z
@@ -235,6 +249,6 @@ related:
         height: 785
         isCached: true
 
-secured: "9RtXO9+dCu5rex66nE3SsoKfZqD9vqLW+Wq2G4nd7RO39PYWcNfwnMocFvNSa7m+EXcX3vBcqqWsMLPFcrQpfQsRPMi+/DfaIYeVRV/fJiVjH8ByTfrGBPr5I5UfFfYdlZCkv3dNy06PR+v5w+wmSxO/duKWsXbYAnaA36+dVs8XIYmS8K/ruTUuMHVpVXg92Tv26desfZvdDfQ93+gWiPijPovia0xz/tsCh5mLGGNPytgIXmVCpM9Z33j9XxcAHxtzcqu296q6R2hqyCHh9CmzPFLJXRLPvrohpegspwJP+Z6Ff5i9M9z6JYuM/bOpF8ux2ZExa1IZCu3TWjtj2CJhklhZh5ktRPJ+jrFnwjw=;px2eHiQWPYT+Tkc9lL4QnA=="
+secured: "N+musZDnWc9YRzix/XBFwDYlP1lePGIvCbXvYWvg4xV2/PgJ72JJPYewS9BwqHFw+CThFXwe1SF+u2wOd4qc+Wru4BJavJlF5jcJ/dcE4T1wjKMVbgB+jwUMRj7uMFqCBKKlW5iU4NPAIVBYgOCzAT3oDx5PxgRNGNZniMCFNflviCAO5FGR/fIK/pPAqfvdig9owGiiNCKlRF78uTnI9gxMq+yyiG80G0iYnkcHAAkFqcb3Bvx4/yu+u0moWBnruYYWHO4jAoePiMsSBw45G3kzX5yHxqRkaCCOCJdsagBu6xnJkUvACtT83GNnWCy60wfY5ATVOozGbt1ezhm1H4k8t84oVzxhjUTT42xXf7g=;kmDeqBiZnAeTOEwLK9V00g=="
 ---
 

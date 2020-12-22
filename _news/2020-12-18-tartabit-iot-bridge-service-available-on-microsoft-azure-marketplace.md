@@ -85,6 +85,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
+    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
+    publishedDateTime: 2020-12-22T09:09:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 51
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
     excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
     publishedDateTime: 2020-12-17T15:31:00Z
