@@ -4,49 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
-      "title": "Classify images with the Custom Vision service",
-      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 468,
-        "average": 4.758547
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
       "title": "Control Azure services with the CLI",
       "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
@@ -89,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 6677,
-        "average": 4.758125
+        "count": 6678,
+        "average": 4.758161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1840,
-        "average": 4.705435
+        "count": 1841,
+        "average": 4.705595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -444,8 +401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 2875,
-        "average": 4.7015653
+        "count": 2876,
+        "average": 4.701669
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -565,8 +522,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1790,
-        "average": 4.6134076
+        "count": 1791,
+        "average": 4.6136236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 505,
-            "average": 4.8039603
+            "count": 506,
+            "average": 4.804348
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1536,8 +1493,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 439,
-        "average": 4.801822
+        "count": 440,
+        "average": 4.802273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1562,6 +1519,49 @@
         "Azure",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
+      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 2533,
+        "average": 4.5613894
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     }
   ],

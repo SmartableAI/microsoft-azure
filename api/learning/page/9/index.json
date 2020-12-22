@@ -4,49 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 3705,
-        "average": 4.614305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
       "title": "Introduction to Linux on Azure",
       "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
@@ -293,8 +250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5494,
-        "average": 4.661813
+        "count": 5495,
+        "average": 4.6618743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +817,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1840,
-            "average": 4.705435
+            "count": 1841,
+            "average": 4.705595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1010,8 +967,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2502,
-        "average": 4.6978416
+        "count": 2503,
+        "average": 4.6979623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1053,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6268,
-        "average": 4.741385
+        "count": 6269,
+        "average": 4.741426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1087,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2086,
-        "average": 4.7114096
+        "count": 2087,
+        "average": 4.711548
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2022,
-        "average": 4.5677547
+        "count": 2024,
+        "average": 4.568182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,8 +1251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3034,
-        "average": 4.5784445
+        "count": 3035,
+        "average": 4.5785832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,6 +1279,49 @@
         "Compute",
         "Serverless",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+      "title": "Classify images with the Custom Vision service",
+      "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 470,
+        "average": 4.7595744
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
