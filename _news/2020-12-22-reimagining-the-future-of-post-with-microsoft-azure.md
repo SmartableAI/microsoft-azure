@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-publishedDateTime: 2020-12-11T14:47:00Z
-originalUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+title: "Reimagining the Future of Post with Microsoft Azure"
+excerpt: "Contactless mail made efficient and effective for postmen and residents Powered by Microsoft Azure IoT Edge, PostPal sorts and dispenses mail and postal packages from a centralized system, authenticated by QR code. It alleviates the physical burden on ..."
+publishedDateTime: 2020-12-22T06:30:00Z
+originalUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
@@ -22,9 +22,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-    width: 2300
-    height: 1293
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
+    width: 552
+    height: 372
     isCached: true
 
 related:
@@ -72,21 +72,21 @@ related:
         width: 450
         height: 230
         isCached: true
-  - title: "Reimagining the Future of Post with Microsoft Azure"
-    excerpt: "Contactless mail made efficient and effective for postmen and residents Powered by Microsoft Azure IoT Edge, PostPal sorts and dispenses mail and postal packages from a centralized system, authenticated by QR code. It alleviates the physical burden on ..."
-    publishedDateTime: 2020-12-22T06:30:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 34
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
-        width: 552
-        height: 372
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+        width: 2300
+        height: 1293
         isCached: true
 
-secured: "gR/S5j5aTVM3f7AZ5gfZDlm/29OX0WU0en9sAPQG1xEHuZ8zeGHa30a9Hws6bQpxnqfu8Cpco0pOJQ54G80d/HKlV6Cg4Wy+uUS9bucdxJJqia7dDqhYoX/hZ1DQehSJioPH135zfu+Z3TFpAG7YMH8G0y4FD7gtxMyrG+xxp9O6Ty2bHLb6eVjG92QGNBSQQgpiVIK4PK0AB1kbICODPZ5tCpfjVkKshCiv2CAMNg1DYQgrU1qcqSLHd2RHkgYvS/jMfnbIkeJAq6Yy6vpS6sZIP3CLfY/22CsoNYN/v+d469+xGHkz/PYe65ecizBia517wDRIbKamtmz5/nMHvLEEWwmJhD+JrE1v68A8o8H0PL+8s7r6focJ8HmY6AzexRLOu3XXJKMMRn/vpzfxtunZHycT6nDLTHOgaelB8ns6d1VqtnR8QrBeLV3Z1G/Qr++ZgesA9yt4UhZXsh520M82lEMrFn/sKZ2M0QqPgyOfc/X7jEaUTWFHXRL7IDhMTAT5CGdUL2r3iGbChZ4hEg==;i82dazGHRyEWjna671DNvw=="
+secured: "zuHrfCkT8Wv6y4RUsQtW8YghHCUzRisz97mmrgyzOcOTD7bCl4OpbnLpC+YK7EMUoI8VIyAqocBL2GD5BSnXpF78mCC0SlkTijTarR1rTc04XxHOevTO6uhNxHuTNEACZMf6t7HpA6reYoXc6dE5gej2QnECYrr/PMtOVuG2iBdEt4WiKcJfHc7pZ/BeYMBg0iN9PoIh2f0RqXK42GpZ1rtFJVzqgkQYA4MlN1V0sPwtbt25NEMa5Pa+Cs+OTpVGOUPQh6FYsf0TgqAfrTHt8Z/VngcUQwgN/dQksdjNV8GectNz7LZlHmPu2EIV/WD9jKZG5/K93oYLwwwDEqAfnHe4taA2kNiO773CRHCN25Y=;vjwD1AtK7kBM2JUTuF03CA=="
 ---
 

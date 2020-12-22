@@ -54,6 +54,20 @@ related:
         width: 450
         height: 230
         isCached: true
+  - title: "Reimagining the Future of Post with Microsoft Azure"
+    excerpt: "Contactless mail made efficient and effective for postmen and residents Powered by Microsoft Azure IoT Edge, PostPal sorts and dispenses mail and postal packages from a centralized system, authenticated by QR code. It alleviates the physical burden on ..."
+    publishedDateTime: 2020-12-22T06:30:00Z
+    webUrl: "https://news.microsoft.com/en-sg/2020/12/22/reimagining-the-future-of-post-with-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
+        width: 552
+        height: 372
+        isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
     publishedDateTime: 2020-12-11T14:47:00Z
