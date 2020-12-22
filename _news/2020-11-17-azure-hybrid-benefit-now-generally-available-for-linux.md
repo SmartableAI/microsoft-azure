@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generall
 webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
 type: article
 quality: 87
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     excerpt: "Achieve higher performance and cost savings on Azure Disk Storage with performance tiers. "
     publishedDateTime: 2020-11-19T17:00:19Z
     webUrl: "https://azure.microsoft.com/en-us/updates/performance-tiers-for-premium-ssds-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "RabbitMQ Extension for Windows and Linux is now generally available"
+    excerpt: "You can now use the RabbitMQ triggers and bindings extension to respond and send messages with Azure Functions."
+    publishedDateTime: 2020-12-22T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/rabbitmq-extension-for-windows-and-linux-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

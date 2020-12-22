@@ -52,6 +52,15 @@ related:
         width: 994
         height: 458
         isCached: true
+  - title: "Azure Monitor for Containers support for Private Clusters now in public preview"
+    excerpt: "You can now view live monitoring data for private clusters."
+    publishedDateTime: 2020-12-22T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-containers-support-for-private-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "Azure Monitor for Containers support for Azure Arc is in preview"
     excerpt: "Azure Monitor for Containers is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. This support is currently in preview."
     publishedDateTime: 2020-06-17T21:30:19Z

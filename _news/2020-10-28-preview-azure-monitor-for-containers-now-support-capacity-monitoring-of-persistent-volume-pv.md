@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azmon-ci-pv/"
 webUrl: "https://azure.microsoft.com/en-us/updates/azmon-ci-pv/"
 type: article
 quality: 109
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 994
         height: 458
         isCached: true
+  - title: "Azure Monitor for Containers support for Private Clusters now in public preview"
+    excerpt: "You can now view live monitoring data for private clusters."
+    publishedDateTime: 2020-12-22T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-for-containers-support-for-private-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "Public preview: AKS pod identity"
     excerpt: "Access cloud resources securely from Azure Kubernetes Service applications using Azure Active Directory."
     publishedDateTime: 2020-10-28T16:00:29Z

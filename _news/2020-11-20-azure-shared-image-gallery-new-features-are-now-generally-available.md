@@ -72,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "RabbitMQ Extension for Windows and Linux is now generally available"
+    excerpt: "You can now use the RabbitMQ triggers and bindings extension to respond and send messages with Azure Functions."
+    publishedDateTime: 2020-12-22T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/rabbitmq-extension-for-windows-and-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Unified Connection Monitor in Network Watcher is now generally available"
     excerpt: "Connection monitor provides unified end-to-end connection monitoring capabilities for hybrid and Azure deployments. It brings together the best of Network Performance Monitor and Connection Monitor (classic)."
     publishedDateTime: 2020-11-24T17:00:34Z
