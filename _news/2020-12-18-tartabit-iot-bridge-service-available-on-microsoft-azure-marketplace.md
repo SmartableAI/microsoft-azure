@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
-publishedDateTime: 2020-12-17T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
+excerpt: "Tartabit's offering enables solution developers and system integrators to quickly onboard Low Power Wide Area IoT device data and context into Microsoft Azure IoT Hub, Event Hub and CosmosDB."
+publishedDateTime: 2020-12-18T06:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18846149"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846149"
 type: article
 quality: 54
 heat: -1
@@ -257,6 +257,6 @@ related:
       domain: generation-nt.com
     quality: 0
 
-secured: "QKkoo9jGcLj41kM/sztsxGSpxVF+1GJ34swHS0vwuaqk3IlO1bduoK03NSXvTDsCQjY4RRFomVCDesbRBXQnvT/Mo1OYf5VrLQPSI2FEgst5KVFsG3/aD1zDMN5AC6Tec+6fiw8rUVmbl7uqiGdLuNqcYfYGipKKEPKn8K6x3XDQCJIN0oLljQQlV/yjkFQrJktLl2E2CXP/JA+S+0JXH4zqutT+VdT4JHztOvwPobJTVdFGDnUjeyYOKdT40w1UslGOZ006FPFdu5LbtzpePLxhjjwa2Tcb+6b9k3yEaiBEfindgUFLkMNTYrVufhmCWBhR09F2AdYOoIRcE8Ly5RkOvUYlhkxUE12UTVidIDw=;DPANeL8b/2CwYwHQIJoc9Q=="
+secured: "al/OEie63uY64FITpbqabam1I9jWzvkP5mO8+4+1+SzGZ6r9l0AA4phHJds5vYZRj2md+1SlHkLHT0A0J8+sw78WgXkAV6OZ/bt1FVATDyh5nKftHUPmYeHKVBoUZyFUuhTPWl5OSirj/mX2izDIxCjbQxOM52DDCMOjtQ7N69ezwThDfqy5vHG/l5ClpnYNUSyO84BGGrWMeV7tmdm+vKWBVOuLCda1YULDNPNlEUkFYMWscuVfo8CCzOqJdhZfmCGFIChWZ5ig/PDHNGO0iiIGI+9pgbOc0vQ17qWW7ZaGNlrdf1g/UPBsi0jaueKcYh9sj/3QwCNoj85HEXbbSvejjXPbkXJbNa9ZbLrD3Go=;nBA81GIfG61iFHvP1Y782A=="
 ---
 

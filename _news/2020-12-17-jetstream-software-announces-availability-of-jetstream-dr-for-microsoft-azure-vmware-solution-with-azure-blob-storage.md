@@ -90,11 +90,11 @@ related:
         height: 640
         isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
-    publishedDateTime: 2020-12-17T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
+    excerpt: "Tartabit's offering enables solution developers and system integrators to quickly onboard Low Power Wide Area IoT device data and context into Microsoft Azure IoT Hub, Event Hub and CosmosDB."
+    publishedDateTime: 2020-12-18T06:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18846149"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846149"
     type: article
     provider:
       name: Benzinga.com
@@ -258,6 +258,6 @@ related:
       domain: generation-nt.com
     quality: 0
 
-secured: "UuAXaBhQcVDiv3b6N7mg8PKC+DFOEn5zDBh8xoPxDL/WIUtczkvfEdWPUHG39X9fl14u8lugH/4uVQjOQASWsemfa6LD+4gfJUBJCbfMkzPWEbv9vqngn93ucKhrYBpnvpOAwDZ6cpRtagbWfEES5dVBHzEi4k80kplCpLOOmMoZ+hpq1Sv5UHCidzltIE80tn0BlH3rcJ81jTx8Cj+YeNjYAFOiJlPwBX3h1x0qiR9msgRSfnKVDjON0XZVoHVgFhQmuQNO2i0HQ/oQ4ZdmS9I8WnVS1q1SoJqS+1rjXo3BlCrXuhR7A87xtN0Jj9yF/mBPSXvKdwVpIS3ZutULp+vYhKKW1yWnwYk8uxV42P8=;HqXLH7TzHyTKzcNPNQSZXA=="
+secured: "qZ4Pu10qjjWzv+wiJ6jpkLCvXINkDj4/Q2WwmOCHAE4GKygLwC4TofA4SMRTd+iL71LkC+SzMrQF6TXKlv06xzpOWozy5XJVfxHqRaOurCyE7RA9N0luOJz8cKqg4MFo6yhaTfximfl5qtN2pfGMsLPzjC8MvYVov9VgzA7NODwltJ/EYStRt98Oefm5X329QszBMLLysY6kyOQFUhfTxQ7jDaB7+bfBDv7nANuUnuWM6BsX2tCQvSL18boWZQBe3Y7LXFK3yWYSEcFcrF0KK/kGtiUV3mrXu8zaJBIWoL64WojGLuodUTvvczVmB/EN8c9t0hxyYZNrRuSeaDSuoqEF8eyD8MBeMyVoWV9q5o0=;tiepz8AChS5pjGlIbq8r7w=="
 ---
 
