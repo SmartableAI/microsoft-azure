@@ -75,11 +75,11 @@ related:
         height: 640
         isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-    excerpt: "Tartabit's offering enables solution developers and system integrators to quickly onboard Low Power Wide Area IoT device data and context into Microsoft Azure IoT Hub, Event Hub and CosmosDB."
-    publishedDateTime: 2020-12-18T06:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18846149"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846149"
+    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
+    publishedDateTime: 2020-12-17T23:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
     type: article
     provider:
       name: Benzinga.com
