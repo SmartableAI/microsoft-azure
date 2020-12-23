@@ -441,50 +441,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms.md",
-      "title": "Automate the configuration of Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll be able to deploy Desired State Configuration (DSC) extensions, implement those extensions to remediate noncompliant servers, and use custom script extension.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 11,
-        "average": 4.6363635
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-the-configuration-of-windows-server-iaaa-vms-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-automate-devops-github-apps.md",
       "title": "Automate DevOps processes by using GitHub Apps",
       "excerpt": "Learn to automate DevOps processes by using GitHub Apps that handle repetitive tasks, enforce team policies, and maintain a tidy repository.",
@@ -1148,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 128,
-        "average": 4.7578125
+        "count": 130,
+        "average": 4.7615385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 87,
-        "average": 4.7011495
+        "count": 88,
+        "average": 4.7045455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,6 +1214,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
           "width": 642,
           "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
+      "title": "Secure your data with Azure SQL",
+      "excerpt": "Secure your data with Azure SQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
+      "length": "PT1H24M",
+      "ratings": {
+        "count": 165,
+        "average": 4.7393937
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+          "width": 642,
+          "height": 325,
           "isCached": true
         }
       ],

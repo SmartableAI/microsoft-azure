@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1594,
+        "average": 4.2779174
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-in-action.md",
       "title": "See Azure in action",
       "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
@@ -56,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 128,
-        "average": 4.7578125
+        "count": 130,
+        "average": 4.7615385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -99,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 87,
-        "average": 4.7011495
+        "count": 88,
+        "average": 4.7045455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -277,8 +315,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 667,
-        "average": 4.604198
+        "count": 668,
+        "average": 4.6032934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,8 +573,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 1046,
-        "average": 4.8183556
+        "count": 1047,
+        "average": 4.818529
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 643,
-        "average": 4.674961
+        "count": 644,
+        "average": 4.675466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,49 +1281,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/explore-causes-of-performance-issues-social.png",
           "width": 643,
           "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
-      "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
-      "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 48,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],

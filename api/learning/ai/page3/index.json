@@ -4,41 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 646,
-        "average": 4.6331267
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
       "title": "Work with Data in Azure Machine Learning",
       "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
@@ -46,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 739,
-        "average": 4.638701
+        "count": 740,
+        "average": 4.6391892
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,8 +364,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 1637,
-            "average": 4.6597433
+            "count": 1638,
+            "average": 4.659951
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,6 +2270,53 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
+      "title": "Transcribe speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "52 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
       "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
       "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model",
@@ -2312,8 +2324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 1637,
-        "average": 4.6597433
+        "count": 1638,
+        "average": 4.659951
       },
       "provider": {
         "name": "Microsoft Learn",

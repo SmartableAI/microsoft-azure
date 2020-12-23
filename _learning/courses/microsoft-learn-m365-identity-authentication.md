@@ -7,7 +7,7 @@ price: Free
 length: PT24M
 ratings:
   count: 3057
-  average: 4.7684
+  average: 4.7687273
 heat: 51
 
 provider:
