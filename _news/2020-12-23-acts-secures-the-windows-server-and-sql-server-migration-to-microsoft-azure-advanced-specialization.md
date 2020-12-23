@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
-excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
-publishedDateTime: 2020-12-22T13:50:00Z
-originalUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
-webUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
+title: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization By CIOReview - ACTS secures the Windows Server, and SQL Server Migration to Microsoft Azure advanced specialization for its"
+publishedDateTime: 2020-12-23T13:00:00Z
+originalUrl: "https://www.cioreview.com/news/acts-secures-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-nid-32663-cid-20.html"
+webUrl: "https://www.cioreview.com/news/acts-secures-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-nid-32663-cid-20.html"
 type: article
-quality: 0
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: GNT
-  domain: generation-nt.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://www.cioreview.com/news_new/sliderimage/v00hs.itser.jpg"
+    width: 300
+    height: 350
+    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -153,20 +160,6 @@ related:
         width: 400
         height: 328
         isCached: true
-  - title: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization By CIOReview - ACTS secures the Windows Server, and SQL Server Migration to Microsoft Azure advanced specialization for its"
-    publishedDateTime: 2020-12-23T13:00:00Z
-    webUrl: "https://www.cioreview.com/news/acts-secures-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-nid-32663-cid-20.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 40
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/v00hs.itser.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
     publishedDateTime: 2020-12-15T09:37:00Z
@@ -269,7 +262,16 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
+    publishedDateTime: 2020-12-22T13:50:00Z
+    webUrl: "https://www.generation-nt.com/atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-newswire-1983625.html"
+    type: article
+    provider:
+      name: GNT
+      domain: generation-nt.com
+    quality: 0
 
-secured: "x/87cwVF29vByLiy0vAhPiM7HKCkpVaicBeUajgTUi4EdkoVBOLWJpVAvWtEJEsN+OxUxBtBoxSWsxtBy7wmC03tY73BKwr+qtJsfjJCxuRE5hbGW4KOIsqV60rf5Su447XA1jO2xob8PMxuQdsNaCKqSZJTn400z/ytq/8A5NKT4d/5QFVyN5yGOCycEtJprcaxFQrqW8tCQDwGU2XmrNgMnVRKWK6dyAcE5eyDy77Y0ZtnppRVwZ4WnnVflKCg8fn1eRZqMBpUTmBKekbgYZBsA7ZTgYOSSToKryPM0n6XiGPnfBoRsHi9rGvnmYmA+LKEjXZbQ0lqjsT+p0igVQtbKjH3BlGP2V/qZoC9NZY=;fmdxwQIfmrADWIhd9CD7VQ=="
+secured: "PKFkLMBlcnBX3mwYeJ0bwttwsymamzqAjhmNIIrJrylhTSHLExw5nAfCxn+PeboH8ougso+Q+SsVZWJ+BDP48c+U05ZaGBiyxWh1N7G9WUsmYRZA8XY8NsswXnI6rZgg+w9YtuAkywcqztIbKqZpwt2y1FUmaM7YBQJQege8JpAUR52Wnnhao1YW0TfrWjELN7bIhdEiSiVW2J5oYdeBRmNDYanu+TOQ/pbHYjO/sojbHBVsSyvQZmbFqZ4YgFOf1A/qnHWIyOi2dYQIoPSpw1WMG896J7RjM4V/q51YMF6u950PZM2uGso303zgx5/KU2t296U9396sJnctf37Q5MeyIHCZAwZupC9Z07e+viQ=;fz38+UFdiIdBk9/MKAhWVA=="
 ---
 

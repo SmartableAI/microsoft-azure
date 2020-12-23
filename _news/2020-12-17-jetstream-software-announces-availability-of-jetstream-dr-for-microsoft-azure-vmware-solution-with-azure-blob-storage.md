@@ -90,11 +90,11 @@ related:
         height: 640
         isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-    excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
-    publishedDateTime: 2020-12-17T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
+    excerpt: "Tartabit's offering enables solution developers and system integrators to quickly onboard Low Power Wide Area IoT device data and context into Microsoft Azure IoT Hub, Event Hub and CosmosDB."
+    publishedDateTime: 2020-12-18T06:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18846149"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846149"
     type: article
     provider:
       name: Benzinga.com
@@ -145,6 +145,20 @@ related:
       - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
         width: 400
         height: 328
+        isCached: true
+  - title: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization By CIOReview - ACTS secures the Windows Server, and SQL Server Migration to Microsoft Azure advanced specialization for its"
+    publishedDateTime: 2020-12-23T13:00:00Z
+    webUrl: "https://www.cioreview.com/news/acts-secures-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-nid-32663-cid-20.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 40
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/v00hs.itser.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
@@ -258,6 +272,6 @@ related:
       domain: generation-nt.com
     quality: 0
 
-secured: "hEuzIGN16u8hahaDy2PXAldBPiQKI5feFJDvfzG4AJiFhd+OJraswujGHR0ZTZk1SLPe+DEUD2s5S6r4+JvDydnmEozxrzgzwp+eJDJfdYBqk8hD/vNsCc/7s+8yZjqdFKuuYM9ob98hd/v0yyDz1YGvlP6Lw0ckZ0cSYmSkWOUYRdliYhHev8roF+leds1VtFtFuylgXGEQPWNx9pE8j0+ZZPeGNhvFq2vqAgMUrbpZfO7dGz+UimEOavn4Foh0m9aY6EtlA3DEVXj64ep6+2VS52pAYeWySAvOYABa/x9uxHllc2yiG//uryjet4dc1/YE5JBLWeM28GBPoiq+I3PRDaoyRgtCo/88nbHrtGA=;S78h6X1pcGDGoic2apx5Mw=="
+secured: "mT/h8c9ch2+Mt/j4NTHHdMnVwYdRbN0lJw8/oAnBLnqDC8Q8k8TUHBjsZY9I5QmkrL6jmpV8p/fSsIFyvQBWUXy7tH1v7OMzi4dwqQ3T/K8ISD0jdFTyAY8fyNYFI0ngzeAMRITSoBtKrKqFO7o25N1+3mYtwoV4sd5XycFAyqcGAGo/feJfboBHlm3LRrkzOEyB1sxlamewe/51O5tpIpPUTMUcQzbJ0Ygv1j+7iVNeqZu/w2S+8ujNI6He8EJ5dBa6KjgQM8I1EJBLevr86wxiFUHBZNbwzImpCEFnmYGS/BSht8I+Ebrs2fKD4BfC0B6/a90eo2U1qOGDVYWuBV3X5uLqPuCd18DMl5uGqOc=;sDJQdUYA9TgZVJNDZSk8jA=="
 ---
 
