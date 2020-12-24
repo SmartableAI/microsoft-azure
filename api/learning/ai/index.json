@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-read-text-computer-vision.md",
-      "title": "Read text with the Computer Vision service",
-      "excerpt": "Optical character recognition (OCR) enables artificial intelligence (AI) systems to read text in images, enabling applications to extract information from photographs, scanned documents, and other sources of digitized text.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-read-text-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+      "title": "Discover sentiment in text with the Text Analytics API",
+      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+      "length": "PT48M",
       "ratings": {
-        "count": 377,
-        "average": 4.724138
+        "count": 1554,
+        "average": 4.6209784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,23 +27,21 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/read-text-computer-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 130,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "Databases",
+        "Management Tools",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "AI",
+        "Analytics"
       ]
     },
     {
@@ -77,8 +75,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 11709,
-            "average": 4.7829876
+            "count": 11723,
+            "average": 4.7829056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2461,
-            "average": 4.718001
+            "count": 2462,
+            "average": 4.7181153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2107,
-            "average": 4.7688656
+            "count": 2108,
+            "average": 4.7689753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1620,
-            "average": 4.7679014
+            "count": 1624,
+            "average": 4.767857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -302,8 +300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 11709,
-            "average": 4.7829876
+            "count": 11723,
+            "average": 4.7829056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,8 +342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1583,
-            "average": 4.761213
+            "count": 1584,
+            "average": 4.7613635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -500,8 +498,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 2461,
-        "average": 4.718001
+        "count": 2462,
+        "average": 4.7181153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -546,8 +544,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 1583,
-        "average": 4.761213
+        "count": 1584,
+        "average": 4.7613635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -612,8 +610,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5255,
-            "average": 4.7484303
+            "count": 5257,
+            "average": 4.7483354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -674,8 +672,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 5255,
-        "average": 4.7484303
+        "count": 5257,
+        "average": 4.7483354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4296,7 +4294,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",

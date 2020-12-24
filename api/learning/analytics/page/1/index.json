@@ -4,6 +4,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+      "title": "Discover sentiment in text with the Text Analytics API",
+      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 1554,
+        "average": 4.6209784
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +75,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 11709,
-            "average": 4.7829876
+            "count": 11723,
+            "average": 4.7829056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2461,
-            "average": 4.718001
+            "count": 2462,
+            "average": 4.7181153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2107,
-            "average": 4.7688656
+            "count": 2108,
+            "average": 4.7689753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1620,
-            "average": 4.7679014
+            "count": 1624,
+            "average": 4.767857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 2461,
-        "average": 4.718001
+        "count": 2462,
+        "average": 4.7181153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +931,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2461,
-            "average": 4.718001
+            "count": 2462,
+            "average": 4.7181153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3606,
-            "average": 4.5831947
+            "count": 3607,
+            "average": 4.58331
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3787,49 +3828,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
-      "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 77,
-        "average": 4.5194807
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

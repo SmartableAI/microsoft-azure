@@ -151,47 +151,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-      "title": "Discover sentiment in text with the Text Analytics API",
-      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 1554,
-        "average": 4.6209784
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools",
-        "Compute",
-        "Serverless",
-        "Storage",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
       "title": "Provision and manage cloud services",
       "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the different types of resources available on the cloud and the technology behind how they work.",
@@ -402,8 +361,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 190,
-        "average": 4.542105
+        "count": 191,
+        "average": 4.5445027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,6 +1183,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/compare-two-samples-by-bootstrapping-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-compliance-endpoint-manager.md",
+      "title": "Analyze and resolve compliance issues using Microsoft Endpoint Manager",
+      "excerpt": "In this module, you'll learn about analyzing and resolving compliance issues using Microsoft Endpoint Manager.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-compliance-endpoint-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/compliance-endpoint-manager/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/compliance-endpoint-manager-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
