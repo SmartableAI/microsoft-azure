@@ -295,6 +295,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "LmspdSDCu07L71XXNduMo5fcD5JZI2HmYmBzCdpjSL5OZf9BO4oZ/U7VSL61o5uktdCR8nxFZTlAzX5H0YseKA5TEpOsc+rfa+pJW+vKWUKkzgUikx042gCzb3VyxT0k/3bzjFSkZMWO4hoL7ABX+VoIbpwd4w8ado5gpMJ7TSPB4owSAT6m+MQfimLuIeAzX9woQyIKSNJAPTmgS9asCbi2etFYuTbiuKeppZFa7PfY7EgqhbLeXC+AvLc9eQuNFuNIDivjhMZRL/tg8htx15rK8ZgS+X+Ls45/vXzhEVBwACvvDsqXuza/EYcnLHVFX6n92KQovze+ZgFv6+pg/00OYsqudnre+EnOnMZb9BI=;fTxlFfIDP+gMVziS3li8Sg=="
+secured: "vMYtJL/y6h7EMy6uvj4dMCVmxGEMHvg3NgwkQTptc7X34F2SsRRmYV3Ulrz1jYxNojz2hjJU/NwKy5aYtzOYCdjwuqIwb8kHL20gI1gl/YZImfzz22Mq1XN56u8jp/ZuR2DzJdrDRMZTOCn2y2d4wrNRn/TlcitGIEdbuu6hlX3uTjjYPb9jeOy+fXIuJ4JFZhCp440GbWO+dMinCxdL0sD29FKTPIu46rmabXUWF2x6Xkv4B5RvnIrHH0OaFfkzr547H4sRxUBbCBLy+atJEjrA+3SRVjk+sfgJPciTX098ELiZRll1GNgtRL0+4wL4IRHybgm5TyozqkdRZLu6JOiG28mMGNxn1Ff0Q7wWPs0=;oC5wa/aAzqLQgTsZZxZBxg=="
 ---
 
