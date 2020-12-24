@@ -176,22 +176,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-    publishedDateTime: 2020-12-15T09:37:00Z
-    webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-    ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
     publishedDateTime: 2020-12-16T16:09:00Z
@@ -266,6 +250,20 @@ related:
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
     type: article
@@ -297,6 +295,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "ZN/Yu5i37K7nTSKRJ1rC8ajTiWTZ0WOmKyQNfanSQf4J0IsW4j4iEI8iGvSXdq79TgbvxQ8ty53WeRwfXD1aSYkAh3kJbfCYaQmIy0AGU6yqM6Kjcbspx9rGQH2gOBioDNbCaD5tEiZtPA1+Omcf450cAAjOfumjHpwvwk2wdXG1b2W08DvwU8Nd5d5ADxMeCHjvlhlRgdYracptsKMtKyacPpZan0B4wDihwCyxU7KSYDbzeuub9Q61FuWo7oFqQdBl3OVCJ7WIiaTUkpNXfc6gtybj5LmCFhgR7I5pO6Ihdd7ThyUc4LK0Ortg6sfrB2UlG920ZD60bHemYsOnfBHE/sm9dRJL/kPFn4TSOFQ=;DBsuDTn9plOSBSbuA7/kQQ=="
+secured: "TfaaITe2g9DMAb8/lCKqOLZwmuIdFUTc76oJLsUsSnjtY6Pxr8ma4+JL6yPSSPFwW8A9M1yi3q+s5MT6eot0jKhNdQUH0ZQp58Q0HE9fJil78RZ3aoV0HgOuaY4Ob/ZQzQbAbOYsuIlH5Z1TI06X4XODo4C5YGiBDbh0i2sn6p2bvfHQsG7WifEFwcd3c5t64OMkEMhZ3PqA+GWUbPZ3i0/eRd2/gSUeLcQprsfr+LW85fs8A9j8tK6NdFvh1CbVjW/KaQqNmWwkSW9aUnZWDv8i34tUMTHQXQD/mYvPaA6cHmQWjtzGx6yR08A2uujUQqkT6RD736Nkl033m+ymvRoxgYUdiZDgEadT9e5klHo=;o+ufVKD9Q9+zhrMnb4Xpfg=="
 ---
 

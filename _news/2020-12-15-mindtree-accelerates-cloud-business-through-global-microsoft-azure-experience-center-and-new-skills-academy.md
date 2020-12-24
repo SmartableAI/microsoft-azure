@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T09:37:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-webUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and?amp"
+excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+publishedDateTime: 2020-12-15T07:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/pr-newswire_500_4_823.jpg?itok=Q_oO6rbg"
-    width: 763
-    height: 509
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -296,6 +294,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "gmGerliUyqZGhZ64gy6LIEFyt+gqO0k96tKuVU6anV48Cd13oT++in8nY1Cb7n7AEaur6YV1nSwhl2StCHfSQlujROjaAUtH9FKLEfxvQ+7AmA81wjUCkGe8anJwP8w+omR0ArKmnaWlj4UrT3VRKcFk17chAjjzZPNCbib25pdyupkIAQymeWJsTTxunj9MSOZjrcqC10brWAAElK871qFhP2qEtTN2c9ecQVNsTqzMqZlV3v83zZMZ//IfYCcsVTxP119uTFV9fi/P6XSePXzu3IS71zinfYbcPUYDGAQKixzC2bd3TBUYOnqmpFIGjVytnDDcKXSKgXRDhIOkUboTtljCmsZRlQO3/7A5W58=;CVbqiBiIXRTERr2Ee+zMcQ=="
+secured: "CUo5vh4niMjQWqPXE59GTHw2BZeinYx8IAx1aQCgjKS+sxS/ZnMdOBZ6yOCDoFmVBvxwzbMEsLkNrWabuOw4klJISGxluF+4wvqzLqq33roAAmsyiGSs1+njb0CKEAVjUfKmHz/PlLo3tIfov6qz2krPIby1gkSCwFOr9meAxa4y/OWo5rikcUokJpBQV+0lkUwStgGpqne9JOFJgsI6pyY8/Lq4HdPVxQAFlDUD86TOu571NtCxGGqUVzQxhyi36iakcHyZxkpMY7mETvfO3UhAbzcadAQONprNtKCD93ZApU7k9B3pScgIEU5bwFlmjsv/gHWFlBEJrCxQXElSw7GbcTYmXDg4bR5wJ+Hymqs=;qOJCpCb/pdpdzVMraVxXyA=="
 ---
 
