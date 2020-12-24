@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 477
+heat: 480
 published: true
 
 provider:
