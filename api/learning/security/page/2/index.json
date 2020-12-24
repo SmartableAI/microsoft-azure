@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-      "title": "Security incident management in Azure Sentinel",
-      "excerpt": "Security incident management in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 5,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
       "title": "Create a threat model using data-flow diagram elements",
       "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 298,
-        "average": 4.7214766
+        "count": 299,
+        "average": 4.722408
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -868,6 +825,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Manage enterprise security in HDInsight",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 61,
+        "average": 4.622951
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
       "title": "Manage secrets in your server apps with Azure Key Vault",
       "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
@@ -912,8 +913,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 231,
-        "average": 4.6060605
+        "count": 232,
+        "average": 4.6077585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1089,8 +1090,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
       "length": "PT8M",
       "ratings": {
-        "count": 266,
-        "average": 4.736842
+        "count": 267,
+        "average": 4.737828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,8 +1222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
       "length": "PT26M",
       "ratings": {
-        "count": 238,
-        "average": 4.722689
+        "count": 239,
+        "average": 4.7238493
       },
       "provider": {
         "name": "Microsoft Learn",

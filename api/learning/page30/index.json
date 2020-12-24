@@ -4,6 +4,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-solutions.md",
+      "title": "Introduction to Azure solutions",
+      "excerpt": "Get started with your digital transformation by exploring why now is the right time to begin, why Azure is the right platform, and how Azure can bring overall value to your organization. We'll demonstrate key scenarios that illustrate how digital transformation with Azure can empower employees, engage customers, optimize operations, and transform products.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-solutions/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-areas-and-solutions-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-to-distributed-programming.md",
       "title": "What is distributed programming?",
       "excerpt": "Learn about distributed programming and why it's useful for the cloud, including programming models, types of parallelism, and symmetrical vs. asymmetrical architecture.",
@@ -956,6 +998,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Manage enterprise security in HDInsight",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 61,
+        "average": 4.622951
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
       "title": "Manage hybrid workloads with Azure Arc",
       "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
@@ -1092,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 1032,
-        "average": 4.6831393
+        "count": 1033,
+        "average": 4.6834464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,86 +1289,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
-      "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
-      "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-release-cadence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 552,
-        "average": 4.7173915
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-      "title": "Manage secrets in your server apps with Azure Key Vault",
-      "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 1622,
-        "average": 4.601726
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Compute",
-        "Web"
       ]
     }
   ],

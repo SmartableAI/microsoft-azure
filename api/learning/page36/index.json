@@ -4,6 +4,51 @@
   "page": 36,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution.md",
+      "title": "Track global air quality with Azure Maps",
+      "excerpt": "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 57,
+        "average": 4.7719297
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/use-azure-maps-to-track-air-pollution-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-azure-synapse-serverless-sql-pools-for-transforming-data-lake.md",
       "title": "Use Azure Synapse serverless SQL pools for transforming the data in the lake",
       "excerpt": "Use Azure Synapse serverless SQL pools for transforming the data in the lake",
@@ -142,8 +187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/",
       "length": "PT44M",
       "ratings": {
-        "count": 312,
-        "average": 4.75641
+        "count": 313,
+        "average": 4.7571883
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -329,50 +374,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
-      "title": "Work with Azure Machine Learning to deploy serving models",
-      "excerpt": "Work with Azure Machine Learning to deploy serving models",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 31,
-        "average": 4.709677
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
