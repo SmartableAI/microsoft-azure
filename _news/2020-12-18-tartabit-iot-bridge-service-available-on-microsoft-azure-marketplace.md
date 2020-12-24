@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
-excerpt: "Tartabit's offering enables solution developers and system integrators to quickly onboard Low Power Wide Area IoT device data and context into Microsoft Azure IoT Hub, Event Hub and CosmosDB."
-publishedDateTime: 2020-12-18T06:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/p18846149/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18846149"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846149"
+excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
+publishedDateTime: 2020-12-17T23:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/20/12/n18846137/tartabit-iot-bridge-service-available-on-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18846137"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18846137"
 type: article
 quality: 54
 heat: -1
@@ -294,6 +294,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "DulgKRM52vQ76h8ykv/XY5OVcxiy/mP8HSFSLmsJx7/zOTj+kPXZFFhko9JShZRtwCUpcqi0lgaacun8z2NJXhnzTXJ13ubI5j27YdKZk+QrjPdW+1AdzYe9g6FF5D7c9NW10MJzz7yDEJaLqpItblew9q9hoDU2l+gfyAoUNjPooXuOuUtuZxC1O8AjFdJH7hZ26fqYkUcQsP8OcLkG2Lra7SdqIfAR2X6jwAaJjCxcdfF1L7gts0jOMcVPGmb6fstWsgko8TkO46f/fygL9qzPbXTgrO6WwK+MlsxBFcLTYvB+2JigexkbOOoHXkqNQJRtoD+B20/5T/DaZ9BCL6BdyeuEctrG7m2oymfjoZk=;iRCaWsrjcYyC+mT+r+hJzA=="
+secured: "bOqL3y+eqH4Za7loD/Myh/vz+McpZgcaNkeGptRFpKCghb/b3iR6DR3Nh7avBEvqsNclqbZRi6sNHJvc2JP3+iuNiXsz6kJ5yms9zMTAOrXgmb/lMa0CkDCsztTHGrntwRXmnLKdRBz+bNxjazEVLjxWqYM5sv1UmaKk0ve1vf+WdSYk532RI49CVLs3lfjAMmKo2M3+QXEAVqVyswVp3RbxT+egWJzQO02c+Oj1KmItcYvFdGOt8O9qp3hV8tHSeasaHRsEngX+6KaVTtQUDCBhJRxn1wOs1al1FmbdAqow1TeKsQWthavFVRKRNDUuR/LQLMCdQmbidL3ce6ONzexDObETghxhbzJyjlZ30Yw=;6WemxMiCeBUHGgTWpkLqaw=="
 ---
 
