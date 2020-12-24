@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T23:49:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+publishedDateTime: 2020-12-15T17:45:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
 type: article
 quality: 19
 heat: -1
@@ -25,11 +25,11 @@ images:
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
-    excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
-    publishedDateTime: 2020-12-21T10:45:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+    publishedDateTime: 2020-12-21T10:37:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     type: article
     provider:
       name: TechRadar
@@ -296,6 +296,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "bjXNmwZn3HFUpfHV0p5RZr6Wbfzo7yPqqxX+A5ku2pXfPEkxinvD0hLTDZEmGKk1ZCgoy1Z8vJ6ghlLbtpNwUlTjQ6BekJolAlDwiLEcJiwQnH3PU857Xks7ntvW0XLQtkgmcspIC5P7lk7Vlq3FGoFeBcO/XVtndrG/uY6iUb35Aw9NPJgVEIxtRU+Z1vSRaaNBu8HqrM2SxZ1Jvp6pTGoi+GS5b6wIK7HW31TqBsJQJxxFnUq+F1kv3wRR4pDUMq5Zhumo2KXaGCDRX1Ah8M+L9FDpiXvpIKmvv/tnZ0cM6SpH4dd5MLVPEB+QdQBd6ze8U950rG7DPzykoYgDWVlDa4l4AybSNX4mMWtEr1k=;CFKxhYC3mx+XFKAfS4jkNw=="
+secured: "PR2QMqkWqoGZONWSUr6renGYMk2+gghBGY/deK3OpZ3nuElpT8vjGNqcocUR3nbDJiEHUF5L94K1ekyaz8mE6cHgvRo+6m601ZaLlzfz+9mDwFiZtUgXJC38OIPSue4UOcWg3QxeTYji0LuEL+mh0AeHlHzBgEb08NBrrIWIlLBemeBup/NEwN6QQPMzU9QVTzE831yqW9qojWVMREl5hSMBdJ6VOsblOm0KOj532EdRtY2KRPpfXTg3Ojma8ewSKBPwkCsIDGM5xPBvAGf+UlSNL8kQ+hZd/yEvDJh9U1UsMvBQ87aQrqmKC9sNoHvDhlRuZmuEM1e0CMG/k5/H8qM/+NfqiLGF5tDb5KbJtDg=;aWH22j2WGVC/cM8X0xrNQQ=="
 ---
 

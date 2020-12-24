@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Microsoft Azure breach left thousands of customer records exposed"
-excerpt: "Thanks to questionable security practises by an app developer, more than half a million sensitive documents of its customers were exposed on the Internet. The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files,"
-publishedDateTime: 2020-12-21T10:45:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-webUrl: "https://www.techradar.com/nz/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+publishedDateTime: 2020-12-21T10:37:00Z
+originalUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 480
+heat: 477
 published: true
 
 provider:
@@ -268,9 +268,9 @@ related:
         height: 509
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-    publishedDateTime: 2020-12-15T23:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T17:45:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
     type: article
     provider:
       name: PR Newswire
@@ -300,6 +300,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Np3TKLkd7Y7bi5RUg9aU6KjUxT1IYUyxo38lmjFKcEIkdtheAWYq0BNBSXNFtq8X+1egpciCUUSXaU4APA+EC7Df+ayTzL0b0cDPGY1xcdXJ41ZQNgVd+dO3eUeXtZjbGMQ0JKZMfXCOrLyO9hSvHrfqCaI/usBIAwUJDavqcqdmYbcxG4FTlPbD/6Ly90ngrwFaX6koB7/W2ejHJ3yYDp+DPEHpdDX841fWT7bg5e5GnZE6TsyscwI6Q5GBHSaMKcWd2HBWce+uYHbKFb9cEDut2eJOg1vLsQZXeH3d5UoUJe6NyXWFEWbyn5DwOPQvS05xLEuwIo9sIfNX8qmiaqtT4PXlvOF9rO2XayXdfAM=;rvlMI3AKRXkA2/5HJQkCKg=="
+secured: "2av3pRJ01YICgVDni/jfgwneIwf4wPEdlFSrfuCQZ/R6inx/k/UU7dzcgOBF7g3ELXQ39a6aGJ+NVbj76QYWrt9RO/9MFcaGo5Z8/v6vHtiju+/xSqIOfPxEuIt48FvcW0vjO1Vtbk+M/eEBRpEirM9d+XAC17oiE7MaYvfaCccLVmK0iWykVSpwvKmhk2IsXcErWRofXMHZwZKT/dnJz9NkJMb5tXEv9oc1h8Sik5OnNWjS5pIGuD96h9wdC6x8PjOCVKYwdTSOoTT0V3ChzbDkbVSBhfl9W1KJLfv8kaMBLqryQfkFWJGRlwndTDXS9d9qf9omTZF3/GWYTJul7YJ0swk1mcbwogj+HU54luw=;YrD0osvZGj+l6B6+TYcE6A=="
 ---
 
