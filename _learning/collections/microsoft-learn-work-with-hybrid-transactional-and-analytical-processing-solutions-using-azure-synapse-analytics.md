@@ -4,7 +4,7 @@ excerpt: "Work with Hybrid Transactional and Analytical Processing Solutions usi
 type: collection
 price: Free
 length: PT1H35M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -20,6 +20,8 @@ levels:
 items:
   - courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics
   - courses/microsoft-learn-configure-azure-synapse-link-with-azure-cosmos-db
+  - courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics
+  - courses/microsoft-learn-query-azure-cosmos-db-with-sql-serverless-for-azure-synapse-analytics
 
 topics:
   - Azure
