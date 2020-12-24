@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Azure breach left thousands of customer records exposed"
+    excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+    publishedDateTime: 2020-12-22T05:06:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
     excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T08:08:00Z
@@ -269,6 +285,15 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
+    publishedDateTime: 2020-12-22T09:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "x/87cwVF29vByLiy0vAhPiM7HKCkpVaicBeUajgTUi4EdkoVBOLWJpVAvWtEJEsN+OxUxBtBoxSWsxtBy7wmC03tY73BKwr+qtJsfjJCxuRE5hbGW4KOIsqV60rf5Su447XA1jO2xob8PMxuQdsNaCKqSZJTn400z/ytq/8A5NKT4d/5QFVyN5yGOCycEtJprcaxFQrqW8tCQDwGU2XmrNgMnVRKWK6dyAcE5eyDy77Y0ZtnppRVwZ4WnnVflKCg8fn1eRZqMBpUTmBKekbgYZBsA7ZTgYOSSToKryPM0n6XiGPnfBoRsHi9rGvnmYmA+LKEjXZbQ0lqjsT+p0igVQtbKjH3BlGP2V/qZoC9NZY=;fmdxwQIfmrADWIhd9CD7VQ=="
 ---

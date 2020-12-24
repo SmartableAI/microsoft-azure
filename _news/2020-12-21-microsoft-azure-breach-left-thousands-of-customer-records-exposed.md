@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 439
+heat: 477
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure breach left thousands of customer records exposed"
+    excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+    publishedDateTime: 2020-12-22T05:06:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem"
     excerpt: "New Delhi, Dec 15 : Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
     publishedDateTime: 2020-12-15T08:08:00Z
@@ -273,6 +289,15 @@ related:
     provider:
       name: GNT
       domain: generation-nt.com
+    quality: 0
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
+    publishedDateTime: 2020-12-22T09:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "Np3TKLkd7Y7bi5RUg9aU6KjUxT1IYUyxo38lmjFKcEIkdtheAWYq0BNBSXNFtq8X+1egpciCUUSXaU4APA+EC7Df+ayTzL0b0cDPGY1xcdXJ41ZQNgVd+dO3eUeXtZjbGMQ0JKZMfXCOrLyO9hSvHrfqCaI/usBIAwUJDavqcqdmYbcxG4FTlPbD/6Ly90ngrwFaX6koB7/W2ejHJ3yYDp+DPEHpdDX841fWT7bg5e5GnZE6TsyscwI6Q5GBHSaMKcWd2HBWce+uYHbKFb9cEDut2eJOg1vLsQZXeH3d5UoUJe6NyXWFEWbyn5DwOPQvS05xLEuwIo9sIfNX8qmiaqtT4PXlvOF9rO2XayXdfAM=;rvlMI3AKRXkA2/5HJQkCKg=="

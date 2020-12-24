@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Microsoft Announces the General Availability of Azure Stack HCI"
-excerpt: "In a recent Azure blog post, Microsoft announced the general availability of Azure Stack HCI, the new subscription service for hyper-converged infrastructure (HCI) from Microsoft Azure. With the GA of Azure Stack HCI,"
-publishedDateTime: 2020-12-20T15:14:00Z
-originalUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
-webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
+title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
+publishedDateTime: 2020-12-22T09:05:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: InfoQ
-  domain: infoq.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -219,6 +213,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Microsoft Announces the General Availability of Azure Stack HCI"
+    excerpt: "In a recent Azure blog post, Microsoft announced the general availability of Azure Stack HCI, the new subscription service for hyper-converged infrastructure (HCI) from Microsoft Azure. With the GA of Azure Stack HCI,"
+    publishedDateTime: 2020-12-20T15:14:00Z
+    webUrl: "https://www.infoq.com/news/2020/12/microsoft-azure-stack-hci-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z
@@ -286,16 +294,7 @@ related:
       name: GNT
       domain: generation-nt.com
     quality: 0
-  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
-    publishedDateTime: 2020-12-22T09:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
-secured: "/LvcsAdPhMZFkmChXA0vR3PEJ1dOeGBCO4B+HGPcOCDHVzC9kD6KiZGURmkygUG1wDBUzdEdAOtGh32Xu+Y9lTs193w53OGbiNzdGYZ22Z95FtlFP+OXdCLkmNDUttdFHf0KEf+7ILt21OiiLLv6Jp0FXS/W8qE+60K9KzQPwpTtzZZ9Ogn19xf7rmvXu2dec5+yklneXXf4MOrhnST9U2ZqM+13+uDTnV/p3rSflx1ygWMM4mGtG3MrFb795pxC92u4qReoR4Yk9werBHY8yYN6Z+ceJHbiDcumTz+jG6t076Lw4T3YBdVd4ZfeRWLBtmBiijmLTsNkTbDN8SjuOUM6RcZTgVXHpeptd2rpx7n84Gkys8dT/wxWq6b4DMLEsX7r+rT89JQuEi2FhMYm5w0Dtgu8TJosf5jcdKZfjjO4dZ3YUBoTmDoOsKqUfhZ0D/9eQ+e5EQRy/2yjsWag3jbeFby7ZNEnjUIr1yHtnbOFPP9xxcO0dlg6w6+6IAAGINJjd4r+PijI09ce0kv31w==;ovwKnFDIGajGD2T5112QWg=="
+secured: "wPg3jpPTYV4uj8LYro1RQNFkjGBxqlrQHSFvBenitY6fJTL9c8Zer7JxsVBMlXR2XuwH9mijrotUtYGMV1NCUG3h+gfWcDRSUXLEd4DepXx1EG00gOJOlP6ZK2fV9nZU9byP+fjqVaFQt5+MwSpEiv0gzcw1EyvhRIWCwUV3YSWqJ6lgWX8E4IOVIq8PeJDdZlp1cE9ar7E2vAlGxejOWy8orX/Nygriiijbj6ML5HcOJolJpxlufNSEN60QHXLcaVb5DCww3Pd6aWLXW2ZTv2DP3R7rSwj+OpIJi/EcKDUF1wazHpjIl4tfQ3zhZ6Q3wnLSOCuEnkqWkUJjxUUPHG1nXG4blffbqxPV1/V0nJY=;nyi8RnMmCQbfY9iA+iCW8g=="
 ---
 
