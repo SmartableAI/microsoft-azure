@@ -4,43 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 2823,
-        "average": 4.6680837
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
       "title": "Store application data with Azure Blob storage",
       "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
@@ -540,8 +503,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1868,
-        "average": 4.5845823
+        "count": 1869,
+        "average": 4.5842695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -942,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 844,
-            "average": 4.6469193
+            "count": 845,
+            "average": 4.6473374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1810,6 +1773,49 @@
         "IoT",
         "Storage",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas.md",
+      "title": "Control access to Azure Storage with shared access signatures",
+      "excerpt": "Grant access to data stored in your Azure Storage accounts securely through the use of shared access signatures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-access-to-azure-storage-with-sas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 39,
+        "average": 4.4615383
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/control-access-to-azure-storage-with-sas-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     }
   ],

@@ -4,6 +4,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 11,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 12019,
-            "average": 4.782345
+            "count": 12026,
+            "average": 4.782388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2518,
-            "average": 4.716839
+            "count": 2521,
+            "average": 4.717176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2172,
-            "average": 4.7688766
+            "count": 2175,
+            "average": 4.7691956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1667,
-            "average": 4.7678466
+            "count": 1670,
+            "average": 4.7682633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +282,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 2172,
-        "average": 4.7688766
+        "count": 2175,
+        "average": 4.7691956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,7 +909,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 133,
+          "heat": 53,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -969,8 +1015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2876,
-            "average": 4.727747
+            "count": 2878,
+            "average": 4.7275887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1013,8 +1059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6707,
-            "average": 4.6572237
+            "count": 6708,
+            "average": 4.6572747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1605,8 +1651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2365,
-            "average": 4.668922
+            "count": 2366,
+            "average": 4.6690617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
           "length": "PT33M",
           "ratings": {
-            "count": 917,
-            "average": 4.601963
+            "count": 918,
+            "average": 4.6023965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2576,8 +2622,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
           "length": "PT41M",
           "ratings": {
-            "count": 92,
-            "average": 4.8369565
+            "count": 93,
+            "average": 4.83871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3823,53 +3869,6 @@
         "Security",
         "Databases",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 22,
-        "average": 4.5454545
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Web",
-        "Compute",
-        "Containers",
-        "Mobile"
       ]
     }
   ],

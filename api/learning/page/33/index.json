@@ -98,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 1132,
-        "average": 4.5918727
+        "count": 1133,
+        "average": 4.592233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -614,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-manage-users-azure-synapse-serverless-sql-pools/",
       "length": "PT18M",
       "ratings": {
-        "count": 5,
-        "average": 4.8
+        "count": 6,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -819,52 +819,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
-      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
-      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 11,
-        "average": 4.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web",
-        "Serverless"
       ]
     },
     {
@@ -1271,6 +1225,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-start-ml-lifecycle-mlops.md",
+      "title": "Start the machine learning lifecycle with MLOps",
+      "excerpt": "Learn enterprise AI management with our free open online course, including machine learning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-start-ml-lifecycle-mlops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 36,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/start-ml-lifecycle-mlops-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

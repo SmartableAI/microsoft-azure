@@ -4,6 +4,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
+      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 22,
+        "average": 4.5454545
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
       "title": "Implement logging in a .NET Framework ASP.NET web application",
       "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
@@ -1013,52 +1060,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
-      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
-      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 11,
-        "average": 4.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
       "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
       "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
@@ -1066,8 +1067,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
       "length": "PT41M",
       "ratings": {
-        "count": 92,
-        "average": 4.8369565
+        "count": 93,
+        "average": 4.83871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/",
       "length": "PT36M",
       "ratings": {
-        "count": 59,
-        "average": 4.762712
+        "count": 60,
+        "average": 4.766667
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 11,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -34,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 12019,
-            "average": 4.782345
+            "count": 12026,
+            "average": 4.782388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 5949,
-            "average": 4.808203
+            "count": 5953,
+            "average": 4.808164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 2910,
-            "average": 4.803093
+            "count": 2911,
+            "average": 4.80316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +230,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 5949,
-        "average": 4.808203
+        "count": 5953,
+        "average": 4.808164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,8 +297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 12019,
-            "average": 4.782345
+            "count": 12026,
+            "average": 4.782388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1642,
-            "average": 4.767357
+            "count": 1644,
+            "average": 4.76764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1315,
-            "average": 4.7269964
+            "count": 1316,
+            "average": 4.727204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1128,
-            "average": 4.7588654
+            "count": 1130,
+            "average": 4.759292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 971,
-        "average": 4.761071
+        "count": 973,
+        "average": 4.7615623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -881,8 +927,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1868,
-            "average": 4.5845823
+            "count": 1869,
+            "average": 4.5842695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2183,50 +2229,6 @@
         "Containers",
         "DevOps",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 127,
-        "average": 4.6377954
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
       ]
     }
   ],
