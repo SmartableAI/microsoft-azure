@@ -92,6 +92,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
+    excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
+    publishedDateTime: 2020-12-25T10:28:00Z
+    webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+    ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 57
+    images:
+      - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
     publishedDateTime: 2020-12-18T22:41:00Z

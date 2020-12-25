@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
-excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
-publishedDateTime: 2020-12-22T09:05:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
+title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
+excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
+publishedDateTime: 2020-12-25T10:28:00Z
+originalUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
 type: article
-quality: 0
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: The Hacker News
+  domain: thehackernews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
+    width: 728
+    height: 380
+    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -81,22 +89,6 @@ related:
       - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
         width: 1000
         height: 696
-        isCached: true
-  - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
-    excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
-    publishedDateTime: 2020-12-25T10:28:00Z
-    webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
-    ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 57
-    images:
-      - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
-        width: 728
-        height: 380
         isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
@@ -308,7 +300,16 @@ related:
       name: GNT
       domain: generation-nt.com
     quality: 0
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "The Azure Expert MSP designation reinforces Atos' 20+ year alliance with Microsoft, which recently expanded through the launch of Atos OneCloud, an initiative that combines a set of 10 offerings ..."
+    publishedDateTime: 2020-12-22T09:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51575411-atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed-service-provider-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
-secured: "wPg3jpPTYV4uj8LYro1RQNFkjGBxqlrQHSFvBenitY6fJTL9c8Zer7JxsVBMlXR2XuwH9mijrotUtYGMV1NCUG3h+gfWcDRSUXLEd4DepXx1EG00gOJOlP6ZK2fV9nZU9byP+fjqVaFQt5+MwSpEiv0gzcw1EyvhRIWCwUV3YSWqJ6lgWX8E4IOVIq8PeJDdZlp1cE9ar7E2vAlGxejOWy8orX/Nygriiijbj6ML5HcOJolJpxlufNSEN60QHXLcaVb5DCww3Pd6aWLXW2ZTv2DP3R7rSwj+OpIJi/EcKDUF1wazHpjIl4tfQ3zhZ6Q3wnLSOCuEnkqWkUJjxUUPHG1nXG4blffbqxPV1/V0nJY=;nyi8RnMmCQbfY9iA+iCW8g=="
+secured: "8B8RWAp6hPfuzAyxon+UKRk1LajLeJRVXxBak0uR5YoeRbvL1WCUQ1kHn3qSrqZr/c08MBk5AJG6dt3mxlX0SOUyVK4L73vBhudXbvHHOAIunKZ78whYh6aAdbraaMvEws7wn8JY/1VN0n7oc8ptXLsGl/0OCyyqmll9iHOTbzgyHXHF57ztbUxDM1FTkJqFSuBM4vDr2Uckz1TFo3TEkklJAty4ooTnJ77AyZHxwbCnDaOcAhNWrFfwyaSvK6euk2TtzuL754x00RoHV2rFGYc2t0PI/BlGlLTZ3ubY3diU5d+umeNLtPenvUnKyeyDsWlCTFCC8qUciOUofVHU3ewkbB7cxFyoX/6eUkNJNlA=;q6VfTGjDv7cIiy6ASyqTiw=="
 ---
 

@@ -90,6 +90,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
+    excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
+    publishedDateTime: 2020-12-25T10:28:00Z
+    webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+    ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 57
+    images:
+      - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
     excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
     publishedDateTime: 2020-12-17T23:00:00Z

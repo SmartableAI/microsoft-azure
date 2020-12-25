@@ -89,6 +89,22 @@ related:
         width: 1000
         height: 696
         isCached: true
+  - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
+    excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
+    publishedDateTime: 2020-12-25T10:28:00Z
+    webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+    ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 57
+    images:
+      - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
     publishedDateTime: 2020-12-18T22:41:00Z
@@ -295,6 +311,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "w49ber9Z3zhCYEVVvT+JEIw1jzdCn01qzbbQ8R055UNIVJ999EXAJQYT+LVljw/syjZamFo1HRVRYul33jV7puDPYzAt+6DJG0D8oykxOO3T3S81VgRAI2yJ+oGMkdTEJAyw5arT6KRAPHDc7jWh6SjGWtqE+tNrglxtVaK/n5eVIzJd+UnDPzqxiMwhtNbFiEyG9FNti83Y9VUX2lCoPUq08OT0cZwTmJbyp+lfaUQuGzlv23QjDnWZMJRigtnUAOd4MOsiemu+ShUqg3xSWs5A9HOvFxcCF0TfBE5SmSy3lI4KfK/kJcMNrF0c1VWD4kLXarvqaFp3fQxv24XfphxwlaIKq4W5pIemKFjp7+8=;oGXATeLugcC+Vr2PopXPkA=="
+secured: "gLjIiWbq1DF3XwB9bKZ8AqhvyuYTfE0/CnaA/fo/Oa5XRDDR6SeWMqeViNjnozPGxLF6EHt7APo2a9/7TtodlTrdKSn5I3Al8XdlVJqhPbtBwpHC6sPjh9CBlQ0xKuKv7jhV3of0sdYy8/fu7LVEMcdRnjvPgMKvAIrbJlHvy2+oKnStbnvTTl92Spp9+/22k3uzCEcTo4CVBRU03Ab5Yh+8CkuJp0S3tD+8/wrhs0I1PQRwrhYhE7/aU/FyrvQcOLciLiCh1AjTWy5aCajCSpiy4Qkqiwdp4T4v5JgBAIRuDeRkkWbHGsd2eOWwz3RI3sTbAs7gtMjfXFy5e5wBEqDo6523kpHMZGDB2K48rf0=;96zGcyoamJ0lXb3L3RHtQw=="
 ---
 
