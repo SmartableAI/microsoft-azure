@@ -295,6 +295,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "f2OxutBu36RB1F02u2KEHiBgEVhWZLU8c2v0Ej+0y6jZXKVJ3J/afWXliExfLHCzjYcGHk5EC7ORW9oRGkUF86vpK1GJc98zb/CkjFm3poHMNNf22vfsZNr3cAHimgLfe62+Xyf1Zu/HvVvLcDr14KY86bQB6t2oNUBNiWNU5vDk9l6verkZGV562/okiViorYUCQKPyuEgX3LvHU3vIRlMeaO2nV+myIa3lrgQHeE0awMNvYuyJ4B0wt/oqptKZiKebrJbXqCjUIR6e5595m+QQJvWkX+Kn/haZdfDSL+CgnvAw5Ab5B/DofCLYO9bLE+BGZnhk7tPlqc5ocYRmqPqF8nsvyU8lwIBbjk8Rc/A=;Ax/ltwkVQbEq5qMagxrSog=="
+secured: "w49ber9Z3zhCYEVVvT+JEIw1jzdCn01qzbbQ8R055UNIVJ999EXAJQYT+LVljw/syjZamFo1HRVRYul33jV7puDPYzAt+6DJG0D8oykxOO3T3S81VgRAI2yJ+oGMkdTEJAyw5arT6KRAPHDc7jWh6SjGWtqE+tNrglxtVaK/n5eVIzJd+UnDPzqxiMwhtNbFiEyG9FNti83Y9VUX2lCoPUq08OT0cZwTmJbyp+lfaUQuGzlv23QjDnWZMJRigtnUAOd4MOsiemu+ShUqg3xSWs5A9HOvFxcCF0TfBE5SmSy3lI4KfK/kJcMNrF0c1VWD4kLXarvqaFp3fQxv24XfphxwlaIKq4W5pIemKFjp7+8=;oGXATeLugcC+Vr2PopXPkA=="
 ---
 
