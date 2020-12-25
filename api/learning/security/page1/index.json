@@ -141,8 +141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5505,
-            "average": 4.661944
+            "count": 5507,
+            "average": 4.6620665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 12003,
-            "average": 4.782554
+            "count": 12019,
+            "average": 4.782345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -548,8 +548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8565,
-            "average": 4.6920023
+            "count": 8566,
+            "average": 4.6919217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3472,
-            "average": 4.71515
+            "count": 3473,
+            "average": 4.715232
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +1210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5505,
-            "average": 4.661944
+            "count": 5507,
+            "average": 4.6620665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2262,7 +2262,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
@@ -3480,15 +3480,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-      "title": "Security incident management in Azure Sentinel",
-      "excerpt": "Security incident management in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-      "length": "PT1H5M",
+      "path": "_learning/courses/microsoft-learn-monitor-report-aad-security-events.md",
+      "title": "Monitor and report on security events in Azure AD",
+      "excerpt": "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-report-aad-security-events/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
+      "length": "PT35M",
       "ratings": {
-        "count": 5,
-        "average": 4.8
+        "count": 235,
+        "average": 4.604255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3503,14 +3503,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -3519,6 +3519,9 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Identity",
+        "DevOps",
+        "Management Tools",
         "Security"
       ]
     }
