@@ -8,7 +8,7 @@ length: PT1H4M
 ratings:
   count: 112
   average: 4.776786
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "/1ZVm3flTEohzTKFVFkJMmkFcjhk6AYj8Ffcn4T5NrJvnWBOQQXXJK0qzApXmaftLa0DxGGq3S81JESGUnl+B0nXk37/yPtF6FD60I6G5CMKC4FEwbBs1CYYguRMWPmrcY9cRl9eMijduz7o165awuds7kQ9spb7QJFpBt7vSWWEl0tUlGMGHKD+EQ1eWyxxwB5Oep4AeATDluRC22IZN8juyxFN5VaiDJ2myOf16m0k65haVlDIcB9vDX5xTLFy4e7CemIH55gvR0j+wTXSHp0u0SozESVb+G4ED5uSkfoiR4VeBBIfIgFcBx5FP91e+XvllqUkwqILhmrS6p7qTN27YrFoW3komL5rSF8ETNjDtGJhU90Kb3lrxz4JeQDchOPz+1+V4FzOqS85rVoFVAEocuxv46IiX283hl0TpQg=;f8OmwYO2QA67nx2LEQ0/GA=="
+secured: "Y7cyY0DHquEYouM2aqC5aVnVCEuo9b1htzFwA15Us7GvBwzaR+rfo7h6xcQZiaWauL6RGrsmhCr9Q0YyZTB2elahzCtgE2iuq+dKs0dGmv1H4HPqEKLuqp+kc1PXx+4DErJhta2fWOuE87uVnGquzKmG2Mj4sd16K4HQc3vnhv3DiUWWe3Nb8vxyopZNoRbMmoX+qAF1AHzucq5aRaY7xgIdqOIjPn2vi0uRRyVBAueC/DXDG1rAvv5ZW7WveEVp/7KtsrujQ41OvMGX8pu/khn8giG9TlLqBVP4dLOiaK3EomjSP5/MKbhNYdLrlcvjH3R+yDOzBDtw8kD4CHDBaiV9aUUTL2Kq6WqslGkcYpXuYvJb0yEwqD4zArgaoZlj+omPel+DMx58k+u6//JnYEpt3R3h4YAm9t27S4v1M6k=;o5C8THhj2ouRwy6I5foDig=="
 ---
 

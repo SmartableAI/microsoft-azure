@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 205
   average: 4.6780486
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "H6YAk5GpfNIKrrWDa922aReBXWpumT311hENDBLUcz43m8zJt1uLxEBc/EJUTk2IorFwv4i/GzeTHJCIpjgSX1fBa+7zSXTzG9sn9/CTurDM1tfMmb1Zn7BNsw1eFYxYuiaGwyWWzGSFpuT9ZIVibNkHxLMEyeK7gdwVzHZQgNJdQcFJEM0bPx48SaDN17e6EbbuxD55Z/4eMoUG7AiZBvXMQ7R3zqZ69p9i02O7q3dkquIGtFDdGjWQ3nap0b8vUCD5663SccKB3O1HQcApCKfQVhqwOUNfy00D/USX6lEd8L71T8u3LRknKHN4NIoCpYxLhlhc9Br0FeBXK/aixnPFRGYwpxETopLj7b2StdpYMxoETJbtlnBbAsyD15pmd1rD4NkV3x9Jf5uiEhRqlTcKyP0eOnWqfcPW4RQEvkA=;lBmeatZcpDqiChGDgU4k9w=="
+secured: "MN9bIHQzqvDQ4AsWl+KXaQOArx+juw7AgAstbFBBteH/F7RoijMoQvUze8Q92YofQ0KYP8PqGXe8Mtdrx0U41ZpyadHO1sQSBweYTxbGh5sWUgoqtypKQFFSEsN6iQR6oKBuh413viNA/FITi/rSPor7rib0E+Bc2N8tedkIb6DvCU5DGiidBWGwGym23yRXEH3sX1kFMiUWAmGmhUXYK38b7D95mCt0M9XjmGvNi7CcHMMm+i6o1x6w+Ur7nvnZH1n+r8rgHagZY3jYTqZx9szOfBviYzBQJI8OKuS859zHt8mmdIFqdSlh08a5ridH09QGJjZA4kobJA+CMvRY0CCJfxKZveaBso/AwEuTDDxiNWi/5dimN/cJpOj4QtKz/BAEf/by26dJwC7l76iJcSY3LGg0Gg5/+Pj+mxo+5Ro=;piWE+vrILhAJT5mgxI17aQ=="
 ---
 
