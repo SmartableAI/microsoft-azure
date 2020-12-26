@@ -1,28 +1,22 @@
 ---
 category: news
 title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
-publishedDateTime: 2020-12-17T15:31:00Z
-originalUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
-webUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
+excerpt: "Native Technology from JetStream Software Delivers Cost-Efficiency and Continuous Data Protection on Microsoft Azure."
+publishedDateTime: 2020-12-17T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Storage
-
-images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -192,6 +186,26 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
+    publishedDateTime: 2020-12-15T07:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-1029892488"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
+    excerpt: "New Delhi, Dec 15 (IANS) Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable ..."
+    publishedDateTime: 2020-12-15T13:30:00Z
+    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 37
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
     publishedDateTime: 2020-12-16T16:09:00Z
@@ -265,17 +279,6 @@ related:
         height: 509
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-    publishedDateTime: 2020-12-15T07:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18788748/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skill"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18788748"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18788748"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
@@ -308,6 +311,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "gU/9mPKZbVL56v8HM9NC1DpTeEvWp3oho1LA5hM/7rwYNnJla4EnrJPkg0g8Q9IK4YucR2SvdTA4L2ohQDaRVrLMda5xmcHKDusdw7b5D9PFHGX0A1S+EU09wa2AQKs7jsdZJMC8HIlPA48oZCxisYhYO0Qz5MoA9xoFICsbRY94RY55mXjcxMBb36GtOE0iBoFIErWIOVQDS2q0CP5GhZFzfYKrerEhNWOFWAr6bU2i8NkCFk6CdY4I1aAV4MEo0mZ1TXOljfRDYGRDnMLwh00oeiWQltvTbrtArKX/lh/jb5diEFdE/vv2QKCM+NxlRYWRssJD9nF69f8ZHBLQk35juv3Lx7YEIHDXLIdJtu4=;08XmJ9mHGQ+c6SS2Mfsi5w=="
+secured: "89BjmXF+O1ftgL7sSvD9r7q4Rz83UTYk49p684+hpxUBhfo5mNWtzuuizzTnYCYEDve3FtjKtWMJeo2ZHiE5KKWmcyFmrMGBqDzgDKkMUXkkExz2/ZTwXwWuM6ok/iXj3QAeSJMVe4XZiLZytbYgexLArB7TRGNwXfsVRGqnBAsRG5sefrAFK92yE2ASdcx9A8rVMFOKb1R+PZ+YxH8EFPgl3sP9UDjpvBmbZvLIS6+IWLZQ3NFYjk0lQnVR/tRZdfrT5edsrt4vaFPyjZQ0JNY1S75slFByIHIiTb483QaxeSsSpvZWbjEcMa6ZUBx0a/BIh0pjjN5vhw2h8cMDy89DWMxDZ+ptTDC98xMdkMc=;PM7YdSah6c5TYatrIj7cZw=="
 ---
 

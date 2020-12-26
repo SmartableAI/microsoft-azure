@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
-excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
-publishedDateTime: 2020-12-22T09:09:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
+title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
+excerpt: "New Delhi, Dec 15 (IANS) Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable ..."
+publishedDateTime: 2020-12-15T13:30:00Z
+originalUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
 type: article
-quality: 51
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -135,6 +127,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Atos International: Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed"
+    excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP), for the 2\\^nd consecutive ye"
+    publishedDateTime: 2020-12-22T09:09:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-22/atos-international-atos-confirms-expertise-in-cloud-services-with-renewed-recognition-as-a-microsoft-azure-expert-managed"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 51
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
     excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
     publishedDateTime: 2020-12-16T06:14:00Z
@@ -190,17 +196,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
-    excerpt: "New Delhi, Dec 15 (IANS) Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable ..."
-    publishedDateTime: 2020-12-15T13:30:00Z
-    webUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    ampWebUrl: "https://www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/sun-mobility-rides-on-microsoft-azure-to-help-build-ev-ecosystem-ld-news-education-umpilDgedhjbj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 37
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
     publishedDateTime: 2020-12-16T16:09:00Z
@@ -315,6 +310,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "tlLDVaYotIHjpQdLg6s0vLw1yQ/vvjwgr7P8m5PXFj2BSeJA7XJa4udXoGLaw8+CbE7tEyuMvORvaz7oTWzdnRJSnPVNknfwCtzscptdboW4xS2po1Gm6MGL1rkB4s49uGY0r5/5DrawKurYECfaIUJHYZnK5Hx6fkipBgCBlI3yBY6P4rHc7X4ZDJvAFTNVjgEicoMybbW7rx0T3S9QkECkFD8cbeOyFdoi+uEFfadEqXq5D68CHtPlZbsTESvx2dHR6usigYEQ10wa7uj5dmdkWwAENX7MGtSoi+ILsW9Z2YnqfW4zbc+bq2haiYOgzVej/HxMx9GuRVS6gSGRs5J+oFCQF4EGd7S3gPyijtw=;G/C/KmeQfW7FB+azBLSWRw=="
+secured: "paQFwCqhz0cFXR7yYgOLu9jvK447/S8gmXc7xkJtY5YwtTL2IIcA73lh8sGXqvIH5s9yCzGTm00UR3jb7eW/ndaNHZHS59kySqVKxnCE1a+ngMUXD5nsuXGil6wZbgSkdIdN+MXGdCoA2EFj49vxVeU5HyJZavsjnnbF+rOOuGjFHlfbY6HvYRty3OeLkROlnQ/dcEamiLAHF/p9FfG6SWeCNDX3shpqYH/tBBnxCAK1JcS7Wjox8MJLiPNIrmPFgVkqB0/jtqxrTUB4dNyoHswGRs8ZJIvpIfvO7gyE+DEukpR6u95k/EOIDW+4+cVKTl4CaXf3uEDXJXJV9UsTZrBrvfMd34psWpjffkryjTk=;rzmy0d3peqfl8EIvnjE23g=="
 ---
 
