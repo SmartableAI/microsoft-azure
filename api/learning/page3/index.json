@@ -183,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 13780,
-        "average": 4.712482
+        "count": 13781,
+        "average": 4.712503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
       "length": "PT27M",
       "ratings": {
-        "count": 963,
-        "average": 4.7642784
+        "count": 964,
+        "average": 4.7634854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 827,
-        "average": 4.7279325
+        "count": 829,
+        "average": 4.7261763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1201,8 +1201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1486,
-            "average": 4.728802
+            "count": 1487,
+            "average": 4.7289844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1827,8 +1827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1486,
-            "average": 4.728802
+            "count": 1487,
+            "average": 4.7289844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2108,8 +2108,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 1856,
-            "average": 4.520474
+            "count": 1857,
+            "average": 4.5207324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3465,8 +3465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2524,
-            "average": 4.7175117
+            "count": 2528,
+            "average": 4.717959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3871,8 +3871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1645,
-            "average": 4.5908813
+            "count": 1646,
+            "average": 4.59113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4844,6 +4844,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure.md",
+      "title": "Explore computer vision in Microsoft Azure",
+      "excerpt": "Computer vision is an area of artificial intelligence (AI) in which software systems are designed to perceive the world visually, though cameras, images, and video. There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-computer-vision-in-microsoft-azure/",
+      "length": "PT2H53M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
+          "title": "Analyze images with the Computer Vision service",
+          "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-images-computer-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 554,
+            "average": 4.772563
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
+          "title": "Classify images with the Custom Vision service",
+          "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 478,
+            "average": 4.759414
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 131,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
+          "title": "Detect objects in images with the Custom Vision service",
+          "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 427,
+            "average": 4.7236533
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
+          "title": "Detect and analyze faces with the Face service",
+          "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 419,
+            "average": 4.704057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
       "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
       "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
@@ -5050,8 +5264,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9017,
-            "average": 4.6969056
+            "count": 9018,
+            "average": 4.6969395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5226,204 +5440,6 @@
         "Storage",
         "Databases",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
-      "title": "Introduction to Kubernetes on Azure",
-      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
-      "length": "PT3H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Introduction to Docker containers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 3600,
-            "average": 4.6386113
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-          "title": "Introduction to Kubernetes",
-          "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 652,
-            "average": 4.6288342
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-          "title": "Introduction to Azure Kubernetes Service",
-          "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 3714,
-            "average": 4.613624
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 112,
-            "average": 4.776786
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],

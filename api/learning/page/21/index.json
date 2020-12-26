@@ -4,49 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
-      "title": "Back up and restore your Azure SQL database",
-      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 670,
-        "average": 4.602985
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
       "title": "Back up and restore databases",
       "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
@@ -454,6 +411,50 @@
         "Azure",
         "AI",
         "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-node-cosmos-app-vscode.md",
+      "title": "Build a Node.js app for Azure Cosmos DB in Visual Studio Code",
+      "excerpt": "Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code, Node.js and JavaScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-node-cosmos-app-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 309,
+        "average": 4.5307446
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-node-cosmos-app-vscode-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
       ]
     },
     {
