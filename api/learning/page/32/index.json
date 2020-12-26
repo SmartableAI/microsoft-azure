@@ -4,6 +4,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-run-iot-edge-device-restricted-network-offline.md",
+      "title": "Run an IoT Edge device in a restricted network and offline",
+      "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be harnessed as a gateway to child devices and can store captured information if connectivity is unavailable.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-iot-edge-device-restricted-network-offline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-iot-edge-device-restricted-network-offline/",
+      "length": "PT2H5M",
+      "ratings": {
+        "count": 14,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/run-iot-edge-device-restricted-network-offline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
       "title": "Run parallel tasks in Azure Batch with the Azure CLI",
       "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
@@ -311,8 +354,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
       "length": "PT38M",
       "ratings": {
-        "count": 132,
-        "average": 4.8030305
+        "count": 133,
+        "average": 4.804511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,43 +821,6 @@
         "Mobile",
         "Web",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio.md",
-      "title": "Share your location as a text message using Azure Functions and Twilio",
-      "excerpt": "Learn how to use location tracking on your phone mixed with Azure Functions and Twilio to share your location with your friends as a text message.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-location-over-sms-from-mobile-using-azure-functions-twilio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-location-over-sms-using-azure-functions-twilio/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 34,
-        "average": 4.7352943
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     },
     {

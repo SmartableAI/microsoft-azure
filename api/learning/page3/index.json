@@ -4,207 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
-      "title": "Create serverless applications",
-      "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-serverless-applications/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-serverless-applications/",
-      "length": "PT8H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
-          "title": "Choose the best Azure service to automate your business processes",
-          "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 11240,
-            "average": 4.578025
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 7172,
-            "average": 4.658254
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-          "title": "Execute an Azure Function with triggers",
-          "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 3814,
-            "average": 4.7073936
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-          "title": "Chain Azure Functions together using input and output bindings",
-          "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 3044,
-            "average": 4.578515
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 10,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools",
-        "Databases",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-resources-in-azure.md",
       "title": "Manage resources in Azure",
       "excerpt": "Learn how to work with the Azure command line and web portal to create, manage, and control cloud based resources.",
@@ -235,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
           "length": "PT35M",
           "ratings": {
-            "count": 6289,
-            "average": 4.741453
+            "count": 6291,
+            "average": 4.7413764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -384,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 13787,
-        "average": 4.712483
+        "count": 13788,
+        "average": 4.7125034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -427,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
       "length": "PT27M",
       "ratings": {
-        "count": 975,
-        "average": 4.7641025
+        "count": 978,
+        "average": 4.7638035
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -469,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 838,
-        "average": 4.7279234
+        "count": 844,
+        "average": 4.7251186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -789,8 +588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 422,
-            "average": 4.808057
+            "count": 423,
+            "average": 4.808511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 352,
-            "average": 4.752841
+            "count": 353,
+            "average": 4.750708
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6945,
-            "average": 4.651404
+            "count": 6946,
+            "average": 4.651166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1636,8 +1435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2975,
-            "average": 4.7230253
+            "count": 2977,
+            "average": 4.7228756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1679,8 +1478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6945,
-            "average": 4.651404
+            "count": 6946,
+            "average": 4.651166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1846,8 +1645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 231,
-            "average": 4.714286
+            "count": 232,
+            "average": 4.715517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2019,8 +1818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3757,
-            "average": 4.6923075
+            "count": 3758,
+            "average": 4.6923895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2062,8 +1861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2092,
-            "average": 4.712237
+            "count": 2093,
+            "average": 4.711897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2262,8 +2061,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 2975,
-            "average": 4.7230253
+            "count": 2977,
+            "average": 4.7228756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,8 +2104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6945,
-            "average": 4.651404
+            "count": 6946,
+            "average": 4.651166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2428,8 +2227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5437,
-            "average": 4.6100793
+            "count": 5438,
+            "average": 4.610151
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2706,8 +2505,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
           "length": "PT33M",
           "ratings": {
-            "count": 2422,
-            "average": 4.7250204
+            "count": 2423,
+            "average": 4.7247214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2861,8 +2660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 231,
-            "average": 4.714286
+            "count": 232,
+            "average": 4.715517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3034,8 +2833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3757,
-            "average": 4.6923075
+            "count": 3758,
+            "average": 4.6923895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3077,8 +2876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2092,
-            "average": 4.712237
+            "count": 2093,
+            "average": 4.711897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3198,8 +2997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 5113,
-            "average": 4.7647176
+            "count": 5115,
+            "average": 4.7648096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3241,8 +3040,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 3122,
-            "average": 4.7536836
+            "count": 3123,
+            "average": 4.7537622
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3284,8 +3083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 3059,
-            "average": 4.768552
+            "count": 3060,
+            "average": 4.7686276
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3414,8 +3213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2879,
-            "average": 4.727683
+            "count": 2880,
+            "average": 4.727778
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3857,8 +3656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2562,
-            "average": 4.7166276
+            "count": 2565,
+            "average": 4.716959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5047,8 +4846,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 547,
-            "average": 4.5191956
+            "count": 548,
+            "average": 4.520073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5408,6 +5207,216 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
+      "title": "Introduction to Azure IoT",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-azure-iot/",
+      "length": "PT5H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-enable-digital-transformation.md",
+          "title": "Enabling digital transformation",
+          "excerpt": "Digital transformation is a wave of business innovation fueled by the explosion of technology—data, applications, and devices are everywhere. The cloud, artificial intelligence (AI), and the internet of things (IoT) give organizations new ways to make sense of information and generate insights to transform their business. Realizing the benefits of digital transformation requires business leaders to look beyond technology to reimagine existing business models and embrace a different way of bringing together people, data, and processes to create value for customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-digital-transformation/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 9021,
+            "average": 4.6969295
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-iot-strategy-and-solutions.md",
+          "title": "Microsoft Azure IoT strategy and solutions",
+          "excerpt": "This module provides an overview of Azure IoT, and describes Microsoft tools, services, and infrastructure. This knowledge can help bring IoT to life for your organization and customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-iot-strategy-and-solutions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 5977,
+            "average": 4.735486
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-iot-strategy-and-solutions-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+          "title": "Introduction to Azure IoT Hub",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1442,
+            "average": 4.658114
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-iot-devices.md",
+          "title": "Learn how to manage IoT devices as an IT admin",
+          "excerpt": "This module is an introduction to the Internet of Things for IT admins.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-devices/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1034,
+            "average": 4.6827855
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-digital-transformation-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Storage",
+        "Databases",
+        "Integration"
       ]
     }
   ],
