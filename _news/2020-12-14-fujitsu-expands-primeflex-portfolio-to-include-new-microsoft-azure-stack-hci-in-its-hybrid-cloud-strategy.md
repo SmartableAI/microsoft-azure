@@ -148,18 +148,18 @@ related:
         height: 630
         isCached: true
   - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-    excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
-    publishedDateTime: 2020-12-17T14:15:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+    excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
+    publishedDateTime: 2020-12-17T15:31:00Z
+    webUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 46
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
   - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
     excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
