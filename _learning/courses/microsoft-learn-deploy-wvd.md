@@ -8,7 +8,7 @@ length: PT34M
 ratings:
   count: 654
   average: 4.730887
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "txI8TgEZ7DgzNiGGE3OYJ4Qfl08abMh5Z/hz7g4tFaHDrmhRNtY37WvjC0pTbvZ5pEQTiwG1Ae5ONGBmEQbLI0enF2bUj2GSaLbI/nHWCANO5S2DGafM+N7a6uH40etML1X4dDx+GlB893tWup0QvgLfnQKmAfr6oPVxJ2Do2h/6claRuqhtt9jDiNeayLnqiApB5uMqMc6F0f1xqjERPPB1gAabxFgi278WiCOPGXDzxHqXaEst/c1epFYzZobnK5+tJOHcUBEbYtRDdVphO3yF2aa8SSvqnoVatfz+Z0CqTNGO08+VPo7N5qtI+BdzfMYUTMliCSJdWiDQoVb/OxIxLz+KAQIprOO4qVpmvQd6hVcy81YHMtT9uLb0VQzX4xDpU4JBviWrrxmg7sHhMolKcDZIC8s4ucRjJnxPMxY=;+4Ng0FP3iLzrY7wT2M/6rQ=="
+secured: "7evS9J9OtUJ/GL249+okyh5B2XMn1dpR2Ya1oWLKueplRBVPfLLyp+GwrBtwoUbCol7ulaqvisFSfn5iyL5QvwFDj6xYZ1NYswARWdq3MPGVcLQUBs+ToMyXAtVO+m3FbX7yChs1RugoWolyNA9lMO7MWAy9szrsyu1rBs+B8n9tiFrA0t79ebPG13CoQ3IaOOMHtog1uUEhRq6eZHPxBjVAbLKoXM0WTRkt9g8ghqrOK11dYTazKr4AlFHzZRfqFFRDLEWQLbeUlb1pDYMUOXaWCCdglDv9N7bCFt8+JoMG5FSmcqACOFcseDk6oKyP10Dv86qQoqqmGgd9eb5Z7doPVKIEE40Vcm31I6mQ5/AHiRGtDVczBtXdOrklt3GhwRqtcBIFyJp8cXB5YnHK2ZnZ4NAEe3AD5caT+Bt1cFk=;bpyYsc/s28pq9YtJj3DAKQ=="
 ---
 
