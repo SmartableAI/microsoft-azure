@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
+      "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
+      "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-data-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
+      "length": "PT1H2M",
       "ratings": {
-        "count": 66,
-        "average": 4.5151515
+        "count": 142,
+        "average": 4.6760564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -43,8 +43,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
-        "Storage",
         "Analytics"
       ]
     },
@@ -79,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 12285,
-            "average": 4.783313
+            "count": 12302,
+            "average": 4.7833686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2600,
-            "average": 4.7176924
+            "count": 2604,
+            "average": 4.718126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2239,
-            "average": 4.7690935
+            "count": 2244,
+            "average": 4.769608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 1717,
-            "average": 4.7664533
+            "count": 1723,
+            "average": 4.766686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -281,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 2600,
-        "average": 4.7176924
+        "count": 2604,
+        "average": 4.718126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,8 +551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 2600,
-            "average": 4.7176924
+            "count": 2604,
+            "average": 4.718126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -599,8 +597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 4969,
-            "average": 4.65486
+            "count": 4970,
+            "average": 4.6549296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -840,8 +838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3387,
-            "average": 4.5899024
+            "count": 3389,
+            "average": 4.5895543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1393,8 +1391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3387,
-            "average": 4.5899024
+            "count": 3389,
+            "average": 4.5895543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1660,8 +1658,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 283,
-            "average": 4.558304
+            "count": 284,
+            "average": 4.5598593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1809,7 +1807,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
@@ -2522,8 +2520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 283,
-            "average": 4.558304
+            "count": 284,
+            "average": 4.5598593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3276,8 +3274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 1223,
-        "average": 4.8291087
+        "count": 1224,
+        "average": 4.8292484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3319,8 +3317,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 460,
-        "average": 4.802174
+        "count": 463,
+        "average": 4.803456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3551,8 +3549,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 639,
-            "average": 4.7793427
+            "count": 640,
+            "average": 4.7796874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3826,8 +3824,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3387,
-        "average": 4.5899024
+        "count": 3389,
+        "average": 4.5895543
       },
       "provider": {
         "name": "Microsoft Learn",
