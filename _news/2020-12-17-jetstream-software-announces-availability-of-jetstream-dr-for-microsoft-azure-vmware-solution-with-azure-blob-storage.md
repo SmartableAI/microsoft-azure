@@ -105,6 +105,22 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "CISA releases Azure, Microsoft 365 malicious activity detection tool"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) has released a PowerShell-based tool that helps detect potentially compromised applications and accounts in Azure/Microsoft 365 environments."
+    publishedDateTime: 2020-12-28T17:48:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/10/12/DHS-CISA.jpg"
+        width: 1601
+        height: 800
+        isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
     publishedDateTime: 2020-12-18T22:41:00Z
@@ -338,6 +354,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "knDihPmuEj8VUGavbAIyRcdYBRITMvzwxl3mOG1f11+BnReOMz8MJ5ZmuX2ULAC3IjIZOau/BISXdNrpSBn0e6U4hWrPF0JIi5Cdy1UzxJ8e2b3hI92BrGaDUGon8tuHFNs/GVxxY7h2gRPnBIzou+5mi9PP+T7Hf9qJqXI06CqqXwp6BstblDgUaSFAWYgndRzLsRhjItV3wT3EfTEDTO9qF8Tm8+hgOSFd43LzE0fADlS/M0n1kJJe2lCYVo63F7DHW71JoXm9D1wufoG/exmlMoPqjYPD9QLJfqatTQIU81IKd96yHsq0NnKXfSHoEdjIihWbkWxpu8kUIXv0onyfBZVKKAjTNKNnaj7Sv2o=;TMeNPYP0SqIk3LHyTeivYw=="
+secured: "tnroyAUs8qic1iKwxEkvGzR3m/g7rYt8MHJt8u0x46wkk4jiyz7ROpwYec7OfSK6YBriyAtM3KrLKfmKKojnCoepEZPfhPwbk+LjIMqDDGhVchdqM1Y+41/EqMGecIyvZ66+1+s8HnTujfbhacEdmtShni/ycB8rbx4Rp4riiBKLuumXs26uM7S6ZE/1Tx9nNiB/+COYg64blnpR7Vz6FYw4j5JSC/hWJJoEPl94yHn9+QrLSv3wD5CJUqc8r8jhjYxmpnaxkqhW0K6W5WQtej4UtU3jrXvuNnl7PW7EjvQdKU42kAfkrGysnVNYVo2Q/4gQd/MVsnLuK/RmX1ivKrsQqJJJzKfztl/TdjSqlbg=;IEXSwbKHQwc3CyBX0ap5Pg=="
 ---
 

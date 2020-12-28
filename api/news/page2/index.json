@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-30-azure-sphere-sdk-version-2011-is-now-available.md",
+      "title": "Azure Sphere SDK version 20.11 is now available",
+      "excerpt": "The 20.11 SDK introduces the first Beta release of the azsphere command line interface (CLI) v2, which is designed to more closely match the Azure CLI in functionality and usage.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T14:35:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government.md",
       "title": "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government",
       "excerpt": "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. ",
@@ -1117,50 +1160,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis.md",
-      "title": "Meeting developer needs with powerful new features in Azure Cache for Redis",
-      "excerpt": "In May, we announced a groundbreaking partnership with Redis Labs to bring their Redis Enterprise software to Azure as a part of Azure Cache for Redis. We were humbled by the level of excitement and interest we received. We are announcing that you can now use Redis to tackle new challenges while making",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/",
-      "originalUrl": "https://azure.microsoft.com/blog/meeting-developer-needs-with-powerful-new-features-in-azure-cache-for-redis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T01:00:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Databases"
       ]
     }
   ],

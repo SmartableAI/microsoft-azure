@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 537
+heat: 557
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
       - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
         width: 728
         height: 380
+        isCached: true
+  - title: "CISA releases Azure, Microsoft 365 malicious activity detection tool"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) has released a PowerShell-based tool that helps detect potentially compromised applications and accounts in Azure/Microsoft 365 environments."
+    publishedDateTime: 2020-12-28T17:48:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/10/12/DHS-CISA.jpg"
+        width: 1601
+        height: 800
         isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."

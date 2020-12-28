@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
-excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
-publishedDateTime: 2020-12-25T10:28:00Z
-originalUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
-webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
-ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
-cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+title: "CISA releases Azure, Microsoft 365 malicious activity detection tool"
+excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) has released a PowerShell-based tool that helps detect potentially compromised applications and accounts in Azure/Microsoft 365 environments."
+publishedDateTime: 2020-12-28T17:48:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
+webUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Hacker News
-  domain: thehackernews.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
-    width: 728
-    height: 380
+  - url: "https://www.bleepstatic.com/content/hl-images/2020/10/12/DHS-CISA.jpg"
+    width: 1601
+    height: 800
     isCached: true
 
 related:
@@ -90,21 +90,21 @@ related:
         width: 1000
         height: 696
         isCached: true
-  - title: "CISA releases Azure, Microsoft 365 malicious activity detection tool"
-    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) has released a PowerShell-based tool that helps detect potentially compromised applications and accounts in Azure/Microsoft 365 environments."
-    publishedDateTime: 2020-12-28T17:48:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+  - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
+    excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
+    publishedDateTime: 2020-12-25T10:28:00Z
+    webUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html"
+    ampWebUrl: "https://thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/12/microsoft-warns-crowdstrike-of-hackers.html?amp=1"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
+      name: The Hacker News
+      domain: thehackernews.com
     quality: 57
     images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2020/10/12/DHS-CISA.jpg"
-        width: 1601
-        height: 800
+      - url: "https://thehackernews.com/images/-0bm-AOk0K84/X-W-MoXXeAI/AAAAAAAABWo/1cHj8ufvfG0goP7BuJV3BBiOOIKK8N8WwCLcBGAsYHQ/s728-e1000/microsoft-azure-hacking.jpg"
+        width: 728
+        height: 380
         isCached: true
   - title: "Intel Stock Sinks on Report Microsoft May Build Own Chips for Azure Servers"
     excerpt: "A report said Microsoft is working on developing its own microprocessors for servers used in its Azure cloud service and possibly for its Surface personal computers."
@@ -353,6 +353,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "fJAgTC+OSjs0NnCkV5VwTToznd3T/VOv16SD9unnJ7Qmpa2QBFcGZ3Cx00zvzTEt8xtFfFIAPb0MXpoFUEyG0jqq7qwEdnFi6O4O/zKUS/RT6ul4HQ90crLtTqEdVDzTIV8jOL1KQME2Heyz5At/FH0uXi+ntR9I6F4lWGQ2Kqk8gDvqfWAWRzd+OC8gF3EWtZkaIST6bWyOg+tgD+6ZTJJGlJGNvLIGYttj9FjjJ4qIFFX08nkm6juWqB3FdKOM1Bhx8K3ZNGdTrdiFkbW544HXiuBZgXL9CqZKFbmblZ6y2Cl7QOlx69f804WnSD88A0vmTmvlVElJQI53AOfYZdA4EMuQL2SGTBcidDYRmKWgJvNsti7kIho8A7bf1BsU1OFaQS3GG1c77HlsKTrk09XhKitP6JhZZdFsTFXN5kq4HxcANqvRX7CVZ8/TNdLjkgMtvm1FTgLKQ8oepNO9TZN/YkaACfsYqED+7XV7aveKxZJkKgXqn8Y4i8rv/Fq7fsMitYCc+nOkLiaVIc5xcg==;FnnzxJLwfjcyatZtznTN+A=="
+secured: "MUmb3oRFs0aK9OMSjV/JWi2GtrFCR+vDY8BenxwI09Oid4lX+S72lznBV1kvmn+GluocFAE5OmKOPixUZu/bKksLREF58BvZjpqYcB4G4Tw3+Fkoqd2jGLX01olcsnG7rKlaoRx24wgR9dPgNgvfwKoz3EmNOnBvnwH6yVMEQeelkMGptTZb1oxuIS9jesCVsBRzh9QvmPwfCUn1m5OkobB+Ms4v3nMpP9M+KWXCuBpxDUiohB9JsRcG+1S8DvqhHoIToIyhbGUxzQt/djhQEE0AE1krEjFR6nHdMVJgf56nOdg/cnzDXXe6XSd0egW6uNna2Ljwt9d6WwYhchDfg7aNIT0R5Sfi4mWFLp8qbdo=;m4OBHeBYQ5sbAKh8vRYg4g=="
 ---
 

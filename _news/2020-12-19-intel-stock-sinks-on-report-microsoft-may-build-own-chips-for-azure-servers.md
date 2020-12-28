@@ -106,6 +106,22 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "CISA releases Azure, Microsoft 365 malicious activity detection tool"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) has released a PowerShell-based tool that helps detect potentially compromised applications and accounts in Azure/Microsoft 365 environments."
+    publishedDateTime: 2020-12-28T17:48:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/cisa-releases-azure-microsoft-365-malicious-activity-detection-tool/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/10/12/DHS-CISA.jpg"
+        width: 1601
+        height: 800
+        isCached: true
   - title: "Tartabit IoT Bridge Service available on Microsoft Azure Marketplace"
     excerpt: "Today, Tartabit LLC announced the availability of the Tartabit Internet of Things (IoT) Bridge Service for Microsoft"
     publishedDateTime: 2020-12-17T23:00:00Z
