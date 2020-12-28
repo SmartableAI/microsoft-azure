@@ -4,6 +4,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
+      "title": "Introduction to Azure SQL",
+      "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 636,
+        "average": 4.72956
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
       "title": "Back up and restore your Azure SQL database",
       "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 5965,
-        "average": 4.7220454
+        "count": 5967,
+        "average": 4.721636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -262,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3047,
-        "average": 4.57893
+        "count": 3048,
+        "average": 4.579068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -384,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2252,
-        "average": 4.6816163
+        "count": 2253,
+        "average": 4.6817575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,8 +505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
       "length": "PT29M",
       "ratings": {
-        "count": 2055,
-        "average": 4.6121655
+        "count": 2056,
+        "average": 4.6123543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +583,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "PT54M",
       "ratings": {
-        "count": 1534,
-        "average": 4.4856586
+        "count": 1535,
+        "average": 4.4859934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -699,8 +742,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4007,
-        "average": 4.648615
+        "count": 4008,
+        "average": 4.6487026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -735,8 +778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2394,
-        "average": 4.707185
+        "count": 2397,
+        "average": 4.707551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1148,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2033,
-        "average": 4.5981307
+        "count": 2035,
+        "average": 4.598526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,42 +1226,6 @@
         "Compute",
         "Serverless",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
-      "title": "Distribute your data globally with Azure Cosmos DB",
-      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 1661,
-        "average": 4.609874
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],
