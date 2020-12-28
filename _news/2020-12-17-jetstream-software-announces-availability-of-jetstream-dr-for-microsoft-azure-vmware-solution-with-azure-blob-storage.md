@@ -1,28 +1,22 @@
 ---
 category: news
 title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-excerpt: "Now, the company’s disaster recovery software, JetStream DR, is available for Azure VMware Solution customers and can be accessed through the Microsoft Azure Marketplace. JetStream DR can be ..."
-publishedDateTime: 2020-12-17T15:31:00Z
-originalUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
-webUrl: "https://www.oaoa.com/news/business/jetstream-software-announces-availability-of-jetstream-dr-for-microsoft-azure-vmware-solution-with-azure-blob/article_6812ea5f-e363-5f54-bf93-691dd8890cc1.html"
+excerpt: "Native Technology from JetStream Software Delivers Cost-Efficiency and Continuous Data Protection on Microsoft Azure."
+publishedDateTime: 2020-12-17T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Storage
-
-images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -354,6 +348,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "8csyeXidMnAY3Q69mq3SbhNg40v4lCrtVC95AmcMC8ZX8ylX6jvh3KujzFt04tWLASXzB+ZYhES2sDuQR9SYLmC7nNSpmnWqSg/livhj06QvPEHTvxf1IttZdhKmWyevsHmj1rQw87d59SOcGbsVS+bgKggDHjZYT+VipeMth17abalkcA3i6fFl+iIB+qHyPnNOITCytOSJXbgOftXMebQuu4Fmjp96lZDFfXzBFN3qMpgzDYf4CYdyslcCVsCoiuNK54b0lFOSV3VYkZikMakQhqX6qiSeFT0nAKIMBviLhyNajDipoOr/itM2s0eTp29rRNhejpACZMt5aPPXF4tWwYQCwAAk0zG8fElR2bA=;4GTAsF9lshfNieFLNdvxTw=="
+secured: "0wLYXIMukifTXkw05TKhxubJ/MafOeWPth9h0wbb9rH2Vc40XsLj6pQqbnxjK8PrPcRIqgRroGallDQL4XDYXtIEkqQISykww0lK6ER2GY8Y6VbfHpQZ9ZBgvvZkqBCbCGXFct2lP9xwx+AUZqls7uQrb+GrhN+nynuGTgWfQk7rcz4+OPOTQ3OD/4MXvYz4maI6ouRchdQN+JO7sTzX+waHAq9tFr/s+fN70wEaIQd9eFhL/EIfhkVfDdYqpbCSD+v9hPJtsgct/xENarUb0n3yaO2MoEfRRoNBLpX1hshyFcQnoLQfRgCScthvP5jqCsKE3gzMNGwDkIiLdUn2gk/Q39/dMRJBgkYJdtKRtYI=;Rj+T5w5ZhxpbDRVm+4ueUQ=="
 ---
 
