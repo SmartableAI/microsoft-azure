@@ -8,7 +8,7 @@ length: PT1H24M
 ratings:
   count: 1081
   average: 4.4310822
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Databases
 
-secured: "0vaQR4dh5G9CUlNHgBmXV8N2Rs2bbspOgA00/uXE5nc0XvjBZQa6gQgPm1KaPnpMIAgXn8JkWJICgasUclhBJcjrmMUaNHTjpBRZJHU3dIwaBi6ePkWJf6C1JYdR0BnleeZq1gMgobMwtUoc446Jn7gyoFfOA5DKwcKl6cS8SBsQG+jaU33rgdLLtCU/Fv32tkjT60w5+CSIGZ+c/wyEfcmrZspz4ka7wDGaytZovlktq2r5X2q1iezP7jFH7xqyrM3T1pUP+BEJIEfz9Vj3oZzyDJgPPZtEQuVJj2SIyNkEOfjqhMcY2dLhyjmFyx8H3mZqmBmPIdgWRYLnn2Qmg+WOxEOObHJGWQvz2gkq6zpdYSJAKe0g0TlJYxHidUnApCrDG5shTpnbViKtxjI4AW78iS3f8NljzNbfxlBoOe4=;xD7Gh6GEcA+7xQA+2eDXMw=="
+secured: "uLPHxVmFmv0vWXhFRdutf9SjAAr3slee4h8839aPrDxiftxS2+jekEv9tE/cLtn4ncWP4q3v05E0MDJ9z+dxL+KPXMKY1suaxA1YOGbHII7HFMA/vwMqc24L34K7reDxuwiuRG8txahJHAx2xbNLa2k4CrB/PagF7L/fn/9WtlsRGtLOzh2a/YQU2hiTtrmFJ/4Twp0k+vLXs/wtZUlWhkFir2AQURC7zsQN4rhzX6j1fmnnkAcUY7fJV4Z+HptD+6h+61bgxovvcihBOdhRR/xXdsZISLhf5fgmuBRndqIj0Ozg1P2I1ocnp8cNUjS2Cf+LGtyaO1GQcjkHIoNKIJC8bvdQ21qMmP7e82GVbrTR8LQJxpTwsUxw3m8k/LEvmlkca31njL6g12QuM1/4TueUhuIDVKb5InjYq4/dcyI=;FD2DDQAd53u71LPCNuwfYg=="
 ---
 

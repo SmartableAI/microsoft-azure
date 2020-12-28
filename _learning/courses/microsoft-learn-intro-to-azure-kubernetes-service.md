@@ -8,7 +8,7 @@ length: PT25M
 ratings:
   count: 3721
   average: 4.6138134
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "lFNpEhKMLXkIPSAN+BZy4LYNDcAdaQ2g8mf8lg9kqdfsjqoqkW5yzgKDTQTVbIR3UvVr3oIU6dKd+apR4CzRNDOmiYw8AZXNCPS0/yxI0icRSDA+Wz7pPj2B9/vLiUZslJQaWgfiqNTansUv7LpzKxzBXNWgxmIXx9YGfJONx9lb4o5hQykTo5MjGou5Bm7c3ugUYeDW9DNUnPOacd28DMQhgfR06sbGAf2+DFT1XTomkDXtxBcFx5Z+4atXf21e7567GK0XDd+BsD44namsdE+AD1DNHJwKrTCVIkzCvQjhqEAJ+q2PzSW1pLSeVtTRnTzZgeeioVp3hONvIi3s8u38iulXGRta3xc8NBtCCRjnO0JkqbcR3Lp57H5lb7pFAvxduzOHg9BA4jFUfsCJFjvSbTJwLTjocXD8UgDvVyE=;Ir5GWbhlocAENBNFdXpBNg=="
+secured: "u3K+nKE6s+0fg5aTVZkHrEtYHLn0QCX4ezf9dDBw0pUxE1h252mQPEYDZsG3sv+5IGqPFC1yhyDfDYuzmU3MeCss7ju6LO94T8WlsI7Cnsutbqt8MmTXA4dpgWqnj/Elmv//KNRl0QHK9Jov+L3zC5FrKTNd0rztBJnNx27O98l5OVHlHXoZKoALVxP+eQVQxtpOWGnB9DQHDi2QC9sIOLhqWwSHH9qeWEYieAR56/B3rkwHqE5fvovHCs2jPMCjqXueB2Z2y3Z8adZ/VOyTHBES4t8CwxeAC5y0ENE29x4J0LGbCFOPkeNvFAdlzl9Mw+783aaf2+zahJLgj1Xq0/XT06tiJ6saM20dMo3FG3An847OudfXUXKMguVd5vtK9TPHG+SJ0+b/RnGoqDmEyQK1yEB8+Xh64C+VRwed5CQ=;i0362auANIcf2Hu/cfzL3w=="
 ---
 
