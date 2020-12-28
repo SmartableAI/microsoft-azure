@@ -201,15 +201,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-    publishedDateTime: 2020-12-15T07:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-1029892488"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Allscripts taps Microsoft Azure to power new EHR platform: 3 notes"
     excerpt: "Allscripts on Dec. 16 launched its updated EHR platform Sunrise 20.0, which runs on Microsoft's cloud software Azure. Three notes: 1. The Sunrise 20.0 EHR platform hosts patients' clinical information and helps providers coordinate care for acute ..."
     publishedDateTime: 2020-12-16T16:09:00Z
@@ -281,6 +272,36 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
         width: 763
         height: 509
+        isCached: true
+  - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
+    excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
+    publishedDateTime: 2020-12-25T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 948
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
         isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"

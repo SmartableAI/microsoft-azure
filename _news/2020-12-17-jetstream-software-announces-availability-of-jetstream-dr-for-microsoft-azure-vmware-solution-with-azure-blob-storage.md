@@ -192,15 +192,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-    excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-    publishedDateTime: 2020-12-15T07:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-1029892488"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "SUN Mobility rides on Microsoft Azure to help build EV ecosystem (Ld)"
     excerpt: "New Delhi, Dec 15 (IANS) Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable ..."
     publishedDateTime: 2020-12-15T13:30:00Z
@@ -284,6 +275,36 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
+    excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
+    publishedDateTime: 2020-12-25T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 948
+        isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T07:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
@@ -317,6 +338,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Ys8nbbpZuT7R38S1Uxso0DmeahQ3NXcOKWVJXWMe5fTfzPEnGM67TWa7b832zEItmVv45cL8DQbqxz1lMLVLQ0mpT0ZIwTX+OuVxjgGDM1ZnJoZf9NSrNQKH7lD0DmbTVnOokvnPSq1Nfy43oWEEHb93HIZsF3Ho4LzEudjW3cj1VBF+Q7biKEhEQFgghKoss+CAopVeY88adVmNpYI2kQ/A0iDId44YR59t37mE/4BE09nVsnOpflIApCcGGgYjhTrMFv8IFyFl7o0noWGl05w0bZOKwbibwCiyF4ITAdLCx8bAdML2PuHx9ixrFCw4KwTGJO7TGWMp6bgLf3kYMzb6HgVSnuCHHNEWNGkTLo4=;VgYXc1deUGyhPCnAYqqLpA=="
+secured: "gCXBKXpP3gpOt6eRpVnfdbTcsmPHLp4Z8MeDUe5whgKo13ZpMTr6spaE+AqUt0JcquyoF8s279F9+ykJFYYqe5Saq8lMwSMjTzh5m4BHfPSvTmAgOabOIVNTSGJI28bWY3Pvr2+MeWSBtGWtpqINhF+0pL8AMaRRjUrnc8SZTPaahgKnpDMfyyFqWJJhx3R8tqUt7nBRgkMQ4+0qr67OnyFckpnpVpTM9Rfks/HZmCAvFOlkxoXXxm4LYXjY5IjET/80HQPzNPTo16xMwc3TURJSuBn9yt1MzvV9NM3N9iFfAuo9DbYHAbsKEYQesQeqSk3NrEJI1vWLRIRC4A5DZjBQ+NKje7z1X3SQpeXU9EE=;MJ15z7TiegDOLHzLmpg1dg=="
 ---
 

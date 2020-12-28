@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree will also expand its Global Azure Experience Center in Redmond, WA and will leverage its Microsoft Excellence Academy to ensure all technical professionals are proficient and certified on ..."
-publishedDateTime: 2020-12-15T07:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-1029892488"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-1029892488"
+excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+publishedDateTime: 2020-12-15T07:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-301192628.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
+    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -286,6 +288,22 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
+    excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
+    publishedDateTime: 2020-12-25T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 21
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440"
+        width: 1440
+        height: 948
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T17:45:00Z
@@ -319,6 +337,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "nTiZGD92n5oSNmmgvDTwXJZGlFLvxPQCtsKTfNbDx7HTQkf94auSI7fprVu2bz5PajIWkq/waIH9EsWvT0DwbgU6A1bO1oXNuZPDVmXNTCJs5zEDLBMMBmYKjNJo/FZyIEMtsFUGMAa0rj5YMVdDWNS3FRuJXCHzZfdhBQoipdykQcN0uL44V+ivu3LXaPYMw2QcYITCMY+sQ1ybKanoPDMPDJULbjWs51VHCw7GHyQrOBEmGd0ekcePvMMPYiSpq0ozmAiIQEesysTjaA/fxkAcWf/+24+pjeiItqSljLXQNI0lOtbE8bF2NZO8jaBvbW/jWa/BGCrb/yTfKdo2DfFSkk6rgjlJYBT6J4itlY0=;YxqjfhMdxa2/lzl3Bj/imQ=="
+secured: "xD9CGq/ncoTQ9leOo5RWWq7BE49IOv5pD02n+8PVeOtl5ccqxnbQFf2xhf6qJBxFq6Gib5HTEiwiEflmDNPalFN40e8ZpyLT4pRAiB4me2u+NN+0m+/Mf9VH/fXUo8B+R7N7ypMhmAKjVqxdxG3oxIi8Dqd3rAb6B88QOMGvA5eIpIIaaGzUD3a7BaP4lZd0cnbzdm6PWKXxFL0DCHWTEFlwHKywOcSPU9M30leCz+6UPHd6aAdUd32Tjsl3deHYMAVT6JSgC1/sQzNM1GPnUkUcyJ1mMuGWdPhTeGDwYv0y0AFum10wsqTOjMNnhySpt5vfse1gaPpfQGUrNyX9V4Qbw1BCPDOREnw7YxFpv6U=;yudRAd57/orCgBdey0awKw=="
 ---
 

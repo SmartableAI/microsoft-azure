@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
-excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
-publishedDateTime: 2020-12-14T09:04:00Z
-originalUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
-cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
+excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
+publishedDateTime: 2020-12-25T18:23:00Z
+originalUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+webUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
 type: article
-quality: 40
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
-    width: 400
-    height: 328
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440"
+    width: 1440
+    height: 948
     isCached: true
 
 related:
@@ -177,6 +177,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Fujitsu expands PRIMEFLEX portfolio to include new Microsoft Azure Stack HCI in its hybrid cloud strategy"
+    excerpt: "News facts: Fujitsu launches trusted fast-track solution for Microsoft Azure Stack HCI, purpose-built for hyper-converged environments. Hybrid by design, the new pre-tested PRIMEF"
+    publishedDateTime: 2020-12-14T09:04:00Z
+    webUrl: "https://www.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    ampWebUrl: "https://amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/o1Jr5qx9GB2vKdWL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 40
+    images:
+      - url: "https://lh3.googleusercontent.com/ctwhk8XzJSRC93xOP_pjcZ0gj7Ucvdh8bHGvpNeolDc1FXI8gQJ8erIN9bUabUJwDsFKcft9ZBRo4bdzZl8IFBd9=w400-h328-c"
+        width: 400
+        height: 328
+        isCached: true
   - title: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "ACTS Secures the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization By CIOReview - ACTS secures the Windows Server, and SQL Server Migration to Microsoft Azure advanced specialization for its"
     publishedDateTime: 2020-12-23T13:00:00Z
@@ -274,22 +290,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
-    excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
-    publishedDateTime: 2020-12-25T18:23:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 21
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440"
-        width: 1440
-        height: 948
-        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T07:09:00Z
@@ -337,6 +337,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "Q6kMH7z0zclz+nmkY+lVdMRkJaJ5G5aluibsXZbxPNrlCed7d7lbbVFLj+zm08TuYNNJs3XzreeJYc+3hcfYqil2fuK0n1IX2+UyfQyfO0zcMS9JbF5Xs3JCMZlS3qOuPtQYZVLYhhD4rpvpR3aHQbEKL8vvYaIemflwbzK8F0mngJ2Y3Gz21DgKnWPJSP8FmyyIRycy7SYH04BT2RWxSu0LTiy+/F2l554IaKwBHb9f1o4wK5s8FRFFjtwkYIAVIscsnGViVBxQfEgqZTPzAARTig36KCcFTV+ze63Yr5Ylvw6NadgGMlr8rgFT5CRIqla6TKHslTsysHLoglgEN8vGLZlSO4t9sKC/W2tSIl0=;r0zBT+BtU5h6VKwujelLqA=="
+secured: "h/6cy70ikE0iZrVZh7ka8U7vZ4+v4QBGtpKub3hh8Ew9oTCERoA/73b8WaSno+45BFAbgzCiOr8U2sYN2qh9LeFtiGjyL5HerNNaP7SdySwEkD19VmhlhBabX0OyBt/r2PgtpWsyeeCSIuBh+LA/pGdavrY7rlcsCsaWKqTTPc/NFp5Rqh25sDGaRqKs/U6DhofuFmrW+ucEpUEmD5vTRNnp5RshTxR9k1+BjY9Uy0gCSssFykb/LArC3EJlmzwf5dUivOdc2IIVB2eR9DdUy2THBMQvAseG6WlWoSh/5j8YIg1xG5mfx4pdQcf+wZ3QJxcuNF2jT1vJEgKUbd/W/MpF5qy9b6vSc7/YmYX+p2I=;FyKjsidIIJNrFjioeOq09w=="
 ---
 
