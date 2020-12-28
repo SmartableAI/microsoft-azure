@@ -319,6 +319,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "mcrVQb0xUB/CLdEb/v+G3K/bccxqFbP0eoHrZisFEtJyM7pSvaOn3HVzzrUaQPMHYLQgEsSPS5q/+FjfX/crs2TY6rdEtiZCjfCKdEPHCUlFKSXpojTbq7NhEgtH6VvT+x6oyQQuIXFimBzzuCXixW05npRSy7dzXx75oLj2BNXULlzYSZW+lPNdxUSwIE5POMSvU4oEbMSTAQz/qlCa6CrBXuSBQj/QtDfdKQygQAmLjBxYe1v4Qtz9KQLnNGF1f11MD0Jctcwu4agD5Ta/Bjxan7X+GWAo4JGrVgW7qmJX+1IHaZ1OdeA4N5kyuVQz9X6h6EjYF2FydsGdGiETnnmRIgLAHT+XvpNd5cWoDq8=;db3lFo2o8k3EjNYZYRwVpA=="
+secured: "nTiZGD92n5oSNmmgvDTwXJZGlFLvxPQCtsKTfNbDx7HTQkf94auSI7fprVu2bz5PajIWkq/waIH9EsWvT0DwbgU6A1bO1oXNuZPDVmXNTCJs5zEDLBMMBmYKjNJo/FZyIEMtsFUGMAa0rj5YMVdDWNS3FRuJXCHzZfdhBQoipdykQcN0uL44V+ivu3LXaPYMw2QcYITCMY+sQ1ybKanoPDMPDJULbjWs51VHCw7GHyQrOBEmGd0ekcePvMMPYiSpq0ozmAiIQEesysTjaA/fxkAcWf/+24+pjeiItqSljLXQNI0lOtbE8bF2NZO8jaBvbW/jWa/BGCrb/yTfKdo2DfFSkk6rgjlJYBT6J4itlY0=;YxqjfhMdxa2/lzl3Bj/imQ=="
 ---
 
