@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 577
+heat: 597
 published: true
 
 provider:
@@ -234,6 +234,20 @@ related:
     images:
       - url: "https://cdn.infoq.com/statics_s2_20201215104707/styles/static/images/logo/logo-big.jpg"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
+    excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
+    publishedDateTime: 2020-12-29T07:46:00Z
+    webUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
+    type: article
+    provider:
+      name: India West
+      domain: indiawest.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
+        width: 1019
         height: 630
         isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"

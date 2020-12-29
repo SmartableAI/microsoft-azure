@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure breach left thousands of customer records exposed"
-excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
-publishedDateTime: 2020-12-22T05:06:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
+excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
+publishedDateTime: 2020-12-29T07:46:00Z
+originalUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
+webUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India West
+  domain: indiawest.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
+    width: 1019
+    height: 630
     isCached: true
 
 related:
@@ -36,6 +30,22 @@ related:
     webUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Azure breach left thousands of customer records exposed"
+    excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+    publishedDateTime: 2020-12-22T05:06:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
     type: article
     provider:
       name: TechRadar
@@ -236,20 +246,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 10 Reasons to Become Microsoft Azure Certified Professional"
-    excerpt: "Cloud Computing services have grown to become a necessity for businesses quicker than anybody had expected. Microsoft's Azure is a popular cloud-based service which offers hybrid compatibility that ha"
-    publishedDateTime: 2020-12-29T07:46:00Z
-    webUrl: "https://www.indiawest.com/blogs/info4u/top-10-reasons-to-become-microsoft-azure-certified-professional/article_5bbd0840-49a9-11eb-a746-2b4e82953b10.html"
-    type: article
-    provider:
-      name: India West
-      domain: indiawest.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/indiawest.com/content/tncms/assets/v3/editorial/d/d4/dd485450-49a9-11eb-8289-0bae536421e9/5feadecb7b998.image.png?resize=1019%2C630"
-        width: 1019
-        height: 630
-        isCached: true
   - title: "Microsoft Adds Azure Stack HCI Features to Catch Up with Nutanix, VMware"
     excerpt: "Microsoft has introduced a new version of its Azure Stack HCI software as it tries to make inroads into a hyperconverged infrastructure market now dominated by VMware and Nutanix. Azure Stack HCI, a solution that features Microsoft’s Hyper-V ..."
     publishedDateTime: 2020-12-17T19:49:00Z
@@ -380,6 +376,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "E2bf6her21q8q2s7lckYP0Pu8kgpJMduK2BPQ54lVJ+BFJQE6dBNge1LkO+6WH1+ypGB9LTmGStJoNHbDyPL5ZEQc+d9ocxkD0npMvjaeRJRRU1fHVgGWBbdj7eoxeW1SdMDNlmAD57Wu8/DHBtFiEM4zkKR7Soaj/hEJGiUZWa73RnWgYeKeUL+f/BVCHdLXwZ5274kmzybM8O/mzKGXLPY4AgW+zWguWdOjKTj+AgHrHA5y19zFyo3cgWVqW9OIUko1BtiJwUAt8zgCL8EzOxNf4VQXw/V3KclycPSE/eTDTXkmHzz/rQIXbKR/2VDhmwFIhcXLfpK3luUf/ik+pK6kocP2w1RYxlTpFnP8V4=;RJj+1D8W6ejsoScQ5saSNg=="
+secured: "PD8lPgSsesvJIJ8PRgQ1aaSgrUJ/sWkmwuts3KwPW2yGWFa7LXDywpvzU+UGFYoE+nU3EEEOFDMHpK2V1qmm/8+6JZ0GiUnDRuLGN/kNYWdws0EYgkk/XSq5WYZM7k5ecJPrYr6YDNoVFlIviDMc/lKU5qtYEiUBKfhBwKGUapzwTcXfz4TjmZSZxHGyuASciiyfVJDMOptlZNpm2MpcEo7d72aBLiUq80AiCfUnVNW56XWOcZzb6XBNSCP6tLCAvKKGmy4HLeG/Q+siVeN7sJdyYcIRu3VlK2dM7hO3Wj4jDZY0OJlE65uT6eGzulFgkTZ0MmxExNCpZP331MMlk7JlwQ8u2P513sBDwcWwLKU=;nUlAqibIvNMjrPiWj7tJ0w=="
 ---
 
