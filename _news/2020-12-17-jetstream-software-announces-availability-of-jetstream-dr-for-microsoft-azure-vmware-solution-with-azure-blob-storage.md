@@ -1,28 +1,22 @@
 ---
 category: news
 title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
-publishedDateTime: 2020-12-17T14:15:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
+excerpt: "Native Technology from JetStream Software Delivers Cost-Efficiency and Continuous Data Protection on Microsoft Azure."
+publishedDateTime: 2020-12-17T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Storage
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft Azure breach left thousands of customer records exposed"
@@ -382,6 +376,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "DJ893PoXN0UYH8rS+5rfNHyexd6kbTziuvtZ+qw0QOSgXMmdi+orYk1B4/TLNONKx+U3tMAqCERx8cUQKF/Mr+BvF2lb4YlfkBsyVRYu6okLun4zrQ0npOvzXwvzYqDaOoPDn3hoh4Gx+YxKTpfcl3X5o/O0aZ/J75WfhkZV+zZ07gVjkusTadambr/30zVlUQYAxl9cIlKcv79Xgp5H7gjTL3+mFKTG+cd+Uk6EnCvR25H5KRDKTM9pFqsYwnGSoSWVbUwB5HrwNs0uKncP6Mjgh83O7JM6RzDyeHPo/IlM/AKfmbs/yOVWjDrD/SpGipxbxfSHZMuYmS77uEtfOp2VjuYGuOlN5jxvVhhcV4A=;2VRP4t5n99j6vWPjHvwrJg=="
+secured: "TMx8dZJ5Wj7j2q2d8zbMayFiThPIPmQ//sie4uVgiG1fKRc0c/XpNBSvSSYXvKWPF+BOBvQ4B4gzFgwkiXKNmh9s4135fBkKKmGWgGnCliiwT2bkgnpRSWynSMKPkTC9m9MYRhilI0vxl6jF7Pzsvv4iMiseqRlFE2oPGJeuW4OOOjKqUltmcdp3gaovnovH6e3K5YxaL/6xXlc/BCUj35DVa2YDMhF42acyzJqu+urPCDc8imDr3oQrGIVtlmmWOPiGPLZATUy4Y1nxRxtdxRMaa9lm0cyjOJ3BQVBbQt+D4AvVOm/4YkJzljPOCu99hgNlFk9ll1OttY0Lg/hCbU9xgs+YWR0zdT+CCn+9+60=;sltIAQ4TjyhzMhgwBE54Tw=="
 ---
 

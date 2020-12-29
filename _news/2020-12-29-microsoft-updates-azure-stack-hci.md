@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
-excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
-publishedDateTime: 2020-12-07T06:02:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+title: "Microsoft updates Azure Stack HCI"
+excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
+publishedDateTime: 2020-12-29T11:07:00Z
+originalUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
+webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
+ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
 type: article
-quality: 93
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
-    width: 1413
-    height: 794
+  - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -221,6 +217,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
+    excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
+    publishedDateTime: 2020-12-07T06:02:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 93
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
+        width: 1413
+        height: 794
         isCached: true
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
@@ -633,22 +645,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
         width: 1400
         height: 1280
-        isCached: true
-  - title: "Microsoft updates Azure Stack HCI"
-    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
-    publishedDateTime: 2020-12-29T11:07:00Z
-    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
-    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1707,6 +1703,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gmstY3vYV7PGKNokosYOao81dBIEX/Qb8PkbPfI1jPrA0cAGROMe/n1qVW7CZkgOGZeQUgrsrMPbsMqheljDjl84b+egRsukRqCpDy2tCXdhC6n9kj9cN7mbw1ho4zuWZV6lBK9IStO/X/8a+d7zA8kubS39kYwVxRGGOvuCsAv7ICEi7T+pmvtK0pMVMrPEx2HlGQ9u0novcy9qJ0KaFWvoML/0CFmTIcD3sR76BxmhhbU5v/frKtMZuvqZ2rBen8PoWPuM9sR3thYgsyDC8D/MSd4yEbgBc+fHuhGkZn3QjfxeSI5ZgkHVvWDPVqO4kGlH7o+z2hZoFeHcK3/Jfmao2NoQHYBr5lp6YfWglzuJ/536sBcQgrxeA/S5O/AZVDwIp+FPT/oMNTVFZYH4w3LeTwrVBTRVpLKWGb55QYa1TlTQSYhOe/BF/MOOd0FwUXGKaFyNE2IC5b7ow3vrX1uB8AHnvhqoxlcEQd/q2QlRCCGc2/pBZW+EBcTj17h+Oh57Gu2JNbES9x4tao5Axw==;+4b+1Tw+XOjy3fO+Npk5Zg=="
+secured: "j7G0KgYbS9GBDEHf/lmb9K8hpxpmBJo4Nh3pfoLjUMdxUK2AwmuDil/cEHzcI25Fu/BpChc0WKpM2jm+yVugLIgOhof44RxwZosvbtjBabOFvDhr6mCA5jp16IarzaJXHZU52TQFv1damak5nnv1n/XvPa5K8WwGD5R2tYbqHQVJ48CzF2JXesPTqllYV9RXGEVV2BOMC+5F8L3W1ZnWjflQSoPU+ljxaAEwcKPfbU9WZos703crqbrsQMJ6dJWThGvNltS5iLae6hrbFmtr5sN5DyYAwETkeKRjGcf9X8lJ6HOCMc4MHirpDQOwLdwi/YhCOwZKAvtL46Tp06Cmt/0+amdYRh/6zGD5FTQop+8=;79Tz7YQ7EbmwAE9PV4hdlQ=="
 ---
 

@@ -630,6 +630,22 @@ related:
         width: 1400
         height: 1280
         isCached: true
+  - title: "Microsoft updates Azure Stack HCI"
+    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
+    publishedDateTime: 2020-12-29T11:07:00Z
+    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
+    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
