@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
-excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
-publishedDateTime: 2020-12-15T17:45:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+title: "Best of Showcase: How Microsoft Azure powered Microsoft internally in 2020"
+excerpt: "Microsoft’s shift to working remotely in 2020 opened the door for the company to double down on using Microsoft Azure to drive its internal transformation. Well past moving its workloads to the cloud,"
+publishedDateTime: 2020-12-29T01:46:00Z
+originalUrl: "https://www.microsoft.com/itshowcase/blog/best-of-showcase-how-microsoft-azure-powered-microsoft-internally-in-2020/"
+webUrl: "https://www.microsoft.com/itshowcase/blog/best-of-showcase-how-microsoft-azure-powered-microsoft-internally-in-2020/"
 type: article
-quality: 19
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10160_Showcase_Azure_year_end_blog_hero_image.png"
+    width: 1920
+    height: 1280
     isCached: true
 
 related:
@@ -288,20 +292,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best of Showcase: How Microsoft Azure powered Microsoft internally in 2020"
-    excerpt: "Microsoft’s shift to working remotely in 2020 opened the door for the company to double down on using Microsoft Azure to drive its internal transformation. Well past moving its workloads to the cloud,"
-    publishedDateTime: 2020-12-29T01:46:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/best-of-showcase-how-microsoft-azure-powered-microsoft-internally-in-2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 35
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10160_Showcase_Azure_year_end_blog_hero_image.png"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
     excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
     publishedDateTime: 2020-12-18T04:05:00Z
@@ -348,6 +338,20 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
+    excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
+    publishedDateTime: 2020-12-15T17:45:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-accelerates-cloud-business-through-global-microsoft-azure-experience-center-and-new-skills-academy-877646125.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Atos confirms expertise in Cloud services with renewed recognition as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atos today announced that it has successfully renewed its status as Microsoft Azure Expert Managed Service Provider (MSP),"
     publishedDateTime: 2020-12-22T13:50:00Z
@@ -367,6 +371,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "PR2QMqkWqoGZONWSUr6renGYMk2+gghBGY/deK3OpZ3nuElpT8vjGNqcocUR3nbDJiEHUF5L94K1ekyaz8mE6cHgvRo+6m601ZaLlzfz+9mDwFiZtUgXJC38OIPSue4UOcWg3QxeTYji0LuEL+mh0AeHlHzBgEb08NBrrIWIlLBemeBup/NEwN6QQPMzU9QVTzE831yqW9qojWVMREl5hSMBdJ6VOsblOm0KOj532EdRtY2KRPpfXTg3Ojma8ewSKBPwkCsIDGM5xPBvAGf+UlSNL8kQ+hZd/yEvDJh9U1UsMvBQ87aQrqmKC9sNoHvDhlRuZmuEM1e0CMG/k5/H8qM/+NfqiLGF5tDb5KbJtDg=;aWH22j2WGVC/cM8X0xrNQQ=="
+secured: "xMBvjqE3DTwWFPXrRvfxAmvzLxX1yGQBGsVdXQmR+1HRSkd55w30ZSz88hXo8AsNtslszZJJlF9dRiJpgLmiGKbFsKPE1NQonqZL7OUpu7Bkvu3xCUH0ydEPa2z/d66WADBN5+gvP6GTDlHwXPgjxmWc3yMu0Hh+sCnvoaDJJyeukHsK9QumGhh/V5szzYGGGlpx0fIouM0R/+rob07JQ6ftE/sdA+FGNaGMHnSGpDHGeiOam2U9lYDs9mAbTS1qcPN3BULY5co5ZaGp6NNKjsXvOrQ08I19x4GYv0fyYjWxnmqwfoAa/2Cv231oq5yU5PMYsp9nuRgjiFPlzhYSAjkqM94wzqmddCOzS8p6MJw=;o7AomAjP+G4dKIipxSovaw=="
 ---
 

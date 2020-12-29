@@ -290,6 +290,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best of Showcase: How Microsoft Azure powered Microsoft internally in 2020"
+    excerpt: "Microsoft’s shift to working remotely in 2020 opened the door for the company to double down on using Microsoft Azure to drive its internal transformation. Well past moving its workloads to the cloud,"
+    publishedDateTime: 2020-12-29T01:46:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/best-of-showcase-how-microsoft-azure-powered-microsoft-internally-in-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 35
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10160_Showcase_Azure_year_end_blog_hero_image.png"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z

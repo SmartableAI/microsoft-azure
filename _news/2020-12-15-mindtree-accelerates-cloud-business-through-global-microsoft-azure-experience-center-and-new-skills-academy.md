@@ -288,6 +288,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best of Showcase: How Microsoft Azure powered Microsoft internally in 2020"
+    excerpt: "Microsoft’s shift to working remotely in 2020 opened the door for the company to double down on using Microsoft Azure to drive its internal transformation. Well past moving its workloads to the cloud,"
+    publishedDateTime: 2020-12-29T01:46:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/best-of-showcase-how-microsoft-azure-powered-microsoft-internally-in-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 35
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10160_Showcase_Azure_year_end_blog_hero_image.png"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Adobe launches Adobe Sign on Microsoft Azure in Singapore to accelerate modernization of digital signing experiences"
     excerpt: "Strategic partnership furthers Adobe’s commitment to support end-to-end digital experiences for private and public sector organizations in Asia Pacific Singapore is a leader in Asia Pacific ..."
     publishedDateTime: 2020-12-18T04:05:00Z
@@ -353,6 +367,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "iJSsXj/Ah2Pdy+ne+T+mHiYDkgzdUxY3RDkkLu2pIbDa0FklHagPsPz0HNvM69FQTJIUWQ9woWkurg0e9mUJ0v3FKWKILboZMjbJZo6AdGa+goeZ0mzdULJubm3Ri+0EV3o6DWox0okaOXY6I4Xotl6F1J0FY/wVWHgmxQQqoIzW/HZg52/Wf4sa9XbU2N69KSnA5oUEPX2BZ79VwdStAvTfePkCC2GrYyy0gCNZjDHGBorqZtCzLD+3/cEJ3vwnbaKq/WwtQ3Di/yxWb13rgF/NusNVNrqt7eLz4pp7KXBOZ+SZqn2l0z/zthOZOZgXemnGKTsQdVt1XufA3+XJHuZBsZYAyJPgmc31ciU0UxM=;7EF9HnEGHviN95a25y7Osw=="
+secured: "yYDLFHY/l6BEorZAx8SCQT0HQ03CgQgeW8HhgmJuClcyjco7q1iC5Osv9miBu+0XrkPn7uWbpD1Gf6R2jEkDPyZE+XZgz3ZBBJUBtKcM9syQ4+wojPBMEwTTMiK+mddIoBMdGCRikzmg2LFwE84JWoO8LOJVJUb6vOVlW+NweitqWG+e7mw/gfluExdnt+hS5wyKuu+6CNkLhwk9XoQ/upzAoxNebJ5QGLHYw5/KhdbDx9hOa32Gb9FonIvj4oYCmAEVKu+/yUlBN3TGgcqE1BctcveAa4HCpSVgVChbbgv2hYuvEfbmysmkpAt743B2DjV4CQ7fZPu3A34VERaMt/1HGm6aNiaCYMQlCGfJzz4=;mzM1Q2MYmeTnSekdw4fPwA=="
 ---
 
