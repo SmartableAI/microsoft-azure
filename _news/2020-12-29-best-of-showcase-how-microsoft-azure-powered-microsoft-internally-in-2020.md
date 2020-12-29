@@ -165,20 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-    excerpt: "JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR, which will support Microsoft Azure VMware Solution."
-    publishedDateTime: 2020-12-17T14:15:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-e56d01bc83d745c1b5917f79d5045f53"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "SUN Mobility pay-as-you-go service leverages Microsoft Azure for subscription-based battery swapping"
     excerpt: "SUN Mobility’s pay-as-you-go battery as a service system that uses a digital platform built on Microsoft Azure allows customers a one-stop-shop for EV battery solutions. A subscription-based ..."
     publishedDateTime: 2020-12-16T06:14:00Z
@@ -308,6 +294,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+    excerpt: "Native Technology from JetStream Software Delivers Cost-Efficiency and Continuous Data Protection on Microsoft Azure."
+    publishedDateTime: 2020-12-17T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z
@@ -371,6 +366,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "xMBvjqE3DTwWFPXrRvfxAmvzLxX1yGQBGsVdXQmR+1HRSkd55w30ZSz88hXo8AsNtslszZJJlF9dRiJpgLmiGKbFsKPE1NQonqZL7OUpu7Bkvu3xCUH0ydEPa2z/d66WADBN5+gvP6GTDlHwXPgjxmWc3yMu0Hh+sCnvoaDJJyeukHsK9QumGhh/V5szzYGGGlpx0fIouM0R/+rob07JQ6ftE/sdA+FGNaGMHnSGpDHGeiOam2U9lYDs9mAbTS1qcPN3BULY5co5ZaGp6NNKjsXvOrQ08I19x4GYv0fyYjWxnmqwfoAa/2Cv231oq5yU5PMYsp9nuRgjiFPlzhYSAjkqM94wzqmddCOzS8p6MJw=;o7AomAjP+G4dKIipxSovaw=="
+secured: "Tx4WCMlPLM+1J1zw4VyfmwSlITKGbF0V+OyX3Q886lyFawlmettCE4oDYpn61G3W/6lv+znosylqc68cldpIwWZg81b29i8GTwfZ5fWWcQEpSmd5zJmBXq/U8NFYz9q2stDDOcyfR3XtwGmy8ilphkRj8qhFtfwMvauSdl0iipTaH+1d5t0jspL+mP68WwCnlwetoDhgYBpqWfIlgfdLl7N8T5RTWa7QvPHD06yPkjW4xmTtw6BEyybqKnwpy4VZQX0mqD8AWY39Mr8r/zbU6AQ/H63oKzZs0eSGjg8vNKCLKIl7tt+qALnBvyRmowtiVjY7ZekWReQ1iONaIIypbllEJQFxvwqhff3zxEIhbSPf5RnMy9qMV8H+BaExPVbFkNFOt+qkt8qASxk7lZRd0aDhvWwrU41zGLSi/ZDc72U0vzY69tVxplNItBFat509IlpJ6653mBYV6UaA9hwtKiC8JXKbbet6TJihjMpOjZCk0TkRkW30/WIV+L8K7HaJ0t4V3Cnx4/5yhxflg9vC8w==;AtihUggfDMQwlow+j3fvzA=="
 ---
 
