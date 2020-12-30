@@ -4,46 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
-      "title": "Azure App Service Web Apps | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:24-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday.md",
       "title": "Build serverless APIs with Azure Functions | Azure Friday",
       "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can build highly scalable serverless APIs with Azure Functions.  0:00 – Overview 1:09 – What \"serverless\" really means 4:00 – A closer look at Azure Functions 7:29 – Azure Functions Live Metrics 10:45 – Thinking downstream of Azure Functions 13:52 – Using",
@@ -633,8 +593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
           "length": "PT49M",
           "ratings": {
-            "count": 1399,
-            "average": 4.5725517
+            "count": 1400,
+            "average": 4.5728574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -812,8 +772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7094,
-        "average": 4.7090497
+        "count": 7095,
+        "average": 4.7090907
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1019,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 8815,
-        "average": 4.6634145
+        "count": 8816,
+        "average": 4.6633396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1425,6 +1385,50 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
+      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 140,
+        "average": 4.6571426
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],

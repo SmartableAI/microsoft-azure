@@ -4,51 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
-      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
-      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 2038,
-        "average": 4.599117
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Developer tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
       "title": "Distribute your data globally with Azure Cosmos DB",
       "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
@@ -212,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
       "length": "PT34M",
       "ratings": {
-        "count": 141,
-        "average": 4.6312056
+        "count": 142,
+        "average": 4.633803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -255,8 +210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 3830,
-        "average": 4.708094
+        "count": 3831,
+        "average": 4.7081704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,6 +1203,43 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
+      "title": "Manage secrets in your server apps with Azure Key Vault",
+      "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 1631,
+        "average": 4.600858
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Compute",
+        "Web"
       ]
     }
   ],
