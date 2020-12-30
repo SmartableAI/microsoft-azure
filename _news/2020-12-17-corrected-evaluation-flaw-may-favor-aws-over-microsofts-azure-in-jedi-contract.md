@@ -1,28 +1,26 @@
 ---
 category: news
-title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
-excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
-publishedDateTime: 2020-12-15T12:33:00Z
-originalUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+title: "Corrected ‘evaluation flaw’ may favor AWS over Microsoft’s Azure in JEDI contract"
+excerpt: "Amazon’s unsealed complaint regarding the Pentagon’s $10 billion JEDI contract win going to its cross-town rival finally made its way to the light, and the information"
+publishedDateTime: 2020-12-17T04:25:00Z
+originalUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
+webUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
 type: article
-quality: 57
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
-    width: 1000
-    height: 696
+  - url: "https://www.onmsft.com/wp-content/uploads/2020/12/DoD-Pentagon-cropped.jpg"
+    width: 1024
+    height: 746
     isCached: true
 
 related:
@@ -73,6 +71,22 @@ related:
       - url: "https://www.prokerala.com/news/photos/imgs/1200/driver-umesh-yadav-with-his-electric-autorickshaw-at-sun-mobility-s-1118268.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "SUN Mobility rides on Microsoft Azure to help build future EVs"
+    excerpt: "Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing a Cloud-connected swappable batteries to put the country on the road to the future."
+    publishedDateTime: 2020-12-15T12:33:00Z
+    webUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    ampWebUrl: "https://www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/sun-mobility-rides-on-microsoft-azure-to-help-build-future-evs-news-topnews-umpmrojjgdfdc.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 57
+    images:
+      - url: "https://www.sify.com/uploads/sun_mobility_ians_umphWkbbggbgf.jpeg"
+        width: 1000
+        height: 696
         isCached: true
   - title: "Microsoft Warns CrowdStrike of Hackers Targeting Azure Cloud Customers"
     excerpt: "New evidence amidst the ongoing probe into the espionage campaign targeting SolarWinds has uncovered an unsuccessful attempt to compromise cybersecurity firm Crowdstrike and access the company's email."
@@ -318,20 +332,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Corrected ‘evaluation flaw’ may favor AWS over Microsoft’s Azure in JEDI contract"
-    excerpt: "Amazon’s unsealed complaint regarding the Pentagon’s $10 billion JEDI contract win going to its cross-town rival finally made its way to the light, and the information"
-    publishedDateTime: 2020-12-17T04:25:00Z
-    webUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 32
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/12/DoD-Pentagon-cropped.jpg"
-        width: 1024
-        height: 746
-        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z
@@ -395,6 +395,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "EBdqc2psobqihmsVoP6hPjSfJbEDHqRVDYkouRTv7SUbUoMO8IConOhSvB7U11UFMKZR7b36D0L0wqBmH2TPflI7RN+UpTcSqSDRybzFUMTQEN2KR9zhdEPno9nltGWlLFHlYJBVLiTZbGLLNvoZsm6sUmxzYpdSUzny8iRSux2cYudvDatm0eXfHDY0mQyFjnaNum2b+GA6xg+6nvnEL6C/4hll4xkopQLWpIH445ejJYm5eJVF746JoD3qgVmi/XGG20rr2WNaVUg/pAu9AGN1LunzKMtc5+yevT6d8Iq0M0AXljKdq3vOZkK88YAczazPY7ljNoZ/T98QlPAsyoQgSRB/GUAMWsGxlD+t9+M=;3N31+4NQypDXVs3N1ym1eA=="
+secured: "mIDdoF5N4S4garoNtlnthQ2ZilxHNok/NjTgzvwnQLlLRgpxpgPp7GX0Hi36mL1DKJVGZJNwf9opGV5itToKF3KqrCuAcT/IKFdIAyFaf/zks1UUB06NtjVt/Y6vR08BQ2kKtHJBIqFrl9UpQWbqWBnZ+3iiXYmbP/VDQahUg09hikf4RZcBxH9PbhAXUSIFi+z33uKP5dWk0lMxspzxpdi74H2G4C1MnaUnFug6CmFhyj3OrJ5t4C9gIiQfHsj+VT+E90v174jkCqYsCjtMsQyMEmu0po0em6t+5omglQ7IAWZ8YYPLjH3teYgoqjxHztMYTy0cu+zvUba2bJPt95pj/QriuSvbDXn1wqQgw+k=;hJdc8bVjibn4cftxhDKfug=="
 ---
 

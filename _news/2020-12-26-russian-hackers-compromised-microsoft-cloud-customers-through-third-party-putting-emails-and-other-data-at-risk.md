@@ -334,6 +334,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Corrected ‘evaluation flaw’ may favor AWS over Microsoft’s Azure in JEDI contract"
+    excerpt: "Amazon’s unsealed complaint regarding the Pentagon’s $10 billion JEDI contract win going to its cross-town rival finally made its way to the light, and the information"
+    publishedDateTime: 2020-12-17T04:25:00Z
+    webUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/12/DoD-Pentagon-cropped.jpg"
+        width: 1024
+        height: 746
+        isCached: true
   - title: "Mindtree Accelerates Cloud Business Through Global Microsoft Azure Experience Center and New Skills Academy"
     excerpt: "Mindtree, a leading digital transformation and technology services company, today announced the launch of a dedicated Microsoft"
     publishedDateTime: 2020-12-15T07:09:00Z

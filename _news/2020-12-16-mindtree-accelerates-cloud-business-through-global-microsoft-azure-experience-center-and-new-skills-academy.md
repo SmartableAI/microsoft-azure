@@ -332,6 +332,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Corrected ‘evaluation flaw’ may favor AWS over Microsoft’s Azure in JEDI contract"
+    excerpt: "Amazon’s unsealed complaint regarding the Pentagon’s $10 billion JEDI contract win going to its cross-town rival finally made its way to the light, and the information"
+    publishedDateTime: 2020-12-17T04:25:00Z
+    webUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/12/DoD-Pentagon-cropped.jpg"
+        width: 1024
+        height: 746
+        isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-th
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
 type: article
 quality: 97
-heat: 597
+heat: 617
 published: true
 
 provider:
@@ -321,6 +321,20 @@ related:
       - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2020/Adobe-logo.jpg?itok=_jaxKXTN"
         width: 763
         height: 509
+        isCached: true
+  - title: "Corrected ‘evaluation flaw’ may favor AWS over Microsoft’s Azure in JEDI contract"
+    excerpt: "Amazon’s unsealed complaint regarding the Pentagon’s $10 billion JEDI contract win going to its cross-town rival finally made its way to the light, and the information"
+    publishedDateTime: 2020-12-17T04:25:00Z
+    webUrl: "https://www.onmsft.com/news/corrected-evaluation-flaw-may-favor-aws-over-microsofts-azure-in-jedi-contract"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 32
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/12/DoD-Pentagon-cropped.jpg"
+        width: 1024
+        height: 746
         isCached: true
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
