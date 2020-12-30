@@ -216,8 +216,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2915,
-        "average": 4.727616
+        "count": 2918,
+        "average": 4.727553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 11276,
-        "average": 4.577776
+        "count": 11277,
+        "average": 4.577813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -302,8 +302,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7206,
-        "average": 4.6583405
+        "count": 7207,
+        "average": 4.6583877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 4815,
-        "average": 4.7090344
+        "count": 4816,
+        "average": 4.708887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,8 +531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4815,
-            "average": 4.7090344
+            "count": 4816,
+            "average": 4.708887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -751,8 +751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 441,
-        "average": 4.707483
+        "count": 442,
+        "average": 4.7081447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 804,
-        "average": 4.756219
+        "count": 806,
+        "average": 4.756824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1209,42 +1209,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6314,
-        "average": 4.74121
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-azure-tasks-with-powershell.md",
-      "title": "Automate Azure tasks using scripts with PowerShell",
-      "excerpt": "Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-azure-tasks-with-powershell/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
-      "length": "PT1H11M",
-      "ratings": {
-        "count": 5477,
-        "average": 4.7171807
+        "count": 6315,
+        "average": 4.7410927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1320,8 +1286,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 501,
-        "average": 4.762475
+        "count": 502,
+        "average": 4.762948
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1443,8 +1409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 447,
-        "average": 4.722595
+        "count": 448,
+        "average": 4.723214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1476,6 +1442,48 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
+      "title": "Understand the evolving world of data",
+      "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 5368,
+        "average": 4.6872206
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
