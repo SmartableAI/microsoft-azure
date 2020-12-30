@@ -4,49 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
-      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
-      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 999,
-        "average": 4.647648
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
       "title": "Implement resource management security in Azure",
       "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
@@ -184,8 +141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5526,
-            "average": 4.6626854
+            "count": 5527,
+            "average": 4.6627464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -255,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 13302,
-            "average": 4.7835665
+            "count": 13319,
+            "average": 4.7836175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -297,8 +254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 1556,
-            "average": 4.732648
+            "count": 1558,
+            "average": 4.7323494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -340,8 +297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 1640,
-            "average": 4.7786584
+            "count": 1641,
+            "average": 4.778184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -401,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1556,
-        "average": 4.732648
+        "count": 1558,
+        "average": 4.7323494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -627,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13845,
-            "average": 4.7131095
+            "count": 13847,
+            "average": 4.7130785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -829,8 +786,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8295,
-            "average": 4.6467752
+            "count": 8296,
+            "average": 4.6468177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -960,8 +917,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3516,
-            "average": 4.7172923
+            "count": 3518,
+            "average": 4.717453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1172,8 +1129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 3995,
-            "average": 4.5576973
+            "count": 3996,
+            "average": 4.557808
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2084,8 +2041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5526,
-            "average": 4.6626854
+            "count": 5527,
+            "average": 4.6627464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3509,6 +3466,49 @@
       "topics": [
         "Azure",
         "Networking",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-and-manage-azure-key-vault.md",
+      "title": "Configure and manage secrets in Azure Key Vault",
+      "excerpt": "Configure and manage secrets in Azure Key Vault",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-and-manage-azure-key-vault/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 2057,
+        "average": 4.6125426
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-and-manage-azure-key-vault-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Security"
       ]
     }

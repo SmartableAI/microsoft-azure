@@ -4,6 +4,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-scan-open-source.md",
+      "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+      "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1897,
+        "average": 4.723247
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
       "title": "Secure your application by using OpenID Connect and Azure AD",
       "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
@@ -44,6 +87,49 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
+      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
+      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 999,
+        "average": 4.647648
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     },
     {
@@ -479,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1810,
-        "average": 4.6110497
+        "count": 1812,
+        "average": 4.610927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,83 +1219,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-cloud-security-with-rob-polly.md",
-      "title": "Cloud security with Rob Polly",
-      "excerpt": "A ten-part miniseries recounting the Microsoft journey to the cloud—told by the pioneers who took us there. Microsoft cloud security expert Rob Polly outlines the challenges Microsoft faced during the transition to the cloud, and how the company addressed additional concerns related to privacy and geopolitical",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cloud-security-with-rob-polly/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cloud-security-with-rob-polly/",
-      "originalUrl": "https://youtube.com/watch?v=Ho9s2eFcZdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ho9s2eFcZdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M17S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-26T12:15:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ho9s2eFcZdY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday.md",
-      "title": "Code to Cloud with Docker and Azure Container Instances | Azure Friday",
-      "excerpt": "Chad Metcalf from Docker joins Scott Hanselman to show how to use the Docker CLI to deploy a container to Azure Container Instances (ACI). Using only the Docker CLI, Chad deploys a Minecraft image to ACI and then shares the public IP address with Scott so he can join in the wacky, blocky world!  ACI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2D8FTi-Zvt0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2D8FTi-Zvt0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-18T08:37:34-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2D8FTi-Zvt0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
