@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT32M
 ratings:
-  count: 3628
-  average: 4.639746
-heat: 58
+  count: 3629
+  average: 4.639846
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Containers
 
-secured: "m73UCM/Z+b6tOoWVmXlNlGrLJfjl2mKc5eayWRZq8xu4MwKOlXKxg2Cz9MlIhpXcB4zaL4RrxKyO+2t8RAiRhcgb7FKjBJ1v28YfgteTKjBxvuBezJAZwjUTwbXaITxM8Zm06orUGfjkTmz10H6BjXS8rB6lzGmRiotVJ1OTdn3j1Vw1AHd/HiN+XlGMSb05mtW/eeeKGp+skraQznZ5IYij8kTK4qTbNjc1ZRUmlh00AVOmWZkfNqejcPgaPvXu0Ax7j0OMGZFTCXqa4x0FMMrQX+ruEq9qf5VKvmsn9gcyZuPNbSMT/gh3CV/6J6iOfPps1VZH4PcSBBkGe2UDpiCNhAZ1h6jvEWISNq8bL+bkQL5iDW7rSFwkNtuXCAujZqQuqBHvRFVg7GfFp/Uu9C33G66KxCrYEZlE0657fOA=;csflWooMZSTejbXFuxFCXw=="
+secured: "+HFBlNDKzEaB5To5k6G6n7OnBxAbxnI8XdPugUTfgWJV51g++iUEs6wfKKMfbk/PJGaKBverN3DZOMRsXlzlqmtkrJ3DzJkdb28gzxvWwQYPDfWBzOluAOmz46QpA3sOlC15PpygdG9nUIo8f6pHvszvQpj1JNa1ij9+G4P/dvszr9Jsct525YGl+nu3jOzLLXhsj0J4e6E/8Cmtex0h7hYA37DVrBumb02Nq17DtmPjY2JvDvDL8gTe7P7VtVMRNLokl2qlx9lZ//tKRFeAlBrXnZy7/9zR9RZDFuYMQVYhmAValPN5euUhYN40/V4Lfd9tANAe2ZXStWIuTxY7qe5vm7PVP43AKm8s0WgfvAB8wEOll9C91IMaD5bNcD2tI5V67RvElfbWbDeB/80an2cSrW/6EV1+HZZhn/VHCDE=;3JmC2+5/bqxNHwZ94Qi55Q=="
 ---
 
