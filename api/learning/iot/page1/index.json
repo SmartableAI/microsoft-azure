@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
-      "title": "Remotely monitor and control devices with Azure IoT Hub",
-      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
       "ratings": {
-        "count": 243,
-        "average": 4.6831274
+        "count": 223,
+        "average": 4.5829597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -43,7 +43,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     },
     {
@@ -77,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 13114,
-            "average": 4.784353
+            "count": 13131,
+            "average": 4.7844796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1804,
-            "average": 4.7644124
+            "count": 1808,
+            "average": 4.7643805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1442,
-            "average": 4.7295423
+            "count": 1447,
+            "average": 4.729786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1253,
-            "average": 4.7589784
+            "count": 1258,
+            "average": 4.7591414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -275,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 1429,
-        "average": 4.7739677
+        "count": 1435,
+        "average": 4.773519
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,8 +361,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 1098,
-        "average": 4.766849
+        "count": 1106,
+        "average": 4.765823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -934,8 +936,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 852,
-            "average": 4.647887
+            "count": 853,
+            "average": 4.6483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1306,8 +1308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2274,
-            "average": 4.6455584
+            "count": 2276,
+            "average": 4.6454306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1545,7 +1547,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
@@ -1590,7 +1592,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
@@ -2199,8 +2201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 242,
-            "average": 4.7190084
+            "count": 243,
+            "average": 4.720165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2235,8 +2237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 269,
-            "average": 4.7286243
+            "count": 270,
+            "average": 4.7296295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2596,8 +2598,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
       "length": "PT29M",
       "ratings": {
-        "count": 852,
-        "average": 4.647887
+        "count": 853,
+        "average": 4.6483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2664,8 +2666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 852,
-            "average": 4.647887
+            "count": 853,
+            "average": 4.6483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2986,8 +2988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-maps-track-air-pollution/",
       "length": "PT36M",
       "ratings": {
-        "count": 68,
-        "average": 4.779412
+        "count": 69,
+        "average": 4.7826085
       },
       "provider": {
         "name": "Microsoft Learn",
