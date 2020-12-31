@@ -1,35 +1,40 @@
 ---
 category: news
-title: "Microsoft Azure breach left thousands of customer records exposed"
-excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
-publishedDateTime: 2020-12-21T10:37:00Z
-originalUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-webUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
+excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR ..."
+publishedDateTime: 2020-12-17T16:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
+webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
 type: article
-quality: 97
-heat: 638
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
-    width: 1200
-    height: 675
-    isCached: true
+  - Storage
 
 related:
+  - title: "Microsoft Azure breach left thousands of customer records exposed"
+    excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
+    publishedDateTime: 2020-12-21T10:37:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure breach left thousands of customer records exposed"
     excerpt: "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ..."
     publishedDateTime: 2020-12-22T05:06:00Z
@@ -336,15 +341,6 @@ related:
         width: 1024
         height: 746
         isCached: true
-  - title: "JetStream Software Announces Availability of JetStream DR for Microsoft Azure VMware Solution with Azure Blob Storage"
-    excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--JetStream Software Inc., an innovator in cloud-native disaster recovery (DR), today announced the availability of its disaster recovery software, JetStream DR ..."
-    publishedDateTime: 2020-12-17T16:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201217005185/en/JetStream-Software-Announces-Availability-of-JetStream-DR-for-Microsoft-Azure-VMware-Solution-with-Azure-Blob-Storage"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
   - title: "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk"
     excerpt: "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
     publishedDateTime: 2020-12-25T18:23:00Z
@@ -408,6 +404,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "2av3pRJ01YICgVDni/jfgwneIwf4wPEdlFSrfuCQZ/R6inx/k/UU7dzcgOBF7g3ELXQ39a6aGJ+NVbj76QYWrt9RO/9MFcaGo5Z8/v6vHtiju+/xSqIOfPxEuIt48FvcW0vjO1Vtbk+M/eEBRpEirM9d+XAC17oiE7MaYvfaCccLVmK0iWykVSpwvKmhk2IsXcErWRofXMHZwZKT/dnJz9NkJMb5tXEv9oc1h8Sik5OnNWjS5pIGuD96h9wdC6x8PjOCVKYwdTSOoTT0V3ChzbDkbVSBhfl9W1KJLfv8kaMBLqryQfkFWJGRlwndTDXS9d9qf9omTZF3/GWYTJul7YJ0swk1mcbwogj+HU54luw=;YrD0osvZGj+l6B6+TYcE6A=="
+secured: "k9eXXGQ3w/u9kOaxaqcvrRqWRfUOlFGiIOMSFoSLnCceJAP0sZnaX+bbl6x2FFeowgMMJIM4ldA6rZXwS+vs1KNYANxiFxUfpMofVLUET97RILQJWS7B6s2+4kMzFELaru4P6ujsbcK82d6DpVvNal1710Jp7fGN9geQZMiktU2TCQvVSP4GcdvTqnmpvPMpSqlOLqwKQQsfsZkOr7B2eVjymx2Fy/3SgXhGtqqrfar9tkupROQC5T1maokqroJMJp2B/5+gHy71jKnRuW1ms9AhAHB5wqxBoslPRNOw7VcDYE3lqEw/sSzhN4eoR2KSRdmH2LaS/UQGYaM1E9QEsqzGVNi7PHEjVTwCU9eG9dI=;ak1ArTwZ1mHN0BDpyXSQ5A=="
 ---
 
