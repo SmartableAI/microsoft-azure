@@ -4,50 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk.md",
-      "title": "Use a framework to identify threats and find ways to reduce or eliminate risk",
-      "excerpt": "Threat modeling helps you generate a list of potential threats using STRIDE and find ways to reduce or eliminate risk with corresponding security controls.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 216,
-        "average": 4.703704
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -78,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 13490,
-            "average": 4.7833953
+            "count": 13500,
+            "average": 4.7834816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1869,
-            "average": 4.764045
+            "count": 1871,
+            "average": 4.764297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -163,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1492,
-            "average": 4.727882
+            "count": 1493,
+            "average": 4.7280645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -206,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1298,
-            "average": 4.7619414
+            "count": 1301,
+            "average": 4.7617216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -276,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 1483,
-        "average": 4.772758
+        "count": 1484,
+        "average": 4.772911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -360,8 +316,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 1140,
-        "average": 4.766667
+        "count": 1141,
+        "average": 4.766871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -682,8 +638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 5999,
-            "average": 4.7351227
+            "count": 6000,
+            "average": 4.7351665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1187,8 +1143,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1878,
-            "average": 4.582002
+            "count": 1879,
+            "average": 4.5822244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1342,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1878,
-            "average": 4.582002
+            "count": 1879,
+            "average": 4.5822244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2474,8 +2430,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 5999,
-        "average": 4.7351227
+        "count": 6000,
+        "average": 4.7351665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3243,6 +3199,51 @@
         "IoT",
         "Mobile",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 224,
+        "average": 4.575893
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     }
   ],
