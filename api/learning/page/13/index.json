@@ -4,15 +4,15 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
-      "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
-      "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
       "ratings": {
-        "count": 2047,
-        "average": 4.44895
+        "count": 1663,
+        "average": 4.590499
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,15 +27,25 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "DevOps",
+        "Management Tools",
+        "Security"
       ]
     },
     {
@@ -125,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "PT36M",
       "ratings": {
-        "count": 1328,
-        "average": 4.6558733
+        "count": 1329,
+        "average": 4.656132
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 447,
-        "average": 4.588367
+        "count": 448,
+        "average": 4.587054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -573,8 +583,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 1857,
-        "average": 4.6284328
+        "count": 1858,
+        "average": 4.6280947
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -990,8 +1000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 2404,
-        "average": 4.561564
+        "count": 2405,
+        "average": 4.5617466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1078,8 +1088,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 241,
-        "average": 4.701245
+        "count": 242,
+        "average": 4.698347
       },
       "provider": {
         "name": "Microsoft Learn",
