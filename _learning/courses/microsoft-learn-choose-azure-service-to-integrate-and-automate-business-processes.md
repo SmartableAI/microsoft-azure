@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 11295
   average: 4.578132
-heat: 63
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FbDztSweVp+lbtGCwRCoAi6BYf/KxL3mGkuXKzUWauXXTuDHxpMTuDztVew0MIyVQZUjePLv4ne6FP8mr3FHz7Agxrjj4Mb3WemU7tN08VXmgGlnYuIv13nRFwA2BZSDRw3U6pAzOnV/+plDeIO/BrFlFtOxkez8elWg00KCBtHMkyub/uBmwmxvjz0bjheBGO3wS0GPNaPUClBY/+uACzum//3lioga0UkgxBtosuQYE+MflRSF6x6Yj7nfhilNKM4f8Qoq8GJOU/gFKQFv+AXZnfYkbNJm0W8r3HFhgh0vBHhYsvf0VFwkWpr5aRsRJH+NwaVeHciZqeVtU49SG54b+7vPE1RT6gyN7bDcFZlnyjEW96pe3CTihjrjBkZFI2QKmh2lB8shN1H/B3IB4cxxDIbymemk3fChWcZH290=;AWiW6OTVjaYKILfB7ug2+g=="
+secured: "5QOQjw+aTWQBsAJfXQPXdUNX4xWdjaWxx+KRhrwy9WAwON3UprboGb2vN8ydL95Rcs37tfgwapDfqLWDZ3uOxFET1cEN9EmPNSJgxQWpkusKWroUjRtMpFfDf4ZmyM6s97s+EiYmJY3PN0H18RMU4/Tius+1rVsorocyGDEZXN2UAGsNsnlBuPfeS36QeO6W2/QlACmf4HqWnWRhAozY8UnNIwRAYjZKu0G5OVLYofNu8VKAgSLjg51e+Uhr+rfGJWh7eAvsCf3nAxnJaSz2sBIWc6k7PEbF/A8FqIjej5DSMCqKnG8MJGMpYG79m01IObXN2AuSGueLwZyXOPXKpADZoBnprk/yNA/SgFbUXp4N3lPKDvvUchMQQ6Fl4Hy/D7f0uQYPpoc/5PmZ4yfZQ6I0NVNrQ91mTXkF7LBs3wU=;I4VkpWtDkvR3VWXh8ITvZg=="
 ---
 
