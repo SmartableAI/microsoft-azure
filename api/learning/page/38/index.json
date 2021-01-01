@@ -4,6 +4,45 @@
   "page": 38,
   "value": [
     {
+      "path": "_learning/videos/microsoft-azure-friday-use-the-azure-portal-to-answer-your-billing-questions.md",
+      "title": "Azure Friday | Use the Azure portal to answer your billing questions",
+      "excerpt": "Tommy Nguyen joins Scott Hanselman to discuss Billing in the Azure portal. If you're wondering: \"Where do I find a copy of my invoice?\" or \"How does an Azure service affect my overall costs?\" - these questions and more will be answered in this episode, which highlights features in the Azure portal to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-use-the-azure-portal-to-answer-your-billing-questions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-use-the-azure-portal-to-answer-your-billing-questions/",
+      "originalUrl": "https://youtube.com/watch?v=I3wc5Qf0MLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I3wc5Qf0MLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M16S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-20T10:17:55-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I3wc5Qf0MLQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-azure-friday-using-habitat-in-azure.md",
       "title": "Azure Friday | Using Habitat in Azure",
       "excerpt": "Nick Rycar from Chef stops by Azure Friday to chat with Donovan Brown about Habitat, a simple, flexible way to build, deploy, and manage cloud-native applications. Habitat makes it easier to develop and promote changes by enabling each instance of your application to continually and independently apply",
@@ -1118,45 +1157,6 @@
       "topics": [
         "Azure",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-blazor-in-the-cloud-hosting-a-c-spa-app-as-a-static-website-in-azure-storage-azure-friday.md",
-      "title": "Blazor in the cloud: Hosting a C# SPA app as a static website in Azure Storage | Azure Friday",
-      "excerpt": "Jeremy Likness joins Donovan Brown to show how Blazor enables C# and .NET SPA (single page application) apps to run in all modern browsers, even mobile browsers without plugins. Learn how you can host it using inexpensive Azure Storage, static websites, and an optional CDN. [02:10] Demo Start   Introduction",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-blazor-in-the-cloud-hosting-a-c-spa-app-as-a-static-website-in-azure-storage-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-blazor-in-the-cloud-hosting-a-c-spa-app-as-a-static-website-in-azure-storage-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=yJoMc9MPrvQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yJoMc9MPrvQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T12:23:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yJoMc9MPrvQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
