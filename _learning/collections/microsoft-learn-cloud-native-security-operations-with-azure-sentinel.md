@@ -4,7 +4,7 @@ excerpt: "This learning path describes basic architecture, core capabilities, an
 type: collection
 price: Free
 length: PT6H19M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
