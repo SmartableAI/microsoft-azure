@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 111
   average: 4.675676
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "zkzFH5XdNFOCFvk6WQj22sjAVVdkJrnEGcsOG9AgIgOIDhZf95XDGWrXoGlXG0WVCNBeiqnQ+bteVxugZtM4ljwGAQci5ltG3FAe421QXjOZJY7ce55oBq7zBQQY/8HY52rV87230FPcj0AxpmGS9dImd2wSsqNSTb1H/uv0xpVmaLOLH+oWfBq+vW3i7eKNYJs/nR2ubqW7YISUy2Z4wOdbm7kVtf4Tc7vvz92vvUuKY1tfTYydSyfAd6BZkyGRcKLKwg7E0EVuAeNgaIFsho6O6a794zTUkTSfs3n+Ck9LUw+8qIjvjPCZbzQFgqlPs0b2/k9rYUYkG5pfXvF0Tji/ImWhrxMvtpBjZklJpwGgFQSP8vS6oBQLaMwkcQV+6pngntp5EyXu8hxoFObN0xlkO/44arcZ5/ALC+e0n+k=;NJOGQygIEuPsbkhkPoSJ9Q=="
+secured: "D+bvCW3RT+8cY8z6cGVvy2Ow6ghVHaxl4tWocZmy5v+OPp4gtHubAdt80UpMuDiegnclzc7B9z4u0NVPghoL43+Lfx3o65BE/UCM2kYTyOlL8dsrTFgV1PWS9Q40vnA8AfolO/UNK/bte+XNo9TLkYrrA81r8nQLw6SwkC5U+wLM9EfluMpA3hF9PaaFSDQFeNHJZIUd4yusIJ2Ao+PY5Vm5yE6ugdfmPM7UBq5s923AFX8LNosTpG/OarZxIcAGHNUB46wIke5hyysPjjzHitePdu/MbFhl3eYKA0GFl4BR9ONlAAHdaAGFcGmJ8sb4dOrerabuXNzR9sV1UOXrTDp01LCj3fsEGMz0kinQ0AJapxTv7m7EodbGs0N6mnc00sxaPPSv22xWFfBCN44o6zyft0CZFEm5Y2rKsPJutvc=;BTVrGDLJ59Np5exNf2Vl0w=="
 ---
 
