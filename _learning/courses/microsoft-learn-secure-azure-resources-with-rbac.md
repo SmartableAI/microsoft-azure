@@ -8,7 +8,7 @@ length: PT37M
 ratings:
   count: 5538
   average: 4.6628747
-heat: 54
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Identity
 
-secured: "Mc0SJ0kJeMsANtHZhu/Hds8+LlUA0T/lhuLN8d82LznVDlJndj9e+az0cLcyq+DckXllFEvHwGx+hbwHUERMN1HhE/gir5Xdw1WgwjZXaDXvPr4fiW+BjhYGtLKCKtvHFR7+fZvZJKtXclkdrNP05WSQsjsU9OJQ+PALiBRTlstOXzK9MyHVe9Gir+3yzmjkB/89wmYrnwRQzk4CSg9TBAg6cu+o26aFcskAdn4B3g7NaCqHsJfms1ENP3oWyUWbr2P5ovQ4pvCHXtNNtR9IKvp6keXeGcJJs5/A9n8i+AQ+PyLzyOqzRy3eIInkwzvEu8jy6pGsr8B8uFxpUih19FhZFDBu1GfDUaXVoX2OjHlAWyO7DwTBAqx4QrqYiZA4dmcZgd1Rqgef+fwucz6W7+rNCIy3heILRNRzdnFDXD4=;EMOBDSogs+oFedeyrnc8rA=="
+secured: "1CIqCg2/kFgy1IkJBd1KpHYVzdBWAcXF+D+8FyzxK7JcwSoNBHcLDgqckSujPX6sEwJ2C9avrl+VL2mApqMQERP3FkHDzjlCCWMaGS8+0ply/AkILtQ6R6D9rSCafyszDFC6hlHkrjSIgg7fIxAbb+1Uf81aDErhggcKwVassBArIFiNo6CizATL0CBdJWEENJV29lsP08DSuLk6x5smJr5XH3cYFMF+qzv2hQ9+Dy0P0aNCrrLUHRietQxPJFdyyE0O6XTydXdsOF3KSf12htltp0NWWAzk2b6NJ9wx/I1mg8EwIn31JfYipo0FYhwMzbfkQS/K2pfo88OCHY68WMm4k6e+LpMmZBS9Pgg3aiEuQUJDi5t8n1QNrJTfuOU8xW7d4/ZqTekBTVcKz1DYL7dfmFfF4UUE7W9se3YLD/s=;AJ1cIpdXpwy8WEVpEErbrA=="
 ---
 

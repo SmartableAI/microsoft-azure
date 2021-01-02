@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT58M
 ratings:
-  count: 5461
-  average: 4.6114264
+  count: 5462
+  average: 4.6107655
 heat: 54
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Web
   - Management Tools
 
-secured: "YqKRXeXTU8Cd9czYQL7KaTDtSTqDthjdrNji/KgaAZNI6wO2ZGGhgBefgkUo9w0wH4DZ+3GtS7BSYVVKoPEnoMW5USvycQPp2RBsiGc5goykDs/qwL3snZu+jeZWVY0feS2i/1VoYZqOKQ7VqbOu/f4p3sDCswivjFA9bBVYqGQICsws/ndE6jPYNf2+jaBlvA/Lx0VYmImnoChCXNG0E4IhsnOgIoTNKQvTKJ7vDlkSCLnQnAa7nnYbgIjasyWbJwyMlwKyjlYnCixAPVIRu784R8sxIqob5tCVSFUZgoaqUhKcORR9Xyj4YdZEElwM5ITKpeoP7jlB/IpXXNV6nt+xbelWkWizuPYHGQy8cN5oIdejtdBi2NkdXb98GN9/yxFqJV2tgbGbpU9n6jxcqkUcZb/IXl3Zr5sfbvR5j44=;tj4CL1VxHn2P5Mm9Dx2yrQ=="
+secured: "DBAQNTZhhstxxjAsrvY74huu55v+2jw3DKKi2NqjdfsfW3g1RGtoEPoH6YxbGNv8emaDCXuOiM8rl/3RJUkXIK6P0mISoYUjGWO0Vep7dgrbEsDtdr2c7e09I8LFWn+sSV2BiD99tV3mODxq7Tx62jl5BT4Kt38h8S1YuF/LI6HrET6ZFn7S11L2pZQgx0kLl4bp3NjWZ9IZNKnEyC36FWNk2IdiE2JwzMdLLOF/Cf7M0eIQ4+Zz6n8c8lz1Ncb8etp5soe8DnPy+TDwroZYseVzAEtRd39NHne17rycyUrZKzj6PWFdOltAtr5II7nBQ2DOUdJJO75hsVYP0BVbmmaO+oJHjk/Y+h2NsDEXyNIeCTP1/RzfuErI4olk/YSVogE+nBfHs7+v3Nd78FYqKcjsgUfBQM2KoxPjyu2CIkY=;J5wwJ2scytjNLx2mxEWz7A=="
 ---
 
