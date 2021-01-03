@@ -3,8 +3,8 @@ category: news
 title: "VyOS Universal Router on Azure achieves Co-Sell Ready Status"
 excerpt: "Sentrium, the company that provides VyOS Universal Router on public clouds and support services, today announced it achieved \"co-sell ready\" status for VyOS Universal Router on Azure. Microsoft's co-sell ready status allows Sentrium to work together with Microsoft's sales organization,"
 publishedDateTime: 2020-12-30T09:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vyos-universal-router-on-azure-achieves-co-sell-ready-status-1029924740"
-webUrl: "https://markets.businessinsider.com/news/stocks/vyos-universal-router-on-azure-achieves-co-sell-ready-status-1029924740"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vyos-universal-router-on-azure-achieves-co-sell-ready-status-1029924748"
+webUrl: "https://markets.businessinsider.com/news/stocks/vyos-universal-router-on-azure-achieves-co-sell-ready-status-1029924748"
 type: article
 quality: 57
 heat: 57
@@ -21,6 +21,6 @@ provider:
 topics:
   - Azure
 
-secured: "O2oOxfw+lB1H5VCI/k5G6/M/ahmwy6bpuhVQTeiQeUb5vYdqlYRuQmvL+9jPq03PG+VhDpKwZON4BNxNNuXA9wii/KWX7wWOEYTLJAj7c7CwWpW5YE04zIR/NCsS/IvXYEu24ifwizuQTpsTF7xkopLEsnQteMtOGJVMJctK3765+OSwvV+K3nNDApIzsvGQ62Kn7P68aSpkj0JqksyUUrqgAmht0kqYdXOL0bzPWCz6MZqtV3F7m+lXpG2YU4NKcM4HG8CrX2z+rJN0Urogw7raKqJNPVhCADISeEApp20YlFPzGXUstVnhc8Y0zSHseyNgUi0nzjbbZnYSwo63sIJwtvMBK3iPgr4rLdNWaFs=;cFmLMz52zeA2AedHWyKtvQ=="
+secured: "a6O8R6Q6+0B+Zy/xA310hClveXCFItB5stNkGWdfup0+JESv5NGX2x7fBFZT5Oq9ct8Tuk3KFeMeQni4ZGLpK/AkHxYzR+p0DQ9N1rIBSOO2fbOE6tVtPzBAhnWiuXkW5kMwuqPtcJ5c31TZjC/3hFcPRWPs7di0KMFuRnb2ndn0rmOt1eZri6xQ70b0KJSWwlIcCJE6u4rI9Mjn2b42EDHjlqryzqYYFau7emBcj4FRZ8O14BWH/2LIRQAdb7HFy+e+KNKQWDNeSxeihhKCvbcxZ6LcA4r9HYE1YEBr0NyWyrfcO0am9uk9Rtm1aV/BHeZaEru4ADwCWbS5FoA0nTZ6KkAiffk7B+axYzkrIF8=;+8WHSIvCulvWrRw1M2cZjQ=="
 ---
 
