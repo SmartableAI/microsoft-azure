@@ -4,6 +4,84 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
+      "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
+      "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-04T10:44:01-08:00",
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks.md",
+      "title": "5 Things you didn't know about Azure Kubernetes Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn about 5 things you didn't know about Azure Kubernetes Service.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=Hb6VExxq-lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hb6VExxq-lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M28S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-10T08:06:18-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Hb6VExxq-lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 13910,
-            "average": 4.7843995
+            "count": 13923,
+            "average": 4.784457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3005,
-            "average": 4.7181363
+            "count": 3010,
+            "average": 4.718272
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2620,
-            "average": 4.764504
+            "count": 2627,
+            "average": 4.763228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +245,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2014,
-            "average": 4.765144
+            "count": 2018,
+            "average": 4.764123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,6 +304,92 @@
         "Analytics",
         "AI",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
+      "title": "Explore Azure compute services",
+      "excerpt": "Learn about the different services that are available in Azure Compute.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 2627,
+        "average": 4.763228
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64763,
+        "average": 4.7113013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 81,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
       ]
     },
     {
@@ -294,8 +458,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16157,
-            "average": 4.693755
+            "count": 16158,
+            "average": 4.6937737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -329,8 +493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3980,
-            "average": 4.705779
+            "count": 3981,
+            "average": 4.705853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,7 +546,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -393,7 +557,7 @@
         }
       ],
       "size": 9,
-      "heat": 94,
+      "heat": 73,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -473,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16157,
-            "average": 4.693755
+            "count": 16158,
+            "average": 4.6937737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3980,
-            "average": 4.705779
+            "count": 3981,
+            "average": 4.705853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -561,7 +725,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -572,7 +736,7 @@
         }
       ],
       "size": 9,
-      "heat": 94,
+      "heat": 73,
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
@@ -584,92 +748,6 @@
         "Identity",
         "Containers",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
-      "title": "Explore Azure compute services",
-      "excerpt": "Learn about the different services that are available in Azure Compute.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 2620,
-        "average": 4.764504
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 64763,
-        "average": 4.7113013
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 81,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     },
     {
@@ -703,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8617,
-            "average": 4.6925845
+            "count": 8619,
+            "average": 4.6926556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +817,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13890,
-            "average": 4.713463
+            "count": 13892,
+            "average": 4.7135043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -782,8 +860,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6257,
-            "average": 4.7049704
+            "count": 6258,
+            "average": 4.7050176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2436,
-            "average": 4.667077
+            "count": 2437,
+            "average": 4.667214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -898,8 +976,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8617,
-            "average": 4.6925845
+            "count": 8619,
+            "average": 4.6926556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -934,8 +1012,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13890,
-            "average": 4.713463
+            "count": 13892,
+            "average": 4.7135043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -977,8 +1055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6257,
-            "average": 4.7049704
+            "count": 6258,
+            "average": 4.7050176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1013,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2436,
-            "average": 4.667077
+            "count": 2437,
+            "average": 4.667214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1406,8 +1484,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6191,
-            "average": 4.7147474
+            "count": 6192,
+            "average": 4.714793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6191,
-            "average": 4.7147474
+            "count": 6192,
+            "average": 4.714793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2339,45 +2417,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
-      "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
-      "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-04T10:44:01-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -2385,8 +2424,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4213,
-        "average": 4.6294804
+        "count": 4214,
+        "average": 4.629568
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2641,8 +2680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 6191,
-        "average": 4.7147474
+        "count": 6192,
+        "average": 4.714793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3184,41 +3223,6 @@
       "topics": [
         "Azure",
         "Storage",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-      "title": "Deploy a containerized application on Azure Kubernetes Service",
-      "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 115,
-        "average": 4.7652173
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Containers"
       ]
     }
