@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+      "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 767,
+        "average": 4.6740546
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 13923,
-            "average": 4.784457
+            "count": 13931,
+            "average": 4.784581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 1951,
-            "average": 4.7662735
+            "count": 1953,
+            "average": 4.766001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1367,
-            "average": 4.756401
+            "count": 1369,
+            "average": 4.756757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -273,8 +317,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 1197,
-        "average": 4.766082
+        "count": 1198,
+        "average": 4.7662773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,8 +1272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6743,
-            "average": 4.6583123
+            "count": 6744,
+            "average": 4.658363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1451,7 +1495,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
@@ -1477,8 +1521,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 790,
-            "average": 4.720253
+            "count": 791,
+            "average": 4.720607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3112,50 +3156,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
-      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
-      "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 767,
-        "average": 4.6740546
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
