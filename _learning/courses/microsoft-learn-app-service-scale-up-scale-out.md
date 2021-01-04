@@ -8,7 +8,7 @@ length: PT46M
 ratings:
   count: 2569
   average: 4.5636435
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "3TqifyNOTYKO9jz0XQ2soyfSa5yGI9y3Yf6YlG0f4rzt+vMjHvXksRHBE2XMjhpb24mFkjumEYoK12/vEVSgg2R0yTFEcWODxw+/zk3SMFFDjB+EHltdbYKqhPIaTVm2uJaQSif2LZE8A9AEuv/ZIBjvTjiZsjEksCAWtwONNtwDQ36tUlb48C3oRRTgA87BJ2QBdhQov0dXXZ3bIFhGvF3xzOUjxV5Hme7SIJmvkijhZuIpUQH10dDKm//Z5Vy5L9CaXGpgVmJXhD2nKEHZED/u0Z8o+8SEdHvXOqRgipqa2TWKQwpC1JwwMdg890c6dxJWaSHbK+AU7PuFPVRXlzMSAb9Cd6Jv/1KSrjBgIGAplnRUIfjKw7PGamyiuTO6ZorA98JetaB3uYqFjObWW0vpUwdQr4KpHpzHolOCNKM=;RgNFzNod2c7Bq8+r/aflgQ=="
+secured: "TxytsBXYXs4xMzFm/6WoyVqY1jL1x+sbsHjyBgA0E+FJZPqRzDcEobCrIGcSQiOJ1ZaMh989UxoaaTjFsLJUOUWH4P7cJP8XdQsUcuiois6c8fxFHIZxBRzfSeltue9FtJ/Fw46e+RPSnPlocVOYMGEg73vWkDrQKand819V2EAiMt1AjroNtjZoD+HEg9ScJZsRdw8Rs2QLkw/+W5lkyp4Lp6g4hPMAT4T04X8oatwRwzxYAIbo7ceVBosRUC21A7Wp4FG4OTIWMMJ+E76mlu118Nun4Oin8EqTJrExznPdkoID3jh2bgwfEeS3/H1IrUCVvBive7LrL2SEPMjvZV1vfpE1hR5ajaW+6vRVDi75Iomook2AsUCmx7eZPcd4RerUxljQ5U9F9QD3ts7edMCRGcDeuMqmyZyMKu0rIRQ=;cktx+a6HKdbfihXG5a6DaA=="
 ---
 
