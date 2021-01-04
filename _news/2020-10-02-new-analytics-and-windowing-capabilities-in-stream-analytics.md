@@ -180,6 +180,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "4 common analytics scenarios to build business agility"
+    excerpt: "Azure Synapse Analytics is a limitless analytics service that is designed to bring the two worlds of big data and data warehousing into a unified, enterprise-grade, powerful platform."
+    publishedDateTime: 2021-01-04T09:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/4-common-analytics-scenarios-to-build-business-agility/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/57e926f9-41ab-454e-b8b5-828fbea8b456.png"
+        width: 1024
+        height: 557
+        isCached: true
   - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
     excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
     publishedDateTime: 2020-09-30T17:00:20Z

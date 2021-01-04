@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Microsoft launches Azure analytics and data services"
-excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-publishedDateTime: 2020-12-03T16:08:00Z
-originalUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
+title: "4 common analytics scenarios to build business agility"
+excerpt: "Azure Synapse Analytics is a limitless analytics service that is designed to bring the two worlds of big data and data warehousing into a unified, enterprise-grade, powerful platform."
+publishedDateTime: 2021-01-04T09:00:07Z
+originalUrl: "https://azure.microsoft.com/blog/4-common-analytics-scenarios-to-build-business-agility/"
+webUrl: "https://azure.microsoft.com/blog/4-common-analytics-scenarios-to-build-business-agility/"
 type: article
-quality: 54
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Analytics
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
-    width: 800
-    height: 500
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/57e926f9-41ab-454e-b8b5-828fbea8b456.png"
+    width: 1024
+    height: 557
     isCached: true
 
 related:
@@ -182,20 +186,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
-  - title: "4 common analytics scenarios to build business agility"
-    excerpt: "Azure Synapse Analytics is a limitless analytics service that is designed to bring the two worlds of big data and data warehousing into a unified, enterprise-grade, powerful platform."
-    publishedDateTime: 2021-01-04T09:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/4-common-analytics-scenarios-to-build-business-agility/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/57e926f9-41ab-454e-b8b5-828fbea8b456.png"
-        width: 1024
-        height: 557
-        isCached: true
   - title: "Authenticate Azure Stream Analytics to Azure Synapse Analytics using managed identities (preview)"
     excerpt: "To support Azure customers' need for a more secure streaming data pipelines, Azure Stream Analytics now supports managed identity authentication with SQL pool tables Azure Synapse Analytics."
     publishedDateTime: 2020-09-30T17:00:20Z
@@ -288,6 +278,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
     publishedDateTime: 2020-12-03T18:44:00Z
@@ -452,6 +456,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "CwRZQ3jGLvnwBHWl4RQnwHn7havrx7t5Zg3xlwiG72AJekcQ+B2KeVJXCgFjjUDOXDfg2CzuKlGr4i/g+Qs/piL736HNW/MP2d4n1uD2tdJ0x0fiGH3MMPZHBRvnwZAiuvo2/CUC+J/QrsiIJmwnN7pRf1s2cwPvSr/yjpQusYqETBhMHG7pnZJyWMKICARBu6C6+Mtn1A0l+BcuNb6qXf/53V9EyQehV40YtifVFYcUYSbbIFPCeV890bfzE2iSsmaKf7b6YMzkrfB3Y3i+lkz1EhzeaLEEb9lC9A8NVInuyrtjrM5OTcvHs8ELhTEonUBL1IwYdpEyDDMYubnXgglHLPZSCnSvpNA819TZybA=;E6V8uOUY+aSk6VjhoofNaQ=="
+secured: "8FTk+0AW4+a/8bP3ZyhtEFH4vh4MqUwj9aKHfH/sXB0uClETe4C9ry8SKrjarYURdMuNlPAs5REMzkPZm1SdHduvNBRNBhfUHaxAPytG+0el7FTmWAKi+WqscL4nVDx8bfVGtpd7wmya2BEPincYmgz8vglKK7srXaYKtb1MyBtAvvyu4sHTJe8alGh20M0Mr3nt/UgH3ifBKoKBLLEfKbUvZdqC/L/s4DmvPrpEl+Lvgx6p/2y80w9+rtLf64sjJ7Xoood+9wsQ421XvswQ730xcXWtmFxQc/k+bYTD2CG2F8Y47973pQFDSEW2XbtNsI2ZGrHij2MkxBl7QOlHX5OGNvDme2MALahQpszEmyY=;M9fyy77gxmhfXnFgDB52tg=="
 ---
 
