@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+      "title": "Implement logging in a .NET Framework ASP.NET web application",
+      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 27,
+        "average": 4.740741
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 14222,
-            "average": 4.7824497
+            "count": 14253,
+            "average": 4.7823615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3064,
-            "average": 4.718342
+            "count": 3074,
+            "average": 4.718282
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2676,
-            "average": 4.763079
+            "count": 2679,
+            "average": 4.762598
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2056,
-            "average": 4.766051
+            "count": 2062,
+            "average": 4.7647915
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 2676,
-        "average": 4.763079
+        "count": 2679,
+        "average": 4.762598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -380,8 +427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16177,
-            "average": 4.6939483
+            "count": 16179,
+            "average": 4.693986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -415,8 +462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3989,
-            "average": 4.705941
+            "count": 3991,
+            "average": 4.7060885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -450,8 +497,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2951,
-            "average": 4.7038293
+            "count": 2952,
+            "average": 4.7039294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -559,8 +606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16177,
-            "average": 4.6939483
+            "count": 16179,
+            "average": 4.693986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -594,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 3989,
-            "average": 4.705941
+            "count": 3991,
+            "average": 4.7060885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -629,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 2951,
-            "average": 4.7038293
+            "count": 2952,
+            "average": 4.7039294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2437,
-            "average": 4.667214
+            "count": 2438,
+            "average": 4.6673503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1013,8 +1060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
           "length": "PT36M",
           "ratings": {
-            "count": 2437,
-            "average": 4.667214
+            "count": 2438,
+            "average": 4.6673503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1093,8 +1140,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1574,
-            "average": 4.644854
+            "count": 1575,
+            "average": 4.645079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1302,8 +1349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3666,
-            "average": 4.6412983
+            "count": 3668,
+            "average": 4.641494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1581,8 +1628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5469,
-            "average": 4.6112633
+            "count": 5470,
+            "average": 4.6111517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1872,8 +1919,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3666,
-            "average": 4.6412983
+            "count": 3668,
+            "average": 4.641494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1907,8 +1954,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
           "length": "PT53M",
           "ratings": {
-            "count": 666,
-            "average": 4.627628
+            "count": 667,
+            "average": 4.6281857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2272,8 +2319,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3666,
-        "average": 4.6412983
+        "count": 3668,
+        "average": 4.641494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2385,8 +2432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4215,
-        "average": 4.629656
+        "count": 4218,
+        "average": 4.6299195
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3165,50 +3212,6 @@
         "AI",
         "Containers",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-access-blob-storage-metrics-from-code.md",
-      "title": "Access Metrics from your Azure Blob Storage Containers Programmatically",
-      "excerpt": "Discover how to use Azure Monitor to gather performance metrics and then configure and access those metrics from .NET application code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-blob-storage-metrics-from-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-blob-storage-metrics-from-code/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 35,
-        "average": 4.6571426
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/access-blob-storage-metrics-from-code-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Containers"
       ]
     }
   ],
