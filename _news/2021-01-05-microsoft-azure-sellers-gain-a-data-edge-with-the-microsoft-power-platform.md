@@ -1,26 +1,30 @@
 ---
 category: news
-title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
-publishedDateTime: 2020-11-16T19:41:00Z
-originalUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
+excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
+publishedDateTime: 2021-01-04T21:43:00Z
+originalUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
+webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
+  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
+    width: 1388
+    height: 927
     isCached: true
 
 related:
@@ -439,19 +443,19 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
-    excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
-    publishedDateTime: 2021-01-04T21:43:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 35
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
-        width: 1388
-        height: 927
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
@@ -551,6 +555,6 @@ related:
       domain: telecompaper.com
     quality: 2
 
-secured: "HWmRxL94Mlj9AmKdcpNbVl1bJ1yIcW+d+PNg7+yGdyMc10goQLZWNzRAsQ3Pb5eqL6Di0FJnmTJx4pK9fGlZCBdd4Rh2R+hHjk0zd1xsAnEA+wQFIIqdCXmEmq9YQ7XMyDiYicM11UQnYhQPKd7wsfCMWi4vO+7zcl/XNgvxWaU1POAEOEGIn3c8i4aSJi4k6mGgyQdk5vCFWbJJpyLKKqylL4HpzZNiff2lSGpReMj8uCuHImkiNkVqaKV1xifCjbPYER5dmteJ99VzTAMvXRA2S+/bhnQ+ts255DAS5tIOLQoKbRAWr0fCgvdJR9rSzdN5oKYGNF/Y4Y+tFNfVj6KldGASDupnckFRm0emuz4=;VvYUbeJ6dJkTwo0TptZcVw=="
+secured: "D2N0sIVGPRj/ZSrmgi5jAECKgqqV1uTuo0uTUU2TSUDjeSsbNlTe/GZMNUTGe70diR7INEwaqLETHiluMi3CIpiWvrb6+8JS/j4H9MVJMMaFAc0oFxL+9ViG5AEXkJcLOaXXYsftjki7auCCoSWFP0Gg+kYnldBD1F6ZWHYB/hqcETcDaPjyTGq/QIDFNiYOhDyviDR2kuxSoN1LHrkHk4Q+U5whFq28l2Y0N/ha4ySOQiA1wyiHwP8o0xJOox+gHAFLo4pQ1PaWlGfy+9Gu1i5SdM4uV9VkcrcszkHSJb4WgMNjIaC2IavRXPFeZ+oDhD1Q66J0LLCn71zeDt/MLcfbwRi8zOMNtx1Z071TKk0=;ty85knwZvfJ/PCFJpNFJlw=="
 ---
 

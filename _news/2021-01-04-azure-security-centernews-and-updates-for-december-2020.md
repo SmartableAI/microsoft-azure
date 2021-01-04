@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Security Center—News and updates for November 2020"
-excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
-publishedDateTime: 2020-12-02T00:00:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
+title: "Azure Security Center—News and updates for December 2020"
+excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
+publishedDateTime: 2021-01-04T22:16:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
 type: article
 quality: 99
 heat: -1
@@ -41,10 +41,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Security Center—News and updates for December 2020"
-    excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
-    publishedDateTime: 2021-01-04T22:16:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
+  - title: "Azure Security Center—News and updates for November 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
+    publishedDateTime: 2020-12-02T00:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
     type: article
     provider:
       name: Microsoft
@@ -78,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "BVrCiHq7ob9vmsKBBW8VGAWks+YgNWVlrSSkqm7i3V83GydCgwH2gRR+udABp8DDn9lpH0XwpBw3mVHN8Q0/DU3XtmyLN59JekycvL0ujA9ynHX3Ox3pt2Hv56M/FrN/evbZkp4asuvj6n/W5IdDlwcB4ue42Dh9yJr1+HavRhgeWiKc14NdoWnmCmpStwcz/xsAm39jKBJ6vDPu6w+dJnYANK94LAORSCbXoB7wjQElbgyz6P6RjMgy4VDOzg4EBCQM7gA1QlG51UE2h+tUX7+QiFZeyehZD0iycjIEE/l38oCLswVFCzjGlKWte4Z8OvL1hKAU/xrHUSvFx0qDthd8qzlt4PwD1lQPesR3oEA=;yQU6Xxwae2pKEEjK7xHQ6w=="
+secured: "67mEL6hHNqvc7KqlF+uxfXdcTW9VqYqZnD1ORCoiTYDH+5b1iH8WcXV9jcCoWNT9jk/QsoQlq31MNVIdl6QrnZWn07WfhuXV4OpPs36A0XydJnxCvA9XgxXOLu3dLxIXIoRAFxW7F00ne/qXBu7zynuIDIaA5QO+8Uo4TXEDrwZaTLPYEye6Yr/wvtaw7bUoJoQy18P9CbfaxzFw3f27mRP+Hk5bF0/ge+7H9IlJf6Dv0xbGKnJ0rGQx1whwcFLjxkdzxTVpeHH2rAdxFthxt4uNrvDbGLPx9A7smFxxAUSexP31mE1LzhI/TRcc8NR19x2Lv4E42l+bLwpTp9u/6xShWuHNKiZ1ECAgAkTVNFE=;oE4FQzvXdi7aWCiUJp6beg=="
 ---
 

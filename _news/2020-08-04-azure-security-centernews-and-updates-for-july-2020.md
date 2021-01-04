@@ -48,6 +48,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center—News and updates for December 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
+    publishedDateTime: 2021-01-04T22:16:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
+    excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
+    publishedDateTime: 2021-01-04T22:16:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Azure Security Center—News and updates for May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-18T00:00:51Z

@@ -27,11 +27,11 @@ images:
 
 related:
   - title: "Intellitec Solutions Senior Living Accounting Offering Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Senior Living Accounting to take advantage of the scalability, reliability and agility of Azure to drive"
-    publishedDateTime: 2020-12-22T08:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18888362/intellitec-solutions-senior-living-accounting-offering-now-available-in-the-microsoft-azure-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18888362"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18888362"
+    excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp. said, \"We're pleased to welcome Intellitec Solutions to the Microsoft Azure Marketplace, which gives our partners great ..."
+    publishedDateTime: 2020-12-22T08:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/n18888352/intellitec-solutions-senior-living-accounting-offering-now-available-in-the-microsoft-azure-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18888352"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18888352"
     type: article
     provider:
       name: Benzinga.com

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Security Center—News and updates for November 2020"
-excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
-publishedDateTime: 2020-12-02T00:00:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
+title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
+excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
+publishedDateTime: 2021-01-04T22:16:54Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
+webUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
 type: article
-quality: 99
+quality: 92
 heat: -1
 published: false
 
@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center—News and updates for November 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
+    publishedDateTime: 2020-12-02T00:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Azure Security Center—News and updates for December 2020"
     excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
     publishedDateTime: 2021-01-04T22:16:20Z
@@ -50,15 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Defender for SQL (in Azure Security Center)—News and updates for December 2020"
-    excerpt: "December 2020's enhancements and updates to Azure Defender for SQL in Azure Security Center."
-    publishedDateTime: 2021-01-04T22:16:54Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/defender-for-sql-december2020/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 92
   - title: "Azure Security Center—News and updates for May 2020"
     excerpt: ""
     publishedDateTime: 2020-05-18T00:00:51Z
@@ -78,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "BVrCiHq7ob9vmsKBBW8VGAWks+YgNWVlrSSkqm7i3V83GydCgwH2gRR+udABp8DDn9lpH0XwpBw3mVHN8Q0/DU3XtmyLN59JekycvL0ujA9ynHX3Ox3pt2Hv56M/FrN/evbZkp4asuvj6n/W5IdDlwcB4ue42Dh9yJr1+HavRhgeWiKc14NdoWnmCmpStwcz/xsAm39jKBJ6vDPu6w+dJnYANK94LAORSCbXoB7wjQElbgyz6P6RjMgy4VDOzg4EBCQM7gA1QlG51UE2h+tUX7+QiFZeyehZD0iycjIEE/l38oCLswVFCzjGlKWte4Z8OvL1hKAU/xrHUSvFx0qDthd8qzlt4PwD1lQPesR3oEA=;yQU6Xxwae2pKEEjK7xHQ6w=="
+secured: "YmiuuMe1xj8h2LHG1l8S0ymQIYkP8s9FB5R4TvZvUrdbfGXShXkGccoP8437+tjjx0uCUWKw642Pcfc6AD/+OaZYopzpj9Kj6kc0XKmfZErV17Z407s02XNEE2QSAmPK0NZNNA6V5EPV/M7rsabFp7kfPaxtQgLC6d/TXY2CgwDSR86LPBZ2iTp+YUu0+c6y0CRiC/RKXa3KwryFoEUo3Xg5EiMOUKfX0QSV6bwBLuSmmwuY1qL7BtQYzjU9xUxGkbyRaLdHn7an+Vf5ExYp5IpiPT4D817bPYzB2wAFuuxu/tNnMMk0ByCvud0Vm4KIzRNndI+9IQ3K2ZUfOJUo7L9TR34EOLd8hWPTw722URY=;S8TNg9GiSA6zIoRKn4VT2g=="
 ---
 
