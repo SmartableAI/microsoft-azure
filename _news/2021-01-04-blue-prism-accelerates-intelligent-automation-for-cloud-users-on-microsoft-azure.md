@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
+    excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
+    publishedDateTime: 2021-01-03T15:46:00Z
+    webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
+    ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z

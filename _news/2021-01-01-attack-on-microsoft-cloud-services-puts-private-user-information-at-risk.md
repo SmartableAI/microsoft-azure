@@ -9,7 +9,7 @@ ampWebUrl: "https://news.thewindowsclub.com/attack-on-microsoft-cloud-services-p
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/attack-on-microsoft-cloud-services-puts-private-user-information-at-risk-104686/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
+    excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
+    publishedDateTime: 2021-01-03T15:46:00Z
+    webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
+    ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
     publishedDateTime: 2021-01-04T14:00:00Z

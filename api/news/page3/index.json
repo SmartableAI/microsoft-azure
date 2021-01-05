@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-11-cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances.md",
+      "title": "CBL-Mariner: Microsoft's internal Linux distribution for Azure first-party services and edge appliances",
+      "excerpt": "The Linux Systems Group at Microsoft has developed a Linux distribution for internal use and made it available on GitHub.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/",
+      "originalUrl": "https://www.zdnet.com/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/11/c3e91470-b834-4b2d-aefc-dce07cca519d/cbllinuxmicrosoft.jpg",
+          "width": 739,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cbl-mariner-microsofts-internal-linux-distribution-for-azure-first-party-services-and-edge-appliances/",
+      "publishedDateTime": "2020-11-11T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-intel-sgx-based-confidential-computing-vms-now-available-on-azure-dedicated-hosts.md",
       "title": "Intel SGX based confidential computing VMs now available on Azure Dedicated Hosts",
       "excerpt": "The new DCsv2_Type1 Dedicated Host SKUs add confidential computing capabilities to Azure Dedicated Hosts. The DCsv2-series Azure Virtual Machines can help protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. Dedicated hosts will provide further isolation",
@@ -1101,58 +1152,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud.md",
-      "title": "Microsoft Azure: This new technology allows you to manage Kubernetes containers across the hybrid cloud",
-      "excerpt": "Kubernetes applications can now exploit the cluster and virtualisation technologies that power Azure Stack HCI while still respecting local data. Microsoft is a firm believer in the idea of a hybrid cloud, one that spans everything from microcontrollers at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 833,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/10/21/b3efc5c0-cb29-4978-996c-ee0369b1ddde/thumbnail/1200x675/29928a2a0d592f1e74b89a88e9dee284/oculus-quest2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/",
-      "publishedDateTime": "2020-10-26T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
