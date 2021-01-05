@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks
   - videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks
   - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
   - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
@@ -157,7 +158,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/pJVYnMAKxXI/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/W-YWJYCS6YI/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

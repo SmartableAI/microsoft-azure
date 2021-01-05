@@ -4,6 +4,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
+      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 5,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
       "title": "Deploy a Java web app to Azure",
       "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
       "length": "PT17M",
       "ratings": {
-        "count": 1312,
-        "average": 4.6890244
+        "count": 1313,
+        "average": 4.687738
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -131,8 +174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
       "length": "PT38M",
       "ratings": {
-        "count": 2265,
-        "average": 4.6807947
+        "count": 2266,
+        "average": 4.6809354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1570,
-        "average": 4.6203823
+        "count": 1571,
+        "average": 4.6199875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 1885,
-        "average": 4.5824933
+        "count": 1886,
+        "average": 4.5827146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -465,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-resource-manager-template-vs-code/",
       "length": "PT43M",
       "ratings": {
-        "count": 62,
-        "average": 4.725806
+        "count": 63,
+        "average": 4.730159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -597,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
       "length": "PT16M",
       "ratings": {
-        "count": 1577,
-        "average": 4.74572
+        "count": 1578,
+        "average": 4.745881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1672,
-        "average": 4.61244
+        "count": 1673,
+        "average": 4.612672
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1212,49 +1255,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-      "title": "Security incident management in Azure Sentinel",
-      "excerpt": "Security incident management in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 13,
-        "average": 4.8461537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],
