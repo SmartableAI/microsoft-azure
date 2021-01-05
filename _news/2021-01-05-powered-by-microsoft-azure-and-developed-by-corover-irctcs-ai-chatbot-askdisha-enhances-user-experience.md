@@ -29,21 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure helps IRCTC chatbot boost user experience by 70%"
-    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (IRCTC) AI-powered"
-    publishedDateTime: 2021-01-05T07:53:00Z
-    webUrl: "https://www.glamsham.com/world/technology/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70"
-    ampWebUrl: "https://www.glamsham.com/world/technology/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70?amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70?amp"
+  - title: "Microsoft Azure helps Irctc chatbot boost user experience by 70%"
+    excerpt: "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent."
+    publishedDateTime: 2021-01-05T13:15:00Z
+    webUrl: "https://www.imdb.com/news/ni63147427/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 57
+      name: IMDb
+      domain: imdb.com
+    quality: 37
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/01/1087ffadfbfebb1902a466961ad77b18.jpg"
-        width: 400
-        height: 218
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
         isCached: true
 
 secured: "cFtBWaEYW1OETux8tpY0VHFDrWzhgReO5wR5/FOvQL6TW2fYMAeTeMVU5jZc1d/hQWHPLY+MpRuO0zz0NkgVNMMF3IJ1ZrXaTJWiAQAAl3t9Z2Oj/hGWMlSaNBvf9kmY5I054Hd04uO7XyfgbtmfibCntp6wN7snaXZwo7TlTT7uV8NKg44oMv0BD6j1bx2WBaiXDA2SykaWwJilkEbH4G2J1BiJ+A/7B8ICnC2wJhwvfop4+5fHq8ELYWrUmlcMEcToh+bHN2kgi2eyYjFMY5yJvkOs3XR22P6xLUhqKHboCYCEm/boCBxXZH5zz5KXL3NZW6fO0BCo61Q9B5+BBcJNkQYn02FQYsAxftRaG5uGivpts9S2FbvKq5CZe/+908SJrDz3hmPjRQQO7wcNBOfcucjcLRuhiTcn3cYBilaMR1e/+Ip+IoVGB27T1TZzc0B4IpUsm1gEWsXLFWGJHS2KqZa8iBxJ4r6CQjtIeojCsxB2hej2XNrEcC9ikM9Xvhq3JIU5+l+ZaJ2BYz8DPw==;KRYwUNMttIHqkY8g2iqMSA=="
