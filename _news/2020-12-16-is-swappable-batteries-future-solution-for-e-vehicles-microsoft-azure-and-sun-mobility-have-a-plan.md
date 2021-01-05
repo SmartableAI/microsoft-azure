@@ -37,6 +37,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Intellitec Solutions Senior Living Accounting Offering Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Senior Living Accounting to take advantage of the scalability, reliability and agility of Azure to drive application development and enhanced ..."
+    publishedDateTime: 2020-12-22T18:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/p18888362/intellitec-solutions-senior-living-accounting-offering-now-available-in-the-microsoft-azure-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18888362"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18888362"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "i7D16Gffn74mX8ZmqatAjS3MnnTzyPhsEM1Ni15Fz/hx/wphHtCQ1m0BGs613YU/+5GiUAuzIVt6fgwKyBtegugEShpah4y8T0tgLbJsEO08B7XKHa3H91jFtggl7Ft/Fm2KvK4oAqDnf/LnBjo0AIbE6HKhA6bdA9QgLaIGmGK+NR0gFAmbpxS3/bRJo0pIx2FDglraN7y/ZD2RCTfAqOjtPR1BZ9mntSwP/K+WoWTKuoR/s5qHDQG7trsrbziU/k641oMB/ntzJDziT84xMa71xdArMHKRgKs35ZRwh/rDIFNF0czShUa/cYtUXT/Pid38uAO8V5XO6SAIL1cwnbJXDOXhpiH5nSONgntp0KQ=;K04zdQsoEDw5eZlQRrmJ2Q=="
 ---
