@@ -2,7 +2,7 @@
 title: "Azure Portal “How To” Series"
 excerpt: "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal."
 type: collection
-heat: 61
+heat: 73
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series
   - videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series
   - videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series
   - videos/microsoft-how-to-get-started-in-azure-using-the-azure-quickstart-center-azure-portal-series
@@ -66,7 +67,7 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/pHFgmuF0gSg/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/eyOJkhYItSg/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
