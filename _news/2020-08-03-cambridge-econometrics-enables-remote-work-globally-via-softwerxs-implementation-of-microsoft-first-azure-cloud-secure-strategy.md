@@ -535,6 +535,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 13
+  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-05T12:23:00Z
+    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 12
   - title: "Community Brands Announces NetForum Enterprise Cloud, a New Version of NetForum Enterprise Built for Microsoft Azure Cloud Services"
     excerpt: "Community Brands, the leading provider of software solutions for associations and nonprofits, today announced the upcoming release of"
     publishedDateTime: 2020-08-10T11:45:00Z

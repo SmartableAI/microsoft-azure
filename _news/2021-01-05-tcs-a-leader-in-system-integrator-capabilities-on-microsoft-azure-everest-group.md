@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Tradeteq hops on Microsoft Azure"
-excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
-publishedDateTime: 2020-12-11T12:59:00Z
-originalUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
-webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+publishedDateTime: 2021-01-05T12:23:00Z
+originalUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
 type: article
-quality: 37
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Tata Consultancy Services
+  domain: tcs.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-    width: 480
-    height: 270
-    isCached: true
 
 related:
   - title: "Microsoft Azure: A cheat sheet"
@@ -301,6 +295,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Tradeteq hops on Microsoft Azure"
+    excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
+    publishedDateTime: 2020-12-11T12:59:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
     publishedDateTime: 2020-08-03T19:19:00Z
@@ -518,15 +526,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 13
-  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-01-05T12:23:00Z
-    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 12
   - title: "Cambridge Econometrics enables remote-work globally via Softwerx’s implementation of ‘Microsoft-first’ Azure cloud-secure strategy"
     excerpt: "Cambridge Econometrics, one of the Financial Times’ leading management consultancies of 2020, sought to migrate users, data, and devices to the cloud and enable remote work while protecting company data."
     publishedDateTime: 2020-08-03T20:38:00Z
@@ -574,6 +573,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "FtKmE+5viaYTHxx4kYDt1dQ5685xQYVGuTzSLJXLjv1uguD3pt0aafmIbx4AgWno8YHdkOAqph1k7W/ZamJMS0kMR2G/kRoGv6Xl5GV4voaAXawae3q4Ya+OI8iXymk07YUmEZMgUxFNNdMU4Kopzhq2bUuB3itF73jixXoeFJ+CYypBWBtlgNFV4lY8P86YyDr7wYRrKICU6M1F3bZxa763cjLWSV4/Q5w/BbGFncNdNA9yw/kXhHY16BSha7DEh+3aQiNUyqqpSWqaw2qiCA5HcVpgpMuAL+yyPRtOVhOWymKY8azQu7E4TIPOS2Q2WtAm0cOH3oZo4v57UvJ/74nMSDaJfQ23sg5NiTPYll8=;iRnXIfYXvmLh7qyT44jlFw=="
+secured: "/04Sh3JuxFNGJFpUmXmHLrOCDN4lct7uUmnE21kdraj1OchnRwQ+LIO0Qv/0vZGtIn2EPhMwL/tmjVPKbLVf+DafRNprWdl6Ko4V1qGyzQOIbIpvmt9QfQqQwUV38TXZBdVfDt4Vrni9vWYzc9mz01J9+ZEtBisZjXEOD4z7VQa656/VeppXrwyBCmOAegGhcTnfyEWJwd5cGgJS9OFWGfksbK9uwsdTkPXLQLPz1YS+RHKniuHWR74kEUoW0zq7lfzFaa5Xrs9c28oOjk1y7r8mgyE8/lVrWmAtktxNQeu+d4FvdV6nmAG1uLuykIlNANGPkBg9GmZtv6Iio7HRtXKe9/mRYfozgOciyzdQI3TUz3/SmJj279T0zTTVPJmD2p3bkzg/XtF56gt89nCSoQYLqMrvaxK9WF+/Xc5yYC5JmjoT0p5F5E25GIlyWf6M1YeY+98qdZQjPfGDUvviN2X0QSrXdjIT6C9dgDCwyyczR5Jag85daXSTtOqO6jgTAgXkdMZRJXPDGsoa50TrKw==;E6ZgHeOWYGktNuofA61M4g=="
 ---
 

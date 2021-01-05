@@ -525,6 +525,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 13
+  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-05T12:23:00Z
+    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 12
   - title: "Cambridge Econometrics enables remote-work globally via Softwerx’s implementation of ‘Microsoft-first’ Azure cloud-secure strategy"
     excerpt: "Cambridge Econometrics, one of the Financial Times’ leading management consultancies of 2020, sought to migrate users, data, and devices to the cloud and enable remote work while protecting company data."
     publishedDateTime: 2020-08-03T20:38:00Z
