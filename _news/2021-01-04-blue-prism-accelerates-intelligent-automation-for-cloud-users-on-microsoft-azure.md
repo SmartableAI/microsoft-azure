@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
     excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
     publishedDateTime: 2020-12-29T16:15:00Z
@@ -70,6 +84,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
+    excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
+    publishedDateTime: 2021-01-05T15:04:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "t1VROWDUy84GUxpFa77GDvTwFVKkKgJ8mbrI5a3DrqsmmZm/UnL4auqlb+mttGt3omi+0FwBbYZ3St7dICkddhSFJOIl+uyxpBUfZJ5FbDlIY4doGtTTazYXds2dA+FV1lsu77dmUuc1ns6pjxcDIOKDD0d/2JCGQMItEaQr5hclc//gXCT9Ee7zKjyHTa7LPfYFlIu3cxUcY5AgGRbKnswyTXJGRLa9/99DhMTkjJR4N5gY+rOP1g/9A+LkXjpDed4Hgo5MLN2+3kfMxTbrd5GQf/Jem3VDiyppi3EzuCfPEflD3zR3P7di1ajlTv3JTQGR2aCZd1K7t+uAiGEA/MTGUjKZofh2t7OYZIpMqnw=;uGm0B4tp04WxUg2+w7C71w=="
 ---

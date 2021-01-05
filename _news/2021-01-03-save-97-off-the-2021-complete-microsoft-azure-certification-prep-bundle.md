@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-a
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
 type: article
 quality: 96
-heat: 156
+heat: 196
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
         width: 1198
         height: 628
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
     excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
     publishedDateTime: 2020-12-29T16:15:00Z
@@ -74,6 +88,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
+    excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
+    publishedDateTime: 2021-01-05T15:04:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "qPwkiGEXBMw94lr3Tdi5vdhrUubk2gP78FXshJWt9JyHnGdRg7QKFhaRoj8EhI//fuW9Ii1T9eZFYlJS3eqlQPMG5oqNgZenPQgcRpUL6Me92krljzfoKNjLGjK9PqNSg2JWiWfzZmOrwbBHh5zIW22uR/0Ok/NhRrL4RTyYduLM6grmSdU5/Sfh7fB9/0aDWB5XB8YSPmqW9W3IP830exTH3TfKEqE/rC262njHqznJ/qz18+d+edb2ozTylOWvf6R6PJ18dU+jHhKACRcMPm+kiZPBAEmsVYxeGYK1NrYUVVv9qVN0I4K5e83sjcn0Af1dONQkPuVJGyq4CFZolHdKLZ5IIuH9Kn+7JoI77aM=;ClBnCWuHKMhg1Z9V1hlK0g=="
 ---

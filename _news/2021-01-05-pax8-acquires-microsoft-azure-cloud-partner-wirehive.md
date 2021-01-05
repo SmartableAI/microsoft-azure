@@ -1,27 +1,21 @@
 ---
 category: news
-title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
-excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
-publishedDateTime: 2020-12-29T16:15:00Z
-originalUrl: "https://winbuzzer.com/2020/12/29/cisa-debuts-sparrow-a-tool-to-thwart-app-malware-attacks-in-microsoft-365-and-azure-xcxwbn/"
-webUrl: "https://winbuzzer.com/2020/12/29/cisa-debuts-sparrow-a-tool-to-thwart-app-malware-attacks-in-microsoft-365-and-azure-xcxwbn/"
+title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
+excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
+publishedDateTime: 2021-01-05T15:04:00Z
+originalUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
+webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
 type: article
-quality: 30
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: winbuzzer.com
-  domain: winbuzzer.com
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://winbuzzer.com/wp-content/uploads/2020/12/Security-Threat-Microsoft.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
@@ -84,16 +78,21 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
-    excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
-    publishedDateTime: 2021-01-05T15:04:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
+  - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
+    excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
+    publishedDateTime: 2020-12-29T16:15:00Z
+    webUrl: "https://winbuzzer.com/2020/12/29/cisa-debuts-sparrow-a-tool-to-thwart-app-malware-attacks-in-microsoft-365-and-azure-xcxwbn/"
     type: article
     provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 30
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/12/Security-Threat-Microsoft.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "nhZ3DBnouv+mya/Gp9cwWfqCYjKaEk3SJBVv5MfGPyaG2U6AUwmtqEXHYdlO/ImGqoBcrgjBFNWQDvV/iDg5Xv/DHFm2VUsahdx57kh/pMcAGtaVUBjrwxYZK/KSwvPooqbnjMxnV5psqi1JFGMjMGTlRVi3d50yyPl8loBfvUCd6SDN8EbVZv38eorO95oPAbZrgsrUvFrSUv3YX4VZ85kyY6DkIbNZBAB0F+zJPsD//gIaCDY5/nbMkQDLKlksNSQs7IPt+/z5396xyrppl3VkfMm7xL5khs5XChCqIkL3RT4LwOD2ODVytyOsLKs7TPy1lD2gsGz+gw4fD1I+fxbU0jp+2Edk2EXN4Y60EueNgtNEWGOL4+ToukgPRvOSwBNgx3dVHESaMRZ1M9mupvPSxXyCqyIR/79OGkeu0lHbg3LLbm/8mILq9tydulImNKP1+99SYeiLz3zOskxOOSxtVMrfY1BG8TEuCnkhdnMx4xVXn+fKfdOpdfO1GlJEkWsi0hN2LN/eHx+0oIynyA==;3reiyqUldwBS0EKi/DfLCA=="
+secured: "cqUP2VhYaLmUqpN9R7h30yc2Bqn2Brp4/5yvso1tdiXQHclyplaQD2eo8xHj0vbRBNbDqIQpjEWC27SOJT+2YECUGBfcdTJz27tT4CehIEvRlsCn21BvVrfClXKoPIZNu7iFgWl8lcl6m8T9xNTeOs1O19egsqepYcK58v+HPGSFBSOm2AhY1Ov2VPWGSDJxbUtysFlNVJRBZC+WNV2eopmJEL/JrtVsOoDbTjYFW/WzUc5K8nJ1xDlRUx7zufCkZTVK9hnN9MDlOSRG/+Jz+MfXfMiKf8chelGcGvgw5bu7EbP2/gCWDD7AKE0sAkjvqkKQ7FcxhpgVnuzYLeWFvoQTUUWQ1qEhn7/kfIuU+jSd4VaSP4bTgXqXC/Sqp99Ha9weckxX9SbyHjlv8e1rm4qsAOluqCThRSPgoEHde0IS50yxIZMFHrC56ihFU8f73zAWKlmt/DIFEkkFJYKIh8sSle5AqccaoTmLpyr0xTn8pybZ2er9sfwxKVis2MBGJ7w4sXeMhriUUsK8rsieiA==;MAaLCWPqu51JycZBTOkX0g=="
 ---
 

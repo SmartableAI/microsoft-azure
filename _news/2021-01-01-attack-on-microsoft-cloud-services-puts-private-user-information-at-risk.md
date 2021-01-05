@@ -56,6 +56,20 @@ related:
         width: 1198
         height: 628
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
     excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
     publishedDateTime: 2020-12-29T16:15:00Z
@@ -70,6 +84,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
+    excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
+    publishedDateTime: 2021-01-05T15:04:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
 
 secured: "fAINn1lTE57PEzzfU847hyt2LTQsRxDMylRMKhs5Pb9u2z83321QIEZrLNM3hBUPwo08xp5SaP2r/DK1IYWoV30OIu60qh2z9hUETo+2AJUzzHku+92UQH7pWLCV7JCf3j4JziIaeVhy8kSOxnwArHhkx2znJSFmXKL3vK/PKDUs/aF6BlkvP3VOIfiy1LRmiRPM9MkyQ2LvUm8UPg44mud0J5rgTifIbQG3PlR1xgIZ4E7UbLE+bM4A7bIWhENTBj9RcAOwpOG0w3PLYrSVKn/94x1bzliaBQNS/+pt+gGuYzvXa1wijLpkmqFzB5PBj7qo4a5oWqfBnZheJs7hQ4wAp4irKpgWXxX2UawAu4vj3+2N/JEx0hCxRIEWsMeXKVHQbqpdA9gZwxAyENEv5zWxxZZsQ2YN0sK/9ynhYSKzUPwspEVBLiLtFn/+Qlnv5Ln0WZwOs+OoZ0A7Wj7yxj0/+qC3F5ZWlA6AxCE/sf5WUYpaxO4plQ5uszQxp/a4iCK1TX0cmdvZQ2DFTRVZJQ==;MPuyHVwAEKReqOeFAxporA=="
 ---
