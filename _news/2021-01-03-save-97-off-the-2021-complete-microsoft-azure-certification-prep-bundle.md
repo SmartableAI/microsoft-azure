@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-a
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
 type: article
 quality: 96
-heat: 216
+heat: 236
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
+    publishedDateTime: 2021-01-04T14:32:00Z
+    webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
   - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
     excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
     publishedDateTime: 2021-01-05T15:04:00Z

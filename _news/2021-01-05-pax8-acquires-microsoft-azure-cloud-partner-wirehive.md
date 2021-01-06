@@ -106,6 +106,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
+    publishedDateTime: 2021-01-04T14:32:00Z
+    webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
 
 secured: "cqUP2VhYaLmUqpN9R7h30yc2Bqn2Brp4/5yvso1tdiXQHclyplaQD2eo8xHj0vbRBNbDqIQpjEWC27SOJT+2YECUGBfcdTJz27tT4CehIEvRlsCn21BvVrfClXKoPIZNu7iFgWl8lcl6m8T9xNTeOs1O19egsqepYcK58v+HPGSFBSOm2AhY1Ov2VPWGSDJxbUtysFlNVJRBZC+WNV2eopmJEL/JrtVsOoDbTjYFW/WzUc5K8nJ1xDlRUx7zufCkZTVK9hnN9MDlOSRG/+Jz+MfXfMiKf8chelGcGvgw5bu7EbP2/gCWDD7AKE0sAkjvqkKQ7FcxhpgVnuzYLeWFvoQTUUWQ1qEhn7/kfIuU+jSd4VaSP4bTgXqXC/Sqp99Ha9weckxX9SbyHjlv8e1rm4qsAOluqCThRSPgoEHde0IS50yxIZMFHrC56ihFU8f73zAWKlmt/DIFEkkFJYKIh8sSle5AqccaoTmLpyr0xTn8pybZ2er9sfwxKVis2MBGJ7w4sXeMhriUUsK8rsieiA==;MAaLCWPqu51JycZBTOkX0g=="
 ---

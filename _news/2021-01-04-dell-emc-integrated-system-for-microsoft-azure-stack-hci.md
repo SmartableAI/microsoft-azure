@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-publishedDateTime: 2021-01-05T20:52:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
+excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
+publishedDateTime: 2021-01-04T14:32:00Z
+originalUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
+webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
 type: article
-quality: 32
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
-    isCached: true
 
 related:
   - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
@@ -84,6 +78,20 @@ related:
         width: 1198
         height: 628
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
     excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
     publishedDateTime: 2020-12-29T16:15:00Z
@@ -98,15 +106,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
-    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
-    publishedDateTime: 2021-01-04T14:32:00Z
-    webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
   - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
     excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
     publishedDateTime: 2021-01-05T15:04:00Z
@@ -117,6 +116,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "6EXt1pZr9FXpyTSjaMo4gjLRISqK35f+O4xr83tfiSSP5oU249WEx8VdLYq6tx4vHCH+Es/nGcTHRYypoh5wbfzJ1hy5gFs01VuFsfs8tvJLpJbVMxsGOoow1VQHaKQ5hDwGldSsWypOUOw9jcHaA7J4AF9DYsaRLkEN0sRKMt6YfyAkDbVD0jCGA8H+zMOqtybkptnMO6HMwllHSl7H2PqRxi+sdQBbfBMrgb+i8NHgZJ7QHfI5C1/peV3MspkzpvrKhpotw7VTa4RTQWU2xLY6qBZqj2ypq/sEGixIeDrLZWvmQdCyqWK9WUglYHDQ/lCFow0RPzBfjKACKrsVqCvvY+XkUOFnoIF6QP3Q7MU=;pfLRp1kT3F7+/IlOWp0rzg=="
+secured: "swrs4CHuMQT3+daEiaDkhkCUdt/XkNz1vu9uFhQlUpQAZCqEXmG51AniuMtplaZw7ygnOWFURdoFpU8KkBTq8ka5f3PKT2YNDTgBrzVoaJpgBBfqQ01vZFgiZmB5VrVUPRH334ouT2+AE7lnExdeorRvpRCgC0WvEDHyw7Q6qzHDMr88I3SuLB56CLm1JeEyqKWJGMe2OklmXV8csgEmPF6XaqWprCI5SrUv01DbpoOrAeGe+1F+gsoG9ul2qwj6MRZXHy/2yJzWmvcItaviARNrizVBPFBknNivS4J129//NMJnP8rmhQrG3niCxv2WBErcA/NFN51f3NmyC195ZCHfDrx9tg3Shnjaece7kv4=;9TYByOJmjYJBQaOYiQkuYA=="
 ---
 
