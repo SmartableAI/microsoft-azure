@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-support-o
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/"
 type: article
 quality: 81
-heat: 102
+heat: 101
 published: true
 
 provider:

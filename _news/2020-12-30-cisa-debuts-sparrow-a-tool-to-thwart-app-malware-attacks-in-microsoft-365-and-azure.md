@@ -56,6 +56,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2021-01-04T14:35:00Z
+    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
     publishedDateTime: 2021-01-04T14:00:00Z

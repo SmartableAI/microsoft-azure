@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/defining-roles-and-responsibiliti
 webUrl: "https://azure.microsoft.com/blog/defining-roles-and-responsibilities-for-cloud-cost-optimization/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

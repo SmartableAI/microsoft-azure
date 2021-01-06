@@ -1,35 +1,46 @@
 ---
 category: news
-title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
-excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
-publishedDateTime: 2021-01-03T15:46:00Z
-originalUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
-webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
-ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+publishedDateTime: 2021-01-04T14:35:00Z
+originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
-quality: 96
-heat: 216
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+    width: 300
+    height: 300
     isCached: true
 
 related:
+  - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
+    excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
+    publishedDateTime: 2021-01-03T15:46:00Z
+    webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
+    ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 96
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z
@@ -45,20 +56,6 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/12/Microsoft-Cloud.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2021-01-04T14:35:00Z
-    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
@@ -112,6 +109,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "qPwkiGEXBMw94lr3Tdi5vdhrUubk2gP78FXshJWt9JyHnGdRg7QKFhaRoj8EhI//fuW9Ii1T9eZFYlJS3eqlQPMG5oqNgZenPQgcRpUL6Me92krljzfoKNjLGjK9PqNSg2JWiWfzZmOrwbBHh5zIW22uR/0Ok/NhRrL4RTyYduLM6grmSdU5/Sfh7fB9/0aDWB5XB8YSPmqW9W3IP830exTH3TfKEqE/rC262njHqznJ/qz18+d+edb2ozTylOWvf6R6PJ18dU+jHhKACRcMPm+kiZPBAEmsVYxeGYK1NrYUVVv9qVN0I4K5e83sjcn0Af1dONQkPuVJGyq4CFZolHdKLZ5IIuH9Kn+7JoI77aM=;ClBnCWuHKMhg1Z9V1hlK0g=="
+secured: "gyjpoyvVsd9XO790d4jcwoMyA4NQSz/csjwmB8klhrEvs75VYnjkP8328x2GftFQu1IqHTHM7xLQQrPADw1Vx0nSA+Htolz9zvmgC8cM83Em7XCwEK+wy3MeR1wR5pUZuzo7ReAiGnvWtZvbncXr71xpi1nMEhA0m9wruHxRUtOAbbpQBSwa3VKnUt5sBXWUzDC6dcyu18OKGrZr5DXKNMWEF5yuF6f1vUZrXluhurEu5Tyb69pDdxEW1dEgeDp5kPqfJA284tLt+n3cfaxMH2tk0By/6wMjNptLYGhJ+Xfx7Jf8HHECYGEmZwK9mQ9bfHOQ5w/xfBdaRUOhwla6mzx4D1ngdwjE2kmbwyCMI+w=;Cu12HPfVbsGwDCucfolAqA=="
 ---
 
