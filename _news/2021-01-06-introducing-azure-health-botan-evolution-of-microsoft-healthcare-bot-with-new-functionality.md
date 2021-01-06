@@ -45,6 +45,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+    publishedDateTime: 2021-01-06T18:37:00Z
+    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 53
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z
@@ -135,6 +151,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "The move enhances access for both Blue Prism and Microsoft customers, and underwrites Blue Prism’s position as the intelligent automation and robotic process automation (RPA) leader in the cloud. Blue Prism customers already have access to a scalable ..."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 12
 
 secured: "LEmfw/7uX8QdRk9kb0/ryx5KYUtThV9CwtxVKU0qJYv3KOhoWMEVQneqkAtmXzoDNuYPl/XHp8CBpx5+oG8wDxjQsrEV9TXnUBr7M7+1q1jbLftvdLESZbG1o4f2jVBtK6Iy5xE9LIg7UNWTwv/j3dV/8o5EEMfLAZEaGJ57t3xxmZn2ntyrPz5VeYMUQGdMmXdW30Uufip8anYKRR/dSxOgZx0SvRQG9FoTCNJHgFMWyUT+7ziKvvmLjn6q6e3ZsPOdkYwD9RpPU9juVWMTU6e7Bh3BGWU6pyH7SL/Kg/sN/hILIFa4JzFyAD5TiKti18eq8bjDKhXCfrvSHh5TfTq3gvgm4u1onuOP89Mdtyw=;5z7EHSX+go9Kv6fji/RnIA=="
 ---

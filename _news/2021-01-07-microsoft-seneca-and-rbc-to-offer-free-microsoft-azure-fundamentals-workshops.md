@@ -1,27 +1,28 @@
 ---
 category: news
-title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-publishedDateTime: 2021-01-04T14:35:00Z
-originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+publishedDateTime: 2021-01-06T18:37:00Z
+originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
 type: article
-quality: 37
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
+    width: 620
+    height: 250
     isCached: true
 
 related:
@@ -55,22 +56,6 @@ related:
         width: 1024
         height: 437
         isCached: true
-  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
-    publishedDateTime: 2021-01-06T18:37:00Z
-    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 53
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z
@@ -86,6 +71,20 @@ related:
       - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/12/Microsoft-Cloud.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2021-01-04T14:35:00Z
+    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
@@ -157,6 +156,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "gyjpoyvVsd9XO790d4jcwoMyA4NQSz/csjwmB8klhrEvs75VYnjkP8328x2GftFQu1IqHTHM7xLQQrPADw1Vx0nSA+Htolz9zvmgC8cM83Em7XCwEK+wy3MeR1wR5pUZuzo7ReAiGnvWtZvbncXr71xpi1nMEhA0m9wruHxRUtOAbbpQBSwa3VKnUt5sBXWUzDC6dcyu18OKGrZr5DXKNMWEF5yuF6f1vUZrXluhurEu5Tyb69pDdxEW1dEgeDp5kPqfJA284tLt+n3cfaxMH2tk0By/6wMjNptLYGhJ+Xfx7Jf8HHECYGEmZwK9mQ9bfHOQ5w/xfBdaRUOhwla6mzx4D1ngdwjE2kmbwyCMI+w=;Cu12HPfVbsGwDCucfolAqA=="
+secured: "0O3GjI8ojeYLfhUBm0wh6ZgOUdLfTEwf1xGPjQt0EMup173EQJXkcfTpUgwBvrVQWjC+ZZDqj4hslmyDICLqXGm7Ci2dlI+TgCQJoRYOD7DmJ+yA+wCug4F7/TdVcI4KcUoRNi7EbtnJhw9L5rjMFmh9ii0T61gY+y/qJweskpcNzNiOmlvZnzT0YCZjOih9hQZRTvvFthWdb2/RXkx4we9SoJQ9oyf6RVmwisUwMnzw+ELLTsANzHKDo9c7zOnZT3ologFjCvMxJDhR5OyHJkqu8sBZ6v9Ey0LGDz6aWw2r63ojsfBBfJptdM/ae1qNr/xYc5vE5+KAj2hUFX+qwAiZ129BJBiNLJNueViXuAE=;zYXO9BQ2uPBWuipEY6vL2A=="
 ---
 

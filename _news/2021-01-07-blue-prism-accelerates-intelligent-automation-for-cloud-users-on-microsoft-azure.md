@@ -1,28 +1,21 @@
 ---
 category: news
-title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-publishedDateTime: 2021-01-04T14:35:00Z
-originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+excerpt: "The move enhances access for both Blue Prism and Microsoft customers, and underwrites Blue Prism’s position as the intelligent automation and robotic process automation (RPA) leader in the cloud. Blue Prism customers already have access to a scalable ..."
+publishedDateTime: 2021-01-06T19:14:00Z
+originalUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
 type: article
-quality: 37
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: CNBC Africa
+  domain: cnbcafrica.com
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-    width: 300
-    height: 300
-    isCached: true
 
 related:
   - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
@@ -87,6 +80,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2021-01-04T14:35:00Z
+    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
     publishedDateTime: 2021-01-04T14:00:00Z
@@ -147,16 +154,7 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "The move enhances access for both Blue Prism and Microsoft customers, and underwrites Blue Prism’s position as the intelligent automation and robotic process automation (RPA) leader in the cloud. Blue Prism customers already have access to a scalable ..."
-    publishedDateTime: 2021-01-06T19:14:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 12
 
-secured: "gyjpoyvVsd9XO790d4jcwoMyA4NQSz/csjwmB8klhrEvs75VYnjkP8328x2GftFQu1IqHTHM7xLQQrPADw1Vx0nSA+Htolz9zvmgC8cM83Em7XCwEK+wy3MeR1wR5pUZuzo7ReAiGnvWtZvbncXr71xpi1nMEhA0m9wruHxRUtOAbbpQBSwa3VKnUt5sBXWUzDC6dcyu18OKGrZr5DXKNMWEF5yuF6f1vUZrXluhurEu5Tyb69pDdxEW1dEgeDp5kPqfJA284tLt+n3cfaxMH2tk0By/6wMjNptLYGhJ+Xfx7Jf8HHECYGEmZwK9mQ9bfHOQ5w/xfBdaRUOhwla6mzx4D1ngdwjE2kmbwyCMI+w=;Cu12HPfVbsGwDCucfolAqA=="
+secured: "3ruEjGodyhqsw1U7f9RE0qkfLzFW6iA6SpPWsr4LS9+PgbV2sU4WcDIIlWY8fCCtHRZyKr9jPr9oLdwnSQX6rZvZ1qlTLHPfFppH/p+XLxVMHBozUAlugO3b1PHILOjCHVWp1E8zNxnHV9B4ePqyLf6bIW6FMLWk+sEEoakQxOmH7hmAVRFBglqqLi4XSIXSsZJ0Qet6IM5VCV+3FbBWwYIBJDOgNSE4rwHtMQYqA6sip4VPTDCJ/bQI5etQmOQ8VwnBQSMK2DTQVvOlUnnHirGLuOAnM14lWcMfvbVnXrHLmLtW4xV0GL6mzd3iZGaa2CnF1/LKYTcLgx4sweOabZ6mwCG3zbt0ulAAVay94Cw=;10g7KuXcMKcoTQ2qzqvclQ=="
 ---
 
