@@ -7,7 +7,7 @@ originalUrl: "https://www.imdb.com/news/ni63147427/"
 webUrl: "https://www.imdb.com/news/ni63147427/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-    publishedDateTime: 2021-01-05T05:34:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+  - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
+    excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
+    publishedDateTime: 2021-01-06T08:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 37
+    quality: 78
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-        width: 768
-        height: 401
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg"
+        width: 1024
+        height: 437
         isCached: true
 
 secured: "AR0ox8M6PvqBGo1cZSBU3HRZ/x2Yr30IiMuRPR9oRlQ4qAzgWMP79vO+ZabkfHxpOnUd8Mo0++bxc1R809qQlalIC2g4mRpohhoUTP0sfjSkOo2uGVVc/+P+j3oTLVvw89X55V2YkQu1LJw616oB8TmoUCXRSReEicGURibC77Yj2IVdggzmP69imB7MVxfQjqds6HTgZIX5R9msVBJweJ9JK/Co3EY97jUKOp+MleOSZICrdTSsiMYGA/YdJNDHLn0OAXCyB3XsuwOGzJakyCbgcCVtfjzfGXZEPYDui1eolQ4+60B2/hhFcRxXKpud8AavY5JWv6be6WCtzpqBxCL3LruHwXsRNKmIVQaYzHGfcb4UV/oQxncafk6D7M8e7+SwjyxBu33TvjlQNaqLbzs98jhu/eoghSWA+SDMZAjc28XlkI5foNzXZsAPfEISHbwjbc9JSv+uB67jIxTIUFM5/bG6Vsyhm9JCh8fdZvHdKJxhOcl7CXXKy1VhZlL84+l7pkzqEm2D8WNSxB+Gcw==;YQ2m9/0glzZNuvBMnLCX9w=="

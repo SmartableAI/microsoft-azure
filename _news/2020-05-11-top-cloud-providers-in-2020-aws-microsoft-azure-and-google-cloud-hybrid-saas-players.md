@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/"
 type: article
 quality: 88
-heat: 648
+heat: 668
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
     quality: 37
     images:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2021-01-04T14:35:00Z
+    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true

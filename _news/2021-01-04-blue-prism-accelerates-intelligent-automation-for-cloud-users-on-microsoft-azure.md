@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft will soon offer 99.99% uptime for Azure Active Directory"
+    excerpt: "Microsoft plans to update its service level agreement (SLA) for Azure AD user authentication to 99.99%. Hitting this four-nine uptime will be an improvement over the current 99.9% SLA. A multi-tenant identity management service,"
+    publishedDateTime: 2021-01-06T21:28:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 114
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1581677441/itpro/Azure.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
     excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
     publishedDateTime: 2021-01-03T15:46:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality"
-    excerpt: "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement."
-    publishedDateTime: 2021-01-06T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 78
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg"
-        width: 1024
-        height: 437
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
@@ -86,19 +88,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
-    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2021-01-04T14:35:00Z
-    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+  - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
+    excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
+    publishedDateTime: 2021-01-04T21:43:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: Microsoft
+      domain: microsoft.com
+    quality: 35
     images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
+        width: 1388
+        height: 927
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -113,20 +115,6 @@ related:
       - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
         width: 772
         height: 594
-        isCached: true
-  - title: "CISA Debuts Sparrow, A Tool to Thwart App Malware Attacks in Microsoft 365 and Azure"
-    excerpt: "Customers of Microsoft 365 and Azure can use the Sparrow tool developed by CISA to detect applications that could be malicious."
-    publishedDateTime: 2020-12-29T16:15:00Z
-    webUrl: "https://winbuzzer.com/2020/12/29/cisa-debuts-sparrow-a-tool-to-thwart-app-malware-attacks-in-microsoft-365-and-azure-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 30
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/12/Security-Threat-Microsoft.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."

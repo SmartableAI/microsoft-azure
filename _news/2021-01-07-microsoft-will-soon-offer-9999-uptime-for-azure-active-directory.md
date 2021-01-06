@@ -1,50 +1,51 @@
 ---
 category: news
-title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
-excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
-publishedDateTime: 2021-01-03T15:46:00Z
-originalUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
-webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
-ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+title: "Microsoft will soon offer 99.99% uptime for Azure Active Directory"
+excerpt: "Microsoft plans to update its service level agreement (SLA) for Azure AD user authentication to 99.99%. Hitting this four-nine uptime will be an improvement over the current 99.9% SLA. A multi-tenant identity management service,"
+publishedDateTime: 2021-01-06T21:28:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
 type: article
-quality: 96
-heat: -1
-published: false
+quality: 114
+heat: 294
+published: true
 
 provider:
-  name: Neowin
-  domain: neowin.net
+  name: IT Pro
+  domain: itpro.co.uk
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://media.itpro.co.uk/image/upload/v1581677441/itpro/Azure.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
-  - title: "Microsoft will soon offer 99.99% uptime for Azure Active Directory"
-    excerpt: "Microsoft plans to update its service level agreement (SLA) for Azure AD user authentication to 99.99%. Hitting this four-nine uptime will be an improvement over the current 99.9% SLA. A multi-tenant identity management service,"
-    publishedDateTime: 2021-01-06T21:28:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
+  - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
+    excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
+    publishedDateTime: 2021-01-03T15:46:00Z
+    webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
+    ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 114
+      name: Neowin
+      domain: neowin.net
+    quality: 96
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1581677441/itpro/Azure.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
@@ -148,6 +149,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "qPwkiGEXBMw94lr3Tdi5vdhrUubk2gP78FXshJWt9JyHnGdRg7QKFhaRoj8EhI//fuW9Ii1T9eZFYlJS3eqlQPMG5oqNgZenPQgcRpUL6Me92krljzfoKNjLGjK9PqNSg2JWiWfzZmOrwbBHh5zIW22uR/0Ok/NhRrL4RTyYduLM6grmSdU5/Sfh7fB9/0aDWB5XB8YSPmqW9W3IP830exTH3TfKEqE/rC262njHqznJ/qz18+d+edb2ozTylOWvf6R6PJ18dU+jHhKACRcMPm+kiZPBAEmsVYxeGYK1NrYUVVv9qVN0I4K5e83sjcn0Af1dONQkPuVJGyq4CFZolHdKLZ5IIuH9Kn+7JoI77aM=;ClBnCWuHKMhg1Z9V1hlK0g=="
+secured: "3YMrZMCMM0g5c0dxie+LQSJBw0J40Afz2M58flILlUJOzh9eqzBJXkCUkKVqiNfxVhf4yXSYCH51lBmKdrNCjpl/mdyK//asmrKu/Hra0pWEJGbhyNOxz36/onEFLVSf9ZfnVIoTvTyZOaKrhieGM162uX6JVzcuDf0nBPFKWvJn3tdjQef3jY7+nquTTn9ZWjfVxiLvT7TSr4ahEDb9+hZUZcmhcL91DXWkKgD0qfGXudU74aYUkSXba1vJU/RTGUA9zVghCZRJ35JJ8yibX7209nCZa0hlB8t7eIRqbon8hpGmLOmrtI/8QEmlGbJwYzTYDRSxJcgmnnke4/kSifwLvC6NBC+EhECgkhQTvOo=;i1XMuQH3MO2uf7TTzGJQiA=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-07-public-preview-azure-data-explorer-dashboards-october-update.md",
+      "title": "Public preview: Azure Data Explorer dashboards October update",
+      "excerpt": "Azure Data Explorer dashboards keeps evolving constantly. In this update we cover cascading filters, clickable URLs in tables, multi-stat cards, and text font size control in stat cards.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dashboards-october-update/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-data-explorer-dashboards-october-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/fa1a14ec-cf18-4f8a-9f80-57cf5a2c4415.png",
+          "width": 287,
+          "height": 306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T14:19:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-microsoft-just-stress-tested-its-most-powerful-azure-node-in-a-pretty-fun-way.md",
       "title": "Microsoft just stress-tested its most powerful Azure node in a pretty fun way",
       "excerpt": "Microsoft has been stress-testing its most powerful Azure node using a rather unusual method – by playing Tetris on it. Microsoft Azure’s CTO Mark Russinovich revealed the fun test via Twitter, alongside a short GIF.",
@@ -1118,58 +1169,6 @@
         "Azure",
         "Serverless",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-support-for-oracle-weblogic-server-on-azure-kubernetes-service-is-now-available.md",
-      "title": "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available",
-      "excerpt": "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png",
-          "width": 798,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T09:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],

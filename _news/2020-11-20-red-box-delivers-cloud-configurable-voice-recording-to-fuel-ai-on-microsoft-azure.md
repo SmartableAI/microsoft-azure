@@ -448,20 +448,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
-    excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
-    publishedDateTime: 2021-01-04T21:43:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 35
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
-        width: 1388
-        height: 927
-        isCached: true
   - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
     excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
     publishedDateTime: 2020-09-07T11:19:00Z
