@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Microsoft to establish new datacenter region in Denmark"
+title: "Microsoft to establish new datacenter region in Chile"
 excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-publishedDateTime: 2020-12-07T18:05:27Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+publishedDateTime: 2021-01-06T00:42:10Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-chile/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-chile/"
 type: article
 quality: 52
 heat: -1
@@ -40,16 +40,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft to establish new datacenter region in Chile"
+  - title: "Microsoft to establish new datacenter region in Denmark"
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2021-01-06T00:42:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-chile/"
+    publishedDateTime: 2020-12-07T18:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
 
-secured: "cBe3BhTnE8snvX9+mhu3G51hENvDj5rhvmMyHZZj3IL1rY5fK1hTP61rIFLzKMiIPYfUOayv8bBInccUFwzHgCWp8d8at0Vvq84+3YF/QsbhXZPqjnS2nx8EZC9vstzaUpObu07wBWK695u5aFa1XfeGGj7nBWXcYomofrLcNQJnoMwPOY4EOfg+sIqw5BP6k/NszEH2WiTnEGC4rqndoDX1mnThbFEjYhxuk0mCDLZ5ltHS07RVQ3max0EtekRZszi3JE8gb1wI9EBfhSsDQsCiTs5zNM3BGqoAnWfQQcih6CtwxgyUzscGLH/oxeIyB9DspCo23wlkgto0v+3TUnu/F+iPhgL5uSNUijDg5Aw=;E7TMcik5fnY/Y9FHSD+ZVw=="
+secured: "ERAPd2HprqjrRptxqmpiQ9xBsFZ7sYvxVoPaGW/Fx8+8Jv1jmadNSH0/g4ATBdy68i3heCgfxSxzzDH3PC3HQXjbek7TTIcyBVHJ3QbNKMHyM0z9PBwxkXvklaX0UbN0VxtQB+8tC/4/1iWsYLVNgujgojpAl43xQVi9/QOMUfiSkLZssrZr072AX+U/kipV8wS+PfmtzcYpQk9z/KOXfRbCbnb8hjEwWxdImVbSaVeoYj7fhryGXd1vT65Hvv5Qk8SmVqkC/Vxt4sM71us4XqKnhgTODFZ/GSQYGhkK2SaJNkOb3hgavTHP+tJMYZex3h1i5Tr3dO7k3wEZ5E+4QAi2iD9+ovfOmsuvcF1AQqo=;KIWsz05KdxxhvdTAyNVZmg=="
 ---
 

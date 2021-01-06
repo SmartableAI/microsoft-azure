@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-estab
 webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/"
 type: article
 quality: 52
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
     publishedDateTime: 2020-12-07T18:05:27Z
     webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Microsoft to establish new datacenter region in Chile"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2021-01-06T00:42:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-chile/"
     type: article
     provider:
       name: Microsoft
