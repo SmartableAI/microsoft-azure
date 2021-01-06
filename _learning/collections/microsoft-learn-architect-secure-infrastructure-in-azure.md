@@ -4,7 +4,7 @@ excerpt: "Learn about the tools and services available on Azure to ensure your r
 type: collection
 price: Free
 length: PT6H37M
-heat: 63
+heat: 61
 
 provider:
   name: Microsoft Learn

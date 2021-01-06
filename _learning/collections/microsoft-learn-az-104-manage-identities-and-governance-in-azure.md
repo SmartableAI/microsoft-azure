@@ -4,7 +4,7 @@ excerpt: "Learn how to manage identities and governance in Azure and prepare for
 type: collection
 price: Free
 length: PT7H17M
-heat: 72
+heat: 69
 
 provider:
   name: Microsoft Learn
