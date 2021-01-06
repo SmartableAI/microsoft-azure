@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 439
+heat: 459
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
     excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
     publishedDateTime: 2020-12-14T20:34:35Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Health Bot is now generally available"
+    excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
+    publishedDateTime: 2021-01-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
     type: article
     provider:
       name: Microsoft

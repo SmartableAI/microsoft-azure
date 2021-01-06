@@ -127,6 +127,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Health Bot is now generally available"
+    excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
+    publishedDateTime: 2021-01-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Durable Functions v2.3 is now available "
     excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
     publishedDateTime: 2020-09-02T16:00:04Z

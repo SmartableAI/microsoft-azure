@@ -125,6 +125,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Health Bot is now generally available"
+    excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
+    publishedDateTime: 2021-01-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z

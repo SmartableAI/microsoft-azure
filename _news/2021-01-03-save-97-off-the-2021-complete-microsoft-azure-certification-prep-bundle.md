@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-a
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
 type: article
 quality: 96
-heat: 256
+heat: 257
 published: true
 
 provider:

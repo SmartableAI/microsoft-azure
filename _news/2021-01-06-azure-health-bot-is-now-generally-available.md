@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Storage account recovery available via portal is now generally available"
-excerpt: "Recover you deleted storage account directly from the portal."
-publishedDateTime: 2020-12-11T01:06:28Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
+title: "Azure Health Bot is now generally available"
+excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
+publishedDateTime: 2021-01-06T17:00:16Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
 type: article
-quality: 80
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -82,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Azure Storage account recovery available via portal is now generally available"
+    excerpt: "Recover you deleted storage account directly from the portal."
+    publishedDateTime: 2020-12-11T01:06:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-account-recovery-available-via-portal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Azure Spring Cloud is now generally available"
     excerpt: "Azure Spring Cloud is a fully managed service for Spring Boot apps that lets you focus on building the apps that run your business without the hassle of managing infrastructure"
     publishedDateTime: 2020-09-02T16:00:04Z
@@ -113,15 +121,6 @@ related:
     excerpt: "Azure Digital Twins is generally available and read for production deployments. Features include: Flexible modelling and general graph topology, richer compute, bring your own IoT Hub for easier integration, and improved scalability. \n"
     publishedDateTime: 2020-12-14T20:34:35Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-digital-twins-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Health Bot is now generally available"
-    excerpt: "Moving Microsoft Healthcare Bot to Azure and empowering organizations to deliver even better care for patients."
-    publishedDateTime: 2021-01-06T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-health-bot/"
     type: article
     provider:
       name: Microsoft
@@ -191,6 +190,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "s++fFprAZCr/ctxR+QENEDUHpam7z4rFNY3+b0j3rJaF5wMtMtuIUqVVHZgsg1xeJ73GrYaCW12Vcj95L62EFTL3Ml4/YH136gQSUu5lGXx3zd5h8dsLy5gibcgkpwbmabiMBJAw7XqPD7TjEKX3qAMpkMUm1S/UT9zYAXw3VCQ4EYo0Uj56SvQl31cIhcI4egd6K5hu1WVXTu5vG1l9IeKZkqbeUo9Or/5upv2uq5UrAL5etby+5terclEVLittIa71CnuV2LQie08DXWjNDda1c+6s4NSp6jxHYZkS+ttcWeGHG1Ac9VQknmSDfMLXsQAQbA8kXk/9hAZRaaWhuX3codufvMCdUz77f61QlVc=;nZKiiLn24WiYlnRiqZAp3w=="
+secured: "sW9BU9I/ZZEZWgWMQyi3zBFq1dDyW/CXrvDyE0SXGnv8sNFRiPX2US7v9gyC31+kSTrn6G9Trd272UBCZQrwFZkb2elHmLL2jQxzPEHknZoDnJO8wotY+wSbWGwBNZAKF/ZcjJucOxjKxsUvNJk8gj5eAudiSir/n60Bwh/pUbyhm3GUGfmpOGTQJeelYNhXSITe2VY7BDBcbRShTmM8Qt/DOG52fIV4IDY2fdOCAI3wr6Dw7+V91g0szGT+VZhJ7vGxeMkjJPixd6r1XfE/gNHQnNrVlE4UMpTayAphMDTlNWnKCdt9kDQ4xxmKHqFVy+jL8oYbEQ5Mzu82iiMP1Wj5/wqcBzQ6sptlZdLqVfU=;yySBJvarx6Hqmaz1NkSRsQ=="
 ---
 
