@@ -35,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2974,
-            "average": 4.7289844
+            "count": 2975,
+            "average": 4.7290754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 8634,
-            "average": 4.6927266
+            "count": 8635,
+            "average": 4.692762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -245,8 +245,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 4018,
-            "average": 4.5572424
+            "count": 4019,
+            "average": 4.5571036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -367,8 +367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6992,
-            "average": 4.6513157
+            "count": 6993,
+            "average": 4.6513658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -672,8 +672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 1985,
-            "average": 4.8473554
+            "count": 1986,
+            "average": 4.847432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -714,8 +714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 1551,
-            "average": 4.827208
+            "count": 1553,
+            "average": 4.8274307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -756,8 +756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
           "length": "PT24M",
           "ratings": {
-            "count": 1211,
-            "average": 4.8199835
+            "count": 1212,
+            "average": 4.820132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -881,8 +881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 4018,
-            "average": 4.5572424
+            "count": 4019,
+            "average": 4.5571036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1003,8 +1003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6992,
-            "average": 4.6513157
+            "count": 6993,
+            "average": 4.6513658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1128,8 +1128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 4018,
-            "average": 4.5572424
+            "count": 4019,
+            "average": 4.5571036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1164,8 +1164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 6992,
-            "average": 4.6513157
+            "count": 6993,
+            "average": 4.6513658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1297,8 +1297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 2974,
-            "average": 4.7289844
+            "count": 2975,
+            "average": 4.7290754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1469,6 +1469,197 @@
         "Identity",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
+          "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
+          "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-04T10:44:01-08:00",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday.md",
+          "title": "Migrate and modernize your .NET applications on Azure | Azure Friday",
+          "excerpt": "Azure App Service hosts over 2M web apps with a fully managed app hosting platform for .NET, Node, Python, and Java web apps. In this episode, Gaurav Seth shows Scott Hanselman what's new in Azure App Service. Gaurav demos the new Premium V3 Plan with newer and faster hardware and lower pricing, ability",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=qhrEPvZgFMQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhrEPvZgFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M48S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T15:33:19-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday.md",
+          "title": "Code to Cloud with VS Code and Docker | Azure Friday",
+          "excerpt": "After a quick demo of working with Docker images in Visual Studio, Paul Yuknewicz shows Scott Hanselman how the Docker for Visual Studio Code extension makes it easy for you to build, debug, and diagnose containerized apps. Paul will also show how the extension helps you deploy a container to Azure Container",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=zx-rXxvbdyM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zx-rXxvbdyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT25M36S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T15:32:46-08:00",
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zx-rXxvbdyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
+          "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
+          "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T09:48:59-08:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Serverless",
+            "Integration"
+          ]
+        }
+      ],
+      "size": 272,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1875,8 +2066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3150,
-            "average": 4.713016
+            "count": 3154,
+            "average": 4.713063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2046,211 +2237,6 @@
         "Azure",
         "Databases",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
-      "title": "Migrate application workloads and data to Azure",
-      "excerpt": "Migrate application workloads and data to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/",
-      "length": "PT3H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-          "title": "Design your migration to Azure",
-          "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 2599,
-            "average": 4.662947
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
-          "title": "Prepare on-premises workloads for migration to Azure",
-          "excerpt": "Prepare on-premises workloads for migration to Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 177,
-            "average": 4.6553674
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
-          "title": "Migrate on-premises workloads to Azure",
-          "excerpt": "Migrate on-premises workloads to Azure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 152,
-            "average": 4.605263
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 1117,
-            "average": 4.4252462
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -2452,197 +2438,6 @@
         "Azure",
         "Databases",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
-          "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
-          "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-04T10:44:01-08:00",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday.md",
-          "title": "Migrate and modernize your .NET applications on Azure | Azure Friday",
-          "excerpt": "Azure App Service hosts over 2M web apps with a fully managed app hosting platform for .NET, Node, Python, and Java web apps. In this episode, Gaurav Seth shows Scott Hanselman what's new in Azure App Service. Gaurav demos the new Premium V3 Plan with newer and faster hardware and lower pricing, ability",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=qhrEPvZgFMQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhrEPvZgFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT19M48S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-01T15:33:19-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday.md",
-          "title": "Code to Cloud with VS Code and Docker | Azure Friday",
-          "excerpt": "After a quick demo of working with Docker images in Visual Studio, Paul Yuknewicz shows Scott Hanselman how the Docker for Visual Studio Code extension makes it easy for you to build, debug, and diagnose containerized apps. Paul will also show how the extension helps you deploy a container to Azure Container",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=zx-rXxvbdyM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zx-rXxvbdyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT25M36S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-01T15:32:46-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/zx-rXxvbdyM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
-          "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
-          "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT14M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-01T09:48:59-08:00",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Serverless",
-            "Integration"
-          ]
-        }
-      ],
-      "size": 272,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -3070,8 +2865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9060,
-            "average": 4.6969094
+            "count": 9061,
+            "average": 4.696943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3601,8 +3396,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1817,
-            "average": 4.647771
+            "count": 1818,
+            "average": 4.6474147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5333,6 +5128,200 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
+      "title": "Azure Portal “How To” Series",
+      "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-portal-how-to-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-portal-how-to-series/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series.md",
+          "title": "How to get a visualization view of your resources | Azure Portal Series",
+          "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/",
+          "originalUrl": "https://youtube.com/watch?v=pHFgmuF0gSg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pHFgmuF0gSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M37S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-11T09:04:56-08:00",
+          "heat": 61,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/pHFgmuF0gSg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series.md",
+          "title": "How to manage applications in Azure Kubernetes Service | Azure Portal Series",
+          "excerpt": "In this episode of the Azure Portal “How To” Series, learn how to use the new Kubernetes resources view experience for #Azure Kubernetes Service to quickly deploy and debug your Kubernetes applications.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter:",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series/",
+          "originalUrl": "https://youtube.com/watch?v=YfARHb52Bp4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YfARHb52Bp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M20S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-04T09:00:11-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/YfARHb52Bp4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-get-started-in-azure-using-the-azure-quickstart-center-azure-portal-series.md",
+          "title": "How to get started in Azure using the Azure Quickstart Center | Azure Portal Series",
+          "excerpt": "In this episode of the Azure Portal “How To” Series, you will learn how to get started with your first project in #Azure using the Azure Quickstart Center.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal  And make sure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-in-azure-using-the-azure-quickstart-center-azure-portal-series/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-in-azure-using-the-azure-quickstart-center-azure-portal-series/",
+          "originalUrl": "https://youtube.com/watch?v=mb5k9nXMtBM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mb5k9nXMtBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M48S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-30T09:00:13-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/mb5k9nXMtBM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series.md",
+          "title": "How to build Azure Workbooks using logs and parameters | Azure Portal Series",
+          "excerpt": "Discover how to use Azure Workbooks as a visualization tool for #AzureMonitor. Build an interactive, repeatable narrative to monitor your #Azure environment from apps to infrastructure beyond the insights. In an earlier video: https://youtu.be/Z5xRyy3HB8U, we covered how to build workbooks using Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series/",
+          "originalUrl": "https://youtube.com/watch?v=EC7n1Oo6D-o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EC7n1Oo6D-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M39S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-12T11:39:01-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/EC7n1Oo6D-o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management tools"
+          ]
+        }
+      ],
+      "size": 47,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pHFgmuF0gSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
       "title": "Administer containers in Azure",
       "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
@@ -5835,8 +5824,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3412,
-            "average": 4.5902696
+            "count": 3413,
+            "average": 4.5900965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5954,8 +5943,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2599,
-            "average": 4.662947
+            "count": 2601,
+            "average": 4.662822
           },
           "provider": {
             "name": "Microsoft Learn",

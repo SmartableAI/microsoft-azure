@@ -4,91 +4,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
-      "title": "Survey the Components of Azure Synapse Analytics",
-      "excerpt": "Survey the Components of Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 17,
-        "average": 4.470588
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/survey-the-components-of-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-sustainable-software-engineering-overview.md",
-      "title": "The Principles of Sustainable Software Engineering",
-      "excerpt": "Sustainable Software Engineering is an emerging discipline at the intersection of climate science, software, hardware, electricity markets, and data center design. The Principles of Sustainable Software Engineering are a core set of competencies needed to define, build, and run sustainable software applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-sustainable-software-engineering-overview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 34,
-        "average": 4.7941175
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
       "title": "Synthesize Text Input to Speech",
       "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
@@ -327,6 +242,50 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
+      "title": "Prioritize your issues and apply security controls",
+      "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
+      "length": "PT14M",
+      "ratings": {
+        "count": 233,
+        "average": 4.686695
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1081,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 217,
-        "average": 4.737327
+        "count": 218,
+        "average": 4.738532
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1238,48 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads.md",
+      "title": "Using IAAS support with Azure for SAP workloads",
+      "excerpt": "There are a variety of commonly used SAP-certified operating systems supported by SAP running on Azure VMs, and there are also several different methods of provisioning storage for SAP workloads in Azure. In this module, you will learn the SAP recommended support products and VM types as well as the network, database, and monitoring requirements.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 320,
+        "average": 4.753125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
