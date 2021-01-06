@@ -4,18 +4,16 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-microservices-resiliency-aspnet-core.md",
-      "title": "Implement resiliency in a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through implementing resiliency in an ASP.NET Core microservices app in Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-resiliency-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-resiliency-aspnet-core/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 24,
-        "average": 4.7083335
-      },
+      "path": "_learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks.md",
+      "title": "5 Things you didn't know about Azure Kubernetes Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn about 5 things you didn't know about Azure Kubernetes Service.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=Hb6VExxq-lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hb6VExxq-lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M28S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -26,20 +24,18 @@
           }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
+      "publishedDateTime": "2020-11-10T08:06:18-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-resiliency-aspnet-core-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/Hb6VExxq-lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
@@ -121,46 +117,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday.md",
-      "title": "Azure Container Registry Tasks: Build and deploy to Azure App Service | Azure Friday",
-      "excerpt": "Steve Lasker joins Scott Hanselman to talk about Azure Container Registry (ACR) Tasks and how you can build your container images in Azure for the three phases of development: pre-commit, team commits, and post-development for OS & Framework Patching. [01:03] Demo Start   For more information:  Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2x66-65usew",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2x66-65usew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M46S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:57:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2x66-65usew/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Containers"
       ]
     },
@@ -518,6 +474,46 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks.md",
+      "title": "How to deploy your web app in Windows Containers on Azure App Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to deploy your web app in Windows Containers on Azure App Service. Windows Containers that run in an App Service web app provide you with the benefits of Azure like scaling and deployment slots, while still giving you a lot of control over your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=d5omcL6z9dI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d5omcL6z9dI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-19T08:07:29-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d5omcL6z9dI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-expedite-container-startup-with-project-teleport-and-azure-container-registry-azure-friday.md",
       "title": "How to expedite container startup with Project Teleport and Azure Container Registry | Azure Friday",
       "excerpt": "Container startup time is the price of admission, but startup time is also an inhibitor for many serverless scenarios. Steve Lasker joins Lara Rubbelke to show how Project Teleport eliminates the download and decompression of layers by directly mounting expanded layers, potentially unlocking many new",
@@ -543,6 +539,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZJYaYSmTINw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks.md",
+      "title": "How to push a container image to a Docker Repo | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to push a container image to a Docker Repo. Once you've signed up for a Docker account, you can easily come to the Docker Hub and push your containers to your registry.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-push-a-container-image-to-a-docker-repo-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=r_tGl4zF1ZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r_tGl4zF1ZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M39S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-16T14:18:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r_tGl4zF1ZQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -631,6 +666,46 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks.md",
+      "title": "How to use Azure Functions on Kubernetes with KEDA: Part 1 of 2 | Azure Tips and Tricks",
+      "excerpt": "In this video, you'll learn how to use Azure Functions on Kubernetes with KEDA.  For more tips and tricks, visit: https://aka.ms/azuretipsandtricks Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free Azure Documentation",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-functions-on-kubernetes-with-keda-part-1-of-2-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=wSv67WeNqdQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wSv67WeNqdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M1S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T08:03:51-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wSv67WeNqdQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
         "Containers"
       ]
     },
@@ -753,46 +828,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
-      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
-      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T15:31:28-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-intro-to-rudr-a-kubernetes-implementation-of-the-open-application-model-azure-friday.md",
       "title": "Intro to Rudr: A Kubernetes Implementation of the Open Application Model | Azure Friday",
       "excerpt": "Curious to see the Open Application Model (OAM) in action? Look no further than Rudr - the Kubernetes reference implementation of OAM. In this episode, Mackenzie Olson and Sudhanva Huruli join Donovan Brown to demo how Rudr provides clear separation of concerns for DevOps practices for application developers,",
@@ -818,45 +853,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3xykOuZ9960/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "Multiple node pools in Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Saurya Das joins Scott Hanselman to show how multiple node pools for Azure Kubernetes Service (AKS) enable you to use different virtual machine sizes in a node pool supporting a variety of workloads in a single AKS cluster. For example, an e-commerce website can have a node pool for a billing service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-multiple-node-pools-in-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=XHrlCJDDjS4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XHrlCJDDjS4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:25:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XHrlCJDDjS4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
