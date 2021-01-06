@@ -3,7 +3,7 @@ name: "Scott Guthrie"
 bio: "Executive Vice President Microsoft Cloud+AI"
 location: Redmond, WA
 type: "profile"
-heat: 130
+heat: 20
 
 affiliation:
   name: Microsoft
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Scott Guthrie"
 
-secured: "OotUFNe2cM3rGrr+NYcHNmd6X2R4GiET4I1rjOQHpE7EK9Q5Cf9cwOlB3zmbrOmQiTP61xhkapcQ4AbJVTxVO6ycBVvEh0VYQFeyj6f6wDLfrmw2eO93G3xsg6WXfTOotuZZ3Qm0k5lZns8jphbLs0IHqPe5ZvzRszx9awp8AK+hxaPy4AmeGfhruqoTUtI4TeWqJvGDI5ZzlR+oG9UXRp51DhlSxCkZ2/3tVvJquWSbozH7T1OY6Xj4eI7dFPi3n84oCdwR4GD+0n9J5z415fELgqbAckCOao3TVa1rBYZ9NjijLxWGQtxNiSMuCKlvMCNg1fwwCE65bVY0zx6vS4suagAgIB0/eeFd4yDs8JBGQJVc0B+Rt7XW9zA4iIMvkSp6aWcwwCTu6FEXLdMqzY5o6N4kX9vsNE0FnGgYUAw=;okuQnDVC7sKwkc0kxRnfYg=="
+secured: "eE646S+TO0uSOHOSHuvSTqBVhWOy14dfIb7Y2Pdce9FQ79EyjKB9ZcyDwWXjyIZoh9sxkT682LB1NnRHshxndFwpOaM2SFgEcuNKNfaqV3m5aQ8BFPdmfAv99h1x5T+Qqs1XBJ03DYgBUBMlvOfhtcwmfwDBs4aOSjxIwBaZEzURzQ6ymCOBqSVARYxgoSe9pSaLfm6Ockr89YSXWckGzn2etU9OSNqHn7t4FoY5PeMV1SSudiVwhBIX338jKNhEXZMcz6TpXF+nfToouVP59KPVJjT8dQdRUFJ/NcocvWnH3Hq7fAAGSXHYz0wdBmlyPStj1R5cHgZPSAluVLvuez0vS07kiIKry/YbwNaVuRWcFASGngnfPazyHODQOPeu9K/6A+7a5wru3FuuDAu4hIkXMMtk3m4KMX4QKT63Lbk=;r1wuxbLkG1Zs5ZqxIsM6wQ=="
 ---
 
