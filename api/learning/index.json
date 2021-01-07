@@ -49,8 +49,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 15028,
-        "average": 4.7829385
+        "count": 15046,
+        "average": 4.7831316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15028,
-            "average": 4.7829385
+            "count": 15046,
+            "average": 4.7831316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 7601,
-            "average": 4.807525
+            "count": 7609,
+            "average": 4.807202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -200,8 +200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 3677,
-            "average": 4.791134
+            "count": 3682,
+            "average": 4.7914176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -264,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 7601,
-        "average": 4.807525
+        "count": 7609,
+        "average": 4.807202
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -340,6 +340,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-core-data-concepts.md",
+      "title": "Explore core data concepts",
+      "excerpt": "Explore core data concepts",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-core-data-concepts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 2010,
+        "average": 4.847761
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 150,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-principles-cloud-computing.md",
       "title": "Cloud Concepts - Principles of cloud computing",
       "excerpt": "Explore the core concepts and benefits of cloud computing as you learn how to choose a cloud deployment model customized for your organization.",
@@ -375,58 +417,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-neural-networks.md",
-      "title": "Make predictions from complex data with neural networks",
-      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
-      "length": "38 mins",
+      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-ready.md",
+      "title": "Choose the best Azure landing zone to support your cloud operations requirements",
+      "excerpt": "Azure landing zones help accelerate configuration of your environment to meet your operational requirements.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-ready/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-ready/",
+      "length": "PT1H29M",
       "ratings": {
-        "count": 287,
-        "average": 4.383275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Make predictions from complex data with neural networks",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
-      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 329,
-        "average": 4.6747723
+        "count": 9,
+        "average": 4.888889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -446,9 +445,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-ready-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -456,21 +455,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "DevOps",
-        "Containers"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
-      "title": "Manage enterprise security in HDInsight",
-      "excerpt": "Manage enterprise security in HDInsight",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
+      "title": "Customize Windows Server IaaS Virtual Machine images",
+      "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
+      "length": "PT50M",
       "ratings": {
-        "count": 62,
-        "average": 4.596774
+        "count": 14,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -490,9 +487,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -501,8 +498,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "Security"
+        "Management Tools",
+        "Compute"
       ]
     },
     {
@@ -536,8 +533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15028,
-            "average": 4.7829385
+            "count": 15046,
+            "average": 4.7831316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -578,8 +575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3237,
-            "average": 4.7136235
+            "count": 3239,
+            "average": 4.7138004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -624,8 +621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 2809,
-            "average": 4.757209
+            "count": 2818,
+            "average": 4.75692
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -669,8 +666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2168,
-            "average": 4.762915
+            "count": 2173,
+            "average": 4.7625403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -738,8 +735,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 3677,
-        "average": 4.791134
+        "count": 3682,
+        "average": 4.7914176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15028,
-            "average": 4.7829385
+            "count": 15046,
+            "average": 4.7831316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -846,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 2106,
-            "average": 4.77018
+            "count": 2107,
+            "average": 4.769815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -889,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1686,
-            "average": 4.721234
+            "count": 1688,
+            "average": 4.7209716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -932,8 +929,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1462,
-            "average": 4.756498
+            "count": 1463,
+            "average": 4.7566643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1177,8 +1174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 3237,
-        "average": 4.7136235
+        "count": 3239,
+        "average": 4.7138004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1223,8 +1220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 2809,
-        "average": 4.757209
+        "count": 2818,
+        "average": 4.75692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,8 +1265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 2219,
-        "average": 4.648941
+        "count": 2223,
+        "average": 4.648673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1311,8 +1308,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2168,
-        "average": 4.762915
+        "count": 2173,
+        "average": 4.7625403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1484,8 +1481,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5563,
-            "average": 4.6627717
+            "count": 5564,
+            "average": 4.662653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1627,8 +1624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 3847,
-            "average": 4.6940475
+            "count": 3848,
+            "average": 4.6941266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1733,8 +1730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 2106,
-        "average": 4.77018
+        "count": 2107,
+        "average": 4.769815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1834,8 +1831,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15028,
-            "average": 4.7829385
+            "count": 15046,
+            "average": 4.7831316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1876,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 1344,
-            "average": 4.7842264
+            "count": 1347,
+            "average": 4.783222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1919,8 +1916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 1096,
-            "average": 4.7235403
+            "count": 1097,
+            "average": 4.723792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2082,8 +2079,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16222,
-            "average": 4.6938725
+            "count": 16224,
+            "average": 4.69391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2226,8 +2223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15028,
-            "average": 4.7829385
+            "count": 15046,
+            "average": 4.7831316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2268,8 +2265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 1777,
-            "average": 4.7281938
+            "count": 1780,
+            "average": 4.7286515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2311,8 +2308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 1870,
-            "average": 4.775401
+            "count": 1873,
+            "average": 4.7757607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2395,8 +2392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 7601,
-            "average": 4.807525
+            "count": 7609,
+            "average": 4.807202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2481,8 +2478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16222,
-            "average": 4.6938725
+            "count": 16224,
+            "average": 4.69391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2628,8 +2625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16222,
-            "average": 4.6938725
+            "count": 16224,
+            "average": 4.69391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2749,8 +2746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1777,
-        "average": 4.7281938
+        "count": 1780,
+        "average": 4.7286515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2966,8 +2963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2038,
-            "average": 4.647203
+            "count": 2039,
+            "average": 4.646886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3030,8 +3027,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 1686,
-        "average": 4.721234
+        "count": 1688,
+        "average": 4.7209716
       },
       "provider": {
         "name": "Microsoft Learn",
