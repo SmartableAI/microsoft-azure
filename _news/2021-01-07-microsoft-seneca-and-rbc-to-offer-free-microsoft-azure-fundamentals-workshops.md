@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
-publishedDateTime: 2021-01-06T18:37:00Z
-originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
+publishedDateTime: 2021-01-06T17:44:00Z
+originalUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
     width: 620
     height: 250
     isCached: true
@@ -144,6 +144,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "0O3GjI8ojeYLfhUBm0wh6ZgOUdLfTEwf1xGPjQt0EMup173EQJXkcfTpUgwBvrVQWjC+ZZDqj4hslmyDICLqXGm7Ci2dlI+TgCQJoRYOD7DmJ+yA+wCug4F7/TdVcI4KcUoRNi7EbtnJhw9L5rjMFmh9ii0T61gY+y/qJweskpcNzNiOmlvZnzT0YCZjOih9hQZRTvvFthWdb2/RXkx4we9SoJQ9oyf6RVmwisUwMnzw+ELLTsANzHKDo9c7zOnZT3ologFjCvMxJDhR5OyHJkqu8sBZ6v9Ey0LGDz6aWw2r63ojsfBBfJptdM/ae1qNr/xYc5vE5+KAj2hUFX+qwAiZ129BJBiNLJNueViXuAE=;zYXO9BQ2uPBWuipEY6vL2A=="
+secured: "pzrJypAIiETV4sr5P9AGtSrlQl66ucvbavFwjkaFtFVGRi0poKDCizFNma+rrv28g4AiR51gUwRui2PpU0OW5QcBwETbd13rcgKCaYnPWu42ZizRUotG/DBnzJqRY9jQlWWo6EMXGu91Ds2NZqa8Nt0GHfSo0oeul0yXCqLvTrsDleGg3WIcRMm4H1oZycm++POhelNDtOS/00kcBP4pDqrTHQclRjE4VSwLRINzeoS16031MOkYRQpXk+y1IwPQee703K2PcqbH6ZXyvLD9ZDL5kgzh8Z6R/A+06bv0wd1x6TQ4gCWjqn5EWuSXhkY5DNyl8wtmh84VBI9wWyBXhhhYX9D8w2RTiDo3HyEGD6s=;0hcvp0VP7hBUG+BGM1+ZCw=="
 ---
 
