@@ -142,6 +142,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "Microsoft's new Azure data services explained"
+    excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."
+    publishedDateTime: 2021-01-07T00:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Introducing the Microsoft Azure Modular Datacenter"
     excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
     publishedDateTime: 2020-10-20T06:00:20Z

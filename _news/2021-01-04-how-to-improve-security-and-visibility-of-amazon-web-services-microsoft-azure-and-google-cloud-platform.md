@@ -2,24 +2,24 @@
 category: news
 title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
 excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-publishedDateTime: 2021-01-04T14:35:00Z
-originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+publishedDateTime: 2021-01-04T14:26:00Z
+originalUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -447,6 +447,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "gyjpoyvVsd9XO790d4jcwoMyA4NQSz/csjwmB8klhrEvs75VYnjkP8328x2GftFQu1IqHTHM7xLQQrPADw1Vx0nSA+Htolz9zvmgC8cM83Em7XCwEK+wy3MeR1wR5pUZuzo7ReAiGnvWtZvbncXr71xpi1nMEhA0m9wruHxRUtOAbbpQBSwa3VKnUt5sBXWUzDC6dcyu18OKGrZr5DXKNMWEF5yuF6f1vUZrXluhurEu5Tyb69pDdxEW1dEgeDp5kPqfJA284tLt+n3cfaxMH2tk0By/6wMjNptLYGhJ+Xfx7Jf8HHECYGEmZwK9mQ9bfHOQ5w/xfBdaRUOhwla6mzx4D1ngdwjE2kmbwyCMI+w=;Cu12HPfVbsGwDCucfolAqA=="
+secured: "y71X8OX0gNJaogi92R04oFJ131r7xoTuLVFTONrWUOtuF+zrsxdgk4+3nDrvZ0qCQfBOQtJf2lWGGG9UPBqElrftlQzwqt/OGo8p071wh7dtJa/I9BQHz1AllzAniCb2vNPglTHCtOAirrcnYqlKY/TXguS/g2EqxpX9N8yFngGTjjCvfgvypOq7/ZCAGa1i61fq3SZpSET7lAi77/I0OIvJJ8VhUD38IAtXwTB1VdVNUaEdrq6Qf6zJBTUSYpTIusnThYQhqf6vxh7WH16pbn4hMhw7u82L4vrnKrzBc+RB8IeKafc3hvx867fSanmfv4qig6ueVmQ8m7YXX3HK4nf+YwUoOM/yJX2dtCW+148=;Z1ypwDMpE94/fwM7uyTxCA=="
 ---
 
