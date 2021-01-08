@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "The move enhances access for both Blue Prism and Microsoft customers, and underwrites Blue Prism’s position as the intelligent automation and robotic process automation (RPA) leader in the cloud. Blue Prism customers already have access to a scalable ..."
+excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
 publishedDateTime: 2021-01-06T19:14:00Z
 originalUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
 webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
@@ -143,6 +143,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "3ruEjGodyhqsw1U7f9RE0qkfLzFW6iA6SpPWsr4LS9+PgbV2sU4WcDIIlWY8fCCtHRZyKr9jPr9oLdwnSQX6rZvZ1qlTLHPfFppH/p+XLxVMHBozUAlugO3b1PHILOjCHVWp1E8zNxnHV9B4ePqyLf6bIW6FMLWk+sEEoakQxOmH7hmAVRFBglqqLi4XSIXSsZJ0Qet6IM5VCV+3FbBWwYIBJDOgNSE4rwHtMQYqA6sip4VPTDCJ/bQI5etQmOQ8VwnBQSMK2DTQVvOlUnnHirGLuOAnM14lWcMfvbVnXrHLmLtW4xV0GL6mzd3iZGaa2CnF1/LKYTcLgx4sweOabZ6mwCG3zbt0ulAAVay94Cw=;10g7KuXcMKcoTQ2qzqvclQ=="
+secured: "Jiy3b+xJNGZRDUovAb2MEC1POOuRekcx76xrZhdswwGxyPrAYFiaRC51XAAytI0HOnPWkF5cKSqMnuiUmqGstkdJ7TNhWglXl8YlzYumfAALrAMnlGLQA3Jo7FhHQ2bAvUNuEyhNAemmg729Qx3L9VGNRp1CYlmY/TcmNjy0eEZ0dqLV+Mn4YYVy+22voFtAHOybPuTtH1e8uv+cmgGRE/ck9nv64dkxT8cVtxYpNNqMT+JGpPG8qryR7zneRN+k0J98T/7QS1gM1c0fUNp0nrl0xOSJi6UnXDwXIvUGfcq3zbveuU1v8kXgQPkfPUJx3dWoOv3r8oGZG8aKw9oMPBCJjKz8cRCNy8spwwXQihk=;PkWoUPYBIxjTgI6Rsbi4Bg=="
 ---
 

@@ -134,7 +134,7 @@ related:
       domain: channele2e.com
     quality: 17
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "The move enhances access for both Blue Prism and Microsoft customers, and underwrites Blue Prism’s position as the intelligent automation and robotic process automation (RPA) leader in the cloud. Blue Prism customers already have access to a scalable ..."
+    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
     publishedDateTime: 2021-01-06T19:14:00Z
     webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
     type: article
