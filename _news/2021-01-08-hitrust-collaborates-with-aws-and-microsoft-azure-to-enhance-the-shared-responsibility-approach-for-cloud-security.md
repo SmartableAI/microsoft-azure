@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "CISA Alert: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments"
+    excerpt: "Specifically, CISA has seen an APT actor using compromised applications in a victim’s Microsoft 365 (M365)/Azure environment. CISA has also seen this APT actor utilizing additional credentials and Application Programming Interface (API) access to cloud ..."
+    publishedDateTime: 2021-01-08T20:57:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-alert-detecting-post-compromise-threat-activity-in-microsoft-cloud-environments/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 15
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/clouds-4345883_1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+
 secured: "xlywqbqO2UQY/G9lGrz9a81jcn/ODYihVOwJyBdV1IX+LwgWP8QFb23n5POejxP3b4o+bS15XXVo/q0jxt/ldlXGX8/UBHllp925IUtuYqA9cjTIclo1bIV2By/tMRby+F+RGQCvyIGVKlunvhDcC0rbcISZXL3RjfoBk7ZvGWHbYlHg1dosnE4IWI7KqdGEyKVOWjrVm527NT929UAs4aWyTBuSzP+k0AaBpOhjTSvmZsoP7iXw0KLSFxe3CTE944MqczoD2y0BGBJyHI5lAGKaWv8Jun9Pop2iK7cGfMuna6rbURaI24w4kMrs8esKYZ20fnZxAthE0ldaHzd4qVWcsMlVUtur/UHSuLCuYfA=;WGTW0sJV6PPhmTL68TA9PA=="
 ---
 
