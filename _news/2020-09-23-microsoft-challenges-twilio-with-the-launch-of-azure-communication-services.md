@@ -190,6 +190,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft launches Azure Health Bot"
+    excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-08T16:29:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Azure Communications Services is Microsoft's new managed communication platform"
     excerpt: "At its annual Ignite conference, Microsoft announced Azure Communications Service, the first fully managed communication platform offering from a major cloud provider. The service will help developers deliver enterprise-grade communication experiences ..."
     publishedDateTime: 2020-09-22T14:59:00Z

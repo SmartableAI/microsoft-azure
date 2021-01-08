@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Microsoft launches Azure cloud service for classified data"
-excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-publishedDateTime: 2020-12-08T10:26:00Z
-originalUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+title: "Microsoft launches Azure Health Bot"
+excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
+publishedDateTime: 2021-01-08T16:29:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
 type: article
-quality: 57
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: windowsreport.com
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-    width: 1400
-    height: 1280
+  - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
+    width: 1000
+    height: 562
     isCached: true
 
 related:
@@ -185,22 +189,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft launches Azure Health Bot"
-    excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
-    publishedDateTime: 2021-01-08T16:29:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
@@ -645,6 +633,22 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
         width: 1600
         height: 813
+        isCached: true
+  - title: "Microsoft launches Azure cloud service for classified data"
+    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
+    publishedDateTime: 2020-12-08T10:26:00Z
+    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
+    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 57
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
+        width: 1400
+        height: 1280
         isCached: true
   - title: "Microsoft updates Azure Stack HCI"
     excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
@@ -1719,6 +1723,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jnl+ipWQcLTdk1nJV87kkiigtAX/iyOLc3UqsA+VBEbBtf/Jr61RZ2qcS8cZZvWaFU0TrpSTKAOvD/i+DhKPtfPu3+kuGtCi/5Qs9z1PJW64M9SyBbiL1/TMfqXgPT8azdt8QhXVMB6GMVGcKl6Jr6VMrpa+c+uzW0flOBRYP/OnCsqkqu8keFrW2al8zOMYVvbufvcVuFV50cQDF4jpn1e0heFYE7q9NPxbgP7KDw+LEpfvs3K8wwZRnW3bPmF7S1HsAlCkDOVhdtzeeb1bYXdnoqEApPF0LRcaxNScEM4VHcwzr/fIuWhIr/dkANRinhfEkSNwSP3PEoKZKO8W0Q6hqKNN6M//axkdVaCamfsrr7/Fkn8XQlNbWSi6UY/EKbbV872crcsOabGoyiefQjSe2u4RLqqGlw2sPC7B3x+YyvbMWLTtPhhPs4MHDtUzE+KIJcACc07+hmic8WiTuebgP0zGxCOivYDN2Jw4FQNzKI2QC7nNSatX51Yr6Te0VhO/pXdluvHAXuP1JywldQ==;WPshzfTcUMUS6sNvFoY82g=="
+secured: "brVU8DJn0YzE+CgiewWP0o8xddZscHU+pfpt1+55JfPJPvLFoplKRFYjAHkuoBdB2ClvAHqEjlbnfSe/zAHAdFazA4Km6LpJy12I28dDS9qXc0FAxnghjf3kBwVGLlQB71zceYfMrw0zfU964Y4e+yG3Y9vjd5qOUkYBfrlCdS+1G6iHQMciV3m2uGRffjGn0xMj8XjrlUx/PI2OfmkN9ruvvxM7xXuBj0BXbPnp4f47i0UGkPEvhY19xe65hQU+uRBpGNsJYmD+wTEza0WJahgW0sWXpeNDC0EBb2ALK9w92pGU9bCUMMozyEKvX67mpUp04LmF3+6wgVZQRhwYeUBSEw9vYSZayVp9gbweWjA=;UkeLXB01P2fwW7KUblHtNw=="
 ---
 
