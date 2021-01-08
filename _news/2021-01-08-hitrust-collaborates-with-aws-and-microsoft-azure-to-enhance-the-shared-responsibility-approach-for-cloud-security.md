@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
+    publishedDateTime: 2021-01-08T21:24:00Z
+    webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 22
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "CISA Alert: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments"
     excerpt: "Specifically, CISA has seen an APT actor using compromised applications in a victim’s Microsoft 365 (M365)/Azure environment. CISA has also seen this APT actor utilizing additional credentials and Application Programming Interface (API) access to cloud ..."
     publishedDateTime: 2021-01-08T20:57:00Z

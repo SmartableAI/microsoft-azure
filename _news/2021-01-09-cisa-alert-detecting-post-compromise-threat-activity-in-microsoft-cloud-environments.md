@@ -38,7 +38,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
+    publishedDateTime: 2021-01-08T21:24:00Z
+    webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 22
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "J23oUdn00lafNtfPJyaz1QCBlHNYmd1SGuQB9p3jXnvEQay//kxGs9I2NaLZB5O8eVLAJFV9wdM3Kr5PbpGuYybUzSw4lRyKYEHC+CXqv7RY8tdLXCVCyl3uShSDd4/uR6S4fBOzkhX0Fe5AvVgA+6jFaYJ6zo0FNm2aIHQMTdcRJd1HgSGoYrkgMNGeFdTcuX2v9/2DjLIPhJPLWkPIbBra0g+JbRjVgld5JIcrbgyJVUPetw75F1fiopJ2AieVXG14tAGeVhY/PP+XqC6gP33LLi+npfoJk3pbDmxvojcpu/ca8uMnlSotbuQmKoHUEFDx0V1trNC+FyOSnw8gYgrPZqVPeAv+XAIdSZ2Yw+k=;Uqpd1135qv8cd0QMgS7kNw=="
+secured: "YnP/z/nqMkzFy0AhUXwRLlmcWc9jfSXlW23dKV9rQZCZ0Nxr2B0aK6JX6o22oM7L57OPhSFlKWxuDBZlYpAdvSgs4ZEV9jYx5GmY97+6ZN+TKc+0IKJkbzle6rAZQ8swLUPeqQQFnir53G16IAbaee3cdBsLtagUs+tvekWPO3c02VedoDjeuEXsYjZMCDJp3wcsBn7I09bZGx6kOJ++1RlfArzffRtA/g+1tzjBzch9Cf3k4026cb+aPANIvMbNjwn6CqzdUyWYKioKKDOcuHTBz6yLzuMXsSsKqsXhYeDoovhLySOSkgLZnQmsKsPGWsLqfAjwW7h0IaOLvzC09kw6GOXFjtuPj6Jr3Z01q6wlOKOcv9KWpESSAHC3reSKWA8dRKLuWAxUdyQaD+VJo2rMvJrHvM11yj0wg8zfYcJsgxYtcKAqoOA1nFlcssaqoPSujWSWGPJBc0c1UfcqNiu2/ywchjwtkto93bdcmSrLnir3Pi/ws3vEqoQI+11rE4Srg4GWOhd38NZRtwNNCg==;qJvO4EaHomQDIJzBy07/yA=="
 ---
 

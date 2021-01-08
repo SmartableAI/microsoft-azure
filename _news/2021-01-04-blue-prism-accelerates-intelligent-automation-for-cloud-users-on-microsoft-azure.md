@@ -116,20 +116,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
-    publishedDateTime: 2021-01-06T23:02:00Z
-    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z
@@ -148,6 +134,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 12
 
 secured: "t1VROWDUy84GUxpFa77GDvTwFVKkKgJ8mbrI5a3DrqsmmZm/UnL4auqlb+mttGt3omi+0FwBbYZ3St7dICkddhSFJOIl+uyxpBUfZJ5FbDlIY4doGtTTazYXds2dA+FV1lsu77dmUuc1ns6pjxcDIOKDD0d/2JCGQMItEaQr5hclc//gXCT9Ee7zKjyHTa7LPfYFlIu3cxUcY5AgGRbKnswyTXJGRLa9/99DhMTkjJR4N5gY+rOP1g/9A+LkXjpDed4Hgo5MLN2+3kfMxTbrd5GQf/Jem3VDiyppi3EzuCfPEflD3zR3P7di1ajlTv3JTQGR2aCZd1K7t+uAiGEA/MTGUjKZofh2t7OYZIpMqnw=;uGm0B4tp04WxUg2+w7C71w=="
 ---
