@@ -116,6 +116,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+    publishedDateTime: 2021-01-06T23:02:00Z
+    webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z
@@ -134,15 +148,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
-    publishedDateTime: 2021-01-06T19:14:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 12
 
 secured: "fAINn1lTE57PEzzfU847hyt2LTQsRxDMylRMKhs5Pb9u2z83321QIEZrLNM3hBUPwo08xp5SaP2r/DK1IYWoV30OIu60qh2z9hUETo+2AJUzzHku+92UQH7pWLCV7JCf3j4JziIaeVhy8kSOxnwArHhkx2znJSFmXKL3vK/PKDUs/aF6BlkvP3VOIfiy1LRmiRPM9MkyQ2LvUm8UPg44mud0J5rgTifIbQG3PlR1xgIZ4E7UbLE+bM4A7bIWhENTBj9RcAOwpOG0w3PLYrSVKn/94x1bzliaBQNS/+pt+gGuYzvXa1wijLpkmqFzB5PBj7qo4a5oWqfBnZheJs7hQ4wAp4irKpgWXxX2UawAu4vj3+2N/JEx0hCxRIEWsMeXKVHQbqpdA9gZwxAyENEv5zWxxZZsQ2YN0sK/9ynhYSKzUPwspEVBLiLtFn/+Qlnv5Ln0WZwOs+OoZ0A7Wj7yxj0/+qC3F5ZWlA6AxCE/sf5WUYpaxO4plQ5uszQxp/a4iCK1TX0cmdvZQ2DFTRVZJQ==;MPuyHVwAEKReqOeFAxporA=="
 ---

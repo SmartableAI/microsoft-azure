@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
-publishedDateTime: 2021-01-06T19:14:00Z
-originalUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+excerpt: "JOHANNESBURG, South Africa, January 6, 2021/APO Group/ -- <p> ( today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure Marketplaces. The move e"
+publishedDateTime: 2021-01-06T23:02:00Z
+originalUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
+webUrl: "https://menafn.com/1101397256/Blue-Prism-accelerates-intelligent-automation-for-cloud-users-on-Microsoft-Azure"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: CNBC Africa
-  domain: cnbcafrica.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "Microsoft will soon offer 99.99% uptime for Azure Active Directory"
@@ -143,6 +149,6 @@ related:
       domain: channele2e.com
     quality: 17
 
-secured: "3P1p1VM7iWujEYEQnYRO/agcv0Hx3Lyx+BadWvFoVZZ2b/o/UllRbE1tR73XcLUlSzhOb3J18KmdZfB6t9Kb6SqFmJdYOdspAMe+Uad3FG9gW/Eb+1SJlbSzCzC2dffSRAw+FAjXCyUDmfoVsVEXG4h95g+LuanJfkEH4fDhXKZUgChQiokYm4TTqOZjk1TrIcb2sdpVCg7c+KKMKuYLokqo/nnvrKiIGsOZ9pSFc+C0LUYnbfrPTExYdUd+QET95oI4g9I6J25FsSaifTLOOHV0OUXZXLp2ex/II8Suxyls9jIjnuzKhgRi88pBQ4dgITwGBVIW6sEzTNmRlo/LmsrsWzkvDSnGD5yZemZ8kbw=;uXF/A02oA7/7C6gSL5oVOQ=="
+secured: "J+M4gtcT7l2psCVYHcIwYaR4nN1RiYhLmKv9cFPCSIyp532BktWMewvz0vHr4xiGTT0j+XmShHyY6CVdqs1DKC+twuRI8X2uQm2WrVxVBc+3hl5PzRToo1f0UlSHv/1luL+mAiTJ56s98cIWB369Q2aRm+0aa04CcSMhZ04ORAXtDORVDaOKl4BXlJNYuAlFe61fAx7yeHJvld4XPytRbKMcxSUOgdwCAxF8/h0YgWagV9hNlYaHSh94ZJqnwADC0a+0YCO+nqz2e1DMeyuStj+vqQNKMGz9i4auLZ7ySSPxCKHpzqvNBeHnzquctye09nkxaTyL29sbgsqOJ1Otqq41+eTum6FaTICd3X4QIKY=;Slf9brgkT+ACncYc9U/8vg=="
 ---
 
