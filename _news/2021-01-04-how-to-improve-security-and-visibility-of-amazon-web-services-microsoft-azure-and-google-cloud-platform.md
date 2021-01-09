@@ -2,24 +2,24 @@
 category: news
 title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
 excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-publishedDateTime: 2021-01-04T14:26:00Z
-originalUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+publishedDateTime: 2021-01-04T14:37:00Z
+originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -447,6 +447,6 @@ related:
       domain: webindia123.com
     quality: 2
 
-secured: "5urzyBje4LFVxGVwuY2XJj6CxLKLZ8PMC5kKq6AOVaWRX29nQZZVouRDhisKdO4kdCTUAa94Vxoe1A0oHm2FBps5nnuGk3hXr+NikagyuqvI3PLiPX7TviNEfYXqMnSrj+83SrxO9e5h0gkzZQpjubPJRkVpT/4GwPBOtwSZCcdCVQRFnL+tsth2dTQ31A1EEohgBe6V790vwNT7xP7vH6IIpJYoEJ1+e8D8wE4Madf52oRAnY9dkSVwzNxjVPB5vuvmojH3mqecj0JeDc4P4/g5Q66FUK5aTJctfVrUXE1SGofFAOPZFIYElMAthII/BiPXOWBFNWMTJb/ymL+al2LMTFHIw37QBRlR5t9O0KE=;7cD7rpi48Cp8X0PS99kDNA=="
+secured: "ckNfsICOq74QKyHUnMs/cFLCIS5ZJYblsMgK65ZsHhWIGRrg9xmsqq5miq8SdPap3BeFog8CLA7uZWWCSJz0zzRe5AaK6RXpIgc51Im58JCwOLqFOwn5yQ4jGZBO4qISCywRQAXoQXVjSiw0meIAQTH0ruqbQ1MoioSUycICp+DZHQJML03gFjT3ublCwcpIHlQXAF4biKOkUNSQX4KFSItc9/4Eu5bT0hTxfkidLcAj1+zuc6WK9r8mOVW1NHBY2JC2X+4LI85TPBgrbzpKj+HMcjKQ5PpSgDZiHZPsBM0mmyIvdRLXtKDlmmmzacRoNiJwd/mpBm6IxU2oKQo6lCDhBzu8mZnE3Cq/5CFlQXk=;i4eyG3qT0OjqV+oTu7MOXQ=="
 ---
 
