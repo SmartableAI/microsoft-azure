@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15727,
-            "average": 4.7829847
+            "count": 15750,
+            "average": 4.7829843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 183,
+          "heat": 164,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 8013,
-            "average": 4.806065
+            "count": 8020,
+            "average": 4.805985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 3872,
-            "average": 4.792872
+            "count": 3877,
+            "average": 4.793139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -138,7 +138,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 108,
+          "heat": 103,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-architecture-fundamentals-social.png",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 8013,
-        "average": 4.806065
+        "count": 8020,
+        "average": 4.805985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -291,8 +291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15727,
-            "average": 4.7829847
+            "count": 15750,
+            "average": 4.7829843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -309,7 +309,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 183,
+          "heat": 164,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -333,8 +333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 2209,
-            "average": 4.770937
+            "count": 2210,
+            "average": 4.771041
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -376,8 +376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1776,
-            "average": 4.7224097
+            "count": 1778,
+            "average": 4.72216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -419,8 +419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1550,
-            "average": 4.759355
+            "count": 1551,
+            "average": 4.75951
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,7 +437,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 79,
+          "heat": 80,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -530,8 +530,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 1353,
-        "average": 4.759054
+        "count": 1355,
+        "average": 4.7586718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -548,7 +548,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 76,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -567,6 +567,416 @@
         "IoT",
         "Blockchain",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
+      "title": "AZ-400: Develop an instrumentation strategy",
+      "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
+      "length": "PT9H41M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1598,
+            "average": 4.646433
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
+          "title": "Control and organize Azure resources with Azure Resource Manager",
+          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 39470,
+            "average": 4.714568
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 70,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
+          "title": "Introduction to App Center",
+          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 457,
+            "average": 4.5886216
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Mobile"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
+          "title": "Azure Spring Cloud workshop",
+          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 287,
+            "average": 4.3937283
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Integration",
+        "IoT",
+        "Security",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "Blockchain"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
+      "title": "Create serverless applications",
+      "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-serverless-applications/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-serverless-applications/",
+      "length": "PT8H11M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
+          "title": "Choose the best Azure service to automate your business processes",
+          "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 11378,
+            "average": 4.5788364
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+          "title": "Create serverless logic with Azure Functions",
+          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 7279,
+            "average": 4.655447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+          "title": "Execute an Azure Function with triggers",
+          "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+          "length": "PT1H23M",
+          "ratings": {
+            "count": 3877,
+            "average": 4.7082796
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+          "title": "Chain Azure Functions together using input and output bindings",
+          "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 3089,
+            "average": 4.5785046
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Compute",
+            "Serverless",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 10,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools",
+        "Databases",
+        "Storage"
       ]
     },
     {
@@ -701,7 +1111,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -738,7 +1148,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -749,7 +1159,7 @@
         }
       ],
       "size": 8,
-      "heat": 66,
+      "heat": 61,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
@@ -768,416 +1178,6 @@
         "Analytics",
         "Integration",
         "IoT",
-        "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-serverless-applications.md",
-      "title": "Create serverless applications",
-      "excerpt": "In this learning path, discover Azure Functions that create event-driven, compute-on-demand systems using server-side logic to build serverless architectures.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-serverless-applications/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-serverless-applications/",
-      "length": "PT8H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes.md",
-          "title": "Choose the best Azure service to automate your business processes",
-          "excerpt": "In this module, we'll discuss how to choose the appropriate Azure service to integrate and automate business processes.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-azure-service-to-integrate-and-automate-business-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 11378,
-            "average": 4.5788364
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 7279,
-            "average": 4.655447
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-          "title": "Execute an Azure Function with triggers",
-          "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 3877,
-            "average": 4.7082796
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-          "title": "Chain Azure Functions together using input and output bindings",
-          "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 3089,
-            "average": 4.5785046
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Compute",
-            "Serverless",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 10,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/choose-azure-service-to-integrate-and-automate-business-processes-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools",
-        "Databases",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
-      "title": "AZ-400: Develop an instrumentation strategy",
-      "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy/",
-      "length": "PT9H41M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 1597,
-            "average": 4.6462116
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 39470,
-            "average": 4.714568
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 70,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
-          "title": "Introduction to App Center",
-          "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-app-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 457,
-            "average": 4.5886216
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-center/introduction-to-app-center-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-          "title": "Azure Spring Cloud workshop",
-          "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 287,
-            "average": 4.3937283
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Integration",
-        "IoT",
-        "Security",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
         "Blockchain"
       ]
     },
@@ -1657,43 +1657,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
-      "title": "Execute an Azure Function with triggers",
-      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 3877,
-        "average": 4.7082796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
       "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
       "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
@@ -1730,44 +1693,6 @@
       "topics": [
         "Azure",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 3089,
-        "average": 4.5785046
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
       ]
     },
     {
@@ -1810,15 +1735,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
-      "title": "Create a long-running serverless workflow with Durable Functions",
-      "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
+      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
+      "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
+      "length": "PT41M",
       "ratings": {
-        "count": 2895,
-        "average": 4.472539
+        "count": 1429,
+        "average": 4.641008
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1838,7 +1763,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-create-long-running-serverless-workflow-with-durable-functions-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1849,70 +1774,22 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 599,
-        "average": 4.7111855
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
+        "Integration",
         "Web",
         "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
+        "Serverless"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
-      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
-      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
-      "length": "PT20M",
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
       "ratings": {
-        "count": 1979,
-        "average": 4.7170286
+        "count": 3877,
+        "average": 4.7082796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1930,21 +1807,14 @@
         "Beginner"
       ],
       "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
         "Compute",
-        "Serverless"
+        "Serverless",
+        "Management Tools"
       ]
     },
     {
@@ -2028,53 +1898,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
+      "title": "Create a long-running serverless workflow with Durable Functions",
+      "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
+      "length": "PT46M",
       "ratings": {
-        "count": 1627,
-        "average": 4.2790413
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management.md",
-      "title": "Expose multiple Azure Function apps as a consistent API by using Azure API Management",
-      "excerpt": "In this module, you will learn how to assemble multiple Azure Functions into a single API using Azure API Management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-serverless-api-with-functions-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 1429,
-        "average": 4.641008
+        "count": 2896,
+        "average": 4.472721
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2094,7 +1926,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/build-serverless-api-with-functions-api-management-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-create-long-running-serverless-workflow-with-durable-functions-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -2105,10 +1937,58 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration",
-        "Web",
         "Compute",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 599,
+        "average": 4.7111855
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
       ]
     },
     {
@@ -2119,8 +1999,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2061,
-        "average": 4.600194
+        "count": 2062,
+        "average": 4.600388
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2241,15 +2121,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
       "ratings": {
-        "count": 131,
-        "average": 4.6488547
+        "count": 1627,
+        "average": 4.2790413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2267,21 +2147,53 @@
         "Beginner"
       ],
       "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Storage",
         "Compute",
-        "Serverless"
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
+      "title": "Chain Azure Functions together using input and output bindings",
+      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 3089,
+        "average": 4.5785046
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute",
+        "Serverless",
+        "Storage"
       ]
     },
     {
@@ -2323,6 +2235,50 @@
         "Storage",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 1979,
+        "average": 4.7170286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless"
       ]
     },
     {
@@ -2402,6 +2358,45 @@
         "Azure",
         "Serverless",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday.md",
+      "title": "Go serverless: Real-time applications with Azure SignalR Service | Azure Friday",
+      "excerpt": "Modern applications light up with real-time information. Anthony Chu joins Donovan Brown to show how to deliver live updates from Azure Functions to web, mobile, and desktop apps with Azure SignalR Service. Learn how to send real-time messages over WebSockets from your serverless apps with a few lines",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-real-time-applications-with-azure-signalr-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=FmxAf8TfFkc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FmxAf8TfFkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M22S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-27T12:04:10-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FmxAf8TfFkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless"
       ]
     }
   ],

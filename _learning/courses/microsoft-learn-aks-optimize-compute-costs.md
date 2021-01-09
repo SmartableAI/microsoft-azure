@@ -8,7 +8,7 @@ length: PT1H2M
 ratings:
   count: 107
   average: 4.654206
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "l+++35BDdpINixGuiStc5LIsQ7LPRoYWtdCPZnIe6bKAhO9kdCiQnbmxKy8iVRXimqc2OMnnwB0rEtMLDlx0640a7yzSmIYtNWtDV7Ot7Y7FlnZp5pEBwHOPGceqGvfZIUDtQjcw4LTVq7pdllqqqVxmGuQqjC/O4Uf0CBR8SoPS7Euemv76EecsTgH9KZiGIhQDi8Or2n0nQwsCds35wEnkOdJp4hDOK2dzyX65PJqMJ189HxFW764qDIJXoB9CADDvG4dKKwgSPE6jLdGTgUQAWMbgZ0fopmDoPsxJZpCCD9jRi6cIIs4auhVmfE5LJv3YjXEb1x5dVSayaa5FlXg42wz3fvBgp28r768UlW5PYHxiC6FRdK0gYn/hRmGnvBRqDxaNYEtdsphT7lmk+bKLYJkbL0SMlepwdDrtmik=;oxw/hS3yXB9As4sIEAJ4IA=="
+secured: "qJAy1K5A+oIliHZ8kb+5ofhvTOc5WR86gcOZypOEdEQu2PqOx5hjyjPpym656BYZN22lCZO+UjN0XBpjPDuYYQ33G+IRH19P+ZggqguhDWJhoNcSYdq5ez6abQvev2dWtMcRdmaaj/delmob81FB6ocx2sQUi4OQ+Van3BveXam5wIe6KicQyAL7CNPzlc3QDN/WhcF0e4MsK7+IIzPBkb3fcVPqFPXdRuAIYsOOjnskv522U3l5sWo2WskZKwdXY46/5a7ghruv32oqLT5leW3kfH77JLBnhfCcAwG1jhI7Rm3NBgZvK+gufTitMA+Y0euUkVoZbIt/Z2BfZtPCzC5D0qkAMhE9VWpNEC+W0dqnU04oQVJMF6KieraPbg4yVm2dnzAKmPWAmEDxiKQtkSenM8UZD6wLmHjnWKQ4m/g=;qBVAoxckq6BTUiJiHLBY8Q=="
 ---
 
