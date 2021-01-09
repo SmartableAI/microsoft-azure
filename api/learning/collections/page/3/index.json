@@ -252,8 +252,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2686,
-            "average": 4.660834
+            "count": 2688,
+            "average": 4.661086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -544,8 +544,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2451,
-            "average": 4.615667
+            "count": 2452,
+            "average": 4.6158237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -732,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1645,
-            "average": 4.601216
+            "count": 1646,
+            "average": 4.6008506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -939,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5562,
-            "average": 4.7304926
+            "count": 5563,
+            "average": 4.730541
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1217,217 +1217,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure.md",
-      "title": "Create an enterprise-scale architecture in Azure",
-      "excerpt": "Explore how to create Azure landing zone architecture at enterprise scale.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/",
-      "length": "PT2H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
-          "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
-          "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 155,
-            "average": 4.632258
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles.md",
-          "title": "Enterprise-scale architecture organizational design principles",
-          "excerpt": "Enterprise-scale architecture organizational design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 121,
-            "average": 4.6694217
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 131,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-organizational-design-principles-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
-          "title": "Enterprise-scale architecture networking design principles",
-          "excerpt": "Enterprise-scale architecture networking design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-networking/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 99,
-            "average": 4.5555553
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-networking-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enterprise-scale-operations.md",
-          "title": "Enterprise-scale architecture operational design principles",
-          "excerpt": "Enterprise-scale architecture operational design principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-operations/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 156,
-            "average": 4.705128
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-operations-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-intelligent-bots-with-the-azure-bot-service.md",
       "title": "Create Intelligent Bots with the Azure Bot Service",
       "excerpt": "In this learning path, find out how to build a chat bot to interact with customers using text, graphics, or speech with extras from QnA Maker and LUIS.",
@@ -1458,8 +1247,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2120,
-            "average": 4.6990566
+            "count": 2121,
+            "average": 4.6991987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1676,8 +1465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 219,
-            "average": 4.689498
+            "count": 220,
+            "average": 4.690909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2235,8 +2024,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5562,
-            "average": 4.7304926
+            "count": 5563,
+            "average": 4.730541
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2500,8 +2289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 219,
-            "average": 4.689498
+            "count": 220,
+            "average": 4.690909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3126,8 +2915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1822,
-            "average": 4.647091
+            "count": 1823,
+            "average": 4.646188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3247,8 +3036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2044,
-            "average": 4.64726
+            "count": 2045,
+            "average": 4.6469436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3421,8 +3210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 675,
-            "average": 4.731852
+            "count": 676,
+            "average": 4.7322483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3803,6 +3592,217 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure.md",
+      "title": "Create an enterprise-scale architecture in Azure",
+      "excerpt": "Explore how to create Azure landing zone architecture at enterprise scale.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-an-enterprise-scale-architecture-in-azure/",
+      "length": "PT2H46M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
+          "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
+          "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 155,
+            "average": 4.632258
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles.md",
+          "title": "Enterprise-scale architecture organizational design principles",
+          "excerpt": "Enterprise-scale architecture organizational design principles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-organizational-design-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 121,
+            "average": 4.6694217
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-organizational-design-principles-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
+          "title": "Enterprise-scale architecture networking design principles",
+          "excerpt": "Enterprise-scale architecture networking design principles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-networking/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 99,
+            "average": 4.5555553
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-networking-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enterprise-scale-operations.md",
+          "title": "Enterprise-scale architecture operational design principles",
+          "excerpt": "Enterprise-scale architecture operational design principles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-operations/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 156,
+            "average": 4.705128
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-operations-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -5764,8 +5764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 675,
-            "average": 4.731852
+            "count": 676,
+            "average": 4.7322483
           },
           "provider": {
             "name": "Microsoft Learn",

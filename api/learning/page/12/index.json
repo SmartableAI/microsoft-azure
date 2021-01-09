@@ -211,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 675,
-        "average": 4.731852
+        "count": 676,
+        "average": 4.7322483
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -296,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 1129,
-        "average": 4.4260406
+        "count": 1130,
+        "average": 4.424779
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -374,8 +374,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 597,
-        "average": 4.6633167
+        "count": 598,
+        "average": 4.6638794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -496,8 +496,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
       "length": "PT45M",
       "ratings": {
-        "count": 1163,
-        "average": 4.5881343
+        "count": 1164,
+        "average": 4.588488
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -887,85 +887,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday.md",
-      "title": "Go serverless: Enterprise integration with Azure Logic Apps | Azure Friday",
-      "excerpt": "Jeremy Likness joins Scott Hanselman to show how to build workflows and integrations from the cloud across third-party services and on-premises servers using Azure Logic Apps.  1:10 - Demo  Overview - What is Azure Logic Apps? https://aka.ms/azfr/621/01  Azure Logic Apps https://aka.ms/azfr/621/02  DEV50:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-enterprise-integration-with-azure-logic-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=2qwGl-f8gd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2qwGl-f8gd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-27T09:39:11-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2qwGl-f8gd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
-      "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=UFxQhszT450",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFxQhszT450\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M14S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-20T10:39:29-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UFxQhszT450/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-connect-virtual-networks-across-azure-regions-with-azure-global-vnet-peering-azure-friday.md",
       "title": "How to connect virtual networks across Azure regions with Azure Global VNet peering | Azure Friday",
       "excerpt": "Anavi Nahar joins Donovan Brown to show how virtual network peering enables you to connect networks seamlessly in Azure Virtual Network. The virtual networks appear as one for connectivity purposes. The traffic between virtual machines uses the Microsoft backbone infrastructure. Like traffic between",
@@ -1043,84 +964,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks.md",
-      "title": "How to debug Azure Functions with Visual Studio Code | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to debug Azure Functions with Visual Studio Code. To start debugging Azure Functions, create a breakpoint in Visual Studio Code.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=mdJ6kiqOruY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mdJ6kiqOruY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M49S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-13T08:06:32-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mdJ6kiqOruY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-deploy-an-azure-web-app-using-only-the-cli-tool-azure-tips-and-tricks.md",
-      "title": "How to deploy an Azure Web App using only the CLI tool | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to successfully deploy an Azure Web App by using only the command-line (CLI) tool. Watch to learn how the Azure portal is not only helpful for working with resources, but it also is convenient for using a command-line to deploy web applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-an-azure-web-app-using-only-the-cli-tool-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-an-azure-web-app-using-only-the-cli-tool-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=lO5Dvde07Tg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lO5Dvde07Tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M1S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-09-11T15:17:51-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lO5Dvde07Tg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-using-github-actions-azure-portal-series.md",
       "title": "How to deploy your web app using GitHub Actions | Azure Portal Series",
       "excerpt": "In this video of the Azure Portal “How To” Series, learn how to deploy Azure web apps using GitHub Actions.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to keep an eye on our Azure Portal \"How to\"",
@@ -1160,14 +1003,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks.md",
-      "title": "How to generate SSH public key to log into Linux VM | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to generate SSH public keys to log into a Linux VM with Cloud Shell and BASH on Windows 10. Watch how you can automatically log into a VM without having to put in a password if you SSH into the server.  For more tips and tricks, visit: http://azuredev.tips/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-generate-ssh-public-key-to-log-into-linux-vm-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=16bUZ43CGxs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/16bUZ43CGxs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M52S",
+      "path": "_learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks.md",
+      "title": "How to host a static website with Azure Storage | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how you can host a static website running in Azure Storage in a few steps.     For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-host-a-static-website-with-azure-storage-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=gYpNC_tdbQQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gYpNC_tdbQQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M51S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1180,11 +1023,50 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-30T08:51:09-07:00",
+      "publishedDateTime": "2019-04-02T08:44:54-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/16bUZ43CGxs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gYpNC_tdbQQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks.md",
+      "title": "How to quickly connect to Windows VMs using RDP | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to quickly connect to Windows Virtual Machines (VMs) with Remote Desktop Protocol (RDP). Watch how easy and fast it is to connect to your virtual machines in Azure.   For more tips and tricks, visit: http://azuredev.tips/  Get started with 12",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-quickly-connect-to-windows-vms-using-rdp-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=RXS9F7yy4A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RXS9F7yy4A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T09:49:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RXS9F7yy4A8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1195,6 +1077,123 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks.md",
+      "title": "How to set up an Azure pipeline with Node JS | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to create an Azure Pipeline for a Node.js application. Setting up a continuous integration process that automatically builds and tests your node.js code is very easy with Azure pipelines.   For more tips and tricks, visit: http://azuredev.tips",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-set-up-an-azure-pipeline-with-node-js-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=z_4sMQKE_zw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z_4sMQKE_zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-26T08:05:18-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z_4sMQKE_zw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-troubleshoot-the-most-common-issues-on-azure-resources-azure-portal-series.md",
+      "title": "How to troubleshoot the most common issues on Azure resources | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to troubleshoot the most common issues on Azure resources using the new Diagnose and Solve Problems feature.   Try out these features in the Azure portal: https://portal.azure.com     Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-troubleshoot-the-most-common-issues-on-azure-resources-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-troubleshoot-the-most-common-issues-on-azure-resources-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=FgfcSdHErus",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FgfcSdHErus\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-16T08:12:05-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FgfcSdHErus/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series.md",
+      "title": "How to use deployment slots on Azure App Service | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to set up staging environments in Azure App Service by using deployment slots.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal      And make sure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-on-azure-app-service-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=0cgy4GplC4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cgy4GplC4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M14S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-14T08:00:54-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0cgy4GplC4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
       ]
     }
   ],

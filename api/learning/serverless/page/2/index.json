@@ -4,14 +4,14 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday.md",
-      "title": "Serverless containers with Azure Container Instances (ACI) | Azure Friday",
-      "excerpt": "In this episode, Azure CTO Mark Russinovich joins Scott Hanselman to show how you can use Azure Container Instances (ACI) to host a containerized application. Mark deploys an image processing container in three ways: as a standalone ACI container, as part of a Logic Apps workflow, and as the backend",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-containers-with-azure-container-instances-aci-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=7G_oDLON7Us",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7G_oDLON7Us\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M33S",
+      "path": "_learning/videos/microsoft-how-to-create-an-azure-functions-project-with-visual-studio-code-azure-tips-and-tricks.md",
+      "title": "How to create an Azure Functions project with Visual Studio Code | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to create an Azure Functions project with Visual Studio Code. To start working with Azure Functions, make sure the \"Azure Functions\" extension is installed inside of Visual Studio Code.   For more tips and tricks, visit: http://azuredev.tips   Get started",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-an-azure-functions-project-with-visual-studio-code-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-an-azure-functions-project-with-visual-studio-code-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=F0dJz8LLF4Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F0dJz8LLF4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M52S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-03T14:26:47-07:00",
-      "heat": 52,
+      "publishedDateTime": "2019-02-12T09:00:52-08:00",
+      "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7G_oDLON7Us/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/F0dJz8LLF4Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -40,22 +40,20 @@
       "topics": [
         "Azure",
         "Serverless",
-        "Containers"
+        "Developer tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 131,
-        "average": 4.6488547
-      },
+      "path": "_learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks.md",
+      "title": "How to debug Azure Functions with Visual Studio Code | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to debug Azure Functions with Visual Studio Code. To start debugging Azure Functions, create a breakpoint in Visual Studio Code.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-debug-azure-functions-with-visual-studio-code-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=mdJ6kiqOruY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mdJ6kiqOruY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M49S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -66,25 +64,23 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2019-08-13T08:06:32-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/mdJ6kiqOruY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Serverless"
+        "Serverless",
+        "Developer tools"
       ]
     },
     {
