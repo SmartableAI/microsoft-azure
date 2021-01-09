@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft to establish new datacenter region in Chile"
-    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2021-01-06T00:42:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-chile/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "cBe3BhTnE8snvX9+mhu3G51hENvDj5rhvmMyHZZj3IL1rY5fK1hTP61rIFLzKMiIPYfUOayv8bBInccUFwzHgCWp8d8at0Vvq84+3YF/QsbhXZPqjnS2nx8EZC9vstzaUpObu07wBWK695u5aFa1XfeGGj7nBWXcYomofrLcNQJnoMwPOY4EOfg+sIqw5BP6k/NszEH2WiTnEGC4rqndoDX1mnThbFEjYhxuk0mCDLZ5ltHS07RVQ3max0EtekRZszi3JE8gb1wI9EBfhSsDQsCiTs5zNM3BGqoAnWfQQcih6CtwxgyUzscGLH/oxeIyB9DspCo23wlkgto0v+3TUnu/F+iPhgL5uSNUijDg5Aw=;E7TMcik5fnY/Y9FHSD+ZVw=="
 ---
