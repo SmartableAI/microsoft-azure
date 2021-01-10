@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-host-build-agent.md",
-      "title": "Host your own build agent in Azure Pipelines",
-      "excerpt": "Work with guidance from the Space Game web team to set up your build agent running on-premises or on an Azure virtual machine running in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-build-agent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-build-agent/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-monitor-report-aad-security-events.md",
+      "title": "Monitor and report on security events in Azure AD",
+      "excerpt": "Keep tabs on security events in your Azure AD resources by using built-in reporting and monitoring capabilities. Respond to events as they happen, and address security risks before they become a problem.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-report-aad-security-events/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
+      "length": "PT35M",
       "ratings": {
-        "count": 1831,
-        "average": 4.710541
+        "count": 244,
+        "average": 4.577869
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-report-aad-security-events-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -42,8 +42,11 @@
       "type": "course",
       "price": "Free",
       "topics": [
+        "Azure",
+        "Identity",
         "DevOps",
-        "Azure"
+        "Management Tools",
+        "Security"
       ]
     },
     {
@@ -77,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 15965,
-            "average": 4.782274
+            "count": 15978,
+            "average": 4.782138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -95,7 +98,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 165,
+          "heat": 166,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -119,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 2247,
-            "average": 4.7730308
+            "count": 2249,
+            "average": 4.7732325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1810,
-            "average": 4.722652
+            "count": 1811,
+            "average": 4.722805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1578,
-            "average": 4.7572875
+            "count": 1579,
+            "average": 4.7574415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -477,8 +480,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 1810,
-        "average": 4.722652
+        "count": 1811,
+        "average": 4.722805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
       "length": "PT22M",
       "ratings": {
-        "count": 1578,
-        "average": 4.7572875
+        "count": 1579,
+        "average": 4.7574415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16285,
-            "average": 4.6943197
+            "count": 16286,
+            "average": 4.694339
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -658,8 +661,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 13964,
-            "average": 4.713334
+            "count": 13966,
+            "average": 4.7133756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 458,
-            "average": 4.5895195
+            "count": 459,
+            "average": 4.590414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +907,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 287,
-            "average": 4.3937283
+            "count": 288,
+            "average": 4.3958335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1832,8 +1835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1890,
-            "average": 4.7232804
+            "count": 1891,
+            "average": 4.723427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1868,8 +1871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3151,
-            "average": 4.6864486
+            "count": 3152,
+            "average": 4.686548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1938,8 +1941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1498,
-            "average": 4.7176237
+            "count": 1499,
+            "average": 4.717812
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2235,8 +2238,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3151,
-            "average": 4.6864486
+            "count": 3152,
+            "average": 4.686548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,8 +2308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1890,
-            "average": 4.7232804
+            "count": 1891,
+            "average": 4.723427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2341,8 +2344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
           "length": "PT18M",
           "ratings": {
-            "count": 1498,
-            "average": 4.7176237
+            "count": 1499,
+            "average": 4.717812
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2778,7 +2781,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/host-your-own-build-server-in-your-build-pipeline-social.png",
@@ -2891,8 +2894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3654,
-            "average": 4.7643676
+            "count": 3655,
+            "average": 4.7644324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4029,8 +4032,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
       "length": "PT22M",
       "ratings": {
-        "count": 1890,
-        "average": 4.7232804
+        "count": 1891,
+        "average": 4.723427
       },
       "provider": {
         "name": "Microsoft Learn",
