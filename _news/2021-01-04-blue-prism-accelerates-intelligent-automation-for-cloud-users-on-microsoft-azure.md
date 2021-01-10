@@ -144,6 +144,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "BUqYIborbjwoop7qnm21Ake/F6uah8sPxU0cNo8sTH1uMmh+sLxPdRItrepaPRH4uYgHYdal9RVKHpZjS6nc8L0VBoCUKOw9AOiOT2jn985sUshKDh2kLgy2DleXzHmanAkn01B15DEV4oGpAvr3K8CQadsZOHgqRdN/T/NG/pEXdYNOfynkTbwmLOaCeGn/ej04yJhbO6saBJuXE+lycOa6SdDNnNYNtmIEjFElblkoPea+Ph2VRJhMmeDi4X3CGyfNtj6dyV8sgaGyJb+xzmcMicpx7B2vn0x+tpejTtFt25ILj6cmfnCgxqprQhzOAUA2FmqfoKduTg49NyvDu4BTJ8eI6JBiUSO5PCJNt8c=;bl20jmg85rxymxIH5K2ivQ=="
+secured: "kc5gy1XNmzh7u1TrcAzG/yMDQ8vZzzvHOvjkm2bBdaOo/xVyi/S2TBtPq1WFIW01MGJ96n67AP/W+nPm13KpLjTLIZ3dxfzxaNfNdspReHOy9v813zlDUQ/4vumcRqkrHxiY3cELm79S0U2D1f7kNTB+UUWhKs4IhnNGJLe370t/sv8c4JnJSeDu5Jl/TQRd7VTvWebMb+PYBDvqDE4M3BmJyzxG9QfjjdO71QVwrAbNUJboWi4Y3zBE54RbW0w0hi35ZMtyLDu5BHF0IBvQG59BSeVwuXXHTFnr+/MDRH9sUMBsAy+/p9NP6n/wmpjH3lgUlSADSa71WvI+OXLdloE/bcde9+QsWADguduyGuw=;CV9/N8KNwCDZOhFsd7Zr5g=="
 ---
 
