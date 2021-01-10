@@ -4,15 +4,15 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming.md",
-      "title": "Process streaming data with Azure Databricks structured streaming",
-      "excerpt": "Process streaming data with Azure Databricks structured streaming",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
+      "title": "Perform model selection with hyperparameter tuning",
+      "excerpt": "Perform model selection with hyperparameter tuning",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
+      "length": "PT33M",
       "ratings": {
-        "count": 79,
-        "average": 4.594937
+        "count": 25,
+        "average": 4.72
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/process-streaming-data-azure-databricks-structured-streaming-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -351,8 +351,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
       "length": "PT35M",
       "ratings": {
-        "count": 409,
-        "average": 4.765281
+        "count": 410,
+        "average": 4.765854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +603,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/start-ml-lifecycle-mlops/",
       "length": "PT30M",
       "ratings": {
-        "count": 38,
-        "average": 4.763158
+        "count": 39,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,14 +1188,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
-      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
-      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M24S",
+      "path": "_learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday.md",
+      "title": "Anomaly detection using machine learning in Azure Stream Analytics | Azure Friday",
+      "excerpt": "Azure Stream Analytics is a fully managed serverless offering on Azure. With the new Anomaly Detection functions in Stream Analytics, the whole complexity associated with building and training custom machine learning (ML) models is reduced to a simple function call resulting in lower costs, faster time",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Ra8HhBLdzHE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ra8HhBLdzHE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M59S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1208,11 +1208,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-05T22:02:39-07:00",
+      "publishedDateTime": "2019-02-27T17:00:46-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ra8HhBLdzHE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1223,7 +1223,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Analytics"
       ]
     },
     {
