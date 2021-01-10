@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-north-region/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:
