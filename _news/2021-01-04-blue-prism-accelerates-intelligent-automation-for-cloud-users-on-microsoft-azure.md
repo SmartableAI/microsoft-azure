@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
-publishedDateTime: 2021-01-04T14:00:00Z
+excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+publishedDateTime: 2021-01-04T14:09:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
 webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
 type: article
@@ -144,6 +144,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "t1VROWDUy84GUxpFa77GDvTwFVKkKgJ8mbrI5a3DrqsmmZm/UnL4auqlb+mttGt3omi+0FwBbYZ3St7dICkddhSFJOIl+uyxpBUfZJ5FbDlIY4doGtTTazYXds2dA+FV1lsu77dmUuc1ns6pjxcDIOKDD0d/2JCGQMItEaQr5hclc//gXCT9Ee7zKjyHTa7LPfYFlIu3cxUcY5AgGRbKnswyTXJGRLa9/99DhMTkjJR4N5gY+rOP1g/9A+LkXjpDed4Hgo5MLN2+3kfMxTbrd5GQf/Jem3VDiyppi3EzuCfPEflD3zR3P7di1ajlTv3JTQGR2aCZd1K7t+uAiGEA/MTGUjKZofh2t7OYZIpMqnw=;uGm0B4tp04WxUg2+w7C71w=="
+secured: "s/lmA3f2m0DZqUJgXL5EjPOS/DHNbQjLQbe1da7wBZXre497x/Ql3W4HEblzTj2QJXk4+s0wIKb/g/T+jukGQqU2DJbDX8/CfvTP3faXdZGUNkOaHFMNix3AIRXE+8UtopHwzaW0ssdOU8gjPBtzsJ51UU1S741//gDoAuKyHSYoGI6rW2SsZB4BbXXJBQVoa+5zvumS6D9QDoMLuYDr8drhbkv9LqbPORxpD0FolkNes3lazaD30g/UFw0LDxVB322NgUS8JpM+BSyiaM9Jotj61B3NaEQSHDMet9iIEEt+C45wgyJR7nfwynadMNAshZ4NuPPgwy5p7cEZPXht1Dhg6PNmS2K7i8hl4wro88Q=;o40Gfai8HPZzX9b9o1gfzQ=="
 ---
 
