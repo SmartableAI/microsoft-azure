@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-publishedDateTime: 2021-01-05T20:52:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
+publishedDateTime: 2021-01-06T00:00:00Z
+originalUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
 type: article
-quality: 32
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+    width: 620
+    height: 250
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-    excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
-    publishedDateTime: 2021-01-06T00:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 53
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
-        width: 620
-        height: 250
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
@@ -132,6 +118,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z
@@ -160,6 +160,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "6EXt1pZr9FXpyTSjaMo4gjLRISqK35f+O4xr83tfiSSP5oU249WEx8VdLYq6tx4vHCH+Es/nGcTHRYypoh5wbfzJ1hy5gFs01VuFsfs8tvJLpJbVMxsGOoow1VQHaKQ5hDwGldSsWypOUOw9jcHaA7J4AF9DYsaRLkEN0sRKMt6YfyAkDbVD0jCGA8H+zMOqtybkptnMO6HMwllHSl7H2PqRxi+sdQBbfBMrgb+i8NHgZJ7QHfI5C1/peV3MspkzpvrKhpotw7VTa4RTQWU2xLY6qBZqj2ypq/sEGixIeDrLZWvmQdCyqWK9WUglYHDQ/lCFow0RPzBfjKACKrsVqCvvY+XkUOFnoIF6QP3Q7MU=;pfLRp1kT3F7+/IlOWp0rzg=="
+secured: "/iAkQEURjFiZVeONA9+Byp1JLeIpYDEfe/olj89kgCtjnj5B/hyjskQSuiJtUNi/SFCamLhI8Mk5OcNmey/soLoJFX+bXG8Co2IDcL3tIRrEwg0xAqUfUyx5AKHhZIemSsyRpE2ZxETmR/HU6qQJ69kjzGjG/kz+SX9YKClZCwinyavVMqN/lpjPFZ26pAy5gCNnNlxxnh0nl3sPJ5v+n7/9I7yiMiE1L9Fd1jXREdh0V55VwdysgzDf95Xw4jWQsuBPuChsUMgf0cipYFt0wvU2U/lU7qFk6UFo7vwuwDXcM4SXZUoAGArVHGRIlbrF0Zc7v4SEq1VKzfK0ncwnVY4YuEg6kqQW5ilW3pcmTb4=;2gzeCwqI9BB1kNNAYoar0g=="
 ---
 

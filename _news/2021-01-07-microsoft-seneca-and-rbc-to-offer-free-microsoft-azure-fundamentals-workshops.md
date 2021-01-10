@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
-publishedDateTime: 2021-01-06T17:44:00Z
-originalUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+publishedDateTime: 2021-01-06T18:37:00Z
+originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
     width: 620
     height: 250
     isCached: true
@@ -57,6 +57,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
+    publishedDateTime: 2021-01-06T00:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 53
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
@@ -144,6 +160,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "YEcqcsbbiuynA95sQbhitXyVjAV8rKCwyYaWyCc+8x4YOIdL3irzQq5FWhtocP2Z3v1dWwH6YX6Dltg/62qYF6USYD5xxAp/gPzKaAC+b2vDiGAMQqf3S1OSd6i8Dj/2eVWOebI3yskIRn3iXXFtcYHT1xX8qmiVM3gng1hDpOnvs3bQoC1ktXc2/Kq+u12KCI4a4b3CoElISIxWjeFM5+MEZ7HiJP5nJm3k73poQwzquDEmcq2UolNDNrhvs5oIAjoLCjNIB4Q1+Z60vtkvXFK+y7eNXGjAzoOWmcL3t/ugf4L7CJ46lVgk0b1NgqTkBwK6OvTVEQlK3xbQtbxX1oigd79ZirpfL1rqBEjspHGBbnAnvwI6viX/2W6xrrPHXVbIwnstx2AOC4ZBbiJ+XWICZVUt2yg3v1Aqx52rZxYUu9h0qxoroS08Yw92b0qSG5mm7WRiC0dngvkgLPABf30Vi5jYWxBcWCd2QhcjXlArX5Xa2IWr4jtGzrUkQEGijTWvryhGePNMRBBP1Kf9+w==;EVTDmzhZHpRRVu6kNMyEgg=="
+secured: "HwbYR9ZRWtXfncDWY2eKY3TXGl4U10bS4LZznMNSKf/ettv621CPihdfqWf3QpxF5CDZQwOxEReMgVFBQinvADnP0IxZQU/A15zBjW7WS0LBJtmrIbN1HcUMIlcHlWM059EMwIUMkZIX6ClP5Lm5YQB0cg8MknVX9tUwDnXhgrVgu3jr5pDnxHYVuf3y8eGfZVtq4iXGVmGr/rRoTJfuNggMOw6/f8T6xub2YIvL9wBjM0QDvyBGtREdzaIyhnziNHf2PJ4pgrlPOGOMf86AFBr0+IFCBHIpmEiAM0KvPmzwVxswNLXuzSU1gEdmQZOjPhoV15ZlFTCAozbsn/oCrBIZf6Ra8KZwWnp6UD4FkUU=;g4W+n6Yl5FMopFE+P0l1Mg=="
 ---
 

@@ -57,8 +57,8 @@ related:
         height: 428
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-    excerpt: "Seneca College has teamed up with Microsoft Canada and the Royal Bank of Canada (RBC) to help Canadian students, graduates and professionals attain skills in data analytics, artificial intelligence and cloud computing."
-    publishedDateTime: 2021-01-06T17:44:00Z
+    excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
+    publishedDateTime: 2021-01-06T00:00:00Z
     webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
     ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
     cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
@@ -69,6 +69,22 @@ related:
     quality: 53
     images:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+    publishedDateTime: 2021-01-06T18:37:00Z
+    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 53
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
         width: 620
         height: 250
         isCached: true
@@ -144,6 +160,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "3wWOSMhw+da44JR5BK+fuJH/WwpXypjt/ItHj2LrT2+9jV6NFxp6Q+cfmSJNM5TkSIEJ/xp0TDsAIDWq1wNDTJfBV2+GGkdq+kBvyOChucL8Uy4SMLm7qYFfFt1nFmDNOK6uXjPLmxanIEPKLzc8gSc5GY29AMjMPMM44iuT6hUaiIhP9Jb+C24nDxM7QpK9o+ZGPIzghjcu/nKPn1BzkjGB0WcsL3+eKstPEIRyR1o/AD+8DkPabSBXXwRYG0PNXgznCuKR98LObcOm5bafDbjUHx4Qd7pMj/mVz881qACr2i/7gntryoUAVTmEAThLe5oxgvmz7SIPi48ZcE0awPbWnLS4n+Rb65nRozoDZi8=;xWEUGT2v0XF+HekGvbEARg=="
+secured: "nWDMZGB5IKhUI/or+QA5gRic8KpciQZW0hEcAxEIOkeUA8CX76HYu+AndRcnO1DzUsJD3xVNpYRzP6gpFAcCbgSStu+ZKWZL2/2ne8nFyZtOCOiDTilFDcFbVlTq+MXVWQmjuV1gi+ZuYyl4CtTik9XCMCF7JqkPpEITRn7+LxwAYotq3bAsHTtuJCuR4JEtlnnsM3+6H7drQa7Ft/rpB2mN0drTCf9F4SAk2Y94JRemMr9FOiuhAfgR14Vdeh/HtRkh3gOLMfxY8qh7zwyCT+2fTr/To6pTITOuzbO4oDPsItpIoZZNtGqGuYGK7Kv+1cDKbXa1Qc5Ellco1qN7nY84GqUdIGsLe3rD6w+Rdbw=;E5F0cw/1HKFNuEr2/atb0w=="
 ---
 
