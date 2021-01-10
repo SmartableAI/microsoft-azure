@@ -4,7 +4,7 @@ excerpt: "Follow this learning path for a broad and compelling introduction to t
 type: collection
 price: Free
 length: PT9H48M
-heat: 108
+heat: 171
 
 provider:
   name: Microsoft Learn
