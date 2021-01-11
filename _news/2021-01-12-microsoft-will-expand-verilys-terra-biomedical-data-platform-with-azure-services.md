@@ -191,18 +191,18 @@ related:
         height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
-    publishedDateTime: 2021-01-11T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
+    publishedDateTime: 2021-01-11T12:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
-        width: 1080
-        height: 564
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
@@ -290,6 +290,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "78OiC9ChBIdtdjUFcCrh0tTuyQAwPN39HDu407M6hwQOelEj4vB6eOpeMAmLB0nduO4yVGMZFMlTTggsGPQmIruDi2aGhae6uSXeEIFEok67e59H8e8vzBcZIuXsRISAYeMp1QP8Lm2eFQOiKBmlX42un5SwR/BGW0yJcw3v0nBP/vV9em237vHjWfJutcVojhSwRPf4Yz6ftuk3KdGZe1p/somJzZW1m5g/sn9P6PpuJDvsY+kTOlYL3jPjJ6CUSFU3ZKQfiYl5vIDWtxL2BlpiIMBlGA2xUQNFGf2UtPi3E10FbqoNmv+tGta2EnNe2nD3R+R/hv9R4VhcSnUlyXx05PYDMyRivLlK1W6d4X8=;esbpICRqr+dPnoHZtt8yhQ=="
+secured: "d1f8mh/sHEwoOMC56QylruyhUV0H+R7+31m7N8IzmCSfEw/YhtHv33p7DlXhVGRAjZ/VSZA8KEcb8ndq8ndq0sRtPd9dHA1kQxdObjvulPpbA/PZlvy2xlY8rCLDB2OCSiOrVtL543tVl/eDQVvUnljwOUnDeTAdyYTR19xG37oC6Yt8aefnHM2UZWzsb7TehC7qEI8xgFFIvqZRCFXF3rVeomTLBOMS3HTBVaqVs+dR2eEc/fN0FATZNfkUBZUZ36zXzURcYN5p7prP22cTA7XKE2wxXgDHBcUBUW+IE6LTQW5TvhZXq07TO5F8DknsdY6v+NRCm94Tfh6ih030asBMw3qaR9KGHMtsfvLnLgo6Lqi9d2ZMucJ6ka0iLeWF/KZ9l59OzqJfECjShV0H4rz2r6NZ/vqdXIWipk9If329oueVDV/nOtcgH9N8vK2SGGTNFFN746NyCfA3I0trU8efoxpD1MPmhEsNJOsfxZUTdRV0VEpheVgUkUs2bgd+eL9SP12bVgI2Q382wm9WgA==;zNlCo5gvMh3RvmWvEE00kw=="
 ---
 

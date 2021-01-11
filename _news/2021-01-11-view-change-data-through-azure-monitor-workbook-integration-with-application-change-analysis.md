@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/view-change-data-through
 webUrl: "https://azure.microsoft.com/en-us/updates/view-change-data-through-azure-monitor-workbook-integration-with-application-change-analysis/"
 type: article
 quality: 110
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Monitoring your Azure Data Explorer Clusters with Azure Monitor (Insights) - public preview"
+    excerpt: "Azure Monitor for Azure Data Explorer (public preview) provides comprehensive monitoring of your Azure Data Explorer clusters by delivering a unified view of the performance, operations, and usage."
+    publishedDateTime: 2021-01-11T19:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/monitoring-azure-data-explorer-clusters-with-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "View changes at-scale with Application Change Analysis now in public preview"
     excerpt: "Application Change Analysis now has a new UI to view changes in all resources under selected subscriptions, without 10 rows per page limitation. Check it out and monitor your Azure resources at-scale."
     publishedDateTime: 2021-01-05T17:30:03Z
