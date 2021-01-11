@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
     excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"
     publishedDateTime: 2020-09-10T12:02:00Z

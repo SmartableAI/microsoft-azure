@@ -168,6 +168,20 @@ related:
         width: 600
         height: 335
         isCached: true
+  - title: "Microsoft Azure Sphere Security Overview"
+    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
+    publishedDateTime: 2020-04-01T18:33:00Z
+    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
+        width: 979
+        height: 456
+        isCached: true
   - title: "Cloud Market Share 2020: Amazon AWS, Microsoft Azure, Google, IBM"
     excerpt: "In the cloud infrastructure services market, Amazon Web Services (AWS) continues to be the market share leader, followed by Microsoft Azure and Google Cloud Platform (GCP), according to Q2 2020 research from Synergy Research Group. Not by coincidence ..."
     publishedDateTime: 2020-08-03T13:54:00Z
@@ -293,6 +307,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "PUBG is Coming to Microsoft Azure"
+    excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
+    publishedDateTime: 2020-11-07T15:22:00Z
+    webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
+        width: 1066
+        height: 602
         isCached: true
   - title: "Tradeteq hops on Microsoft Azure"
     excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."

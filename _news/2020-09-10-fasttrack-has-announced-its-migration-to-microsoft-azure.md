@@ -217,6 +217,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Clean Energy Regulator to power up AI tools after Microsoft Azure shift"
+    excerpt: "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,"
+    publishedDateTime: 2020-09-10T02:23:00Z
+    webUrl: "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Cooling loss causes outage at Microsoft Azure's UK South region"
     excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
     publishedDateTime: 2020-09-15T14:14:00Z

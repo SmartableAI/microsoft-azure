@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/"
 type: article
 quality: 120
-heat: 1340
+heat: 1320
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595772%2Fsatellite-in-space-orbiting-the-earth.jpg&w=1200&op=resize"
         width: 1200
         height: 960
-        isCached: true
-  - title: "Microsoft's new Azure data services explained"
-    excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."
-    publishedDateTime: 2021-01-07T00:56:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
     excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."

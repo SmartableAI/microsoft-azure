@@ -66,6 +66,54 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Hackers spoof new Azure AD and Microsoft 365 sign-in pages"
+    excerpt: "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede"
+    publishedDateTime: 2020-05-18T16:38:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
+        width: 2957
+        height: 1958
+        isCached: true
+  - title: "Microsoft just gave the Sony AI camera an Azure brain"
+    excerpt: "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a"
+    publishedDateTime: 2020-05-18T18:24:00Z
+    webUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/"
+    ampWebUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 97
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
+        width: 2307
+        height: 1334
+        isCached: true
+  - title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
+    excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
+    publishedDateTime: 2020-05-18T21:05:00Z
+    webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/"
+    ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 97
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
+        width: 1260
+        height: 709
+        isCached: true
   - title: "Azure Arc, Microsoft’s service for managing cloud resources anywhere, is now in public preview"
     excerpt: "At its Build developer conference, Microsoft today announced that Azure Arc, its service for managing cloud resources anywhere, including competing clouds like AWS and GCP and platforms like Red Hat’s Open Shift,"
     publishedDateTime: 2020-05-19T15:07:00Z
@@ -244,6 +292,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200519&t=2&i=1519179146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG4I1BJ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Sony and Microsoft team up on AI-powered cameras"
+    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
+    publishedDateTime: 2020-05-19T09:17:00Z
+    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
+        width: 600
+        height: 350
         isCached: true
   - title: "Microsoft is building Industry Clouds for health care and other fields"
     excerpt: "Microsoft is building cloud solutions to address the unique needs of various fields. The first Industry Cloud is the Microsoft Cloud for Healthcare."

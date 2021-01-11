@@ -226,6 +226,22 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
+    excerpt: "To that end the partnership will make it easier for Azure customer to run SAS-based workloads in the cloud, with it said to also hold value as far as digital transformation goes. “Through this partnership, Microsoft and SAS will help our customers ..."
+    publishedDateTime: 2020-06-18T12:16:00Z
+    webUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/"
+    ampWebUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 57
+    images:
+      - url: "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
     excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T15:31:00Z
@@ -594,6 +610,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1177967/Collaborative_Drug_Discovery_Logo.jpg?p=facebook"
         width: 2498
         height: 1309
+        isCached: true
+  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2020-11-17T18:20:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Richardson RFPD Now Offers Microsoft Azure Services"
     excerpt: "GENEVA, Ill.--(BUSINESS WIRE)--Richardson RFPD, Inc., an Arrow Electronics company, announced today that it has joined the Microsoft Cloud Solution Provider program and is now offering Microsoft ..."

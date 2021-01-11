@@ -30,516 +30,404 @@ images:
     isCached: true
 
 related:
-  - title: "Extending the power of Azure AI to Microsoft 365 users"
-    excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
-    publishedDateTime: 2020-03-30T08:30:32Z
-    webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
+  - title: "Microsoft Azure, 5G and hybrid cloud: What you need to know"
+    excerpt: "It's a vision that's core to Microsoft's current strategy, focused on delivering the tools needed to build a hybrid cloud that reaches from the hyperscale global computer of Azure into Windows, and then on down into the smallest of devices,"
+    publishedDateTime: 2020-06-01T11:02:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
-        width: 1187
-        height: 821
-        isCached: true
-  - title: "Hackers spoof new Azure AD and Microsoft 365 sign-in pages"
-    excerpt: "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede"
-    publishedDateTime: 2020-05-18T16:38:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
+      name: TechRepublic
+      domain: techrepublic.com
     quality: 97
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg"
-        width: 2957
-        height: 1958
-        isCached: true
-  - title: "Microsoft just gave the Sony AI camera an Azure brain"
-    excerpt: "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a"
-    publishedDateTime: 2020-05-18T18:24:00Z
-    webUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/"
-    ampWebUrl: "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 97
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg"
-        width: 2307
-        height: 1334
-        isCached: true
-  - title: "Sony to use Microsoft’s Azure AI technology in new smart camera sensors"
-    excerpt: "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also"
-    publishedDateTime: 2020-05-18T21:05:00Z
-    webUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/"
-    ampWebUrl: "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg"
-        width: 1260
-        height: 709
-        isCached: true
-  - title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
-    excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
-    publishedDateTime: 2020-03-24T14:00:25Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 91
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
-        width: 377
-        height: 212
-        isCached: true
-  - title: "Microsoft partners with the industry to unlock new 5G scenarios with Azure Edge Zones"
-    excerpt: "Cloud, edge computing, and IoT are making strides to transform whole industries and create opportunities that weren't possible just a few years ago. With the rise of 5G mobile connectivity, there are even more possibilities to deliver immersive, real-time experiences that have demanding, ultra-low latency,"
-    publishedDateTime: 2020-03-31T08:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-partners-with-the-industry-to-unlock-new-5g-scenarios-with-azure-edge-zones/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cddd85e8-8aa8-4290-b5d4-22f41eeb03eb.png"
-        width: 1023
-        height: 484
-        isCached: true
-  - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
-    excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
-    publishedDateTime: 2020-04-16T19:38:00Z
-    webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html"
-    ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
-        width: 600
-        height: 350
-        isCached: true
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=367ee89763943fe5bf2550b7ae4f7fa87ca6b3bb"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Coca-Cola partners with Microsoft to use its cloud and AI services"
-    excerpt: "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365."
-    publishedDateTime: 2020-04-27T17:00:00Z
-    webUrl: "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services"
-    ampWebUrl: "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 82
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft Earnings Defy the Pandemic"
-    excerpt: "After gaining 4.5% during regular trading hours, shares of Microsoft (NASDAQ:MSFT) rose after hours on Wednesday when it reported its fiscal third-quarter earnings. That period included March, a month in which much of the economy had to be shut down to contain the spread of COVID-19,"
-    publishedDateTime: 2020-04-30T17:39:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570470%2Fgettyimages-1172877307.jpg&w=1200&op=resize"
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/01/12a49242-cb6f-466e-ac30-2f1d48e27d5a/resize/1200x/f2fbe90de778e11920caa51ecc173d36/tr-azure-edge-zones-2.jpg"
         width: 1200
-        height: 534
+        height: 815
         isCached: true
-  - title: "Sony and Microsoft team up on AI-powered cameras"
-    excerpt: "Sony and Microsoft are working on AI-powered cameras together. The two tech giants have announced that they’re embedding Microsoft Azure’s AI capabilities into Sony’s new image sensor, the IMX500, which comes with an onboard AI chip that processes information in real time."
-    publishedDateTime: 2020-05-19T09:17:00Z
-    webUrl: "https://www.engadget.com/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    ampWebUrl: "https://www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-microsoft-team-up-ai-powered-cameras-091449976.html"
+  - title: "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere"
+    excerpt: "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution."
+    publishedDateTime: 2020-05-31T02:58:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Quantum Computing Trifecta Previewed On Microsoft Azure Quantum At Build 202"
+    excerpt: "Goodson gives his take on this year's Microsoft Build 2020. Along with other announcements, Microsoft highlighted Azure Quantum."
+    publishedDateTime: 2020-06-02T17:04:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/06/02/quantum-computing-trifecta-previewed-on-microsoft-azure-quantum-at-build-202/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 94
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed684ac10716f0007411961%2F0x0.jpg"
+        width: 732
+        height: 435
+        isCached: true
+  - title: "The best Microsoft Office deals for June 2020"
+    excerpt: "Microsoft Office is paid software, so a discount is always welcome. Here are the best Microsoft Office deals you can find right now from various retailers."
+    publishedDateTime: 2020-06-01T07:23:00Z
+    webUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?itm_source=65&itm_content=2x2&itm_term=2356592"
+    ampWebUrl: "https://www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-microsoft-office-deals/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 82
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F9229e060-999b-11ea-939f-54acbb91a315&client=amp-blogside-v2&signature=f4675774e49d1699bc2ea8c11f3f382adaf9a6e7"
-        width: 600
-        height: 350
+      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/office-365-free-eduction-0001-1200x630-c-ar1.91.jpg"
+        width: 990
+        height: 630
         isCached: true
-  - title: "Microsoft Azure Speech to Text review"
-    excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
-    publishedDateTime: 2020-04-06T13:47:00Z
-    webUrl: "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review"
+  - title: "Vodafone offers free broadband and Microsoft 365 to SMBs"
+    excerpt: "Vodafone is offering SMBs free broadband and Microsoft 365 services for six months in a bid to support their post-pandemic recovery. Many small businesses have suffered from a collapse in demand during lockdown,"
+    publishedDateTime: 2020-06-02T12:05:00Z
+    webUrl: "https://www.techradar.com/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
+    ampWebUrl: "https://www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/vodafone-offers-free-broadband-and-microsoft-365-to-smbs"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 77
+    quality: 82
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Accelerating ATO in Microsoft Azure"
-    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
-    publishedDateTime: 2020-07-09T03:51:00Z
-    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
-    images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Lenovo Teams With Microsoft Azure At The Edge"
-    excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
-    publishedDateTime: 2020-03-31T15:36:00Z
-    webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/"
-    ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 57
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-scaled.jpg"
-        width: 2560
-        height: 1708
-        isCached: true
-  - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
-    excerpt: "To that end the partnership will make it easier for Azure customer to run SAS-based workloads in the cloud, with it said to also hold value as far as digital transformation goes. “Through this partnership, Microsoft and SAS will help our customers ..."
-    publishedDateTime: 2020-06-18T12:16:00Z
-    webUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/"
-    ampWebUrl: "https://www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
-    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/06/18/microsoft-and-sas-partner-to-bring-more-ai-solutions-to-azure-customers/amp/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 57
-    images:
-      - url: "https://www.htxt.co.za/wp-content/uploads/2020/06/billy-huynh-v9bnfMCyKbg-unsplash.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft powers transformation at NVIDIA’s GTC Digital Conference"
-    excerpt: "The world of supercomputing is evolving. Work once limited to high-performance computing (HPC) on-premises clusters and traditional HPC scenarios, is now being performed at the edge, on-premises, in the cloud, and everywhere in between. Whether it’s a manufacturer running advanced simulations, an energy"
-    publishedDateTime: 2020-03-24T14:00:24Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-powers-transformation-at-nvidia-s-gtc-digital-conference/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
-    publishedDateTime: 2020-11-20T16:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Microsoft Azure Sphere Security Overview"
-    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
-    publishedDateTime: 2020-04-01T18:33:00Z
-    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
-        width: 979
-        height: 456
-        isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
-    publishedDateTime: 2020-04-25T23:05:00Z
-    webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
-        isCached: true
-  - title: "Extend and migrate on-premises site to Microsoft Azure"
-    excerpt: "Learn about how to use the migration tool to programmatically create Azure virtual machines for Configuration Manager."
-    publishedDateTime: 2020-04-27T21:28:00Z
-    webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Microsoft helps Sony power the world’s first AI image sensor with Azure"
-    excerpt: "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines."
-    publishedDateTime: 2020-05-19T16:59:00Z
-    webUrl: "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Finding the right Microsoft Azure certification for you"
-    excerpt: "Looking to earn an Azure certification? Our portfolio spans from fundamentals to role-based and specialty certifications to help prove and advance your skills in modern cloud environments. For details,"
-    publishedDateTime: 2020-05-23T05:22:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/finding-the-right-microsoft-azure-certification-for-you"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Understanding Microsoft Azure certifications"
-    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
-    publishedDateTime: 2020-05-23T05:23:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
-        width: 1024
+      - url: "https://cdn.mos.cms.futurecdn.net/ot82kqZhdJYVeZpTnPbSHh-1200-80.jpg"
+        width: 768
         height: 512
         isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-28T23:28:00Z
-    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+  - title: "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure"
+    excerpt: "SAN RAMON, Calif., June 01, 2020 (GLOBE NEWSWIRE) -- WANdisco (LSE: WAND), the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively."
+    publishedDateTime: 2020-06-01T11:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure-2020-06-01"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Will Microsoft Be a $2 Trillion Stock?"
+    excerpt: "Microsoft (NASDAQ: MSFT) is the odds-on favorite to be the first company to cross the $2 trillion market cap threshold according to Wells Fargo Securities analyst Philip Winslow, citing strong growth in Microsoft's Azure cloud computing business."
+    publishedDateTime: 2020-06-02T18:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-microsoft-be-a-%242-trillion-stock-2020-06-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
+    excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA"
+    publishedDateTime: 2020-06-02T12:19:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 52
+  - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
+    excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2020-06-01T12:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/scientiamobile-s-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-1029268289"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Avanan Introduces First-of-its-Kind Cloud-Based Security for Microsoft Teams"
+    excerpt: "Avanan, the leading security solution for cloud-based email and collaboration suites, announced today their new security product to protect Microsoft Teams. Avanan is the first and only email security solution to extend the same anti-phishing,"
+    publishedDateTime: 2020-06-03T13:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avanan-introduces-first-of-its-kind-cloud-based-security-for-microsoft-teams-1029276817"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Cryptomathic ports key control to Microsoft Azure"
+    excerpt: "Cryptography solutions pioneer, Cryptomathic, has today enabled its client banks and other security-sensitive businesses to leverage Microsoft Azure’s platform while retaining lifecycle control of critical keys,"
+    publishedDateTime: 2020-06-02T09:32:00Z
+    webUrl: "https://www.finextra.com/pressarticle/82734/cryptomathic-ports-key-control-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 37
     images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-29T19:17:00Z
-    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+  - title: "Microsoft Azure Active Directory (Azure AD)"
+    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
+    publishedDateTime: 2020-06-02T08:35:00Z
+    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: SC Media
+      domain: scmagazine.com
     quality: 37
     images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Clean Energy Regulator to power up AI tools after Microsoft Azure shift"
-    excerpt: "The Clean Energy Regulator is preparing to use its new Microsoft Azure environment to trial a series of artificial intelligence tools aimed at automating emissions reduction compliance. The agency, which is tasked with monitoring and reducing emissions through initiatives like the renewable energy target,"
-    publishedDateTime: 2020-09-10T02:23:00Z
-    webUrl: "https://www.itnews.com.au/news/clean-energy-regulator-to-power-up-ai-tools-after-microsoft-azure-shift-553060"
+  - title: "Microsoft Could Be a $2 Trillion Company. Analyst Sees Gains From Cloud Business."
+    excerpt: "Microsoft stock has climbed more than 15% in 2020 as the company has avoided much impact from Covid-19. Yet Wells Fargo argues that the shares have more room to run."
+    publishedDateTime: 2020-06-02T15:33:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-could-be-a-2-trillion-company-analyst-sees-gains-from-cloud-business-51591115603"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-could-be-a-2-trillion-company-analyst-sees-gains-from-cloud-business-51591115603"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-could-be-a-2-trillion-company-analyst-sees-gains-from-cloud-business-51591115603"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: Barron's
+      domain: barrons.com
     quality: 37
     images:
-      - url: "https://i.nextmedia.com.au/News/wind_turbine_solar_cell_renewable_energy.jpg"
-        width: 1254
-        height: 836
+      - url: "https://images.barrons.com/im-193395/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "PUBG is Coming to Microsoft Azure"
-    excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
-    publishedDateTime: 2020-11-07T15:22:00Z
-    webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 37
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
-        width: 1066
-        height: 602
-        isCached: true
-  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
-    publishedDateTime: 2020-11-15T16:00:00Z
-    webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
-    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
-    publishedDateTime: 2020-11-16T19:41:00Z
-    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 37
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "It combines the power of Conversa audio processing in Microsoft Azure and Microsoft AI, with seamless support of both cloud and premise-based telephony aligned with frictionless zero touch ..."
-    publishedDateTime: 2020-11-20T13:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51302890-red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 29
-  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-    publishedDateTime: 2020-09-07T11:19:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+  - title: "Managing Hybrid and Multi-Cloud Platforms with Microsoft Azure Arc"
+    excerpt: "It includes hybrid server management, Kubernetes and Azure data services. Brendan Burns, a distinguished engineer at Microsoft, stated in a tweet: Helping deliver consistent management and policy ..."
+    publishedDateTime: 2020-08-25T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2019/11/azure-arc-hybrid-multicloud/"
     type: article
     provider:
       name: InfoQ
       domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20200821054911_1/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft previews Azure Maps Creator to enable indoor location apps and AR"
+    excerpt: "Microsoft Corp. today announced the preview of Azure Maps Creator, a new tool in its public cloud platform that will enable companies to create custom indoor maps for use cases su"
+    publishedDateTime: 2020-06-01T18:50:00Z
+    webUrl: "https://siliconangle.com/2020/06/01/microsoft-previews-azure-maps-creator-enable-indoor-location-apps-ar/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/hololens2-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
+    excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,"
+    publishedDateTime: 2020-06-05T05:43:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 32
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
+        isCached: true
+  - title: "Microsoft Announces a New Pricing Model Option for Azure Cosmos DB and More Capabilities"
+    excerpt: "During this year's digital Build event, Microsoft announced a new consumption-based pricing model for Azure Cosmos DB called 'serverless' that is ideal for spiky workloads and complements the existing provisioned throughput pricing model."
+    publishedDateTime: 2020-06-03T11:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 28
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces a New Pricing Model Option for Azure Cosmos DB and More Capabilities"
+    excerpt: "During this year's digital Build event, Microsoft announced a new consumption-based pricing model for Azure Cosmos DB called 'serverless' that is ideal for spiky workloads and complements the existing provisioned throughput pricing model."
+    publishedDateTime: 2020-06-05T05:12:00Z
+    webUrl: "https://www.infoq.com/news/2020/06/azure-cosmosdb-new-updates/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 28
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20200602-0333/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Correction: Netreo Acquires Microsoft Azure Monitoring Company CloudMonix To Expand Capabilities"
+    excerpt: "CloudMonix, a Chicago-based cloud infrastructure monitoring company specializing in advanced insight into system performance, auto-scaling of resources, automation of issue resolution and self-healing to ensure uninterrupted service."
+    publishedDateTime: 2020-06-02T15:42:00Z
+    webUrl: "https://apnews.com/48df5e254e8e84907d3dbce77a3b226f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "How to use Microsoft 365 Universal Print"
-    excerpt: "Microsoft is hoping to make it easier for organizations to give Azure Active Directory (AAD) joined and MDM-managed devices access to printers."
-    publishedDateTime: 2020-05-04T12:01:00Z
-    webUrl: "https://www.petri.com/how-does-microsoft-365-universal-print-work"
+  - title: "Here's When I'd Adjust My Position Size in Microsoft"
+    excerpt: "I have long been a fan of Microsoft . I have long been a fan of Microsoft CEO Satya Nadella. The name is and has been a staple of my most highly managed portf"
+    publishedDateTime: 2020-06-02T14:50:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/here-s-when-i-d-adjust-my-position-size-in-microsoft-15338218"
     type: article
     provider:
-      name: petri.com
-      domain: petri.com
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 22
     images:
-      - url: "https://www.petri.com/wp-content/uploads/sites/3/2017/11/m365.jpg"
-        width: 1280
-        height: 720
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/07a7b3af-aa2a-11e9-bc6a-93daea8853a2.png"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Extension Sync is Finally Coming to Microsoft Edge"
-    excerpt: "Four months after Microsoft took its new browser out of preview, Edge is getting extension sync, paving the way for automatic deployments."
-    publishedDateTime: 2020-05-22T12:17:00Z
-    webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/236458/extension-sync-is-finally-coming-to-microsoft-edge"
+  - title: "Microsoft Stock Could Break Out to New Highs"
+    excerpt: "Microsoft stock is trading just below the February all-time high and could break out, entering a sustained uptrend."
+    publishedDateTime: 2020-06-02T13:50:00Z
+    webUrl: "https://www.investopedia.com/microsoft-stock-could-break-out-to-new-highs-4846614"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
+      name: Investopedia
+      domain: investopedia.com
     quality: 22
     images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/edge.jpg"
-        width: 1066
-        height: 600
+      - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
+        width: 680
+        height: 440
         isCached: true
-  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2020-11-17T18:20:00Z
-    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+  - title: "Top three ways to get the most out of Microsoft Teams for your small business"
+    excerpt: "From its chat-based interface, integrations with other Microsoft apps, or other services here are the top three ways you can get the most out of Teams for your small business. Use Microsoft Teams to manage your files with the Files experience."
+    publishedDateTime: 2020-06-01T16:06:00Z
+    webUrl: "https://www.onmsft.com/how-to/top-three-ways-to-get-the-most-out-of-microsoft-teams-for-your-small-business"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: On MSFT
+      domain: onmsft.com
+    quality: 19
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/04/Microsoft-Teams.jpg"
+        width: 1024
+        height: 559
         isCached: true
-  - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
-    excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
-    publishedDateTime: 2020-04-27T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
+  - title: "Netreo Acquires CloudMonix; MSPs Gain Microsoft Azure Cloud Monitoring"
+    excerpt: "Netreo acquires CloudMonix, which offers Microsoft cloud monitoring services designed for MSPs (managed IT services providers), CSPs & DevOps teams."
+    publishedDateTime: 2020-06-03T12:25:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/netreo-acquires-cloudmonix/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: ChannelE2E
+      domain: channele2e.com
     quality: 17
+  - title: "Europe’s Gaia-X Counters Amazon AWS, Microsoft Azure, Google Cloud"
+    excerpt: "X, backed by European governments & local technology companies, seeks to offer open standards alternatives to Amazon AWS, Microsoft Azure, Google Cloud Platform & Alibaba Cloud."
+    publishedDateTime: 2020-06-05T15:28:00Z
+    webUrl: "https://www.channele2e.com/channel-partners/csps/europes-gaia-x-counters-aws-azure-google-cloud/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
+  - title: "DevOps Enabler & Co. achieves a Microsoft Gold DevOps and Cloud Platform Competency"
+    excerpt: "DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps and Cloud Platform competency,"
+    publishedDateTime: 2020-06-01T07:21:00Z
+    webUrl: "https://www.sify.com/finance/devops-enabler--co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-news-topnews-ugbqn5hgeidac.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 16
     images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://www.sify.com/uploads/DevOpsEnabler_ugbqn5hgfaeea.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Microsoft Becoming NBA's Official AI Partner"
-    excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
-    publishedDateTime: 2020-04-18T03:39:00Z
-    webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
+  - title: "Samsung Access upgrade plan offers Premium Care, Microsoft 365 and 1TB cloud storage"
+    excerpt: "Samsung Access will let you own a Galaxy S20 series phone by paying a monthly fee, and then upgrade to a new flagship after a period of nine months."
+    publishedDateTime: 2020-06-01T17:14:00Z
+    webUrl: "https://pocketnow.com/samsung-access-upgrade-plan-offers-premium-care-microsoft-365-and-1tb-cloud-storage"
     type: article
     provider:
-      name: SportsBusiness Daily
-      domain: sportsbusinessdaily.com
-    quality: 2
-  - title: "C3.ai picks Microsoft Dynamics 365, Teams to power next phase of growth"
-    excerpt: "AI software provider C3.ai said it plans to enhance its customer experience and elevate sales performance using intelligent cloud technology from Microsoft. C3.ai adopted and deployed Dynamics 365 Sales and Microsoft Teams in less than two weeks to help streamline sales operations,"
-    publishedDateTime: 2020-04-28T07:55:00Z
-    webUrl: "https://www.telecompaper.com/news/c3ai-picks-microsoft-dynamics-365-teams-to-power-next-phase-of-growth--1336269"
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 15
+    images:
+      - url: "https://pocketnow.com/wp/../files/2020/06/samsung_access.jpg"
+        width: 1197
+        height: 759
+        isCached: true
+  - title: "Netreo Acquires Microsoft Azure Monitoring Company CloudMonix To Expand Capabilities"
+    excerpt: "Dashboard detailing key Microsoft Azure metrics captured by the CloudMonix platform. Huntington Beach, Calif., June 02, 2020 (GLOBE NEWSWIRE) -- Netreo, the award-winning platform for IT ..."
+    publishedDateTime: 2020-06-02T15:01:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/06/02/2042399/0/en/Netreo-Acquires-Microsoft-Azure-Monitoring-Company-CloudMonix-To-Expand-Capabilities.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 10
+  - title: "Heritage Insurance Upgrades to Version 11 of Majesco Claims for P&C and Transitions to Majesco CloudInsurer® on Microsoft Azure"
+    excerpt: "Majesco (NASDAQ: MJCO), a global leader of cloud insurance software, today announced that Heritage completed its upgrade to version 11 on April 25, 20"
+    publishedDateTime: 2020-05-27T21:25:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200527005792/en/Heritage-Insurance-Upgrades-Version-11-Majesco-Claims"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200527005792/en/709834/23/Majesco_Logo_Transparent_Purple.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "InfiniteIO Announces Integration with Microsoft Azure to Reduce Cloud Latency and Storage Costs"
+    excerpt: "InfiniteIO's new data management integration with Microsoft Azure dramatically reduces the cost of primary file storage and minimizes cloud latency."
+    publishedDateTime: 2020-06-08T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200608005388/en/InfiniteIO-Announces-Integration-Microsoft-Azure-Reduce-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
+  - title: "Wells Fargo sees big upside in Microsoft"
+    excerpt: "Microsoft (NASDAQ:MSFT) should have a market cap north of $2T in two years (vs. about $1.4T today), says Wells Fargo, lifting its 12-month price target to a Street high $250, or 37% above last night's"
+    publishedDateTime: 2020-06-02T11:21:00Z
+    webUrl: "https://seekingalpha.com/news/3579464-wells-fargo-sees-big-upside-in-microsoft"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 2
+  - title: "DevOps Enabler & Co. Achieves a Microsoft Gold DevOps and Cloud Platform Competency"
+    excerpt: "Bengaluru, Karnataka, India: DevOps Enabler & Co., the company behind an exclusive startup bundle for organizations that want to scale their operations, today announced it has attained a gold Microsoft DevOps And Cloud Platform competency, demonstrating a “best-in-class” ability and commitment to meet Microsoft Corp. customers’ evolving ..."
+    publishedDateTime: 2020-06-02T08:18:00Z
+    webUrl: "https://www.businesswireindia.com/devops-enabler-and-co-achieves-a-microsoft-gold-devops-and-cloud-platform-competency-68193.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "hVzSK2VsMqS3M45uyotuS/R7QsQ8P9QgU63esTCOKwbJqCTwivYMY8q0af3SSR9svbNldoptshPL9G26kYSWSJbydGzN/lbo4hFnyh4npyTflLskmSBJ/xTcShbtXAgMUSDAnsW4ZA/sgH5K1m1yTAPd78akFOSLI//dYhLCnKKMIOzgJlnULeM3cxCxHQhaCEufQgEnvic8xAF5sZ/8ILTLGYGLslDAOU/3DuwmfjfpdQubvI6dwqNuSiHkAnMXKmjftQwwmL7ALAT0bUYuyJUc8/7wzLZolwPgE27LaLnWIMNbgKC5Uu78/YzET4QzXXE8N8/1QKwLrWF0lKkQ6wTYqrb4NeiDxMqTrDLxAsc=;brfzzaZgWdjwS1Ti3qdcjg=="
 ---

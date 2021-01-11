@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
     excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
     publishedDateTime: 2020-09-04T14:42:00Z

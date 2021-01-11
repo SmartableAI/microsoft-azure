@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2777
+heat: 2877
 published: true
 
 provider:
@@ -609,6 +609,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lenovo Teams With Microsoft Azure At The Edge"
+    excerpt: "The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating in a hybrid cloud model, with a presence both on-premises and in the cloud. Microsoft actually pre-announced the new ThinkAgile MX1021 at its Ignite 2019 ..."
+    publishedDateTime: 2020-03-31T15:36:00Z
+    webUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/"
+    ampWebUrl: "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
   - title: "Microsoft and Sony partner to make smart cameras smarter with Azure AI"
     excerpt: "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios."
     publishedDateTime: 2020-05-18T20:16:00Z
@@ -1097,6 +1117,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft helps Sony power the world’s first AI image sensor with Azure"
+    excerpt: "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines."
+    publishedDateTime: 2020-05-19T16:59:00Z
+    webUrl: "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/microsoft-3.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Microsoft is integrating Azure AI into Sony’s smart camera sensors"
     excerpt: "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled."
     publishedDateTime: 2020-05-19T10:34:00Z
@@ -1194,6 +1228,34 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2020/05/StorageReview-Veeam-Azure-Intro.jpg"
         width: 700
         height: 439
+        isCached: true
+  - title: "Finding the right Microsoft Azure certification for you"
+    excerpt: "Looking to earn an Azure certification? Our portfolio spans from fundamentals to role-based and specialty certifications to help prove and advance your skills in modern cloud environments. For details,"
+    publishedDateTime: 2020-05-23T05:22:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/finding-the-right-microsoft-azure-certification-for-you"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Understanding Microsoft Azure certifications"
+    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
+    publishedDateTime: 2020-05-23T05:23:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Microsoft wins no-bid MOD contract for £17.75 million for cloud support services"
     excerpt: "Don’t tell Amazon, but Microsoft was just awarded a £17.75 million contract to provide cloud support services to the Ministry of Defence in UK on the basis that no-one else could provide the same service."
@@ -1633,6 +1695,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Extension Sync is Finally Coming to Microsoft Edge"
+    excerpt: "Four months after Microsoft took its new browser out of preview, Edge is getting extension sync, paving the way for automatic deployments."
+    publishedDateTime: 2020-05-22T12:17:00Z
+    webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/236458/extension-sync-is-finally-coming-to-microsoft-edge"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 22
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/edge.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "Microsoft Remains An Interesting Dividend Growth Play"
     excerpt: "Microsoft's outlook is supported by growing demand for its productivity and cloud-computing offerings. Given its pristine balance sheet and high-quality cash fl"

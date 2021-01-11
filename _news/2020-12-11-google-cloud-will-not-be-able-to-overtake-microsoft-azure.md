@@ -367,6 +367,34 @@ related:
         width: 803
         height: 419
         isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+    publishedDateTime: 2020-11-15T16:00:00Z
+    webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z

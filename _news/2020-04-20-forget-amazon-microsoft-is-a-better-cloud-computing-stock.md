@@ -114,6 +114,26 @@ related:
         width: 1000
         height: 714
         isCached: true
+  - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
+    excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
+    publishedDateTime: 2020-04-16T19:38:00Z
+    webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html"
+    ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
+        width: 600
+        height: 350
+        isCached: true
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=367ee89763943fe5bf2550b7ae4f7fa87ca6b3bb"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Forget Microsoft, Arista Networks Is a Better Cloud Stock"
     excerpt: "If you're looking for an investment that provides exposure to the growth of cloud computing, Microsoft (NASDAQ:MSFT) stock seems a logical choice. The company's cloud businesses have become an important part of the tech giant's activities. And its cloud platform, Azure, has become a stronger challenger to the public cloud leader Amazon Web ..."
     publishedDateTime: 2020-04-17T19:30:00Z
@@ -819,6 +839,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 2
+  - title: "Microsoft Becoming NBA's Official AI Partner"
+    excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
+    publishedDateTime: 2020-04-18T03:39:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
+    type: article
+    provider:
+      name: SportsBusiness Daily
+      domain: sportsbusinessdaily.com
     quality: 2
 
 secured: "oF2CY4JjNfqUZXViYNGkikz/XBR/eqLF25CKFkUuBch9Ycd3aD36o9B7F4LWm+zTDn+UoGxibgkS6powe3Ujfij9fW2F9TmJwOMVYpOXC9+71E4s6oNTnzptpy0oGieiVhuOAneOVTPzp9myzAKFlRE/2onH9zaFL2dmh+KoGxALunb7gxBRaImtU6JLWcaTXxqfpt6BoedQ6Ul/bHFEwMr4NpL0irD0pg0DyJ212zc6lc9R+4Nzlx26sPyJyVEBx9Pa8UFTic1ec80pV7dqujAEnTWj576ouOOfXkmfQGt/RXPsXK6twjHnDXiOPvx2ul5wA7o38ErDTAO4bwp287vXsDwJ8h8Kbt1O16eww+Xq5N1YFUD4pugJluHosmDeeyTWSgBJCs0DBE5ntXBPbjlUtTVqxcl7bhTt7T9CrigxQPkwOO5i0x4J+WEeTc3/cCphmuj/7bnv/8XMWz1OwtkgfF8NYpQzsydI6CZFR6I=;PcQUeQLMMhZJpwEjGSNIWA=="

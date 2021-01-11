@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coca-Cola partners with Microsoft to use its cloud and AI services"
+    excerpt: "Cola Company and Microsoft have announced a partnership that will see the beverage company leverage Microsoft's AI and cloud-based services, including Dynamics 365 and Microsoft 365."
+    publishedDateTime: 2020-04-27T17:00:00Z
+    webUrl: "https://www.neowin.net/news/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services"
+    ampWebUrl: "https://www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/coca-cola-partners-with-microsoft-to-use-its-cloud-and-ai-services/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 82
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/04/1588004153_cocacola_microsoft_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Zoom Hires Oracle, Not Amazon or Microsoft, For Cloud Deal"
     excerpt: "Zoom said it tapped Oracle for its cloud needs because it stood out in its ability to meet all the demand the company has experienced."
     publishedDateTime: 2020-04-28T15:50:00Z
@@ -155,6 +171,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/11/Microsoft.jpg?fit=2048%2C1025&strip=all"
         width: 2048
         height: 1025
+        isCached: true
+  - title: "Microsoft Earnings Defy the Pandemic"
+    excerpt: "After gaining 4.5% during regular trading hours, shares of Microsoft (NASDAQ:MSFT) rose after hours on Wednesday when it reported its fiscal third-quarter earnings. That period included March, a month in which much of the economy had to be shut down to contain the spread of COVID-19,"
+    publishedDateTime: 2020-04-30T17:39:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/30/microsoft-earnings-defy-the-pandemic.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F570470%2Fgettyimages-1172877307.jpg&w=1200&op=resize"
+        width: 1200
+        height: 534
         isCached: true
   - title: "Microsoft makes it easier to get started with Windows Virtual Desktops"
     excerpt: "Microsoft today announced a slew of updates to various parts of its Microsoft 365 ecosystem. A lot of these aren’t all that exciting (though that obviously depends on your level of enthusiasm for products like Microsoft Endpoint Manager),"
@@ -1054,6 +1086,34 @@ related:
         width: 269
         height: 256
         isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
+    publishedDateTime: 2020-04-25T23:05:00Z
+    webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
+  - title: "Extend and migrate on-premises site to Microsoft Azure"
+    excerpt: "Learn about how to use the migration tool to programmatically create Azure virtual machines for Configuration Manager."
+    publishedDateTime: 2020-04-27T21:28:00Z
+    webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Watch Azure When Microsoft Reports, Jim Cramer Says"
     excerpt: "Microsoft is one of the big tech names that will be reporting earnings this week. Analysts polled by FactSet are expecting earnings of $1.29 per share on revenue of $33.84 billion. TheStreet's Annie Gaus broke down what she's watching for when the tech giant reports earnings."
     publishedDateTime: 2020-04-28T17:17:00Z
@@ -1439,6 +1499,20 @@ related:
         width: 947
         height: 630
         isCached: true
+  - title: "How to use Microsoft 365 Universal Print"
+    excerpt: "Microsoft is hoping to make it easier for organizations to give Azure Active Directory (AAD) joined and MDM-managed devices access to printers."
+    publishedDateTime: 2020-05-04T12:01:00Z
+    webUrl: "https://www.petri.com/how-does-microsoft-365-universal-print-work"
+    type: article
+    provider:
+      name: petri.com
+      domain: petri.com
+    quality: 22
+    images:
+      - url: "https://www.petri.com/wp-content/uploads/sites/3/2017/11/m365.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft to Retire Stream People Timeline"
     excerpt: "Starting June 1, 2020, people detection will no longer occur and by July 15th, all data associated with this feature will be deleted."
     publishedDateTime: 2020-05-04T15:24:00Z
@@ -1506,6 +1580,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "C3.ai selects Microsoft Dynamics 365 and Teams to power the next phase of growth"
+    excerpt: "C3.ai, a leading innovator in enterprise AI software for accelerating digital transformation, announced plans to collaborate with"
+    publishedDateTime: 2020-04-27T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/c3ai-selects-microsoft-dynamics-365-and-teams-to-power-the-next-phase-of-growth-301047370.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
   - title: "Open Systems Integrates Microsoft Azure Sentinel Into its Managed Detection and Response (MDR) Security Service"
     excerpt: "Open Systems Integrates Microsoft Azure Sentinel Into its Managed Detection and Response (MDR) Security Service"
     publishedDateTime: 2020-05-05T14:41:00Z
@@ -1552,6 +1640,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 5
+  - title: "C3.ai picks Microsoft Dynamics 365, Teams to power next phase of growth"
+    excerpt: "AI software provider C3.ai said it plans to enhance its customer experience and elevate sales performance using intelligent cloud technology from Microsoft. C3.ai adopted and deployed Dynamics 365 Sales and Microsoft Teams in less than two weeks to help streamline sales operations,"
+    publishedDateTime: 2020-04-28T07:55:00Z
+    webUrl: "https://www.telecompaper.com/news/c3ai-picks-microsoft-dynamics-365-teams-to-power-next-phase-of-growth--1336269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 2
   - title: "Microsoft's cloud business helps offset pandemic woes"
     excerpt: "Ongoing demand for Microsoft's cloud computing services help softened the blow of the coronavirus pandemic on the software giant's other products during the first three months of the year. The company on Wednesday reported fiscal third-quarter profit of $10."
     publishedDateTime: 2020-04-29T21:23:00Z

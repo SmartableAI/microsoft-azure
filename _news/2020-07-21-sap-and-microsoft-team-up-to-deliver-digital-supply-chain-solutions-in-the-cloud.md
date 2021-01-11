@@ -299,6 +299,20 @@ related:
         width: 620
         height: 290
         isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-28T23:28:00Z
+    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
     publishedDateTime: 2020-07-29T21:02:00Z
@@ -312,6 +326,20 @@ related:
       - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
         width: 269
         height: 256
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-29T19:17:00Z
+    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
         isCached: true
   - title: "New Zealand's largest company plans to move to Microsoft Azure"
     excerpt: "Fonterra plans to shift most of its workloads to Microsoft Azure, when the cloud company's New Zealand data center opens. The nation's largest company, dairy co-operative Fonterra exports products to over 140 countries - responsible for approximately 30 ..."

@@ -114,6 +114,26 @@ related:
         width: 1000
         height: 714
         isCached: true
+  - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
+    excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
+    publishedDateTime: 2020-04-16T19:38:00Z
+    webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html"
+    ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 82
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
+        width: 600
+        height: 350
+        isCached: true
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=367ee89763943fe5bf2550b7ae4f7fa87ca6b3bb"
+        width: 600
+        height: 350
+        isCached: true
   - title: "GE Healthcare and Microsoft partner to help hospitals fight COVID-19"
     excerpt: "Designed to supplement existing monitoring devices in patients' rooms, the Mural Virtual Care Solution uses Microsoft Azure to provides near real-time data from ventilators, patient monitoring systems, electronic medical records, labs, and other systems from multiple patients to clinicians. In addition, GE Healthcare said Mural can be ..."
     publishedDateTime: 2020-04-17T00:44:00Z
@@ -819,6 +839,15 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
+    quality: 2
+  - title: "Microsoft Becoming NBA's Official AI Partner"
+    excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
+    publishedDateTime: 2020-04-18T03:39:00Z
+    webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
+    type: article
+    provider:
+      name: SportsBusiness Daily
+      domain: sportsbusinessdaily.com
     quality: 2
 
 secured: "SA7TrfhKZK75lG4jK8FLPUNXzZ+exQqb81Xp/ym1R2KSEtEhvPBQDjNXZOdopILgLElhXPFWHdQXbppEKBuz2JX4KtEk5UeQF8RcTPU8eNpyCHD9HvhGM9sc3DTPIyVw2Q3u90Phgki+S3V4/ygbLz258sDbwLVO1N/GmGrnMiZH92sFsstqxhXY/n/dsrNY7Ee77pKBl8x0UKkrdqX0lVMpID+m/b4ras3HSzOQqpWt4GDtaWywVa/wwCHgvurtkSHr/ny6lDefTCkkkP8wvzQ51+cKHrdlfJeXF2LEA4lx9ub1ia2qJhK08uMK5DHpYMsA6gJ8YJv8m1Dyurd4gtfqDFda38uTfAJBMc60CnpRf9E8rUcvYFz07msa8sYrX1da/jUpLrRWR04QS1hR7IWOhH1weJo4sK3kOengRXNNShdjYxI3XtI7ZVJW6e+x9YaDCqkzlRuK5Q6TD5/7GXWIL1wiUFRaNGI5eYcQ7RM=;R69bLNodsklWep3YmwV0PA=="

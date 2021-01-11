@@ -24,37 +24,81 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft will soon offer 99.99% uptime for Azure Active Directory"
-    excerpt: "Microsoft plans to update its service level agreement (SLA) for Azure AD user authentication to 99.99%. Hitting this four-nine uptime will be an improvement over the current 99.9% SLA. A multi-tenant identity management service,"
-    publishedDateTime: 2021-01-06T21:28:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
+  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-11T11:04:00Z
+    webUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.html"
+    ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 129
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/01/microsoft-azure-ai-02-100872638-large.jpg"
+        width: 1200
+        height: 1137
+        isCached: true
+  - title: "Extending the power of Azure AI to Microsoft 365 users"
+    excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
+    publishedDateTime: 2020-03-30T08:30:32Z
+    webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
+        width: 1187
+        height: 821
+        isCached: true
+  - title: "Microsoft's new Azure data services explained"
+    excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."
+    publishedDateTime: 2021-01-07T00:56:00Z
+    webUrl: "https://www.techrepublic.com/index.php/article/microsofts-new-azure-data-services-explained/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsofts-new-azure-data-services-explained/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft launches Azure Health Bot"
+    excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-08T16:29:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358272/microsoft-launches-azure-health-bot?amp"
     type: article
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 114
+    quality: 97
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1581677441/itpro/Azure.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
+        width: 1000
+        height: 562
         isCached: true
-  - title: "Save 97% off the 2021 Complete Microsoft Azure Certification Prep Bundle"
-    excerpt: "Learn How to Prepare for the Azure 104 Certifications the Right Way AZ-204 Developing Solutions for Microsoft Azure Exam Prep The Most Complete Course Available on the Updated Microsoft Azure AZ ..."
-    publishedDateTime: 2021-01-03T15:46:00Z
-    webUrl: "https://www.neowin.net/news/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle"
-    ampWebUrl: "https://www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-the-2021-complete-microsoft-azure-certification-prep-bundle/"
+  - title: "Microsoft Azure Speech to Text review"
+    excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
+    publishedDateTime: 2020-04-06T13:47:00Z
+    webUrl: "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 96
+      name: TechRadar
+      domain: techradar.com
+    quality: 77
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
@@ -88,21 +132,61 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "Attack on Microsoft cloud services puts private user information at risk"
-    excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
-    publishedDateTime: 2020-12-31T20:02:00Z
-    webUrl: "https://news.thewindowsclub.com/attack-on-microsoft-cloud-services-puts-private-user-information-at-risk-104686/"
-    ampWebUrl: "https://news.thewindowsclub.com/attack-on-microsoft-cloud-services-puts-private-user-information-at-risk-104686/amp/"
-    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/attack-on-microsoft-cloud-services-puts-private-user-information-at-risk-104686/amp/"
+  - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
+    excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
+    publishedDateTime: 2021-01-11T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
     type: article
     provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 41
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 44
     images:
-      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/12/Microsoft-Cloud.jpg"
-        width: 600
-        height: 337
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
+    excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
+    publishedDateTime: 2021-01-04T14:37:00Z
+    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
+    publishedDateTime: 2021-01-05T05:34:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
+        width: 768
+        height: 401
+        isCached: true
+  - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
+    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
+    publishedDateTime: 2021-01-11T12:35:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
@@ -119,18 +203,32 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+    publishedDateTime: 2021-01-04T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
+        isCached: true
+  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
+    publishedDateTime: 2021-01-08T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
@@ -140,15 +238,6 @@ related:
     provider:
       name: CRN
       domain: crn.com
-    quality: 17
-  - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
-    excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
-    publishedDateTime: 2021-01-05T15:04:00Z
-    webUrl: "https://www.channele2e.com/channel-partners/csps/pax8-buys-wirehive/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
     quality: 17
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."

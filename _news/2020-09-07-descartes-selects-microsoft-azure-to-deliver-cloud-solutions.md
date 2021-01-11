@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-sele
 webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
 type: article
 quality: 77
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
     quality: 30
     images:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
+    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
+    publishedDateTime: 2020-09-07T11:19:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
         width: 1200
         height: 630
         isCached: true

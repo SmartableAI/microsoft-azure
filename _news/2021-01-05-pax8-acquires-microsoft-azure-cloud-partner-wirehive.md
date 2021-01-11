@@ -50,38 +50,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-    excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
-    publishedDateTime: 2021-01-06T00:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 53
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
-    publishedDateTime: 2021-01-06T18:37:00Z
-    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 53
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z
@@ -98,66 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
-    excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
-    publishedDateTime: 2021-01-04T21:43:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-sellers-gain-a-data-edge-with-the-microsoft-power-platform/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 35
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
-        width: 1388
-        height: 927
-        isCached: true
-  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-    publishedDateTime: 2021-01-05T20:52:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 32
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
-    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
-    publishedDateTime: 2021-01-04T14:32:00Z
-    webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
-  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
-    publishedDateTime: 2021-01-06T19:14:00Z
-    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 12
 
 secured: "cqUP2VhYaLmUqpN9R7h30yc2Bqn2Brp4/5yvso1tdiXQHclyplaQD2eo8xHj0vbRBNbDqIQpjEWC27SOJT+2YECUGBfcdTJz27tT4CehIEvRlsCn21BvVrfClXKoPIZNu7iFgWl8lcl6m8T9xNTeOs1O19egsqepYcK58v+HPGSFBSOm2AhY1Ov2VPWGSDJxbUtysFlNVJRBZC+WNV2eopmJEL/JrtVsOoDbTjYFW/WzUc5K8nJ1xDlRUx7zufCkZTVK9hnN9MDlOSRG/+Jz+MfXfMiKf8chelGcGvgw5bu7EbP2/gCWDD7AKE0sAkjvqkKQ7FcxhpgVnuzYLeWFvoQTUUWQ1qEhn7/kfIuU+jSd4VaSP4bTgXqXC/Sqp99Ha9weckxX9SbyHjlv8e1rm4qsAOluqCThRSPgoEHde0IS50yxIZMFHrC56ihFU8f73zAWKlmt/DIFEkkFJYKIh8sSle5AqccaoTmLpyr0xTn8pybZ2er9sfwxKVis2MBGJ7w4sXeMhriUUsK8rsieiA==;MAaLCWPqu51JycZBTOkX0g=="
 ---

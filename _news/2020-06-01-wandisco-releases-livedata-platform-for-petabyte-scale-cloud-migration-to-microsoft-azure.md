@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 815
         isCached: true
+  - title: "Everything you need to know about Microsoft Azure"
+    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
+    publishedDateTime: 2020-11-09T15:10:00Z
+    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 97
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
+        width: 920
+        height: 470
+        isCached: true
   - title: "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere"
     excerpt: "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution."
     publishedDateTime: 2020-05-31T02:58:00Z
