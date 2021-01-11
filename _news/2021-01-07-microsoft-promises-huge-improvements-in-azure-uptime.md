@@ -261,6 +261,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
+    excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
+    publishedDateTime: 2021-01-11T18:42:00Z
+    webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
+        width: 768
+        height: 431
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z

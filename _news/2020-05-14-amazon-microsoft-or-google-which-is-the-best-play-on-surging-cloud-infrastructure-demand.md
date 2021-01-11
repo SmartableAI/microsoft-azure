@@ -39,6 +39,22 @@ related:
         width: 1600
         height: 1068
         isCached: true
+  - title: "Top cloud providers in 2021: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players"
+    excerpt: "Cloud computing in 2021 has become the de facto choice of IT due to digital transformation shifts accelerated by remote work and the COVID-19 pandemic. Here's a look the cloud leaders stack up, the hybrid market,"
+    publishedDateTime: 2021-01-10T05:17:00Z
+    webUrl: "https://www.zdnet.com/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2021-aws-microsoft-azure-google-cloud-hybrid-saas/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/01/21/9d349185-abe0-4f78-aed7-f1aa4a2010ee/istock-925557862.jpg"
+        width: 1600
+        height: 1068
+        isCached: true
   - title: "Microsoft to open first data center in New Zealand as cloud usage grows"
     excerpt: "In spite of being in the midst of a pandemic sowing economic uncertainty, one area that continues to thrive is cloud computing. Perhaps that explains why Microsoft, which saw Azure grow 59% in its most recent earnings report,"
     publishedDateTime: 2020-05-06T16:57:00Z

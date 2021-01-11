@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-publishedDateTime: 2021-01-05T20:52:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
+excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
+publishedDateTime: 2021-01-11T18:42:00Z
+originalUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
+webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
+    width: 768
+    height: 431
     isCached: true
 
 related:
@@ -243,6 +243,20 @@ related:
         width: 1198
         height: 628
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
     excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
     publishedDateTime: 2021-01-08T06:54:00Z
@@ -256,20 +270,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
-    excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
-    publishedDateTime: 2021-01-11T18:42:00Z
-    webUrl: "https://siliconangle.com/2021/01/11/microsoft-will-expand-verilys-terra-biomedical-data-platform-azure-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/verily-768x431.jpg"
-        width: 768
-        height: 431
         isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
@@ -290,6 +290,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "6EXt1pZr9FXpyTSjaMo4gjLRISqK35f+O4xr83tfiSSP5oU249WEx8VdLYq6tx4vHCH+Es/nGcTHRYypoh5wbfzJ1hy5gFs01VuFsfs8tvJLpJbVMxsGOoow1VQHaKQ5hDwGldSsWypOUOw9jcHaA7J4AF9DYsaRLkEN0sRKMt6YfyAkDbVD0jCGA8H+zMOqtybkptnMO6HMwllHSl7H2PqRxi+sdQBbfBMrgb+i8NHgZJ7QHfI5C1/peV3MspkzpvrKhpotw7VTa4RTQWU2xLY6qBZqj2ypq/sEGixIeDrLZWvmQdCyqWK9WUglYHDQ/lCFow0RPzBfjKACKrsVqCvvY+XkUOFnoIF6QP3Q7MU=;pfLRp1kT3F7+/IlOWp0rzg=="
+secured: "78OiC9ChBIdtdjUFcCrh0tTuyQAwPN39HDu407M6hwQOelEj4vB6eOpeMAmLB0nduO4yVGMZFMlTTggsGPQmIruDi2aGhae6uSXeEIFEok67e59H8e8vzBcZIuXsRISAYeMp1QP8Lm2eFQOiKBmlX42un5SwR/BGW0yJcw3v0nBP/vV9em237vHjWfJutcVojhSwRPf4Yz6ftuk3KdGZe1p/somJzZW1m5g/sn9P6PpuJDvsY+kTOlYL3jPjJ6CUSFU3ZKQfiYl5vIDWtxL2BlpiIMBlGA2xUQNFGf2UtPi3E10FbqoNmv+tGta2EnNe2nD3R+R/hv9R4VhcSnUlyXx05PYDMyRivLlK1W6d4X8=;esbpICRqr+dPnoHZtt8yhQ=="
 ---
 
