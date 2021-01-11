@@ -160,6 +160,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "Q37ade0mteoJQg7eAyu0QkabS5BDzogeke20gkZgL1R5LznCK27IYfX80sdAkX6ff8iBp2ZfWKiEeeRdxBB0swDQGagCLrpvG7JdDvDPhuDpCSvJwwYPS62kZBYX7gQCpOvVm3CR8az+Fc2mQBHrhIIaDZbUg6juCSRPN2JaJyyY4RvsqhrXYQ3Opw5wZFFH/T+7pGfp5KMdnT/Z+QeV6oBKPDwq2HWAqwLzm+Zh8MLdiTpv8Co8xmDUfyUBHgvr1lQcFgUtjeKAFD/pdSVqvd/eSBQaFgMaumlwavnY+X3GTQoLrNQdZBGUaNlvCFP0TR7Wm4b3/v68hSOJczEz7ZPSR493OuM359rKI2K+Jag=;WTYmO9qqt1N1kx4C7yFZNQ=="
+secured: "Rq8Nnp0cphg1mB/qHkYX+8Koz2F7lVGL9lOv+P418LRSGFXloIAsypbO41KUkBG30GzXUCteR7pF1LjXouIoeULFgHsAmKMu5prVYpQdnlN7lVMOwt7teHW7suILiacMCY9cgoXM9Q/itN73peMphLmvAo/V62QIqWO+vnf6Od+vcgoaigHFWvu3clZ+wvqW+0cN8Xc86kstrrlScxZwLcUE0feMh0Jn40aea9/CuFSjjs/472jPv+o4IsP8D7/+T/c1Qf+XsuL5k45pfuotvJ/xr7MC0fSExrQYBnNzA1hhs2EqBw8KQmwbhkojZR4P2GA3I5sauk99mqAVLXQ+fFSFYPsETRaWCU191CIKx5U=;sF5OXmdd8Y0e4qBAVXWu/w=="
 ---
 

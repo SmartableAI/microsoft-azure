@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
+    excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
+    publishedDateTime: 2021-01-11T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 44
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
     excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
     publishedDateTime: 2021-01-08T06:54:00Z
@@ -37,20 +51,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "CISA Alert: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments"
-    excerpt: "Specifically, CISA has seen an APT actor using compromised applications in a victim’s Microsoft 365 (M365)/Azure environment. CISA has also seen this APT actor utilizing additional credentials and Application Programming Interface (API) access to cloud ..."
-    publishedDateTime: 2021-01-08T20:57:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-alert-detecting-post-compromise-threat-activity-in-microsoft-cloud-environments/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 15
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/clouds-4345883_1280.jpg"
-        width: 1280
-        height: 960
         isCached: true
 
 secured: "dg5XMudMAlEFTkzR7NVitIVTlwuSzVBD+gRfEDgjOORJOnjox8M7YGQsp1u/d5uk+TvjDFUctXvscpVYDy3o7m96LG+orvL5zbDRDiJbuyQDEtj6uV1PfIRMrrHcCobNDrKm66BCxfI1sIK5PQWl4dzwKammYPnSDCQoZxM6Z2Y8oGjoZ+rCsSARkHczwcN5iKr7mSBrWJp5OxJCqti7YXpP4lAIqp1tPLC8nGxurSV4WN9GVWlaCO8mH42d9SJLtdCIhmh8dEs8ckRfcl9CYmyqXY7Da04aINYWVZw7vQ2lwJj90CBUj+cxDJNJtmry0bk443RgrWsxbCYYVZRTKAcwieO2AcpEtcoevPMsBbk=;OY2tzQJKV/MDghFzHDPfWQ=="
