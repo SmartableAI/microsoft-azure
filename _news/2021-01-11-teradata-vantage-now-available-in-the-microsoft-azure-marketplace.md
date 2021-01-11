@@ -1,28 +1,23 @@
 ---
 category: news
-title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
-excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
-publishedDateTime: 2021-01-11T02:02:00Z
-originalUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
-webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
+title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
+publishedDateTime: 2021-01-11T14:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19099697"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19099697"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -133,6 +128,20 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
+    excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
+    publishedDateTime: 2021-01-11T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 44
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
     publishedDateTime: 2021-01-04T14:37:00Z
@@ -175,17 +184,6 @@ related:
         width: 1080
         height: 564
         isCached: true
-  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19099697"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19099697"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -261,6 +259,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "sFQTNA/w8IxBsopkxNz+vD8d//YjL19O+9Wj7U0KXe9N1GywXdnAE3B7Tv8NiOi8DtmRYZ/vJUhdl3BLRmphUbJC5CaKLoFBJCDGidHcEvUC3lsBuZRDeFvw8+cOoSbICbXmJQ3hKkGJ3JUzX2j4rsZkviZBKTor88e5qKjI+zJ6FPYxS4FXtI8Ole5XNUfgkcEjY2Su69iSiJgKNHJrhFTDRI+W1D5MkpTA7bqoVMfrx0zAFGqPKYJ68oB1zSex7xolM1g1XCCLlMDPhCAKYqN9dPtIiHArDT/kg0aoRm6ArSopb+e9dWR2m8aEmet3nKE683nqUjKlb6Wley7qNJdV8pUqJLe3hOdxRBaeva8=;757dsCgtrtnlbcMzUq5uCg=="
+secured: "nnwappWV7dqAW0DKPXnMsi2GE9+JScUr52vBYwJmzFOJdPWVjYmi3zeINirJmvgsjfQtvxVKaMIBhFYtdpvDsLP9scjYonc/1y0KS6O00L3kFZTsHCEwyk2o6MTXJ1YW0R8y6wHn5uFCDmlnno6fqHN5UYQDHXpeooRxpSGZpJiEj+/tVZmEnbWrjrKQ0gcoMxOH/w2ooaAdYLS2uCJndF5hRRM2zfvzg8EtOvoB/XUyi9o0JbLKYXV4GuGyH65StEDLYniGgf0D5XmCsfwAAYUeEteQqVDA3EWMqOxscQJgcYMzxCWs0pC9m/E8IrFaNXojicXhuKhlRTRpQnF/8E2YA4C5d3w6iVsZDQuIPu0=;1IeM+u+UAZnCaovYThdpEA=="
 ---
 

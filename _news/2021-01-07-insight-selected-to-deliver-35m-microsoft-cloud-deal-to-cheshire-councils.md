@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "H-ISAC TLP White Threat Bulletin: Microsoft Cloud Environment Post-Compromise Threat Activity Detection"
+    excerpt: "This alert addresses activity irrespective of the initial access vectors leveraged that CISA attributes to an APT threat actor. Specifically, this alert serves to address threat actor exploitation via the compromise of applications in a victim’s Microsoft 365 (M365)/Azure environment in addition to the utilization of additional credentials and API access to cloud resources of private and public sector organizations."
+    publishedDateTime: 2021-01-08T00:00:00Z
+    webUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 0
 
 secured: "zaAVmL/xB/S8lknAvn0ZYUImytIVjXlLoBledHxXL8UxKrZv/pafE+Jlzye+81vmzsZI7B9pHK2SI2ijyWgXRtVyZ9Tm8VL9CDuIZiOrtRx4w9bZ8UM9kUTi8OurS5zrb+5yKsjW9MJs4aGfEM/GG7CKGxNamO6OtlZ22R2s7gqTL54XjUyDdNCZXMhNiPqHGsxUGrdzbCuA+U1qCkKyRbgRfDqkTB0AVfez7rn2MvfmX2rCyCXoct2C96V6K+c8c/JXzC1p8AJCQcVQBWG4R3ESSuYf++M2dgMkO7lIQnzbV8oP7fLouC8z5llwYltDMjEhvLvJIdo+ZStTwLFFpk+X0SVaT0ZH3JnMbheMPTc=;ffZ/1g6mghv+8R45REvTig=="
 ---
