@@ -60,6 +60,22 @@ related:
         width: 1187
         height: 821
         isCached: true
+  - title: "Microsoft promises huge improvements in Azure uptime"
+    excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
+    publishedDateTime: 2021-01-07T15:06:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft launches Azure Health Bot"
     excerpt: "Microsoft has announced it's moving its Healthcare Bot service to Azure to create the new Azure Health Bot. Built for developing virtual health care assistants, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with patient engagement amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-08T16:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187
         height: 821
+        isCached: true
+  - title: "Microsoft promises huge improvements in Azure uptime"
+    excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
+    publishedDateTime: 2021-01-07T15:06:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft's new Azure data services explained"
     excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."

@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
-publishedDateTime: 2021-01-06T00:00:00Z
-originalUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
-ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
-cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+title: "Microsoft promises huge improvements in Azure uptime"
+excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
+publishedDateTime: 2021-01-07T15:06:00Z
+originalUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
+webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
 type: article
-quality: 53
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: IT World Canada
-  domain: itworldcanada.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
-    width: 620
-    height: 250
+  - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
+    width: 970
+    height: 545
     isCached: true
 
 related:
@@ -55,22 +59,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187
         height: 821
-        isCached: true
-  - title: "Microsoft promises huge improvements in Azure uptime"
-    excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
-    publishedDateTime: 2021-01-07T15:06:00Z
-    webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 97
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
-        width: 970
-        height: 545
         isCached: true
   - title: "Microsoft's new Azure data services explained"
     excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."
@@ -117,6 +105,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
+    publishedDateTime: 2021-01-06T00:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379"
+    ampWebUrl: "https://www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/440379?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 53
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
@@ -276,6 +280,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "LadCgUf2l9VDVWPASGjBUTHl5kyJv4Ju/KFkBoJBiQsyiuif1du2V2iPQmvJTPfXSF253PP0lG7IH75NaznrI208Nv+Sq1ALTkCcAh+IU8BLUJ80R6GgCqGUunqC8RpaaU2Q03SwPzfLdpT++td4rU5MZRTK7amvbKNed+qou45djanJED/kpTHsngUghzz06JyAGZeF8/hvUXXQt8wax65xqg9xRmqxG8HJ37c18X3FS7I5+XHjeD7q6Qdtvn+QkRCgPhxQ7h/nfYHKZ+lGEJ6SeSoXp+cYPyhnPum2oYJStyMRvQ+oDygNcvyZamL1vtlKRzd/O+BWzT4mqx8AtQgqGzHzfi9OFrWHK5BFxJXthkbLcBXrDPG9GsuzNP0qOHdu0WaXwhnrb3OYMOM959tgHFOu1ftDrnP1H21QUktmAhjYpiBhMFweCOpCQzlkdNevC9qJZzabsbq1fB6EJh/9/j8vPeVMX8mPQDEi6fMWnhc3m51/ZtZivv215gubuaAk7Twa5p73ZlIfs7TFEQ==;dBZzqQSKMVRLLpiwNrgHWg=="
+secured: "FWiiJ+GFKQN4Tch9Uv0UKz0CJNl7Nt5b5kiQ1pbSExsZ6FT61k/TpNRozuz5sMU6uV9MHqrAsjFwc8G6jetEJIs1m5gRAMopuJW0AVECQcBCurZPW66ETQaDqrELOkAOmWsi4xRrQhMJRsnwWl5wpO0avs7Po6NBVt2mAdzp1lT5ZubF+ZWk8WrBrYPNBIIjh00o+kc47/z0a++VXtjNmTSipa7DgA99F/1UnaZXehJmkFmHrr5cpqBbkaBxSdZ5NB3aJHz9SYTLWlHUBUnyVLQ/lI6sCmD6dJqdlQv/nI1UI949g/1GMe2YwOzobEY7kq26C1wEBWldXnIoT0QWQwfPpct2bzCePVU/hdXJmAQ=;CRF14ON/YzLW5+iktg6NTg=="
 ---
 
