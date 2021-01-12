@@ -146,6 +146,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+    publishedDateTime: 2021-01-12T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -260,18 +271,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+    publishedDateTime: 2021-01-04T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -348,6 +359,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "m+HWiLUqQRfZ/oaAUq8WrA0zTM6R53lQcoyYVmAbmNAmo/auQb8nplxX3Ba0NpIf/AJirjt694ArYQdKEC3amrTFRGVWGHnguyrB93UDx2Gqf6+qosKhbhr60d/RoAdFOoEIa7/3ZjXJ66y0GKOgwwsUx8ddj2ZErwiybrGWJdb1LahlOnZjFL8zkc6UDPyrQzxTFmzrHpJiqaPshLutMUOyc2loDv+pwKSplmxJTde6bGZJfgsnlIJS/mEtxm7M/NOfx1o1gVGB023usS/HDppF1RTLBItR+VmhBj2KD8QAeG7S1ylqp7PQGKjPxpxB1ryC06DN0yLPjK6oEiUVL12cXL9zFORWQc0jgCy1HqE=;ka8Og8KxQ7OHvpVtuJ/Slg=="
+secured: "MxrENtpQL4GimhFo+y9dJ/a6oXzvDNakeyVRtfVP1P5dggX4iKAsckNY+zkUfjzKQY1/cdNXthGIsrCSXALSQzcFNRJveDRKkmqZnHKlwo5X99AeSOpwHDIc2aDvDpFkfJ0kIb9QBxD7rUs9tJug50dNwbUsKMeRzGzJjK32VzaE62X64NZuE6n6s2iZB5bLvSBMGpEk6/xLS0DvXPKLrlJouQxzS2vJglnUYYrJaXwnrIzEpe3Qe+w8ss6izdwnhGFA24O7+/3oGrxwJoHwIM7P2iWo129R01jKQ80TBXLdHNFkHVY6Bm/l2c5JAyjoHHYgtve0EAb8sK6aMh9mtlha3YbdXFjbglPnjNUg2U+2jrCy7Z3474fRF5ewESHNYJE2fTbi4CE5URajYYfry2N7XOHVQ0FAuvcK+9/pej2xYoQ9seqmpeLwyw+sIC34d3N26aFgGFr92a9vxkOAF4xe7Hi7WEW3zCVPgAtu0KEC8aGmRwBSgYY/YlU7N5IfNUNdewkZ0Al17wcQBDdu3w==;6vWX7Tpt9uW6+oWXgewrGA=="
 ---
 

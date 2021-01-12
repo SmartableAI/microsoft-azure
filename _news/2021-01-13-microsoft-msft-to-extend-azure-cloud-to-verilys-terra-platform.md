@@ -1,28 +1,23 @@
 ---
 category: news
-title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
-excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
-publishedDateTime: 2021-01-11T02:02:00Z
-originalUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
-webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
+title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+publishedDateTime: 2021-01-12T17:02:00Z
+originalUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
 type: article
-quality: 44
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -147,17 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
-    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
-    publishedDateTime: 2021-01-12T17:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -189,6 +173,20 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
         width: 620
         height: 250
+        isCached: true
+  - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
+    excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
+    publishedDateTime: 2021-01-11T02:02:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/11/hitrust-aws-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 44
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
@@ -360,6 +358,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "sFQTNA/w8IxBsopkxNz+vD8d//YjL19O+9Wj7U0KXe9N1GywXdnAE3B7Tv8NiOi8DtmRYZ/vJUhdl3BLRmphUbJC5CaKLoFBJCDGidHcEvUC3lsBuZRDeFvw8+cOoSbICbXmJQ3hKkGJ3JUzX2j4rsZkviZBKTor88e5qKjI+zJ6FPYxS4FXtI8Ole5XNUfgkcEjY2Su69iSiJgKNHJrhFTDRI+W1D5MkpTA7bqoVMfrx0zAFGqPKYJ68oB1zSex7xolM1g1XCCLlMDPhCAKYqN9dPtIiHArDT/kg0aoRm6ArSopb+e9dWR2m8aEmet3nKE683nqUjKlb6Wley7qNJdV8pUqJLe3hOdxRBaeva8=;757dsCgtrtnlbcMzUq5uCg=="
+secured: "6ElQLSmuY5mJY9U28kGvIaIjvZ0cFkalP/O7OijQVQbNjRM6moJyJBPxv2J0q3UhuYuyZhzylIYpiA2G/U3EbO8FrxY/G/pNrY89/emIaHwctnKW3jHXzNP7BfD3F0IMcJsyxo4zKrD0iXZAC5L//5tgMMikhgWIACOgM4jzZOcwKE5V8Ywr3x6aaOXiUAruOOTKLNGHOnccScqxmal3jTsjEDh98MqEejNqGkhy98vG+qd4Rkfue2j9VD4XsXiTCQgBkZOi9Tsp7z1Mft3ppN3qy4ki2IZvtU8u/Jpb3Q+VTeYhTEDArzPM+EcHoEI1KtTMS/2LHtt0vDqNY/aVRsRSPDpGhRmCWpDBTvw0g8E=;CKOgV7XeC1OAgq+4lFUXQg=="
 ---
 
