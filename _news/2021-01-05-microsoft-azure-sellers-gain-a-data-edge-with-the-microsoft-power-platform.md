@@ -249,6 +249,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Nearly all of Microsoft’s services are now powered by Azure"
+    excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
+    publishedDateTime: 2021-01-12T18:12:00Z
+    webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
     publishedDateTime: 2021-01-04T15:04:00Z

@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft promises huge improvements in Azure uptime"
-excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
-publishedDateTime: 2021-01-07T15:06:00Z
-originalUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
-webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+title: "Nearly all of Microsoft’s services are now powered by Azure"
+excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
+publishedDateTime: 2021-01-12T18:12:00Z
+originalUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
+webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: On MSFT
+  domain: onmsft.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
-    width: 970
-    height: 545
+  - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -59,6 +53,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
         width: 1187
         height: 821
+        isCached: true
+  - title: "Microsoft promises huge improvements in Azure uptime"
+    excerpt: "Microsoft is making an ambitious availability commitment for its Azure Active Directory (AD) platform, promising to raise its Service Level Agreement (SLA) from 99.9% uptime to 99.99% uptime from April 1,"
+    publishedDateTime: 2021-01-07T15:06:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-promises-huge-improvements-in-azure-uptime"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 97
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2deixo9a3CpWWeqpxbneBY-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft's new Azure data services explained"
     excerpt: "Now that the Azure SQL Database is more compatible with the latest on-premises version of SQL Server, it's easier for Microsoft to offer more traditional database workloads as services. The latest is setting up a data warehouse, which is already a good ..."
@@ -235,20 +245,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Nearly all of Microsoft’s services are now powered by Azure"
-    excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
-    publishedDateTime: 2021-01-12T18:12:00Z
-    webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -352,6 +348,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "FWiiJ+GFKQN4Tch9Uv0UKz0CJNl7Nt5b5kiQ1pbSExsZ6FT61k/TpNRozuz5sMU6uV9MHqrAsjFwc8G6jetEJIs1m5gRAMopuJW0AVECQcBCurZPW66ETQaDqrELOkAOmWsi4xRrQhMJRsnwWl5wpO0avs7Po6NBVt2mAdzp1lT5ZubF+ZWk8WrBrYPNBIIjh00o+kc47/z0a++VXtjNmTSipa7DgA99F/1UnaZXehJmkFmHrr5cpqBbkaBxSdZ5NB3aJHz9SYTLWlHUBUnyVLQ/lI6sCmD6dJqdlQv/nI1UI949g/1GMe2YwOzobEY7kq26C1wEBWldXnIoT0QWQwfPpct2bzCePVU/hdXJmAQ=;CRF14ON/YzLW5+iktg6NTg=="
+secured: "m+HWiLUqQRfZ/oaAUq8WrA0zTM6R53lQcoyYVmAbmNAmo/auQb8nplxX3Ba0NpIf/AJirjt694ArYQdKEC3amrTFRGVWGHnguyrB93UDx2Gqf6+qosKhbhr60d/RoAdFOoEIa7/3ZjXJ66y0GKOgwwsUx8ddj2ZErwiybrGWJdb1LahlOnZjFL8zkc6UDPyrQzxTFmzrHpJiqaPshLutMUOyc2loDv+pwKSplmxJTde6bGZJfgsnlIJS/mEtxm7M/NOfx1o1gVGB023usS/HDppF1RTLBItR+VmhBj2KD8QAeG7S1ylqp7PQGKjPxpxB1ryC06DN0yLPjK6oEiUVL12cXL9zFORWQc0jgCy1HqE=;ka8Og8KxQ7OHvpVtuJ/Slg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 569
+heat: 589
 published: true
 
 provider:
@@ -236,6 +236,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "Nearly all of Microsoft’s services are now powered by Azure"
+    excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
+    publishedDateTime: 2021-01-12T18:12:00Z
+    webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
