@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
-publishedDateTime: 2021-01-11T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
-webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
+publishedDateTime: 2021-01-12T06:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+webUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
-    width: 1080
-    height: 564
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -116,20 +120,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
-    publishedDateTime: 2021-01-12T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -203,6 +193,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
         width: 768
         height: 401
+        isCached: true
+  - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
@@ -304,6 +308,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "+hWpt1qxJ/uijWXWJdLDdK69Dm+Ppc4JS4GV1q/bzX113pKFug+dESNfz6OpX9rnUWe6yNklVbfdzEMOjcjYl90+mV7+YcDL5z4uqK0uwl3BCq7kMtaPdlj3bZLwi6FuFujRIuC6rTPMfGn5R5f3Y1EwLLyNcmftTJOkAmXgi2ygoTQSbf/FZNkVgaCqNtvRYZdadQ6Se5rpeWTKhg0yPUHCOgYF8ssGjThHF4mmv8ZQo3BiXwkV5/kvmQKqubaiXue+2r5Vl8r+pdO63s9PYA/uHeFH9h7pgwL/ZGaUUN1C2ZpKlJI1UJ61gyMFC3dxOny56Y2uVtQ/mnN33zVbiOGCUoo8++g5WfOIA1czE6E=;DwSsLl1r0ROXy8BcD3w+qg=="
+secured: "dQJquwEah2D6WELK0dPUhCVzXhyJO/pV4NQSyR8fmp3pGZFKUIq4eVIXNLClygivKq0+X2noZcN0qKSZPICQY/UtmEM9iH71Jjzj8aFUyRGy8i6s0oKghQX5Nu80y1sZPQyWetDHfOkkc+RrX0OE7XC8o6PJU9BqbriBobuvKMFPPmJc5ruV3oIPgU735dapkbbmzYpZskZDcbMaouyr/69I5OFwmNOC48xgPvlF44yTQ7RgYt9vyW/zwwKZnXwP8tb7hkqVGk8fnD3n08pkVsncv1HpySTy6Vgdj24wgl/8QGoUNmd3SNPB6diuVdQ2Oqqbewx3g/tE3efeOC4RMz+be5hS11UF+YheZX4plTQ=;kpG6JsMKlWlqAVhnlX+hcg=="
 ---
 

@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
+    publishedDateTime: 2021-01-12T06:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -182,18 +196,18 @@ related:
         height: 300
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
-    publishedDateTime: 2021-01-11T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
