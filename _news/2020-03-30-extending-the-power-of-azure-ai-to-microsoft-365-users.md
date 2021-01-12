@@ -94,6 +94,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
+        isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
     publishedDateTime: 2020-04-06T13:47:00Z
@@ -276,6 +292,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
+    excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
+    publishedDateTime: 2021-01-12T11:52:00Z
+    webUrl: "https://www.hostreview.com/news/210112-hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud-security"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 32
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."

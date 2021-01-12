@@ -1,27 +1,27 @@
 ---
 category: news
-title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
-publishedDateTime: 2021-01-08T06:54:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
+title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
+excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
+publishedDateTime: 2021-01-12T11:52:00Z
+originalUrl: "https://www.hostreview.com/news/210112-hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud-security"
+webUrl: "https://www.hostreview.com/news/210112-hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud-security"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -288,19 +288,19 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
-    excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
-    publishedDateTime: 2021-01-12T11:52:00Z
-    webUrl: "https://www.hostreview.com/news/210112-hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud-security"
+  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
+    publishedDateTime: 2021-01-08T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
     type: article
     provider:
-      name: Host Review
-      domain: hostreview.com
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft will expand Verily’s Terra biomedical data platform with Azure services"
     excerpt: "Microsoft Corp. today said that it’s partnering with Alphabet Inc.’s Verily unit to integrate its Azure cloud services into Verily’s Terra biomedical data platform, which supports the work of thousands of researchers worldwide."
@@ -335,6 +335,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "xlywqbqO2UQY/G9lGrz9a81jcn/ODYihVOwJyBdV1IX+LwgWP8QFb23n5POejxP3b4o+bS15XXVo/q0jxt/ldlXGX8/UBHllp925IUtuYqA9cjTIclo1bIV2By/tMRby+F+RGQCvyIGVKlunvhDcC0rbcISZXL3RjfoBk7ZvGWHbYlHg1dosnE4IWI7KqdGEyKVOWjrVm527NT929UAs4aWyTBuSzP+k0AaBpOhjTSvmZsoP7iXw0KLSFxe3CTE944MqczoD2y0BGBJyHI5lAGKaWv8Jun9Pop2iK7cGfMuna6rbURaI24w4kMrs8esKYZ20fnZxAthE0ldaHzd4qVWcsMlVUtur/UHSuLCuYfA=;WGTW0sJV6PPhmTL68TA9PA=="
+secured: "AbyvQLumVzDiif27lkLRYmuzZhnD+5virsYEEEcpy/VNF0p/mAPs0wlia2BlvFYDAzqy0XMY0dASvThYIe/LKKLNCIIsl7OM27dAbUGtHRCfa58gssrET3Hen4dvBn/4LonAlfgBi69NtSi/P7o9BRyNDAddqpVAbtMn/DrlRjjhlgLCHExGx9mHMwCAUBvhkMFI/yMwphI+M4KdvcOjZlVvXZR/2BT9pDhkCdHKH70z4S90AI/zBhMdkW2feNxk3Tn23PdTCrGQ75uVyC3rks5apd21D/RC25rs+fwagailosj9Eo87+lLLU8zaM1vFP7UOQvOcj65Ae4I5Ch+Y4ahoiNp245/T75zjebzfsGM=;B9sLJwDwcWp4eZfFO07m0A=="
 ---
 

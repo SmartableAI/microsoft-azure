@@ -1,27 +1,32 @@
 ---
 category: news
-title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
-publishedDateTime: 2021-01-08T06:54:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
+title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+publishedDateTime: 2021-01-12T14:08:00Z
+originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
-quality: 32
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+    width: 893
+    height: 439
     isCached: true
 
 related:
@@ -102,22 +107,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-    publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-        width: 893
-        height: 439
         isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
@@ -288,6 +277,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
+    publishedDateTime: 2021-01-08T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
     excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
     publishedDateTime: 2021-01-12T11:52:00Z
@@ -335,6 +338,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "xlywqbqO2UQY/G9lGrz9a81jcn/ODYihVOwJyBdV1IX+LwgWP8QFb23n5POejxP3b4o+bS15XXVo/q0jxt/ldlXGX8/UBHllp925IUtuYqA9cjTIclo1bIV2By/tMRby+F+RGQCvyIGVKlunvhDcC0rbcISZXL3RjfoBk7ZvGWHbYlHg1dosnE4IWI7KqdGEyKVOWjrVm527NT929UAs4aWyTBuSzP+k0AaBpOhjTSvmZsoP7iXw0KLSFxe3CTE944MqczoD2y0BGBJyHI5lAGKaWv8Jun9Pop2iK7cGfMuna6rbURaI24w4kMrs8esKYZ20fnZxAthE0ldaHzd4qVWcsMlVUtur/UHSuLCuYfA=;WGTW0sJV6PPhmTL68TA9PA=="
+secured: "am5kO8fMvOJUvALCXyS9VSFCXjaQXLXHCdhMjtMzjXSDGYZbvoViBDy9GxYP/IvP0JuHt9lVb3AmEFSrD2ZMLoZ+luCb/5qIo+acOylq7xAZtV6L5zs7U+HM8mRf5qPzCk82vXOfJsilDEfFpdFCBHAIRQT6A0i7HvL00fnPqWjzHm2paGPBiuH3aWzaZnYMZzTaDa6MIuc2MGdEwg7ne1vxDuHp3oqHdYFz7w9GFo6Fc4ANOFjKDeX4RrGg6fUYvj74u1FPO03xt2p+LD/8fCK5/347zSEunVCwRIUs6kqfeGi1Bg0Uw7OFQiXxiXmBxqp86ff9MejbsAYNh7EGthAR1OsyBwRDIV9mS9AGAsA=;nzK+QqHXNzTLxOa+lc9N9w=="
 ---
 
