@@ -4,7 +4,7 @@ excerpt: "Learn how to architect API integration in Azure, and provide secure, s
 type: collection
 price: Free
 length: PT3H44M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
