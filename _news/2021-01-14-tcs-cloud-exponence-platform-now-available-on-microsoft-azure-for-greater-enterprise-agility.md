@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Nearly all of Microsoft’s services are now powered by Azure"
-excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
-publishedDateTime: 2021-01-12T18:12:00Z
-originalUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
-webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
+title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
+publishedDateTime: 2021-01-13T16:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
 type: article
-quality: 37
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: On MSFT
-  domain: onmsft.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
-    width: 1024
-    height: 768
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -157,17 +157,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
-    publishedDateTime: 2021-01-13T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -297,6 +286,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Nearly all of Microsoft’s services are now powered by Azure"
+    excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
+    publishedDateTime: 2021-01-12T18:12:00Z
+    webUrl: "https://www.onmsft.com/news/nearly-all-of-microsofts-services-are-now-powered-by-azure"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -409,6 +412,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "MxrENtpQL4GimhFo+y9dJ/a6oXzvDNakeyVRtfVP1P5dggX4iKAsckNY+zkUfjzKQY1/cdNXthGIsrCSXALSQzcFNRJveDRKkmqZnHKlwo5X99AeSOpwHDIc2aDvDpFkfJ0kIb9QBxD7rUs9tJug50dNwbUsKMeRzGzJjK32VzaE62X64NZuE6n6s2iZB5bLvSBMGpEk6/xLS0DvXPKLrlJouQxzS2vJglnUYYrJaXwnrIzEpe3Qe+w8ss6izdwnhGFA24O7+/3oGrxwJoHwIM7P2iWo129R01jKQ80TBXLdHNFkHVY6Bm/l2c5JAyjoHHYgtve0EAb8sK6aMh9mtlha3YbdXFjbglPnjNUg2U+2jrCy7Z3474fRF5ewESHNYJE2fTbi4CE5URajYYfry2N7XOHVQ0FAuvcK+9/pej2xYoQ9seqmpeLwyw+sIC34d3N26aFgGFr92a9vxkOAF4xe7Hi7WEW3zCVPgAtu0KEC8aGmRwBSgYY/YlU7N5IfNUNdewkZ0Al17wcQBDdu3w==;6vWX7Tpt9uW6+oWXgewrGA=="
+secured: "kuOSS+s5Lks3Z4nfQlVuQci2Go1jpGrtfGesp3PdZdlxMK7Xj4Z/CzzemGSSN+584jiFylM1kVd5sKSEymbjAhiKy3IAm7zJX6gi/I0qys6ZObWbmJkoZvXNWNxPWl0HhiaMVqRYk/pr8zzbpAq2FVSix/ueftUqO3IExd0crzWTcnAHxh+7JAB90W8uztLeakbn5p9XlxxU6F4kgwkRM0bbVMMGkzXhoFMKxm5QSE4nQS9ohbrOq/sb4MAcwafTDe+9oWJRUlADHSaSLxn1figtI9rT22qj6t4PKfRQx5GG7tg8bLSk/CIFVOGOK1xH/P13CzAuFQjdpRG7hWHdSsI6p2cGCdVWzgGVHHMum/o=;sftdHhkxrOyG3t1YPOXXCQ=="
 ---
 

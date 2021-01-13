@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-publishedDateTime: 2021-01-04T14:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+publishedDateTime: 2021-01-04T15:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -105,9 +105,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -157,6 +157,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
+    publishedDateTime: 2021-01-13T16:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -398,6 +409,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "LQUNlUaMaIQNb1Os1LongzWlbMLkUUye044gy5/a4A41YifhTEGwkcoDUbBQKNeWjXhDceCKbXlhQR0paUxuFaLivCkLtn6h7jtogMqzLzYklBS9xf0FGk7FZ0Aw6wOmYHtFegrFT6FkDd5ZM4ONY+nm7fnKDo3/u55UdfZMOSsay5MA/LHJ7MTXITyAz2PuqSe8xTlbf9yU35SZC+yxIzpEcyHwJjDCRnd0MX13Siha8A4LGZnQsdqZiNs0FMJMOzo0F0gWmhfN0uz+5fEMNxLrIKfdmE/ONiK38bNlK8AbCZBv+xo9Gy0umrdh8fJfysg4peQ4zkPG1c/68MbdbQmdZiiVtBTpHlXSAWZicK0=;qfj8eULaKrqSzMu1wdhl2Q=="
+secured: "2do+pes1EdHbClLpOj/XbIv0dSQ9psPl5IpcQFMJ38QYVn97hqppaCEkUvTsL63sH1LKHWOYjLvsFbI8Lv6pkQr4KgjLE7tM3OLH+mpScCcvLPzMGijS1gyC6g+AyTJ4CQVEunDZSxbHlhNjsW3Qc6oO1KU9QsEIx6VsW5XoBku4OcqV0h1ES3+M19zAWNyTGvDQACTPAlhbBhoFPM82XWE+7cftb0GYTUV2SLG4SQblw6kFV7cSzoKaST4vk5myxLF9jETld8t6nnOHo0b4M8RigIWawGPsnHD/RHtOwt1H6ZMlW9dgDWMdRkdB8BFsyAAW6P6FU9l7Xiz63IeShwAWx3M27aR+LudSsEpvVm0=;E8ZmPQ7p1nI2h7CE+5wjOw=="
 ---
 

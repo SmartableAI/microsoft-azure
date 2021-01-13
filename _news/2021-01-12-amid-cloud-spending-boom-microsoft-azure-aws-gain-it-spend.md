@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 97
 heat: -1
@@ -147,6 +147,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
+    publishedDateTime: 2021-01-13T16:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -305,18 +316,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-    publishedDateTime: 2021-01-04T14:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+    publishedDateTime: 2021-01-04T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-        width: 1198
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -402,6 +413,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "Bq4rS0BuVOFSvspq7VSoVBDS0SDErXP9N4Qby3K5uUYtX1Rww959lefLQIfatEIHN/xyjdZhQDDkBWbu6WhPcJKXKUGXEVDYIw4AQJU9tDX53mBuwrx3v8IrKkmrvlEZVhSoHAZVkpgGmO9RB7TY3DDbkrtSF7KsZ+Oe5x2Xq7Kydv9ns0EXUne3/Tycz5sDd/LaslTraX7D0NjVFJ9Q0nFj+Vo+UzHEALvFWP11HIXnHgQDESiXAnMy12gf2Dt42smhs811mtBhIJ8yogE83ePM1XRqtM/rG3nBvNRVcJPSY7CGYJgp+7RhOQn5pRBC3yE6NohzNCMeFDYEQEwKutzi0Jgm6wpoGNha/XaDmgrysV61C/OumDZA5NMf1I685As6rr+qYov4l8yyu8o+azg/hehjooiy0B+Ylqx6ATysSUXWQNmHJX7jUY8kiJfkaW6MA4LJmlvrQWmpDbXCwGN8WrkJlu8o5B+qt/UgN3bI1BsuDcnGWKpKW1UXE4cBMyxhQcg567FgRF74LpeaxQ==;XfvTsT/ZRpcP6lv8ZFEwDQ=="
+secured: "NbnFfvpz+LnZpIhdomzdcnwweDxjk7ePQZoyGYrr4ehEssEHWHyI/rb+HAQH9MIz+MEpYb7bjT2Z1kMti8oHeflUALFP85V4h2Qhv8avv4g/Qj5MjdRqWDcOr2AWR5Tyb1GxWNwSFrZ20uib5Bd/78Grmy1ihLGoSU44/IYvOtOkyv76/ZtgGFffwkCg4atwt/HjYLg66RMl3TFsvi0Lkh8TLdyh9u9EmZV7NZKbyt/pWaoYhafrxSvus/sAgBToXeyWf0YnEZIR3bC50uMD+X9R3xdwqweOsj/czixUIPYfI8jiK5JWPzUC21haX6eQ3gQ/GVdy18HGn/Hvso8L/ELkjJ7zPctlDIA39dCw5Mw=;PTLGEE9aCAEHi653EgUY0A=="
 ---
 
