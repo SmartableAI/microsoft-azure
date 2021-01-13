@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 16828,
-            "average": 4.7826242
+            "count": 16856,
+            "average": 4.7827477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 201,
+          "heat": 204,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3602,
-            "average": 4.7134924
+            "count": 3605,
+            "average": 4.713454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 109,
+          "heat": 110,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3134,
-            "average": 4.755584
+            "count": 3137,
+            "average": 4.755818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -204,7 +204,7 @@
         }
       ],
       "size": 5,
-      "heat": 130,
+      "heat": 132,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -226,6 +226,50 @@
         "Analytics",
         "AI",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
+      "title": "Deploy batch inference pipelines with Azure Machine Learning",
+      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 272,
+        "average": 4.6360292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
       ]
     },
     {
@@ -259,8 +303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 16828,
-            "average": 4.7826242
+            "count": 16856,
+            "average": 4.7827477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,7 +321,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 201,
+          "heat": 204,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -301,8 +345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 2363,
-            "average": 4.771054
+            "count": 2366,
+            "average": 4.770921
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 1897,
-            "average": 4.7195573
+            "count": 1898,
+            "average": 4.719178
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -387,8 +431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 1650,
-            "average": 4.756364
+            "count": 1651,
+            "average": 4.756511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +501,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 3602,
-        "average": 4.7134924
+        "count": 3605,
+        "average": 4.713454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -475,7 +519,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 109,
+      "heat": 110,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -503,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 2363,
-        "average": 4.771054
+        "count": 2366,
+        "average": 4.770921
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -569,8 +613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5838,
-            "average": 4.755224
+            "count": 5840,
+            "average": 4.755308
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +675,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 5838,
-        "average": 4.755224
+        "count": 5840,
+        "average": 4.755308
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3266,8 +3310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2164,
-            "average": 4.702403
+            "count": 2165,
+            "average": 4.7025404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3753,8 +3797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2164,
-        "average": 4.702403
+        "count": 2165,
+        "average": 4.7025404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3948,8 +3992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
           "length": "PT38M",
           "ratings": {
-            "count": 549,
-            "average": 4.7030964
+            "count": 550,
+            "average": 4.703636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4364,8 +4408,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1587,
-            "average": 4.620038
+            "count": 1588,
+            "average": 4.620277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4519,50 +4563,6 @@
           "width": 800,
           "height": 400,
           "title": "Predict categories with machine learning classification",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
-      "title": "Predict numeric values with regression",
-      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
-      "length": "56 mins",
-      "ratings": {
-        "count": 606,
-        "average": 4.6254125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict numeric values with regression",
           "isCached": true
         }
       ],
