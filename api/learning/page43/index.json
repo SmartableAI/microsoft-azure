@@ -4,6 +4,45 @@
   "page": 43,
   "value": [
     {
+      "path": "_learning/videos/microsoft-how-to-browse-your-resources-in-the-azure-portal-azure-portal-series.md",
+      "title": "How to browse your resources in the Azure Portal | Azure Portal Series",
+      "excerpt": "The Azure Portal allows you to easily view and navigate to all your resources. In this video of the Azure Portal “How To” Series, you will learn how to go through your Azure resources across locations and subscriptions and customize your views.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-browse-your-resources-in-the-azure-portal-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-browse-your-resources-in-the-azure-portal-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=6trzgUyFRa0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6trzgUyFRa0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-17T08:28:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6trzgUyFRa0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-build-and-run-a-mean-based-application-in-azure-azure-tips-and-tricks.md",
       "title": "How to build and run a MEAN-based application in Azure | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to set up a MEAN-based web application on a new Azure Linux virtual machine.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -1127,45 +1166,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-expedite-container-startup-with-project-teleport-and-azure-container-registry-azure-friday.md",
-      "title": "How to expedite container startup with Project Teleport and Azure Container Registry | Azure Friday",
-      "excerpt": "Container startup time is the price of admission, but startup time is also an inhibitor for many serverless scenarios. Steve Lasker joins Lara Rubbelke to show how Project Teleport eliminates the download and decompression of layers by directly mounting expanded layers, potentially unlocking many new",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-expedite-container-startup-with-project-teleport-and-azure-container-registry-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-expedite-container-startup-with-project-teleport-and-azure-container-registry-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=ZJYaYSmTINw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZJYaYSmTINw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M16S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-31T23:58:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZJYaYSmTINw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
