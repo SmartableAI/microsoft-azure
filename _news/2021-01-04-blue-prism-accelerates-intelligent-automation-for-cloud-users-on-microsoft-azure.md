@@ -157,17 +157,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
-    publishedDateTime: 2021-01-13T16:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -381,6 +370,20 @@ related:
         width: 768
         height: 431
         isCached: true
+  - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
+    publishedDateTime: 2021-01-13T17:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z
@@ -409,6 +412,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "2do+pes1EdHbClLpOj/XbIv0dSQ9psPl5IpcQFMJ38QYVn97hqppaCEkUvTsL63sH1LKHWOYjLvsFbI8Lv6pkQr4KgjLE7tM3OLH+mpScCcvLPzMGijS1gyC6g+AyTJ4CQVEunDZSxbHlhNjsW3Qc6oO1KU9QsEIx6VsW5XoBku4OcqV0h1ES3+M19zAWNyTGvDQACTPAlhbBhoFPM82XWE+7cftb0GYTUV2SLG4SQblw6kFV7cSzoKaST4vk5myxLF9jETld8t6nnOHo0b4M8RigIWawGPsnHD/RHtOwt1H6ZMlW9dgDWMdRkdB8BFsyAAW6P6FU9l7Xiz63IeShwAWx3M27aR+LudSsEpvVm0=;E8ZmPQ7p1nI2h7CE+5wjOw=="
+secured: "CBG/gk9hwZLv+QcdLyTC5Kmn6RuSyo6c8MGQu8bCTsbcB8D7rKHqnnBNyOwqUptuO8u/KATLqllb1+6dq+IYfwwIVGhYrPSr2q96kd8KaeNVB78LEptRxEGtNp0zBI3ukzrEVNwnSbeesMA6qaVJfdsfMpwMi5b+cuQWNyjoPYQE86Plu2MZUjVx8hsLifTpLcQFuA4RUq3fknr6cNlqBMgPXg3U38sWi6+144WDARCZg4RtKOSVan1yIr3kWipO6PMKbZTFehhiFITfmrCKlfEzWqITlhYfqA52D7iqDJZqjFeFkg7F6XCt9jFM3e6MAQi42IixbW/ExBKmNQ4yITpR1kle6Th/SRIyYO9uc/Y=;TfqSgH3kQSSqG/uPi0kdVA=="
 ---
 

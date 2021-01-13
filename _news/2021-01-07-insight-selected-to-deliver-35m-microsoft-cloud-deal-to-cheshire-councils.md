@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
+    excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
+    publishedDateTime: 2021-01-13T18:18:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
+        width: 1358
+        height: 827
+        isCached: true
+  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
+    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
+    publishedDateTime: 2021-01-11T16:23:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
     excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
     publishedDateTime: 2021-01-13T14:15:00Z
@@ -66,15 +96,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "H-ISAC TLP White Threat Bulletin: Microsoft Cloud Environment Post-Compromise Threat Activity Detection"
-    excerpt: "This alert addresses activity irrespective of the initial access vectors leveraged that CISA attributes to an APT threat actor. Specifically, this alert serves to address threat actor exploitation via the compromise of applications in a victim’s Microsoft 365 (M365)/Azure environment in addition to the utilization of additional credentials and API access to cloud resources of private and public sector organizations."
-    publishedDateTime: 2021-01-08T00:00:00Z
-    webUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 0
 
 secured: "zaAVmL/xB/S8lknAvn0ZYUImytIVjXlLoBledHxXL8UxKrZv/pafE+Jlzye+81vmzsZI7B9pHK2SI2ijyWgXRtVyZ9Tm8VL9CDuIZiOrtRx4w9bZ8UM9kUTi8OurS5zrb+5yKsjW9MJs4aGfEM/GG7CKGxNamO6OtlZ22R2s7gqTL54XjUyDdNCZXMhNiPqHGsxUGrdzbCuA+U1qCkKyRbgRfDqkTB0AVfez7rn2MvfmX2rCyCXoct2C96V6K+c8c/JXzC1p8AJCQcVQBWG4R3ESSuYf++M2dgMkO7lIQnzbV8oP7fLouC8z5llwYltDMjEhvLvJIdo+ZStTwLFFpk+X0SVaT0ZH3JnMbheMPTc=;ffZ/1g6mghv+8R45REvTig=="
 ---

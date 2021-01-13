@@ -51,20 +51,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
-    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
-    publishedDateTime: 2021-01-11T16:23:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
     publishedDateTime: 2021-01-13T11:00:00Z

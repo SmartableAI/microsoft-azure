@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migratio
 webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
+    excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
+    publishedDateTime: 2021-01-13T18:18:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
+        width: 1358
+        height: 827
+        isCached: true
+  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
+    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
+    publishedDateTime: 2021-01-11T16:23:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
     excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
     publishedDateTime: 2021-01-08T21:24:00Z
@@ -71,15 +101,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "H-ISAC TLP White Threat Bulletin: Microsoft Cloud Environment Post-Compromise Threat Activity Detection"
-    excerpt: "This alert addresses activity irrespective of the initial access vectors leveraged that CISA attributes to an APT threat actor. Specifically, this alert serves to address threat actor exploitation via the compromise of applications in a victim’s Microsoft 365 (M365)/Azure environment in addition to the utilization of additional credentials and API access to cloud resources of private and public sector organizations."
-    publishedDateTime: 2021-01-08T00:00:00Z
-    webUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 0
 
 secured: "R3A4MJqvuNHWvYJ4hhZgEi15FXhLBs6Xe++RqxCcKqvw7gcLefjCxwmN52Q9cqalZfM2UGT+HNcM8SE22rdFQUmg9sBwofHoSiaZzDDKkUHw93hh+0ZwH99GLGhLtUajygpt5Ig3cnNLULFKQ2HqtkyX0Ebl/n1AMGvjzO0xLIbxTo3iPFOVJLKLmg/ezfrrlYpTSYEXonkxF6eof15GDIApWwIRMSpsr0bWmDP7Iqrrk/lSI4psE3ONzLyD+MIhQN0knLtS9XO4sYxdi2l4sT+IdWtsU2ppmnjY34opCvVcls7v6SO9xS8MOoQXOM/lKlzVjsfog2HCCnE6OOi103fogGnnrJg8Si8DtlZq4A+N6EGTYiiC+uAupdXNDCmuKvBhzzStjtt+tq2aKcPGnvT5GbwZIwxNYq80ijgjNOC3zI+Uqst/lBURj3Px9XAfyS72E+iQUupoAQ39rJwTN9VMGeDY/+pNbgj1/kdXvFegnGE0yDN7cHTgol3/93N/b3pjZPUR4ffZjMgFEbVSYQ==;6qfkomB8B3QIEMBAd69TJg=="
 ---

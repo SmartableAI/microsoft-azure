@@ -1,27 +1,27 @@
 ---
 category: news
-title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
 excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
-publishedDateTime: 2021-01-13T16:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-webUrl: "https://markets.businessinsider.com/news/stocks/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-1029965332"
+publishedDateTime: 2021-01-13T17:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
 type: article
-quality: 66
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -412,6 +412,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "kuOSS+s5Lks3Z4nfQlVuQci2Go1jpGrtfGesp3PdZdlxMK7Xj4Z/CzzemGSSN+584jiFylM1kVd5sKSEymbjAhiKy3IAm7zJX6gi/I0qys6ZObWbmJkoZvXNWNxPWl0HhiaMVqRYk/pr8zzbpAq2FVSix/ueftUqO3IExd0crzWTcnAHxh+7JAB90W8uztLeakbn5p9XlxxU6F4kgwkRM0bbVMMGkzXhoFMKxm5QSE4nQS9ohbrOq/sb4MAcwafTDe+9oWJRUlADHSaSLxn1figtI9rT22qj6t4PKfRQx5GG7tg8bLSk/CIFVOGOK1xH/P13CzAuFQjdpRG7hWHdSsI6p2cGCdVWzgGVHHMum/o=;sftdHhkxrOyG3t1YPOXXCQ=="
+secured: "rgoGxo76D3NGHtvPFHgavH8RPSu0jaPXWmlDnokX147e0paZW55irtuUm/SUGptAxR3/ZqRyPF7zzTh7l4WllhCGK6vKa2AL2Vo9e7eAS+vfzz5kcNVv2lsAlqbVd883R1gybcOT7euqfe1DUnCrwq8rWnEa8Im4JJqT16gte3w/CAmnHGNsWaggfGq81Ru+3CQ7nrlsa7y59NKBQbY3Mg8BicGOz0Z8uGAcxKUAIwZ0XuKTFVLm8Vzy2WIoTOYjuTqxVfU/I0+FaKA/ns/CfWDW91lNxpXyMN+NtqGyjuj+vruuwVf+fcVLeg5ufr6I2WRDy2kaltaO5kkaOmRdWzRmidobk1O1jVbvw9Dw/3g=;RQE9dcnlBSkNsJ49PpVIJA=="
 ---
 
