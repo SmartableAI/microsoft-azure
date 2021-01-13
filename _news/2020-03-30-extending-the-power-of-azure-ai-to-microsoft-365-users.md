@@ -224,18 +224,18 @@ related:
         height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
-    publishedDateTime: 2021-01-11T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
@@ -277,18 +277,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"

@@ -23,19 +23,33 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
-    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
-    publishedDateTime: 2020-07-30T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
+  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
+    publishedDateTime: 2021-01-13T02:02:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 33
+      name: Deep
+      domain: thefastmode.com
+    quality: 42
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
-        width: 791
-        height: 371
+      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
+    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
+    publishedDateTime: 2021-01-11T16:23:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "wJp7qiJeX39yT22aFXkVmglKYqsDxSZmQqVND02Z4Qarmo0Qnx+s8LB0xLyhsVV1TRnE7l5SHVpbrh9EsJWLs492YpCRonnYrXXOmG4v4fUywVPFzsf7AFRpgzUyAZ/VPhzWAUKM25Vlgg47wz45FU8FDzJhK5CI2OCDqfTdriAivwA+LJsiZSKtWoeheRBjVotD3saLoB3amNskf+zhf6UOGU2PffayQMSxAVToKLq91Pl6LZB6T2iKDr2t83pYMG73lrIdFYg81aO6kPuytYRh0kOxDL5ZoX/YHcOebpc3UWw3VoGoTtYj/H05KjzXZi1H2RKJVfA4eq/a50XKE/Moq2kZMiKsTgeUKYStsnH/DUARBTxvmE0oOiu2hr+DM1owB7IRAsG114ZzEJ4w64G78tRWlBRcdcIgHQnofX5+042AieBw0PcOUpAOGCy9sXURcwQxd7qaWOnABWGEMhS+Im7DYSYaT2NcnvoSQLchVQbQT3xsWnM0vuuVTKwWGCAB0TfTgfK+auW/A9pcbQ==;UBeGTMMkwEZ1FccYe6OT8g=="

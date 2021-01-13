@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
-publishedDateTime: 2021-01-11T12:35:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+publishedDateTime: 2021-01-11T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+    width: 1080
+    height: 564
     isCached: true
 
 related:
@@ -271,18 +271,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
+    publishedDateTime: 2021-01-04T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -359,6 +359,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "Q0OD+v/0F7wuyv6i8b4C1PQkwL8hHHlowfCNmnP09b+C2EPPwePZ8dR9a0uKUjsj8ZOaI04cYf1pgEANif/Oj6D8HhnCJmNeDR0yhX/fEwhkR4RhgPMbx0fVJHxnrCcGTIfjRi09nSJmt7KzpdMUic5Y+SVFWmqY2uJ+BYhbtH43Kp1xze/hqzB1KGZxamqRWqPnda4f8jgpyfLsSiqEj27U/7JAeKHtZ+A8qt9wZDWIo6g+7tqUlDCed9c2efXCrInUxHWjDwDGMqtF6r2p3WLtGkoWG6nJroN+Wgt4g921ajlBaGD9sGGiYdVxmfE8f9mMoTIyncbdLwDbxhkhde1pMS+TZJweLV8RUzg6NKk=;9//eO3DbQBM40uOxJaJw8A=="
+secured: "TSw30A8UbLJSNFf38HPbBQfQs232w6PwHPl2xAIF1NdL+IiGzHhtZkTS/3yHxOkanm7RcAdvceALgbqHjkQjZCpQM/Cs9Ev+DZpjB3Oe7ZrHsGxC8M1vxqG00jRZNSLMxQag5d9U35MOwFqKZUqfmVKsvmxrNXyDx4kl8W4a2/glv7XVE6vKWyCuRzqUdi1do0afUQUEqbs5Ac9H1X8N0RzX7vjJZxkZ6p5oKKmpP+k2Nmn8Ll6W9u59o8VgP0//uioAMRB4YLSHoWfP6HlZ1KUEGv+F5eGnGYVRuxj0Kmzzd3o/KDxJoRxwpCRlYU++bsCZvZBd2dnER3stFSs51lcfPv0mXPzsBPuONMrRyCc=;8q1W7dvdMus63WszsuiA+g=="
 ---
 

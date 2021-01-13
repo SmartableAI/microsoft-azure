@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terr
 webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
+    publishedDateTime: 2021-01-13T02:02:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 42
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
+    excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
+    publishedDateTime: 2020-07-24T23:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "sX5vpvk7MGAvNwGWR+nhKWdIVPFebkjb4XVIHmEV+l8W86Jj5KKu8a20+N2xHEHamo07otEOeLo2LHvhtgTfi8cbPo1p17MqyDXmHvlko/0gqZYK34fGp8xjRUcccxp1kDv0nBrgofGntoqqv4/THcPiWGVXeDDlrVGXyWZ38HrYVdHgSEOgyQqX0WwRG+lY8Dq8lLs4KYsSJGXcRrmV9/9Hzgg5wkqhY1XnYDatsI3UJJNzI6VjVOWvSztqKhQs+ru20Cl1/sQ8wdnbfg5iCqNxE4hZerwbyWVn6phQMl8BlPnXOoOLWM7oDZwjs96+N/WcPNP/gsGgOslkCjxpCUipMYN8qbfsMDLGRsH9KCWelDaPHVXFTdjH8W+uhchPcpPLtWbQFpGcYv5LHNkXUKxzDZABD+43dlLRi6yrxtC4ZcSRClDpPEmwtwXHw0EnDLP6ZTvr4Pw9soTyGvib28yaT3EX1c+i731ENzT0xW1MKVHzI2C9cjEPTOlZa9wV4+O9HeAzgwuRnIeFhbJdZw==;l4LetHWADiN/Y15mE6tdPw=="
 ---
