@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
-publishedDateTime: 2021-01-11T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
-webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
+publishedDateTime: 2021-01-11T12:35:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
-    width: 1080
-    height: 564
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -359,6 +359,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "TSw30A8UbLJSNFf38HPbBQfQs232w6PwHPl2xAIF1NdL+IiGzHhtZkTS/3yHxOkanm7RcAdvceALgbqHjkQjZCpQM/Cs9Ev+DZpjB3Oe7ZrHsGxC8M1vxqG00jRZNSLMxQag5d9U35MOwFqKZUqfmVKsvmxrNXyDx4kl8W4a2/glv7XVE6vKWyCuRzqUdi1do0afUQUEqbs5Ac9H1X8N0RzX7vjJZxkZ6p5oKKmpP+k2Nmn8Ll6W9u59o8VgP0//uioAMRB4YLSHoWfP6HlZ1KUEGv+F5eGnGYVRuxj0Kmzzd3o/KDxJoRxwpCRlYU++bsCZvZBd2dnER3stFSs51lcfPv0mXPzsBPuONMrRyCc=;8q1W7dvdMus63WszsuiA+g=="
+secured: "bhmZN/aibiUh05NCeRjBkt902bqlY/54gRgNdOmR2pQ9+TXZxBmCtQh+m13DUGKSDpg0U04MGvJy4sGcrb9jDL7HwEL692hDpBkyIHhT14Bz4LQvSXUAZZTM3UT+7hY8ztnmpbnPzxPWCKz4y5t23LA9CUKFCt0JIkW5UfCl+dw2xi996G+TTwLHdU8gVsp2b37YgVkMCBtCPVyB2jNGWUKui5vqf18yb5Z5cAKHceBiBCeOw78C1ICdrQ53Hg/GWvZzO9E5J0AzmY5JAH6w14Jli+Efjo+lKiWiBqyDY3udAd+SSUxUzz19MoWtMwtaKC5t6Dj+FtrUd2Kpxp2bvFaL9ln5yjeyYTD+NOVgxKM=;PNq6BIPk/l3oKt8TXNAWbg=="
 ---
 
