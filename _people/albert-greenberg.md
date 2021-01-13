@@ -3,7 +3,7 @@ name: "Albert Greenberg"
 bio: "CVP, Microsoft Azure Networking"
 location: Seattle, WA
 type: "profile"
-heat: 58
+heat: 41
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/Qi51LMiucG
 twitter:
   username: AlbertGreenberg
   url: https://twitter.com/AlbertGreenberg
-  followers: 338
+  followers: 337
 
 linkedin:
   url: https://www.linkedin.com/in/albert-greenberg-376a39/
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Albert Greenberg"
 
-secured: "cfQ5mSHH0Gq5C4IjZXw/k7ThTnK/6AcaImEJoboZdkRX43DxVt60+h8TR9JH78KT2Jti+5IMqncdgJOvFQEXwIHQBqodMY5x60K6gikvebCaFDqnuxLexge+w8IRvrKJUolLUa9z9tL8OqasBdQl25/qH+HPq0084HKzltGVRXazbgC75aKJRvAmSXbgCNaCIoy3lun6jGriBmEkMqyU/eemduzUBJ2RtCjTACj4MdwJFgJXo9+DvSo0GwmAd5lOlb7bQKzn3wbraeiU1oCAvyYZdjGD8B1T5fCFg06U/Qxka3IERXeCfjty8uf85PbtHc+PQge5UC+yhd+u/RXqu5kVWlINt1L9u6hTF+fb2qjVqHZggHf+mruI8UTK47OLzzGTdhwYY/l+gS859wvPag==;OuTXLPImwjxoPGn1RNfSAw=="
+secured: "PwtlMzfwr/aMLySiSgzQZ6PT+sjFbumBZ1yl1ZgwxGQDjviZDPWfn7Zl4HMNxZ0lyjGZcQSwfmfvAXBON6LrAihAA+XoncLx3zk4wsvhSFRNolVWZBAbzr/qyI+L+a+i9+4LwoHMH4TCIF8ZDJ9kKFHTc88MDofxiDBnSmWykMdf5GnPyDfOk8oti5ji+zhzzNySS6AMG+UiSQHr2zjJhg87kAu/+cYWJhxd2GcfnhMS8YtT2Pgi9eYItRv0KMS/a7f3waOwA6+mSIdCZ8f3NCpVpL8aPNrvNFyFNFHCRUEOslyHA1ogwEYLH2ukdzWqeuvpXiTz5xCP43Q/rtLEO4/yvl+MKVd98rn//iHptObf5nKhlCXNNSZFX9K2aUYL7ioM66ouU2LeEbYJyTgdZw==;lI3L3MeFnGySweTgoopPMA=="
 ---
 
