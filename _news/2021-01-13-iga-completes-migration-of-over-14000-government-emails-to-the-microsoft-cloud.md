@@ -1,37 +1,34 @@
 ---
 category: news
-title: "H-ISAC TLP White Threat Bulletin: Microsoft Cloud Environment Post-Compromise Threat Activity Detection"
-excerpt: "This alert addresses activity irrespective of the initial access vectors leveraged that CISA attributes to an APT threat actor. Specifically, this alert serves to address threat actor exploitation via the compromise of applications in a victim’s Microsoft 365 (M365)/Azure environment in addition to the utilization of additional credentials and API access to cloud resources of private and public sector organizations."
-publishedDateTime: 2021-01-08T00:00:00Z
-originalUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
-webUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
+title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
+excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
+publishedDateTime: 2021-01-13T14:15:00Z
+originalUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
+webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
 type: article
-quality: 0
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: aha.org
-  domain: aha.org
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Migration
+
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
+    width: 523
+    height: 404
+    isCached: true
 
 related:
-  - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
-    excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
-    publishedDateTime: 2021-01-13T14:15:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 35
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
-        width: 523
-        height: 404
-        isCached: true
   - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
     excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
     publishedDateTime: 2021-01-08T21:24:00Z
@@ -74,7 +71,16 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "H-ISAC TLP White Threat Bulletin: Microsoft Cloud Environment Post-Compromise Threat Activity Detection"
+    excerpt: "This alert addresses activity irrespective of the initial access vectors leveraged that CISA attributes to an APT threat actor. Specifically, this alert serves to address threat actor exploitation via the compromise of applications in a victim’s Microsoft 365 (M365)/Azure environment in addition to the utilization of additional credentials and API access to cloud resources of private and public sector organizations."
+    publishedDateTime: 2021-01-08T00:00:00Z
+    webUrl: "https://www.aha.org/h-isac-reports/2021-01-08-h-isac-tlp-white-threat-bulletin-microsoft-cloud-environment-post"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 0
 
-secured: "DC+0+Sblro+ECZJh2Gniycsx1b8yA5qQn0KIMuUcKumebplE8Bg8PhoiVI9CjMduDRA/Wnxd7wL3ciqX0X1NFei6AGM2Yw+r503HYktyAzEfI6V8dKDy6peCOoWZEx8ULPEPF/WnEk029MqJhfl1ORqO21fg2ACyZzedmOiCK5X+azhTJ0r1BgZbFplDsVN8QdNTHK2nyxR+UK4z4SA2vjUtsnVXatoZ/CeGmmkPeUv0gcgJS561Xo+FhATHjnAUWtzLunv94bVWaW7XFY+uInzkpuxyuaPeOQhOgPHJ8Z71rCvlA05aYfDwOhwkugNQmAwh6/uc/3ok/0qFssDoIdqlkyfar/twFjWMKR1i7Ks=;iRGWvMa7IFwRMid2yekVrA=="
+secured: "z1zZ3n1vfy5FYPH7tVsP1fsZUnDH8Zc0dO1OfCOkCA56hauaTBxJPqfQ71B81vNKaduRsuI8vZV5F/+W7KCz9wGGKPwWRaYgKTfYriDDm20Dx7NvDNXcWmyz2awXqI0kaf+4PQSHrd4v1rEfEdDEhkzId0K3fhiMt3DZ9ZtXb9ptW+PNalh3smjuxdNAlaThQviA8VeVbXefzHi33vOpq8dRFhMavv6ojnB1Vo6J8EBw9haVQ92jdfGMtL7sRNHSMD8GKfuHeaSMssinHQjhnTviBxBLRMMGT6eI7fo2mwdiqx4uGmB21abzL4nJxdmTzrUSFBX5GqYFHi4TlWa+Qqx2mfTSH/tUNEsXKRXgK7M=;/qJy4oMdQ9+tFPQ5Ggd3Dw=="
 ---
 

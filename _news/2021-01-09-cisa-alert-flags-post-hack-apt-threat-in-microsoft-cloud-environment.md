@@ -7,7 +7,7 @@ originalUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-t
 webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
+    excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
+    publishedDateTime: 2021-01-13T14:15:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 35
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
+        width: 523
+        height: 404
+        isCached: true
   - title: "Insight selected to deliver £35m Microsoft cloud deal to Cheshire councils"
     excerpt: "Six-year deal will see VAR support Cheshire East and Cheshire West & Chester Councils as they adopt Azure cloud services"
     publishedDateTime: 2021-01-07T14:29:00Z
