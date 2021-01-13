@@ -38,6 +38,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SymphonyCare, a leading provider of clinical and claims data solutions, today announced the availability of WellStack™, a modern healthcare data ecosystem and big data analytics platform, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-01-13T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z

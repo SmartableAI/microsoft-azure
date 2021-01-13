@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-publishedDateTime: 2021-01-05T05:34:00Z
-originalUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
-webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+title: "Microsoft is getting closer to running all of its own services on Azure"
+excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
+publishedDateTime: 2021-01-13T06:02:00Z
+originalUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
+webUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
+ampWebUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-    width: 768
-    height: 401
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsoft-is-getting-closer-to-running-all-of-its-own.jpg"
+    width: 770
+    height: 578
     isCached: true
 
 related:
@@ -162,22 +159,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Microsoft is getting closer to running all of its own services on Azure"
-    excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
-    publishedDateTime: 2021-01-13T06:02:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsoft-is-getting-closer-to-running-all-of-its-own.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -237,6 +218,20 @@ related:
       - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
+    publishedDateTime: 2021-01-05T05:34:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
+        width: 768
+        height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
     excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
@@ -380,6 +375,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "cFtBWaEYW1OETux8tpY0VHFDrWzhgReO5wR5/FOvQL6TW2fYMAeTeMVU5jZc1d/hQWHPLY+MpRuO0zz0NkgVNMMF3IJ1ZrXaTJWiAQAAl3t9Z2Oj/hGWMlSaNBvf9kmY5I054Hd04uO7XyfgbtmfibCntp6wN7snaXZwo7TlTT7uV8NKg44oMv0BD6j1bx2WBaiXDA2SykaWwJilkEbH4G2J1BiJ+A/7B8ICnC2wJhwvfop4+5fHq8ELYWrUmlcMEcToh+bHN2kgi2eyYjFMY5yJvkOs3XR22P6xLUhqKHboCYCEm/boCBxXZH5zz5KXL3NZW6fO0BCo61Q9B5+BBcJNkQYn02FQYsAxftRaG5uGivpts9S2FbvKq5CZe/+908SJrDz3hmPjRQQO7wcNBOfcucjcLRuhiTcn3cYBilaMR1e/+Ip+IoVGB27T1TZzc0B4IpUsm1gEWsXLFWGJHS2KqZa8iBxJ4r6CQjtIeojCsxB2hej2XNrEcC9ikM9Xvhq3JIU5+l+ZaJ2BYz8DPw==;KRYwUNMttIHqkY8g2iqMSA=="
+secured: "o11N5zmpWZxiXtzgSAJp2jhYU0uPMjUBJwW7mCJVVY6xVWml5bsKObmKjY0eWv0GqHWdVdf2m/z1+I9GtnpIBGGp88C+HiUcsrUCbdn1hGTwmTGHQSP3T5lCom65vYtsueOI8BVbGP+EgffqCs/0KmjvtlXJ9HI4n2RDV+1l2fbjTKs8aI8dh4QS/Bgp196ZWKa03wlWfq2gBBGrR6EMSZJBaCfXfs3UWq0Gf6CJ4SvZTCzSb+0vuFNOyxWwGe5HB7PHHqLn44aDoLZWKqJcwpyUrBqt6mqlU7m0GKAqz/+RpH6o+AhPCPXTrJ+3Zvoo63BS09yQnKim9bNvC5bYUazAK0KKlejuw5jxt93jpD4=;xWWZizx966own+pgRPPOkA=="
 ---
 

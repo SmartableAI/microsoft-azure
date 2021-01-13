@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SymphonyCare, a leading provider of clinical and claims data solutions, today announced the availability of WellStack™, a modern healthcare data ecosystem and big data analytics platform, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-01-13T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
     excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
     publishedDateTime: 2021-01-11T16:23:00Z

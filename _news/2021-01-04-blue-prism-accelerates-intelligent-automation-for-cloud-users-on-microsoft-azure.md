@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and"
-publishedDateTime: 2021-01-04T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+publishedDateTime: 2021-01-04T15:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -157,6 +157,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Microsoft is getting closer to running all of its own services on Azure"
+    excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
+    publishedDateTime: 2021-01-13T06:02:00Z
+    webUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/"
+    ampWebUrl: "https://www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-is-getting-closer-to-running-all-of-its-own-services-on-azure/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 57
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Microsoft-is-getting-closer-to-running-all-of-its-own.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
     excerpt: "By offering the Microsoft Azure Fundamentals workshop for free, Seneca, Microsoft and RBC state they’re ensuring these foundational skills are made available without barrier, helping to develop ..."
     publishedDateTime: 2021-01-06T00:00:00Z
@@ -359,6 +375,6 @@ related:
       domain: cnbcafrica.com
     quality: 12
 
-secured: "OOlt83B4KAtqvcZxuZ/xHwzGcpqEXvPkB7+0L1ggT8rljXLTlrcES0IFisIY8hnttgvUThS+fW/3Z9TfqnhvdOcPw/eir2+eU/7A923VAgqFrZR7Umata80o3GST8Ilr5y+nmMxOuYD3bkP2yzY8bEXFvi/VHp1dHOKRlbbDU38FHXFwicfJmOZnu92bdIs3nKXBFtD1JeLDm5v3z0++oWJ/Gat62IK8E8yz0qxCew4FXyHwj0Cs/ehw1aL6QuYgxB7Vdkuc6I1ESXLhxMbepwfi8lYVmCk8gZrw1+y8HugebtplX525mXt5ILNufF8OLm4HZeuPCld5+v8Kv+7aE/soT5bheMblqh2/DAey6yk=;E8pg18cHFOIdU1eVuVMhBw=="
+secured: "m8ptqiTWVQZCL5R7zwYgE0VLTTu9FlatyMjlbneWUfHmENM3EComKQm3DdwR/Ovz9f6zDlgTbKzYGsKE6DZKO042DQ+bfQ0SlsEqK8m6EQjoyG3rxVNk8zfJa0Z8VuVK5qKLPkrnYcHhjbi3o23qHXs2YBAQMQaXO4u5S78uBXTfLxBuJQLD4MuOJLnJaReUXvKO1Q0xX0S/cxKSHplMMiNxHd4IBfhDAac6Hz8pXSwEu7XqNqPk+nx8fXhCo47Ok9Laoty8lakX/k3ffOffmrqEVxQEuq2k22Fwl2gy98bfONWX8/fYY50xEyM5AZUXKr7hK2pOEWam4auhAilphjYrC3aahdQrhoQVfqWIG6c=;NcEG6oxdrV78Ni6HnRAasQ=="
 ---
 
