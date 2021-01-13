@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
 webUrl: "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/"
 type: article
 quality: 89
-heat: 170
+heat: 169
 published: true
 
 provider:

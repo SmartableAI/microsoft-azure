@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
