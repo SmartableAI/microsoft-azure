@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
-excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
-publishedDateTime: 2021-01-12T17:02:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
-webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
+excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
+publishedDateTime: 2021-01-13T12:48:00Z
+originalUrl: "https://programminginsider.com/5-tips-to-prepare-for-microsoft-azure-cloud-certification-exam/"
+webUrl: "https://programminginsider.com/5-tips-to-prepare-for-microsoft-azure-cloud-certification-exam/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: programminginsider.com
+  domain: programminginsider.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://programminginsider.com/wp-content/uploads/2021/01/microsoft.png"
+    width: 750
+    height: 450
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -142,6 +146,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+    publishedDateTime: 2021-01-12T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -257,20 +272,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
-    excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
-    publishedDateTime: 2021-01-13T12:48:00Z
-    webUrl: "https://programminginsider.com/5-tips-to-prepare-for-microsoft-azure-cloud-certification-exam/"
-    type: article
-    provider:
-      name: programminginsider.com
-      domain: programminginsider.com
-    quality: 37
-    images:
-      - url: "https://programminginsider.com/wp-content/uploads/2021/01/microsoft.png"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Nearly all of Microsoft’s services are now powered by Azure"
     excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
     publishedDateTime: 2021-01-12T18:12:00Z
@@ -397,6 +398,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "6ElQLSmuY5mJY9U28kGvIaIjvZ0cFkalP/O7OijQVQbNjRM6moJyJBPxv2J0q3UhuYuyZhzylIYpiA2G/U3EbO8FrxY/G/pNrY89/emIaHwctnKW3jHXzNP7BfD3F0IMcJsyxo4zKrD0iXZAC5L//5tgMMikhgWIACOgM4jzZOcwKE5V8Ywr3x6aaOXiUAruOOTKLNGHOnccScqxmal3jTsjEDh98MqEejNqGkhy98vG+qd4Rkfue2j9VD4XsXiTCQgBkZOi9Tsp7z1Mft3ppN3qy4ki2IZvtU8u/Jpb3Q+VTeYhTEDArzPM+EcHoEI1KtTMS/2LHtt0vDqNY/aVRsRSPDpGhRmCWpDBTvw0g8E=;CKOgV7XeC1OAgq+4lFUXQg=="
+secured: "3DUw2oEXeHjmu/S6LtFt4u5hcx+zIWJ4V4lt9Z2y7cWCjtWnWkjDLg738N3HelI2IhMEEQzf81arPF2XDSoK+LQ/w1dlS8UMyX4YFTGir+8srsQDQdnXZtQ0Lsoaa0fdK4/wrtrhsasw1aegrkn18K0MjfsAVD+lAeAE+KTtcqo4vJp5ycYK76GX9fyaXqC1YfvRpKmrmMLAajy2LitNZrZST5DHrxHSAa9vVZ5n1TyLRaRgRrxH+C1IK+x+ppENX0efu/g7SPy7g8CJ69v1kmCU050kDCxWZWqYO7U0Lg3kfYb8tbram8vYxdF77UVtND1Lono7Y2xrk+EAM4i2nbdrhJkp0OBnp9fmpHcMDa0=;u588rdgCavGi+J9OwTwXGw=="
 ---
 

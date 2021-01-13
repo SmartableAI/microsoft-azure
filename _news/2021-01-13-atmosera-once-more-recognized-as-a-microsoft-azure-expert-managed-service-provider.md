@@ -1,27 +1,23 @@
 ---
 category: news
-title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
-excerpt: "SymphonyCare, a leading provider of clinical and claims data solutions, today announced the availability of WellStack™, a modern healthcare data ecosystem and big data analytics platform, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-01-13T06:54:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
+title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
+excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
+publishedDateTime: 2021-01-13T11:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
 type: article
-quality: 37
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
@@ -38,6 +34,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SymphonyCare, a leading provider of clinical and claims data solutions, today announced the availability of WellStack™, a modern healthcare data ecosystem and big data analytics platform, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-01-13T06:54:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
     excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
     publishedDateTime: 2021-01-11T16:23:00Z
@@ -52,17 +62,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-    publishedDateTime: 2021-01-13T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z
@@ -78,6 +77,6 @@ related:
         height: 300
         isCached: true
 
-secured: "7lqrZYzwbdnwCJWRESkTNSwhunbikOfVBJwIcGaCfFFHEkqeOH2wtIBAU5fDA1tQXNWFZPgDKiERKCFTDMiWWqXR19x+ZTDP/OSwTtahkCrt/ii+TpFipKK1PKoLCYN6r+3KNKLbcGWhTqzQuiPthLZFHU3RK/MMCSb0ottkZQnSg7zDgxYgLdYUlBfxaziqV6LSsH4w1Faf0MLK0kuwF/tc/zB/FGCNQ0DqwX0nSChzV+xx+/xeRn+DB7S7mOCKI1VZRGRDdThLhjqYrGLK3vc6jyCgF2xqdVIM9+qiD18OtXhLgR4PYvFxyNIoLO1XrnJPZKXayG6HnX3w0cQv6t1u95jbx03E9yH1NaKmGlI=;XIoKfc5BNpEx31+PkaFvzw=="
+secured: "MSB8/xykG0+9HpxtMfnDwkbXKL5zH2zry2OImZCWUJdKrc+0uBWrse87DYj9Wfj38Bx3poZ0d6kOwSHO6NQzwKHPXfzuaJdfKjVyjxrZj6awvqgV7zlliJfr2Dp52l2Qt8n9dYFAswqA+DhrUfXgEzUI/NCtRV9btTkXDgdoLA/eH8C7CEyR/QOsLOo6JLQ6UrOL72XbyELf35AOD2t19wlMm56ItF4LAlkmKfIZ6XLMpOVISuT4FS7eW6YQQwVJQraC/eUKersfSLbUcUIToCHnxKZ/7AC4pUxulmgKLNYx7Sco6Z8Du21t/RSk1tx3fbXFq4kUCM8J1/7psExVj0ItXV6j/5Grf4n95WgIIIA=;XU+vBrbrwtasKUsvDQWWVg=="
 ---
 

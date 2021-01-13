@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 629
+heat: 669
 published: true
 
 provider:
@@ -263,6 +263,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
+    excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
+    publishedDateTime: 2021-01-13T12:48:00Z
+    webUrl: "https://programminginsider.com/5-tips-to-prepare-for-microsoft-azure-cloud-certification-exam/"
+    type: article
+    provider:
+      name: programminginsider.com
+      domain: programminginsider.com
+    quality: 37
+    images:
+      - url: "https://programminginsider.com/wp-content/uploads/2021/01/microsoft.png"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Nearly all of Microsoft’s services are now powered by Azure"
     excerpt: "Seems no better way to sell you cloud services and products than to use them yourself. Mary Jo Foley over a ZDNet is reporting Microsoft’s chief technology of Azure Mark Russinovich recently"
     publishedDateTime: 2021-01-12T18:12:00Z
@@ -292,18 +306,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+    publishedDateTime: 2021-01-04T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -379,6 +393,15 @@ related:
       name: CNBC Africa
       domain: cnbcafrica.com
     quality: 12
+  - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-13T11:50:00Z
+    webUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 6
 
 secured: "amklCPP9Ti32yww19dX//YtPkDVGmPquKz8kjskPMJxsjoEe1nDPuxUNFk24T+UUKtpWfIZfH0HkHV8kx/bs9dBd+0qaDGq2whxBtbmREHRXC2XP5ltk1LZI+/nskiMdH313IBdRU7bC/njIqEBWzcY6rEaYGJjHf4M0e6hvtQaRYDFeACi6uEV7NA22w0lk0HvbQaufsBfxl9zUHCOwCkefMjc+0Dkz0FRaGWnh0I04kcbKPh/+QVvKgH58pWINCYPKwqyRkOTxLRdHtvkOJ4WURBSRDL9OLJF8yCP1Bri8DgsFWHWYImnl+OwymLW2AgP34/OQ3rr+FQZAvhnX45+ZhS5Bcam6Q1ELORBbNAUBHGr3SRRg7Exsb9t3o0ewlDJrnoTIsXUx89gYT3jK0JLajCBnJyOQsEnmUCMZVW5UKtw1nlO4IQ2M7H+i9N63xAC5aZNPtHUHeaSGnHHOCCQjVa+LsrwJ0162T2Upj987rshEloKizwHP0VE8WDaYLMH0kCi/Pl257bUHLtWUng==;pt25vJJ7fx4JQ8JcoX7ocQ=="
 ---

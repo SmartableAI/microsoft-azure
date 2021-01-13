@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
-excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
-publishedDateTime: 2021-01-12T17:02:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
-webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
+publishedDateTime: 2021-01-13T11:50:00Z
+originalUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
+webUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
 type: article
-quality: 77
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Tata Consultancy Services
+  domain: tcs.com
 
 topics:
   - Azure
@@ -142,6 +140,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
+    excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
+    publishedDateTime: 2021-01-12T17:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-extend-azure-cloud-to-verilys-terra-platform-2021-01-12?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -387,16 +396,7 @@ related:
       name: CNBC Africa
       domain: cnbcafrica.com
     quality: 12
-  - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-    excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
-    publishedDateTime: 2021-01-13T11:50:00Z
-    webUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 6
 
-secured: "6ElQLSmuY5mJY9U28kGvIaIjvZ0cFkalP/O7OijQVQbNjRM6moJyJBPxv2J0q3UhuYuyZhzylIYpiA2G/U3EbO8FrxY/G/pNrY89/emIaHwctnKW3jHXzNP7BfD3F0IMcJsyxo4zKrD0iXZAC5L//5tgMMikhgWIACOgM4jzZOcwKE5V8Ywr3x6aaOXiUAruOOTKLNGHOnccScqxmal3jTsjEDh98MqEejNqGkhy98vG+qd4Rkfue2j9VD4XsXiTCQgBkZOi9Tsp7z1Mft3ppN3qy4ki2IZvtU8u/Jpb3Q+VTeYhTEDArzPM+EcHoEI1KtTMS/2LHtt0vDqNY/aVRsRSPDpGhRmCWpDBTvw0g8E=;CKOgV7XeC1OAgq+4lFUXQg=="
+secured: "KgzYCe0mlRI24vjWxU1cssx7YY5fIQGWbUiQBnMLLTAmjmqEr7s+XPUdI+bgjpJE7OU6p0fGccz3mpTui78ooXn5qhCS0hm7xJa1crU/U25UNBSRxWQmakH8eWeNOMw3NwRFQGn0LiVpmYnZapRxAbijjMiNzdcHPYVPAhQtwt73aVyxMRkM1ynQQxb4JkC/CYnMK20Yi6ozN/+SIzpIAODqOdgVPbgQI8CRN0wNdkwDP+L2qfNe75QPBV3Ip2hDwh1azKZYB6OVuCEVIMvxqUHfAgOtm5+MO0avdR235rj6rMJVLjSe2Vw3bPuQJrjQg6ygjJjztN2cH2pV0gDQJ7ydGsvAwq2JdcyDmmkcMd7wS23VG13Z4HWI3a/6iYaCt5gZN22v0IzzMkkZ6qZQN67kuxGFAF/1Ad0CUBdguHsA3ndwBzntxAjWFVKhAM58Dbehy08r5FbS8A2/oKEYUhnQdeo+XDzVdqc2xN+PmIeyVQZ6zM3Qx4H6FtLznQGEMN4CIiqesbL9NVaAe347vw==;M3UwEJYtjoN2HViWJL0shQ=="
 ---
 
