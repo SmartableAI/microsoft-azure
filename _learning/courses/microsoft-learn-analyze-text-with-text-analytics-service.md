@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 509
   average: 4.8035364
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - AI
   - Analytics
 
-secured: "GytHUV4GhGZzMDYovG7wL0jrWJmNijqQ3iMBRrJLibGnQ/pbPD4AwByU4UgEjMrtVBRslysWP0fHqFRHRP3aO9Ea5oUEoMI5CQzhk8BLbuCv/xltSaB8Raa+42RnQBNBB8pKSy4/y8sYBqJ1cKeX0pCCPn8c3DSO0NtnaOAgc7ppg3+HsF4aYxifFGqeYOuYvA8bNZSgBNgXQ6rcSW28rOYnhSDLgfFBH2szH74b2K0M86MKseRw8fawJ0tfiKkbYoX2RNDaFseSQKSofkDLoPW67pOKH+z33x/Q/hK0vh95f/LCWzYb/NSZqQlkcB2HTL6+YD7B+jVmtFYedEkE7WIVYKit8BPktwelyBZZZvH5wep+lW1OF1TQReW+T8Yd+bOPJuIZ8LJjaOHvj8l48ol/M8oe7nlCPT9bNRJlcnw=;F7wCD5uqCO/VyuJBlyZ5Xw=="
+secured: "Lp8aSwuFQD2dasJith1+jBWvNLbyvZmqGNshQtmYsQbilGavkL5/tnzkeyB+aQDFkL7gDI38QCVQQRJ/fZ8LYsbcv4UpZ5JBdcwH5D9MWgEyv5coSlzw3tfeHf5m1VPgl+xS+PlOh+iGro+g2O+neAWQyeNszLLeZny6H3MTd8pgZ4j6LqtjiOhZJFtQE4w/V7TFapSlNaAufQT4SJvnBvqYAFYJ71t+VJIMQPHYq724CCwtclVYw89yQLmyns43cftl6wKk+NK9Q4qpYbeZMZvSpazF4hTAMCqhmDIkqJzW1QLA65iUtCvum2oI5HGBfmaN5cTfGLY1Smsj0FMWPK8m+rhcraF9xSzJ9hMTVgN0dVLKJ7m+L+TyDRWUIa5P1tk0oI1lKSkork5+NRhC/gYK3YlMFCDUcAVHBwEoYw4=;FcNKQ+kEfU+EByAHV1RwmA=="
 ---
 
