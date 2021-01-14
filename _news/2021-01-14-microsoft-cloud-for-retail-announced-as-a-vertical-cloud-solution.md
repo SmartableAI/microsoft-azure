@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+title: "Microsoft Cloud for Retail Announced as a Vertical Cloud Solution"
+excerpt: "Microsoft has shown an interest in developing vertical cloud solutions, starting with the launch of Microsoft Cloud for Healthcare. Now, the company is back with its second vertical cloud service. Called Microsoft Cloud for Retail,"
+publishedDateTime: 2021-01-14T15:09:00Z
+originalUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/"
+webUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/"
+ampWebUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
+cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
 type: article
-quality: 97
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: winbuzzer.com
+  domain: winbuzzer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-    width: 893
-    height: 439
+  - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -107,6 +103,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
         isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
@@ -238,22 +250,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Microsoft Cloud for Retail Announced as a Vertical Cloud Solution"
-    excerpt: "Microsoft has shown an interest in developing vertical cloud solutions, starting with the launch of Microsoft Cloud for Healthcare. Now, the company is back with its second vertical cloud service. Called Microsoft Cloud for Retail,"
-    publishedDateTime: 2021-01-14T15:09:00Z
-    webUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 42
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
@@ -476,6 +472,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "WKSvgji3zElMm8ojRoYdIbZAKiYNL2TWr0mo4460KNqgo+NlZxkCok2qgxJZkV29j0zeUoZXBsvR1ADsRNYDiGd0ObK3i2+g0Y+J80gTwe3SmQzzDPWACoaM471HPFjFwE0BmwGW9etkKBm5zLYD9sjDB0HfQ7URHuie7PCmZa58+fOjBSrWVY1PTb6veiU/tsB9xOGeyEVtq2GEnK+5hwmYhRQbBt0VgnUTRwmdPOP+tt8O+HmZo+Rc6nIjZnbCxdK8dvRrFijmMg6JBAYb45F0iYLyd8MpC3vTfLFi+337MM7V0cFDe9+dA3VzAy73g309Hx98Ptv6BQov57sIJFnKVLOtoM+CEam7i/KN6sCk87m6kzDjUk0Mr7iW8XDdFG4TWj803W4iiqXZxuh+U27oWv428/pxjMKo8MdUG2jJf8O3CFRlPw9131P4YV+a0d4vuY2t+m0gF/Rz4Yh2njjVLf3d27H3L6hw3LiXxNFSJZzrJnPz0jvZBdmOgePEaMxhG100SDrZvIvDCzmuoA==;ln57c1GSa4/B6WDU1BHvpQ=="
+secured: "izWvuCM5t9TrUKr7zJhMan4Gr6Nqwd4QInDlzfOaVBWAz2NODSk9XcJMeIjIes7fDbLgIJe7f9s64haLzMBZbLcdS1e9uw1nyqjjFBwfDD9Qb3Q4Gbv7zMWgj+Ep1P6h0LvM9H9eGshBCQXinkCdWsQf7yUAnkr6oidp/oAV/4mn0xK6/jhD+yoTrsTCd/iUROYLfGt1LxbYvsTRe1AFM3r6e9d4UpNxn04CH50KXQPwqL1NRRr0DHhhtcWN0oz6I1XFdRnIXHcgZ/wW6mScx6wPja9u8KGmAb3ZEtTuI0VgWJW0XQJI+ayHk5W21reHOb57+RjicesroCyZXRwPYbjYH7TWHCbuNLoO/1xN+58=;yr8AH4JY8Mdukj5up55EPQ=="
 ---
 

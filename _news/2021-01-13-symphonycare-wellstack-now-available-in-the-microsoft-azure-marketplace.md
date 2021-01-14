@@ -38,17 +38,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-    publishedDateTime: 2021-01-13T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
     excerpt: "RANDOLPH, N.J. and BRUSSELS, July 24, 2020 /PRNewswire/ -- Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Tangent Works customers can now take ..."
     publishedDateTime: 2020-07-24T23:16:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 729
+heat: 769
 published: true
 
 provider:
@@ -212,6 +212,20 @@ related:
         width: 620
         height: 250
         isCached: true
+  - title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
+    excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
+    publishedDateTime: 2021-01-14T17:09:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
     excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
     publishedDateTime: 2021-01-11T02:02:00Z
@@ -225,6 +239,22 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Microsoft Cloud for Retail Announced as a Vertical Cloud Solution"
+    excerpt: "Microsoft has shown an interest in developing vertical cloud solutions, starting with the launch of Microsoft Cloud for Healthcare. Now, the company is back with its second vertical cloud service. Called Microsoft Cloud for Retail,"
+    publishedDateTime: 2021-01-14T15:09:00Z
+    webUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/01/14/microsoft-cloud-for-retail-announced-as-a-vertical-cloud-solution-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 42
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."

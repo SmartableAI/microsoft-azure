@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
+excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
+publishedDateTime: 2021-01-14T17:09:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
+webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
 type: article
-quality: 97
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-    width: 893
-    height: 439
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -107,6 +102,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T14:08:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
         isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
@@ -210,20 +221,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "Alphabet's Verily goes multicloud for Terra platform, turns to Microsoft Azure and AI"
-    excerpt: "The Broad Institute and Verily plan to use Microsoft’s cloud, data and AI technologies for their Terra platform, used for biomedicine research. Verily is part of Alphabet, the holding company that also includes Google - home to its eponymous search engine and the world's third largest cloud provider."
-    publishedDateTime: 2021-01-14T17:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/alphabets-verily-goes-multicloud-terra-platform-turns-microsoft-azure-and-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 47
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "HITRUST, AWS and Microsoft Azure publish Shared Responsibility Matrices for cloud security"
     excerpt: "Developed with AWS and Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s solution offering."
@@ -476,6 +473,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "WKSvgji3zElMm8ojRoYdIbZAKiYNL2TWr0mo4460KNqgo+NlZxkCok2qgxJZkV29j0zeUoZXBsvR1ADsRNYDiGd0ObK3i2+g0Y+J80gTwe3SmQzzDPWACoaM471HPFjFwE0BmwGW9etkKBm5zLYD9sjDB0HfQ7URHuie7PCmZa58+fOjBSrWVY1PTb6veiU/tsB9xOGeyEVtq2GEnK+5hwmYhRQbBt0VgnUTRwmdPOP+tt8O+HmZo+Rc6nIjZnbCxdK8dvRrFijmMg6JBAYb45F0iYLyd8MpC3vTfLFi+337MM7V0cFDe9+dA3VzAy73g309Hx98Ptv6BQov57sIJFnKVLOtoM+CEam7i/KN6sCk87m6kzDjUk0Mr7iW8XDdFG4TWj803W4iiqXZxuh+U27oWv428/pxjMKo8MdUG2jJf8O3CFRlPw9131P4YV+a0d4vuY2t+m0gF/Rz4Yh2njjVLf3d27H3L6hw3LiXxNFSJZzrJnPz0jvZBdmOgePEaMxhG100SDrZvIvDCzmuoA==;ln57c1GSa4/B6WDU1BHvpQ=="
+secured: "TSv153hvl3m6BWvofPtvnFLCrAsizrw13FtoPBLyW5L/4MOli+1pJGQlDI7sLhcWI26SrO63ReiP16cQKkucaUgTM5jtGlYWsdPXUYbpfcgFL02VK4FtkiaofdcEXriko/Yg77oS2RAFMqM7oRMczpsd++XlI0T8lpTIZGch7xyEK44Td4/qGwN1XoXDqcRulvlZ2RyTiytpxMDuTpZTPJTxMIpKHxB58ZsJ8uTdhAZCASyQzCjd/KdAwXF9TW4pNvTDUElYcOh8HeSpCZ960SB49RjxyrX2ZwCBoG0oqHEmqGQJjlDlKObjD/gQJVhBe3tS3GZCRRMIsRCjt8AvBfXbxoWeHLrQu/oHGveVHkI=;HLeWX5koO/D4Jj7n4sl6fA=="
 ---
 

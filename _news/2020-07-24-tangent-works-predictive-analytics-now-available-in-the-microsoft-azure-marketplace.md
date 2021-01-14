@@ -51,17 +51,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-    publishedDateTime: 2021-01-13T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
 
 secured: "wJp7qiJeX39yT22aFXkVmglKYqsDxSZmQqVND02Z4Qarmo0Qnx+s8LB0xLyhsVV1TRnE7l5SHVpbrh9EsJWLs492YpCRonnYrXXOmG4v4fUywVPFzsf7AFRpgzUyAZ/VPhzWAUKM25Vlgg47wz45FU8FDzJhK5CI2OCDqfTdriAivwA+LJsiZSKtWoeheRBjVotD3saLoB3amNskf+zhf6UOGU2PffayQMSxAVToKLq91Pl6LZB6T2iKDr2t83pYMG73lrIdFYg81aO6kPuytYRh0kOxDL5ZoX/YHcOebpc3UWw3VoGoTtYj/H05KjzXZi1H2RKJVfA4eq/a50XKE/Moq2kZMiKsTgeUKYStsnH/DUARBTxvmE0oOiu2hr+DM1owB7IRAsG114ZzEJ4w64G78tRWlBRcdcIgHQnofX5+042AieBw0PcOUpAOGCy9sXURcwQxd7qaWOnABWGEMhS+Im7DYSYaT2NcnvoSQLchVQbQT3xsWnM0vuuVTKwWGCAB0TfTgfK+auW/A9pcbQ==;UBeGTMMkwEZ1FccYe6OT8g=="
 ---
