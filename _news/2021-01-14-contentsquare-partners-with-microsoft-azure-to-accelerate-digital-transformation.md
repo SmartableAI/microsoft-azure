@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
-publishedDateTime: 2021-01-06T19:14:00Z
-originalUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
+excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
+publishedDateTime: 2021-01-14T01:03:00Z
+originalUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
+webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: CNBC Africa
-  domain: cnbcafrica.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -378,20 +384,6 @@ related:
         width: 768
         height: 431
         isCached: true
-  - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
-    excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
-    publishedDateTime: 2021-01-14T01:03:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 32
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
     publishedDateTime: 2021-01-13T17:32:00Z
@@ -415,6 +407,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 17
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
     publishedDateTime: 2021-01-13T11:50:00Z
@@ -425,6 +426,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "QI6c3VxgwCADRBjk+cpCMCFUNQFZe5HEpmoyRRVfVxSdR6nsF7KpOGk3gXa0lw8w0LDS04aAMpr4DdMYZcWr/YzbiSDfsRUCb27PjgYbhwoRFdgyELYPvCwQia++XxjhhkObkFutzoMsHnpUcqaXvwRtpKLkFhJebROo1Kcu2gTHQ0lx/hZmzFitKX/UDkPXow6v2Hp3bJViAp0D404Ytjc6L6+/jVBIFQYhHyk6wbDV5uFY5xQppnnMGv3bebmjWAdyMXdMSPV9XckGENgR5IhFbM9JVCATTn8ZD4hUAk2V1M4oqVcKfj9vC7grCsqBlzAzY0pBaHb25E9WKm8ImVtBUrH42UbTAvGlIDJ14oo=;sjuzhdsJCkCFIEtAHMoVOQ=="
+secured: "fAk2ZVld5xLS48n8cqWGZaDhsjAOgZOrlVXwyWBIcfygMPOA1QA/G4OfzYZjf6aR9WPMJ8PEucbhd+GS82PyzQY2jFdPPa7Xt9K1AM+uwRhltIrPKw0B5nUBqBRqfBPC8rBtNes1C3poO2ljWMYihkTmQgvIO06JxCTiteZPbUO1G0prlBwHs9lvfeLVGjLgDK3cVjGoOymDnUACvWr0OozHxa44mqmJPde4kh8nUelB8UgVXpY8OMKXZvcMZ0f1Mrpsl/2iks/2K/wUzFztEGBLjcHuEVEWf7SNrKxGocazrFEeDv8s8+sVGgudPb2loSJdGe6mDwvW9QpzJx3ui8bp5/0ptRNJ5c6axZe3vUs=;GwBp7yOqpxrJPURq3HYMSA=="
 ---
 

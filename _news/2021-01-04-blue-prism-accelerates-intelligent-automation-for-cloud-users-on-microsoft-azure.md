@@ -105,9 +105,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -370,6 +370,20 @@ related:
         width: 768
         height: 431
         isCached: true
+  - title: "Contentsquare partners with Microsoft Azure to accelerate digital transformation"
+    excerpt: "Contentsquare partners with Microsoft Azure to accelerate its growth, drive peak performance and underpin successful innovation."
+    publishedDateTime: 2021-01-14T01:03:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/01/14/contentsquare-microsoft-azure/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 32
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
     publishedDateTime: 2021-01-13T17:32:00Z
@@ -412,6 +426,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "moao0iT2zBHBmWcN1WMBjjhPP6e0FZj8feeI/DO6RxAw40d8aZlLM9qS19f8nru1AxhsuRmjI1har42+XYBoIVmsNK6/oICaWemccTOJsUTwXF7C5T+YsE08glrof8I6oF5Dx7eJV8yeEm1IqALZ4RaFNP+zzVrdCaKSZnlU9bbX90uJmaP+UnURDvVmmybg1YhNsSYSoF1ftVTSm08SnNKh18o/yPQwLQIGOP4YZgIaPm0IKpHCBf7dph28SWmFFikXswbjHuIkbfGqr8IVS3VTwspS+g+tIjPrmnclSGFQ0OIzP9G25FKuumwLzuooxwi+3I24yGrFnlFfebKlRrKd0gOlKz6s1aJUYy1/L7c=;PNAjZ7bv6fmKxK5SaBDPRQ=="
+secured: "35yqAFxUS7wcIrzHq77CwQSPfFp5Ikq2OiiHJPNXkZCnqT+ItykROOaJt0kpksiC4bS1Rit8Rq4z+Q8o7NTnPfEuSeEtNMaN0fAshWjGoBdJ/VwYbYMsvYNTqOIQiqsCjNgCoVFAuSiaBGvLPcTbQZztMT3QAJ/1XWpxVH+uP0ps7F1/DE/TQ4ksL+Xi45RfyypHTbviwzqEaf0CLZV9m5W/SsBv3uCR2Urls0LtHK8qh2H22bwc2gTMRZjYQAWnFcqwJKm+baITLK1DWRYxWtpESP1GAdkXL83Z23HtnW3ljWa3RCkYZK5K3DdoOg9Oqb8d3zoaxV4o9/6hFHyo6RoV2GNmjoNBCkqODUqQ84Y=;za8GRWTadlVYl0XobLqbNw=="
 ---
 
