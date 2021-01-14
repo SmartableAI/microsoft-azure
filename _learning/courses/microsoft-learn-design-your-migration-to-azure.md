@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 2818
-  average: 4.6650105
+  count: 2821
+  average: 4.663949
 heat: 77
 
 provider:
