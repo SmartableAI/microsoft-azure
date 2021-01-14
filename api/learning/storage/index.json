@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 17188,
-            "average": 4.782697
+            "count": 17202,
+            "average": 4.7826414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3668,
-            "average": 4.7107415
+            "count": 3676,
+            "average": 4.710555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3185,
-            "average": 4.756358
+            "count": 3192,
+            "average": 4.7559524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2471,
-            "average": 4.752732
+            "count": 2475,
+            "average": 4.7531314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-table-api.md",
+      "title": "Store and Access NoSQL Data with Azure Cosmos DB and the Table API",
+      "excerpt": "By using the Azure Cosmos DB Table API, you will benefit from the low latency, high availability, and scalability of Azure Cosmos DB in a Table storage application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-access-data-cosmos-table-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 1408,
+        "average": 4.597301
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/store-and-access-data-cosmos-db-table-api-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 3668,
-        "average": 4.7107415
+        "count": 3676,
+        "average": 4.710555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,7 +367,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 143,
+          "heat": 144,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -340,8 +384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 138937,
-            "average": 4.700361
+            "count": 138942,
+            "average": 4.700364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +501,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 2471,
-        "average": 4.752732
+        "count": 2475,
+        "average": 4.7531314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +602,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16357,
-            "average": 4.6946874
+            "count": 16358,
+            "average": 4.694645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -628,8 +672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3020,
-            "average": 4.7079473
+            "count": 3022,
+            "average": 4.7074785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -737,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16357,
-            "average": 4.6946874
+            "count": 16358,
+            "average": 4.694645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3020,
-            "average": 4.7079473
+            "count": 3022,
+            "average": 4.7074785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -881,8 +925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16357,
-            "average": 4.6946874
+            "count": 16358,
+            "average": 4.694645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -952,8 +996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14013,
-            "average": 4.7135515
+            "count": 14015,
+            "average": 4.7135925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,8 +1192,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6830,
-            "average": 4.758565
+            "count": 6831,
+            "average": 4.7586007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1184,8 +1228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
           "length": "PT37M",
           "ratings": {
-            "count": 1856,
-            "average": 4.6115303
+            "count": 1857,
+            "average": 4.611739
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1228,8 +1272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 5395,
-            "average": 4.6309547
+            "count": 5396,
+            "average": 4.631023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1342,8 +1386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6830,
-            "average": 4.758565
+            "count": 6831,
+            "average": 4.7586007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1378,8 +1422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 5395,
-            "average": 4.6309547
+            "count": 5396,
+            "average": 4.631023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1500,8 +1544,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6830,
-            "average": 4.758565
+            "count": 6831,
+            "average": 4.7586007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1580,8 +1624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 266,
-            "average": 4.7293234
+            "count": 267,
+            "average": 4.730337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1710,8 +1754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6830,
-            "average": 4.758565
+            "count": 6831,
+            "average": 4.7586007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1790,8 +1834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 266,
-            "average": 4.7293234
+            "count": 267,
+            "average": 4.730337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2124,8 +2168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11436,
-            "average": 4.579923
+            "count": 11438,
+            "average": 4.5799966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2888,8 +2932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 644,
-            "average": 4.71118
+            "count": 645,
+            "average": 4.711628
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3031,8 +3075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3438,
-            "average": 4.5898776
+            "count": 3439,
+            "average": 4.5897064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3068,8 +3112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2308,
-            "average": 4.644281
+            "count": 2309,
+            "average": 4.644435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3103,8 +3147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1902,
-            "average": 4.584122
+            "count": 1903,
+            "average": 4.5843406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3187,8 +3231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 6830,
-        "average": 4.758565
+        "count": 6831,
+        "average": 4.7586007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4421,8 +4465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 4941,
-            "average": 4.6891317
+            "count": 4942,
+            "average": 4.6891947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4464,8 +4508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 4929,
-            "average": 4.7108946
+            "count": 4930,
+            "average": 4.710953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4527,8 +4571,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5395,
-        "average": 4.6309547
+        "count": 5396,
+        "average": 4.631023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4592,41 +4636,6 @@
       "topics": [
         "Azure",
         "Management tools",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
-      "title": "Store application data with Azure Blob storage",
-      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 3375,
-        "average": 4.5754075
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Storage"
       ]
     }
