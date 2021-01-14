@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 97
 heat: -1
@@ -238,18 +238,18 @@ related:
         height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
-    publishedDateTime: 2021-01-11T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
@@ -416,6 +416,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "2Km38eQ0lz8f0guB9BTtu4VRSeU5nBvvcwpEX80OscV56WVAXFc7yw00dQrz7VwL696EyPiOaK4qAEkkBZgdHPdLZB5px3JfvKSss10VRJPiblejnbxNX66XKaYckfAiJ1ILcWmjeYUtMygD6vZ4RuE9njSfSWcgRkmFMLd2WtaF3tcTiLD8UInUnBUyDdgu6lW8HBFl6uJpDBpqUqCjNX7d/o8KIa0/qsM22Luje3KTyLCY7Z3JOShhg2+5SzMT9uQHBz4JxbHkmJ3tSLqVQSpIHa/ImCdt/1ZQdVvdzpme8TbfxAoMpnVHtMw+ogWvDLnnihlO7ndMG8qYwp1lSwol4xP2lm3QJOFmIOHMzN4=;+wFlA958eHb652ZGTwbbPQ=="
+secured: "2KxJW3yiHN6Wb5SZlKYdOIr1z9X9+KVVFps/erXM0erITJgt3Wfb31wzUp2re4FGxOmJ1ctHzNGVzZtY/mfHqxYBxpRtgz254HdHus6igJCokVb2wV9MKGTeSwgxoemnxtu4I+J5mgSNboWwoo/uYzmxJ03eS06SS04cD8c9mdzU0SokkvV/pz/fpq/cTXdf+RnEWZ2xnNu+VPe1+PtLmwGiU8THEhIHdlfePLzL3B/Ame/RBshRAcc0YdN5Avt9pj0BsHMZjduXoXMhJAYXpFjWdnAWPWZiRlqJ0WIYeopH0p4JasnlFxUWY1Eb7DmxPXP8ZbRoylgNOIi7s+X6waf/yn59by5Ye2aDNDd4TeE=;GKfPT1mvYws1Jy/UzekK4g=="
 ---
 

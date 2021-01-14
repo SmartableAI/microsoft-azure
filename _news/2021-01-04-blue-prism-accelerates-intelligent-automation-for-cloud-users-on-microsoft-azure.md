@@ -105,9 +105,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -248,18 +248,18 @@ related:
         height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval methods to real-time,"
-    publishedDateTime: 2021-01-11T12:35:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-health-care-industry-643cb3eced000bce9d4edfb2021b1f82"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
@@ -412,6 +412,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "k9RR4M+0nPcbPDiqHOGksVEZXwUiSzWOUyM7SqoENbs4biWy8M/cCoUoDmyXku3cXQgam/O5868HH5Qdtl0pAeYypryw94uLdycIz3j2M9PBW/6oELKXgxV1NLeYij7qsQnEhYy5VuKSmRTVE5RvnJ0e40qdKmCnDIiuDlDry2mz+DZQPFstO6Wrjed+t0N4pnAcgFIc2Ej8h4BvRgVBWYYPL48CudYsIiMFXeD1Twh0KRDxY4SpfC4sUVCzbYuFPbbak7w2O+ivyz6EBUZwA4WG3PHH8f7u4dXRuva4JY/vKDW778RygUG3NGBsw5EkDDYDs4vrXXTjaO8Kpm9mwCM/gfOEWhfcyz3eLNb5qx8=;Ig+Frjnn3LAOahndJie8cg=="
+secured: "moao0iT2zBHBmWcN1WMBjjhPP6e0FZj8feeI/DO6RxAw40d8aZlLM9qS19f8nru1AxhsuRmjI1har42+XYBoIVmsNK6/oICaWemccTOJsUTwXF7C5T+YsE08glrof8I6oF5Dx7eJV8yeEm1IqALZ4RaFNP+zzVrdCaKSZnlU9bbX90uJmaP+UnURDvVmmybg1YhNsSYSoF1ftVTSm08SnNKh18o/yPQwLQIGOP4YZgIaPm0IKpHCBf7dph28SWmFFikXswbjHuIkbfGqr8IVS3VTwspS+g+tIjPrmnclSGFQ0OIzP9G25FKuumwLzuooxwi+3I24yGrFnlFfebKlRrKd0gOlKz6s1aJUYy1/L7c=;PNAjZ7bv6fmKxK5SaBDPRQ=="
 ---
 

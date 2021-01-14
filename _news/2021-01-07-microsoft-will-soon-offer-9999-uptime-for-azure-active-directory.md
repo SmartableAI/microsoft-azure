@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp"
 type: article
 quality: 114
-heat: 175
+heat: 174
 published: true
 
 provider:
