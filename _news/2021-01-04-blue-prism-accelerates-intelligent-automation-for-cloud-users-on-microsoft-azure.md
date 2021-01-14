@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-publishedDateTime: 2021-01-04T15:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+publishedDateTime: 2021-01-04T14:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+    width: 1198
+    height: 628
     isCached: true
 
 related:
@@ -105,9 +105,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -117,6 +117,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
         width: 893
         height: 439
+        isCached: true
+  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+    excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
+    publishedDateTime: 2021-01-14T13:38:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
@@ -426,6 +442,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "8EUb9hmvCEc2xvJjY0eaH9mQtuY/0rXrMJgSIAS+Rcv751OK37G27AWHW2HnB1LLqHeE85gL1+pWbzcSGObCXk5tTvC4uAEFVZR5UXve26jLTgAfcAz1YOSG9VPoYlcTlKlJICiCuJXjhYNUOyZ5t98uYb2TPZ47RYMJxhSc/1H3caOqIQMdAFjD9MOYd/4Y9g5XZYNYsdCYpEzK8NZEum/FHcQsv9ly8T3mfQ7FKk32TKFDUcpDeL1i7wXgViwlVo/qpS4CmriKTtE0TIYJAiPBz9QKqcVFHNJ5SOkkHRSiPURwgje3pq6daDx5+1FkTbLY9Sy13DS7gcJMmf9JHaQqw1qZsp9HxLyF8P1wS/Y=;tJdc/73LnI3043V7ThnvNA=="
+secured: "/5+xPBYoJ42lY1i4y+hT+QYJ0DOGU7qbJqvDOkol2eEgL1aeSD0cEZVB/YxbhKNuBEOLvlTMsnqsa3VQbFwdIQlbPD7j+tucd1Lvs+6WH8J2N3a1wuZ7KTyV5iKluSI3aCiXkMLZ69NKcXOF0hbevI6Vbx1efQCh48wJr+SjdG/p+I5oLkMAbf9fFjLsudoBSqEoqIn8NObs/MuEaG0tkrtZqBqd7QC7nhW9Wiwqg/YKQ20Jx5WLGAw5e0dfwqmwX7t4/DkVPbP1iGvLwrr4u/EocOwWdMhaMBxRPa8zXIlbM8b8slJSiDHEiOBsagK5d9tiqCeVzXp2EIoARSUWfebVjasXvpV1ih7RI+WYI6Q=;Q6Ce0032/IJ4yvntEapDqQ=="
 ---
 

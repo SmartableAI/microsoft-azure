@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 97
 heat: -1
@@ -107,6 +107,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+    excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
+    publishedDateTime: 2021-01-14T13:38:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
@@ -305,18 +321,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+    publishedDateTime: 2021-01-04T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -430,6 +446,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "MSmZKlobEk29EuKOrVS9+Ae7X+jvKnOhCviSRyA0BEzF+lfR+zSnLFPBrosn3nLSzetqpoV33sj6PRuoo0pqPB21Z3JZkw1+NLLnp+ab5tIDDriwO8J1NYAgpkIh4aa7JwkiHveIKPFB3UDktrSbSIlqZEwLQkqe9/JwJXCLDy0NbNEGU4OrkmTe7AQUEfmFPOhAZiG6uilB4mXPnx/HSuBdAf5b4vwcpgas9wnCQwff4ij96m/hajJCTyAw750sjzlDKoNFTQm15xi6xyvEtwGWOawHc8LWkjFPm3bLqsaA9zbUFP2xexLcylJgkPT3xDFlfWMIKasOisB/t4ErQ6DwRpgrE0m4+MWE0S4jGlHfVYaRcr6zg4xGhERJuB5RHaUqMLYSgKvdW1sSkIryvOn4q79fPW/wMlecOyKfYwE4IEgjrJNXbmLfG8ESuAc4Jxb0Im9cEQjtt34JQTte2aEv4jKalJJ3UquhQ/pwFM59dTwpOg34rli53csKGLdLbMhpDTLatv2p0Ef/1H7x4Q==;mtonVy0vza7JNxKNzmVraw=="
+secured: "zyOH/pUNk929LhxFmXIxb+b2E/eUrivmZ+ErPqjlH/lRZSOOWZD7aYCRg5VD9ZoV9sxoOku/jusBgm0DnzHKnbzEDHVeJqC4s7siGwLkwPz/0NHwpyWVCxN9u4ATdwlk5+MbVMe7TwaOh9nVwqaeh8XwNdK7JhWQdbiWjGvp1e0QwslJt/jA5cy+oQWT4AvGSmFmjN4rwqQi63S8Ls4cYrh7VQ7TcRtGF2dQ50hzb6Bg5Ca5OhNWj57MSh7NCQKcPWXtz5f50k3pWXIg3NEVyAu5ZpFszJV96D/x69TaSbSlW1R9j5/hrR1a5lxzZR7+1louM08NwhhDb2ty+OmFHwggBncWjmtfkep4xQduH18=;fWUp4wtsun47tsjyIVSsXA=="
 ---
 

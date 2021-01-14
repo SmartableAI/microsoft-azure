@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
-excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
-publishedDateTime: 2021-01-04T14:32:00Z
-originalUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
-webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
+title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
+publishedDateTime: 2021-01-14T13:38:00Z
+originalUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
 type: article
-quality: 17
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+    width: 970
+    height: 545
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -111,22 +123,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
         width: 893
         height: 439
-        isCached: true
-  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
-    excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
-    publishedDateTime: 2021-01-14T13:38:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 80
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
-        width: 970
-        height: 545
         isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
@@ -422,6 +418,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
+    excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
+    publishedDateTime: 2021-01-04T14:32:00Z
+    webUrl: "https://www.crn.com/2021/01/04/dell-emc-integrated-system-for-microsoft-azure-stack-hci/4vIm3tMpIELhmJll2Jn3i/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
     publishedDateTime: 2021-01-06T19:14:00Z
@@ -441,6 +446,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "swrs4CHuMQT3+daEiaDkhkCUdt/XkNz1vu9uFhQlUpQAZCqEXmG51AniuMtplaZw7ygnOWFURdoFpU8KkBTq8ka5f3PKT2YNDTgBrzVoaJpgBBfqQ01vZFgiZmB5VrVUPRH334ouT2+AE7lnExdeorRvpRCgC0WvEDHyw7Q6qzHDMr88I3SuLB56CLm1JeEyqKWJGMe2OklmXV8csgEmPF6XaqWprCI5SrUv01DbpoOrAeGe+1F+gsoG9ul2qwj6MRZXHy/2yJzWmvcItaviARNrizVBPFBknNivS4J129//NMJnP8rmhQrG3niCxv2WBErcA/NFN51f3NmyC195ZCHfDrx9tg3Shnjaece7kv4=;9TYByOJmjYJBQaOYiQkuYA=="
+secured: "STWTqHG4vSNZLh3MmGTT4GwFKWxex+LfWs+rJud808BBH5cpWacPsSB4pjqB7szb/ueo+PO3ssHj8EOA1p5svesONZtNwoMWSWxZWat8ln4jOsXJV96QyRf5FEwxIiRIYR11IbBjDdW+biJcm6Np7F4lTNCL8HzhjDqyqT9kuCKB34zTjT7V28OPLrGesRErZksoIR33o/45ub9BL6f0r2mbiAYszFgUsvXqBK//LqqEjFsw5Ns/V7hEnkXRpUkcUBb/LSTdAzSXIJnc4rhQDchYyQr5CULI5Z2uwlJlOduuCOju1wVf/Xrwn7pezPSYMHuOIxs7MOq5SC3o7qs8tCevKOSvQpH4U02XMZzFpAo=;bZ+ipbpwbRWiz9eUeuOq3Q=="
 ---
 
