@@ -105,9 +105,9 @@ related:
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
     publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -486,6 +486,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "1p7g6ArNs19Dsn/z4Ny2AvT1wzoe5W7d4QFkeSFbpuYzX/BhSA29UoRlPqPmqOxqfTVe0H2wdk7DdS/cDPcPzdFuwnQSPflugPydh/Jo8HdPXypfviOnPw4AnCVhRI+OuAB+254iagge2kXnYzL0YrMRO83orMMviFIju7xPJ2156O5ONn/v7cVMm44LQ0VGJevVO0lKEOkAxNQ7b9W7FjhlI+u5VBcl/WoaR8vm2gdQ2ltDircdHGvn26iizCjQ76ISyB7oE281wJ/DL9CyvPfEEAqL40UUCN/vNzV8UUuLhQ3yvTRhi4iA/20VWAcdOj4LclNWQYto5gay+TmI4Fd3GsuPhxrpq2wkU29wfL8=;gp8IlPRay4JpcG0yDTsjDw=="
+secured: "4APwfF4ssWPBcRsrR3fPc80mh73cfvI+J/MqA1mYwV4GNpxjIbbBlhXuKK5HVBDwNB7gt92zeRnvRn2VfOmbkaWv4P3IgFj/l+K9SMSUeGFLGn7sLboCWMmG+0fKo5P3/9eGnq6zA8R+64juK7wYD0uTctBu5nFOFnRAFGvO+DmAwf4HjWJPU9prvRWPcaCCy6lmCA4EMH2kF7Qt3gJcn2v8aWJEooopU/hLYhpaRmygq9AkM4L4KKx5j3S1pbI7GxWa49dITsYME9MrxHpUqAhelKiXwbUtIFxMjvqSXrk+ShmNIY8TF9i3r9NLiyTsmFD9GR9q+0Q9xT8Xt7NrcOCww+liuiO39VGI7ftQUcE=;eW1Y2OuchrJzrMe2fBCjgQ=="
 ---
 

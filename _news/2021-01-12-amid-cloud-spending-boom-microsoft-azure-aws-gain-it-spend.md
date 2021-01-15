@@ -3,10 +3,10 @@ category: news
 title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
 excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
 publishedDateTime: 2021-01-12T14:08:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
 type: article
 quality: 97
 heat: -1
@@ -490,6 +490,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "WKSvgji3zElMm8ojRoYdIbZAKiYNL2TWr0mo4460KNqgo+NlZxkCok2qgxJZkV29j0zeUoZXBsvR1ADsRNYDiGd0ObK3i2+g0Y+J80gTwe3SmQzzDPWACoaM471HPFjFwE0BmwGW9etkKBm5zLYD9sjDB0HfQ7URHuie7PCmZa58+fOjBSrWVY1PTb6veiU/tsB9xOGeyEVtq2GEnK+5hwmYhRQbBt0VgnUTRwmdPOP+tt8O+HmZo+Rc6nIjZnbCxdK8dvRrFijmMg6JBAYb45F0iYLyd8MpC3vTfLFi+337MM7V0cFDe9+dA3VzAy73g309Hx98Ptv6BQov57sIJFnKVLOtoM+CEam7i/KN6sCk87m6kzDjUk0Mr7iW8XDdFG4TWj803W4iiqXZxuh+U27oWv428/pxjMKo8MdUG2jJf8O3CFRlPw9131P4YV+a0d4vuY2t+m0gF/Rz4Yh2njjVLf3d27H3L6hw3LiXxNFSJZzrJnPz0jvZBdmOgePEaMxhG100SDrZvIvDCzmuoA==;ln57c1GSa4/B6WDU1BHvpQ=="
+secured: "szvX0rGnl4+DBW2f9wazDyAn8xgfx2yVJFbpBr3tZAHpugFIouGcTeLo06G3MzUFje8gZwW4G+dUmqsTGjeFCL6FSF9XzYfHxGKtZ8q3vG4EURZm9qTbpDfD6GTrrCqnPz5FPjRtPeXmYbK8ee46sGGvdXvCH9HYK499Xx0T5ajkSKtZKb+6u5t4iuYrDyL8bsGOCJit4vEXgScTQkYQsuUJNIuRDkCyfNU75wrNLKDiNVPotsmhpyK2lEvzxP4xbZOf7hAX56uw7dec81tNCSxwVoDXLjy/hwOmMPx4wtppOfXz+ydEbFq2i+cq5WrHI5r7j0wqH28uhzSDjCmED+jKLTqOT+9r7cXoEKFaAS4=;o3VlLx1tvxKItMUcnO9wRQ=="
 ---
 
