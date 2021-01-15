@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-publishedDateTime: 2021-01-12T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
+excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
+publishedDateTime: 2021-01-15T05:04:00Z
+originalUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
 type: article
-quality: 97
+quality: 76
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 
 topics:
   - Azure
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-    width: 893
-    height: 439
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -108,6 +102,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
+        isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
     publishedDateTime: 2021-01-14T13:38:00Z
@@ -163,17 +173,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
-    excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
-    publishedDateTime: 2021-01-15T05:04:00Z
-    webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 76
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -501,6 +500,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "d42lO/BF+0COFlcVZn4XAhwZTGEFrkGW2WmBR5xnF0jUkyWlkRMX1/aNvMB+k8JHcyHIj+hjmw1h3/OSxGDUyqt4b+CO+A9/8lVIxK+uHwSgPHABAcP2LObpVJJugw1LfT4zNRghhURRgSpLRdNLhGQBJxR78Gd89mYP4K3eaYdJrPuxK9DoLEcTSK4L1m3BLmd0luFtbQutQj/RX3wEmb+a2enNjb2fd7p7uQyx7MRY5Y5xKmhU6bbl5J+LuEG+u2LwCawZVyvXbHJr7wXVOsCBlCMNdZ8coqdbe3wWFgHip38IOTLGuw0XNvMPjxUy/DIn0ABp9MebRRRKrgFWJ4kC4EFN+WcD635vH3oULtA=;JSYqPJTtpfZfTpUFCht7Wg=="
+secured: "lfdrYNffmp8aIUKbMxgmpTaIjnjCgSL4ftg77nBVYMNY4Gqsf68UQsF0nvX7+oTXnyaeaA3gSjxdq9O86obeXD5Aiz5MlKw/RgCdQaXuio+tQlbeqjXbIlGUueEWzgZ6yXzGMnR9R68jWJQC1dBsjKJaJwK9/buLycfcYoUv7Sy2TXPAb7LGXMM/hcKGirVL33Q5jgNCPo18ppMXgw4ctCsTdsWXvFsuBRvVp76aT+3h2CHETUCG7d14DvEz40n/JIcleOW/ENHwGyDL1+/Qd9RseY5cYMHV7KdW9bVIzCiA1BmjexlA1pTvM5wnvECKGZj6q/oDVQy6KGIlln5HeyLkZ+WfGmt7yWSy+i9bn/t0EEPgi6BrQqEf8C0029hAyLHavCe7x1xNcHr3BgOBoZmexHIffWZlQJyVErlkcOY8FaxRkuXR0Nx533xiTdM8dHjQ+E64aAnXkFvx6qEux7Iy+t2kbn0961Ve6/wLtdCufTj78kcA0dAhxnwG2YPHxl/EZrgEXJPl/GK3JLo92w==;GYB4WyIe8Bi7HdtbDqPPLQ=="
 ---
 

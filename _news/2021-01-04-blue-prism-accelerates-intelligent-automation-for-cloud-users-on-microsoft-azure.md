@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-publishedDateTime: 2021-01-04T15:04:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+publishedDateTime: 2021-01-04T14:09:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+    width: 1198
+    height: 628
     isCached: true
 
 related:
@@ -104,10 +104,10 @@ related:
         isCached: true
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
     excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-    publishedDateTime: 2021-01-12T14:08:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    publishedDateTime: 2021-01-12T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -173,6 +173,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
+    excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
+    publishedDateTime: 2021-01-15T05:04:00Z
+    webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 76
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -486,6 +497,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "4APwfF4ssWPBcRsrR3fPc80mh73cfvI+J/MqA1mYwV4GNpxjIbbBlhXuKK5HVBDwNB7gt92zeRnvRn2VfOmbkaWv4P3IgFj/l+K9SMSUeGFLGn7sLboCWMmG+0fKo5P3/9eGnq6zA8R+64juK7wYD0uTctBu5nFOFnRAFGvO+DmAwf4HjWJPU9prvRWPcaCCy6lmCA4EMH2kF7Qt3gJcn2v8aWJEooopU/hLYhpaRmygq9AkM4L4KKx5j3S1pbI7GxWa49dITsYME9MrxHpUqAhelKiXwbUtIFxMjvqSXrk+ShmNIY8TF9i3r9NLiyTsmFD9GR9q+0Q9xT8Xt7NrcOCww+liuiO39VGI7ftQUcE=;eW1Y2OuchrJzrMe2fBCjgQ=="
+secured: "OTSZwnxtQzWnilhuGDZtDZsTNV1Vet/qPWfegxKpj8gLMngKD0iYqPaBlEn9/TwXD29WvQ9UJTa2scu/QMm+mcjoHvLjoSGcsNCZrO+s0i4c1LNwG20XEnhxuQwGvaJlfg++VMul5m9a77E5USTgcr39mdzzUj+QO8ZbkXrnonCqRvJ3NCNRIoAuYW96bTdeClhmIXnxy571azVF9daq+Tj7wh7vqjvK9Mu6CHuJ73+RN0fGiFPodszw5juFT6tVT+wejmCJoYV3RWX/v2VecrdC63VhdwfUF4zUjA67m9UMjobR7jHd2DPRVXNeG37Ul1GPgRxo9daLK/Oc09orHI0R6xtHNt2bXidx0ngh/cc=;z/lwuwTeDiF4GB202oVszA=="
 ---
 
