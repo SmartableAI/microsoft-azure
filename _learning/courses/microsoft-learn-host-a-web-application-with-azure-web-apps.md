@@ -7,7 +7,7 @@ price: Free
 length: PT58M
 ratings:
   count: 5534
-  average: 4.612577
+  average: 4.6123962
 heat: 57
 
 provider:
