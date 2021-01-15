@@ -1,10 +1,10 @@
 ---
 category: news
-title: " Azure Automation is now available in Norway East region"
-excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-publishedDateTime: 2020-12-07T17:12:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+title: "Azure Sphere OS version 21.01 is now available for evaluation"
+excerpt: "Learn more about compatibility testing with Azure Sphere OS version 21.01."
+publishedDateTime: 2021-01-15T18:32:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
 type: article
 quality: 67
 heat: -1
@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: " Azure Automation is now available in Norway East region"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2020-12-07T17:12:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
     excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
     publishedDateTime: 2020-12-11T21:09:31Z
@@ -62,15 +71,6 @@ related:
     excerpt: "Learn more about what's new in Azure Sphere OS version 20.12."
     publishedDateTime: 2020-12-17T21:15:10Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Sphere OS version 21.01 is now available for evaluation"
-    excerpt: "Learn more about compatibility testing with Azure Sphere OS version 21.01."
-    publishedDateTime: 2021-01-15T18:32:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
@@ -95,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "Y//g266ILSJQw8lMs5g4VgQQB6aF7w9X1P8Ctx7XwlmdRXi6VoJN7LZfphqSDGiubiB3o7KzmhiHmOU+NeCwuA0NtJ2Ztak6P0eAEe46Sm4DNUridMzRoKnrQ0b3urNTvG78OpqmXKzPKMxABnZwl6fatYPEx4T/fRy6romJ7wTBZ6zuCUxNo6Lunn4zyF0ssJU9Pn/1KcqDEU+a8Zqr2i/4TPcafMeuNiVQN2sherkrWkkUpIJstyMDxXgMo2XyF/UjqGPoOD4BhxzFT15OBL4bcSSt5nciyTJwkB51uPLU+8qXKc/3urfEramXQeoAdoe1C9Mffa6IgkDjFmChyifEGaTfjBF2+Vh6kfk6iwU=;M9R3bzM4Q0qvyJBBDUPsSg=="
+secured: "2Jo6i8Oeu+Bi7qx2hCXWmAPnY3Lvn+oQt/zhWcUZ9DpWanH2HuHTgDOA9zJeEGnN3BXmi3mNdTeTFt3FH91SxNZAqjIXgVtJKm33nHP0qk5wc9kPkLBtVHEYnxkk/4l0Ee7bfsviSOjUlp9P7fGjh8B4nQdLaoUjBCo4lninUtnzfm7CzBw/IEuCeYIEqYs0Y0Z3bH4Wx+zsgXSXyWUmqI/PVok+MHe019aX4yJd82UAj2jjuSg5HOTUl8f8/Qdkl8uTxMYtPk8sl5dDFHXJDeO17Sw9jHPWjzTQ4yKt33q/qn/pY/eN4nIYDAItFc/q7MbTXKeX2VpkrmzihPTA1hVSz5f4gKG3k2RjkfgB8vo=;YmlCk5MTwaMQizyX7+JY1A=="
 ---
 

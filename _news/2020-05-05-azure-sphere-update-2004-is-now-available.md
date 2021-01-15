@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 21.01 is now available for evaluation"
+    excerpt: "Learn more about compatibility testing with Azure Sphere OS version 21.01."
+    publishedDateTime: 2021-01-15T18:32:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2101-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.07 is now available"
     excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
     publishedDateTime: 2020-07-29T23:00:32Z
