@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
-publishedDateTime: 2021-01-06T19:14:00Z
-originalUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
-webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+title: "Couchbase Cloud Now Available on Microsoft Azure"
+excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+publishedDateTime: 2021-01-15T09:00:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
 type: article
-quality: 12
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CNBC Africa
-  domain: cnbcafrica.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -340,20 +346,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Couchbase Cloud Now Available on Microsoft Azure"
-    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
-    publishedDateTime: 2021-01-15T09:00:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -475,6 +467,15 @@ related:
       name: CRN
       domain: crn.com
     quality: 17
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
+    publishedDateTime: 2021-01-06T19:14:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2021/01/06/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
     publishedDateTime: 2021-01-13T11:50:00Z
@@ -485,6 +486,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "QI6c3VxgwCADRBjk+cpCMCFUNQFZe5HEpmoyRRVfVxSdR6nsF7KpOGk3gXa0lw8w0LDS04aAMpr4DdMYZcWr/YzbiSDfsRUCb27PjgYbhwoRFdgyELYPvCwQia++XxjhhkObkFutzoMsHnpUcqaXvwRtpKLkFhJebROo1Kcu2gTHQ0lx/hZmzFitKX/UDkPXow6v2Hp3bJViAp0D404Ytjc6L6+/jVBIFQYhHyk6wbDV5uFY5xQppnnMGv3bebmjWAdyMXdMSPV9XckGENgR5IhFbM9JVCATTn8ZD4hUAk2V1M4oqVcKfj9vC7grCsqBlzAzY0pBaHb25E9WKm8ImVtBUrH42UbTAvGlIDJ14oo=;sjuzhdsJCkCFIEtAHMoVOQ=="
+secured: "edGiQjvwhePERjhnLEAlYyENjaTLq076fYXwB9FJ3Lm6WBnqNMi9hJEeHkAwhRPCkiNooNjpHMggBQ2AFPJ9Ii7Uzqy2oNhBnfsjX+4ceohfI1r8hTKeylQk0tZBsz3g7amjmrNEDizXtWQJbrue3pXgAjWr7NbDbDmKEQPYweFcZen0SW93YYaNEml/YQeLzCsnsGzs3NEpBmXUaynqKrD2dUHghNE4yuKejHzBfeRnGeRmGbkPRXAb1JofjC7j5Kvtpgmp0ovUaVZCEuLaMd5i7FLd59bAm5Yk8/GgzM4/ZOl0FasqakEEsTF9OmvobjGPM/W2GrhmKxHULe4ScecDzds6qxX04Oz0n/24O1A=;k9oPyGNVltm8shlTIoNnPg=="
 ---
 

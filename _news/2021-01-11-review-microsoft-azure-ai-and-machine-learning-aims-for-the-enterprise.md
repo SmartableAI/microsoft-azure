@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 769
+heat: 789
 published: true
 
 provider:
@@ -336,6 +336,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/01/Azure-cloud-cropped.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Couchbase Cloud Now Available on Microsoft Azure"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+    publishedDateTime: 2021-01-15T09:00:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"

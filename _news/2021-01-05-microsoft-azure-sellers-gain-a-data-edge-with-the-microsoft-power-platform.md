@@ -350,6 +350,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Couchbase Cloud Now Available on Microsoft Azure"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+    publishedDateTime: 2021-01-15T09:00:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
     publishedDateTime: 2021-01-04T15:04:00Z

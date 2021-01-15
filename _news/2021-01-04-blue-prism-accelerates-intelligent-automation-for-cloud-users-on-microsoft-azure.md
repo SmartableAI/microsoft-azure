@@ -346,6 +346,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Couchbase Cloud Now Available on Microsoft Azure"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+    publishedDateTime: 2021-01-15T09:00:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure sellers gain a data edge with the Microsoft Power Platform"
     excerpt: "Data is great to have, but it’s only as good as our ability to digest it. Alex Thiede, digital transformation lead for Microsoft in Western Europe and a former Microsoft Azure field seller based in Vienna,"
     publishedDateTime: 2021-01-04T21:43:00Z
@@ -472,6 +486,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "oC7WkjSBFVBBUXMOWGbH2asGWviTRLoA+ZvHqg+QPGf6U/mdr+Y0ezoN4w7198rT66EwnhGHx7fOlTJCFSOkA5uz+IcRqCJwCAFmyBx35Lnh7UMln+3VsE7F0s4oCI4iBFX1D0e2+rz9xf7hVKqQ5JS9jMdBXQDPsehNDAoRg3YYRg7jYpoEz4j+bSsBrPSNc+ChcYB3H/EmicjpEN9a218uMjka3UWW8Yhqcr+O5O9csOwiCBmcUEyNTddnoAdow8f+Kc1nl40OJy7BhPbMWrnrlvvjIkRfDTceD555y0gg4v0l++59492xZjDm14XiuQzZYOz+Zi/RAB0i6CxkxxmWRSn5ET29RjrzsuftBmE=;LAGOuToe7wXOYpjY0oM45Q=="
+secured: "1p7g6ArNs19Dsn/z4Ny2AvT1wzoe5W7d4QFkeSFbpuYzX/BhSA29UoRlPqPmqOxqfTVe0H2wdk7DdS/cDPcPzdFuwnQSPflugPydh/Jo8HdPXypfviOnPw4AnCVhRI+OuAB+254iagge2kXnYzL0YrMRO83orMMviFIju7xPJ2156O5ONn/v7cVMm44LQ0VGJevVO0lKEOkAxNQ7b9W7FjhlI+u5VBcl/WoaR8vm2gdQ2ltDircdHGvn26iizCjQ76ISyB7oE281wJ/DL9CyvPfEEAqL40UUCN/vNzV8UUuLhQ3yvTRhi4iA/20VWAcdOj4LclNWQYto5gay+TmI4Fd3GsuPhxrpq2wkU29wfL8=;gp8IlPRay4JpcG0yDTsjDw=="
 ---
 
