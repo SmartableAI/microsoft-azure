@@ -1,0 +1,28 @@
+---
+category: news
+title: "Falanx Group Limited : Triarii to include Microsoft Azure Sentinel"
+excerpt: "Stock quotes by finanzen.net SEE ALSO: Stocks are unlikely to repeat last year's record-shattering performance in 2021 as a V-shaped recovery is largely priced in, Morgan Stanley says » READ NOW: NASA has given up on its 'Mars mole,"
+publishedDateTime: 2021-01-13T07:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+webUrl: "https://markets.businessinsider.com/news/stocks/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+type: article
+quality: 77
+heat: 77
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+secured: "8yxWjBlwvmeY+ckxRGfXCOYRZBVTx8Gl3HC1TMyx48oIsTFqT3ITyn8oLWdqAiKDnHE3MSb0tCz4b2phrPIHb8jGDRp6/5605sYmdLeRBJAQDHFWOH2AhBbdMqBK55dpunaVtzpIs4QqfWecCrP7loi0x7ijuVlz7YtvT6jz5+jC8ldulLiYqoyLG983WP+W+gClMul6XhPOpUuv8AVrE4bEQpupfyZsvHOlmgpGq+Ia/7M837hvRWWlUZjC+TJZN+XbO50Gvk4afxAFofwx/XUPZu7uct45FityW4S0IZQXQ1XfwueAHxj5p14Un77Nqoid8UTICPyB37/Rq0RYxHCDI2jHM2RwVVxY8Xaavg4=;C7oyCnl8HuNAMfugmpL9+A=="
+---
+

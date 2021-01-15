@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-09-azure-repos-new-enhancements-to-pull-request-experience.md",
+      "title": "Azure Repos - New enhancements to pull request experience",
+      "excerpt": "In this sprint, we're doubling down our investments in the pull request experience with a list of new enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-repos-new-enhancements-to-pr-experience/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-repos-new-enhancements-to-pr-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-09T11:00:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-azure-database-for-postgresql-single-server-logical-decoding-feature-is-now-generally-available.md",
       "title": "Azure Database for PostgreSQL - Single Server: logical decoding feature is now generally available",
       "excerpt": "With logical decoding and wal2json support, unlock change data capture scenarios with Azure Database for PostgreSQL - Single Server. ",
@@ -1119,49 +1162,6 @@
         "Azure",
         "Analytics",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-azure-backup-for-sap-hana-backup-user-management-improvements.md",
-      "title": "Azure Backup for SAP HANA backup - User management improvements",
-      "excerpt": "The permissions required by a Azure Backup user for SAP HANA backup is now much simpler and automatically handled by a simple script from Azure Backup.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-backup-user-management-improvements/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-backup-user-management-improvements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T11:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     }
   ],
