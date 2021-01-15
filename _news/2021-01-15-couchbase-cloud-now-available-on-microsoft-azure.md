@@ -3,8 +3,8 @@ category: news
 title: "Couchbase Cloud Now Available on Microsoft Azure"
 excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
 publishedDateTime: 2021-01-15T09:00:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
 type: article
 quality: 37
 heat: -1
@@ -497,6 +497,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "edGiQjvwhePERjhnLEAlYyENjaTLq076fYXwB9FJ3Lm6WBnqNMi9hJEeHkAwhRPCkiNooNjpHMggBQ2AFPJ9Ii7Uzqy2oNhBnfsjX+4ceohfI1r8hTKeylQk0tZBsz3g7amjmrNEDizXtWQJbrue3pXgAjWr7NbDbDmKEQPYweFcZen0SW93YYaNEml/YQeLzCsnsGzs3NEpBmXUaynqKrD2dUHghNE4yuKejHzBfeRnGeRmGbkPRXAb1JofjC7j5Kvtpgmp0ovUaVZCEuLaMd5i7FLd59bAm5Yk8/GgzM4/ZOl0FasqakEEsTF9OmvobjGPM/W2GrhmKxHULe4ScecDzds6qxX04Oz0n/24O1A=;k9oPyGNVltm8shlTIoNnPg=="
+secured: "gsHDuuauOb8bMWZB/cD4tDQKMwx4jc2RPwphI7l7lt2UGBgrqfMwnqsyQR9XQuYzqXmNFDC6rRk0Jwtcvgu3FYISFS0IzUBg7clOflLAlRy8G3wkLXMNfrQL2GBHo70lU1EIATLITVl5UVnPZyZZUHHAaBf/GtWP3kOjNMhJ9RbQEdO81ML4bY2380fCNCXEGmal7wIj3Wx03Spzn64MaY28VhWiVxRF2JadlHCntPjAt9k+HGi/G9bJyn74fWkmGeZhAYckJO2xPaKQK2RwvKK/SGq0MF+xAAmwLhKo4A/eQWpLDeotpmClsMUyBOp5fuQTREuKey5y54497LPPwiwfC3xK0hrqUjklo3M+OjU=;1u3GjfDVC9VsRI0d86pR3w=="
 ---
 
