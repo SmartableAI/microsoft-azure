@@ -4,48 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
-      "title": "Introduction to GitHub",
-      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
-      "length": "PT1H12M",
-      "ratings": {
-        "count": 695,
-        "average": 4.7366905
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
       "title": "Embrace Zero Trust with Azure Active Directory",
       "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
@@ -96,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2498,
-        "average": 4.7269816
+        "count": 2499,
+        "average": 4.726691
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -165,8 +123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 644,
-        "average": 4.787267
+        "count": 645,
+        "average": 4.7875967
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -207,8 +165,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5608,
-        "average": 4.663695
+        "count": 5611,
+        "average": 4.6636963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-offerings-azure/",
           "length": "PT41M",
           "ratings": {
-            "count": 446,
-            "average": 4.8183856
+            "count": 448,
+            "average": 4.819196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -503,8 +461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 459,
-            "average": 4.708061
+            "count": 460,
+            "average": 4.708696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -606,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 543,
-        "average": 4.7642727
+        "count": 545,
+        "average": 4.7651377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 442,
-        "average": 4.7352943
+        "count": 443,
+        "average": 4.735892
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,8 +1232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2554,
-        "average": 4.699687
+        "count": 2555,
+        "average": 4.6998043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1307,6 +1265,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-allow-users-to-reset-their-password.md",
+      "title": "Allow users to reset their password with Azure Active Directory self-service password reset",
+      "excerpt": "Learn how to allow users to reset their password with Azure Active Directory self-service password reset.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-allow-users-to-reset-their-password/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 2181,
+        "average": 4.7074738
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/allow-users-reset-their-password-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
