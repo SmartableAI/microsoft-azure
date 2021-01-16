@@ -2,15 +2,15 @@
 category: news
 title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
 excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
-publishedDateTime: 2021-01-13T18:18:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+publishedDateTime: 2021-01-13T10:03:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 201
+published: true
 
 provider:
   name: ZDNet
@@ -32,10 +32,10 @@ images:
 related:
   - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
     excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
-    publishedDateTime: 2021-01-13T10:03:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    publishedDateTime: 2021-01-13T18:18:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
     type: article
     provider:
       name: ZDNet
@@ -117,6 +117,6 @@ related:
         height: 960
         isCached: true
 
-secured: "N1JxvRjscDePnEMQStPSz64BYL0qBwQiXJ4B5k5eWAec1lEjlafXy9dhHl22DGZn2e19MeOAzgD9Hi2N2RWLUJPDfxmFUuiljM4HV2g+y6F/CLGqvYFnbfpTKKF25ndiiHN82NqrCx9Op4lzwYV/nGIakcAjjMYWRsRoDGLi2GCNzYFmVzk0Llbsa8GR3vM/V+0n0FiWkF8qsYe5YN8cVtEzvYXSBrr4dYmexsOoTUzNyLbunS8fCOK3EkIG7zvIn4h8ZC+A4Xc0xUOsNXXu/2imdyQndgUxe1G7rWEuIJlP5vbm4EvsQ7E94rFo8Polm5CIMbpqSONzS07dsE5TLMxTMfrYwI+7nHYC7JmZwy7xI/mAbAfGPfnA9lasL70CH5nksxeA0pelJ+Equ5Sm3rqLhYR8EUJGWB96v6mqDap+YDk277euLY2cVupyIDHXVt2bQqeLzwodQ1rMjC0L0I2VIJhDEA45A8yAVDgDBQ2mXXHEHY3D7ZmnyoIfLp2O4ktXucBp+NorRr28E1GY1Q==;60cW3L0FfBzt30dRYwc6mw=="
+secured: "XHNzbk7cj1Ar+hozi2+ox55ifBgLDk2eYQW4Jr3r5RMKXtpkizyKDBqbpQOuFDKdlHwazin1AFPC9PR1K3VC2InhkJhBHCEGNpWMC6PuZH/qOawESbFVBNaRvtcUiGxn7A9tZRurA2MW4CkcDNcleeMNYNj1uY/mLyl+id0R1uiQSHHIZIkYMnqngSuYm30oxIP4kKyZGs+YH6L0fC6eZmu0SxPCeP+0DjRu6nXElic2K5cwOOQqttgOcilp7XatajySrx9zdZB2Ij2RaCjIKr6aFdjQEWlMq+GmRprbmLdnBCAIVpHQg1FhDGpaDooSy/bwyKtZqlRJjFaxXSn+kNvqFTLhSjoG1LKsY7YLAY8=;GkXZZU7tEFfW8CwneynXPA=="
 ---
 
