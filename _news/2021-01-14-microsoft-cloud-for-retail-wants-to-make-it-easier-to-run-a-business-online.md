@@ -174,6 +174,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
+    publishedDateTime: 2021-01-11T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -308,17 +317,6 @@ related:
         width: 1080
         height: 564
         isCached: true
-  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19099697"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19099697"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
     excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
     publishedDateTime: 2021-01-13T12:48:00Z

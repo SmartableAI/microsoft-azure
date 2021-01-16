@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
+excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
 publishedDateTime: 2021-01-11T14:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19099697"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19099697"
+originalUrl: "https://www.nasdaq.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+webUrl: "https://www.nasdaq.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -496,6 +494,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "nnwappWV7dqAW0DKPXnMsi2GE9+JScUr52vBYwJmzFOJdPWVjYmi3zeINirJmvgsjfQtvxVKaMIBhFYtdpvDsLP9scjYonc/1y0KS6O00L3kFZTsHCEwyk2o6MTXJ1YW0R8y6wHn5uFCDmlnno6fqHN5UYQDHXpeooRxpSGZpJiEj+/tVZmEnbWrjrKQ0gcoMxOH/w2ooaAdYLS2uCJndF5hRRM2zfvzg8EtOvoB/XUyi9o0JbLKYXV4GuGyH65StEDLYniGgf0D5XmCsfwAAYUeEteQqVDA3EWMqOxscQJgcYMzxCWs0pC9m/E8IrFaNXojicXhuKhlRTRpQnF/8E2YA4C5d3w6iVsZDQuIPu0=;1IeM+u+UAZnCaovYThdpEA=="
+secured: "boESPY5qCPxw52f0Nys5cV4W0LnKa56SwOpxf7IVhFzSa/ZeGeOC0R5RQ1RJhX8advVpW/f3p8ytGeLRLLl058NclFQxSkmSovDLcw5+Rp6k+6HieodO7eKpZZu0/WtyVLnuK+zDRPUKehFn+FUZkMPkD2waCLJo6h95sU+yZt6kjYRE2qKNKOi1pnVU9PWkXPEhxrnTIf09tQusTzL7iBoiAbA9eGWKnyae8A0Lo9dVkLxMRI4YVbvbv/CRS4tcLuQfZKuZiz1LCYuugimmALrE0R3idreud52Tt6FZLNrhlWnLKoKssXUB7k4wJH2OI8n9CF27hHVpxoMWxB86g3VOQLBqSH/GtcpYfnwgLfg=;Myf7eMQv7CmcAViu8y2Y+Q=="
 ---
 

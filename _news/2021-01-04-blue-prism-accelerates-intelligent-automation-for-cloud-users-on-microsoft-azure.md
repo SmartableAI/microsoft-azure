@@ -184,6 +184,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
+    publishedDateTime: 2021-01-11T14:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 57
   - title: "Microsoft is getting closer to running all of its own services on Azure"
     excerpt: "Microsoft is getting closer to running all of its own services on Azure Credit: TechRepublic Five years ago, Microsoft still wasn't"
     publishedDateTime: 2021-01-13T06:02:00Z
@@ -318,17 +327,6 @@ related:
         width: 1080
         height: 564
         isCached: true
-  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "One-stop shopping via a streamlined procurement process with Microsoft eases the acquisition and use of Teradata Vantage on Azure Teradata (NYSE: TDC), the cloud data"
-    publishedDateTime: 2021-01-11T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/b19099697/teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19099697"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19099697"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
     excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
     publishedDateTime: 2021-01-13T12:48:00Z
@@ -497,6 +495,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "c3a0224dC7gcCjue+YF0I6kj40k48QPi2j3oDCWchk0Tj2LpQ4WizGSIEoR8tnfHTfM4jvUvij7CETnheU7EkPTB5QM7jAuWQLRZqz0lXp5ZT3BnaDpaqGwlzsPEfdOF+LdBA8Wzy/cZ9NrWBB3CNirBrAZb8ZpYFFXZSuy7UqtQ9exzaui9oNeTy6ZvAmQafN6LkhyWzu1MFl6yzNWC+4GBHD+4n3znAwOaU8e6T8uJgYpudXl6EevpgG1XBI8nToVYzTF+CQ25Qgjavgz5HUNVSnSIcaEhG2uMpzVNyIjZCW126dxSqHGoksDCDynPUobwm2lFFSJMcHZRd50bz3LRQy/YKHFeaKXAiFWpY4o=;0RDt14KNARSLjT1FWjlpog=="
+secured: "vCxb35GFj3bPz++51B8SjD5y8NjkUZaJ/sqqMtETLSWCfYWKZFbVXd3Ge1ili1ydM8bTMcmVKY8xnaiHxc9zXEN9CYCmQtcImW06ibNJaiMA1slpkAIpUubPuxiB2zHXwou06oASPNdpm8jQsOT0nFUh5e+eo6UHgFsXOysEsIfZb4oGdBl4M6YJbDajwNV92RdkQTdel9sylD3kEVTmsFxyl+j+DGJUcVEBLl8rjxhC4O27eR0n6T/vG0GxPElUa7sH5ZLdAUtyFPjBcKt2lNNtsn13ySDhO8s94eam9G9x2AvYC2PlQEaKgDe89ZTYQk9LhyTx5zQNlkoTYoLcFZr50SQj8F+RGhi5j72mcY0=;fWUG9uEZ2NjQA3+Bcz/DdA=="
 ---
 
