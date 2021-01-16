@@ -2,24 +2,24 @@
 category: news
 title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
 excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-publishedDateTime: 2021-01-04T14:37:00Z
-originalUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
-webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+publishedDateTime: 2021-01-04T14:33:00Z
+originalUrl: "https://www.csoonline.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+webUrl: "https://www.csoonline.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - Azure
   - Security
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -496,6 +496,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ckNfsICOq74QKyHUnMs/cFLCIS5ZJYblsMgK65ZsHhWIGRrg9xmsqq5miq8SdPap3BeFog8CLA7uZWWCSJz0zzRe5AaK6RXpIgc51Im58JCwOLqFOwn5yQ4jGZBO4qISCywRQAXoQXVjSiw0meIAQTH0ruqbQ1MoioSUycICp+DZHQJML03gFjT3ublCwcpIHlQXAF4biKOkUNSQX4KFSItc9/4Eu5bT0hTxfkidLcAj1+zuc6WK9r8mOVW1NHBY2JC2X+4LI85TPBgrbzpKj+HMcjKQ5PpSgDZiHZPsBM0mmyIvdRLXtKDlmmmzacRoNiJwd/mpBm6IxU2oKQo6lCDhBzu8mZnE3Cq/5CFlQXk=;i4eyG3qT0OjqV+oTu7MOXQ=="
+secured: "Q6IwMRIbuAhOjoPPy0oMlu/FTdIjjY8hbUPMqCuQzNFaKqt750DB9ty7SLiufOL5cD1Rwz6d6uFEPFm9/FbwnpcKQb4WQht7pIqU3T7PBjxvffC1pbTgnqFnwZaVN6iYktnlytNUbNiqq+zKGXREHT4brT67LL73O6aKJVY7q4xCLITIPlcLqmbOMl06ur5u7ymkK2HFlKqz02ge7rrYzXBHdRmI0p+yaWYMwGchLGqUKIzQCShLf8zTu5D8lYH6PAC0NaAC72m+KOy/MzIkF6JdzdTWNHwdMmJ85g58vPoHfSlLArJPavsSMZqs4cgdJgkHTOQFmyo1prMOooKRFctAkf2uQOk+QfkluLV5EnM=;j8umPMbpmXmA6JaafMoKtw=="
 ---
 

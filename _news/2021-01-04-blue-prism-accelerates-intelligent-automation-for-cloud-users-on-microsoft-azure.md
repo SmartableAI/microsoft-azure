@@ -287,15 +287,15 @@ related:
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2021-01-04T14:37:00Z
-    webUrl: "https://www.cio.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    publishedDateTime: 2021-01-04T14:33:00Z
+    webUrl: "https://www.csoonline.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
+      name: CSOonline
+      domain: csoonline.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -495,6 +495,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "vCxb35GFj3bPz++51B8SjD5y8NjkUZaJ/sqqMtETLSWCfYWKZFbVXd3Ge1ili1ydM8bTMcmVKY8xnaiHxc9zXEN9CYCmQtcImW06ibNJaiMA1slpkAIpUubPuxiB2zHXwou06oASPNdpm8jQsOT0nFUh5e+eo6UHgFsXOysEsIfZb4oGdBl4M6YJbDajwNV92RdkQTdel9sylD3kEVTmsFxyl+j+DGJUcVEBLl8rjxhC4O27eR0n6T/vG0GxPElUa7sH5ZLdAUtyFPjBcKt2lNNtsn13ySDhO8s94eam9G9x2AvYC2PlQEaKgDe89ZTYQk9LhyTx5zQNlkoTYoLcFZr50SQj8F+RGhi5j72mcY0=;fWUG9uEZ2NjQA3+Bcz/DdA=="
+secured: "P6bkcUnwpq7hTMw33pc+s2Gb+kB/QK8Ccm5fLRkfb+cPVeMopPP3u3ZnC1idXbHiPhuXBDo1ufXfHF19G5Rbv+YVc3VztexKLdeu4egJ0BMJVYvk8HZdbSFzk7dI/O4UwZ3fj/uImqM5jcE7BSl0JdNi/7zXSojnDIHXdIfrA2rKms1giwfQvDSbjuI6fFoBspmvXnFmU5I71GoWy4/wtNczEJhavZ6bmFkCj/TF9bRwI7NsDrOaOezLMfHP2xiGGhK2afmvkieYO8D4oJ89Qhj9PIDj2sWgqDIoTq0ywXixxct5MqMXf6cCcUZvg6eMTIin5t3SrOo21q+H1XNgx+e4W2QwXUtGP5KrDMi60IY=;ORUb/u90/grRQ42Fd6Ph2A=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
 excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
 publishedDateTime: 2021-01-13T18:18:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
 heat: 181
@@ -101,6 +101,6 @@ related:
         height: 960
         isCached: true
 
-secured: "uagxrW2jk6zzrXwBao6kSpQ1pa6XOgy75G6mEXsAV42G/nqzu8yxicIMQfA4GA804XQzvceCinS61vSKh8SarK4spC7Co7fBYGBKjWP9YA7latOLFFgIdhjEK2r2PGzaMZvukEz5V67rB1dhR9mw2n6XXaH2wDkN/4OxOQ1ZSQKmoQajlAniiaHduOlYuJt9we49NDBRWOXldVDrZuepLcghp3R5xy4GiJtvFyR9SpbVRog3UeUM6wz1N55pG5cyj2Yz3MWpviTGX/Rr9EEJuZTxDNQdXc2zHKZZ1fzp3vb3vjGEt2EulrVQT59ZuKGysLMrMz8S0MNUJYTCh8DtOm01w4sOBXFd0SubPxmuQJSjDNrJUxN4ycTapNMZefpUPiP0bSV2cHPBUASRcb97tuqnEoOZDIrV8x538jG0pFxNZMIXYVfjDAEo+KY4fYrqL/2VnNdEZVRtwx0b8dPE7uqx1+pVvwBTCvZQOhtm2NcoMjsOmru64QVrGChZ2PUlbG4lvX7yh9BNB5EWfEZSQQ==;r0Il/MwJpROW2Dy5IcJPnw=="
+secured: "bHWBtC+eefe77Z8t8lsNMpZFGVYDwSGFjn2TraQiUU1IrfvXgt4K3vhbPkd4XS0gpHyCpReBN5ch1kVaHRvDk6MTsCMXe3CBCv/UDA8J0oaLx8ZVHZc2fnJsCf0bU/NMYKzHclLuRmdhpFTwbYJX6Ebavz1mvVs+OAmSb/yvVW4JQ4nBLNYLSWfxfq7EaKQNW4jS86qHHuj86C3Y1nms+6c9RNmQw7+8Js69JoK4cAHMfvtv3317M2utXQcOi7zITT2Yijt/iFyzl7W9X6nSRXknBtD4xpnhQ5xleU7Z6vCUUtsel6r0xzoApDBfx/fa7USjIXhBVruWXMXjaXWrjBC2JMGuR5VZl/zaghwAxUg=;c8QuPUDbbhlridKjuo2K5g=="
 ---
 
