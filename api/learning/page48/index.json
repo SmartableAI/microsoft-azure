@@ -4,6 +4,35 @@
   "page": 48,
   "value": [
     {
+      "path": "_learning/videos/microsoft-private-video.md",
+      "title": "Private video",
+      "excerpt": "This video is private.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-private-video/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-private-video/",
+      "originalUrl": "https://youtube.com/watch?v=oFlKRdr0MLE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oFlKRdr0MLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T08:49:31-07:00",
+      "heat": 50,
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-pros-and-cons-of-stable-and-unique-tags-in-docker-image-tagging-azure-friday.md",
       "title": "Pros and cons of stable and unique tags in Docker image tagging | Azure Friday",
       "excerpt": "Steve Lasker joins Scott Hanselman to talk about best practices for Docker image tagging, and the tradeoffs between stable and unique tagging techniques. [05:10] Demo Start   Docker Tagging Best Practices https://aka.ms/azfr/502/01  Azure Container Registry https://aka.ms/azfr/502/02  ACR Tasks https://aka.ms/azfr/502/03",
@@ -1113,45 +1142,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y6mXqn1faFo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-hashicorp-vault-with-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "Using HashiCorp Vault with Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "As the adoption of Kubernetes grows, secret management tools must integrate well with Kubernetes so that the sensitive data can be protected in the containerized world. On this episode, Yoko Hakuna demonstrates the HashiCorp Vault's Kubernetes auth method for identifying the validity of containers requesting",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-hashicorp-vault-with-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-hashicorp-vault-with-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=DgKZ9p6P_LI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DgKZ9p6P_LI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M39S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T17:00:31-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DgKZ9p6P_LI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
