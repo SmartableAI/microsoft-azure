@@ -1,14 +1,14 @@
 ---
 title: "How to get a visualization view of your resources | Azure Portal Series"
 excerpt: "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal"
-originalUrl: https://youtube.com/watch?v=pHFgmuF0gSg
+originalUrl: https://youtube.com/watch?v=wudqkkJd5E4
 type: video
 price: Free
-length: PT5M37S
-publishedDateTime: 2020-12-11T17:04:56Z
-heat: 53
+length: PT5M38S
+publishedDateTime: 2021-01-16T00:37:10Z
+heat: 153
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pHFgmuF0gSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wudqkkJd5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -23,11 +23,11 @@ topics:
   - Management tools
 
 images:
-  - url: https://i.ytimg.com/vi/pHFgmuF0gSg/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "tEwlzdueeKc1vZhA80twggWtZ7tP9HMGBQ6bgSJFcbwn/VisNRU8oHzu4FkKn6yrVooYsRzC/Re5mNRHe1yHH40NSo5O++978ly9sjbyGAWLwKpCA9ushcHOIx8uSmiWAEuS2Q5sR5HH47Ms3rfAXVcH29qnxzX7HtAjqJEQk3lcxOlp6ZGjFKR4ORfRyys4/h0teeYPLEUJySSZeVV16HKvySMGVk+et1Ya+HHLthgNO3dhe4jVe/1RN3v9DcG5fB8HWJnrTByqyxSn54sSrwfmVNCdeCFTo4woR89vOGdfT/TYv//xCL44GXW94sj/A9GJoi9nDcErET40hfu1Hjh/jrM6rvPrttatfCj8S08TCl290g8JQN38q/EQXehMPx7dgxe3m+c8Acu0i4J7W4O4uTE7cqcM3MM5oDb3RrA=;il5zXC4mFcS/Zcpsu6pS+g=="
+secured: "zHTiYlm1MK+QiplBO3ji2AkQQkTcrHh9BRz7TW+4q+rrttH+YGbFwah2+3FfomVdsLHvv2kEpUmznluO0l3hOhR90egK80Y5touqEyzeK61385TFZNifccq4G8fgY88okK9qw8r1J+UFO/Dv0//sAaHI7jTk5eCOvNU5NXXfFrvcp50FdKc529yGgRzwHajE3Psij4j76GvGDntJ3UvZKcw1pEesBQR2RKRdcr2WmEtJFr3JGtkoS029NjHifWlPnkosoJwPt2TidvFnbzHR6+6wSiWnN5B9HovVStyOMfNokcpuCF79WvzL2SOW6/tWdN1fG2UrBOZfkDbisGOJ9BT2XpktSR5hwuMgRqUt7bKVdVYwm9Y+eH1PftxUoUVPfvir5BxyWIHtl+wNr4nIIw==;Hzxuk15VqS2qlL0M99V7VQ=="
 ---
 
