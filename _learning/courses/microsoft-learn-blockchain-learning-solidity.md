@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 28
   average: 4.928571
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "H7hGGN9cUS2BE7n2pwh2zcr3pqnImVGtGqB4KlggBaONATmiGBTJp1dH1PpT78Xdl3MKV5DH7zSFbanFLqfjoa8z/6fkgr7Lyf+jpbNb+gu36XUZj9MMml4kR3lko8BBBaa40d50SBg/UyKVTAbmfEJRFChZ7vC3YvTtemC7++MsSX7lE8wS3Z1o3VhIWGNZof8qDoCIOhSMJoQo1jMn7hXYfbxTG2GPOH1IEeliRrbhksf83bMj0W4pYF2cAv82V4cm18nvYr59kiLtrCsZBD5oHub/lppTokxWlgl5y4GgL5tPZrsZup+SPuYam0TnuCTL68b71ZGj/UwDsUROKKs49GH9L4iJlAG6bWp1M6zMLWkTJIlRJdsv7W+8G9ZjZVItgKf2Zhfa2XQBCHz9WVMNNadEbgM72b/EFbgxzAQ=;GwfdKiWHzv/laCorNtkTgw=="
+secured: "t5289wx7BTq2CdWOk+f5hX0/HSvGMY+ytQeU2k321om2wUHkctmgFEJ4nMxFZneJQpLLRPG822bSw9ebPtvGUCe+m+usbFLdvdTNA8qPBhPSYjERVUakNucMPYIrVsP3PKKoRfQqwqY6+AiCPoMamyqdj5R3gfLN1q5uGSdlPnhWc8aJU04zPbYtsx/Fx+yrisawidegYosFhOe3WR7XTEfXijnKBtZwGNEl/ZA+JXPEZCc0Rvj5UdqPMJY0BnkZwkOIxBd4+WSb9DvzwMpBeDB7G6kKKBvUEH12cYh5BM4a/X1WeoC+MnNt0ETyTbFe/CcBlcTtcnk+uDk0RcANU2mBzAeUi4iJnsoED39go9457fo4Czw9QjE8oeUoasK4EaCYlQZyzKmj+UHj88Bw3CBlBTJnoH8mwV9KqOJZk+g=;JhJOFf36eN9hwr2ceofeDA=="
 ---
 
