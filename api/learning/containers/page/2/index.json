@@ -4,6 +4,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions.md",
+      "title": "Configure an Azure Kubernetes Service deployment pipeline using GitHub Actions",
+      "excerpt": "Explore how to create an automated deployment pipeline by using GitHub Actions along with Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deployment-pipeline-github-actions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/",
+      "length": "PT1H34M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-aks-manage-application-state.md",
+      "title": "Deploy and manage a stateful application using CosmosDB and Azure Kubernetes Service",
+      "excerpt": "Create and manage a stateful application with an external storage using CosmosDB and Azure Kubernetes Service",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-manage-application-state/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-manage-application-state/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-aks-optimize-compute-costs.md",
       "title": "Optimize compute costs on Azure Kubernetes Service (AKS)",
       "excerpt": "Explore strategies that you can use on Azure to optimize your cloud-native application-development process by using Azure Kubernetes Service (AKS).",
@@ -485,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
       "length": "PT56M",
       "ratings": {
-        "count": 334,
-        "average": 4.679641
+        "count": 335,
+        "average": 4.677612
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,45 +1208,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday.md",
-      "title": "60 seconds to a Linkerd service mesh on AKS | Azure Friday",
-      "excerpt": "See just how easy it is to deploy a service mesh to your AKS cluster. William Morgan, maintainer of the open source service mesh Linkerd, joins Scott Hanselman to demonstrate just how easy it is to deploy Linkerd. Together they explore how to debug a live microservices application using the service mesh,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=f8R3Y_geZwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f8R3Y_geZwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M45S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T12:22:40-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f8R3Y_geZwU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-container-registry-general-availability.md",
       "title": "Azure Container Registry General Availability",
       "excerpt": "Steve Lasker joins Scott Hanselman to demo & discuss Azure Container Registry, which was in preview since November 2016. Since then, we have received a lot of valuable feedback from customers that we've worked to incorporate, which enables us to move Azure Container Registry to GA.  Harness the power",
@@ -1207,14 +1247,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-container-registry-updates-for-security-and-reliability-azure-friday.md",
-      "title": "Azure Container Registry updates for security and reliability | Azure Friday",
-      "excerpt": "Curious about what's coming for container lifecycle management in Azure? To help you plan your roadmap, Steve Lasker and Scott Hanselman talk about the Azure Container Registry (ACR) roadmap, including updates for production security, reliability features, and developer security. [03:19] Demo Start",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-container-registry-updates-for-security-and-reliability-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-container-registry-updates-for-security-and-reliability-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=mrgVngoFxRw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mrgVngoFxRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M17S",
+      "path": "_learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday.md",
+      "title": "Azure Container Registry Tasks: Build and deploy to Azure App Service | Azure Friday",
+      "excerpt": "Steve Lasker joins Scott Hanselman to talk about Azure Container Registry (ACR) Tasks and how you can build your container images in Azure for the three phases of development: pre-commit, team commits, and post-development for OS & Framework Patching. [01:03] Demo Start   For more information:  Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-container-registry-tasks-build-and-deploy-to-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=2x66-65usew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2x66-65usew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1227,11 +1267,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-27T16:58:17-08:00",
+      "publishedDateTime": "2019-02-27T16:57:56-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mrgVngoFxRw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2x66-65usew/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1242,46 +1282,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Containers",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication.md",
-      "title": "Azure Friday | Azure Container Registry Geo-replication",
-      "excerpt": "Steve Lasker joins Donovan Brown to explain Azure Container Registry (ACR) Geo-replication. With ACR, you can now manage your global Azure footprint as one resource, enabling network-close deployments of your Docker containers. With regionalized WebHooks, you can deploy regions as your images arrive.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-container-registry-geo-replication/",
-      "originalUrl": "https://youtube.com/watch?v=NcB1Ji-DciI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NcB1Ji-DciI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M8S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-30T07:52:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NcB1Ji-DciI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
+        "Compute",
         "Containers"
       ]
     }
