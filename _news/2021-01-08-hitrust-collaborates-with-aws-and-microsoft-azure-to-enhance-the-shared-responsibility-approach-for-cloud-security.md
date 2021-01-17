@@ -1,28 +1,22 @@
 ---
 category: news
 title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
-publishedDateTime: 2021-01-08T06:54:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
+excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+publishedDateTime: 2021-01-07T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
 type: article
-quality: 32
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -496,6 +490,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "xlywqbqO2UQY/G9lGrz9a81jcn/ODYihVOwJyBdV1IX+LwgWP8QFb23n5POejxP3b4o+bS15XXVo/q0jxt/ldlXGX8/UBHllp925IUtuYqA9cjTIclo1bIV2By/tMRby+F+RGQCvyIGVKlunvhDcC0rbcISZXL3RjfoBk7ZvGWHbYlHg1dosnE4IWI7KqdGEyKVOWjrVm527NT929UAs4aWyTBuSzP+k0AaBpOhjTSvmZsoP7iXw0KLSFxe3CTE944MqczoD2y0BGBJyHI5lAGKaWv8Jun9Pop2iK7cGfMuna6rbURaI24w4kMrs8esKYZ20fnZxAthE0ldaHzd4qVWcsMlVUtur/UHSuLCuYfA=;WGTW0sJV6PPhmTL68TA9PA=="
+secured: "WT5mDq9Z3jY7JDLZs8T4Ct6BblUs+yKfDRlLk9BU6RD9cUExAumm3H3Ntv2iE81S25b3HOT8HChlpdLwPhPO3P+MWk5gRrVgmSRDOCFixxP8x1rCpbeupUpsd97UjXJ+/Z0LcKow8Pb5hiyLnxglo6mbCYP8zye4dS7FkoPRE150QQGe8B7SUwcgY6hGliHxXPnyg/XEPMI1gvLwRRbHdiinsML0LGcWlAtW4y3SdVUCMVPSUcTKXOOby9t2MO/M1XhJ1wdoLoV6V0DLfkdfJKr7+KEnn/mmvPmY/C2p11BPmpvGQlHVhBdgvkx+XK1Hv7XmmNZpf06OzqkTPGg2XNZw+UumigTsA7OLUi9/OIBxDfvLJ8Avlq1I6nWtFcqP1cR/sPnGfdIuJbOVoVtZb6sDUmiGYeW/E38AweSEgHpetuyF+Jq3vo00ZGTzEnwi+xaaLCn+NYyr47wWTPuxF9IAB0e0YejLCzemYy99mVBeL+6bvMr+7EahupNbgDzFD2ppEdaRLTd03BMwDIaMmg==;tfoZgC2w/ydPJ+788ZnI1Q=="
 ---
 

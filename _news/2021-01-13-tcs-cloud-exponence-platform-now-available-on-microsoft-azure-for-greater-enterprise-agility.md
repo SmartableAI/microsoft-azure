@@ -405,20 +405,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
-    publishedDateTime: 2021-01-08T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
     excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
     publishedDateTime: 2021-01-12T11:52:00Z
@@ -492,6 +478,15 @@ related:
     provider:
       name: CNBC Africa
       domain: cnbcafrica.com
+    quality: 12
+  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    publishedDateTime: 2021-01-07T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
 
 secured: "KgzYCe0mlRI24vjWxU1cssx7YY5fIQGWbUiQBnMLLTAmjmqEr7s+XPUdI+bgjpJE7OU6p0fGccz3mpTui78ooXn5qhCS0hm7xJa1crU/U25UNBSRxWQmakH8eWeNOMw3NwRFQGn0LiVpmYnZapRxAbijjMiNzdcHPYVPAhQtwt73aVyxMRkM1ynQQxb4JkC/CYnMK20Yi6ozN/+SIzpIAODqOdgVPbgQI8CRN0wNdkwDP+L2qfNe75QPBV3Ip2hDwh1azKZYB6OVuCEVIMvxqUHfAgOtm5+MO0avdR235rj6rMJVLjSe2Vw3bPuQJrjQg6ygjJjztN2cH2pV0gDQJ7ydGsvAwq2JdcyDmmkcMd7wS23VG13Z4HWI3a/6iYaCt5gZN22v0IzzMkkZ6qZQN67kuxGFAF/1Ad0CUBdguHsA3ndwBzntxAjWFVKhAM58Dbehy08r5FbS8A2/oKEYUhnQdeo+XDzVdqc2xN+PmIeyVQZ6zM3Qx4H6FtLznQGEMN4CIiqesbL9NVaAe347vw==;M3UwEJYtjoN2HViWJL0shQ=="

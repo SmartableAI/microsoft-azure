@@ -403,20 +403,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "Leading cloud service providers have long supported shared responsibility models, whereby the provider assumes some security responsibility for hosting applications and systems, while the organization deploying its solutions in the cloud assumes partial or shared responsibility for others."
-    publishedDateTime: 2021-01-08T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-cloud-computing-6017ff0e73c54d2b8770a52282bc6b36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
     excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
     publishedDateTime: 2021-01-12T11:52:00Z
@@ -490,6 +476,15 @@ related:
     provider:
       name: CNBC Africa
       domain: cnbcafrica.com
+    quality: 12
+  - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    publishedDateTime: 2021-01-07T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
