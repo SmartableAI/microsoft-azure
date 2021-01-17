@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-
 webUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/"
 type: article
 quality: 115
-heat: 216
+heat: 215
 published: true
 
 provider:
