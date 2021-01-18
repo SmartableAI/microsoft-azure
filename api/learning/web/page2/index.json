@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
+      "title": "Implement logging in a .NET Framework ASP.NET web application",
+      "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
       "length": "PT24M",
       "ratings": {
-        "count": 24,
-        "average": 4.5833335
+        "count": 29,
+        "average": 4.586207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -32,7 +32,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -43,11 +43,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security",
         "Web",
         "Compute",
         "Containers",
-        "Mobile"
+        "Mobile",
+        "Management Tools"
       ]
     },
     {
@@ -676,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1657,
-        "average": 4.601086
+        "count": 1658,
+        "average": 4.6007237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -890,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/",
       "length": "PT26M",
       "ratings": {
-        "count": 23,
-        "average": 4.869565
+        "count": 24,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",

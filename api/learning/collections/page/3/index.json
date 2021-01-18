@@ -235,8 +235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5039,
-            "average": 4.6568766
+            "count": 5040,
+            "average": 4.6569443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -271,8 +271,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1156,
-            "average": 4.425606
+            "count": 1157,
+            "average": 4.426102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3658,
-            "average": 4.5858393
+            "count": 3659,
+            "average": 4.585679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -404,6 +404,197 @@
         "Azure",
         "Databases",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday.md",
+          "title": "Azure Arc enabled Kubernetes with GitOps | Azure Friday",
+          "excerpt": "Lior Kamrat shows Scott Hanselman how Azure Arc enabled Kubernetes provides an easy way to apply GitOps configurations on Kubernetes clusters deployed outside of Azure, which enables you to control and govern those clusters and applications using GitHub repositories as the \"single source of truth.\"",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=4fT47TKprFQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fT47TKprFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-04T10:44:01-08:00",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday.md",
+          "title": "Migrate and modernize your .NET applications on Azure | Azure Friday",
+          "excerpt": "Azure App Service hosts over 2M web apps with a fully managed app hosting platform for .NET, Node, Python, and Java web apps. In this episode, Gaurav Seth shows Scott Hanselman what's new in Azure App Service. Gaurav demos the new Premium V3 Plan with newer and faster hardware and lower pricing, ability",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=qhrEPvZgFMQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qhrEPvZgFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT19M48S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T15:33:19-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qhrEPvZgFMQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday.md",
+          "title": "Code to Cloud with VS Code and Docker | Azure Friday",
+          "excerpt": "After a quick demo of working with Docker images in Visual Studio, Paul Yuknewicz shows Scott Hanselman how the Docker for Visual Studio Code extension makes it easy for you to build, debug, and diagnose containerized apps. Paul will also show how the extension helps you deploy a container to Azure Container",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-to-cloud-with-vs-code-and-docker-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=zx-rXxvbdyM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zx-rXxvbdyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT25M36S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T15:32:46-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/zx-rXxvbdyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
+          "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
+          "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-12-01T09:48:59-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Serverless",
+            "Integration"
+          ]
+        }
+      ],
+      "size": 272,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -569,8 +760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1834,
-            "average": 4.6461287
+            "count": 1836,
+            "average": 4.6459694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -656,8 +847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2924,
-            "average": 4.6638165
+            "count": 2926,
+            "average": 4.6640463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -848,214 +1039,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy.md",
-      "title": "AZ-400: Develop a Site Reliability Engineering (SRE) strategy",
-      "excerpt": "Sustainably achieve the appropriate level of reliability in your systems, services, and products and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-az-400-develop-a-site-reliability-engineering-sre-strategy/",
-      "length": "PT7H46M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
-          "title": "Introduction to Site Reliability Engineering (SRE)",
-          "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-site-reliability-engineering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 668,
-            "average": 4.739521
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 2066,
-            "average": 4.6495643
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-          "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-          "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 1648,
-            "average": 4.6498785
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-site-reliability.md",
-          "title": "Manage site reliability",
-          "excerpt": "Learn how to manage site reliability.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-site-reliability/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-site-reliability/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 401,
-            "average": 4.690773
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-site-reliability-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "DevOps"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-400-facilitate-communication-and-collaboration.md",
       "title": "AZ-400: Facilitate communication and collaboration",
       "excerpt": "Explore DevOps capabilities such as continuous planning and continuous collaboration and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -1122,8 +1105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3163,
-            "average": 4.68669
+            "count": 3164,
+            "average": 4.686789
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1157,8 +1140,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/characterize-devops-continous-collaboration-improvement/",
           "length": "PT17M",
           "ratings": {
-            "count": 1322,
-            "average": 4.6891074
+            "count": 1323,
+            "average": 4.6893425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1662,212 +1645,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel.md",
-      "title": "Cloud-native security operations with Azure Sentinel",
-      "excerpt": "This learning path describes basic architecture, core capabilities, and primary use cases of its products. You'll also learn about differences and Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-cloud-native-security-operations-with-azure-sentinel/",
-      "length": "PT6H19M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
-          "title": "Introduction to Azure Sentinel",
-          "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 193,
-            "average": 4.746114
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sentinel-deploy-connect.md",
-          "title": "Deploy Azure Sentinel and connect data sources",
-          "excerpt": "Learn how to deploy Azure Sentinel and connect the services you want to monitor. Then you can use Azure and AI to provide analysis of security alerts.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sentinel-deploy-connect/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 59,
-            "average": 4.677966
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-          "title": "Threat detection with Azure Sentinel analytics",
-          "excerpt": "Threat detection with Azure Sentinel analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 24,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-          "title": "Security incident management in Azure Sentinel",
-          "excerpt": "Security incident management in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 22,
-            "average": 4.7727275
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
       "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
       "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
@@ -1942,8 +1719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 1554,
-            "average": 4.795367
+            "count": 1556,
+            "average": 4.79563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1984,8 +1761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
           "length": "PT40M",
           "ratings": {
-            "count": 1281,
-            "average": 4.6627636
+            "count": 1282,
+            "average": 4.6622467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2112,8 +1889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 173,
-            "average": 4.647399
+            "count": 174,
+            "average": 4.6494255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2323,8 +2100,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 600,
-            "average": 4.5333333
+            "count": 601,
+            "average": 4.5341096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2367,8 +2144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 464,
-            "average": 4.644397
+            "count": 466,
+            "average": 4.643777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2411,8 +2188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 308,
-            "average": 4.5616884
+            "count": 309,
+            "average": 4.5598707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2509,6 +2286,215 @@
         "Azure",
         "Analytics",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-from-azure-with-windows-virtual-desktop.md",
+      "title": "Deliver remote desktops and apps from Azure with Windows Virtual Desktop",
+      "excerpt": "Windows Virtual Desktop on Microsoft Azure is a desktop and app virtualization service that runs on the cloud. Windows Virtual Desktop works across devices – including Windows, Mac, iOS, and Android – with full-featured apps that you can use to access remote desktops and apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-from-azure-with-windows-virtual-desktop/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deliver-remote-desktops-and-apps-from-azure-with-windows-virtual-desktop/",
+      "length": "PT1H58M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-wvd-intro.md",
+          "title": "Introduction to Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to use Windows Virtual Desktop to deliver remote desktop and remote app experiences in Microsoft Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1277,
+            "average": 4.7744713
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-for-wvd.md",
+          "title": "Prepare for Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to prepare for Windows Virtual Desktop - a cloud-based virtualization solution running on Microsoft Azure. Windows Virtual Desktop is an elastically scalable service to deliver remote desktop and remote app experiences - without having to manage the underlying server infrastructure. Review the prerequisites and tools provided by Microsoft get ready to provision your first Windows Virtual Desktop host pool.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-for-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-prepare-for-wvd/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 917,
+            "average": 4.749182
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/prepare-for-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-wvd.md",
+          "title": "Deploy Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn how to deploy Windows Virtual Desktop and customize the workspace for your users.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 679,
+            "average": 4.7349043
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-optimize-wvd.md",
+          "title": "Optimize Windows Virtual Desktop in Microsoft Azure",
+          "excerpt": "Learn the steps to optimize Windows Virtual Desktop, including how to take advantage of new storage, file management, and automated scaling options.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-wvd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 716,
+            "average": 4.7597766
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/optimize-windows-virtual-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -2761,8 +2747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 600,
-            "average": 4.5333333
+            "count": 601,
+            "average": 4.5341096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2805,8 +2791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 464,
-            "average": 4.644397
+            "count": 466,
+            "average": 4.643777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2849,8 +2835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 308,
-            "average": 4.5616884
+            "count": 309,
+            "average": 4.5598707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4690,8 +4676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 703,
-            "average": 4.7339973
+            "count": 705,
+            "average": 4.7347517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5117,8 +5103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 703,
-            "average": 4.7339973
+            "count": 705,
+            "average": 4.7347517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5243,8 +5229,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 179,
-            "average": 4.703911
+            "count": 180,
+            "average": 4.7055554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5369,8 +5355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3660,
-            "average": 4.7647543
+            "count": 3661,
+            "average": 4.764818
           },
           "provider": {
             "name": "Microsoft Learn",

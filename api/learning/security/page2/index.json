@@ -4,135 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity.md",
-      "title": "Describe the concepts of security, compliance, and identity",
-      "excerpt": "Describe the concepts of security, compliance, and identity",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/",
-      "length": "PT42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
-          "title": "Describe security concepts and methodologies",
-          "excerpt": "Describe security concepts and methodologies",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 0,
-            "average": 0.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
-          "title": "Describe Microsoft security and compliance principles",
-          "excerpt": "Describe Microsoft security and compliance principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 1,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
       "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
       "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
@@ -228,7 +99,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
@@ -843,6 +714,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
+      "title": "Security incident management in Azure Sentinel",
+      "excerpt": "Security incident management in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 22,
+        "average": 4.7727275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
       "title": "Introduction to Azure Sentinel",
       "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
@@ -929,8 +843,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1657,
-        "average": 4.601086
+        "count": 1658,
+        "average": 4.6007237
       },
       "provider": {
         "name": "Microsoft Learn",

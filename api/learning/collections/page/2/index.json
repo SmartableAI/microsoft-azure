@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 6869,
-            "average": 4.7587714
+            "count": 6870,
+            "average": 4.758806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -157,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8427,
-            "average": 4.6488667
+            "count": 8428,
+            "average": 4.6489086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -448,8 +448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3665,
-            "average": 4.7165074
+            "count": 3666,
+            "average": 4.7165847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -534,8 +534,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2189,
-            "average": 4.708086
+            "count": 2190,
+            "average": 4.708219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -770,8 +770,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8427,
-            "average": 4.6488667
+            "count": 8428,
+            "average": 4.6489086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -892,8 +892,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
           "length": "PT34M",
           "ratings": {
-            "count": 4834,
-            "average": 4.7575507
+            "count": 4835,
+            "average": 4.757601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -927,8 +927,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
           "length": "PT1H11M",
           "ratings": {
-            "count": 5617,
-            "average": 4.718533
+            "count": 5618,
+            "average": 4.718583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5602,
-            "average": 4.7308106
+            "count": 5604,
+            "average": 4.7309065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1376,8 +1376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 83,
-            "average": 4.6626506
+            "count": 84,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1466,8 +1466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5090,
-            "average": 4.6950884
+            "count": 5091,
+            "average": 4.6951485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1501,8 +1501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5559,
-            "average": 4.61288
+            "count": 5560,
+            "average": 4.61295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,8 +1573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 1893,
-            "average": 4.5213947
+            "count": 1894,
+            "average": 4.5216475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1626,216 +1626,6 @@
         "Azure",
         "Compute",
         "Web",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
-      "title": "Explore natural language processing",
-      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing/",
-      "length": "PT2H6M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-          "title": "Analyze text with the Text Analytics service",
-          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 519,
-            "average": 4.8073215
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 131,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
-          "title": "Recognize and synthesize speech",
-          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 482,
-            "average": 4.8091288
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
-          "title": "Translate text and speech",
-          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 408,
-            "average": 4.772059
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
-          "title": "Create a language model with Language Understanding",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 515,
-            "average": 4.8427186
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "AI",
-            "Developer Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
         "Management Tools"
       ]
     },
@@ -2156,8 +1946,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
           "length": "PT36M",
           "ratings": {
-            "count": 5602,
-            "average": 4.7308106
+            "count": 5604,
+            "average": 4.7309065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +1989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 83,
-            "average": 4.6626506
+            "count": 84,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2413,8 +2203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1657,
-            "average": 4.601086
+            "count": 1658,
+            "average": 4.6007237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2496,8 +2286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 3937,
-            "average": 4.7038355
+            "count": 3945,
+            "average": 4.703422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2542,8 +2332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5039,
-            "average": 4.6568766
+            "count": 5040,
+            "average": 4.6569443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2578,8 +2368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3658,
-            "average": 4.5858393
+            "count": 3659,
+            "average": 4.585679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2622,8 +2412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1156,
-            "average": 4.425606
+            "count": 1157,
+            "average": 4.426102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2700,8 +2490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3409,
-            "average": 4.7533
+            "count": 3411,
+            "average": 4.7531514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2823,8 +2613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 8875,
-            "average": 4.6624227
+            "count": 8879,
+            "average": 4.6624618
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2944,8 +2734,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3665,
-            "average": 4.7165074
+            "count": 3666,
+            "average": 4.7165847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3119,8 +2909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 5368,
-            "average": 4.7675114
+            "count": 5369,
+            "average": 4.7675543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3205,8 +2995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 3210,
-            "average": 4.7747664
+            "count": 3212,
+            "average": 4.7749066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3248,8 +3038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 2216,
-            "average": 4.777527
+            "count": 2217,
+            "average": 4.7776275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3507,8 +3297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7358,
-            "average": 4.653982
+            "count": 7361,
+            "average": 4.6541233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3627,8 +3417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1915,
-            "average": 4.585901
+            "count": 1916,
+            "average": 4.585595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3814,8 +3604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5559,
-            "average": 4.61288
+            "count": 5560,
+            "average": 4.61295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3967,8 +3757,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1657,
-            "average": 4.601086
+            "count": 1658,
+            "average": 4.6007237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4122,8 +3912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1550,
-            "average": 4.732258
+            "count": 1551,
+            "average": 4.7324305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4295,8 +4085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 712,
-            "average": 4.7289324
+            "count": 713,
+            "average": 4.729313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4509,8 +4299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
           "length": "PT40M",
           "ratings": {
-            "count": 2414,
-            "average": 4.622204
+            "count": 2415,
+            "average": 4.621532
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4795,8 +4585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 654,
-            "average": 4.7140675
+            "count": 655,
+            "average": 4.714504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4973,8 +4763,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1550,
-            "average": 4.732258
+            "count": 1551,
+            "average": 4.7324305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5220,8 +5010,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1915,
-            "average": 4.585901
+            "count": 1916,
+            "average": 4.585595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5327,8 +5117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
           "length": "PT19M",
           "ratings": {
-            "count": 7159,
-            "average": 4.709736
+            "count": 7160,
+            "average": 4.7097764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5369,8 +5159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 7356,
-            "average": 4.726346
+            "count": 7357,
+            "average": 4.726383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5404,8 +5194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
           "length": "PT40M",
           "ratings": {
-            "count": 5550,
-            "average": 4.7452254
+            "count": 5551,
+            "average": 4.745271
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5521,8 +5311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 639,
-            "average": 4.7652583
+            "count": 640,
+            "average": 4.7625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5564,8 +5354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 551,
-            "average": 4.767695
+            "count": 552,
+            "average": 4.764493
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5705,6 +5495,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-explore-natural-language-processing.md",
+      "title": "Explore natural language processing",
+      "excerpt": "Natural language processing supports applications that can see, hear, speak with, and understand users.  They permit the user to interact with your application in natural ways without requiring the user to adapt to the computer model.  Using text analytics, translation, and language understanding services, Microsoft Azure makes it easy to build applications that support natural language.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-explore-natural-language-processing/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-explore-natural-language-processing/",
+      "length": "PT2H6M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
+          "title": "Analyze text with the Text Analytics service",
+          "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 519,
+            "average": 4.8073215
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
+          "title": "Recognize and synthesize speech",
+          "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 482,
+            "average": 4.8091288
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
+          "title": "Translate text and speech",
+          "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-text-with-translation-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 408,
+            "average": 4.772059
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/translate-text-with-translation-service-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-language-model-with-luis.md",
+          "title": "Create a language model with Language Understanding",
+          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-language-model-with-luis/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 515,
+            "average": 4.8427186
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-publish-luis-model-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Developer Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
       "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
       "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
@@ -5735,8 +5735,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3163,
-            "average": 4.68669
+            "count": 3164,
+            "average": 4.686789
           },
           "provider": {
             "name": "Microsoft Learn",
