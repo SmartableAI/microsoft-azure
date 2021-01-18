@@ -36,6 +36,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
+    excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
+    publishedDateTime: 2021-01-15T14:10:00Z
+    webUrl: "https://winbuzzer.com/2021/01/15/microsoft-azure-playfab-expands-to-more-regions-gains-amd-vm-support-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 37
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/01/PlayFab-Microsoft-Acquisitionp-Official.jpg"
+        width: 1000
+        height: 733
+        isCached: true
 
 secured: "MSB8/xykG0+9HpxtMfnDwkbXKL5zH2zry2OImZCWUJdKrc+0uBWrse87DYj9Wfj38Bx3poZ0d6kOwSHO6NQzwKHPXfzuaJdfKjVyjxrZj6awvqgV7zlliJfr2Dp52l2Qt8n9dYFAswqA+DhrUfXgEzUI/NCtRV9btTkXDgdoLA/eH8C7CEyR/QOsLOo6JLQ6UrOL72XbyELf35AOD2t19wlMm56ItF4LAlkmKfIZ6XLMpOVISuT4FS7eW6YQQwVJQraC/eUKersfSLbUcUIToCHnxKZ/7AC4pUxulmgKLNYx7Sco6Z8Du21t/RSk1tx3fbXFq4kUCM8J1/7psExVj0ItXV6j/5Grf4n95WgIIIA=;XU+vBrbrwtasKUsvDQWWVg=="
 ---

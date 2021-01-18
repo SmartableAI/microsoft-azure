@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
-publishedDateTime: 2021-01-06T18:37:00Z
-originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies. Data lakes are an important part of a modern data analysis environment. Instead of importing all your different data sources into one data ..."
+publishedDateTime: 2021-01-18T17:37:00Z
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
 type: article
-quality: 53
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
-    width: 620
-    height: 250
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+    width: 1200
+    height: 704
     isCached: true
 
 related:
@@ -126,22 +130,6 @@ related:
     webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
-        width: 1200
-        height: 704
-        isCached: true
-  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies. Data lakes are an important part of a modern data analysis environment. Instead of importing all your different data sources into one data ..."
-    publishedDateTime: 2021-01-18T17:37:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -267,6 +255,22 @@ related:
     quality: 53
     images:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+    publishedDateTime: 2021-01-06T18:37:00Z
+    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 53
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
         width: 620
         height: 250
         isCached: true
@@ -547,6 +551,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "HwbYR9ZRWtXfncDWY2eKY3TXGl4U10bS4LZznMNSKf/ettv621CPihdfqWf3QpxF5CDZQwOxEReMgVFBQinvADnP0IxZQU/A15zBjW7WS0LBJtmrIbN1HcUMIlcHlWM059EMwIUMkZIX6ClP5Lm5YQB0cg8MknVX9tUwDnXhgrVgu3jr5pDnxHYVuf3y8eGfZVtq4iXGVmGr/rRoTJfuNggMOw6/f8T6xub2YIvL9wBjM0QDvyBGtREdzaIyhnziNHf2PJ4pgrlPOGOMf86AFBr0+IFCBHIpmEiAM0KvPmzwVxswNLXuzSU1gEdmQZOjPhoV15ZlFTCAozbsn/oCrBIZf6Ra8KZwWnp6UD4FkUU=;g4W+n6Yl5FMopFE+P0l1Mg=="
+secured: "992uglvMcsoV6sh0Pr8bX8bz39YANWqpiP8xkUoX0Yumx0Sr9JmKYT3Pn5BWBG3LKOwWroCRkHUFqX9w9a84YlLE+0t9LzCoKvbnhSUa/cET6hCtIR4UIPjHrz998Zpp0JkXuygpZbbmq5nQT2Y0RVRDjzLPi1Odi2A7y+rw2dcQQA7JJ1571TYmyp0J9TZgsv1pDHNuHQvEUGCdD3KJFRe+0POjZmKsHNvqG5ec2a6LN7p+Yg/BJY2Q8uft527WMi6+592sg+hraclujr/l/y3I9OGZxQMiP7BBCV+4CGBms/mFXrt6iR+FJoBifQkT1zuenxrm4DQ7cfZ7JkdAT0hA06s7zGW8Pe7EXzYRUv0=;mqHSOdNjC39Gnu03RLJ6kA=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
-publishedDateTime: 2021-01-11T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
-webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+excerpt: "\"With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval ..."
+publishedDateTime: 2021-01-11T12:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
+webUrl: "https://markets.businessinsider.com/news/stocks/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
-    width: 1080
-    height: 564
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -124,6 +124,22 @@ related:
     webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies. Data lakes are an important part of a modern data analysis environment. Instead of importing all your different data sources into one data ..."
+    publishedDateTime: 2021-01-18T17:37:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -534,6 +550,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "EnDS0BEKdbgKknszbSTERqfOOF/fnLqeNV4dtBSDUtA01m77QCGYcUsKdcgvLBTA/11MvOBw54AKsWaIqjP3brz5LzZNl+ucCc7t5z32UcknTSwVpwsRT4IicE/G1Df0rcJBOJFgH8rM4q9jF4A4c4eDrC8mxmpR2Y4IN86T/+CnTQwrcrJmhTbPaQ89ENB44s0njUufJHWEB3WshQEW4VrPmqNHi0alv3zrvhiEiYQddRUOskYFjNCJCl2c1TShwCsUl5EyN/kRPkDC4KoMcOKzXpZIAgFncJ2eMTYc4KmtEdHz3AvyPFA7aDT+tRgQblaqxWFW8naQgXlBk77dyW2VtHQZ0M60fICgPEasSVY=;6M6Og6zWb+QFDedBFYQUXA=="
+secured: "LLpQkri+GMrdEfonJyN3J6h1TAntQ9odIletZfJQz+w2DsX/AxeBwL2GtHUF6Oxi0XFRHadDLV0Hm8XxvXBECeDnmYwjSkTz6Whq+77YoCwfmPnaGQRNYbM57CVyEy9ePDbs6gGM4sc5EtPc3zOq6VvBsmKeXrDZtj80hbSaFi2WLH8dXW5OKOxc6xwCDQd/XpTlRgaLwQI+sg2TzkYokyMOgB6CzlBhMHMGxwWzyu5QPrMxP5Mx+3o7DPzMvIuAqc5yi/IB0sSq/TDMZbxpx/lOlx7ADJAmTZ/0sClW/KwdqoI2KbIPLZamd3NcMhUvRxpp4yEeMy6OA7GfP6Q9QvEn+x/pQTiZPj0lLAmxhbs=;X4IZnEbMh9SU6WKNUooi+g=="
 ---
 

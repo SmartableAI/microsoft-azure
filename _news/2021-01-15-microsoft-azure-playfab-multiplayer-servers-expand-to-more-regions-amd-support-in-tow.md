@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
+    excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
+    publishedDateTime: 2021-01-15T14:10:00Z
+    webUrl: "https://winbuzzer.com/2021/01/15/microsoft-azure-playfab-expands-to-more-regions-gains-amd-vm-support-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 37
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/01/PlayFab-Microsoft-Acquisitionp-Official.jpg"
+        width: 1000
+        height: 733
+        isCached: true
   - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
     publishedDateTime: 2021-01-13T11:00:00Z
