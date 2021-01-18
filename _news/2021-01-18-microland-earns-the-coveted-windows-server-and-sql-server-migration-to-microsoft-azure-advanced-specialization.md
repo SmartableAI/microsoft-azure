@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "PR Newswire BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 BENG"
-publishedDateTime: 2021-01-18T09:16:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
-webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
+excerpt: "... leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge, extensive experience and ..."
+publishedDateTime: 2021-01-18T03:52:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+    width: 842
+    height: 441
     isCached: true
 
 related:
@@ -122,6 +118,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
         width: 893
         height: 439
+        isCached: true
+  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+    publishedDateTime: 2021-01-18T11:47:00Z
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+        width: 1200
+        height: 704
         isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
@@ -389,18 +401,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-    publishedDateTime: 2021-01-04T14:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+    publishedDateTime: 2021-01-04T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-        width: 1198
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -509,6 +521,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "eVUB0fPbPj1tfNq7C/NyHdbWLOGKbMhCOnvvivgycWeLJkHSRW8sgkGfOfvnIJkaDw1cIAFgk3oNRs/MyPGbcTlnxAigvipOBQNWG/+2lkSK8Bsra7ydjXks7sKhuWB1iKQkTIykT3ub5dRgAtTIWAgpunMNJX1rKCZd8DMGk5KeNj5vntdJkz3lJnJrZ+DxsdxrIDrJcXuHwabE1vQJ8bfCZanJEpyYs6H1Yy7YUDiAwg5MBiCcB0kfZIB4OY1xrln0PQ5qTOU8p3UNeNnKc6sDp/zkhDW9yPTkoKs8Aly9MtEVCdTwJKw8wk1CTDChsGad2bSMRVk8TPpBA11wUWmmraMRno49dvefrCAiJrs=;8JWnkIRhJSFzHFuqWjOwfQ=="
+secured: "dKPu6VIzcqA671Kbwyw7eYxZnGARu0uQ1z5NLFZ/smCpJEW5iCPXZ5fsRaSxNwUXWXSZ1vNnTL/xuYYeR+V7PL84GtPyR9S8gLV2Hp50Nx//fBK4aRVZp06kHe4h0Y0bbSMSJL0yQ0WJO3KjPJOAFW9lnfSThne4NY1tfIgj90J5sP5tJdCYvgeex2nYl+ZOXTJfBE9Juheh/6HfMcEv2tPwevmii0ckdO7JvM6CS+gsXMah4ie53gKoYnvJW83WSLHpoMWDvYotzjfIm7yiU3YE/lFYfJ3KnVM2caMtxGKLj7GW75+dwm/DaHWkP+YPZbfZuL5PDuVCTKP3we4bpaihDENcoHXqSzvVXY1yWvI=;F/H0VH5yzpe5xysnhxHuSA=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-publishedDateTime: 2021-01-04T14:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
-webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+publishedDateTime: 2021-01-04T15:04:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-    width: 1198
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -118,6 +118,22 @@ related:
         width: 893
         height: 439
         isCached: true
+  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+    publishedDateTime: 2021-01-18T11:47:00Z
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+        width: 1200
+        height: 704
+        isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
     publishedDateTime: 2021-01-14T13:38:00Z
@@ -184,20 +200,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "PR Newswire BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 BENG"
-    publishedDateTime: 2021-01-18T09:16:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -397,6 +399,20 @@ related:
         width: 1388
         height: 927
         isCached: true
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "... leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge, extensive experience and ..."
+    publishedDateTime: 2021-01-18T03:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+        width: 842
+        height: 441
+        isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
     publishedDateTime: 2021-01-05T20:52:00Z
@@ -504,6 +520,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "lDPIW47aFyiD3W3+CDLGWQ/9xR8d9vIo/PL6zU42EDWu05bQXHbaGsYtJaK+3rre6NifTUFVOcTFdXgLUEhFc07j9TmWL3voarO0t5HKXlnGPWI8sW4vvFZeJRFyIOGtx5wYPIV/DWHac6V/4pvGt01YtJCyMWYsHbZXuKuZhDtnlFWmE1Shwmw9JIYVNPW4z/uwqfrdVVRQ0NZGI8qhFBpOwMGq4oQGG65tVy2ubgAWJKaEATYbDzKsqnWiVcZ+1x1gvE+r3o07zCDS9u1VdAtL2RvHSj5ReJbOdpgjc5Hu0ZqsDvLMWkODuyS3ZdnuiDeH3uSjePgR01/a2MEaFTHNiqaxDUSP+D751wSBBds=;QB0q1hR1foHZGzwtJcYGwg=="
+secured: "aGSQwQGW/3jwz/f7BDBWmjL6AkCN5EmgdDQniUIHzfHr4Ev2ZaGYnrgczQdQQ3VTPqVwEtHzLK9mly0wxs0uB+/5BuVDn79tnt+YDrinjoM7BMe2UWGNCdlWb8aIg6CR7t8qVkczSacN/k2nLkDxvdkCURdVJhnRZOZQGnd2sY7yzng6TC5HbcAc1bXoWr3fQrocelJwEQmqNQ4o7rUYMh2XXTfOsCxW4iXx4aTJSVxtD35w9Srnc0GpIwHIJ+9H2zrwN/J7AEborDmhc4WbL0+66njWEGSd2iHe0K7+rw0LOQbPOTaFPKrujxSvo7qAaflOqqy2kJJxqGS3eP6JYoseBUOdS1/Wv8dDo6lagwg=;E7MCWrnqBmp21r1wClTeLA=="
 ---
 

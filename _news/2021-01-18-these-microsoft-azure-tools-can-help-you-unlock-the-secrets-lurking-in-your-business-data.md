@@ -1,27 +1,33 @@
 ---
 category: news
-title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
-excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
-publishedDateTime: 2021-01-15T05:04:00Z
-originalUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
+excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+publishedDateTime: 2021-01-18T11:47:00Z
+originalUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
 type: article
-quality: 76
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: TechRepublic
+  domain: techrepublic.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
+    width: 1200
+    height: 704
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -118,22 +124,6 @@ related:
         width: 893
         height: 439
         isCached: true
-  - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
-    publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2021/01/18/3ea20d9a-ab9f-4905-923a-b6121d78238f/resize/1200x/eff293a6d551812987e4886ea3ef4442/azure-synapse-dashboard.jpg"
-        width: 1200
-        height: 704
-        isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
     publishedDateTime: 2021-01-14T13:38:00Z
@@ -189,6 +179,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
+    excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
+    publishedDateTime: 2021-01-15T05:04:00Z
+    webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 76
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -523,6 +524,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "lfdrYNffmp8aIUKbMxgmpTaIjnjCgSL4ftg77nBVYMNY4Gqsf68UQsF0nvX7+oTXnyaeaA3gSjxdq9O86obeXD5Aiz5MlKw/RgCdQaXuio+tQlbeqjXbIlGUueEWzgZ6yXzGMnR9R68jWJQC1dBsjKJaJwK9/buLycfcYoUv7Sy2TXPAb7LGXMM/hcKGirVL33Q5jgNCPo18ppMXgw4ctCsTdsWXvFsuBRvVp76aT+3h2CHETUCG7d14DvEz40n/JIcleOW/ENHwGyDL1+/Qd9RseY5cYMHV7KdW9bVIzCiA1BmjexlA1pTvM5wnvECKGZj6q/oDVQy6KGIlln5HeyLkZ+WfGmt7yWSy+i9bn/t0EEPgi6BrQqEf8C0029hAyLHavCe7x1xNcHr3BgOBoZmexHIffWZlQJyVErlkcOY8FaxRkuXR0Nx533xiTdM8dHjQ+E64aAnXkFvx6qEux7Iy+t2kbn0961Ve6/wLtdCufTj78kcA0dAhxnwG2YPHxl/EZrgEXJPl/GK3JLo92w==;GYB4WyIe8Bi7HdtbDqPPLQ=="
+secured: "z9at+0dKQDoXOMr9p2REKybUHykGcoCkc9zxoAPXQzRr2vCZs8Z0e8foi8vmHwnShuXv8smasZ310+X4eMeKuGzj0Zzq5G/9lBcw6U0TK23O38mRsLMsxeXJwbaZy1WrkiI/EWunRcxrmbb74kxl78dH34hrFtWFYLfh1BG3nrlVxRw1k8fEanfBHzWBJ+IjosZR4QD5yspqU1bmPfoTu2Wb8zTCj2FhLZE+Q0NQXEtetlIPQfgcFId+HLdu9DVbISvtjWxaiFHX1vHt6r0JrmmwDYsT00FFcCEe/Wc2WBKPCEmMp9StoEUAWPN3D+AmIZfxR/alKDwEv/Xv1c+ex35HyFl5BBzBIBJNxscn1KI=;XxgU8DtplIu3K0tuDfVwZQ=="
 ---
 
