@@ -4,7 +4,7 @@ excerpt: "This learning path provides you with an introduction to the basics of 
 type: collection
 price: Free
 length: PT1H34M
-heat: 134
+heat: 124
 
 provider:
   name: Microsoft Learn
