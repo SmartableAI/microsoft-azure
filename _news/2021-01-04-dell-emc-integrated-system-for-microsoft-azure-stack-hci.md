@@ -281,15 +281,15 @@ related:
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2021-01-04T14:33:00Z
-    webUrl: "https://www.csoonline.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    publishedDateTime: 2021-01-04T14:26:00Z
+    webUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -461,19 +461,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-    excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
-    publishedDateTime: 2021-01-13T17:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
+  - title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "\"TCS Cloud Exponence on Microsoft Azure has been curated by TCS MBU to help enterprises define and administer superior governance policies in managing a globally distributed cloud real estate ..."
+    publishedDateTime: 2021-01-14T13:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-301207668.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 26
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
+        width: 2063
+        height: 1082
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-excerpt: "TCS Cloud Exponence is a comprehensive platform that applies a Machine First™ approach, optimizing machine-human collaboration to deliver smart managed services in hybrid cloud environments. It reduces cloud management overheads,"
-publishedDateTime: 2021-01-13T17:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-e81ad2a61a27aa3892e9b51a0e0779a3"
+title: "TCS' Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+excerpt: "\"TCS Cloud Exponence on Microsoft Azure has been curated by TCS MBU to help enterprises define and administer superior governance policies in managing a globally distributed cloud real estate ..."
+publishedDateTime: 2021-01-14T13:18:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-301207668.html"
+webUrl: "https://www.prnewswire.com/news-releases/tcs-cloud-exponence-platform-now-available-on-microsoft-azure-for-greater-enterprise-agility-301207668.html"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
+    width: 2063
+    height: 1082
     isCached: true
 
 related:
@@ -287,15 +287,15 @@ related:
         isCached: true
   - title: "How to improve security and visibility of Amazon Web Services, Microsoft Azure, and Google Cloud Platform"
     excerpt: "Cloud Platforms like Amazon Web Services, Microsoft Azure, and Google Cloud Platform have introduced a new level of flexibility and scalability for enterprises, but they have also introduced new ..."
-    publishedDateTime: 2021-01-04T14:33:00Z
-    webUrl: "https://www.csoonline.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
+    publishedDateTime: 2021-01-04T14:26:00Z
+    webUrl: "https://www.computerworld.com/resources/212415/how-to-improve-security-and-visibility-of-amazon-web-services-microsoft-azure-and-google-cloud-platf"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 37
     images:
-      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -504,6 +504,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "rgoGxo76D3NGHtvPFHgavH8RPSu0jaPXWmlDnokX147e0paZW55irtuUm/SUGptAxR3/ZqRyPF7zzTh7l4WllhCGK6vKa2AL2Vo9e7eAS+vfzz5kcNVv2lsAlqbVd883R1gybcOT7euqfe1DUnCrwq8rWnEa8Im4JJqT16gte3w/CAmnHGNsWaggfGq81Ru+3CQ7nrlsa7y59NKBQbY3Mg8BicGOz0Z8uGAcxKUAIwZ0XuKTFVLm8Vzy2WIoTOYjuTqxVfU/I0+FaKA/ns/CfWDW91lNxpXyMN+NtqGyjuj+vruuwVf+fcVLeg5ufr6I2WRDy2kaltaO5kkaOmRdWzRmidobk1O1jVbvw9Dw/3g=;RQE9dcnlBSkNsJ49PpVIJA=="
+secured: "BbmRyWnX19NWVYq8M6U5W7pcxadZRRLnloZGkkiploIRKnBy27cX1jqlMc5/njORlLkr9AD9Ke2zKx1yxoTdMa/sXxmAAiJPLsU9p3RHqFX875Gdc0qQC6D1zMXxRBRgKOVFDJx3U6rXM5kGcmEj3WHo8jV9zdXg2uFrjPAfcMYuNywUf/MoHL/o0Jp9tJfHhVo1xj+OAzNRdi6BDkbCpIhpORK5y8XDUmjMzwEj80QANCkO8WkypLJm6XfoNfqInynGlBHOKMhoQ9/QuuXfa3FTtuOQiWWJg+8BBwphCgtnBRd5pAE8bTgK+AF1n19J/7cSK6pyBDAmK4dTHXl1/0NMK0HwPoO/kKMSRckf24k=;iTMM2jaooI5ZG3CPnnk+0A=="
 ---
 
