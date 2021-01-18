@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-publishedDateTime: 2021-01-12T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has"
+publishedDateTime: 2021-01-18T01:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
 type: article
-quality: 97
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-    width: 893
-    height: 439
-    isCached: true
+  - Migration
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -108,6 +103,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
+    publishedDateTime: 2021-01-12T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
+        isCached: true
   - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
     excerpt: "Specific details surrounding Cloud for Retail are thin on the ground at the moment but the platform does promise retail-specific solutions to some of the industry’s biggest challenges. Leveraging Microsoft’s extensive partner ecosystem,"
     publishedDateTime: 2021-01-14T13:38:00Z
@@ -174,17 +185,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has"
-    publishedDateTime: 2021-01-18T01:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -505,6 +505,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "z/XxBcSzjsrrusrgs0dkK1d/zP8YFcviNR+noINwXL4rO2NAhCITSnDeOhfQtaLruFIcICsl7O6bji215oE1EeUtWaq1SgrvnIbAZlh8KhOQ+GlsKXw+0laU6STnnVVHX7yuMV4UZ6EHb6GFPGLusu7mel33FpZ5lUgi3P7BmdmRphEmUVvIfEIqeEG6Ri8PhbQzVK+bH2AHy2wZGjDyL/qW599S8wsuEnvDqOjHoKcIuzH5xGjMChe6teL5IkEX6X125prfjGRTJmCo8SdDKW69XgWOcPhzHJxuvpVmk6rU3syQ7of+At/7zw/lnOj0/XmGBS/naR+cGxmQq/2cGYpxz1ZZj9VoIfBWXTmPhEMlE4i+7381AU3XkTkNECBh5Dtr415ekFdo2golW1oZ+k6uiApKahUK3rrkrCVNCqWSnnJE0Wpo9/1h+xeKgMmvmyBjDwXw2RaE8/Cw2m0AjLjx4evBmb6B/GEmELlSOZKogCxxARGw8maujUnILOUHP6yr6V9TYBf2idY/78QDXA==;hBJ8qONnDTeQ45/6G8GsfA=="
+secured: "piTPRDIFYTXLnyvfcNbLEV+7goimQYFrxrz5e68DJGacvXcYfJSO9NW907WqDoPOZtzNMt+3d1ZY5SyFvzadOW59pncyslRP/KpGjphXPpQ80Bjsy9ynp6HrD988lCj/AAxPsVhvrffDqqVYSV4Z8xGMj+EoB7u/WiDLmE7JJaZ7UwlC00tN24ebbF7tXKsPn86Ai8u3lnZN3/01M3erRixsJkZsEvuDcKES5eeDG/d4xKilOf/erVSByS53CEqI73A9dfJquy4KBJ04UX3421l5TLL9s8/lRzUd+N+loBlh1rBvxIUCo51MafhF3gL5jxxmHyVulf3yisHEERj3fx8AptBjUB5xbuZMfi+2SnA=;puvVRjSZ5f71GbG5HGf+9g=="
 ---
 
