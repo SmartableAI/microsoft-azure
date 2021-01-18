@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has"
-publishedDateTime: 2021-01-18T01:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+excerpt: "\"Our partnership with Microsoft continues to strengthen, and we are pleased to have been accredited Azure advanced specialization for our skills in migrating Windows and SQL workloads to the cloud. Microland is a trusted name in the Azure space with wide ..."
+publishedDateTime: 2021-01-18T03:52:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Migration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+    width: 842
+    height: 441
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -385,18 +385,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-    publishedDateTime: 2021-01-04T14:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+    publishedDateTime: 2021-01-04T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-        width: 1198
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -505,6 +505,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "piTPRDIFYTXLnyvfcNbLEV+7goimQYFrxrz5e68DJGacvXcYfJSO9NW907WqDoPOZtzNMt+3d1ZY5SyFvzadOW59pncyslRP/KpGjphXPpQ80Bjsy9ynp6HrD988lCj/AAxPsVhvrffDqqVYSV4Z8xGMj+EoB7u/WiDLmE7JJaZ7UwlC00tN24ebbF7tXKsPn86Ai8u3lnZN3/01M3erRixsJkZsEvuDcKES5eeDG/d4xKilOf/erVSByS53CEqI73A9dfJquy4KBJ04UX3421l5TLL9s8/lRzUd+N+loBlh1rBvxIUCo51MafhF3gL5jxxmHyVulf3yisHEERj3fx8AptBjUB5xbuZMfi+2SnA=;puvVRjSZ5f71GbG5HGf+9g=="
+secured: "34DI8b8g3FdX7Z3RHipN8spJoTExcT1Fk+PDJ50v+vkyf2lLAVm8oZmV61IV70oNAgUbHwAIqeH1b1oy5ixulEbCWclBx7Zwy3PRaamh1s6Ykx9fUq7H1lJPXRTOlhKuo0GUPfMf5BnuXXaVW5KsorkjJx+Z9VFFde7m5bD2+gPW7oMFToZLDtGSBaIdk9G3O/ZJ3+tM/4af/JxFbXsSwdrchZ2+KzK9fHat/pmByYgPjn8pVTwL4thMgHFYOjpgtxqPocmkjnKggIGeyExcFmgR6lFtFIgNwaeD5Q/+v+6W5Wlc72te+QOBsUkYYy7x/SPIDRed2zMs9TabVhjItDiddvFknvs2MBDVr5Omy/c=;SYVrFYbKmnLkSikK+LCbgg=="
 ---
 

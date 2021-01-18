@@ -169,17 +169,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has"
-    publishedDateTime: 2021-01-18T01:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -379,19 +368,33 @@ related:
         width: 1388
         height: 927
         isCached: true
-  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
-    publishedDateTime: 2021-01-04T14:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "\"Our partnership with Microsoft continues to strengthen, and we are pleased to have been accredited Azure advanced specialization for our skills in migrating Windows and SQL workloads to the cloud. Microland is a trusted name in the Azure space with wide ..."
+    publishedDateTime: 2021-01-18T03:52:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+        width: 842
+        height: 441
+        isCached: true
+  - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
+    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
+    publishedDateTime: 2021-01-04T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
-        width: 1198
-        height: 628
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
