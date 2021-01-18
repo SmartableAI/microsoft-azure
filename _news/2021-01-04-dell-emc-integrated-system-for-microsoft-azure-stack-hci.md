@@ -491,6 +491,20 @@ related:
         width: 2063
         height: 1082
         isCached: true
+  - title: "Introducing Microsoft Cloud for Retail - Microsoft Industry Blogs"
+    excerpt: "Retailers have had to rapidly adapt over the last year, embracing new business models and working to keep their employees and shoppers safe. Our new Microsoft... 56 comments on LinkedIn"
+    publishedDateTime: 2021-01-15T21:19:00Z
+    webUrl: "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-cloud-for-retail-activity-6755206805363802112-pGXh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 22
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2021/01/85505_MSCloudSocialNarrativeRetail_ta_Blog_4800x2000.png"
+        width: 4800
+        height: 2000
+        isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."
     publishedDateTime: 2021-01-06T19:14:00Z

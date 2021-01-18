@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-publishedDateTime: 2021-01-05T20:52:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+title: "Introducing Microsoft Cloud for Retail - Microsoft Industry Blogs"
+excerpt: "Retailers have had to rapidly adapt over the last year, embracing new business models and working to keep their employees and shoppers safe. Our new Microsoft... 56 comments on LinkedIn"
+publishedDateTime: 2021-01-15T21:19:00Z
+originalUrl: "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-cloud-for-retail-activity-6755206805363802112-pGXh"
+webUrl: "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-cloud-for-retail-activity-6755206805363802112-pGXh"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
+  - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2021/01/85505_MSCloudSocialNarrativeRetail_ta_Blog_4800x2000.png"
+    width: 4800
+    height: 2000
     isCached: true
 
 related:
@@ -427,6 +431,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
     excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
     publishedDateTime: 2021-01-12T11:52:00Z
@@ -483,20 +501,6 @@ related:
         width: 2063
         height: 1082
         isCached: true
-  - title: "Introducing Microsoft Cloud for Retail - Microsoft Industry Blogs"
-    excerpt: "Retailers have had to rapidly adapt over the last year, embracing new business models and working to keep their employees and shoppers safe. Our new Microsoft... 56 comments on LinkedIn"
-    publishedDateTime: 2021-01-15T21:19:00Z
-    webUrl: "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-cloud-for-retail-activity-6755206805363802112-pGXh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2021/01/85505_MSCloudSocialNarrativeRetail_ta_Blog_4800x2000.png"
-        width: 4800
-        height: 2000
-        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
     publishedDateTime: 2021-01-04T14:32:00Z
@@ -534,6 +538,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "6EXt1pZr9FXpyTSjaMo4gjLRISqK35f+O4xr83tfiSSP5oU249WEx8VdLYq6tx4vHCH+Es/nGcTHRYypoh5wbfzJ1hy5gFs01VuFsfs8tvJLpJbVMxsGOoow1VQHaKQ5hDwGldSsWypOUOw9jcHaA7J4AF9DYsaRLkEN0sRKMt6YfyAkDbVD0jCGA8H+zMOqtybkptnMO6HMwllHSl7H2PqRxi+sdQBbfBMrgb+i8NHgZJ7QHfI5C1/peV3MspkzpvrKhpotw7VTa4RTQWU2xLY6qBZqj2ypq/sEGixIeDrLZWvmQdCyqWK9WUglYHDQ/lCFow0RPzBfjKACKrsVqCvvY+XkUOFnoIF6QP3Q7MU=;pfLRp1kT3F7+/IlOWp0rzg=="
+secured: "L8vSua5Vgv/1iVKeoNaGqRMRXUJ688UNqxMbOHgnbOK7T4kdYTPM5vkfhJHbUo//gQlilPio9C7CM5pOu7BdD6eooqwPpkFIO3Lc6q4KdwxoWQj/VIR+Z/w6M91dwAgqGNVx/5dS4itb3eP0iFrPg8OUqVttajGtf0Z1aY5MP1uXai7rH/JKzqgJaxxE2plew6YEUBnGp7ALYUPK/pkvwLbrdEXuXuBh1zIXrR54Ie2Ex6snKa5yelN9M8Q5RUR036XoEVn4pyCBsE5acZMzK9rocH4Nirqt8areQ/IbyConbXv244VlNjmajK3J6K3zJsQuoC+z3ymIP+XrAHLQh+q/YuzVOsSveyR0rvMRBB4=;tdi2spru77EZoAqMXzgZHw=="
 ---
 

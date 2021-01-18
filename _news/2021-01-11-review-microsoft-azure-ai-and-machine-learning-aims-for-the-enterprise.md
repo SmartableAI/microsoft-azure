@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 849
+heat: 869
 published: true
 
 provider:
@@ -487,6 +487,20 @@ related:
       - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
         width: 2063
         height: 1082
+        isCached: true
+  - title: "Introducing Microsoft Cloud for Retail - Microsoft Industry Blogs"
+    excerpt: "Retailers have had to rapidly adapt over the last year, embracing new business models and working to keep their employees and shoppers safe. Our new Microsoft... 56 comments on LinkedIn"
+    publishedDateTime: 2021-01-15T21:19:00Z
+    webUrl: "https://www.linkedin.com/posts/satyanadella_introducing-microsoft-cloud-for-retail-activity-6755206805363802112-pGXh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 22
+    images:
+      - url: "https://cloudblogs.microsoft.com/industry-blog/uploads/industry/2021/01/85505_MSCloudSocialNarrativeRetail_ta_Blog_4800x2000.png"
+        width: 4800
+        height: 2000
         isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack HCI"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack HCI delivers a cloud consumption experience on-premises while maintaining data security and full-stack lifecycle management. Dell EMC ..."
