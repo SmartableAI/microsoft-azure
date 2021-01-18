@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "\"Our partnership with Microsoft continues to strengthen, and we are pleased to have been accredited Azure advanced specialization for our skills in migrating Windows and SQL workloads to the cloud. Microland is a trusted name in the Azure space with wide ..."
-publishedDateTime: 2021-01-18T03:52:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+excerpt: "PR Newswire BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 BENG"
+publishedDateTime: 2021-01-18T09:16:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
+webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -385,18 +389,18 @@ related:
         height: 927
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
-    excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
-    publishedDateTime: 2021-01-04T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-01/51640655-blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-008.htm"
+    excerpt: "LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue Prism (AIM: PRSM) today announced a new offering of Blue Prism intelligent automation software on Microsoft's AppSource and Azure ..."
+    publishedDateTime: 2021-01-04T14:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/blue-prism-accelerates-intelligent-automation-for-cloud-users-on-microsoft-azure-301196350.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg"
-        width: 400
-        height: 209
+      - url: "https://mma.prnewswire.com/media/1389186/bp_scaleatspeed_azure_prism.jpg?p=facebook"
+        width: 1198
+        height: 628
         isCached: true
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
@@ -487,13 +491,13 @@ related:
       domain: cnbcafrica.com
     quality: 12
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
-    publishedDateTime: 2021-01-07T17:39:00Z
-    webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    publishedDateTime: 2021-01-07T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
@@ -505,6 +509,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "34DI8b8g3FdX7Z3RHipN8spJoTExcT1Fk+PDJ50v+vkyf2lLAVm8oZmV61IV70oNAgUbHwAIqeH1b1oy5ixulEbCWclBx7Zwy3PRaamh1s6Ykx9fUq7H1lJPXRTOlhKuo0GUPfMf5BnuXXaVW5KsorkjJx+Z9VFFde7m5bD2+gPW7oMFToZLDtGSBaIdk9G3O/ZJ3+tM/4af/JxFbXsSwdrchZ2+KzK9fHat/pmByYgPjn8pVTwL4thMgHFYOjpgtxqPocmkjnKggIGeyExcFmgR6lFtFIgNwaeD5Q/+v+6W5Wlc72te+QOBsUkYYy7x/SPIDRed2zMs9TabVhjItDiddvFknvs2MBDVr5Omy/c=;SYVrFYbKmnLkSikK+LCbgg=="
+secured: "eVUB0fPbPj1tfNq7C/NyHdbWLOGKbMhCOnvvivgycWeLJkHSRW8sgkGfOfvnIJkaDw1cIAFgk3oNRs/MyPGbcTlnxAigvipOBQNWG/+2lkSK8Bsra7ydjXks7sKhuWB1iKQkTIykT3ub5dRgAtTIWAgpunMNJX1rKCZd8DMGk5KeNj5vntdJkz3lJnJrZ+DxsdxrIDrJcXuHwabE1vQJ8bfCZanJEpyYs6H1Yy7YUDiAwg5MBiCcB0kfZIB4OY1xrln0PQ5qTOU8p3UNeNnKc6sDp/zkhDW9yPTkoKs8Aly9MtEVCdTwJKw8wk1CTDChsGad2bSMRVk8TPpBA11wUWmmraMRno49dvefrCAiJrs=;8JWnkIRhJSFzHFuqWjOwfQ=="
 ---
 
