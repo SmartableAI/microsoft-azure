@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
-    excerpt: "Accenture (NYSE: ACN) has been strongly positioned as a Leader in both Market Impact and Vision & Capability in the inaugural Everest Group PEAK Matrix ® for System Integrator (SI) Capabilities on Microsoft Azure Services,"
-    publishedDateTime: 2021-01-12T09:40:00Z
-    webUrl: "https://apnews.com/article/technology-mountains-environment-and-nature-cloud-computing-computing-and-information-technology-1a37195da6d3407495b9d0394fc553b4"
+    excerpt: "Everest Group System Integrator on Microsoft Azure Services PEAK Matrix Assessment 2021 (Graphic: Business Wire) NEW YORK-- ( BUSINESS WIRE )--Accenture (NYSE: ACN) has been strongly positioned as a Leader in both Market Impact and Vision & Capability in the inaugural Everest Group PEAK Matrix ® for System Integrator (SI) Capabilities on Microsoft Azure Services,"
+    publishedDateTime: 2021-01-11T17:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005176/en/Accenture-Positioned-as-a-Leader-in-Microsoft-Azure-Systems-Integrators-by-Everest-Group/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
 
 secured: "01kt++zXb7nr6QAbQDJqE+eUvR9pn6GbJ0/aXtORwCR7A/zPzpTeOM9xlzx0AYSKYa930upbdUe14o2WGaCtaiA80XRl64d0R1NpbaxV7JiTQDs5zmXVO8fPQqaRI7XgkA3TunDZQ0ExuBZCqOMAtEgObgRw7xn16YOz7FDuCt5MOwCZaAVdwiR264Ha79WJecT83gi86xk9dD7vNIiMXH/PtkSpeVx3GTs81TcQPHADn6Lb2+rSDt7s1QDA59ubhXZinarCm/a8vgexePIAN4QO3T7OkBfOqJCRO+Up5AB6OWDuihUhcJ+94XtD8lmMvnfk2VZGacSDt2swl0tIA8W5irZwJFs+FIbb0mOTlR8=;bs92fZCp9SVOUCWrAVIpQw=="
 ---

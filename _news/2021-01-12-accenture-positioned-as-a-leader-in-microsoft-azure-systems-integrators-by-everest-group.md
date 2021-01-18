@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
-excerpt: "Accenture (NYSE: ACN) has been strongly positioned as a Leader in both Market Impact and Vision & Capability in the inaugural Everest Group PEAK Matrix ® for System Integrator (SI) Capabilities on Microsoft Azure Services,"
-publishedDateTime: 2021-01-12T09:40:00Z
-originalUrl: "https://apnews.com/article/technology-mountains-environment-and-nature-cloud-computing-computing-and-information-technology-1a37195da6d3407495b9d0394fc553b4"
-webUrl: "https://apnews.com/article/technology-mountains-environment-and-nature-cloud-computing-computing-and-information-technology-1a37195da6d3407495b9d0394fc553b4"
+excerpt: "Everest Group System Integrator on Microsoft Azure Services PEAK Matrix Assessment 2021 (Graphic: Business Wire) NEW YORK-- ( BUSINESS WIRE )--Accenture (NYSE: ACN) has been strongly positioned as a Leader in both Market Impact and Vision & Capability in the inaugural Everest Group PEAK Matrix ® for System Integrator (SI) Capabilities on Microsoft Azure Services,"
+publishedDateTime: 2021-01-11T17:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005176/en/Accenture-Positioned-as-a-Leader-in-Microsoft-Azure-Systems-Integrators-by-Everest-Group/"
+webUrl: "https://www.businesswire.com/news/home/20210111005176/en/Accenture-Positioned-as-a-Leader-in-Microsoft-Azure-Systems-Integrators-by-Everest-Group/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
@@ -39,6 +33,6 @@ related:
         height: 630
         isCached: true
 
-secured: "a2OR7ABKArUWl7fZkwsBk+vZCL05/aWLpOCSlTCvDhoASPMHylu7VV8QmJ11c16voC34a1OKscEEn8CJv+Za7Qm1iPHGyMvMchIedqCZLQdoL6r/kHzqkEhpbhZd/flXzMBpuYEFaSaScbKSfVjKAIeko9d3p9UunXevLYT2cmxtnoUw8HNTrU1dF9q0D/4WWX9Dl4lf4BUoMyyVupj4Zeembk2rpuS3VYGQ424hIrxWePkQSBMCc0aOIhIWNCcppxkMVeIKKMPpWfkEjRx8ttvMgrfzeVnH7nnvOI0YAu1Kqf6SCkraa8BDbgJLKLPlTp0xJigtWKybLv0c2RJmGGO85fjaqG83fkFl184cu/A=;gXo7JDHptrEeKbOX5gsVeA=="
+secured: "Mx+bmZ/oVXyWT8MTduUFEwT8AKLwBnUANHNWTIaCIcbhP9LIMYw6tsrnhANsSAdrRBCM77a9KlQrAD7XlBkki33Mmj84Qa4DiURdYPb/0o0zMbe6keWqynbnT0RceO7wGAC6e+41vjdsrxM6wM5wzMCkzPSB9A0lYxqvbns9yhn5j9ycLC1dwJhWaONbVTzL0ygNebF6dzXD+ZScTf5TWwneY0s862UllImnNMOXipxHbOnaO0KCtr72ujVOl06oQrl7C3Uw3s/vPmZDKdI0WdOPMkzFOZjcJJa/HqP0zT01OyjUbiVRE3kWqyC+oAdBnLBKlxMYWRK4EXaTotovYoJ8ZuniKk+jrH3GUnXkIyg=;sFe6UE3vAVPrCOS3/S1wKg=="
 ---
 
