@@ -1,18 +1,18 @@
 ---
 category: news
 title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-publishedDateTime: 2021-01-07T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
-webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+publishedDateTime: 2021-01-07T17:39:00Z
+originalUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
@@ -395,18 +395,18 @@ related:
         height: 927
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "... leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge, extensive experience and ..."
-    publishedDateTime: 2021-01-18T03:52:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+    excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is ..."
+    publishedDateTime: 2021-01-18T14:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-        width: 842
-        height: 441
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
@@ -520,6 +520,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "BPPjrFK+GrdQ6+FpKfmkDamDlWSFK/vuTgf537yNj9qdIHa+eAms9P5rv1KPNlLP6YH4Jk3looqTvDCtpNGMLJ9ITdqpiiIjXGYLs4w5IiGEbTwsEq508kAQj19dD/8coykdRSDTGJaTXbjBhanECj+DxKenZQCi4YY8mQ/w8ihvcwPW2VDfNiOxZtHrPDprYQE/3Fx14e9ZJsY2PiFzxj3eknoQfDrsb550zqW9RF0tUtm/1cRWWlSBq09ulei5ce0lNse3L8uUT25bz2bzJuNTW5wgAFteYd6mMLntJuFqb5ScRTCz/8lNEAERbrzrGKuo45Pkofut+w9L0WDjYhoq7FC1myYs8YMuwYV60uPuY9SXkgDHXQa6BZAOZZLefEDiW5WSMZd4dnTK/+Az5B4IyBSf2JN4PcHVUFU5waWu6t5K+ZcnJljN3BNkjTkCHJrJ2EwkUon3u593T4fqZygIhQ6r836b+DSLWwsWv9jWsukf3DutUPvV12x0jTCeiOLFDmeeaAaOwaRp71rXeQ==;xIlP4ynoQ6FbQEpT6NACsw=="
+secured: "L1Uj6TNMqsqEOhVRFtC/sEtSDKZ26E5NlgOisEDSs7o6Los2g41OtMrw1roTna3bd4nkwaTkiMDzy9x7sY4kJxQWGDqCfsi65h2Ga75nFe0eASZYIh771V1YgYVaDus+Y9V+K+L8Q+d37MleqVBgR5lMXc9sbM4EQN9C6Mk5BzU7s+8KdDdkuash3EIEPQwohypcN365XYH3wR8TuwWetofnerADUwBl29rO7kN38nyo0KSg8YM7URT5LF3k2ZAb5eJzfhmPN0AnKCPgzu+Z2YuUDV7dhky/YIMCJJDKAceqkrueWesBxuBRU2sLFJGfwfOIPLIaFBeDPT42BtnjkFAm5TsjRJaCg3lQ6fj8IH0=;vdoXBR6Kmkg70OIujtGYSQ=="
 ---
 

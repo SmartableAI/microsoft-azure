@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "... leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland's deep knowledge, extensive experience and ..."
-publishedDateTime: 2021-01-18T03:52:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is ..."
+publishedDateTime: 2021-01-18T14:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -503,13 +503,13 @@ related:
       domain: cnbcafrica.com
     quality: 12
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    publishedDateTime: 2021-01-07T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+    excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+    publishedDateTime: 2021-01-07T17:39:00Z
+    webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
@@ -521,6 +521,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "dKPu6VIzcqA671Kbwyw7eYxZnGARu0uQ1z5NLFZ/smCpJEW5iCPXZ5fsRaSxNwUXWXSZ1vNnTL/xuYYeR+V7PL84GtPyR9S8gLV2Hp50Nx//fBK4aRVZp06kHe4h0Y0bbSMSJL0yQ0WJO3KjPJOAFW9lnfSThne4NY1tfIgj90J5sP5tJdCYvgeex2nYl+ZOXTJfBE9Juheh/6HfMcEv2tPwevmii0ckdO7JvM6CS+gsXMah4ie53gKoYnvJW83WSLHpoMWDvYotzjfIm7yiU3YE/lFYfJ3KnVM2caMtxGKLj7GW75+dwm/DaHWkP+YPZbfZuL5PDuVCTKP3we4bpaihDENcoHXqSzvVXY1yWvI=;F/H0VH5yzpe5xysnhxHuSA=="
+secured: "BY9/VnddYpzL8mL/YPajyw0YwX7BZ63Bz5jBtjHdjhMK85P3bYBGE39xkQetlffEeohPmfqeHy2I85UWYB6MGdE1daPvuHlH6ln9/wBhjlz5iHggbLsv0n/ut7PlkR3YtbdW0KSpqGWUHxkYsrR/mqGlFu9A4MljsBS5HlZDkBanCu8m9PTKKoMWL6zXWAsxehHbF3n5UHgGy9W/FX02iYWSR2pKlPkajIWSAbM0MqMZFc36NJHlkuv6wYV+ytukJbErbn0nynzMmHfRt9vnmg1ICs2V0lyiW4Ujf/IDghDGYQ2sy4ojsfJUsvxZl91E3BN5sX/PovxBF4svIp91K5GqbAE9YFuORZWct20r37A=;YALvj4czfyQN1rAObrG7BA=="
 ---
 
