@@ -486,13 +486,13 @@ related:
       domain: cnbcafrica.com
     quality: 12
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    publishedDateTime: 2021-01-07T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+    excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+    publishedDateTime: 2021-01-07T17:39:00Z
+    webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
@@ -504,6 +504,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "TB1coowuNj4ydxfq3htEU1NRu5bH5tG96Qih6po2irIVncAU2AkxLK8Ux3vVZKVOFr1asUUZQuI85nUuvxR5mE7eqCnOyMObQnhbfQurAWho6tKRq18zfVe9ujMNuG4XOhW2kPNOq9Uqancx9P00/nGjepXhI4cqBbQVwyOt1IzBANVrK2YMXwmfbywpKNVxLU6WvQAs1TOEqgme8pdFY8Bw0RhrKRe29klS1mPEoIM9edM/EAh2pzGrODXy40VoNmCIfFdYxk4kbO3xKX8pobkA/0y7GDNKO6qG3Kz4hQE3mI0f+neI/uIRv2+TcyjIb5mzfAkml/sfg7PvRBqLjxA3NHJizgVukr56BxUQ6yE=;D7mW3b39KXQwQcG+ec3NkA=="
+secured: "qfp5EoC/hsJOqEAfooF5DL4Fqt53UREn0k8HQFYfaKj6MBNBUN8dwEYQSpCD//L2HN7umkTFRNYqWwumTgk7frPVWJmAR3QlR9cf2m/rSVEr6R8ueq9V19sqbJtc/qIWT4Z7UJUp+xzEukhqdEaDLFoD5ouX8Zls1M62I5LrKRgv9EsfCgnvvBbS/+rTDYXpCZhSobq8sr3er7IS6Dhna4bAV8ozULDNg9G7WYE9I0Cz53UOG5eVJQAIkQXjRI/3mIujjkZzirIH3t1QesoeoEMwMwestokypX5N5Vd0dMbGbpj6QCC2k2zNiN9YnVm8M2kvVeUjVtmfp351Y5HlpwXU4SoMIlKwlR7V1tRxT4w=;n1fwySO31MLjufdajWqMhw=="
 ---
 

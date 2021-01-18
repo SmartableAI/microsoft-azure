@@ -1,18 +1,18 @@
 ---
 category: news
 title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-publishedDateTime: 2021-01-07T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
-webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+publishedDateTime: 2021-01-07T17:39:00Z
+originalUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
@@ -504,6 +504,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "WT5mDq9Z3jY7JDLZs8T4Ct6BblUs+yKfDRlLk9BU6RD9cUExAumm3H3Ntv2iE81S25b3HOT8HChlpdLwPhPO3P+MWk5gRrVgmSRDOCFixxP8x1rCpbeupUpsd97UjXJ+/Z0LcKow8Pb5hiyLnxglo6mbCYP8zye4dS7FkoPRE150QQGe8B7SUwcgY6hGliHxXPnyg/XEPMI1gvLwRRbHdiinsML0LGcWlAtW4y3SdVUCMVPSUcTKXOOby9t2MO/M1XhJ1wdoLoV6V0DLfkdfJKr7+KEnn/mmvPmY/C2p11BPmpvGQlHVhBdgvkx+XK1Hv7XmmNZpf06OzqkTPGg2XNZw+UumigTsA7OLUi9/OIBxDfvLJ8Avlq1I6nWtFcqP1cR/sPnGfdIuJbOVoVtZb6sDUmiGYeW/E38AweSEgHpetuyF+Jq3vo00ZGTzEnwi+xaaLCn+NYyr47wWTPuxF9IAB0e0YejLCzemYy99mVBeL+6bvMr+7EahupNbgDzFD2ppEdaRLTd03BMwDIaMmg==;tfoZgC2w/ydPJ+788ZnI1Q=="
+secured: "MegnPZVr8dpIoZQtQRKx1UO86qtb7RT+JZ1GOFxkenauiRt1ySDIzJEpc41phlj88oJOApSe4Vj/c5fcSAsAS6IEZ5d0wXwvoiO+CRNg3z4kUhta5VN3bz8tdRL5dGYxiZNAaJy9kg13uwH9I6Cu7Usyc0BWj+ttPEENZeqlI6VcrWgC0MCvItI2FMOSYVyxEDLTonvI+MaaenYzxF7RXO7jLxpUp1RSV2rRsTycPg//TCWVre1YtAcshIFV6GxoZwOHUD76EOKWWrBBQeqXGwJ+Y8nqkYqsNSP5drxNBilOVLCQ6tdedv0A1e9IslaofjUucX3X8bsdrd80zFUzlW/zWdqpY9EM+sCntAOS+mQ=;xccT0dX8PLFmE+fRMj5ZXw=="
 ---
 

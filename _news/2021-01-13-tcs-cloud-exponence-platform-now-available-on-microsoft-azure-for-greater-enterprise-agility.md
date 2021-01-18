@@ -494,13 +494,13 @@ related:
       domain: cnbcafrica.com
     quality: 12
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    publishedDateTime: 2021-01-07T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+    excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+    publishedDateTime: 2021-01-07T17:39:00Z
+    webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 12
 
 secured: "KgzYCe0mlRI24vjWxU1cssx7YY5fIQGWbUiQBnMLLTAmjmqEr7s+XPUdI+bgjpJE7OU6p0fGccz3mpTui78ooXn5qhCS0hm7xJa1crU/U25UNBSRxWQmakH8eWeNOMw3NwRFQGn0LiVpmYnZapRxAbijjMiNzdcHPYVPAhQtwt73aVyxMRkM1ynQQxb4JkC/CYnMK20Yi6ozN/+SIzpIAODqOdgVPbgQI8CRN0wNdkwDP+L2qfNe75QPBV3Ip2hDwh1azKZYB6OVuCEVIMvxqUHfAgOtm5+MO0avdR235rj6rMJVLjSe2Vw3bPuQJrjQg6ygjJjztN2cH2pV0gDQJ7ydGsvAwq2JdcyDmmkcMd7wS23VG13Z4HWI3a/6iYaCt5gZN22v0IzzMkkZ6qZQN67kuxGFAF/1Ad0CUBdguHsA3ndwBzntxAjWFVKhAM58Dbehy08r5FbS8A2/oKEYUhnQdeo+XDzVdqc2xN+PmIeyVQZ6zM3Qx4H6FtLznQGEMN4CIiqesbL9NVaAe347vw==;M3UwEJYtjoN2HViWJL0shQ=="
