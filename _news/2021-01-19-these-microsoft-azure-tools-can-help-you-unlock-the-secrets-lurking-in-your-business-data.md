@@ -170,17 +170,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-    excerpt: "\"With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval ..."
-    publishedDateTime: 2021-01-11T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-12T06:10:00Z
@@ -345,6 +334,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
         width: 768
         height: 401
+        isCached: true
+  - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
+    excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+        width: 1080
+        height: 564
         isCached: true
   - title: "5 Tips to Prepare for Microsoft Azure Cloud Certification Exam"
     excerpt: "Microsoft Azure is fast becoming one of the most widely used cloud computing services in the IT space. Naturally, a rise in popularity assumes a rise in demand. But the demand for Azure professionals"
@@ -551,6 +554,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "992uglvMcsoV6sh0Pr8bX8bz39YANWqpiP8xkUoX0Yumx0Sr9JmKYT3Pn5BWBG3LKOwWroCRkHUFqX9w9a84YlLE+0t9LzCoKvbnhSUa/cET6hCtIR4UIPjHrz998Zpp0JkXuygpZbbmq5nQT2Y0RVRDjzLPi1Odi2A7y+rw2dcQQA7JJ1571TYmyp0J9TZgsv1pDHNuHQvEUGCdD3KJFRe+0POjZmKsHNvqG5ec2a6LN7p+Yg/BJY2Q8uft527WMi6+592sg+hraclujr/l/y3I9OGZxQMiP7BBCV+4CGBms/mFXrt6iR+FJoBifQkT1zuenxrm4DQ7cfZ7JkdAT0hA06s7zGW8Pe7EXzYRUv0=;mqHSOdNjC39Gnu03RLJ6kA=="
+secured: "QbnrUzVvb4K0dya+6spZTkyugjJ9CpbUJ+N4bnteShHT/IeSpLZ6Ljn5TRJCByykfv7LDFwPI5Ds/C/NSMgibjPGLxh0Ujbb9LfNk8xiseT9IQ1R9VeiMew+X+LKxG3WY1ZQZZ5uJj75WlGulU4stoTNnXet1Fzx2TYE/kYs6UZGVPCG9Tk0wkOc41MxFbbtep6G3zVxZdgRXu/d8/6dzFqCT0mnv9bgLSwEDDTuYGWlZbJONBnvDK/o3eNawljMbl7UwbigGH7Q/uKvv9tmzcklfVOkWk7oO6ctEd7A/aytGvj9h5y58L8RXCFitNajisAqE5qJLhKiKtC7OMH34VLMJpWSxW0TmPH36LnBDmNojvJrclx2SplDvsUs5HvgFwr2mWYR+Iz/kV7KQtCjaIZ84C1NZu/VaryXjbODP05vmiv0y4Uc8Xcm8t6sGImYT4/pwlHqWN25+M/QonN5JOilG57DCQ25o0/pFRTnJDeH0JFwF0AkpHpRGRd3S2HXFpUP4hd66XBaeMJje3Zyrw==;I44R0ANlNYXgKPUSWDMVJA=="
 ---
 

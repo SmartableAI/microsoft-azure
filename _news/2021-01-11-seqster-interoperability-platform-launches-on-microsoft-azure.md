@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
-excerpt: "\"With the latest release of the Seqster platform, we provide end-to-end patient data delivery on Microsoft Azure so that our enterprise clients can transition from existing outdated retrieval ..."
-publishedDateTime: 2021-01-11T12:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-webUrl: "https://markets.businessinsider.com/news/stocks/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/seqster-interoperability-platform-launches-on-microsoft-azure-1029948900"
+excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
+publishedDateTime: 2021-01-11T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
+webUrl: "https://www.prnewswire.com/news-releases/seqster-interoperability-platform-launches-on-microsoft-azure-301204736.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1417331/Microsoft_Seqster.jpg?p=facebook"
+    width: 1080
+    height: 564
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -550,6 +550,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "LLpQkri+GMrdEfonJyN3J6h1TAntQ9odIletZfJQz+w2DsX/AxeBwL2GtHUF6Oxi0XFRHadDLV0Hm8XxvXBECeDnmYwjSkTz6Whq+77YoCwfmPnaGQRNYbM57CVyEy9ePDbs6gGM4sc5EtPc3zOq6VvBsmKeXrDZtj80hbSaFi2WLH8dXW5OKOxc6xwCDQd/XpTlRgaLwQI+sg2TzkYokyMOgB6CzlBhMHMGxwWzyu5QPrMxP5Mx+3o7DPzMvIuAqc5yi/IB0sSq/TDMZbxpx/lOlx7ADJAmTZ/0sClW/KwdqoI2KbIPLZamd3NcMhUvRxpp4yEeMy6OA7GfP6Q9QvEn+x/pQTiZPj0lLAmxhbs=;X4IZnEbMh9SU6WKNUooi+g=="
+secured: "XOCfEvzZK2u1IbH19wl78268KQzcJXGsux3WF2K1hvlY8TC4DtqbqEl5bf0tiabG/xfXuDjf2kfGmcNTwwVqapoal8gRubIssvD+hihue5CkfXAG/EB0TGSeIRhT10k+GLzHl/ABRQI+S8/Apzm6PrSGR+zv+48G1YqjoSB9v9nUHL8b+WUa4baD85pIKxNMkVnr0i0aOcQgmIHc8A3ikqC6zxYHkVtc+i0ddtqTelOIw5jNvEpBFgarWjkz1rx5GyItV/90ZokWtVYtAILWysqZsJxggg1u9BAGRz7uh628+WuU+MEC5CDDSEz3ce4A6q25TB5WBjEXTTgeIHwRpz0GPNwK9facYwt9Wn9jXSk=;2nWhWJPNbmldGWexAOmxlA=="
 ---
 
