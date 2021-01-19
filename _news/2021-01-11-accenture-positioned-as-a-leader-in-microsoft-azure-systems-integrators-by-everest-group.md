@@ -2,20 +2,26 @@
 category: news
 title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
 excerpt: "\"Cloud hyperscalers have now become a key lever for enterprise digital transformation, with Microsoft Azure aggressively capturing market share in the public cloud space. System integrators are ..."
-publishedDateTime: 2021-01-11T13:02:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210111005176/accenture-positioned-as-a-leader-in-microsoft-azure-systems-integrators-by-everest-group"
-webUrl: "https://www.morningstar.com/news/business-wire/20210111005176/accenture-positioned-as-a-leader-in-microsoft-azure-systems-integrators-by-everest-group"
+publishedDateTime: 2021-01-11T13:32:00Z
+originalUrl: "https://www.oaoa.com/news/business/accenture-positioned-as-a-leader-in-microsoft-azure-systems-integrators-by-everest-group/article_d77a3542-5392-5575-93b8-6f077469dfbc.html"
+webUrl: "https://www.oaoa.com/news/business/accenture-positioned-as-a-leader-in-microsoft-azure-systems-integrators-by-everest-group/article_d77a3542-5392-5575-93b8-6f077469dfbc.html"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/b/28/b2839f12-e601-568c-b117-edf204999d5a/5ffc5008cedac.image.jpg?resize=1049%2C630"
+    width: 1049
+    height: 630
+    isCached: true
 
 related:
   - title: "Accenture Positioned as a Leader in Microsoft Azure Systems Integrators by Everest Group"
@@ -28,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "ImI+uOrvnc0ZVDgad6hSJhn/VOX3djuDMgx9+IYy80Z/R8TDok6DQH1bBxOyOg8oquoSTzFBWJavT7notsjsslNso6V/JjzLirY4I/sG+3Ihjjec0pTY7pg34brGmlPr6iu6A804vtSopLyuOiRCV/E+yrvbeUxhuOEOx7MJrpTxuvJkUgcG+3oi5fhQOFed9X7ZS8uD1lCmLdmb7LZ73TJfddSDFy7DmINPjS3F584/cXUZlXepDwePHc2oA6kz2dG3NnaiKLPcL4vF+scNdz3QrIQKPysmeDfc1zbU7ZyeajhZ66C8FFUtHzdxegp9+BxltXRQWusGZrOCig/otfocXRGVXDvp5m0dpXspsmI=;eNEsA9/+l1i/oxrlNKmpCw=="
+secured: "nGv4uA7b9fgAA4DgT3Gx01mONqCV29tfb/mFeVMB9CPpJlR2shSIdoYcgK8s+XQ1wPuBw2L0Oxp9Lq/+z2vjaPxDndPjYXvNN7PK0uhhlliJLyfQ1hzOdxQBruGUVPlanB2g1T4WxfVzqlUX5fpajP5Alp/v5sL2i1qrCMu52Wfk3OJEpztM9pBd6BnjVDqWG/IIRYD8BXQ6UyHAcHJ59KTIhKhz8rIVqzQzc6IN47upUcGESb/RWTrh+R9Jie9wfmrPvPc3g7yZpm3RcOiWOO45ytnm58PPjlSoZzkBWkYR6KiNgDefSpiKq4X2ynmdYsm8dXTN8pQeJyO0AfC4KrrqrWYR3n0ckCTiah0H0Lw=;Z45mmyEQCZd50BDqpLN9lw=="
 ---
 

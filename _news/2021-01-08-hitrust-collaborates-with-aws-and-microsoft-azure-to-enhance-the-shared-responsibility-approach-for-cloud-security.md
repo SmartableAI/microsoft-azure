@@ -1,18 +1,18 @@
 ---
 category: news
 title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-publishedDateTime: 2021-01-07T21:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
-webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
+publishedDateTime: 2021-01-07T17:39:00Z
+originalUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
@@ -114,11 +114,11 @@ related:
         height: 439
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -545,6 +545,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "RJC2MmghyMeEW8ZC5K8LEREzR/SLCJrLNrOR92bpAJFvwGR+7y2MhP8PhkJ1Ph7ABx4OYyMaZCoVMAhgAEViTULyd4T3IE/QJD3+keBRqLbwdd4OgtYc8BfLBuYL7K03mBDGO6a+UR6lgjYWTkZW8uwiLoFLJeF71xs4GIBOerOSUHWFFiC5ZxRQUvbxgHDV3zTzMgkOzauIekUje0H3+bzob49g2WIYbHCxbYPge07g48qW3CqqLLMN0cZG3RMoQlzkbtJQb9kldK3WobN0is46N3e61CET8WPUA1/AN6rlkDoypS/gYvjPF/9TyII2GxXTNm0CUf/kGsJUFtStxpIXSx7HlJbTHTovMtxvHas00Xrnkbz8SUESPOx8yVzcFWUSywWWR5tyeZ4V/IOuPA2/GWC2AmHNRGuWhlRWHwXUNhEqQ5BHKH8PedLnDHqHUOkI9tGaBxC6xDnhKSLk5lF3Dlplp+SbyRpykfiLXmkz88EqXqVcAVm6yScWHL9G6C8Uxy26/CEOK+QH7Qw9mQ==;eZ+ah85fUTwHotZLC792mw=="
+secured: "adZCK0ewhZ3dEv+wfTHUJNlcfgVe7BI1XApXYzkbx8UyiwfDu7JcHvd9WUvmHS8z7kaFnZkKpGomG+VV0fqAGdgq//iybvItsbQvm0D6mLdu03HIeSTv6E0ufynEAStEa1/wbE25nx8fliAUxNYpail5ICCRF62RMCuhW6PXoICzdQv4BxNYZDBa/nW7CLUxoO4qrx6oxuiH/3c4BTx+q1IbtLAtcc+MalLVGPCeoBG+2OgkRlbzVmi/ks8hxmt0mYuetj5/KwBcuIZideY8gvh4fMO6ZYaqFY31/J4rY7rqRzlW0T19bRFN4EuHNmsJ6B6ijlAoqI3vBCQH5vwPevnU1HzcUb/ttathTbNwneU=;i0p94W8I7bXR9ettRlIFtw=="
 ---
 

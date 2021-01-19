@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encrypt
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/"
 type: article
 quality: 76
-heat: 96
+heat: 97
 published: true
 
 provider:
