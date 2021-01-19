@@ -8,7 +8,7 @@ length: PT45M
 ratings:
   count: 8442
   average: 4.64878
-heat: 56
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FdBrWiuiv3qZCaRm6pmHNje5oVElV0IBhEtIIeu91z/JtBcfcLZ+WDes942zWpLPGAFXsQkV1Dfakm/zbeYdtObplv1GZInX6J/9sKaF88B8eMCvyvvtQ+wx9HC4cyJpU/WMA9f+ybBAsYFPN4dDUBXjtpg4yyfW+8+Yby9rl3ddd6pbwtqKZD4qR2w2Dq4CQT7zc2/AKPrUKe219bYM0oCDqpEZZ59fwuiOCjYPi+5X2gGPJ8iicY3Yvm2nPS37p7Lr3cVC7F5yxv47eIxeH8yMOgBMRDu4t9q7mlexWAFouiPeeabNFzwwQa9eGpHTKokb0W5W05co6kr4tRkeRjiqkSoamjxDIaF6LEcdRXO5HMxm3Ewyba0PQgAMw60/XrxnepSNgWLVzz9M+dau7tPMupglWGxXtM0XTW+Q3Bs=;OuPC8K1tEn7FG2DI0HrAiA=="
+secured: "ISsUrR8xjwTCfLY27HZuHXqpwcZ7tE8QGVtW1LYh8uhOkTENHAsH3J/pV431956o21IX5Roe0CqBXkxZla8aNQN80cAM+W+ZdggEPsVnKMHVaEDlSUD8cjaEGeK6HL+3x9jyPf4KTk7iJoVorck/CLU1l+1eNtJPVuaxFEK5IRmvxg+6mwttad2VgX2TkCl2+PzPrbzFAMWSvxP/vdNBCSFhrld8S8aS6D/et9V2jkyA+nSlJRXBP1cX74nuAA1hsfzKr0PCosIMX4tOXcChOf51EIU7Y7ibzPNdhjmLfZVwYae06eRsDctjYW7PIaiaHXvjF6wWdkNYu+2u/X6IRLwgFpljB6bJLjl4F3FIHb66u5kBZ0pGUfhTXyOpyRBfxqhsIujhDb5yJ8IWa6vyzcgslkbvKDdfIPDOymxjINU=;hhtnicidsbRkkE1bHv4lOA=="
 ---
 

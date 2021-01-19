@@ -8,7 +8,7 @@ length: PT22M
 ratings:
   count: 975
   average: 4.711795
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Security
   - DevOps
 
-secured: "emhaDfD5jxax+9Ki/Iz+OYTKSXLfh34e1j9Il4XqHnGKWP5rRfUYPEzbfbC+CKbInvFrEvpoXZp1xi2Z31fNP9HGpmgTWC3vqjC1EkEw40hFRAfArgb3GYOv88lcDZHq7ym1D+P4lFxkWanM6/OG9cwbTBiteGc1H1eqgcOc4fiLpb5G/2y+D/LvQRT+v8BRgP422+EN0Uou950b9MVWGAW7dPKx2HmQNqIz3kFdfeBNgCl3rUVA72wW6ih4ramWc0qlJkOlFOYp1XGdVHMhyU9qcAhYMnDWM2tUVAS7BaFz+il0T6B6iUcdPj5XmkKHDAKkrO5TqBNHZCYnaqDYxDjy0t6ZJRQGMXmohf8ZMPtQV5Ba4dNALAQeg5u8SfNcD/5iUpedfyA1Ezzgp26wodV/tEENAUkoY8V3+NUoClU=;ZJKk0tpnnPBuyE7N4mNH8Q=="
+secured: "KQUSjTzA484h+w9ks7NhXzRudDH9reIyRkHzje0+5113WT4ORKvszzpSP1wod8KhxlmqMFm8//TJM1qWbVTwDfhesrx+mZmnVtvo2zQfMFz8ov1V3PCKgswalxLntcZVE9NIYfkimz3lj9nHMrEemEP2jp5gcg7VZqM4prp4Bby5ydopjo7BSsr10A/5KD3B0i9tj9MB2t5r3hmIW8wyNeO3ScTo8tqFCea4AC4LfZhs868c6X8zBWKD5yFEW0aKUdQFZrmLUrzHXmOgtOsSpKQ+G4SQBpFD4c6g7azdJIHadN/WAXKDTsafHpLoCwa945EUdWNDX4gM2XQYl33SvZRFU26yZPRNdJyeyBOiT2GNJGuW2LI55dx3qnqmQ1Aykrv5DRiRv22psDNsKP/tMxMfLlxPVyWUcPuPm945Fe0=;pAgUCw7qPFUf09FXwAjk6w=="
 ---
 

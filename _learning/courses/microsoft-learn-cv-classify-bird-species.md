@@ -8,7 +8,7 @@ length: PT32M
 ratings:
   count: 100
   average: 4.48
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "os/tMtYEf20QbXWHUeEy4ldgrzcexIgvyrDcMmY91EwnbjApys/ykViy8XWOhI5hKv8b2EtOUSKDnTu0fi6pJSJAytoSEn5Qgy8HF4KmeJFej9URNlEWBqWpCnjm8sbLXw155riUjGO6uXpPYhYwON1AB3ms0IyoyTDBJddeBrEm1abw81AbsNnqrfr3UqTP2aUsFrwCbCD8MDlCLE7HrvBkv8QkDCLh98dKEIo7G9vWoasvaQwqFZgEFjnKVc8R9WFUmJeBjblTzW8nhHaklwSapJqNO29bZjcO8e/hVFTIO7SUY0X4Km7jAaOe67FABt81F0M+JuMSTfXBDpgr/K3LGIaUcGv6sfMRT1AvnfDXz7OKd710uaZoQdaNtAuxleOTFfeNDAo/1vIk6HNCt0fkV8Y9eHrWl1zNGRVjr8Q=;y9bCrlie3QLKntrzhNQuCA=="
+secured: "JphVyD7Gd7946y0oGUTEO6xRgl6Gouaif6HWQlAqa1ccsX7ZDyJEP3dTMmmmClaqvc+RMI+0bdZRzgC4f3k6uWj/YHUR2gKotszjuXTfmea4gCHmRFv+kjcQGsnHophYDlwjCz9wyiqgQwF/Sp3tK9Rp3fu+nM1K425070gw4epQa46luErrLE/Iy3CN/ontumAtTNfhvU0eBgS4Pooa/lEAgQNJyocxmLeu9K87nT08s4CHcU8bYp2NmXm+LvEh02XEmRBP86GWPAo2OkuYAkf335ifebi4VqBLHyinfbtV0amg6ESd5NCXBWcccuwQBubL2DtLUPQWhDxe6AGdzK6t4PFoDDxDxpXi0mE2xmflvxvOsM4LsEyrZxlUfaxOd31VroTjF+L6CZ7bJgcU7o4f5lbZm8Q2/C/5SvckySs=;b5vPOzw14Choyzz8tr1rSw=="
 ---
 
