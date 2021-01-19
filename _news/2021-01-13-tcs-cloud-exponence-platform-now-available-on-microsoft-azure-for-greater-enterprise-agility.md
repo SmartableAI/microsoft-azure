@@ -113,11 +113,11 @@ related:
         height: 439
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -173,20 +173,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
-    publishedDateTime: 2021-01-12T06:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft (MSFT) to Extend Azure Cloud to Verily's Terra Platform"
     excerpt: "Microsoft will extend its Azure cloud services, data and AI solutions like Azure Machine Learning, Azure Synapse Analytics, and Azure Cognitive Services to the Terra platform to make it simpler for data scientists,"
@@ -529,6 +515,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 17
+  - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace."
+    publishedDateTime: 2021-01-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210111005203/en/Teradata-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
   - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
     excerpt: "Content provided by APO Group. CNBC Africa provides content from APO Group as a service to its readers, but does not edit the articles it publishes. CNBC Africa is not responsible for the content ..."

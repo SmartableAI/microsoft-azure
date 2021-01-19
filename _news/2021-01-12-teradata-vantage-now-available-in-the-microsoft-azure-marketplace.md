@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-excerpt: "Teradata (NYSE: TDC), the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure:"
-publishedDateTime: 2021-01-12T06:10:00Z
-originalUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
-webUrl: "https://www.marketwatch.com/press-release/teradata-vantage-now-available-in-the-microsoft-azure-marketplace-2021-01-11"
+excerpt: "Teradata today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace."
+publishedDateTime: 2021-01-11T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210111005203/en/Teradata-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210111005203/en/Teradata-Vantage-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -123,11 +113,11 @@ related:
         height: 439
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
-    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
+    excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lake technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
-    webUrl: "https://www.techrepublic.com/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    webUrl: "https://www.techrepublic.com/index.php/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/these-microsoft-azure-tools-can-help-you-unlock-the-secrets-lurking-in-your-business-data/"
     type: article
     provider:
       name: TechRepublic
@@ -554,6 +544,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "dQJquwEah2D6WELK0dPUhCVzXhyJO/pV4NQSyR8fmp3pGZFKUIq4eVIXNLClygivKq0+X2noZcN0qKSZPICQY/UtmEM9iH71Jjzj8aFUyRGy8i6s0oKghQX5Nu80y1sZPQyWetDHfOkkc+RrX0OE7XC8o6PJU9BqbriBobuvKMFPPmJc5ruV3oIPgU735dapkbbmzYpZskZDcbMaouyr/69I5OFwmNOC48xgPvlF44yTQ7RgYt9vyW/zwwKZnXwP8tb7hkqVGk8fnD3n08pkVsncv1HpySTy6Vgdj24wgl/8QGoUNmd3SNPB6diuVdQ2Oqqbewx3g/tE3efeOC4RMz+be5hS11UF+YheZX4plTQ=;kpG6JsMKlWlqAVhnlX+hcg=="
+secured: "RLbteTxTMXwd9d4HxHOFkzXz6tf4yWHaSh6ELsnoLXm1TjEJRwZpxvqjf3jJrmXziw2OzQxkjI2EIShEmXPIdVvNuxeq7uYFgTItHPPksvRfEAYoHoTLXgW/PxS1F8ZjWXuey5dx059x6JwaSONRXZTWl9hvWz1Vpi7X5XJP7cFoCy2bsquBaLh9SrtfvquMZiWeB23MrpCGzcwpckp8ejEElZWpVMG7lsAloNJUeFvscdyH3cMBCPgLRK0v+PamBTzcfRTZKWfWfSPl98y/WYDO4/F2vQO+Wk9DGUIM+H/LBFX5BlFjj4UaIUcy5QQdZqmyqvnFCHdseMYf04kc1x31VSHVtMGhGLZ6Hbc5nXQ=;u/MhGYQN4/R+OkP3cjpI2Q=="
 ---
 
