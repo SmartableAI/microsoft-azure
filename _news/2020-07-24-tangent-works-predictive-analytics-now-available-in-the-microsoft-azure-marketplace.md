@@ -51,6 +51,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
+    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
+    publishedDateTime: 2021-01-19T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "wJp7qiJeX39yT22aFXkVmglKYqsDxSZmQqVND02Z4Qarmo0Qnx+s8LB0xLyhsVV1TRnE7l5SHVpbrh9EsJWLs492YpCRonnYrXXOmG4v4fUywVPFzsf7AFRpgzUyAZ/VPhzWAUKM25Vlgg47wz45FU8FDzJhK5CI2OCDqfTdriAivwA+LJsiZSKtWoeheRBjVotD3saLoB3amNskf+zhf6UOGU2PffayQMSxAVToKLq91Pl6LZB6T2iKDr2t83pYMG73lrIdFYg81aO6kPuytYRh0kOxDL5ZoX/YHcOebpc3UWw3VoGoTtYj/H05KjzXZi1H2RKJVfA4eq/a50XKE/Moq2kZMiKsTgeUKYStsnH/DUARBTxvmE0oOiu2hr+DM1owB7IRAsG114ZzEJ4w64G78tRWlBRcdcIgHQnofX5+042AieBw0PcOUpAOGCy9sXURcwQxd7qaWOnABWGEMhS+Im7DYSYaT2NcnvoSQLchVQbQT3xsWnM0vuuVTKwWGCAB0TfTgfK+auW/A9pcbQ==;UBeGTMMkwEZ1FccYe6OT8g=="
 ---
