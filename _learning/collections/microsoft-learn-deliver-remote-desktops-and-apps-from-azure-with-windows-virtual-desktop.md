@@ -22,6 +22,8 @@ items:
   - courses/microsoft-learn-prepare-for-wvd
   - courses/microsoft-learn-deploy-wvd
   - courses/microsoft-learn-optimize-wvd
+  - courses/microsoft-learn-wvd-security
+  - courses/microsoft-learn-wvd-msix-app-attach
 
 topics:
   - Azure
