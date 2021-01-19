@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
-publishedDateTime: 2021-01-19T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
-webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
+title: "Octopai to Support Microsoft Azure Data Factory with its BI Platform"
+excerpt: "Octopai, provider of automated data lineage and discovery solutions, announced its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence."
+publishedDateTime: 2021-01-19T19:13:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Octopai-to-Support-Microsoft-Azure-Data-Factory-with-its-BI-Platform-144806.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/Octopai-to-Support-Microsoft-Azure-Data-Factory-with-its-BI-Platform-144806.aspx"
 type: article
-quality: 20
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: dbta.com
+  domain: dbta.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -46,21 +46,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "Octopai to Support Microsoft Azure Data Factory with its BI Platform"
-    excerpt: "Octopai, provider of automated data lineage and discovery solutions, announced its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence."
-    publishedDateTime: 2021-01-19T19:13:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Octopai-to-Support-Microsoft-Azure-Data-Factory-with-its-BI-Platform-144806.aspx"
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
+    publishedDateTime: 2021-01-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "lMPx7uFyP4UaonnDruECM6zDsDqkf1jfDk9P4NZfRk7uzYSdNU131+s1MVhE5ms07s2u2cKF35ngRNjWiozTxBiZf2IXrevUQl2YVamIiYNJAR6Dqt+qjZslFBkGnHLjXLhELzdIaU4hk36jJX+hiHknQzCcY9XrmsYvHRB5C7m/kjXWkRRVvTEk7Py+MOwjcXPgbHoWkDn589npmqArrGOi3utwjze4JzSqdCl/poiJjfwayUnmQ0Fc/d6lvYzcQuV2OuuRoYVis5bNnYnz/3fZobEo9GkDpkbCAVJdAUNauYfDUfk6fK1P8w0piVA4zaE9vQ1tY7Y72FLChCuESkKACo2bLr8wGNlm2oaeHiU=;AD3aNNGKlKz3iWVHr5byPg=="
+secured: "xpbHQAcadp4tNTntr78IeKI3kNlVkxrlAijPO1qXht77gV/rfj9R72au4skO4HU6VQ19VJP5mGQyRg6IeVCBk8eoUqScWnPLtdqH11Mq2gCTszwPRmcJwx/ocPPGxJMgK66SEWNtPkrJkKJ3gcHMtZ04bbsDdzKc+ONgkyAgXEVZSSgOMJIhwJqRkoq4FiKovTN4wcrIw2c8Bk1CMygNeShUI5zTdq0rLvSaqmuRFOQ4jTLXAGbo0srr8+DApkpJzHFIK0SvSZHw07nqE1JXlT3KgteAseBpSKnucNgBIKgr1cS+m632TOodZ2AhZiwfP2Mc9ZHh5gGTF8AsxRJfzbwK27rjVo7SBqXPsC3tclQ=;HbBL4EiJ0RagoEMP+fVdbg=="
 ---
 

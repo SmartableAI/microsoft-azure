@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "Octopai to Support Microsoft Azure Data Factory with its BI Platform"
+    excerpt: "Octopai, provider of automated data lineage and discovery solutions, announced its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence."
+    publishedDateTime: 2021-01-19T19:13:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Octopai-to-Support-Microsoft-Azure-Data-Factory-with-its-BI-Platform-144806.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
     excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
     publishedDateTime: 2021-01-19T13:00:00Z
