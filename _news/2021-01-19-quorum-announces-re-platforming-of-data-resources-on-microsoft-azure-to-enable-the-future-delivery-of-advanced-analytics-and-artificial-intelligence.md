@@ -1,36 +1,31 @@
 ---
 category: news
-title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-publishedDateTime: 2021-01-13T11:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
+title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+publishedDateTime: 2021-01-19T15:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 72
+heat: 172
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - AI
+  - Analytics
 
 related:
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-    publishedDateTime: 2021-01-19T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -59,6 +54,17 @@ related:
         width: 1000
         height: 733
         isCached: true
+  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
+    publishedDateTime: 2021-01-13T11:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:03:00Z
@@ -83,6 +89,6 @@ related:
       domain: arnnet.com.au
     quality: 0
 
-secured: "MSB8/xykG0+9HpxtMfnDwkbXKL5zH2zry2OImZCWUJdKrc+0uBWrse87DYj9Wfj38Bx3poZ0d6kOwSHO6NQzwKHPXfzuaJdfKjVyjxrZj6awvqgV7zlliJfr2Dp52l2Qt8n9dYFAswqA+DhrUfXgEzUI/NCtRV9btTkXDgdoLA/eH8C7CEyR/QOsLOo6JLQ6UrOL72XbyELf35AOD2t19wlMm56ItF4LAlkmKfIZ6XLMpOVISuT4FS7eW6YQQwVJQraC/eUKersfSLbUcUIToCHnxKZ/7AC4pUxulmgKLNYx7Sco6Z8Du21t/RSk1tx3fbXFq4kUCM8J1/7psExVj0ItXV6j/5Grf4n95WgIIIA=;XU+vBrbrwtasKUsvDQWWVg=="
+secured: "baGaPqdaFtityUHteSDZD1jAmmWAqvASjNdzGMr8fjHT+7ukistSEjuMUu+1kHbD2WqCJjQNgbLu9A87T9AbC16IJuhsEIR7kGBhrRpWThXsepvqEZ1NQ4Y9XDdDfn4xXV2uefDKlShhhdCfIzxBjNAErdIVfZ72dP+3lUB/l/lCDOcBQgp48bpz1LWlAQTyXWY7reehLHxPSoB91gPj9O4UB7+OhP+jKQ02gsq2tQ0tg3fDIji2fWC45HH3jwX7RaYpj3pjUpKXjXUWxrDZEBWID2tF59Tvr+m4KR4MEmgLvtSHzeqKBQYN7am8++e5WtFLISofeAQbj3OaZXoenbTqVSWphIGf/X6ue05d71I=;HpvSCcBLrRFZ5jHNdJdJLQ=="
 ---
 

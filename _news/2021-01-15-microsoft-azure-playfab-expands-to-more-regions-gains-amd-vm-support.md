@@ -24,21 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure 'PlayFab' multiplayer servers expand to more regions, AMD support in tow"
-    excerpt: "Microsoft's Azure PlayFab powers various games — from No Man's Sky to Rainbow Six Siege — and it's getting a big upgrade today."
-    publishedDateTime: 2021-01-14T18:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-playfab-multiplayer-servers-expand-more-regions-amd-support-tow"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-playfab-multiplayer-servers-expand-more-regions-amd-support-tow?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-playfab-multiplayer-servers-expand-more-regions-amd-support-tow?amp"
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+    publishedDateTime: 2021-01-19T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 48
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
+    publishedDateTime: 2021-01-13T02:02:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 42
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/xcloud-server-blades.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
+        width: 752
+        height: 408
         isCached: true
   - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
@@ -51,6 +60,29 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
+    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
+    publishedDateTime: 2021-01-19T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "Owv0NBL34fZ2zlPOLGlailNvT1rJ4wIamVvb4LCoiIqWLuumPUjR4XRnnGbhNv3CmAaEHrvqHVjvfpiBPhFFNOwL62qg0nOwqrX9Nhy2UUyMbTd35F3qqBAUhpjSeK3KbfnZq+BCyGh82/E051o+M38cuKH+iVHsqg/fC6MvG9eUdZYU6tS+SLvW/J6hsbDNa7GnmgmiLQ3zzrh5OD5cBiU5jlbfE8Z+V4Gi8CO152ARtHejkRcY3QmY7hJ4o0mA8jC47UNGO0A4moQxJhT7kvkm7QNaUUFiJX+0sslfC0vnxFV5u2FOapd7+kYwr9vTy1fVyinCXAG2XG1OO7bNwDaHFpKfB1wXf2k3mez6//E=;JEpiRYmujV/eFWHY+9d3aQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "BENGALURU, India, LONDON and ATLANTA, Jan. 18, 2021 /PRNewswire/ -- Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is ..."
-publishedDateTime: 2021-01-18T14:45:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
+excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
+publishedDateTime: 2021-01-18T03:38:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+    width: 842
+    height: 441
     isCached: true
 
 related:
@@ -104,11 +104,11 @@ related:
         height: 562
         isCached: true
   - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-    excerpt: "The COVID-19 pandemic has accelerated spending on digital transformation and cloud and Microsoft and AWS are the big winners."
-    publishedDateTime: 2021-01-12T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    excerpt: "Read More The COVID-19 pandemic has accelerated spending on cloud computing, automation, artificial intelligence and machine learning and Microsoft and Amazon Web Services appear to be big winners ..."
+    publishedDateTime: 2021-01-12T14:22:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
     type: article
     provider:
       name: ZDNet
@@ -546,6 +546,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "BY9/VnddYpzL8mL/YPajyw0YwX7BZ63Bz5jBtjHdjhMK85P3bYBGE39xkQetlffEeohPmfqeHy2I85UWYB6MGdE1daPvuHlH6ln9/wBhjlz5iHggbLsv0n/ut7PlkR3YtbdW0KSpqGWUHxkYsrR/mqGlFu9A4MljsBS5HlZDkBanCu8m9PTKKoMWL6zXWAsxehHbF3n5UHgGy9W/FX02iYWSR2pKlPkajIWSAbM0MqMZFc36NJHlkuv6wYV+ytukJbErbn0nynzMmHfRt9vnmg1ICs2V0lyiW4Ujf/IDghDGYQ2sy4ojsfJUsvxZl91E3BN5sX/PovxBF4svIp91K5GqbAE9YFuORZWct20r37A=;YALvj4czfyQN1rAObrG7BA=="
+secured: "vIhbapv8gcRkD7n9YYNHtPKwBBY/MkSZvCmv/8hentqri3i0lmqATIV7+j/nzPLxW4D8Qa/FEidpjLDpW5uqztIQnwJ6BUw1S9FoH7von3MHZpmEjGPbhMKkJP4aRbAtGYrQv1eRRPckeA1jmwmR6jgZ6KuGqOBZgI4Wdocm7xhxD+KUrvtUO/+BG3e/2Bv80ClycHK9hu6fTYbTI/UG9H53gcEZtBRCpP3hoeRLOISd4+UOg8wuUiFZvIRw0xw/4g9WyuBijFEcdj4NRaJfSeMVvuRNgJn9aUT8BMDXU5bPJ1KKUxXQtYlBaWtOhL4y/PPtWraK/UddriV67fWFjjKK0rOkflfRge8OtXTMzkQ=;Rl1Nqw3suyZq1+jxtIlkRw=="
 ---
 

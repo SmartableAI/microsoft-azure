@@ -35,6 +35,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
+    publishedDateTime: 2021-01-19T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
 
 secured: "lMPx7uFyP4UaonnDruECM6zDsDqkf1jfDk9P4NZfRk7uzYSdNU131+s1MVhE5ms07s2u2cKF35ngRNjWiozTxBiZf2IXrevUQl2YVamIiYNJAR6Dqt+qjZslFBkGnHLjXLhELzdIaU4hk36jJX+hiHknQzCcY9XrmsYvHRB5C7m/kjXWkRRVvTEk7Py+MOwjcXPgbHoWkDn589npmqArrGOi3utwjze4JzSqdCl/poiJjfwayUnmQ0Fc/d6lvYzcQuV2OuuRoYVis5bNnYnz/3fZobEo9GkDpkbCAVJdAUNauYfDUfk6fK1P8w0piVA4zaE9vQ1tY7Y72FLChCuESkKACo2bLr8wGNlm2oaeHiU=;AD3aNNGKlKz3iWVHr5byPg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/falanx-group-limited---
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - Azure
 
 related:
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
+    publishedDateTime: 2021-01-19T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
     excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
     publishedDateTime: 2021-01-19T13:00:00Z

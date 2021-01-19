@@ -23,43 +23,20 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
-    publishedDateTime: 2021-01-13T02:02:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+  - title: "Azure Monitor Log Analytics Quick Start content is moving to the Overview page"
+    excerpt: "In order to simplify and streamline Azure Monitor Logs, we're moving all links and content from the Quick Start page to the Overview page. The Quick Start page will be removed in August 2020."
+    publishedDateTime: 2020-07-30T16:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-quick-start-content-is-moving-to-the-overview-page/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
+      name: Microsoft
+      domain: microsoft.com
+    quality: 33
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
-        width: 752
-        height: 408
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b8e6e1fd-2a10-4f2e-9340-17ed9a7c5556.png"
+        width: 791
+        height: 371
         isCached: true
-  - title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SymphonyCare, a leading provider of clinical and claims data solutions, today announced the availability of WellStack™, a modern healthcare data ecosystem and big data analytics platform, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-01-13T06:54:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-madison-north-america-66101c37c02f4c9ea387b3dd069dc293"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
-    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
-    publishedDateTime: 2021-01-19T10:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "wJp7qiJeX39yT22aFXkVmglKYqsDxSZmQqVND02Z4Qarmo0Qnx+s8LB0xLyhsVV1TRnE7l5SHVpbrh9EsJWLs492YpCRonnYrXXOmG4v4fUywVPFzsf7AFRpgzUyAZ/VPhzWAUKM25Vlgg47wz45FU8FDzJhK5CI2OCDqfTdriAivwA+LJsiZSKtWoeheRBjVotD3saLoB3amNskf+zhf6UOGU2PffayQMSxAVToKLq91Pl6LZB6T2iKDr2t83pYMG73lrIdFYg81aO6kPuytYRh0kOxDL5ZoX/YHcOebpc3UWw3VoGoTtYj/H05KjzXZi1H2RKJVfA4eq/a50XKE/Moq2kZMiKsTgeUKYStsnH/DUARBTxvmE0oOiu2hr+DM1owB7IRAsG114ZzEJ4w64G78tRWlBRcdcIgHQnofX5+042AieBw0PcOUpAOGCy9sXURcwQxd7qaWOnABWGEMhS+Im7DYSYaT2NcnvoSQLchVQbQT3xsWnM0vuuVTKwWGCAB0TfTgfK+auW/A9pcbQ==;UBeGTMMkwEZ1FccYe6OT8g=="
 ---
