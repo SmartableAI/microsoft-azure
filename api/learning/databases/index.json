@@ -4,51 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
-      "title": "Introduction to securing data at rest on Azure",
-      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 227,
-        "average": 4.6651983
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -79,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 18721,
-            "average": 4.7821164
+            "count": 18763,
+            "average": 4.7819643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4009,
-            "average": 4.7034173
+            "count": 4016,
+            "average": 4.7021914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3461,
-            "average": 4.75065
+            "count": 3465,
+            "average": 4.7506495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2718,
-            "average": 4.7450333
+            "count": 2723,
+            "average": 4.745134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -281,8 +236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 4009,
-        "average": 4.7034173
+        "count": 4016,
+        "average": 4.7021914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -387,8 +342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11502,
-            "average": 4.580073
+            "count": 11506,
+            "average": 4.579871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 3927,
-            "average": 4.708429
+            "count": 3929,
+            "average": 4.7080684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -624,8 +579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6821,
-            "average": 4.6592875
+            "count": 6822,
+            "average": 4.6593375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -702,8 +657,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8436,
-            "average": 4.648767
+            "count": 8437,
+            "average": 4.64869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,8 +745,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4009,
-            "average": 4.7034173
+            "count": 4016,
+            "average": 4.7021914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -872,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3662,
-            "average": 4.5860186
+            "count": 3663,
+            "average": 4.585859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1129,7 +1084,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 135,
+          "heat": 55,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1193,8 +1148,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 715,
-            "average": 4.73007
+            "count": 716,
+            "average": 4.730447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1407,8 +1362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1247,
-            "average": 4.7393746
+            "count": 1248,
+            "average": 4.738782
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1449,8 +1404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1211,
-            "average": 4.71346
+            "count": 1212,
+            "average": 4.7136965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1635,8 +1590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 4060,
-            "average": 4.65
+            "count": 4061,
+            "average": 4.64984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1714,8 +1669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2745,
-            "average": 4.6459017
+            "count": 2746,
+            "average": 4.6456666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1907,8 +1862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2029,
-            "average": 4.6382456
+            "count": 2030,
+            "average": 4.6384234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1951,8 +1906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3662,
-            "average": 4.5860186
+            "count": 3663,
+            "average": 4.585859
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2038,8 +1993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2945,
-            "average": 4.663837
+            "count": 2949,
+            "average": 4.664293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2237,8 +2192,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12048,
-        "average": 4.673473
+        "count": 12050,
+        "average": 4.673278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2337,8 +2292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9119,
-            "average": 4.6973352
+            "count": 9122,
+            "average": 4.697325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2771,8 +2726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 2945,
-            "average": 4.663837
+            "count": 2949,
+            "average": 4.664293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3458,8 +3413,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 715,
-        "average": 4.73007
+        "count": 716,
+        "average": 4.730447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3586,8 +3541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2745,
-        "average": 4.6459017
+        "count": 2746,
+        "average": 4.6456666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3758,8 +3713,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 2029,
-        "average": 4.6382456
+        "count": 2030,
+        "average": 4.6384234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3791,6 +3746,49 @@
       "topics": [
         "Azure",
         "Compute",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure.md",
+      "title": "Explore provisioning and deploying relational database offerings in Azure",
+      "excerpt": "Explore provisioning and deploying relational database offerings in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 513,
+        "average": 4.8245616
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-relational-database-offerings-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Databases"
       ]
     }
