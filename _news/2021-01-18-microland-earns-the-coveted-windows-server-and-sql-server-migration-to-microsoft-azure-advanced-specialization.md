@@ -2,26 +2,28 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+publishedDateTime: 2021-01-18T03:04:00Z
+originalUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced"
+webUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced"
+ampWebUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced?amp"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_805.jpg?itok=yFFv4Dec"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -402,6 +404,20 @@ related:
         width: 1388
         height: 927
         isCached: true
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"
+    publishedDateTime: 2021-01-19T05:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
     publishedDateTime: 2021-01-04T15:04:00Z
@@ -546,6 +562,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "vIhbapv8gcRkD7n9YYNHtPKwBBY/MkSZvCmv/8hentqri3i0lmqATIV7+j/nzPLxW4D8Qa/FEidpjLDpW5uqztIQnwJ6BUw1S9FoH7von3MHZpmEjGPbhMKkJP4aRbAtGYrQv1eRRPckeA1jmwmR6jgZ6KuGqOBZgI4Wdocm7xhxD+KUrvtUO/+BG3e/2Bv80ClycHK9hu6fTYbTI/UG9H53gcEZtBRCpP3hoeRLOISd4+UOg8wuUiFZvIRw0xw/4g9WyuBijFEcdj4NRaJfSeMVvuRNgJn9aUT8BMDXU5bPJ1KKUxXQtYlBaWtOhL4y/PPtWraK/UddriV67fWFjjKK0rOkflfRge8OtXTMzkQ=;Rl1Nqw3suyZq1+jxtIlkRw=="
+secured: "Woegx9/8/UvPU3MX+fWGw+Lix2eDtpQQz78Adtlv23bkbXsugTJ3NwbbekZBo3hbSiktW7cw07eXBRCVD9oMDohv86ldYkzwtQNNju8Cg88oi6W7sE8+TT2iERTzFw/jn5H0pfZTkoiyCxl2S84xpNWh/8lMHWF0wCEXrFVZ/RelPVxH27k1JVRH3u/+Qauqs1fZtN/n6WtQaJe998GTs8CJqG2a9EGqCV4TIziEANaPlESyRl2Y+HLa2I/u0Sj/7IcHih+NViW1Ya5w1IMca0YAn2B9pLjn0Nsv49WlAYrkETaskihzbcgxT67SWa/3TGg74oRxhmJfnhLYGgxI8H2rENGVr5VeclAnFHHEpCI=;k8L+NRDtGhNp3kW1hrFMoQ=="
 ---
 

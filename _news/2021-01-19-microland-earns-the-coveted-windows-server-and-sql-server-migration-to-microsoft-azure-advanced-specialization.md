@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
-excerpt: "Read More The COVID-19 pandemic has accelerated spending on cloud computing, automation, artificial intelligence and machine learning and Microsoft and Amazon Web Services appear to be big winners ..."
-publishedDateTime: 2021-01-12T14:22:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"
+publishedDateTime: 2021-01-19T05:53:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
 type: article
-quality: 97
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
-    width: 893
-    height: 439
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -107,6 +102,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570816608/itpro/2018/09/microsoft_azure.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "Amid cloud spending boom, Microsoft Azure, AWS gain IT spend"
+    excerpt: "Read More The COVID-19 pandemic has accelerated spending on cloud computing, automation, artificial intelligence and machine learning and Microsoft and Amazon Web Services appear to be big winners ..."
+    publishedDateTime: 2021-01-12T14:22:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/amid-cloud-spending-boom-microsoft-azure-aws-gain-it-spend/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
+        width: 893
+        height: 439
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
@@ -407,20 +418,6 @@ related:
         width: 1388
         height: 927
         isCached: true
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"
-    publishedDateTime: 2021-01-19T05:53:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
     publishedDateTime: 2021-01-04T15:04:00Z
@@ -565,6 +562,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ufYre4YSbsfDXca5J99Q68WbRdlC3zw27f2QHghfv/uUMItXEpjSFWL3nAuOIYeVMOjWvIWfPsk5Rr6TRLOtpBhlY8lLpT4iqclUbE1yZu1KC2SFHDShNG8UviA00yvi40t303l1Np0IflaUn6sKFQYA2Z2ZBtJ+2Egn7/XOE2usUAhS169fYVeIkYNW2hq2kvMAgbKd8UyQC8ENsaDxDqVri1KuRcYhTUd5hD6oWnCX48FuzAlrpuF5AgZsSyTAKtI6/OfDiihq9iJgXcVtVHp7fne6qybDtRqsMZwnfq42m08BPq+mFM3HS1SsRd+1H9P6bGvCL30TPyE71zF+JMCcnD8Bg4J9nVkyKRSbJIM=;ncb4PqztkXI0JSr9cs1INA=="
+secured: "uKPwytXm4EqyXEw4XQEFKfR8DY3Jjmna84r7paBNfl/CJMT5pRuptWqhIGqv7O/iXRbvecBAwxyEJnIwQe+kgh6jAZw5bejzRN4JjocLE5bGGERU11AhX2vhbXSVbpRFQvGdsMgjfdEk4dFhhQ/W29v/At5C0TgXIK8eqyluFT8gpD9TTeZWcgJnx48/ze4mueqTqWp+OEm/H2/BxWp2a1tW1X1znf8eZui9bE70Vm+pqEDRrwPovXszj3LXUs4EYxDhd7YXxI1nk9dtGB1MIzhWsk7/VxsNobCySn/ZTxhVxqlU3p02W2HmL4MdiGg0YgaJMuJjaMYiYVrTP6Q2yBn2Xo8wJRYs7aP0Ix67hzo=;/xralZbI4ZLCZ+ZMHAyaNw=="
 ---
 
