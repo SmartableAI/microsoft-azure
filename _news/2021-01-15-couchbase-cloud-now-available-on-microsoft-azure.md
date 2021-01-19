@@ -3,8 +3,8 @@ category: news
 title: "Couchbase Cloud Now Available on Microsoft Azure"
 excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
 publishedDateTime: 2021-01-15T09:00:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
 type: article
 quality: 37
 heat: -1
@@ -532,13 +532,13 @@ related:
       domain: cnbcafrica.com
     quality: 12
   - title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-    excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
-    publishedDateTime: 2021-01-07T17:39:00Z
-    webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+    excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+    publishedDateTime: 2021-01-07T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 12
   - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
     excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
@@ -550,6 +550,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ghbpL9vOKAT3gZoJM5wAXIE0XZhKr93BXMlzeOcc3zkQZlOOEKW0dcYteOUb/PljG/wangG3Sp9eNmzYqslPozdHmlltLMMj//cnOgypi+vHN8t9+6v0fkRkvLn22oV3db/HYrxo3bAwmkYotDJgHSgNDU7s5RzDHt22zd9ZUOMbnKOOYjiRF3eW/06dWV05UamBTXJxDIiAevstM/tcstXVZY+JHy4b6L4kGZt6W82VzwZ8raf/dARw1LJMkCT0y4lhHkaSj+F/eFyfzzWVhLAq2V1kC5xKcFMJ95LNmlRZZTdmXo+pkgY88qUDbb3fvrbK3POV2C0J7u/ZfYB7eWCDqlsVgn8DKukrbrBiqKs=;gl57obq+H/Afg0TCjUABhA=="
+secured: "6DpWzklavB0LGjyiz42jJUN+B+Nqx3cvF/PJ9jxROczZkP7O1E7ItPrH2j/lQSM8Uz+upnwXu0WNR/xl2Z1xT89pLrt/yxcgBuxkcO5U4HBgH1Doi2uYjxuSPUrOOhgUBGU9DVSpAGRsAvS2hB9q1tFYjhWCLg1kdvtnv3qZqQhABa1B3CdheduDH2GdjFGbtMR10odFsf6fB8J40+XHwB5uzvFDe/WC94pPQsKR86aX03/28SAc5RKBVY0bA6k1xmR2n2i0zbxopZD/15ETiQVG3xM+zQgpHqM6tzxNIYO267+/7HkeJmAtnaBVJdaGnE2j/+uZLnQlRVlZYvCGJzVuVkhWUKSxxQqnZryMSpE=;j9ilNv8a/CWMPnon3PoSbA=="
 ---
 

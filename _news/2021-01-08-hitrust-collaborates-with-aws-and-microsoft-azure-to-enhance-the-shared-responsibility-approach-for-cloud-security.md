@@ -1,18 +1,18 @@
 ---
 category: news
 title: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
-excerpt: "Developed with Amazon Web Services (AWS) and Microsoft Azure, each new HITRUST Shared Responsibility Matrix aligns with the cloud service provider’s unique solution offering. Leading cloud ..."
-publishedDateTime: 2021-01-07T17:39:00Z
-originalUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
-webUrl: "https://www.oaoa.com/news/business/hitrust-collaborates-with-aws-and-microsoft-azure-to-enhance-the-shared-responsibility-approach-for-cloud/article_0a29caa2-8964-525b-9bd9-31583c6875ee.html"
+excerpt: "HITRUST Collaborates with AWS and Microsoft Azure to Enhance the Shared Responsibility Approach for Cloud Security"
+publishedDateTime: 2021-01-07T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
+webUrl: "https://www.businesswire.com/news/home/20210107005295/en/HITRUST-Collaborates-with-AWS-and-Microsoft-Azure-to-Enhance-the-Shared-Responsibility-Approach-for-Cloud-Security"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -385,7 +385,7 @@ related:
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-15T09:00:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-cloud-computing-information-technology-tommy-hilfiger-6011585c4012fd1720815d1883afb493"
     type: article
     provider:
       name: Associated Press
@@ -550,6 +550,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "L1Uj6TNMqsqEOhVRFtC/sEtSDKZ26E5NlgOisEDSs7o6Los2g41OtMrw1roTna3bd4nkwaTkiMDzy9x7sY4kJxQWGDqCfsi65h2Ga75nFe0eASZYIh771V1YgYVaDus+Y9V+K+L8Q+d37MleqVBgR5lMXc9sbM4EQN9C6Mk5BzU7s+8KdDdkuash3EIEPQwohypcN365XYH3wR8TuwWetofnerADUwBl29rO7kN38nyo0KSg8YM7URT5LF3k2ZAb5eJzfhmPN0AnKCPgzu+Z2YuUDV7dhky/YIMCJJDKAceqkrueWesBxuBRU2sLFJGfwfOIPLIaFBeDPT42BtnjkFAm5TsjRJaCg3lQ6fj8IH0=;vdoXBR6Kmkg70OIujtGYSQ=="
+secured: "RJC2MmghyMeEW8ZC5K8LEREzR/SLCJrLNrOR92bpAJFvwGR+7y2MhP8PhkJ1Ph7ABx4OYyMaZCoVMAhgAEViTULyd4T3IE/QJD3+keBRqLbwdd4OgtYc8BfLBuYL7K03mBDGO6a+UR6lgjYWTkZW8uwiLoFLJeF71xs4GIBOerOSUHWFFiC5ZxRQUvbxgHDV3zTzMgkOzauIekUje0H3+bzob49g2WIYbHCxbYPge07g48qW3CqqLLMN0cZG3RMoQlzkbtJQb9kldK3WobN0is46N3e61CET8WPUA1/AN6rlkDoypS/gYvjPF/9TyII2GxXTNm0CUf/kGsJUFtStxpIXSx7HlJbTHTovMtxvHas00Xrnkbz8SUESPOx8yVzcFWUSywWWR5tyeZ4V/IOuPA2/GWC2AmHNRGuWhlRWHwXUNhEqQ5BHKH8PedLnDHqHUOkI9tGaBxC6xDnhKSLk5lF3Dlplp+SbyRpykfiLXmkz88EqXqVcAVm6yScWHL9G6C8Uxy26/CEOK+QH7Qw9mQ==;eZ+ah85fUTwHotZLC792mw=="
 ---
 
