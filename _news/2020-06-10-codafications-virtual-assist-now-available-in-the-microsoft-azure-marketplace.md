@@ -169,17 +169,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
-    publishedDateTime: 2021-01-20T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Synopsys, TSMC and Microsoft Azure Deliver Highly Scalable Timing Signoff Flow in the Cloud"
     excerpt: "Considerable cost savings by optimal utilization of cloud computing resources for multi-scenario analysis Detailed whitepaper authored jointly now available on TSMC portal to jump start customers on running cloud-enabled signoff flow Synopsys,"
     publishedDateTime: 2020-06-15T15:37:00Z
@@ -475,6 +464,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
         width: 985
         height: 634
+        isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
+    publishedDateTime: 2021-01-20T13:11:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
