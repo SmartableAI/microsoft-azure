@@ -2,26 +2,28 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+publishedDateTime: 2021-01-18T03:04:00Z
+originalUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced"
+webUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced"
+ampWebUrl: "https://www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/microland-earns-coveted-windows-server-and-sql-server-migration-microsoft-azure-advanced?amp"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2021/pr-newswire_500_4_805.jpg?itok=yFFv4Dec"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -560,6 +562,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ZUOoOI8HVgjaa0j9B39zU91+UGfGZL884cJ9d/G8fzhtbwilDLO+bpvZi5guDFmJ8bcqvlMte+lVe9vBzXMPKtZxHoibw7akNGj7Z6MUK4tDKgM7MIEEeK7wBfbv1siCmsJcTkJqZXkxzD7rHiYJRBSsOL4KFJZ9zo8DXCrv954ll15gR+ez9UJZCMxg6xtA+Kb8dfvI2ItUoEXPlgaGKtsyIUlRBsW6CxZjunvEolhn8ksqRlPr2CkxJKFPu94SWVn+XygQyHBmZDhgnOo9YWlUPOg8naliNULXWkuWP7K8U3i3VMUUqEmVMVyglsfuNSuiC4A1MgDkoQ13+5UEWfyooJwt2aFTwaL7AjGES9E=;AaeTczyD12AfPfgTcT07SQ=="
+secured: "im5uHY0O7H17udYXEyCd4oRLgcMIVkln7uN/XEIKUDXO1tzs9wbXH0BbLyLPDUmLOS1kml7DkPehnW1bXbbak4HS1k8WQNHw/5WPQbkx9tCLjoPcyrBRmc5jUUYHL0pqXMvQSGbXz4gJ3phBmwvXeopRls968YuHHASPnlVh4z26Nzis4G64mBNe/h7a6R21BIPi+enpmSAtftaH7BZbsb8DpmbUqJaM6y/NOxgPvUO78lPkn7dy9lD+xmRdo3qir6nbXZOANgmSBHZgMN01JrB15D7q2c2E8GvK20RnF4qNUwzSZtbo3FAdpGOOWql/IPZ6QmxiIiiSYaNeLnG9H04Ni2EAsSXV3n7ICxoW3Q4=;FwLocLJIngO0cL0CBHQPwA=="
 ---
 
