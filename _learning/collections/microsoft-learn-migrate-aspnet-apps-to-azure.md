@@ -4,7 +4,7 @@ excerpt: "Migrate ASP.NET web applications and their data to Azure App Service a
 type: collection
 price: Free
 length: PT2H0M
-heat: 53
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -18,6 +18,9 @@ levels:
   - Beginner
 
 items:
+  - courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure
+  - courses/microsoft-learn-host-a-web-application-with-azure-web-apps
+  - courses/microsoft-learn-provision-azure-sql-db
   - courses/microsoft-learn-migrate-app-service-migration-assistant
   - courses/microsoft-learn-migrate-sql-server-relational-data
 
@@ -28,7 +31,7 @@ topics:
   - Web
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true
