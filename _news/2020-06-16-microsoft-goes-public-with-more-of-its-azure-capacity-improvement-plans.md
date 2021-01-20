@@ -158,6 +158,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+    publishedDateTime: 2021-01-20T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
     excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
     publishedDateTime: 2020-06-10T23:35:00Z

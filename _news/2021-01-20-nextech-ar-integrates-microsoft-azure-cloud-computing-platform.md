@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft's cloud chief breaks down new Azure products"
-excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
-publishedDateTime: 2020-12-03T16:55:00Z
-originalUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
-webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+publishedDateTime: 2021-01-20T12:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
+webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -160,17 +156,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
-    publishedDateTime: 2021-01-20T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+  - title: "Microsoft's cloud chief breaks down new Azure products"
+    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
+    publishedDateTime: 2020-12-03T16:55:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: CNBC
+      domain: cnbc.com
     quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
     excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
     publishedDateTime: 2020-06-10T23:35:00Z
@@ -728,6 +727,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "A80FdIKN0L78qm9rT9+AMchAyhVnoT+mw+Qnruym/QcNHT5aEtTsmQDql7iEF8Fjk1footz42Gp/ifT0TKYtt9CkIT8BkONyjEJ5REdJ+yngEBdXJn/I+JtMHtdS+RUIHTgnvjA5lwRTFhO8JfPs52Jxfwj6mJFRusISNGjZFI55R7SC1+Fgxp+oX883SPCEGjXk6r88BcHWhYlXG1jWcZtUirK2oRML8LUihFsjDz8vmqETSWph9DP8o26OEMjBAEY7T6Vvxv+4DYll0syCwmkFdbs/JtuNdVzChtG10T/w625Uh0wVhF7qtYa0AvSWA9SkGV3rbh3c32/yDlMMa0CCH3h/nzs0BEv1RJjvElo=;AOpqKEW61OKqpEqrOfmjWg=="
+secured: "qQRSKu1bWLsIr2x16TitTXV9XsLxp4VgXnnfEgXT7TkHrWa1LR27tWQO1jrEf04AM6hLgbU5GE/EsW747v48unezcJIYSYeU9GKr72htE4pqp1dh4N2CkrY+SxbANbCoGehTsaG15YR6u54TTlQyJUdebOqxny9oDSH0DSczaL+7cLGDuyPlTdHKcKFfr0mSHE4JsTR1GizgyKGfC8QhSxOwknE7P6IVY02pY2YB/nyZ34XFVjH9G5viDmgfd9yRFEv9kLigH19iHXHqkZxoOiwHRwam7z81VWC2w03MC27t0o5xQSwyL0CEVL8WsywVKG6biSVwJ9zhzL508BuRevCbK6whXeEUvcZAc0GsdLU=;QGlG3oPQbQy9Q4pEu527/g=="
 ---
 
