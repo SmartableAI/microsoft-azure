@@ -4,49 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere.md",
-      "title": "Develop secure IoT Solutions for Azure Sphere with IoT Central",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-secure-iot-solutions-for-azure-sphere/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 35,
-        "average": 4.6285715
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/develop-secure-iot-solutions-with-azure-sphere-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-differentiate-azure-management-tools.md",
       "title": "Differentiate Azure management tools",
       "excerpt": "In this module, we'll showcase Azure portal, Azure PowerShell, Azure CLI, and Azure Cloud Shell. We'll also look at Azure Advisor, which provides recommendations on high availability, security, performance, and cost.",
@@ -950,6 +907,41 @@
         "Azure",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-customer-service.md",
+      "title": "Discover how to foster an AI-ready culture in customer service",
+      "excerpt": "Learn the necessary cultural changes for enterprise customer service to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-customer-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-customer-service/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 550,
+        "average": 4.7709093
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     },
     {
