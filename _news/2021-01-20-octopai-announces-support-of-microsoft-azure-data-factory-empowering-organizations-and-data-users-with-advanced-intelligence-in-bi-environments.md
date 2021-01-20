@@ -1,18 +1,24 @@
 ---
 category: news
-title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
-excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
-publishedDateTime: 2021-01-19T10:10:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
-webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
+publishedDateTime: 2021-01-19T23:21:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
 type: article
-quality: 0
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -43,17 +49,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-    publishedDateTime: 2021-01-19T23:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
     excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
     publishedDateTime: 2021-01-15T14:10:00Z
@@ -93,7 +88,16 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
+    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
+    publishedDateTime: 2021-01-19T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
-secured: "PIBziKuIbgN6A02jn4bupuWSSgKrXH1a/wZ1NxhQDCs4l37a3okw8ZrTl/pP7jA/lDoAD4UxjqAL+xcXJUzsu0zdG9Jo47zB+2cNgg4J58ayJ1OmnDRbr9S9d2QoKOwMA1IQdIj9LwVWZkvsTr5D3v2y7WmHmNyMae8wNHWsBUKlMYVQIouNbM7ppKVuvW6gNDY70F4+ggT50kimYgsKzjyIjMUyZI1SnkRYmyG+06L1CRAadpcBjhyILlNuxZ3ExFwLH3pbqJWKFdfnz3cwFNMxayxtQsp4AQYZ2vmAIYVjcL+uXHB0uDXTBFfBu1te2WepuM0Sh2vgqfYyCYwXOtWp0VpJnliPwJsOMEd4rXA=;HNq/MnEwH7iI2i8rk6xUDw=="
+secured: "kKZe5/sJVupfDjoqahcEDQ/ZMaQlN1IDjKAVOoFNHKrqnFLOUaap+RDy1U5+eTAveBo/RQBaZJ9u+g9ZIr+dRVFZlxGb/97Um6lPW7MHY/2l8iUdk1vW+7iL3HhIg8ZxZmQIMSCJ3eC8arRcvA12D2rX9pBHtroB/BPQCPqRa22LRz/eUFM+JeZltfdUIPbVEtHCbHKP7yWIVY7eTEZl5TgqAJ9J1lTkat0CeslsI4tQ2VeTSBkj9CVRjreRD4plXQ2PDkTX90z/+6fzFebP02LeX63/0vyCwdWinUkcK7hKFhiNkRuAjNLqTHPBz1fCtX5of8gOfASt+yFuZuCdf+agcudrHT//TZ7XR/v6nzQ=;5EUn9yhb/GgbAH4VzBBAJQ=="
 ---
 
