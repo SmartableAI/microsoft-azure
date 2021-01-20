@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-17T23:02:45Z
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Public preview: Ephemeral OS disk support in AKS"
-    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
-    publishedDateTime: 2020-08-17T23:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Public Preview: Cognitive Services Form Recognizer v2.1"
     excerpt: "Form Recognizer v2.1-preview.1 has been released. It includes support for new languages, checkbox/selection marks, and the submit multiple form types to a single model Id."
     publishedDateTime: 2020-08-21T17:00:18Z
