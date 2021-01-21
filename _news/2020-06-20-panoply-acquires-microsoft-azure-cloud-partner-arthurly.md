@@ -470,20 +470,6 @@ related:
         width: 985
         height: 634
         isCached: true
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-    excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-    publishedDateTime: 2021-01-20T13:11:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -663,6 +649,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+    publishedDateTime: 2021-01-20T12:41:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 17
   - title: "Microsoft Azure will become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "announced a five-year relationship centered on Microsoft’s Azure and analytical tools that will support new discoveries as part of JHM’s inHealth precision medicine initiative. The work will bring together JHM’s leading global research expertise with ..."
