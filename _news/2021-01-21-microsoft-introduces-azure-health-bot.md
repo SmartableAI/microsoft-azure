@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft launches Azure Digital Twins in general availability"
-excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
-publishedDateTime: 2020-12-08T14:25:00Z
-originalUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
-webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
-ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+title: "Microsoft Introduces Azure Health Bot"
+excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
+publishedDateTime: 2021-01-21T08:15:00Z
+originalUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
+webUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
+  - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -173,6 +167,22 @@ related:
       - url: "https://images.wsj.net/im-237735/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft launches Azure Digital Twins in general availability"
+    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
+    publishedDateTime: 2020-12-08T14:25:00Z
+    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
@@ -1205,20 +1215,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft Introduces Azure Health Bot"
-    excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
-    publishedDateTime: 2021-01-21T08:15:00Z
-    webUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1721,6 +1717,6 @@ related:
         height: 450
         isCached: true
 
-secured: "DWNX/HRn90CxIPounZaFUWQI/i9bKm99nEx0M8PGwrYd5izZGHgHNIH2KyxnjqvzFZUwY2pzdhESiUIHW+RqzncLD48rjDI7ZGv1TjBSHqvTQoOwMvCv1td8oSKaioeWDR80QkgJI3fFXU7Cp9mtafqYQT/TA61W2l3l2lnPyWrLz7ZRVWb0n154CGLMlvhLtt8k9Tt/t57htmu07TPY6yDVwSiReB/6b9JGObwDkIKGo1xbPkWpcjisstwmMqQ20yniEy9VHngv7MGxBkr0X6q1Fo5MJsqItdDaX2SP77UVhiHqrEpqjpy+7M1rdmppONiFHKvxPsWh515wI5iyhFmgEdqBg9AvaoZIVY3vyW0sVkJuGolvmG6bP7iO6FdfF+/2P1BpdEJWqigmggHfLZ+00+A2n/Xco/PBXihGDNxSNUQjIBSC5/HTDlYX4Pt18q2CGGlNPXeJiFM32pkUmXWn4hRsWJ2LTqLjbzFo6cTaYSVXdxjC+nENZj0tZoLu870YcnMRtUbPI0nFZvmjPw==;lkjlx1TigvX3BJMNelyHZA=="
+secured: "Jgs9fJLqhw9C8D7VCCBW+XEnKljgPijM4hyui0QufnYk5J61y5Bx5m/rPpfXQxbnYTZ3lYGiD04+4xJANtg47Lo1bHorbfzZHypQVZjw4F3vGgpWh+tHHKq2cq5aK3Cn+Ad+7E0ZEvhJH/lDFIIlG6CkCG9eVdYfX0FYM6yt7Uzc+/mGECJsryufOCsKaZCJE9hyO4yZgLsy+bNDJo/qHfnoJAr1SkKM/3UnH/pFRdSpfWhhRYAqAGL42crlhA2mG/Y1Cc2G1xigbpVYbBDRcxx2nmooun5jvI4PJB4Co4+tdGwnNJkMTNN1hwEmdNz0nUlP3x5vzyKQ5gyqZkJbOG++usT293zfvjCfiKUHI4Y=;YQ01JiR/LOeFvVip4QDqUw=="
 ---
 

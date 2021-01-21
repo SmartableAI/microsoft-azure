@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2614
+heat: 2634
 published: true
 
 provider:
@@ -1205,6 +1205,20 @@ related:
       - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft Introduces Azure Health Bot"
+    excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
+    publishedDateTime: 2021-01-21T08:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."

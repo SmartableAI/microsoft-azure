@@ -1215,6 +1215,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Introduces Azure Health Bot"
+    excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
+    publishedDateTime: 2021-01-21T08:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
     excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
     publishedDateTime: 2020-10-04T14:09:00Z
