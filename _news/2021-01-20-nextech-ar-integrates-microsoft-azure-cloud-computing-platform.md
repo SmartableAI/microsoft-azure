@@ -3,8 +3,8 @@ category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
 excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
 publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
 type: article
 quality: 37
 heat: -1
@@ -727,6 +727,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "oBCs3ebMdN747Htz4b9i5SPHPK+KN19gsS4Qqgf4DDTS0DXY9Q1Q9cGJ6CEldx0GrsBLrTfcrzfs0hjggEPq/s/uOcdqtXt9K+JWG+etQsnQCyTSB1MlzenKbzWmpsKKcEEqaRgN1OxMcskaM5lg45zfkvofa1b8xgkcNDeQZijgvwqA8pa2mssut4AAsdvPhawkaSxTzEkhygZtVti7J5S8JT73bW+rqwfFuJtSIoUwU3uD64XlHrppGQR29NwrBsJFCMjv6YdUWRwlU+6Q4cx314QvFKa5argana3pVTDu/A2kb2n7P3txd0g/JOqQ8ly/SDxdtvhdLHbtZLBj/HbLjn0VGCCBowIhdWljVQ8=;AwvRmO1anhsU2emIzIgELg=="
+secured: "J7Ixbf2T6FPaUPnqQUjebIo5swam6YwdD49+U0E8O69Chxo56mA9gvBrVbwAi4U2i3kLPH4SQ03Lbt6LzIdCVPRoLEer0DGaF0v3B3ieEkDVSG+0Af/AX/9fahU20lQvtq7BN12y2WxcQWfXzzFIeThCvIFsHt8wJhZ4VZ+ivc7m4eccOsnzKSuPm5yudpM4HE0WEEz9Dr+BX/46sUkttczBsX7zre2GTosIZMk7FLoCAWPP0Sw/ta/oZTi9ssem9DBL8kyCFjRIKLyzYU74ImHRoEoqgTd1OOYiYGCMooc1J0a+3yb37gddT6DQIRizI0djyd2N0tlNAZpBHb/dBC1z0I0k1BaKh6owLmU03GQ=;hCNF5MjWm9pf7d6GIjrMvA=="
 ---
 
