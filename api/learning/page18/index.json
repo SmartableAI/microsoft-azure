@@ -1204,15 +1204,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
-      "title": "Introduction to high-performance computing (HPC) on Azure",
-      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
-      "length": "PT50M",
+      "path": "_learning/courses/microsoft-learn-improve-reliability-scaling.md",
+      "title": "Improve your reliability with modern operations practices: Capacity planning and scaling",
+      "excerpt": "Learn about capacity planning and scaling practices that can help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-scaling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-scaling/",
+      "length": "PT32M",
       "ratings": {
-        "count": 1126,
-        "average": 4.581705
+        "count": 41,
+        "average": 4.634146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1232,9 +1232,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-scaling-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1242,8 +1242,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Compute"
+        "Azure"
       ]
     }
   ],
