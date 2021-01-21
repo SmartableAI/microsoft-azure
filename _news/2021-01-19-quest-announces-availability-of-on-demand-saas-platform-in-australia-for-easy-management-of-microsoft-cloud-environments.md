@@ -29,6 +29,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "Curated Version of Tata Consultancy Services' Comprehensive Solution Automates Application"
+    publishedDateTime: 2021-01-21T21:28:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-21/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
