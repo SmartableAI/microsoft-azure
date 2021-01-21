@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H10M
 ratings:
-  count: 3137
-  average: 4.5782595
+  count: 3138
+  average: 4.578394
 heat: 52
 
 provider:
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Storage
 
-secured: "qkCTs4e50jS0emblwrIKfwl9KdxvAFgoveMe6zfLRp32HblaekDjVigMwIU8XoxpYCqW1weROKnc4NFYRGN5XE7/9NjggsMhlGNmeQHV/QQUBMQO9ehkNc/a/L3S+DmtoCYz9C86Ir/5XJequcL39AwLNKYe7E6vsBJbzgQxIbfbzLgh7jfwxcUaZUTnyTH2/H+cD57zcLgI0aDv4VXLyb1pLoo6b7agd2x7U6OKUUP9EGDBRjoQiDF3naKQuMmryEA7lCEH4CQ2DE3okdewPX7zHtMetOKSdarq74pUygjFbU6E6ZJ3evu1/Fj+jFojvYgHSds7Qfj8oqtQguZl+S9En+QR7eod/eLWMWNJDYMcNIkzkGY9npYXBiMGbsFgBiJLc/NsC16xC+ZXDppMhC12SrBai1U33zwOWMwmiYU=;hfSH9JZM3IQ2nAwN5B/2MA=="
+secured: "id8BiOaPHBeZqZNlzD8+Z9/d+v3/c9bIqP382K82sIVC/IGBOQhUHNxEXjCuilktvtqUUvF7eQfHpjFuFBrmEtllihZh+Ck5JaQ+eg8RuvFNDAj8BfAW2gYTt0STVQOFCgjBjvRBcVHuDMBjf04jD+XMSv/dhqZnFsCTETrEI2gcQCqa0d/7ZT+YqxQPW0UTASZU3SBUe+PmP0TxG6feKvuhAYwWwv4VIHY8FXSYs6I0hh12V8tHwN/I7Bxk5GFxGNiJdx9HVK+AI7cmwdrAo63c5CHB5ZBPY10ue4Bnpv5ujKBK+tXxH3pIjwYRJALy1iebqYpCg4Q6U+IR3gTOXaasxUfj0QTpQeLBH7oRw6SJHYRSdBdxCaggpDYo3LbXAkiPc1ss1ogQ71szqJEOJe61Q2+Y2QDi8HvAS9JTILw=;aRDaHY7bMgPZlpdAQ6Xe7g=="
 ---
 
