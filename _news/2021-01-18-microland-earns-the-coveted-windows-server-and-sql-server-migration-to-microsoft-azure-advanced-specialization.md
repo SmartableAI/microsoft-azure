@@ -402,6 +402,20 @@ related:
         width: 1388
         height: 927
         isCached: true
+  - title: "Fast track your Microsoft Azure knowledge with this 6-course bundle, just $35"
+    excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
+    publishedDateTime: 2021-01-05T20:05:00Z
+    webUrl: "https://www.androidguys.com/deals/2021-complete-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: AndroidGuys
+      domain: androidguys.com
+    quality: 34
+    images:
+      - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
+        width: 596
+        height: 298
+        isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"
     publishedDateTime: 2021-01-19T05:53:00Z

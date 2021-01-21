@@ -1,21 +1,27 @@
 ---
 category: news
-title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
-excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
-publishedDateTime: 2021-01-13T11:50:00Z
-originalUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
-webUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
+title: "Fast track your Microsoft Azure knowledge with this 6-course bundle, just $35"
+excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
+publishedDateTime: 2021-01-05T20:05:00Z
+originalUrl: "https://www.androidguys.com/deals/2021-complete-microsoft-azure-certification-prep-bundle/"
+webUrl: "https://www.androidguys.com/deals/2021-complete-microsoft-azure-certification-prep-bundle/"
 type: article
-quality: 6
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Tata Consultancy Services
-  domain: tcs.com
+  name: AndroidGuys
+  domain: androidguys.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
+    width: 596
+    height: 298
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -395,20 +401,6 @@ related:
         width: 1388
         height: 927
         isCached: true
-  - title: "Fast track your Microsoft Azure knowledge with this 6-course bundle, just $35"
-    excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
-    publishedDateTime: 2021-01-05T20:05:00Z
-    webUrl: "https://www.androidguys.com/deals/2021-complete-microsoft-azure-certification-prep-bundle/"
-    type: article
-    provider:
-      name: AndroidGuys
-      domain: androidguys.com
-    quality: 34
-    images:
-      - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
-        width: 596
-        height: 298
-        isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
     publishedDateTime: 2021-01-18T03:38:00Z
@@ -571,7 +563,16 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 12
+  - title: "TCS’ Cloud Exponence Platform Now Available on Microsoft Azure for Greater Enterprise Agility"
+    excerpt: "Curated Version of Tata Consultancy Services’ Flagship Cloud Management and Orchestration Platform Helps Enterprises Seamlessly Manage their Multi-cloud Footprint Through Machine First™ Automation NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-13T11:50:00Z
+    webUrl: "https://www.tcs.com/tcs-cloud-exponence-platform-on-microsoft-azure-greater-enterprise-agility"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 6
 
-secured: "KgzYCe0mlRI24vjWxU1cssx7YY5fIQGWbUiQBnMLLTAmjmqEr7s+XPUdI+bgjpJE7OU6p0fGccz3mpTui78ooXn5qhCS0hm7xJa1crU/U25UNBSRxWQmakH8eWeNOMw3NwRFQGn0LiVpmYnZapRxAbijjMiNzdcHPYVPAhQtwt73aVyxMRkM1ynQQxb4JkC/CYnMK20Yi6ozN/+SIzpIAODqOdgVPbgQI8CRN0wNdkwDP+L2qfNe75QPBV3Ip2hDwh1azKZYB6OVuCEVIMvxqUHfAgOtm5+MO0avdR235rj6rMJVLjSe2Vw3bPuQJrjQg6ygjJjztN2cH2pV0gDQJ7ydGsvAwq2JdcyDmmkcMd7wS23VG13Z4HWI3a/6iYaCt5gZN22v0IzzMkkZ6qZQN67kuxGFAF/1Ad0CUBdguHsA3ndwBzntxAjWFVKhAM58Dbehy08r5FbS8A2/oKEYUhnQdeo+XDzVdqc2xN+PmIeyVQZ6zM3Qx4H6FtLznQGEMN4CIiqesbL9NVaAe347vw==;M3UwEJYtjoN2HViWJL0shQ=="
+secured: "aVq83LdEqStVt6r0ijVKe9VgRwnmVNJsA628mO6y0dVdni7emgwHCw4xldfwLZUzONTPgg6BCPt41x7RPgFj4CAqedLsgenSuloVw70bKdTfCedfA+5FVxzznwMDBYQef/THWSeeYfRwT5KCeFJLvrln2DJC1y9t4mhIbaUGzVeadrjGsdPjFhF+6Z6/yjwqEHl7dgyxTJWi8A/Hc/QMbz4NGQpSH9bbuu/ROh3K4o9SpEmTbZhZUVdmFMhHdFIbj188jPBMn1wSceaEZNAfOLXw82wd2EfcSTdcVjQRQH9SdgXAC527O/j1L/7tJZJTmVkCtfi+ynKWzNxZT9yv32YcZRfLIRlBpenwgDCgAuU=;76PA+7ziXNESgyJ6TddDSw=="
 ---
 

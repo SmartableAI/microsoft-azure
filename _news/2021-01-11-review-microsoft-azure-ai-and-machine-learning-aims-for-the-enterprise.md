@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 909
+heat: 929
 published: true
 
 provider:
@@ -391,6 +391,20 @@ related:
       - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10127_Showcase_Power_Platform_hackathon_blog_hero_image.jpg"
         width: 1388
         height: 927
+        isCached: true
+  - title: "Fast track your Microsoft Azure knowledge with this 6-course bundle, just $35"
+    excerpt: "Microsoft Azure is an increasingly popular, and lucrative platform that’s fast treading into Amazon’s space. As a major play for cloud-based services it’s only getting bigger. In terms of ..."
+    publishedDateTime: 2021-01-05T20:05:00Z
+    webUrl: "https://www.androidguys.com/deals/2021-complete-microsoft-azure-certification-prep-bundle/"
+    type: article
+    provider:
+      name: AndroidGuys
+      domain: androidguys.com
+    quality: 34
+    images:
+      - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
+        width: 596
+        height: 298
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
