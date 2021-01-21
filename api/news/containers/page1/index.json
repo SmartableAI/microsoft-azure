@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-20-public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks.md",
-      "title": "Public preview: Dynamic IP allocation and enhanced subnet support in AKS",
-      "excerpt": "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets.",
+      "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
+      "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
+      "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 217,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T09:00:17-08:00",
+      "publishedDateTime": "2021-01-21T09:01:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Azure",
-        "Containers"
+        "Containers",
+        "Security"
       ]
     },
     {

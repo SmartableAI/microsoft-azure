@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Site Recovery update rollup 53 is now available - January 2021"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components."
+    publishedDateTime: 2021-01-21T17:02:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Site Recovery update rollup 49 - August 2020"
     excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
     publishedDateTime: 2020-08-19T19:00:04Z

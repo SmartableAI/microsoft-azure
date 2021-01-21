@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Automation is now available in Switzerland West"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-west-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:01Z

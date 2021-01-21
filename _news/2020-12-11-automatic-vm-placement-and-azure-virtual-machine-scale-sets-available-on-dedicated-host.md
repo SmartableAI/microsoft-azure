@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "App Service Anti-Virus Logs in public preview"
-    excerpt: "Receive improved application monitoring with support for anti-virus scans ."
-    publishedDateTime: 2020-12-09T17:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-antivirus-logs-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Selective disks backup for Azure Virtual Machine is in public preview"
     excerpt: "Optimize your costs and enjoy faster backup and restore operations by selectively backing up a subset of the data disks in a VM."
     publishedDateTime: 2020-08-06T18:00:12Z

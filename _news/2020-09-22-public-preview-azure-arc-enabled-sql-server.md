@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
   - title: "Public preview: AKS start/stop cluster feature"
     excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
     publishedDateTime: 2020-09-22T16:05:26Z
@@ -94,6 +103,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Application Insight in Japan West "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
+    publishedDateTime: 2021-01-21T17:02:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Service Bus support for large message payloads"
+    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
+    publishedDateTime: 2021-01-21T17:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "mzpexN1IACKHjnOtCj/nPjTTfNbMDLUvaM/mToRpbPeGpD+qzYDFbYAfKFn1AhOC+GygdUIhVyiCpN1jgnXetkkT9eTmhr2lTq6zDAXQGM/pV7cHdBMnSkmV7YauzEan/beJrGuNoRSWuVIl/x4lGyaR1MWpe6vzLYDo7ZHeaXUMN1BahfeM1KMpeIcVU8LFdxD95bCFKRQ8bhVDeOgQXTI7dyvBZ4/7/DXUGv+cUnKWfUMvodixpGKCDSHtIMjuSdmeg8z4SHi5FdB/RE7etnMIp5/JEujCxcm3foyeOvtvPKz/tJYFOoZ1bjBBVSUW6EMKdt7gfdCKWgybweLO6B67yV1vBVoxSVgLPemTfD0=;VEsPbP9AZ8bPG4cSxdpcXg=="
 ---

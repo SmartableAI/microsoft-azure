@@ -2,55 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-21-azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings.md",
-      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings",
-      "excerpt": "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
+      "path": "_news/2021-01-21-azure-site-recovery-update-rollup-53-is-now-available-january-2021.md",
+      "title": "Azure Site Recovery update rollup 53 is now available - January 2021",
+      "excerpt": "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21",
-      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp",
-      "publishedDateTime": "2021-01-21T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks.md",
-      "title": "Public preview: Dynamic IP allocation and enhanced subnet support in AKS",
-      "excerpt": "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
+      "heat": 164,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T09:00:17-08:00",
+      "publishedDateTime": "2021-01-21T09:02:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -74,26 +41,35 @@
       ],
       "topics": [
         "Azure",
-        "Containers"
+        "Migration"
       ]
     },
     {
-      "path": "_news/2021-01-20-the-azure-quota-rest-api-to-manage-service-limits-quotas-is-now-generally-available.md",
-      "title": "The Azure Quota REST API to manage service limits (quotas) is now generally available",
-      "excerpt": "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning. Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.",
+      "path": "_news/2021-01-21-app-service-authentication-portal-experience-is-now-in-public-preview.md",
+      "title": "App Service Authentication portal experience is now in public preview",
+      "excerpt": "A new version of the App Service Authentication/Authorization portal experience is now in preview.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 129,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/57e5a3a7-6c89-438a-bd13-712987f17971.jpg",
+          "width": 770,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T17:29:50-08:00",
+      "publishedDateTime": "2021-01-21T09:02:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -108,6 +84,170 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-azure-monitor-network-insights-is-now-generally-available.md",
+      "title": "Azure Monitor Network Insights is now generally available",
+      "excerpt": "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:02:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
+      "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
+      "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:01:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-azure-iot-edge-for-linux-on-windows-available-for-public-preview.md",
+      "title": "Azure IoT Edge for Linux on Windows available for public preview",
+      "excerpt": "Azure IoT Edge for Linux on Windows provides the ability to run Linux containers on Windows under the Azure IoT Edge context.  This allows you to connect your Azure IoT Edge for Linux instance to your Azure IoT Hub subscription and deploy your custom Linux Edge Modules to Windows devices.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-on-windows-available-for-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-on-windows-available-for-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:00:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings.md",
+      "title": "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings",
+      "excerpt": "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21",
+      "originalUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp",
+      "publishedDateTime": "2021-01-21T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -256,49 +396,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-azure-backup-encryption-at-rest-using-customer-managed-keys-is-now-generally-available.md",
-      "title": "Azure Backup: Encryption at rest using customer-managed keys is now generally available",
-      "excerpt": "Encrypt your backups using customer-managed keys for more security and control.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T09:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     },
     {
@@ -1062,100 +1159,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-microsoft-azure-breach-left-thousands-of-customer-records-exposed.md",
-      "title": "Microsoft Azure breach left thousands of customer records exposed",
-      "excerpt": "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
-      "originalUrl": "https://www.techradar.com/au/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 637,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/9gHS2KGatsqKs7nUaaZGRW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-breach-left-thousands-of-customer-records-exposed",
-      "publishedDateTime": "2020-12-21T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-support-for-reference-data-up-to-5gb-and-new-improvements-in-azure-stream-analytics-now-generally-available.md",
-      "title": "Support for reference data up to 5GB and new improvements in Azure Stream Analytics now generally available",
-      "excerpt": "The latest update of Azure Stream Analytics, now deployed in every supported region, provides support for larger reference data ( up to 5 GB), and add support for composite keys for blob output partitioning.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-and-new-features-in-azure-stream-analytics/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-and-new-features-in-azure-stream-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-17T09:00:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

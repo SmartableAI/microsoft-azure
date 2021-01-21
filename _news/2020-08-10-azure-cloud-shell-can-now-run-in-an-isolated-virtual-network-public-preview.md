@@ -6,7 +6,7 @@ publishedDateTime: 2020-08-10T17:00:04Z
 webUrl: "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/"
 type: article
 quality: 64
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,15 @@ topics:
   - Azure
 
 related:
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "QnA Maker introduces deep learning (Public Preview)"
     excerpt: "The next version of QnA Maker introduces state-of-art deep learning technologies and advances several core capabilities like better relevance and precise answering."
     publishedDateTime: 2020-11-09T18:00:10Z

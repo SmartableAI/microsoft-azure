@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Data encryption with customer-managed keys for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-10T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customermanaged-keys-for-azure-database-for-mysql-in-preview/"
+  - title: "Encryption of backup data using customer managed keys is in public preview"
+    excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
+    publishedDateTime: 2020-08-12T16:00:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-of-backup-data-using-customer-managed-keys-is-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
+    quality: 50
   - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
     excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
     publishedDateTime: 2020-08-10T16:00:05Z
@@ -39,15 +39,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 8
-  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
-    excerpt: ""
-    publishedDateTime: 2020-06-08T16:00:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 3
 
 secured: "L/UtgqDkbCVVTDihb3axs/iyQvDGlFwBMklxMGKQfV6qd5OAzdAIZFFluNIhpmJHpWoBePvWWXJA+4aeUb2UNYPe79kTi+VQQPIiGd63A57oWJdB1j3tbH5A6KqFydxwMnfMOxcWh2E/+bKj7KXXcF7bagCaZ+9AOoHOzORabu3JaU/+dPEHyAG31TreqAwPRkuqm6770q1eNDzSQx4rZNa7PyXS2dhJoimRwcuKy/KyyYutTZ74EpGoYkJUJ/C48jv+jR5E3N78M9qYyjaG/6PzL817CAEKYDTn2ny7TZhDD9zL8e8amGm2t+uYTF/5gSIICCvClDdapXPdjzZjbg==;jyB1iZwhydT21YgX92SjMg=="
 ---
