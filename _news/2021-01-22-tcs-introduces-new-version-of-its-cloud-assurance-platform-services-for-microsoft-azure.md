@@ -1,30 +1,26 @@
 ---
 category: news
 title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-excerpt: "Curated Version of Tata Consultancy Services' Comprehensive Solution Automates Application"
-publishedDateTime: 2021-01-21T21:28:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-01-21/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-webUrl: "https://www.bloomberg.com/press-releases/2021-01-21/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure."
+publishedDateTime: 2021-01-21T21:40:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-267b2bce13846ec4a9808f4cdcfa83bb"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-267b2bce13846ec4a9808f4cdcfa83bb"
 type: article
-quality: 69
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -113,6 +109,6 @@ related:
       domain: arnnet.com.au
     quality: 0
 
-secured: "DDI5qBtWDltQIBlQ2ekh9Ml+wwscXaw8Im6w5sIToBHrShq0C5VLt+amKbe2VF92BUfMrJGKy1TKYctJ8xo9chVez3lC1S63XM2XFPj4d30CTs/2RB4oXGeI8FNyydWDLBQV5Ozg9la58A7J3b2B/2xPOUWuOTZX+oMnoO77sJVOFGOAzM9e3AkMm8krZMvpLXyAxjaHGLB+eIxuVUVsVa092QinHTZhSyE6HK1+mo081i+iQDWWDYFNI+kgP0MavGF8P8x1iS/iqbF1EBaJW05BRTy2V0fHWCDORqukWb0e7o2aBnw/AhI7v+/l0wj67tZ6YWMX7pHd0go64K/OT1CpwfmXef0qZJ5o/f17dHM=;/yjPyK+vuwje/F7SWzZjmA=="
+secured: "wc/uszLaIHwVlOWF/gex2cAz76mjnIinoq23YQ7EV/TRXAcgLdQDRmXxEz/pB7BLHwoSRcSL3CgYq9ziFVGJV/e6eTE6B7kL34MOp7X1fG7peHF1dNKqQm1cmqnHl7wr1aPOnPGfd+9tJd3p/d9AKjYV3CvIv2PHXP/mKHITqlyntsaO8iuLYCPRqbDxW1BKV6Y7p8/oxdTw1VZ4qUQew/3ceKqDf0r9MIVONdzlw46DgmAGDf4kWPl7BR+71qbVlAJIR+Txrag61vtqytcec4b/KpzoAOPA79X4msVyVhx0xCzJyW6hrq3WK1Nup0eUsApL5hMGhrN8uQEL2hbX7vNQiU6yxzGjdb8VpePJGLI=;lPajQSPyFNIvAdAFMgPFqQ=="
 ---
 

@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
-  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-    excerpt: "Curated Version of Tata Consultancy Services' Comprehensive Solution Automates Application"
-    publishedDateTime: 2021-01-21T21:28:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-01-21/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -88,6 +74,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure."
+    publishedDateTime: 2021-01-21T21:40:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-267b2bce13846ec4a9808f4cdcfa83bb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:03:00Z
