@@ -4,6 +4,225 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
+      "title": "Architect API integration in Azure",
+      "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-api-integration-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-api-integration-in-azure/",
+      "length": "PT3H44M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+          "title": "Publish and manage your APIs with Azure API Management",
+          "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 1309,
+            "average": 4.6737967
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+          "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+          "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 785,
+            "average": 4.676433
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+          "title": "Protect your APIs on Azure API Management",
+          "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 807,
+            "average": 4.7187114
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
+          "title": "Control authentication for your APIs with Azure API Management",
+          "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 1845,
+            "average": 4.6471543
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "Web"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -34,8 +253,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3015,
-            "average": 4.66733
+            "count": 3017,
+            "average": 4.6675506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -664,8 +883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 726,
-            "average": 4.72865
+            "count": 727,
+            "average": 4.7290235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -950,8 +1169,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3146,
-            "average": 4.6713285
+            "count": 3147,
+            "average": 4.671433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1090,7 +1309,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-images-computer-vision-social.png",
@@ -1115,8 +1334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 566,
-            "average": 4.763251
+            "count": 567,
+            "average": 4.7636685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1669,6 +1888,208 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
+      "title": "Work with relational data in Azure",
+      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
+      "length": "PT5H34M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
+          "title": "Provision an Azure SQL database to store application data",
+          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 5052,
+            "average": 4.6573634
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 1165,
+            "average": 4.425751
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+          "title": "Introduction to Azure Database for PostgreSQL",
+          "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 2035,
+            "average": 4.6388206
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
+          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
+          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 3668,
+            "average": 4.586423
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 132,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-azure-friday.md",
       "title": "Azure Friday",
       "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
@@ -1848,195 +2269,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4fT47TKprFQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-azure-tips-and-tricks.md",
-      "title": "Azure Tips and Tricks",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-tips-and-tricks/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks.md",
-          "title": "How to get started with Azure Communication Services (Part 2 of 2) | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Communication Services for SMS and how to send SMS messages.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=XH4bNXwZPyk",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XH4bNXwZPyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M31S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-12T11:46:16-08:00",
-          "heat": 84,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks.md",
-          "title": "How to get started with Azure Communication Services (Part 1 of 2) | Azure Tips and Tricks",
-          "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Communication Services for chat and how to build a chat app.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=W-YWJYCS6YI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W-YWJYCS6YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M31S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-05T08:00:03-08:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/W-YWJYCS6YI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks.md",
-          "title": "How to run C# Notebooks with Azure Cosmos DB | Azure Tips and Tricks",
-          "excerpt": "In this episode of Azure Tips and Tricks, explore data in your Azure Cosmos DB and run experiments with C# notebooks.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks    Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=pJVYnMAKxXI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pJVYnMAKxXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M49S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-08T08:04:38-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/pJVYnMAKxXI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks.md",
-          "title": "Discovering the Azure Architecture Center | Azure Tips and Tricks",
-          "excerpt": "In this episode of Azure Tips and Tricks, discover the Azure Architecture Center which is full of useful knowledge and resources.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks    Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks/",
-          "originalUrl": "https://youtube.com/watch?v=AhAz3BcXy0A",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AhAz3BcXy0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M25S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-12-01T08:03:38-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/AhAz3BcXy0A/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 141,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2343,8 +2575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 3666,
-            "average": 4.764048
+            "count": 3667,
+            "average": 4.7641125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2483,234 +2715,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps.md",
-      "title": "Build automated workflows to integrate data and apps with Azure Logic Apps",
-      "excerpt": "This learning path guides you through creation of serverless workflows for your organization using Azure Logic Apps, a cloud service that automates your business processes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-automated-workflows-to-integrate-data-and-apps-with-azure-logic-apps/",
-      "length": "PT2H49M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
-          "title": "Introduction to Azure Logic Apps",
-          "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-intro-to-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 1708,
-            "average": 4.717213
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-          "title": "Route and process data automatically using Logic Apps",
-          "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 1632,
-            "average": 4.5153184
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-logic-apps-and-custom-connectors.md",
-          "title": "Call an API from a Logic Apps workflow using a custom connector",
-          "excerpt": "In this module, learn to create a Logic Apps custom connector to call an API from a Logic Apps workflow.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-custom-connectors/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 541,
-            "average": 4.5804067
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-custom-connectors-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-logic-apps-and-arm-templates.md",
-          "title": "Create and deploy Logic Apps using Azure Resource Manager templates",
-          "excerpt": "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI).",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-logic-apps-and-arm-templates/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-logic-apps-using-arm-templates/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 526,
-            "average": 4.6596956
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/logic-apps-and-arm-templates-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Blockchain",
-            "Integration",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
       "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
       "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
@@ -2741,8 +2745,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1257,
-            "average": 4.7406526
+            "count": 1258,
+            "average": 4.7408586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3385,8 +3389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 179,
-            "average": 4.653631
+            "count": 180,
+            "average": 4.6555557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3428,8 +3432,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-organization/",
           "length": "PT34M",
           "ratings": {
-            "count": 144,
-            "average": 4.6666665
+            "count": 145,
+            "average": 4.6689653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3470,8 +3474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
           "length": "PT54M",
           "ratings": {
-            "count": 119,
-            "average": 4.5546217
+            "count": 120,
+            "average": 4.5583334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3513,8 +3517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
           "length": "PT44M",
           "ratings": {
-            "count": 179,
-            "average": 4.703911
+            "count": 180,
+            "average": 4.7055554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3980,208 +3984,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
-      "title": "Work with relational data in Azure",
-      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
-      "length": "PT5H34M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-          "title": "Provision an Azure SQL database to store application data",
-          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 5052,
-            "average": 4.6573634
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 1165,
-            "average": 4.425751
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-          "title": "Introduction to Azure Database for PostgreSQL",
-          "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 2034,
-            "average": 4.639135
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 3668,
-            "average": 4.586423
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-ai-business-school-for-education.md",
       "title": "AI business school for education",
       "excerpt": "Learn to develop an AI strategy to create value in government, including artificial intelligence and machine learning technologies, culture, and responsible AI.",
@@ -4213,8 +4015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4428,8 +4230,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4643,8 +4445,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4858,8 +4660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5073,8 +4875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5288,8 +5090,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2569,
-            "average": 4.699494
+            "count": 2570,
+            "average": 4.6996107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6330,6 +6132,220 @@
         "Azure",
         "Analytics",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-discover-ways-to-foster-an-ai-ready-culture-in-your-business.md",
+      "title": "Discover ways to foster an AI-ready culture in your business",
+      "excerpt": "Learn AI solutions to implement based upon organization maturity and a framework to drive the key changes that are necessary to become an AI-ready organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-discover-ways-to-foster-an-ai-ready-culture-in-your-business/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-discover-ways-to-foster-an-ai-ready-culture-in-your-business/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1050,
+            "average": 4.7409525
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 721,
+            "average": 4.800277
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-marketing.md",
+          "title": "Discover how to foster an AI-ready culture in marketing",
+          "excerpt": "Learn the necessary cultural changes for enterprise marketing organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-marketing/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 676,
+            "average": 4.781065
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-marketing-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
+          "title": "Discover how to foster an AI-ready culture in sales",
+          "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 551,
+            "average": 4.704174
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

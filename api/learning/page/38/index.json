@@ -4,48 +4,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-      "title": "Threat response with Azure Sentinel playbooks",
-      "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 16,
-        "average": 4.9375
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
       "title": "Approach your data-flow diagram with the right threat model focus",
       "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
@@ -97,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 235,
-        "average": 4.6851063
+        "count": 237,
+        "average": 4.6877637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -134,6 +92,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
+      "title": "Provide context with the right depth layer",
+      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 246,
+        "average": 4.719512
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tm-use-recommended-tools-to-create-a-data-flow-diagram.md",
       "title": "Use recommended tools to create a data-flow diagram",
       "excerpt": "You can use any canvas, physical or virtual, to create a data-flow diagram. Engineers at Microsoft recommend three tools to help you in your threat modeling journey.",
@@ -141,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 236,
-        "average": 4.6694913
+        "count": 238,
+        "average": 4.672269
       },
       "provider": {
         "name": "Microsoft Learn",
