@@ -47,17 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-    publishedDateTime: 2021-01-19T23:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
     excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
     publishedDateTime: 2021-01-15T14:10:00Z
@@ -120,6 +109,20 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 0
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
+    publishedDateTime: 2021-01-19T17:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "m0G9C+GLrOUru53ob8u5/kVDk4vUQOvhvT1S/BV2Ovma1fLsFm8ryQUz3D2KgyUzIrQLq80iw8wmM1yNuiB6Z43S7kiY6xwQTiy00Zd5p9GuzIe9Ow2YcDGZ/YTENPhJkJ76UwfANcgiF0oiOfLWGzA3Uesy8t0NWLAvqX4Og2K+/8rQXf8t9HIkhBPuo8ij+N3A7/eVZxFXqKQwsnrlCQjuA4VcRz6bP7MUjMBiUTrLTlvgcq9hB7xzBKPVICRck0aPKhQ4k1gs16zQcsbmuTLI5feGjCteJ6G0NO+ssLOJogTjpNn7z1hK7idxRNH6PUgnDcu5njBtSEU2drAZ4IdGVAlUvFmanqV9PBRYNCVmSOrypBKiCBYVpURah4Aa9R2AUxxkSjPwfEKEQ1SyfS6dg6dNJJQsrHcgxDQ/LjMvE4sEflH66cc+F1TAV0Sb2TpKztlC9wRS3yZbEVrkaM8/J7LnGJPfrujKNa54eS1ofjCoAbEx+W9YkUo0AaW2MamKa19qvT6Db51gpKNpyA==;qN3e498UV20EETGK/FAFJQ=="
 ---

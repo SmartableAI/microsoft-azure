@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
-publishedDateTime: 2021-01-19T23:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-webUrl: "https://markets.businessinsider.com/news/stocks/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-1029980830"
+excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
+publishedDateTime: 2021-01-19T17:16:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
 type: article
-quality: 40
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
@@ -123,6 +123,6 @@ related:
       domain: arnnet.com.au
     quality: 0
 
-secured: "kKZe5/sJVupfDjoqahcEDQ/ZMaQlN1IDjKAVOoFNHKrqnFLOUaap+RDy1U5+eTAveBo/RQBaZJ9u+g9ZIr+dRVFZlxGb/97Um6lPW7MHY/2l8iUdk1vW+7iL3HhIg8ZxZmQIMSCJ3eC8arRcvA12D2rX9pBHtroB/BPQCPqRa22LRz/eUFM+JeZltfdUIPbVEtHCbHKP7yWIVY7eTEZl5TgqAJ9J1lTkat0CeslsI4tQ2VeTSBkj9CVRjreRD4plXQ2PDkTX90z/+6fzFebP02LeX63/0vyCwdWinUkcK7hKFhiNkRuAjNLqTHPBz1fCtX5of8gOfASt+yFuZuCdf+agcudrHT//TZ7XR/v6nzQ=;5EUn9yhb/GgbAH4VzBBAJQ=="
+secured: "Yff2FH6dv/y/lBesiLqfIIQX6XSRyALFW90xtjDKHMSdsJmZ2kUypkbbBMbUFZKRubBxrSOs5phmmoSIYbGHbDheJJV5+Pwg/ZAxSSM+oChltXHa6cWhVMvuoKTAoSAnqmIAEum17nkbkfIyQfw0AucvF0o94lOK67SsWB85DetyKPO597WOJNpEC6s+9BkAdqp+ej2d4SG5NmAeiKPKpnkCKlJDo1XX/zQIyAQHw+C9l8SgmZVpDIELQNd8EIh7tA5mq1TI7XwU+hcjVJQ2JNmslvTQhGtrNVqj3mb/HIEPHbR/B6Is9zQ0YxGL+JdEVWEAnprMOFkA/Dp7oLx703ootHnM4PsmTtrkWR1bt1s=;UuNq5apZUFUqHD+qoTJClw=="
 ---
 
