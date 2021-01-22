@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+publishedDateTime: 2021-01-20T12:41:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -477,6 +471,20 @@ related:
         width: 985
         height: 634
         isCached: true
+  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+    publishedDateTime: 2021-01-20T16:53:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -727,6 +735,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "Y2Cb9oetlXwWFhsP74Jwgl1VFXm6DuDu2G77DJNgaN7i2r+4SBy2VEWV0TNoiul4lCeLU1GEQWZzND8qd8+Ra+XeqiDot4RUYRMAfkRCjioVlSYtjs0/FslcdrS4bzejyTDsS+NhnORXIQXH5ZJvKk0qc7t54s/KcW/sKnPbCB2Q0UXds6A4cX5HD6eijG3LPm9m5/z36UKOrNkYGzntiTKULkPHN/bbreWbS+AfPbnPnbssbWIdQEjKnx6VBtLDQu/t+q4BXcJCL/Ng6ppr0h6AMk4c3EGLPoeqMP0aPY8QOon/BiSd4Mzig4LZefx8T7na1wrSVcMf1EuFRZc/QMexiNsFMODiBlH2B52IAPw=;wzt63U/IXMZOwthWVKy+Eg=="
+secured: "kjwHsX+uc10h4St6o4ijEvRL7xZTtzh0CnBQxNjj5tgNbMlHAxDJumvsb6/+4OJGmRfnP42yHdnnlb/2OcPqg5/q1Zzdlqf0cid/WJXCGKp1FhJcKGxudgYUIS1gvobSLN6HgZTq5dKbxDW5VSQg4mRMhUaDrKUcdA+/bwBlt3t+847w0vpbvmE3HHKuDijoflr84L01xAnPWN5lAX2oF20Bc4tANW5moab9LTBRT9TsUZNQ0jR1Gx3X8fe3IYdOm2DqC9qa6lZXMgsfI8F4kkIPZ+5nxn60lPKReYzbHUipvTZkg+l3mCtH2Z9wWIx6naDLrvnWCYo9JSEhxuFqyZfgncQjYe51SKjWZdma5LI=;UoK0uDjkWHD/bhi7shA5pQ=="
 ---
 

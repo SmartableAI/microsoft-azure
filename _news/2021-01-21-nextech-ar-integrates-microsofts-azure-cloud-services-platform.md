@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Microsoft's cloud chief breaks down new Azure products"
-excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
-publishedDateTime: 2020-12-03T16:55:00Z
-originalUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
-webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+publishedDateTime: 2021-01-20T16:53:00Z
+originalUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
-    width: 1920
-    height: 1080
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+    width: 1240
+    height: 700
     isCached: true
 
 related:
@@ -160,6 +156,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "Microsoft's cloud chief breaks down new Azure products"
+    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
+    publishedDateTime: 2020-12-03T16:55:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Codafication's Virtual Assist Now Available in the Microsoft Azure Marketplace"
     excerpt: "Stock quotes by finanzen.net BRISBANE, Australia, June 10, 2020 /PRNewswire/ -- Codafication, a software start-up that empowers enterprises to digitally transform at scale, today announced the availability of its flagship product Virtual Assist in the Microsoft Azure Marketplace."
     publishedDateTime: 2020-06-10T23:35:00Z
@@ -467,20 +477,6 @@ related:
         width: 985
         height: 634
         isCached: true
-  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
-    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
-    publishedDateTime: 2021-01-20T16:53:00Z
-    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -740,6 +736,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "A80FdIKN0L78qm9rT9+AMchAyhVnoT+mw+Qnruym/QcNHT5aEtTsmQDql7iEF8Fjk1footz42Gp/ifT0TKYtt9CkIT8BkONyjEJ5REdJ+yngEBdXJn/I+JtMHtdS+RUIHTgnvjA5lwRTFhO8JfPs52Jxfwj6mJFRusISNGjZFI55R7SC1+Fgxp+oX883SPCEGjXk6r88BcHWhYlXG1jWcZtUirK2oRML8LUihFsjDz8vmqETSWph9DP8o26OEMjBAEY7T6Vvxv+4DYll0syCwmkFdbs/JtuNdVzChtG10T/w625Uh0wVhF7qtYa0AvSWA9SkGV3rbh3c32/yDlMMa0CCH3h/nzs0BEv1RJjvElo=;AOpqKEW61OKqpEqrOfmjWg=="
+secured: "wxbe+UMW9aUV+iKNc3Y7rONy4DhuqaZM59+B3R0fI+Jv6J8q40q9e3Ctk4n3dnoaPMUmjbPAHeW/SyhcP7DURxWmVW4TSzCZYR3nEIQUjnFTvpX8XjH0P7D00gwPqyK8UAsGSVdqG/5SJBf7nEXB4XBfdZk0ueJiEEIbjTan0drYeDwj0wnz7eoSp638XkrcdCrwC7SFPG96HoF8XWnN/GiXd9sOdysacl4GEn31nXELbQmzoJpJrW8mzpkxstVZ1gVQ0yGk3vCEQxYCq4CNqJY/3sUP8CC+pDHMmSeZQbAz5F41mk02caVxswemMYc9oRqIZXSHJGR8DgyLSbCMFjeDy7U8/pZrAI1kWEZTm8s=;jSWr7XCH13AJN8LTVWCskA=="
 ---
 

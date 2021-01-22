@@ -36,6 +36,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
+  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
+    publishedDateTime: 2021-01-21T13:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence of their BI environments."
     publishedDateTime: 2021-01-19T23:21:00Z

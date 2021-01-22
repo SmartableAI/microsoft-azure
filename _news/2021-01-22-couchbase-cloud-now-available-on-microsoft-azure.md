@@ -1,22 +1,27 @@
 ---
 category: news
-title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
-publishedDateTime: 2021-01-19T13:25:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+title: "Couchbase Cloud Now Available on Microsoft Azure"
+excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+publishedDateTime: 2021-01-21T21:53:00Z
+originalUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
+webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
 type: article
-quality: 32
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: ctovision.com
+  domain: ctovision.com
 
 topics:
   - Azure
-  - AI
+
+images:
+  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+    width: 632
+    height: 422
+    isCached: true
 
 related:
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
@@ -44,21 +49,16 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Couchbase Cloud Now Available on Microsoft Azure"
-    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
-    publishedDateTime: 2021-01-21T21:53:00Z
-    webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+    publishedDateTime: 2021-01-19T13:25:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
     type: article
     provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 37
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
 
-secured: "tW7lcxu5PYopk8ulaft33t4jcCHA49DL9uq99Znn0AEHoUVuOHpDyJtRDlTDM5bXJa3MAUCNuS2pRNnlzQq8Tn0Vr2tw6ygE94cDkvxRdUE0gshH9x0CywARvfegRWwzks40vLWpMKkMBQueRBLxfFpk6zdpsZqvZQoBUphVSA2vwN2bO5D3cbW7oOeAfuiBR5NnOSmMr5R06PsktRW50RmDeUufVuKOoRzByQExQZxQB8vHXMYawdvdNoKIN9LbM1VJ1yITxM9S7SNBcq23L5954fFWLmQSKHzX39qEjrkybHfCWFpDwwfQbnCYai6ufeP0o3kQ2S2hv8Zi1poIfxR2AXoi3+RJxrFK8bqJjNU=;+9A5t9ZqNPDu7MwBqu0u7Q=="
+secured: "vde7oMwWuISuCE/amn4hx5fTKXLxix/4+DFjOGzVQtHNkJR+sVv1PeSzKqWxbk3abyxI1iNiBa+GMrs3LtpOvPioDKPyUNv7PzBfdRAIB8Zgo5FqAJwYLIC07OLSoZ4U3MyOr5YJ8xxveLELp7BgmGKWMbHrZKRO7NP95RUylgNKoQT9Y4aIN02tvs85yxSvjDLVZaJET6c0dsurC4XmGS5EVuasPk5CA2yi8QiOtEYKLLomKMyDCD3T9KloaXpMSR5mWPoxYe20CFbgX6+LQQO5tAPqBxJX8oowJlumIEp9JBD+5RxNvIJPkjUGBDSbp13zDhncmP/ZBfdV3fkj8KdgcsQ/kL6Wr4Q6qsdvuu4=;OXZ7ceCmIItD3Szcp2cYMA=="
 ---
 

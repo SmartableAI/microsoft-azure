@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-mic
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Couchbase Cloud Now Available on Microsoft Azure"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+    publishedDateTime: 2021-01-21T21:53:00Z
+    webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 37
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"

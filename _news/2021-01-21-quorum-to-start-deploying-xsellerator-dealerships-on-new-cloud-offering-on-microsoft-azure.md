@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-publishedDateTime: 2021-01-19T15:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
+excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
+publishedDateTime: 2021-01-21T13:22:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
 type: article
-quality: 72
-heat: 232
-published: true
+quality: 67
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -22,21 +22,19 @@ provider:
 
 topics:
   - Azure
-  - AI
-  - Analytics
 
 related:
-  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
-    publishedDateTime: 2021-01-21T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+    publishedDateTime: 2021-01-19T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 72
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -125,6 +123,6 @@ related:
       domain: arnnet.com.au
     quality: 0
 
-secured: "mQPTigBZmU00SLyIRIWl0oBFDxspHJmP9uUVlfe1flwMmbSrbAsIWhX3LMix1QJeV6pzHsp+Oe2QjBcfKxMaXXQcdhcufEvThhc4X6xo3QkNrSUW48HbnYkTMmLi2t+cI7P09KT7fqr3fkJTJwypEIHewd5Lxy7MKMNnCB4EU9LklszKvVDvmRCaXC5Ml3bm4P/cqLyU7gr55HZLLzweEVvu1wjgieDv5ttGh/JKNApI69TlEgnmvPclYazThoVu6262sU+8fEcx4HLZO9+IZH83yq6ghNV9fbWa6R2Cj5hYB7ygqAd3oI/JIHGaqqE6fNOPSPSweCg0vsuz7+oB/BZ3haYF3EnD8aATHDdLxPo=;PxugsGWzMrxRH0cnCx2c3g=="
+secured: "yzbm/YWVnRoIF2ejowIWXY7xLkfX0GCPmUkQp0O9dpauqlCri7uJM9+93SH69V8kmA/Db+AoL5WxeBZnEb3Y4jfgYTL30k4L7MK2V9IOA8G+wLzEv89HrHqJsBviKLKw7AzujYs+A9tW+qm0dl6QV4Q/iXCC7bjT8zR0Qyqzr4XIUErRl8JyZCz/5soS6875i09j0DOIwW8h4LH53UGEx9etl4ryzSqklSiZI+vZhZ1STkf0mbB7JazpZ3nyGJXqRKKFkzoNKbzOOoSnFy24EuzI0xbGyKIUtRmZFQV8Ft7Z24mo2YRS+2fLQ98xJVSxAeaw4rnxux4f0kdQFHu9yOYJH2vbODp0o6dLsXO24uM=;fEEQ9u1eUuwBVcaruZf4Gw=="
 ---
 
