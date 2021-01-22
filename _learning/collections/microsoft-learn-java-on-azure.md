@@ -25,6 +25,7 @@ items:
   - courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql
   - courses/microsoft-learn-build-webapp-java-tomcat
   - courses/microsoft-learn-azure-spring-cloud-workshop
+  - courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis
   - courses/microsoft-learn-cosmos-db-java-app
   - courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps
   - courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin
