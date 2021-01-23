@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
-publishedDateTime: 2021-01-20T12:41:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
+publishedDateTime: 2021-01-20T13:11:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -735,6 +741,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "1VJ8z1zJz3GKtZgi/1/znOrFU06+8+p0wcpV0mEMn8e8wIGAvlznQLUThmCc/ywM5+XJq5Tv4z6xz/dw/d21kjrZv+hLLEmhLzKYnQGHHHYNEwDGln5sH0f+tS5FsWRJZUiHfoU6dDS4SJhdncsHLKDfWDYZ994V5QgeTBjwJINxQhRermQgDaaTUzGpVg9ihsoAeZsPosB2WCDtrU3AKwn++0rrga5UilkG7hdRer7D9PwJciwSL+xSPABHXPm8fLls0TYqq0NkCUL1U1exIz9il9V4YEGJETWAr+S8HQ8V+cQWISBQ9p/tRVYf24XaItHw2XCpjDTVG4NX/OhGJW6JS6c6MuSB8j29xFUhlCk=;tTG6zkymqfHdP3sNn5GOUg=="
+secured: "Hz9tbxcOrLtZIxMvllwu4vzWw+NUqjZXMqEkrKzXf/VXkTWjQqXTVW9ir4Ah7SX0tMRFYKiDUtjtdVXmSX1SbJc7J2bJ9ARv7EkxUwpyB/mBBi1BvOumTgwrPu6dnpEhFQcEAvugvTbA3CI9342SzPEeSomJW09e3fSAwBNBRaIopPEXAZz9E2K6PO7DutOLxcXHXy+dHA2208NvlzFJG98XnZitmZY4707cf2Yxs5mr4NegcHjX8dLEuXJWa7aRAfjVzbUXAzAkuh8X3P/O1VrKnW3dl22xmrLyYxSAP1l3u013ulMnXq8DVnp1hW7pOdtcO10dJyKVHAsANlKcAakYlYujfJpl5WIfV2R+D3M=;d1AgDkEBVCBPjWneXuetJg=="
 ---
 
