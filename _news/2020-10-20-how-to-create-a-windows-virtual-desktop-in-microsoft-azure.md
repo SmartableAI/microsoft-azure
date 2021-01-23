@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Yellow Messenger integrates Microsoft Azure cognitive services on its platform"
+    excerpt: "Microsoft is working with Yellow Messenger to use AI services to make automated voice customer services with virtual assistants feel more natural and human to human during interactions"
+    publishedDateTime: 2021-01-23T08:16:00Z
+    webUrl: "https://www.neowin.net/news/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform"
+    ampWebUrl: "https://www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/yellow-messenger-integrates-microsoft-azure-cognitive-services-on-its-platform/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 110
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/01/1611405390_yellow_messenger__story.jpg"
+        width: 760
+        height: 429
+        isCached: true
   - title: "Microsoft Azure announces its first region in Austria"
     excerpt: "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,"
     publishedDateTime: 2020-10-20T16:52:00Z
