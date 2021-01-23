@@ -50,6 +50,20 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
     publishedDateTime: 2021-01-19T13:25:00Z

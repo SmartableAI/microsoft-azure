@@ -58,6 +58,20 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
+        isCached: true
 
 secured: "tW7lcxu5PYopk8ulaft33t4jcCHA49DL9uq99Znn0AEHoUVuOHpDyJtRDlTDM5bXJa3MAUCNuS2pRNnlzQq8Tn0Vr2tw6ygE94cDkvxRdUE0gshH9x0CywARvfegRWwzks40vLWpMKkMBQueRBLxfFpk6zdpsZqvZQoBUphVSA2vwN2bO5D3cbW7oOeAfuiBR5NnOSmMr5R06PsktRW50RmDeUufVuKOoRzByQExQZxQB8vHXMYawdvdNoKIN9LbM1VJ1yITxM9S7SNBcq23L5954fFWLmQSKHzX39qEjrkybHfCWFpDwwfQbnCYai6ufeP0o3kQ2S2hv8Zi1poIfxR2AXoi3+RJxrFK8bqJjNU=;+9A5t9ZqNPDu7MwBqu0u7Q=="
 ---
