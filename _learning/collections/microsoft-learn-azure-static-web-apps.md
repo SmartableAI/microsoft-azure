@@ -4,7 +4,7 @@ excerpt: "Azure Static Web Apps is a modern web app service that offers streamli
 type: collection
 price: Free
 length: PT1H54M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
