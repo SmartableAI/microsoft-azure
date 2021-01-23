@@ -203,6 +203,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-21T05:30:00Z
+    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 69
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+        width: 740
+        height: 493
+        isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -574,6 +588,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "OsYAya45D63asFrFMLNMfXHXyZGA3q5jSOrEv+a2OgrHQGo1/rXTRObqETXV+AW2/U/kpr3NHRwxEf2fuaeJn3n0qI+s7jgGGMs/WDFqFGhJ+48SNdW8OWxMR2NAwgWlI4FP1K9oaijhPjQsRW+VV8ZtD8VfKRN4hH8GzYNCjEXZG5xqSPQHNlCjqiLGqt+hbvUWaIwd6c+xBknm02LSpvraZE+kcsNUGt9kGsN0m1GGKb7WmyjMeknxzQDB9ZyhNSX4j78OKlRsnpUBT2jZYaKp6aSus9wY5J7Bsr+Lah5mXSxE9eT7Gp+idzEHfDSOHeTh8N2Qv3INny4uTfYxR4wMal1DPz1Nu6VAGwzSYlE=;UklGvUUSoUbSrYbG31QcJQ=="
+secured: "9+sCK6LG7ppVBKXSTm2xYqafuSwW2e9m2HXN3wPo/y2HKpSf49jEpjLaEZOe8WKJYajqIelKBvHGcDWOuvCg1x0vGuXxvlLnAKllUF+upfyj+iOlqQq4exNUvN8AU36pcr/gVaGp2IhNATQ7EipJLUyy1Nry7MJ90PSY2AEOxYbUc1cMwkBtlWImmfEZOJY3djG++eT/A+OtT6nmgV6aDsGDaxKffvoZ17rFqo6yoxu9EIokMjX3tO0roR8n2xls6Tu3QbolpkuWMkYCXq33FvY9Z809fM/w7jpVWq+g9edl0mfy2omn7SEp8SOG3kYNKYjK1aXmPqsxzb+trozcetHOyZIkddLzlnnqnxBDa+g=;vwPkK4mUbs+qchfQgPcdmQ=="
 ---
 

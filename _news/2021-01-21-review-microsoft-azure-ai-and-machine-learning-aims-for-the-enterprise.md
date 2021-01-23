@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
-excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
-publishedDateTime: 2021-01-06T18:37:00Z
-originalUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
-ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
+excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+publishedDateTime: 2021-01-21T05:30:00Z
+originalUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
 type: article
-quality: 53
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
-    width: 620
-    height: 250
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+    width: 740
+    height: 493
     isCached: true
 
 related:
@@ -204,20 +203,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
-  - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-    publishedDateTime: 2021-01-21T05:30:00Z
-    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 69
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
     publishedDateTime: 2021-01-11T14:00:00Z
@@ -256,6 +241,22 @@ related:
     quality: 53
     images:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2019/11/GettyImages-1043751588-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "Microsoft, Seneca and RBC to offer free Microsoft Azure Fundamentals workshops"
+    excerpt: "graduates and professionals seeking to acquire in-demand digital skills through free Microsoft Azure Fundamentals workshops. The workshops will comprise two-day, eight-hour short courses that Microsoft Canada says will enable participants to learn ..."
+    publishedDateTime: 2021-01-06T18:37:00Z
+    webUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888"
+    ampWebUrl: "https://www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/microsoft-seneca-and-rbc-to-offer-free-microsoft-azure-fundamentals-workshops/116888?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 53
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2021/01/GettyImages-1212272710-620x250.jpg"
         width: 620
         height: 250
         isCached: true
@@ -587,6 +588,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "HwbYR9ZRWtXfncDWY2eKY3TXGl4U10bS4LZznMNSKf/ettv621CPihdfqWf3QpxF5CDZQwOxEReMgVFBQinvADnP0IxZQU/A15zBjW7WS0LBJtmrIbN1HcUMIlcHlWM059EMwIUMkZIX6ClP5Lm5YQB0cg8MknVX9tUwDnXhgrVgu3jr5pDnxHYVuf3y8eGfZVtq4iXGVmGr/rRoTJfuNggMOw6/f8T6xub2YIvL9wBjM0QDvyBGtREdzaIyhnziNHf2PJ4pgrlPOGOMf86AFBr0+IFCBHIpmEiAM0KvPmzwVxswNLXuzSU1gEdmQZOjPhoV15ZlFTCAozbsn/oCrBIZf6Ra8KZwWnp6UD4FkUU=;g4W+n6Yl5FMopFE+P0l1Mg=="
+secured: "44SicKrFePI6JtbaChYt+S7uCtwF/FPFVGeyJm/1Rlu1+ZWdiMDPyP/x9nyCJbAsX+/M3d3i4lAiUHS8MZMZyyOe7FdA2UhKXCCTqEhmeW7YDH+effV9N4c/h7L9aDDaEoUskYPzJiwWYy1cEADZKQNhKhlTqgnoojvUXt4CXp1nif0A9aDFAaFuc7zcdFKivA5qMf+4SpzcYNvHRv8el4FpYGlxbY5yUvgWuwUAXGENK9v9ARh7re4EZs2KPG6rTOM3SHgWILm1k7I0jsfjuvNJVk1my/N68UOBk/k2NyFMfO/qzWgxViiTv1Bd4j7oUwToZAxjMxA7JxkkDXclBiBG7L/w4Uz4mDddgrtm8bY=;PuUFrkq1D3a+7LQjewwvVw=="
 ---
 
