@@ -4,6 +4,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 125,
+        "average": 4.512
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-web-app-with-refreshable-models.md",
       "title": "Build a Web App with Refreshable Machine Learning Models",
       "excerpt": "Build a web app powered by machine learning models trained using Custom Vision AI service, and learn how to refresh them with GitHub Actions.",
@@ -649,50 +693,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
-      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
-      "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 929,
-        "average": 4.4940796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer Tools",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
       "title": "Identify governing practices for responsible AI in government",
       "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
@@ -786,8 +786,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
       "length": "PT56M",
       "ratings": {
-        "count": 864,
-        "average": 4.7002316
+        "count": 865,
+        "average": 4.700578
       },
       "provider": {
         "name": "Microsoft Learn",
