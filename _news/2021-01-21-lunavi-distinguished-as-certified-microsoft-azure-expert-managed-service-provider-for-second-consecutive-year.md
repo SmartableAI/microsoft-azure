@@ -7,7 +7,7 @@ originalUrl: "https://www.morningstar.com/news/business-wire/20210120005181/luna
 webUrl: "https://www.morningstar.com/news/business-wire/20210120005181/lunavi-distinguished-as-certified-microsoft-azure-expert-managed-service-provider-for-second-consecutive-year"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Azure
 
-related:
-  - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
-    excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
-    publishedDateTime: 2021-01-20T12:10:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/01/20/the-earths-atmosphere-has-been-modelled-in-microsoft-azure-as-part-of-a-project-to-tackle-climate-change-caused-by-aviation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 10
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/01/190913165136-a7-bbg-qatarairways-777-2dz-lr-akl-doh-20190613-epx27085-cnn-web-768x432.jpg"
-        width: 768
-        height: 432
-        isCached: true
-
-secured: "tBrFHJnna0c+TOfhIJgeAC3T3ofJsgcIInYS94GjiHDFfCmyLK4Bfrq8YrQE9374rApx/Hm090QMCCk5ed1jHDwjhrjd6fKJ6XEopuOqdKruM7iZBJJYroDSToKRFJVRvuaf13xVsZwwuSSozxUn8R5Nee0qIgdB+LG/Ql6WGzHG3619u6X5XlcJ4tFZFDTXVtiW4M7o+nVTjsiWMmcJQlmjMOB1oN15/Kyi1F83UN00KB2J1wrGVQkB8UXYr+lI/TJbo4t3F26ROF9JU1zgmEapkAvgcJ4AKO6yyHqWDs3KNFLeoI4bcjkXnOxDifvNpLHyGcI0gq3IWxI9d9kScOitWTUCLkyYQdj17nReDXI=;eZFAG57KFcKTTAB22WXy7Q=="
+secured: "YgHJzH02cAsQBRsPfeV83IC2vG/pG0ykGe1QVYmt/QEOvdND09aoeD3/T2+9VYBS5iCKl4l+d90VoEZbHyzKruIuBoxjeApN1ijmdTiPGtcQJ62hvQIDkaxss6ZgB3hFOy/AoyFJsF7obkoCJLwCxDSIJfSRIo33JQApMJ0G1ml4KGLZWheAIUFlqvyOjfaXbyU0zsjiT2mDCElpX8w+aGZTdvx201y9eXnUn+eqMRT9bSDE9xT377NF+iN41ymUpepk31P64AYwwRCfSAJ6KhAVgVcSWc1Mz0cQeakpOPWcNo7mgW+8KG7V4tey7xEiYVWbNV5ksNCrsCS4WrMwy5RzXzzic8qLI2xE4SttrWg=;9qzO50/pCLc6Pq6Qc2EFZg=="
 ---
 
