@@ -21,100 +21,79 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor Network Insights is now generally available"
-    excerpt: "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights"
-    publishedDateTime: 2021-01-21T17:02:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/"
+  - title: "New Windows Virtual Desktop capabilities now generally available"
+    excerpt: "With the global pandemic, customers are relying on remote work more than ever, and Windows Virtual Desktop is helping customers rapidly deliver a secure Windows 10 desktop experience to their users."
+    publishedDateTime: 2020-07-27T11:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/new-windows-virtual-desktop-capabilities-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "LIKE keyword support now generally available in Azure Cosmos DB"
-    excerpt: "Announcing support for LIKE keyword, a popular SQL keyword for doing text search in Azure Cosmos DB."
-    publishedDateTime: 2021-01-21T17:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/like-keyword-support-now-generally-available-in-azure-cosmos-db/"
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f55af93e-678e-415a-9906-f3bdba2f1933.jpg"
+        width: 1024
+        height: 641
+        isCached: true
+  - title: "Windows Virtual Desktop is now generally available in the Azure Government cloud"
+    excerpt: "Simplify and secure your virtualization infrastructure, in the cloud, with Windows Virtual Desktop."
+    publishedDateTime: 2020-10-16T15:50:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-is-now-generally-available-in-the-azure-government-cloud/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure Cosmos DB Management with PowerShell cmdlets is now generally available"
-    excerpt: "Manage Azure Cosmos DB resources using PowerShell cmdlets in the Az.CosmosDB Powershell module—providing full support for all features in general availability for Azure Cosmos DB and across all API’s."
-    publishedDateTime: 2021-01-21T17:00:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/"
+    quality: 62
+  - title: "Windows Virtual Desktop Gets Azure Portal and Teams Client Support"
+    excerpt: "The Windows Virtual Desktop (WVD) service now has Azure Portal integration, plus Audio/Video (A/V) Redirect support for Microsoft Teams client sessions, Microsoft announced on Monday."
+    publishedDateTime: 2020-07-28T23:20:00Z
+    webUrl: "https://redmondmag.com/articles/2020/07/28/windows-virtual-desktop-support.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2016/0916VRM_Take5.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Azure Archive expanded capabilities now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-04-23T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-archive-expanded-capabilities-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available"
-    excerpt: "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column."
-    publishedDateTime: 2021-01-21T17:01:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/"
+    quality: 17
+  - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
+    excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
+    publishedDateTime: 2020-07-30T00:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-client-for-android/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 81
-  - title: "Azure Backup: Encryption at rest using customer-managed keys is now generally available"
-    excerpt: "Encrypt your backups using customer-managed keys for more security and control."
-    publishedDateTime: 2021-01-18T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/"
+    quality: 16
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/3358bb18-b443-4c0d-9823-f95637177398.png"
+        width: 1080
+        height: 2280
+        isCached: true
+  - title: "Azure Virtual WAN: Multiple capabilities and new partners now generally available"
+    excerpt: "Today we are announcing the General Availability of multiple enhancements in Azure Virtual WAN, including hub-to-hub, custom routing and transit capabilities."
+    publishedDateTime: 2020-07-06T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-virtual-wan-multiple-capabilities-and-new-partners-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
-  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
-    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
-    publishedDateTime: 2021-01-21T17:02:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
-  - title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
-    excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
-    publishedDateTime: 2021-01-21T17:01:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
-  - title: "The Azure Quota REST API to manage service limits (quotas) is now generally available"
-    excerpt: "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning. Take advantage of this capability to query current usage and quotas for the supported resources and update these limits."
-    publishedDateTime: 2021-01-20T01:29:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 60
-  - title: "Automatic tracking of click events with Application Insights is now available"
-    excerpt: "Azure Monitor Application Insights JavaScript SDK Click Analytics Plugin provides automatic tracking of click events on web pages."
-    publishedDateTime: 2021-01-21T17:01:52Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-tracking-of-click-events-with-application-insights-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 49
-  - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
-    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2021-01-21T17:02:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-germany-west-central-uae-north-switzerland-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 38
-  - title: "Custom Commands is now generally available"
-    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
+    quality: 12
+  - title: "Enable remote work faster with new Windows Virtual Desktop capabilities"
+    excerpt: "In the past few months, there has been a dramatic and rapid shift in the speed at which organizations of all sizes have enabled remote work amidst the global health crisis. Companies examining priorities and shifting resources with agility can help their employees stay connected from new locations and"
+    publishedDateTime: 2020-05-01T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/"
     type: article
     provider:
       name: Microsoft

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-23-generally-available-copy-blob-support-over-private-endpoints-in-azure-storage.md",
+      "title": "Generally available: Copy Blob support over private endpoints in Azure Storage",
+      "excerpt": "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west.md",
+      "title": "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  ",
+      "excerpt": "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:02:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-azure-site-recovery-update-rollup-53-is-now-available-january-2021.md",
       "title": "Azure Site Recovery update rollup 53 is now available - January 2021",
       "excerpt": "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components.",
@@ -97,22 +183,22 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-azure-monitor-network-insights-is-now-generally-available.md",
-      "title": "Azure Monitor Network Insights is now generally available",
-      "excerpt": "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights",
+      "path": "_news/2021-01-21-changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available.md",
+      "title": "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available",
+      "excerpt": "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:02:06-08:00",
+      "publishedDateTime": "2021-01-21T09:01:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -184,6 +270,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available.md",
+      "title": "Azure Cosmos DB Management with PowerShell cmdlets is now generally available",
+      "excerpt": "Manage Azure Cosmos DB resources using PowerShell cmdlets in the Az.CosmosDB Powershell module—providing full support for all features in general availability for Azure Cosmos DB and across all API’s.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:00:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-azure-iot-edge-for-linux-on-windows-available-for-public-preview.md",
       "title": "Azure IoT Edge for Linux on Windows available for public preview",
       "excerpt": "Azure IoT Edge for Linux on Windows provides the ability to run Linux containers on Windows under the Azure IoT Edge context.  This allows you to connect your Azure IoT Edge for Linux instance to your Azure IoT Hub subscription and deploy your custom Linux Edge Modules to Windows devices.\n",
@@ -248,6 +377,48 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-the-azure-quota-rest-api-to-manage-service-limits-quotas-is-now-generally-available.md",
+      "title": "The Azure Quota REST API to manage service limits (quotas) is now generally available",
+      "excerpt": "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning. Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T17:29:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -396,6 +567,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-azure-backup-encryption-at-rest-using-customer-managed-keys-is-now-generally-available.md",
+      "title": "Azure Backup: Encryption at rest using customer-managed keys is now generally available",
+      "excerpt": "Encrypt your backups using customer-managed keys for more security and control.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T09:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools"
       ]
     },
     {
@@ -929,236 +1143,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-jumping-into-azure-arc-data-services.md",
-      "title": "Jumping into Azure Arc Data Services",
-      "excerpt": "Key to Windows Server’s future is Microsoft’s hybrid cloud strategy which gives equal weight to on-premises hardware and its Azure hyperscale cloud. Technologies such as Windows Admin Center and Azure Arc bring Web-based monitoring and administration to your servers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.html",
-      "originalUrl": "https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/09/boy-jumping-off-swing-100772498-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602654/jumping-into-azure-arc-data-services.amp.html",
-      "publishedDateTime": "2021-01-05T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it.md",
-      "title": "Microsofts Azure Modular Datacenter: What's 'special clouds' got to do with it?",
-      "excerpt": "Microsoft's Azure-in-a-shipping-container offering could figure prominently in its cyber-sovereignty and 'special clouds' efforts in the year to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/01/04/47c6f569-83c7-45bf-86db-d69b30e6d5f3/azuremodular.jpg",
-          "width": 1223,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "publishedDateTime": "2021-01-04T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-azure-automation-is-now-available-in-germany-west-central.md",
-      "title": "Azure Automation is now available in Germany West Central",
-      "excerpt": "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T11:01:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-public-preview-support-of-azure-container-registry-across-availability-zones.md",
-      "title": "Public preview: Support of Azure Container Registry across Availability Zones",
-      "excerpt": "Announcing the public preview support of Azure Container Registry across Availability Zones",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T09:00:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-crowdstrike-releases-free-azure-security-tool-after-failed-hack.md",
-      "title": "CrowdStrike releases free Azure security tool after failed hack",
-      "excerpt": "... was notified by Microsoft that threat actors had attempted to read the company's emails through compromised by Microsoft Azure credentials. Earlier this month, it was discovered that the SolarWinds network management company suffered a cyberattack ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2020/12/25/crowdstrike-header.jpg",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
-      "publishedDateTime": "2020-12-25T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

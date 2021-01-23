@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
-excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
-publishedDateTime: 2021-01-21T17:01:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
+title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
+excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
+publishedDateTime: 2021-01-23T04:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
+webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
 type: article
-quality: 65
-heat: -1
-published: false
+quality: 95
+heat: 215
+published: true
 
 provider:
   name: Microsoft
@@ -20,18 +20,9 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Storage
 
 related:
-  - title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
-    excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
-    publishedDateTime: 2021-01-23T04:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
   - title: "Azure Monitor Network Insights is now generally available"
     excerpt: "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights"
     publishedDateTime: 2021-01-21T17:02:06Z
@@ -59,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
+    excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
+    publishedDateTime: 2021-01-21T17:01:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "Private endpoints for Azure File Sync are now generally available"
     excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
     publishedDateTime: 2020-07-09T21:00:12Z
@@ -78,6 +78,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "yW8c+aTz08FLspLIvHCjyftq7sKgv8vuTz7QhgXpgRPIeOXZvy8qm74lKkSR2/r9ug4zfn6WC1p8D5oqLstdWWUFhMoCbnwfJcmM9o92R37eGAbgBTWqJtbpRWzpuWfRHt8i7tvdys9WiS0EoifI9FN2ts/oqFzs9MaPpFgmiEy7xDEScuVKqbdvkwY7KsUN/Xu8mVzndgMqsKjgzAZ/mA7w+sg2/K3XRCGMq3t0ldOK+pTIwgOW5LCh2XCiFgbz8FRNrEcJpjHhygR7KagIq8SZ5yFu5EuXYOHyMNGbr1ZqwDMHx+0vtbT5LOZXLqq2dUYuv5F49aW/+puPp4k6mUmvitS52vExISPotuR7Log=;vGJUFiKInYKKdofmf6AdTA=="
+secured: "FXUJytZi58nBo0Qhnfty2v0zBHI0frp8BwW1jlrVqo8ytE1Cxp9yo0mHYRy9RIgBQvJpgn//+v8PElTisWpyUTY35Ag6hPYq1wFaNIHMBcOMgLsWuIWec3luicb2SZJ4E5IgtqBQzrKJtlSsCZiXPLzdicYOHUdM96zUboTO5YXNqFkoQt6xKkvuxpx/eEN3WLoTkEmsfrgge6K42WLDjbIex/x6Su0errbHCMkCRXEvlqaba+dfLRzuj7DnFEtrV28LKQ11yOVGUwBLGZOe9/IPbwa+LWI+jbSkGff8UgukvC7fDxW3YCA2y4kpoaIrY9jZN1MzLVXK5CP7R0PkhNFi7aUsdhq118P865RLX8Q=;fB4TaLiUBF2sJOFcfPsUbg=="
 ---
 
