@@ -2,9 +2,9 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+publishedDateTime: 2021-01-18T09:11:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
 type: article
 quality: 34
 heat: -1
@@ -588,6 +588,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "w5xaO0k45RgkRD0njwwwUsLyWLETqJqo5vY1YgWh2LjST39rhChTZdN6H1gHYZElJQDxRagTo6ygZILmcYW8h9TRiXZQIhSyzJ0k2g6x9FCNxXFCpb84U4RQo0/yEqHi/FI/SnZ7fmmszX4Boz88hGAHnQJxLqn5l+jjAYirqCRF3CJuQoK8DClrjM7PTYZaOwWuFt4Vkz7qKZG1NOodmA7K7txp3QhCRNNj6nSOsJPLqKlYVN/UmHZ7dZvW1P4/Gmc3O6j9Zs9OntMPqp4TpAqYKbTfOVxVq35rK2iadTVBL088f+q3bfMRADzCgXYBW+2oXaXGaABXo1byK/Ge476KAz9FE7bq2f7scroXRtM=;iuD/H5d04BUF5mU12lmSgA=="
+secured: "JC/aeBgZGmsx6QmYrwhwTJ9CKEo3/tV4I5/nKpC6ZjQSNTtYmkzlLks2qCcALdAxNfnsJH+1FE4FjkrtMVT+IhbEgjPlhaDoogDKXgHbELs7+b/ygB6ZqOYRNXOq42MJGZ4H8o5GtqIMRO0JtLi5sIP5oBRmCSu8cjb4O95rQx5rJSZycU0ae2P/PElwhj4hym9xPPJqC0jxBentKXEbUjN042jfzUJ2qn6Y1oygWEP/5eAVX1TfbED5mBPsMfS+2Lcld0U8R0w4OVj2snBHHTdzz6tiIJ0S3MGPkEhyQcEY9golze7zV4IywwPLgNc0UtyMjg95+0KUozPwsbRhEwXX8s8Ds56x2VxRm2DLlr8=;AjIr8+Bh4Skqy6ZQKpJ0iw=="
 ---
 
