@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 20205,
-        "average": 4.7827272
+        "count": 20225,
+        "average": 4.7825956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -111,8 +111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20205,
-            "average": 4.7827272
+            "count": 20225,
+            "average": 4.7825956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -153,8 +153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 10452,
-            "average": 4.80597
+            "count": 10466,
+            "average": 4.805943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -197,8 +197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 4970,
-            "average": 4.791348
+            "count": 4976,
+            "average": 4.7915998
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -261,8 +261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 10452,
-        "average": 4.80597
+        "count": 10466,
+        "average": 4.805943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,15 +298,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
-      "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-      "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-retail.md",
+      "title": "Define an AI strategy to create business value in retail",
+      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in retail that creates business value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-retail/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-retail/",
+      "length": "PT40M",
       "ratings": {
-        "count": 664,
-        "average": 4.7138553
+        "count": 680,
+        "average": 4.772059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,12 +323,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-retail-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -336,19 +336,20 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
-      "title": "Virtualize memory",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
-      "length": "PT19M",
+      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines.md",
+      "title": "Migrate SQL workloads to Azure virtual machines",
+      "excerpt": "Migrate SQL workloads to Azure virtual machines",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/",
+      "length": "PT25M",
       "ratings": {
-        "count": 65,
-        "average": 4.353846
+        "count": 84,
+        "average": 4.6309524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -363,14 +364,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
-          "width": 1000,
-          "height": 500,
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -378,20 +379,23 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Compute"
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud.md",
-      "title": "How to deploy Steeltoe .NET apps to Azure Spring Cloud",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud/",
-      "originalUrl": "https://youtube.com/watch?v=_RGvAQXz4-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_RGvAQXz4-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M53S",
+      "path": "_learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache.md",
+      "title": "Work with mutable and partial data in Azure Cache for Redis",
+      "excerpt": "Learn how to create transactions, manage memory, and use the cache-aside pattern with Azure Cache for Redis",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mutable-and-partial-data-in-a-redis-cache/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mutable-and-partial-data-in-a-redis-cache/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 661,
+        "average": 4.621785
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -402,21 +406,17 @@
           }
         ]
       },
-      "publishedDateTime": "2020-11-12T16:17:28-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_RGvAQXz4-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Intermediate"
       ],
+      "heat": 130,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Management Tools",
+        "Databases"
       ]
     },
     {
@@ -450,8 +450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20205,
-            "average": 4.7827272
+            "count": 20225,
+            "average": 4.7825956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -492,8 +492,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4325,
-            "average": 4.708902
+            "count": 4327,
+            "average": 4.708805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,8 +538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3733,
-            "average": 4.7559605
+            "count": 3740,
+            "average": 4.75615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2940,
-            "average": 4.744558
+            "count": 2942,
+            "average": 4.7440515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -710,8 +710,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139295,
-            "average": 4.700614
+            "count": 139298,
+            "average": 4.7005916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 4970,
-        "average": 4.791348
+        "count": 4976,
+        "average": 4.7915998
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +893,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20205,
-            "average": 4.7827272
+            "count": 20225,
+            "average": 4.7825956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -935,8 +935,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 2864,
-            "average": 4.767458
+            "count": 2866,
+            "average": 4.7665734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -978,8 +978,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 2259,
-            "average": 4.7087207
+            "count": 2260,
+            "average": 4.708407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1021,8 +1021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2012,
-            "average": 4.7460237
+            "count": 2013,
+            "average": 4.7451563
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,6 +1084,52 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 4327,
+        "average": 4.708805
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
       "title": "Azure Portal “How To” Series",
       "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
@@ -1124,7 +1170,7 @@
             ]
           },
           "publishedDateTime": "2021-01-15T16:37:10-08:00",
-          "heat": 91,
+          "heat": 87,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
@@ -1163,7 +1209,7 @@
             ]
           },
           "publishedDateTime": "2021-01-15T08:02:12-08:00",
-          "heat": 83,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/VRJA5bn2VH0/maxresdefault.jpg",
@@ -1261,7 +1307,7 @@
         }
       ],
       "size": 49,
-      "heat": 99,
+      "heat": 98,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
@@ -1278,52 +1324,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 4325,
-        "average": 4.708902
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 99,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -1331,8 +1331,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 3733,
-        "average": 4.7559605
+        "count": 3740,
+        "average": 4.75615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1614,8 +1614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139295,
-            "average": 4.700614
+            "count": 139298,
+            "average": 4.7005916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1748,45 +1748,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series.md",
-      "title": "How to get a visualization view of your resources | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=wudqkkJd5E4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wudqkkJd5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-15T16:37:10-08:00",
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-5-describe-identity-governance-privacy-and-compliance-features.md",
       "title": "Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features",
       "excerpt": "Learn how Azure can help you secure access to cloud resources, what it means to build a cloud governance strategy, and how Azure adheres to common regulatory and compliance standards.",
@@ -1817,8 +1778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20205,
-            "average": 4.7827272
+            "count": 20225,
+            "average": 4.7825956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1859,8 +1820,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 1847,
-            "average": 4.769356
+            "count": 1848,
+            "average": 4.7694807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1945,8 +1906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 1730,
-            "average": 4.731792
+            "count": 1731,
+            "average": 4.731947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2042,8 +2003,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 3057,
-        "average": 4.6221786
+        "count": 3060,
+        "average": 4.6218953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2075,6 +2036,45 @@
       "topics": [
         "Azure",
         "Networking"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series.md",
+      "title": "How to get a visualization view of your resources | Azure Portal Series",
+      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=wudqkkJd5E4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wudqkkJd5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M38S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-15T16:37:10-08:00",
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
       ]
     },
     {
@@ -2121,8 +2121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 2864,
-        "average": 4.767458
+        "count": 2866,
+        "average": 4.7665734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2164,8 +2164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 2268,
-        "average": 4.7738094
+        "count": 2271,
+        "average": 4.7732277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2432,8 +2432,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20205,
-            "average": 4.7827272
+            "count": 20225,
+            "average": 4.7825956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2474,8 +2474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2365,
-            "average": 4.736152
+            "count": 2372,
+            "average": 4.7365093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2517,8 +2517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 2516,
-            "average": 4.7758346
+            "count": 2517,
+            "average": 4.7751293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2612,8 +2612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
       "length": "PT32M",
       "ratings": {
-        "count": 2516,
-        "average": 4.7758346
+        "count": 2517,
+        "average": 4.7751293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2647,44 +2647,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks.md",
-      "title": "How to get started with Azure Communication Services (Part 2 of 2) | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Communication Services for SMS and how to send SMS messages.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=XH4bNXwZPyk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XH4bNXwZPyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M31S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-12T11:46:16-08:00",
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-account.md",
       "title": "Create an Azure account",
       "excerpt": "Find out how to start using Azure by creating an account where you’ll see services and personal settings for identity, billing, and preferences.",
@@ -2692,8 +2654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 139295,
-        "average": 4.700614
+        "count": 139298,
+        "average": 4.7005916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2720,14 +2682,57 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series.md",
-      "title": "How to use Azure Cost Management views | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about built-in cost views in #Microsoft Azure Cost Management and how to create your own custom views.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal   Make",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=VRJA5bn2VH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VRJA5bn2VH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M2S",
+      "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
+      "title": "Explore Azure Storage services",
+      "excerpt": "Learn about the different storage options that are available in Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 2942,
+        "average": 4.7440515
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks.md",
+      "title": "How to get started with Azure Communication Services (Part 2 of 2) | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Microsoft Azure Communication Services for SMS and how to send SMS messages.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=XH4bNXwZPyk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XH4bNXwZPyk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M31S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -2740,11 +2745,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-01-15T08:02:12-08:00",
-      "heat": 83,
+      "publishedDateTime": "2021-01-12T11:46:16-08:00",
+      "heat": 82,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VRJA5bn2VH0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2754,8 +2759,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management tools"
+        "Azure"
       ]
     }
   ],
