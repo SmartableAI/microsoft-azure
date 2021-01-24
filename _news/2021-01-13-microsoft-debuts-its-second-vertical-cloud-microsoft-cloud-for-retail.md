@@ -3,13 +3,13 @@ category: news
 title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
 excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
 publishedDateTime: 2021-01-13T10:03:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
-heat: 202
+heat: 201
 published: true
 
 provider:
@@ -117,6 +117,6 @@ related:
         height: 960
         isCached: true
 
-secured: "EWgtj3hBO9rwyGuZdhVa2E0VfETGBRJqrWOruS7OH17pXXT+XrCoo+X8SZYQj271DIslnvX8lPo9GEjCszEg6sk/otIzepvEOCXzf06FcJNtVUkjKCyAnJ65dS+YeINITpesRTqFcANSRVT3wd3/WDg+uixEOShWHMzmt/U6ZDXzh+3WPMDaGatYHMZlMV2oILZaxpB3qoHbM+JkYvJ0LNUKJnStSNu5ODil/9KQB0BuMTQ6U4bnX+yychhOikeo9gOietj3FAQXjdMUGF/UDhdJpenTm/FacQ0F3byh4qGjPyla769G/ac4tIbHCf7elHawzpYD6bqHMxszphtW6WjMJhcND7v0oqqJ65X3ibY=;oZd6AVFwAz1CNvjch5NOMA=="
+secured: "py3OQQ8ESCd4i00s4Slv9o77H8C9sWdUzpU1h1Ae57z8MVlwJ+iG17WlZpUDrcjM9oNtffeUgfpvOSGofWFkAXVZEKuP7WocltUyOhhOhE2tNWgQuW+gBlFxIml33ZFaozmuAW8+yptzFVrFmelm8nI8I702dC6Jb8p7D/yNFTnYrrV9oC8qRuoSmLA32eOj5V0Rhqq4i8E8XlJh8YG0v4anO77l/84Di2p7jH5mrrZT+kkyNNWY932XqP8cYPMUfK+ytd7TNsutT59g4C5HeQ+GpwGlMErFhcRpwkP/lgBZkwUNV6p9XfKAcJanDhpYqKqivxYWKG/XndaKAzayd2NF0HuQqsxTc7QiBImLOvw=;GPraPkpnpAg9+TOSGoKEww=="
 ---
 
