@@ -3,13 +3,13 @@ category: news
 title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
 excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
 publishedDateTime: 2021-01-13T10:03:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+originalUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
-heat: 201
+heat: 202
 published: true
 
 provider:
@@ -117,6 +117,6 @@ related:
         height: 960
         isCached: true
 
-secured: "JYb+d8bsAED9mqFb6xUT+9S6+rXA3cTrQbV4jHXU8K9jVbKgdXcqEmfOVMhMyZ8LAJF6z1TMldtv3TCUM3Y5sWzEHob9Cz0w581uFzejpeR3jptX7/23XbELmOndEvJjaZZk5NJ9FTaxyXVBT5JJXhnwWw6p5j3xWyqz+pyMY+e2+NzpGIFvLxsabH3w9wHCd/WuStDasev3rlJrtox34DuTuMMMLs0TQ9JszcziVWtd8R0k1284Ay/sIrukQxBFD+qhRWORmydre0DC8rYUdvfchQFb2p8wY5FEhZ+0krr+n3hctpDetJ+vnj5JwsnqFjjG4xSqEUyuH1v4RZsDuonkEqNLebTVA/m+9s060eE=;GXQ2J5RlT3Z8Uhk4kHxdCA=="
+secured: "EWgtj3hBO9rwyGuZdhVa2E0VfETGBRJqrWOruS7OH17pXXT+XrCoo+X8SZYQj271DIslnvX8lPo9GEjCszEg6sk/otIzepvEOCXzf06FcJNtVUkjKCyAnJ65dS+YeINITpesRTqFcANSRVT3wd3/WDg+uixEOShWHMzmt/U6ZDXzh+3WPMDaGatYHMZlMV2oILZaxpB3qoHbM+JkYvJ0LNUKJnStSNu5ODil/9KQB0BuMTQ6U4bnX+yychhOikeo9gOietj3FAQXjdMUGF/UDhdJpenTm/FacQ0F3byh4qGjPyla769G/ac4tIbHCf7elHawzpYD6bqHMxszphtW6WjMJhcND7v0oqqJ65X3ibY=;oZd6AVFwAz1CNvjch5NOMA=="
 ---
 
