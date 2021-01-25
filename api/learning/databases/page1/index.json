@@ -4,6 +4,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions.md",
+      "title": "Introduction to implementing lambda architecture for IoT solutions",
+      "excerpt": "An overview of the concepts and resources behind storage technologies used in IoT applications on Azure. After completing the module, you can determine when to use Blob storage, Data Lake storage, Azure Cosmos DB, and Time Series Insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-lambda-architecture-iot-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 461,
+        "average": 4.6290674
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 132,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +71,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 20419,
-            "average": 4.7832413
+            "count": 20436,
+            "average": 4.78303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4375,
-            "average": 4.7094855
+            "count": 4381,
+            "average": 4.7098837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3787,
-            "average": 4.757856
+            "count": 3791,
+            "average": 4.7581115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 2987,
-            "average": 4.7458987
+            "count": 2991,
+            "average": 4.7462387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 4375,
-        "average": 4.7094855
+        "count": 4381,
+        "average": 4.7098837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -657,8 +694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8476,
-            "average": 4.648537
+            "count": 8477,
+            "average": 4.6485786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -944,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4375,
-            "average": 4.7094855
+            "count": 4381,
+            "average": 4.7098837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1148,8 +1185,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3093,
-            "average": 4.6686068
+            "count": 3096,
+            "average": 4.6689277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1330,8 +1367,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12133,
-        "average": 4.6737823
+        "count": 12134,
+        "average": 4.673809
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1389,8 +1426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3093,
-            "average": 4.6686068
+            "count": 3096,
+            "average": 4.6689277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1475,8 +1512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1028,
-            "average": 4.5311284
+            "count": 1030,
+            "average": 4.531068
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2273,8 +2310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6058,
-            "average": 4.7360516
+            "count": 6059,
+            "average": 4.735765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2440,8 +2477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
           "length": "PT35M",
           "ratings": {
-            "count": 4074,
-            "average": 4.650221
+            "count": 4075,
+            "average": 4.6503067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2476,8 +2513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2295,
-            "average": 4.681917
+            "count": 2296,
+            "average": 4.682056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2769,8 +2806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 632,
-            "average": 4.718354
+            "count": 633,
+            "average": 4.7187996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2913,8 +2950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
           "length": "PT25M",
           "ratings": {
-            "count": 21,
-            "average": 4.7619047
+            "count": 22,
+            "average": 4.681818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2959,8 +2996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
           "length": "PT30M",
           "ratings": {
-            "count": 15,
-            "average": 4.6
+            "count": 16,
+            "average": 4.5
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3540,8 +3577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 545,
-        "average": 4.8275228
+        "count": 547,
+        "average": 4.8263254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3621,8 +3658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 305,
-        "average": 4.760656
+        "count": 306,
+        "average": 4.761438
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3772,8 +3809,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1663,
-        "average": 4.276007
+        "count": 1664,
+        "average": 4.2764425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3879,51 +3916,6 @@
         "Azure",
         "Databases",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
-      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
-      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 4,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Databases"
       ]
     }
   ],
