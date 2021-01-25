@@ -75,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "New Azure Cloud Services deployment model in public preview"
+    excerpt: "Use Azure Cloud Services (extended support), now in public preview, to increase regional resiliency and gain access to new capabilities that the Azure Resource Manager-based deployment model provides. "
+    publishedDateTime: 2021-01-25T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "w8A9X08ppM+qV4vg0hJuY2+Al51Gt/SBaKBYwbSPEpp3IjyS9pXRHfuN43keIgbVbh72zXXs4x1lA6m7UodOomiJ1B7GPYefNUcNY7pYDFa6ca4XOqRxfsKa/fRBHSnL8g/RAuZXVQmUzsYvBaILdPL+LZ0fzI3Dif3c1cHux7RUN/B1A36+ZQ5L4fd7QvOpE1t36QY7IZnD4G/j+4SsMDPL98HWCXugalqXvKaZkbbkXZnvxqiHvfSeq/wM6AzdWBe9uH4rJx+yaRAgWuSCHFrP3ycCPn/kU4C0C9veglsOpqA7jB8FWqPVu081qwcKhi3y1NPVKGFPMxsowaG79Q==;Tw3dwIVUXGLWx8dG2pT5/w=="
 ---

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
+    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
+    publishedDateTime: 2021-01-25T17:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "UN1uYiXTE90swXoqSq8z2H03YKSxgpHeFdrpTVj2f02SjrfwhiFt2Hv4ST3o6lzTLd2lpo6UUsvHNkIm36XhoHaqJqOODuHA4ISZlJEqlDI/WRm88TRKLgy0PEKA1bgFbrhK4jmI8kAwTMmzxbQ+/RWkWAHOevxOdR/rk1nDnTD6Zs6v+VVsaWbOcyPdl7LNBy4xT7FheEDlllpyCxZDQWgOJYjEja0d6eeyOQBfAcGxVabM4Lk9PwfNgDKdxuG7uwn7z9whBTo5EUmUkTgjs3xhOu7PTvz0768y0Z5aqm4HP8ul+Y9oH0bm0WZ49+PjjgdMdM8YAZu7Vxlz5Py0deBnWaDQZsVOkx3XGH3ZeVY=;Mz7/Ik4ouCyTRP7829xx8Q=="
 ---

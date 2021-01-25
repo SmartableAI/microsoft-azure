@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "New Azure Cloud Services deployment model in public preview"
+    excerpt: "Use Azure Cloud Services (extended support), now in public preview, to increase regional resiliency and gain access to new capabilities that the Azure Resource Manager-based deployment model provides. "
+    publishedDateTime: 2021-01-25T17:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Kubernetes resource view is in public preview"
     excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
     publishedDateTime: 2020-08-05T16:00:01Z

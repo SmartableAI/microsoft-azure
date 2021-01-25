@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encrypt
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/"
 type: article
 quality: 76
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Management tools
 
 related:
+  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
+    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
+    publishedDateTime: 2021-01-25T17:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Encryption of backup data using customer managed keys is in public preview"
     excerpt: "Use self-managed RSA keys stored in the Azure Key Vault to encrypt your backups and maintain full control of your data. "
     publishedDateTime: 2020-08-12T16:00:29Z
