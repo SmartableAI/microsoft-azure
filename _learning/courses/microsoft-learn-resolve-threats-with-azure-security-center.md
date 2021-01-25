@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 1209
   average: 4.567411
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Bud7DHAvQ9MBNzjx/cFTIG3JgNxKSWT5G9+ib4iO+3kMwHjgxnIxWi0Bi6V9tak4428NhBAGOPtWymWT57TUz1ywMtmTxKeoL0LWCk/js9S0GO9MX+MNNbPCCQ93kmTaajYvsw4JdoGD7UD5GLsMcaeSh8QcCJn+z5RsYgcv8whfz3gfw7RbWtC9dW/FBky94vTp2HELtPRNAerDcvE/W7uH+YitbZSxi4zL5sZjJbaokdVy0Pcd8nMfgJ2+y/TTLj/qtRDVyY3E2pPqjSxs3GwwZ36jWpBsnnnodmpuyKLx0WwPh50+Aw5HEFp2EXVecM4Muq/qdCTM7MfipNRD78jX3UDPPvg8ZCvpeRVtshW8z1Y7BSbKeHb4xfcsggxaxI0ApAmTN8jWSWfULcyTmnozWhfEhblihFSvyhaJooo=;chegWwHQBT5rawzrYa/ZKQ=="
+secured: "96PtpBQ3JFA+I8y7Mbiiwu53nj+iek/xix5zlUWwCIHaQDVs/X/+hGezksyCOifhTpT56M118Dvb5APoqqUdpsiFcNPQP3amv4YwWMlJsphRl8pVxKv7Yg2nnzwCu3J/e6lCjdjRYiYsbyLSAT1nP302FTEXetYVAvl+Bd1durOUPcOrQ8D4UCP1nvLlxdPTCcmHm2PGnfAsChiheO2cW5sbfQqnuMdKLDrIB6Y215l5lGR9vMudBqiFmLEZrTa/Km072fNmkLHW3t5QBAbm+cMl3dKLVWNWKTRRXTrO2uPJI0FtM8Wupm23fFG3CJGbP5VjxQg+In3d8EsZ5pj/aG5+7bmODjzRvzncre3FBiAsX21nas3b7aaZCoEwm9rTttVm+ieQFnaJ0RVHhBtv1/l+VOzED3TgaWdenyBlXUA=;nVA7n6gzhz1b0TBTSd6n+A=="
 ---
 
