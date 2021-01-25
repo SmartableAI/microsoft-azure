@@ -36,6 +36,15 @@ related:
         width: 770
         height: 529
         isCached: true
+  - title: "Python 3.9 in Azure Functions is now in public preview"
+    excerpt: "Announcing some enhancements to the development experience for Python workloads in Azure Functions, including support for Python 3.9."
+    publishedDateTime: 2021-01-25T18:35:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-39-in-azure-functions-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "App Service Anti-Virus Logs in public preview"
     excerpt: "Receive improved application monitoring with support for anti-virus scans ."
     publishedDateTime: 2020-12-09T17:00:20Z
