@@ -88,6 +88,20 @@ related:
         width: 1385
         height: 831
         isCached: true
+  - title: "Azure Cost Management and Billing updates – January 2021"
+    excerpt: "Welcome to 2021: A year full of promise! The year starts out strong with two commonly requested features: a built-in view of cost broken down by resource group and remembering the last-used scope when opening Cost Management in the Azure portal. And, as always, we have tips and new ways to save money"
+    publishedDateTime: 2021-01-26T10:00:13Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2fe3be90-f3df-4afb-9e1f-160650433961.png"
+        width: 2554
+        height: 1141
+        isCached: true
   - title: "Azure API Management updates- October 2020"
     excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
     publishedDateTime: 2020-10-22T16:00:15Z

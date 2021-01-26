@@ -46,6 +46,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "99.99% uptime for Azure Active Directory Premium customers is coming April 1st, 2021"
+    excerpt: "SLA for Azure AD is increasing the up-time commitment to 99.99% for Azure AD Premium customers to support the need for an Identity service with high resilience and low interruptions."
+    publishedDateTime: 2021-01-26T17:12:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-active-directory-premium-customers-is-coming-april-1st-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Attack on Microsoft cloud services puts private user information at risk"
     excerpt: "According to a report, state-backed Russian hackers compromised cloud servers' security and infiltrated Microsoft's system. Full details here"
     publishedDateTime: 2020-12-31T20:02:00Z

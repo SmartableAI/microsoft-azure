@@ -58,6 +58,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "99.99% uptime for Azure Active Directory Premium customers is coming April 1st, 2021"
+    excerpt: "SLA for Azure AD is increasing the up-time commitment to 99.99% for Azure AD Premium customers to support the need for an Identity service with high resilience and low interruptions."
+    publishedDateTime: 2021-01-26T17:12:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/9999-uptime-for-azure-active-directory-premium-customers-is-coming-april-1st-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
   - title: "Pax8 Acquires Microsoft Azure Cloud Partner Wirehive"
     excerpt: "Pax8 acquires UK Microsoft partner Wirehive to further assist IT professionals, MSPs & channel partners with cloud services. Wirehive also offers AWS & Google Cloud managed services."
     publishedDateTime: 2021-01-05T15:04:00Z

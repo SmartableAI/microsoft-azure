@@ -59,6 +59,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "Germany West Central Availability Zones now generally available"
+    excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
+    publishedDateTime: 2021-01-26T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "South Central US Availability Zones now generally available"
+    excerpt: "Azure Availability Zones are now generally available in the South Central US region. These three new zones provide customers with options for additional resiliency and tolerance to infrastructure impact."
+    publishedDateTime: 2021-01-26T17:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/south-central-us-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Private endpoints for Azure File Sync are now generally available"
     excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
     publishedDateTime: 2020-07-09T21:00:12Z

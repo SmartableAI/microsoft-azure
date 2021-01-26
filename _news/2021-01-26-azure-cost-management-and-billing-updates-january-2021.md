@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management and Billing updates – November 2020"
-excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
-publishedDateTime: 2020-11-30T10:00:06Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+title: "Azure Cost Management and Billing updates – January 2021"
+excerpt: "Welcome to 2021: A year full of promise! The year starts out strong with two commonly requested features: a built-in view of cost broken down by resource group and remembering the last-used scope when opening Cost Management in the Azure portal. And, as always, we have tips and new ways to save money"
+publishedDateTime: 2021-01-26T10:00:13Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2021/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2021/"
 type: article
-quality: 99
+quality: 89
 heat: -1
 published: false
 
@@ -20,17 +20,12 @@ provider:
 
 topics:
   - Azure
-  - Storage
-  - Management tools
   - Databases
-  - Compute
-  - Serverless
-  - Web
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
-    width: 2545
-    height: 1146
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2fe3be90-f3df-4afb-9e1f-160650433961.png"
+    width: 2554
+    height: 1141
     isCached: true
 
 related:
@@ -57,6 +52,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Cost Management and Billing updates – November 2020"
+    excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
+    publishedDateTime: 2020-11-30T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
+        width: 2545
+        height: 1146
+        isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
@@ -84,20 +93,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11de86e7-4e6f-4cb8-bae6-8e6f6de9f9c5.png"
         width: 1385
         height: 831
-        isCached: true
-  - title: "Azure Cost Management and Billing updates – January 2021"
-    excerpt: "Welcome to 2021: A year full of promise! The year starts out strong with two commonly requested features: a built-in view of cost broken down by resource group and remembering the last-used scope when opening Cost Management in the Azure portal. And, as always, we have tips and new ways to save money"
-    publishedDateTime: 2021-01-26T10:00:13Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-january-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2fe3be90-f3df-4afb-9e1f-160650433961.png"
-        width: 2554
-        height: 1141
         isCached: true
   - title: "Azure API Management updates- October 2020"
     excerpt: "Regular Azure API Management service updates including new features, bug fixes, changes and other improvements."
@@ -181,6 +176,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "tIk9C71ZkPro3qKA6gg/Tv1LB1aaX2peG3Gp4tSWnAERc4tvw6vu1DtWlBr5juppzoZ8P3Wy5wGetg6iBgxPx8kUOiK1L86rgDznT2Rk0s67Gck4GKhYiDotwKMZ4ZPH5/B7jB1BCPZqLcXKE+BIkt6OLLtvlGmzGbhfSXSTVkiuIdvEEC4oDBbRqqRAkRpk1NCkiyIaPUpFZXhERk0C2EZdoyRBLgTWnK9S8uZAUW6cvjlXLnm5vcQ0dtHam7fkaMZIe/E9cRw3AX7QuRw10KRxwsMuJ4Ww92ahubZsHBRgZf264w/1gMEc/m/tSFUvBixqBwMRr41ZvWi2bDVwdnosxJxgZjq6V6ObTaP43D0=;Qwv6VxMTqtWULhVkePTgqQ=="
+secured: "EcaLj5cbyFU4g4ApWtdHu+ixlwDmv/orUW0MazyNHInELWFnpGZua+MlmilbocUb25bqqFzXWlX6IPgH8MAbbx8Kv+ZXoFtUbC2rjIR7V48Pec3l5Bj106rQyApmda/J9Qht+wG++lHuiVeDHo/MCDIID1mTmGnipCmadC1wBfa1sa2ZMPUTv1hidJXrYC9PACJcMRWN5HA5CMsifq3XHmU5DDSVxqo+gSER3V/xEjdWJz2z3jE1lVtdWEjMiIF1EAbcK3lfvzd5Es5jK0KpBY8iURWpPwurc4xOMBUSgvkYkesSZEbOi0YRjPzMsLdP/d9fGNrxK5n6UV87dRqrqsAa6fYut2n8PYVkT0CGUNQ=;ZDNIXoVLrvU8ebVdn0KEiw=="
 ---
 

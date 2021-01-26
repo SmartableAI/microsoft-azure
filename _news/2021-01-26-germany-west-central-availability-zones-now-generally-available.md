@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
-excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
-publishedDateTime: 2021-01-21T17:01:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
+title: "Germany West Central Availability Zones now generally available"
+excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
+publishedDateTime: 2021-01-26T17:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
 type: article
-quality: 65
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Databases
 
 related:
   - title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
@@ -59,15 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Germany West Central Availability Zones now generally available"
-    excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
-    publishedDateTime: 2021-01-26T17:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
+  - title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
+    excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
+    publishedDateTime: 2021-01-21T17:01:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-multiple-region-availability-zones-support-with-singleregion-write-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 65
   - title: "South Central US Availability Zones now generally available"
     excerpt: "Azure Availability Zones are now generally available in the South Central US region. These three new zones provide customers with options for additional resiliency and tolerance to infrastructure impact."
     publishedDateTime: 2021-01-26T17:00:12Z
@@ -96,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "yW8c+aTz08FLspLIvHCjyftq7sKgv8vuTz7QhgXpgRPIeOXZvy8qm74lKkSR2/r9ug4zfn6WC1p8D5oqLstdWWUFhMoCbnwfJcmM9o92R37eGAbgBTWqJtbpRWzpuWfRHt8i7tvdys9WiS0EoifI9FN2ts/oqFzs9MaPpFgmiEy7xDEScuVKqbdvkwY7KsUN/Xu8mVzndgMqsKjgzAZ/mA7w+sg2/K3XRCGMq3t0ldOK+pTIwgOW5LCh2XCiFgbz8FRNrEcJpjHhygR7KagIq8SZ5yFu5EuXYOHyMNGbr1ZqwDMHx+0vtbT5LOZXLqq2dUYuv5F49aW/+puPp4k6mUmvitS52vExISPotuR7Log=;vGJUFiKInYKKdofmf6AdTA=="
+secured: "D1oNi4FeOU4EdNhw6kaFBQNtSLjXF1QK6KEtHSCYIr29fYDQj1oRJ90zmXwOdaeENIgyp4f7fu/QWw2l+94BmvpDN75pz5BJj3AmyPP8cJ+KcOjCrDYkVz3UJYkqWzRw8qIq/9I+4yAly+xTYuIjOqaTDdf4/5cD0spnOjOD4HbIHIB5ff0Z1zK+ypLnHZRMsjzC2Hp6fv3vAj/xzk3atOj3IzWLkq8mVv8J78zFPt+tpQM1Rz0384xJiHSGfMQov6c1O0xp2MVfJdTK2rmshRHxfhSwnud9sP6F0e450huAg5y593k6XGHjf67P3QUWHQtzhUwKXuSOLDY1go0Oqsw0Nsbka0RInP3PPRHNNJc=;T9B6IeaxSHSd5yJef3dqkw=="
 ---
 
