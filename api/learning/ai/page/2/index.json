@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
       "title": "Create a classification model with Azure Machine Learning designer",
       "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
@@ -46,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 674,
-        "average": 4.7611275
+        "count": 675,
+        "average": 4.7614813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -125,42 +169,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
-      "title": "Analyze text with the Text Analytics service",
-      "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-text-with-text-analytics-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 545,
-        "average": 4.80367
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
       "title": "Recognize and synthesize speech",
       "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
@@ -168,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 508,
-        "average": 4.8090553
+        "count": 509,
+        "average": 4.80943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -256,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 546,
-        "average": 4.840659
+        "count": 548,
+        "average": 4.839416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +351,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2446,
-        "average": 4.6238756
+        "count": 2447,
+        "average": 4.6240296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -559,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1636,
-        "average": 4.600856
+        "count": 1638,
+        "average": 4.600733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -602,8 +610,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 338,
-        "average": 4.6952662
+        "count": 339,
+        "average": 4.6843657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -645,8 +653,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 429,
-        "average": 4.7715616
+        "count": 430,
+        "average": 4.772093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 364,
-            "average": 4.7087913
+            "count": 365,
+            "average": 4.709589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -926,8 +934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
           "length": "PT18M",
           "ratings": {
-            "count": 320,
-            "average": 4.6125
+            "count": 321,
+            "average": 4.613707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -969,8 +977,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 338,
-            "average": 4.6952662
+            "count": 339,
+            "average": 4.6843657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2584,
-        "average": 4.7008514
+        "count": 2585,
+        "average": 4.7009673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1161,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 568,
-        "average": 4.6320424
+        "count": 569,
+        "average": 4.632689
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1204,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 294,
-        "average": 4.6462584
+        "count": 295,
+        "average": 4.6474576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 630,
-        "average": 4.54127
+        "count": 631,
+        "average": 4.541997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,8 +1292,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 304,
-        "average": 4.7467103
+        "count": 305,
+        "average": 4.747541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,8 +1380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1049,
-        "average": 4.6129646
+        "count": 1050,
+        "average": 4.613333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1459,8 +1467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
       "length": "PT18M",
       "ratings": {
-        "count": 320,
-        "average": 4.6125
+        "count": 321,
+        "average": 4.613707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1502,8 +1510,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 364,
-        "average": 4.7087913
+        "count": 365,
+        "average": 4.709589
       },
       "provider": {
         "name": "Microsoft Learn",
