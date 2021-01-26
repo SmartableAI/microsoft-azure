@@ -4,6 +4,301 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
+      "title": "Deploy SAP certified offerings on Azure",
+      "excerpt": "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 447,
+        "average": 4.7919464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks.md",
+      "title": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "excerpt": "Describe platform architecture, security, and data protection in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-platform-architecture-security-data-protection-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 108,
+        "average": 4.648148
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-platform-architecture-security-data-protection-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-sql-server-query-plans.md",
+      "title": "Describe SQL Server query plans",
+      "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-sql-server-query-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 557,
+        "average": 4.768402
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-plot-graphs-python.md",
+      "title": "Design and plot graphs in Python",
+      "excerpt": "Learn",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-plot-graphs-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 129,
+        "average": 4.705426
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/design-plot-graphs-python-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-detect-language-text-analytics-api.md",
+      "title": "Detect language with the text analytics API",
+      "excerpt": "Language detection is useful for content stores that collect arbitrary text, where language is unknown. You can parse the results of this analysis to determine which language is used in the input document.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-language-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 56,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
+      "title": "Distribute your data globally with Azure Cosmos DB",
+      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1704,
+        "average": 4.6144366
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
+      "title": "Encrypt network traffic end to end with Azure Application Gateway",
+      "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
+      "length": "PT1H17M",
+      "ratings": {
+        "count": 887,
+        "average": 4.5749717
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/end-to-end-encryption-with-app-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
       "title": "Evaluate performance improvements",
       "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
@@ -141,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 718,
-        "average": 4.708914
+        "count": 719,
+        "average": 4.7093186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,8 +730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
       "length": "PT53M",
       "ratings": {
-        "count": 1459,
-        "average": 4.6531873
+        "count": 1460,
+        "average": 4.6534247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -679,8 +974,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 966,
-        "average": 4.7815733
+        "count": 968,
+        "average": 4.782025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,8 +1050,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 679,
-        "average": 4.742268
+        "count": 680,
+        "average": 4.7411766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -789,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3194,
-        "average": 4.6859736
+        "count": 3195,
+        "average": 4.686072
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,307 +1236,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
-      "title": "Introduction to GitHub",
-      "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
-      "length": "PT1H12M",
-      "ratings": {
-        "count": 735,
-        "average": 4.7387757
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
-      "title": "Choose an Azure service for deploying your Java application",
-      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 22,
-        "average": 4.681818
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Serverless",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
-      "title": "Enable identity protection in Azure Active Directory",
-      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 2210,
-        "average": 4.773303
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
-      "title": "Maintain a secure repository by using GitHub best practices",
-      "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-secure-repository-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 225,
-        "average": 4.7155557
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/maintain-secure-repository-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-costs-partner-cost-management.md",
-      "title": "Configure and manage costs as a Microsoft partner by using Azure Cost Management",
-      "excerpt": "Learn how to reconcile your bill and analyze costs across your customers and resources by using Azure Cost Management as a partner.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-costs-partner-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-costs-partner-cost-management/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 30,
-        "average": 4.766667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-costs-partner-cost-management-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps.md",
-      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
-      "excerpt": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-language-understanding-intelligent-service-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 55,
-        "average": 4.7818184
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-your-language-understanding-intelligent-service-luis-apps-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
-      "title": "Migrate on-premises workloads to Azure",
-      "excerpt": "Migrate on-premises workloads to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 173,
-        "average": 4.618497
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

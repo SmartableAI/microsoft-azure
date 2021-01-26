@@ -4,230 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate.md",
-      "title": "Migrate virtual machines and apps using Azure Migrate",
-      "excerpt": "The Virtual machine and app migration using Azure Migrate learning path gives you a step-by-step process to help you understand, set up, assess, and migrate virtual and physical servers, databases, applications, and virtual desktops from on-premises to the Azure infrastructure. Azure Migrate now includes fully integrated and optimized migration-specific tools previously available only in Azure Site Recovery.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-virtual-machines-and-apps-using-azure-migrate/",
-      "length": "PT1H35M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-m365-azure-migrate-introduction.md",
-          "title": "Introduction to Azure Migrate for server migration",
-          "excerpt": "Discover how Azure Migrate helps you realize the benefits of moving your on-premises VMware or Hyper-V server workloads to Azure infrastructure as a service (IaaS). Learn the process for migrating your workload agent-less, all within the hub.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-introduction/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 97,
-            "average": 4.6494846
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-azure-migrate-set-up.md",
-          "title": "Set up Azure Migrate for server migration",
-          "excerpt": "Learn how to check your prerequisite configurations in Azure and in your VMware vSphere environment and then perform the initial steps in Azure Migrate to choose your assessment and migration tools.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-set-up/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-set-up/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 72,
-            "average": 4.7222223
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/set-up-azure-migrate-server-migration-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-azure-migrate-discover-assess.md",
-          "title": "Discover and Assess your on-premises servers with Azure Migrate",
-          "excerpt": "Explore the Azure Migrate tools for discovering and assessing your virtual machine servers. Learn how to install and configure a virtual machine appliance in your virtualization host infrastructure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-discover-assess/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-discover-assess/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 59,
-            "average": 4.677966
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/discover-assess-azure-migrate-server-migration-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers.md",
-          "title": "Replicate and migrate virtual machine servers with Azure Migrate",
-          "excerpt": "Learn the process for replicating, testing, and finally migrating your virtual machines into production.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-azure-migrate-replicate-virtual-servers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-replicate-virtual-servers/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 83,
-            "average": 4.8192773
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/replicate-migrate-virtual-machine-servers-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Migration",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-azure-migrate-server-migration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Migration",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
       "title": "Migrating open-source workloads to Azure",
       "excerpt": "Migrate open-source workloads",
@@ -1513,6 +1289,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql.md",
+      "title": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
+      "excerpt": "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Language (KQL)",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-4-create-queries-for-azure-sentinel-using-kusto-query-language-kql/",
+      "length": "PT2H3M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-construct-kql-statements.md",
+          "title": "Construct KQL statements for Azure Sentinel",
+          "excerpt": "Construct KQL statements for Azure Sentinel",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-construct-kql-statements/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-results-kql.md",
+          "title": "Analyze query results using KQL",
+          "excerpt": "Analyze query results using KQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-results-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-results-kusto-query-language/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
+          "title": "Build multi-table statements using KQL",
+          "excerpt": "Build multi-table statements using KQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
+          "title": "Work with data in Azure Sentinel using Kusto Query Language",
+          "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-kql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 2,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-securely-connect-iot-devices-to-the-cloud.md",
       "title": "Securely connect IoT devices to the cloud",
       "excerpt": "Follow this learning path to learn how to securely connect IoT devices with Azure IoT.",
@@ -1544,8 +1534,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1100,
-            "average": 4.688182
+            "count": 1101,
+            "average": 4.688465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1579,8 +1569,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
           "length": "PT57M",
           "ratings": {
-            "count": 245,
-            "average": 4.6081634
+            "count": 246,
+            "average": 4.609756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1622,8 +1612,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 233,
-            "average": 4.55794
+            "count": 234,
+            "average": 4.559829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2803,8 +2793,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 654,
-        "average": 4.799694
+        "count": 655,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2845,8 +2835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 5540,
-        "average": 4.720397
+        "count": 5541,
+        "average": 4.7204475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2926,8 +2916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 6934,
-        "average": 4.758725
+        "count": 6937,
+        "average": 4.758685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2962,8 +2952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8821,
-        "average": 4.6940255
+        "count": 8823,
+        "average": 4.694095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2998,8 +2988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3829,
-        "average": 4.6455994
+        "count": 3830,
+        "average": 4.645692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3056,8 +3046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 654,
-            "average": 4.799694
+            "count": 655,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3098,8 +3088,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 556,
-            "average": 4.8219423
+            "count": 557,
+            "average": 4.8222623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3141,8 +3131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 709,
-            "average": 4.7856135
+            "count": 711,
+            "average": 4.7862167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3245,8 +3235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3135,
-        "average": 4.7326956
+        "count": 3136,
+        "average": 4.7327805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3289,8 +3279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 4891,
-        "average": 4.7579226
+        "count": 4892,
+        "average": 4.7579722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3394,8 +3384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 556,
-        "average": 4.8219423
+        "count": 557,
+        "average": 4.8222623
       },
       "provider": {
         "name": "Microsoft Learn",
