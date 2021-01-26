@@ -1,25 +1,35 @@
 ---
 category: news
-title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
-excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-publishedDateTime: 2021-01-21T15:03:00Z
-originalUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
+excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
+publishedDateTime: 2021-01-26T16:16:00Z
+originalUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
+webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
 type: article
-quality: 77
-heat: 177
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
+  - IoT
 
 related:
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
+    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-01-21T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
     publishedDateTime: 2021-01-20T06:02:00Z
@@ -62,15 +72,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
-    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
-    publishedDateTime: 2021-01-26T16:16:00Z
-    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
     publishedDateTime: 2021-01-19T13:25:00Z
@@ -81,6 +82,6 @@ related:
       domain: businesswire.com
     quality: 32
 
-secured: "FH+HlYSFEVt1JzCoEAqPs/5nddxd4nyzvEH8Xj1NYupkVjC9arEbnHB5lPznPKp4TqcWng+2ew4EllBsZ17ex8zJwmyb8eDvUrCBQeSjHaL9oxN0KyQ+jpP1DdsMr39wM9bTo1TQoTaaesxxV+7ETmNrYxqo9+yx/x+ugU/PWbAusEZLijOQf+icNn4COgIF21jIZn6KqWyk7xieXXH438Iun7eTc70SnrgJzoZcj9quZh3tKgRU5BKRFL84ZLFVG9EanwxPWDHZTmKqWD0odYKX18T1Zmvz75pungJm/hjvz1WcSIHKnDev/ur5JxKluMrsDkqw8dB4uzslSVFci1MSGGryYhY5nwTYUFI8MtU=;TQGcXh4B49fF7sJB4uGdiQ=="
+secured: "QwC3wKRMCjg/TNC6CdN1OA0vZ8qRWNRK/bF0TUzmjr1DpNQ98sTBdslUU5R5f8FJOKY2q3+pSvwMHTsbx2rf1KomoJzJX+0Wh1R7mAotTpm/ino42b6EF0kOmootS2CKgu98+7UAqBqtSZgTna2S3LJaeOJZ83wURH2aOanu2KkoL0W2WgVZ4Xzog4rfG0f77/ZvFIflIbYcO5zCRysNFtqLkfsIzICugk1dlkRyzKqh3Ha0VuG2YMWlj1RODZQIVJU/N8HLj5QUbUoNlOnDvRrVUgIjEYaHlbLp+3SyaTisFnFf93gAui7BUMXDUnDYFZOGk0L3xMb3nSAVi35yCWNkYlsgHZ9Q1rjtywNM+qo=;I4wVzzEM09XhqU7M+Om6Ww=="
 ---
 

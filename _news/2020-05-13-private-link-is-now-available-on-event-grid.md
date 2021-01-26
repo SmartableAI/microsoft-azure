@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Confluent Cloud Integration with Azure  is now generally available"
+    excerpt: "Confluent and Microsoft have worked together to enable seamless integration experience between Azure and Confluent Cloud – a managed Apache Kafka service. This service will enable you to provision Confluent Cloud resources using Azure client interfaces like portal/CLI/SDKs. Other integration points include"
+    publishedDateTime: 2021-01-26T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confluent-cloud-integration-with-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now in preview"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2020-10-19T16:00:01Z

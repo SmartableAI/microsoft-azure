@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Confluent Cloud Integration with Azure  is now generally available"
+    excerpt: "Confluent and Microsoft have worked together to enable seamless integration experience between Azure and Confluent Cloud – a managed Apache Kafka service. This service will enable you to provision Confluent Cloud resources using Azure client interfaces like portal/CLI/SDKs. Other integration points include"
+    publishedDateTime: 2021-01-26T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confluent-cloud-integration-with-azure-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere update 20.10 is now available for compatibility testing"
     excerpt: "The Azure Sphere OS update 20.10 is now available for evaluation via the Retail Eval feed. The 20.10 evaluation release includes an OS update as well as a special evaluation version of the SDK for use during this period. T"
     publishedDateTime: 2020-10-14T18:25:51Z

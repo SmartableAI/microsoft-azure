@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-pla
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
 type: article
 quality: 72
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -138,6 +138,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "mQPTigBZmU00SLyIRIWl0oBFDxspHJmP9uUVlfe1flwMmbSrbAsIWhX3LMix1QJeV6pzHsp+Oe2QjBcfKxMaXXQcdhcufEvThhc4X6xo3QkNrSUW48HbnYkTMmLi2t+cI7P09KT7fqr3fkJTJwypEIHewd5Lxy7MKMNnCB4EU9LklszKvVDvmRCaXC5Ml3bm4P/cqLyU7gr55HZLLzweEVvu1wjgieDv5ttGh/JKNApI69TlEgnmvPclYazThoVu6262sU+8fEcx4HLZO9+IZH83yq6ghNV9fbWa6R2Cj5hYB7ygqAd3oI/JIHGaqqE6fNOPSPSweCg0vsuz7+oB/BZ3haYF3EnD8aATHDdLxPo=;PxugsGWzMrxRH0cnCx2c3g=="
 ---

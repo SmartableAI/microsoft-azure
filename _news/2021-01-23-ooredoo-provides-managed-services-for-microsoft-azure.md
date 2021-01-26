@@ -63,6 +63,15 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
+    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
+    publishedDateTime: 2021-01-26T16:16:00Z
+    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
     excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
     publishedDateTime: 2021-01-19T13:25:00Z

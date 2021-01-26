@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-gr
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/"
 type: article
 quality: 116
-heat: 236
+heat: 256
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "Developers can now build and publish Azure Functions Apps using Java 11."
     publishedDateTime: 2020-10-26T16:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/java-11-support-for-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Confluent Cloud Integration with Azure  is now generally available"
+    excerpt: "Confluent and Microsoft have worked together to enable seamless integration experience between Azure and Confluent Cloud – a managed Apache Kafka service. This service will enable you to provision Confluent Cloud resources using Azure client interfaces like portal/CLI/SDKs. Other integration points include"
+    publishedDateTime: 2021-01-26T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confluent-cloud-integration-with-azure-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

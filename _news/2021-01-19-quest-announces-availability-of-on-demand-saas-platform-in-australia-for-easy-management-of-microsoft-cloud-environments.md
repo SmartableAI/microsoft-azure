@@ -132,6 +132,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "PIBziKuIbgN6A02jn4bupuWSSgKrXH1a/wZ1NxhQDCs4l37a3okw8ZrTl/pP7jA/lDoAD4UxjqAL+xcXJUzsu0zdG9Jo47zB+2cNgg4J58ayJ1OmnDRbr9S9d2QoKOwMA1IQdIj9LwVWZkvsTr5D3v2y7WmHmNyMae8wNHWsBUKlMYVQIouNbM7ppKVuvW6gNDY70F4+ggT50kimYgsKzjyIjMUyZI1SnkRYmyG+06L1CRAadpcBjhyILlNuxZ3ExFwLH3pbqJWKFdfnz3cwFNMxayxtQsp4AQYZ2vmAIYVjcL+uXHB0uDXTBFfBu1te2WepuM0Sh2vgqfYyCYwXOtWp0VpJnliPwJsOMEd4rXA=;HNq/MnEwH7iI2i8rk6xUDw=="
 ---

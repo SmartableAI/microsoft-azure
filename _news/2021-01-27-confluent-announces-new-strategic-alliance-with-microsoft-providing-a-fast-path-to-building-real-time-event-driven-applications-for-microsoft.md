@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
-excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
-publishedDateTime: 2021-01-21T13:22:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+publishedDateTime: 2021-01-26T16:35:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
 type: article
-quality: 67
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -35,6 +29,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
+  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
+    publishedDateTime: 2021-01-21T13:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -136,16 +141,7 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
-    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
-    publishedDateTime: 2021-01-26T16:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "yzbm/YWVnRoIF2ejowIWXY7xLkfX0GCPmUkQp0O9dpauqlCri7uJM9+93SH69V8kmA/Db+AoL5WxeBZnEb3Y4jfgYTL30k4L7MK2V9IOA8G+wLzEv89HrHqJsBviKLKw7AzujYs+A9tW+qm0dl6QV4Q/iXCC7bjT8zR0Qyqzr4XIUErRl8JyZCz/5soS6875i09j0DOIwW8h4LH53UGEx9etl4ryzSqklSiZI+vZhZ1STkf0mbB7JazpZ3nyGJXqRKKFkzoNKbzOOoSnFy24EuzI0xbGyKIUtRmZFQV8Ft7Z24mo2YRS+2fLQ98xJVSxAeaw4rnxux4f0kdQFHu9yOYJH2vbODp0o6dLsXO24uM=;fEEQ9u1eUuwBVcaruZf4Gw=="
+secured: "dPUUgJqpHqS+rgtURLV+IMa7fn9DSUbGIab01bmnj9VLFF/UihrwR3x/B0ZjDfdEMpcPRcJdAuZII0iz/xEHpj77bqVkJrhUbAQnmjmxdPebPx7sBWA+SwyvfHsDtOD6/PaIjP+kxEB++OvfcYLoJktm/SpX335qu690OdMBmQ4ikVhCmd10AF5fKJvIsH9it6cyKYMJInEo5x1LtWwV9Op8f7o229UDIF1WHXMYPix0krjLm/dmKWUirv/Bd0Nx9xj4vYG7QlG9NXc8n8jwfwGXf6OBfs8q0vH1zb6vIKl284bUkSISw1GGxNJGwWI/pvPXGkBih2nspW46UN1es8yeuV5xRnnRo49inIxTgG0=;CVgnylEMybWTKEFygvLxdA=="
 ---
 

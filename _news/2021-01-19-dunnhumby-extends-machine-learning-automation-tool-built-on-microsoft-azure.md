@@ -72,6 +72,15 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
+    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
+    publishedDateTime: 2021-01-26T16:16:00Z
+    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "tW7lcxu5PYopk8ulaft33t4jcCHA49DL9uq99Znn0AEHoUVuOHpDyJtRDlTDM5bXJa3MAUCNuS2pRNnlzQq8Tn0Vr2tw6ygE94cDkvxRdUE0gshH9x0CywARvfegRWwzks40vLWpMKkMBQueRBLxfFpk6zdpsZqvZQoBUphVSA2vwN2bO5D3cbW7oOeAfuiBR5NnOSmMr5R06PsktRW50RmDeUufVuKOoRzByQExQZxQB8vHXMYawdvdNoKIN9LbM1VJ1yITxM9S7SNBcq23L5954fFWLmQSKHzX39qEjrkybHfCWFpDwwfQbnCYai6ufeP0o3kQ2S2hv8Zi1poIfxR2AXoi3+RJxrFK8bqJjNU=;+9A5t9ZqNPDu7MwBqu0u7Q=="
 ---

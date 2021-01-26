@@ -133,6 +133,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 0
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Yff2FH6dv/y/lBesiLqfIIQX6XSRyALFW90xtjDKHMSdsJmZ2kUypkbbBMbUFZKRubBxrSOs5phmmoSIYbGHbDheJJV5+Pwg/ZAxSSM+oChltXHa6cWhVMvuoKTAoSAnqmIAEum17nkbkfIyQfw0AucvF0o94lOK67SsWB85DetyKPO597WOJNpEC6s+9BkAdqp+ej2d4SG5NmAeiKPKpnkCKlJDo1XX/zQIyAQHw+C9l8SgmZVpDIELQNd8EIh7tA5mq1TI7XwU+hcjVJQ2JNmslvTQhGtrNVqj3mb/HIEPHbR/B6Is9zQ0YxGL+JdEVWEAnprMOFkA/Dp7oLx703ootHnM4PsmTtrkWR1bt1s=;UuNq5apZUFUqHD+qoTJClw=="
 ---
