@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
-      "title": "Secure your Azure virtual machine disks",
-      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
-      "length": "PT1H1M",
+      "path": "_learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data.md",
+      "title": "Provide disaster recovery by replicating storage data across regions and failing over to secondary location",
+      "excerpt": "Learn how to provide disaster recovery by replicating storage data across regions and failing over to secondary location.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provide-disaster-recovery-replicate-storage-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
+      "length": "PT46M",
       "ratings": {
-        "count": 2912,
-        "average": 4.670673
+        "count": 303,
+        "average": 4.7458744
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,17 +27,23 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/provide-disaster-recovery-replicate-storage-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Storage",
-        "Management Tools"
+        "Storage"
       ]
     },
     {
@@ -87,8 +93,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3160,
-        "average": 4.5765824
+        "count": 3161,
+        "average": 4.575767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -125,8 +131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 2056,
-        "average": 4.679475
+        "count": 2057,
+        "average": 4.6796308
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -283,8 +289,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 8493,
-        "average": 4.649005
+        "count": 8495,
+        "average": 4.649088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -326,8 +332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 1600,
-        "average": 4.6
+        "count": 1601,
+        "average": 4.60025
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,8 +479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1896,
-            "average": 4.7072783
+            "count": 1897,
+            "average": 4.7074327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -516,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
           "length": "PT50M",
           "ratings": {
-            "count": 1777,
-            "average": 4.6133933
+            "count": 1778,
+            "average": 4.6136107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -559,8 +565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8493,
-            "average": 4.649005
+            "count": 8495,
+            "average": 4.649088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -774,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 1777,
-        "average": 4.6133933
+        "count": 1778,
+        "average": 4.6136107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -919,8 +925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
           "length": "PT25M",
           "ratings": {
-            "count": 1390,
-            "average": 4.6438847
+            "count": 1391,
+            "average": 4.6441407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +968,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
           "length": "PT49M",
           "ratings": {
-            "count": 1430,
-            "average": 4.5748253
+            "count": 1432,
+            "average": 4.575419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1067,8 +1073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 717,
-        "average": 4.7085075
+        "count": 718,
+        "average": 4.708914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 1896,
-        "average": 4.7072783
+        "count": 1897,
+        "average": 4.7074327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1202,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 631,
-        "average": 4.673534
+        "count": 632,
+        "average": 4.672468
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1246,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4605,
-        "average": 4.74354
+        "count": 4606,
+        "average": 4.743595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1330,8 +1336,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1898,
-        "average": 4.6153846
+        "count": 1899,
+        "average": 4.615587
       },
       "provider": {
         "name": "Microsoft Learn",
