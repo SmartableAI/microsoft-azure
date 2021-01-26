@@ -1,27 +1,23 @@
 ---
 category: news
 title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-excerpt: "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure."
-publishedDateTime: 2021-01-21T21:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-267b2bce13846ec4a9808f4cdcfa83bb"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-267b2bce13846ec4a9808f4cdcfa83bb"
+excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+publishedDateTime: 2021-01-21T21:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
@@ -123,6 +119,6 @@ related:
         height: 315
         isCached: true
 
-secured: "UAIpEgG5a3cV2+gY0y0x8E0UP2WjyC3Iaiq3wGYIYd1ocDQlrIktpwyC2yOGJj4j8NmXMU/MTnt37/yTUReW5uQEMxgq3tJPbxAKfCq9XRzAuieAYRIaMpgK2YtFd+a39WfxGWya2IKV9TiN082dKk9pMVqmxfzRCCKoyxoo+t5uNFUHtinvtihD3kvNkxCc+iVwoEwcn43sOmc+pU0OkoRKTXsxphkOCvYVc5QMN7zv5huE/MQJL3d1/xIdvDszxDx7OLiRlJMlkK5mK0cIsdcCtKVA+t1YIrTp+RROfN/pSy/CnxSfp+YgzdZjD33G31hEfhjoDcSEN8IeaYXSfZxY2dtItKfPIuj8JuL4EeI=;E027sAsbv9a2nbePZtSt7A=="
+secured: "vlC5JKsEOPXEUJ2rpd4/WCh/l6COXOraCQAjK+petCZm9U0xQ6pU+F/r6G2PJsO3nJkDNpPZgrAXdXcFhfDa0J5+cAjNIHbEbbtCI0T9VwelEZfcZNbQjxt+PYGFB+2u6lhiPgsZtWQ8O4/sqDFRrnTsoQEnXry6FDG0Pyf+Jpg+UZpRsYvgzoz17Z4E1J16ARrpIT9OVx8v8Uf5pm+//RoibILnQV57p/dtU1CSf23wTqbRtoeb7+txe4MFWS7hUV9cfUJAFU8DzlRxocbvcAplVXfMD4j4y5YBwLOVkSFQbR57dsfOyucmuv6+r0OJ6WPAc9/AWrnRwy2lUqOApZ8ks4YI49PVPGJVKQ1C2FI=;6BUxuUoVLZU7flavsLnksQ=="
 ---
 
