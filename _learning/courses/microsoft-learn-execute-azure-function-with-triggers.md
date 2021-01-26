@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 3975
-  average: 4.71044
-heat: 57
+  count: 3976
+  average: 4.710513
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Serverless
   - Management Tools
 
-secured: "Fjl/hZMo4O1XDGDOA/c87dygBGF5ypz13sdFSlC3pfoQi8LniQG7rcwcr/wuO4EtzcJHPzIUBgTGSwBfiGcNYBGZwaxGjphHtJM8fNB/bVC6Hd/V8W5vGAAjX355nrzinZDJncN4vzROVcDGRRhAniKQylE+UXR602v3EO0XxNsJQwP7HWwHe/aBZnEWTccxmWq9HGwTYDgLCci8c8X8y6jkEy4txU+cYFGfjfL7ODcZI0KjnZvLs1I2VCK8t8v6+NZIsY4mBczZY2OZQTNJL80gWgcZopVxDRB2WiDiyy+Xh73f4C7T6ArxFd5tbNLB/jeyeXVQrWEtnhvxXDkcepn/hj8PWQ9mW33s0nYVarzhatiNh53pwAo8L1MawSBogHMGlaFFq45CYGxcUdi7bzX4y5yMM+7FXIyZ+7Ecio0=;/zFtCG2ZvJSVHVuwZs6p0g=="
+secured: "9IhRawHM7I9w6nENdKbw54FE6YdyCyCSbXcdg1utacZA3hbBcDoLTsqG36w5FVxy0/m+jsnX61MmMbQqoxNgEZt0qzUzJzQdfzM+ArTj/05wiSiJwRQd9sMew2SopQVu1FDDwX4k7fvFkYfIMkvEwdjbjb2RoeFdgxLIjQ8rQqWdMArzafh4eX4/99HIBgdZ0NvksSwUEjX6AjXImm/XpamlVbW1Tfb8AlM8rkK3oJgRQJB6n2jHR3g8d/JdrZ4ZjRMwChzPbGHZZ3vt5k6oItnDRkaFIjFacRo3Ub2uBDFN/SKDQkGlfB5glYMoQU7cpunYctLcJVwyUt3LL8DPIa9nCOniQLIg8jGjctPyzzCr5oJIXdrfGta99EJcwKIsNLbPjFeZuML4ILp8coUJ8+PZfPIiO+v/I7+5K/NDdko=;xUd8HMa8SzuZ+XtVF5T1Xw=="
 ---
 
