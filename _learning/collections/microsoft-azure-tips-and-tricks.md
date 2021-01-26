@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-github-actions-from-azure-app-service-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-azure-communication-services-part-1-of-2-azure-tips-and-tricks
   - videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks
@@ -159,7 +160,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/Dn_0La5ozHg/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
