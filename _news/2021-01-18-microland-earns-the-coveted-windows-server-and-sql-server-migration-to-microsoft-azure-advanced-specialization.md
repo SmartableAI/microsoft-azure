@@ -204,16 +204,16 @@ related:
       domain: zdnet.com
     quality: 76
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-    publishedDateTime: 2021-01-21T05:30:00Z
-    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
+    publishedDateTime: 2021-01-21T04:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 69
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
         height: 493
         isCached: true
@@ -588,6 +588,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "VEBQMyrKBmf2BrfkQU0/M2fVKozj2KnKgV++OzoEBUI4b6cfYwaPxbl7ZyHRoqRoLgTJQ4HweD1Oscy2/5hDQEaWdmvQsb1CsDa9DoO6WTcmRq2Ej78G+T0EvDelq5a4E5Qauk1T0gvbNgVgQrOaV+2QNtoGpcTxgLSfHu4LSnI6q9x8omFHlWsWlJMFIu4sWJf8s9OOWCdHYI/pj1W3v2Kh38Pdjl2MUZFtj4AVpJYIJpMX8D5ypFStH9COnxK2JgYj2vqFf27rUd6892CtToWPuhzlpX/dcIskChzPncgVqQ2UR0CTYPUoDQ//8L0HC6uEzT8EjKztQKxQVhXAvwMIKUAPmwTcThNexBIM5Bg=;T/vKA6fOLEh7ppSOcuDp/A=="
+secured: "8Mgj6toFhZgbDdUHQFSI6OtIFDUaGjMdS5/Og9Ts/WsSSrBHfISTsTkCihvCQKzOaSrszqtC7HKrhhOR3faiBTR/d2EtLtbYSky4fVJZ7GFm6dpUuCvdr5TxW8Rlj/ljUD3s70TY6Rk9yRqZstxmGleHXLyA1kVkznzy+aX/LRWMAxOafWONMCchmlLcz95WmqoQKUWr3JhdwxlJlZw8xARE036PbwcBA812I1JfdeFyzb6kod+Uxqd83mwv6/D89cL51vIkM2CaXmXdGHqTI13ndsyOBC6tLZcXhYwm2UklrxnstM3sQ96+KTu6dpEMbGUYFQNguRRAVvaQNau5ww489Gbq0q9yx5+nE5Cr32w=;OWR3xKxxHD+3Rj2MgNv95w=="
 ---
 

@@ -70,31 +70,29 @@ related:
         width: 1000
         height: 733
         isCached: true
-  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-    publishedDateTime: 2021-01-21T21:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
-    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
-    publishedDateTime: 2021-01-26T11:24:00Z
-    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
         isCached: true
+  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
+    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
+    publishedDateTime: 2021-01-26T16:16:00Z
+    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:03:00Z

@@ -1,23 +1,33 @@
 ---
 category: news
-title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-publishedDateTime: 2021-01-21T21:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+publishedDateTime: 2021-01-26T22:16:00Z
+originalUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
 type: article
-quality: 29
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+    width: 1200
+    height: 573
+    isCached: true
 
 related:
   - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
@@ -35,22 +45,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
         width: 848
         height: 493
-        isCached: true
-  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-    publishedDateTime: 2021-01-26T22:16:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-        width: 1200
-        height: 573
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
@@ -88,6 +82,17 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+    publishedDateTime: 2021-01-21T21:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
     excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
     publishedDateTime: 2021-01-26T11:24:00Z
@@ -117,6 +122,6 @@ related:
         height: 315
         isCached: true
 
-secured: "vlC5JKsEOPXEUJ2rpd4/WCh/l6COXOraCQAjK+petCZm9U0xQ6pU+F/r6G2PJsO3nJkDNpPZgrAXdXcFhfDa0J5+cAjNIHbEbbtCI0T9VwelEZfcZNbQjxt+PYGFB+2u6lhiPgsZtWQ8O4/sqDFRrnTsoQEnXry6FDG0Pyf+Jpg+UZpRsYvgzoz17Z4E1J16ARrpIT9OVx8v8Uf5pm+//RoibILnQV57p/dtU1CSf23wTqbRtoeb7+txe4MFWS7hUV9cfUJAFU8DzlRxocbvcAplVXfMD4j4y5YBwLOVkSFQbR57dsfOyucmuv6+r0OJ6WPAc9/AWrnRwy2lUqOApZ8ks4YI49PVPGJVKQ1C2FI=;6BUxuUoVLZU7flavsLnksQ=="
+secured: "SjZjHOC0PxiF/jhjkrWqSjHJji6T25qLnweI4Vd2PlgfBFjSi7AxFw1PD8l6wKN07KJASmTVEcZudyr5Cpv/z9GMGGfNjHWjK/aH6eM8h8i3adeOem9mg6yafj5hMvtdPgygXm3VOVet3dpcDS/qhLgSsSF/lSiN0wT3ZPiaPIeJg2XMG7ZAID3p8jcSTfXrEuHlsGtJw71vMOPTeuMt2+ZK8MwIH5x97o30qPGxoUkNQJxapK4996ENW3rfIKTqj/HCY3S25daN5nk1faTKiwICoHAOhpcZYUU2iVvQ/QOZqc/iqZ6Y/IfpmwHg5Nuz6fDicywd8IZTdsSlRaGogdrSz/NJf/Am8gn0P5jVVrA=;SPeqQUZqaU51HAHn7aHqCw=="
 ---
 

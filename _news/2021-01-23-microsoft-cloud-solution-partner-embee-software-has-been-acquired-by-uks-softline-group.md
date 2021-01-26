@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-softwar
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
+    publishedDateTime: 2021-01-20T06:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
+    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
+    publishedDateTime: 2021-01-19T13:25:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 32
   - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
     excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
     publishedDateTime: 2021-01-20T12:10:00Z

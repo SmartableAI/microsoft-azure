@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
-publishedDateTime: 2021-01-21T05:30:00Z
-originalUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
+publishedDateTime: 2021-01-21T04:57:00Z
+originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
     width: 740
     height: 493
     isCached: true
@@ -588,6 +588,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "44SicKrFePI6JtbaChYt+S7uCtwF/FPFVGeyJm/1Rlu1+ZWdiMDPyP/x9nyCJbAsX+/M3d3i4lAiUHS8MZMZyyOe7FdA2UhKXCCTqEhmeW7YDH+effV9N4c/h7L9aDDaEoUskYPzJiwWYy1cEADZKQNhKhlTqgnoojvUXt4CXp1nif0A9aDFAaFuc7zcdFKivA5qMf+4SpzcYNvHRv8el4FpYGlxbY5yUvgWuwUAXGENK9v9ARh7re4EZs2KPG6rTOM3SHgWILm1k7I0jsfjuvNJVk1my/N68UOBk/k2NyFMfO/qzWgxViiTv1Bd4j7oUwToZAxjMxA7JxkkDXclBiBG7L/w4Uz4mDddgrtm8bY=;PuUFrkq1D3a+7LQjewwvVw=="
+secured: "pFjtctewYTmYus9ZcQhvvMCHOXLa3PlwIu2fD9h3Vq+74Um9LRX2tAlhj5UzJnX86bqL+HvqFHWXrhYB8ONzkTQMfvgp09vKuO3RH2MqNkjdVy+OgPJUsrKriIIrHyjsby3guL9Ddy7wYlX6OjqkrUQRPP7QvIKE0Lanike8QgK5iO1QTG1vXWu2RqWg+r8Mzz3HIJN4bCwO7KBQ/WEOfyefp4ue3tkcAanJTELT8hNDazdmXBkeRbAsXE+LeLsNK0Vjv3GF3Su1VWCzU00E45+Son1LCFNYPiyfu9W4+yGN8+Kr3rA1i5KrIH++4rslTvqlhAycT2LVfUOYf5LUYuO85ixsS0o/BaeXXy5Lrmo=;xHPJnfDg796GF37exjO2+A=="
 ---
 

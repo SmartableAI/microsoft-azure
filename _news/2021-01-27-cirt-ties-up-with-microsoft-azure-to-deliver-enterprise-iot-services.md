@@ -19,44 +19,55 @@ topics:
   - IoT
 
 related:
-  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
-    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-    publishedDateTime: 2021-01-21T15:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
+    publishedDateTime: 2021-01-19T15:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,"
-    publishedDateTime: 2021-01-20T06:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
+    publishedDateTime: 2021-01-21T13:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
+    publishedDateTime: 2021-01-13T02:02:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Couchbase Cloud Now Available on Microsoft Azure"
-    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
-    publishedDateTime: 2021-01-21T21:53:00Z
-    webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
+  - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
+    excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
+    publishedDateTime: 2021-01-15T14:10:00Z
+    webUrl: "https://winbuzzer.com/2021/01/15/microsoft-azure-playfab-expands-to-more-regions-gains-amd-vm-support-xcxwbn/"
     type: article
     provider:
-      name: ctovision.com
-      domain: ctovision.com
+      name: winbuzzer.com
+      domain: winbuzzer.com
     quality: 37
     images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/01/PlayFab-Microsoft-Acquisitionp-Official.jpg"
+        width: 1000
+        height: 733
         isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
@@ -72,15 +83,63 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure"
-    excerpt: "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for da"
-    publishedDateTime: 2021-01-19T13:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210119005028/en/dunnhumby-Extends-Machine-Learning-Automation-Tool-Built-on-Microsoft-Azure"
+  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
+    publishedDateTime: 2021-01-13T11:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 31
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
+    publishedDateTime: 2021-01-19T13:03:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
+    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
+    publishedDateTime: 2021-01-19T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
+    excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
+    publishedDateTime: 2021-01-19T17:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 32
+    quality: 0
 
 secured: "QwC3wKRMCjg/TNC6CdN1OA0vZ8qRWNRK/bF0TUzmjr1DpNQ98sTBdslUU5R5f8FJOKY2q3+pSvwMHTsbx2rf1KomoJzJX+0Wh1R7mAotTpm/ino42b6EF0kOmootS2CKgu98+7UAqBqtSZgTna2S3LJaeOJZ83wURH2aOanu2KkoL0W2WgVZ4Xzog4rfG0f77/ZvFIflIbYcO5zCRysNFtqLkfsIzICugk1dlkRyzKqh3Ha0VuG2YMWlj1RODZQIVJU/N8HLj5QUbUoNlOnDvRrVUgIjEYaHlbLp+3SyaTisFnFf93gAui7BUMXDUnDYFZOGk0L3xMb3nSAVi35yCWNkYlsgHZ9Q1rjtywNM+qo=;I4wVzzEM09XhqU7M+Om6Ww=="
 ---

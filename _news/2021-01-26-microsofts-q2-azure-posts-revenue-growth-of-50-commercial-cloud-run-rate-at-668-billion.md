@@ -1,41 +1,35 @@
 ---
 category: news
-title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-publishedDateTime: 2021-01-21T21:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
+excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
+publishedDateTime: 2021-01-26T03:15:00Z
+originalUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
 type: article
-quality: 29
-heat: -1
-published: false
+quality: 86
+heat: 226
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
+images:
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
+    width: 848
+    height: 493
+    isCached: true
+
 related:
-  - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
-    excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
-    publishedDateTime: 2021-01-26T03:15:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
-        width: 848
-        height: 493
-        isCached: true
   - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
     excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
     publishedDateTime: 2021-01-26T22:16:00Z
@@ -88,6 +82,17 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+    publishedDateTime: 2021-01-21T21:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
     excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
     publishedDateTime: 2021-01-26T11:24:00Z
@@ -117,6 +122,6 @@ related:
         height: 315
         isCached: true
 
-secured: "vlC5JKsEOPXEUJ2rpd4/WCh/l6COXOraCQAjK+petCZm9U0xQ6pU+F/r6G2PJsO3nJkDNpPZgrAXdXcFhfDa0J5+cAjNIHbEbbtCI0T9VwelEZfcZNbQjxt+PYGFB+2u6lhiPgsZtWQ8O4/sqDFRrnTsoQEnXry6FDG0Pyf+Jpg+UZpRsYvgzoz17Z4E1J16ARrpIT9OVx8v8Uf5pm+//RoibILnQV57p/dtU1CSf23wTqbRtoeb7+txe4MFWS7hUV9cfUJAFU8DzlRxocbvcAplVXfMD4j4y5YBwLOVkSFQbR57dsfOyucmuv6+r0OJ6WPAc9/AWrnRwy2lUqOApZ8ks4YI49PVPGJVKQ1C2FI=;6BUxuUoVLZU7flavsLnksQ=="
+secured: "TtQB26GGpgnbZLDCsunqyNeXikQ+NtMUdMp6XJugv++G6SFIwoww7MMOWNqtruaUws6rETCsmDwodDwqY6QRDuEdDmSmb4TiUTMtvkaB6FREbzZHv2jNjsVyHiCX3YNkeDMH4Hs77PxQ73+lLDRm062SM7vMNNRRPn9Fo332Q6ckX0wpWsWYMa1N1OdOHY6Cwa2D/6+ga0iqpv35oJzHqTQ+jXWWB3Cmq872ZntR7cKqJyeYt7xT3brCWnWn1OciTWY1m+x0SnwDou2iXzuFgzRta0Yy3sQTeffANibdcRWyPK+afORWWSSxbP1rKP44UQcwJe6Mu1OQkB+A/bCFjuUxmjCOWoeXssH0BscFZCE=;O2lgZqI/x1PTVWSqBXupVg=="
 ---
 

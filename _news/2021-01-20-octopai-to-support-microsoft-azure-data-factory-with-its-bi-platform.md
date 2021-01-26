@@ -35,31 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
-    publishedDateTime: 2021-01-19T16:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "xpbHQAcadp4tNTntr78IeKI3kNlVkxrlAijPO1qXht77gV/rfj9R72au4skO4HU6VQ19VJP5mGQyRg6IeVCBk8eoUqScWnPLtdqH11Mq2gCTszwPRmcJwx/ocPPGxJMgK66SEWNtPkrJkKJ3gcHMtZ04bbsDdzKc+ONgkyAgXEVZSSgOMJIhwJqRkoq4FiKovTN4wcrIw2c8Bk1CMygNeShUI5zTdq0rLvSaqmuRFOQ4jTLXAGbo0srr8+DApkpJzHFIK0SvSZHw07nqE1JXlT3KgteAseBpSKnucNgBIKgr1cS+m632TOodZ2AhZiwfP2Mc9ZHh5gGTF8AsxRJfzbwK27rjVo7SBqXPsC3tclQ=;HbBL4EiJ0RagoEMP+fVdbg=="
 ---

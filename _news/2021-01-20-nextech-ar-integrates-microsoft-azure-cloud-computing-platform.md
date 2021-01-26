@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections."
-publishedDateTime: 2021-01-20T13:11:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69"
+excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+publishedDateTime: 2021-01-20T12:37:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
+webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -741,6 +741,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "hIR7ZLr0x69AjCfaEd9XGBOM2SkTJcQOgYE1eWtAoA4/8Mob+LwbPvv7EsHl480BvwGl9xgICB3TCLkFKyC0ZkWCjr7cNemqxGJbXDw9PV/zfXp4bZLRL6ilG8+DsRu+9W2pOoA8/++60SNcCq+WkHA+WLf00NTp9iYbUc+5SMEk+bWaCkKxzCjeTXe4mzbKWuvN3fzB/JbnVu+qVd940lD9pWlOiiToexalGSnGT6VPHRAYA37R/vyefV0Wypj9TGHATywKbWIM5atQcWmlrxK5YvwnyE08+EeVwDDfOV9ZholvEQeRRvTA7iOUesIjK7wPPLGPTsljmimVuPQWPCWW+K7crrXxn2zw7BcPA64=;sPlFPpSwauk5vJ8Kl50ZMA=="
+secured: "+juavK6rjUCBsRStx/N8rzDZ0mGqy2wyVFbsOusfd0+7g3sFz7w7sXnXfF7gemTdgb59uXhnUR8+LOdKlAM5Balx8n/ZRGwD78WmrHYPoNRguxEHgo5VQHmAtkjfy/Sdwo0rVXRu16fg7kON1uOk91JuhPEteHsShW9cxAiNspEG93UfLsB+Od5ExeMGzIt0whwoA3vhN4Uipp3H6mkM7s/bKXS1PtTfmPFhXrmsN8pnLiBxF4eD4CCKHSYtGX2HTjB6wlKfXp6N61g2vfz4ShFmgi0GGxpJIosVZfHnm7kA8dt213z1Md5kf65WYIT1ZmBvYhlKW1qq+ipJ7nj/1Edw/zzcc4UWKg7MQJzoQzQ=;QuXaTzX31jMq4verkdHQcg=="
 ---
 
