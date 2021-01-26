@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
-excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
-publishedDateTime: 2021-01-19T10:10:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
-webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
+excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
+publishedDateTime: 2021-01-26T11:24:00Z
+originalUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
 type: article
-quality: 0
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
@@ -90,20 +96,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
-  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
-    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
-    publishedDateTime: 2021-01-26T11:24:00Z
-    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
     publishedDateTime: 2021-01-19T13:03:00Z
@@ -118,6 +110,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
+    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
+    publishedDateTime: 2021-01-19T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
   - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
     excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
     publishedDateTime: 2021-01-19T17:16:00Z
@@ -133,6 +134,6 @@ related:
         height: 315
         isCached: true
 
-secured: "PIBziKuIbgN6A02jn4bupuWSSgKrXH1a/wZ1NxhQDCs4l37a3okw8ZrTl/pP7jA/lDoAD4UxjqAL+xcXJUzsu0zdG9Jo47zB+2cNgg4J58ayJ1OmnDRbr9S9d2QoKOwMA1IQdIj9LwVWZkvsTr5D3v2y7WmHmNyMae8wNHWsBUKlMYVQIouNbM7ppKVuvW6gNDY70F4+ggT50kimYgsKzjyIjMUyZI1SnkRYmyG+06L1CRAadpcBjhyILlNuxZ3ExFwLH3pbqJWKFdfnz3cwFNMxayxtQsp4AQYZ2vmAIYVjcL+uXHB0uDXTBFfBu1te2WepuM0Sh2vgqfYyCYwXOtWp0VpJnliPwJsOMEd4rXA=;HNq/MnEwH7iI2i8rk6xUDw=="
+secured: "Zm6pm+bU1mv5EBoPvYhYuPm6JJGVxEbTFS8t47vV3IroH09PRLI+n7HCz4+ZP9GyPay0z9mD7QfIy577qa7ly1m+DPaKVhcUQNnBcgIx8/cIE7NSVztW8eNaclaGt/pXuaVXkrqEDriQUIckgaBuF2rRKr3Qeu8EsxsETzHjcI+W4e5niR0kqKbTp0Yn0EbF+UikidMycJKnm1t4A2/oqGSPFaB0rWLImL/fFxiQWBrw2tTS6qXYThHoGQq11fnmx7aos2g/GHXjTyc71kApBOe/UaTXaOKdIPHMfnXaqxxTOOVEfeyrN90ga/aERYLcOW2fYmFrw6gZHQ7ii9XQ3oQvVFOILvxlwtcW/bh9Jmg=;NhdgWVFg8mzAcg3cmjqx2g=="
 ---
 
