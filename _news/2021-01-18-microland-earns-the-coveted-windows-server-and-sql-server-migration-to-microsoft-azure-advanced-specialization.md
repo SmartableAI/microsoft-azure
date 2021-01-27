@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2021-01-18T14:05:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
+webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -620,6 +624,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "c9oByBKdkQZovYp7tW42VI+Lkbz3mH3SyqUWW1R9bMQJMLzMMTSrqfE9+LfWYSsupGNTAtq/UBlaO6M1mgm4ll+QfX84gMa7CJI5bc+18SH4i9AUAl71TTrRp5zoUMJuuNbGGNf+vM3OFhHRdrmP22bW0Q394n3pFMt6kBTPjdEOO9syEsBjcO9D5faBXOTnVc7hAAaW+Ncg7vOf9BPrSkOh4QEhfePR+/bOyr5oc/tX+y4X2rzcA7+W1Ju2Up6UQVKuGc21OIO/An4D7s1oCi+56hTGCCVEq9OaYAb7aGY8ir6A+4yFdsiprCHY416J2RVbXAusgkDnjSXoiBvoKiKxfIp25A1qqMjd6v6WMyk=;DwGoX/cBnqzNRVwVTqDTeA=="
+secured: "TyFmh3oiAjYkr5UNRacuDOE1l9M+L/KCLuN3hMoUzbSC3voV3c9BcaS/9vj8BC+P7YKBjmt836UIFmelHqMoES4fVD44y4UO1Sbo8birq3eIxaOptRv1tLEt0STLZ15BHrE8KIn4NTatoDtVtIxTYk2LQ/r27SuEnuiW/VGXzGgW0LR1ZE7SpAD2T43mmNjUKenFxo6esaaCM8w3T397L3xfEG76SQYWaqzDonw0AIERw2bju5+8IR+Hkfi9hgczOGO9Eq5cRx4YueWsk1OEO2IkweEEFSdCZG3E/fTTTvtPaXSYr6W+GnOHxVDaPKJYrL9Mcqsqj6C+1SiNwWXIM12jBZAb9Z2wFC/NlgIif+w=;c7w2GFJaoRURNSFmPTyBBA=="
 ---
 
