@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
-      "title": "Secure your Azure SQL Database",
-      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
-      "length": "PT1H7M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
       "ratings": {
-        "count": 4327,
-        "average": 4.5329328
+        "count": 1672,
+        "average": 4.27811
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,15 +27,17 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 55,
+      "heat": 54,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
+        "Storage",
+        "Compute",
+        "Serverless",
         "Databases"
       ]
     },
@@ -383,8 +385,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 355,
-        "average": 4.7295775
+        "count": 356,
+        "average": 4.730337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +428,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 203,
-        "average": 4.7536945
+        "count": 204,
+        "average": 4.754902
       },
       "provider": {
         "name": "Microsoft Learn",
