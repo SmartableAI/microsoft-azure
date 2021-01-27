@@ -4,6 +4,93 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-query-data-lake-using-azure-synapse-serverless-sql-pools.md",
+      "title": "Query data in the lake using Azure Synapse serverless SQL pools",
+      "excerpt": "Query data in the lake using Azure Synapse serverless SQL pools",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-data-lake-using-azure-synapse-serverless-sql-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-data-lake-using-azure-synapse-serverless-sql-pools/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 7,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/query-data-in-the-lake-using-azure-synapse-serverless-sql-pools-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
+      "title": "Query logs in Azure Sentinel",
+      "excerpt": "Query logs in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-recognize-entities-text-analytics-api.md",
       "title": "Recognize entities in text with the text analytics API",
       "excerpt": "Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more.",
@@ -470,8 +557,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-bots/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 81,
-        "average": 4.5925927
+        "count": 82,
+        "average": 4.597561
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,49 +1014,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent.md",
-      "title": "Schedule tasks using SQL Server Agent",
-      "excerpt": "Explore SQL automation for scheduled tasks and automatic alerts for SQL Server and Managed Instance. Configure extended event sessions for tracing activities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-schedule-tasks-using-sql-server-agent/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/schedule-tasks-using-sql-server-agent/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 69,
-        "average": 4.695652
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/schedule-tasks-using-sql-server-agent-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-sci-asc.md",
       "title": "Improve your cloud security posture with Azure Security Center",
       "excerpt": "Learn how you can strengthen your security posture through Azure Security Center.",
@@ -1227,49 +1271,6 @@
         "Azure",
         "Analytics",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
-      "title": "Secure a data warehouse in Azure Synapse Analytics",
-      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 11,
-        "average": 4.818182
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

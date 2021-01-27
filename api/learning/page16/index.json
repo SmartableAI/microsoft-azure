@@ -4,6 +4,127 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
+      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
+      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1370,
+        "average": 4.6547446
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
+      "title": "Permissions and Consent Framework",
+      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 109,
+        "average": 4.7522936
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
+      "title": "Implement message-based communication workflows with Azure Service Bus",
+      "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 2350,
+        "average": 4.6365957
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
       "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
       "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
@@ -55,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 222,
-        "average": 4.743243
+        "count": 223,
+        "average": 4.744395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -90,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1513,
-        "average": 4.6609387
+        "count": 1514,
+        "average": 4.6611624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-using-datascience-library/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 273,
-        "average": 4.655678
+        "count": 274,
+        "average": 4.6532845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -217,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 2214,
-        "average": 4.773261
+        "count": 2215,
+        "average": 4.772912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -260,8 +381,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1666,
-        "average": 4.8307323
+        "count": 1667,
+        "average": 4.830234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +466,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
       "length": "PT31M",
       "ratings": {
-        "count": 174,
-        "average": 4.62069
+        "count": 175,
+        "average": 4.622857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,8 +681,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
       "length": "PT33M",
       "ratings": {
-        "count": 958,
-        "average": 4.6054277
+        "count": 959,
+        "average": 4.604797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +724,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 1004,
-        "average": 4.6713147
+        "count": 1005,
+        "average": 4.671642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -733,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 324,
-        "average": 4.564815
+        "count": 325,
+        "average": 4.566154
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -866,8 +987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
       "length": "PT44M",
       "ratings": {
-        "count": 1920,
-        "average": 4.5223956
+        "count": 1921,
+        "average": 4.5226445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -996,8 +1117,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 366,
-        "average": 4.7103825
+        "count": 367,
+        "average": 4.708447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,129 +1280,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 687,
-        "average": 4.6404657
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
-      "title": "Work with DataFrames advanced methods in Azure Databricks",
-      "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 142,
-        "average": 4.633803
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
-      "title": "Work with DataFrames in Azure Databricks",
-      "excerpt": "Work with DataFrames in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 235,
-        "average": 4.680851
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

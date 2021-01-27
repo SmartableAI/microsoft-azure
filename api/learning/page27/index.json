@@ -4,6 +4,82 @@
   "page": 27,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-case-study-distributed-file-systems.md",
+      "title": "Case studies: Distributed file systems",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Discover how distributed file systems work, then learn about Hadoop and Ceph.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-case-study-distributed-file-systems/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-case-study-distributed-file-systems/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 33,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cloud-admin-provision-manage.md",
+      "title": "Provision and manage cloud services",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about the different types of resources available on the cloud and the technology behind how they work.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-admin-provision-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-provision-cloud-services/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 220,
+        "average": 4.7636366
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cloud-admin-provision-manage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-getting-started.md",
       "title": "Getting started with the Microsoft Cloud Adoption Framework for Azure",
       "excerpt": "CAF getting started. Use the Cloud Adoption Framework getting started guides to unblock your organization’s cloud adoption efforts",
@@ -214,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-admin-overview/",
       "length": "PT2H5M",
       "ratings": {
-        "count": 375,
-        "average": 4.672
+        "count": 376,
+        "average": 4.6728725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,8 +1048,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/compare-two-samples-by-bootstrapping/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 73,
-        "average": 4.6712327
+        "count": 74,
+        "average": 4.675676
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,92 +1253,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-database-authentication-authorization.md",
-      "title": "Configure database authentication and authorization",
-      "excerpt": "Contrast authentication using Azure Active Directory vs Windows Active Directory vs SQL Server authentication. Implement various security principals and configure permissions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-database-authentication-authorization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 1063,
-        "average": 4.8203197
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-database-authentication-and-authorization-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
-      "title": "Configure databases for performance",
-      "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 557,
-        "average": 4.7971272
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],
