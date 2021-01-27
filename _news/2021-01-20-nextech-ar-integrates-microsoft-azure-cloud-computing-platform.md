@@ -2,23 +2,17 @@
 category: news
 title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
 excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
-publishedDateTime: 2021-01-20T12:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
-webUrl: "https://markets.businessinsider.com/news/stocks/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-1029985853"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nextech-AR-Integrates-Microsoft-Azure-Cloud-Computing-Platform-1029985853"
+publishedDateTime: 2021-01-20T12:41:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -741,6 +735,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "+juavK6rjUCBsRStx/N8rzDZ0mGqy2wyVFbsOusfd0+7g3sFz7w7sXnXfF7gemTdgb59uXhnUR8+LOdKlAM5Balx8n/ZRGwD78WmrHYPoNRguxEHgo5VQHmAtkjfy/Sdwo0rVXRu16fg7kON1uOk91JuhPEteHsShW9cxAiNspEG93UfLsB+Od5ExeMGzIt0whwoA3vhN4Uipp3H6mkM7s/bKXS1PtTfmPFhXrmsN8pnLiBxF4eD4CCKHSYtGX2HTjB6wlKfXp6N61g2vfz4ShFmgi0GGxpJIosVZfHnm7kA8dt213z1Md5kf65WYIT1ZmBvYhlKW1qq+ipJ7nj/1Edw/zzcc4UWKg7MQJzoQzQ=;QuXaTzX31jMq4verkdHQcg=="
+secured: "F3Isx1OrqQ/wq2XJh4mrhwXfFigghaS9ahmWsRLcOxD5a0t1IpJjkr8DLcGv0s5iRhSTJ9aEN5KBX9UlW745jm9/uUIwoBI601YFPWg/NzS5RMXmxxv1GR5s9UzQ0IEbuQlsrszzb5F+dttw/LyMwpeFg4m5DtTxUEvK3EWx+tmPabDDWL/ZBW4ba6D+ZEGsCcHUCNOXppLxAUjxZt0hmOq60K6Qv6I2PNXuRmmf3NnPZHyC4nn/isEhNu4oh56KWdb90Pnn6s1HfMLWXnlObQczVUeTXxbv6ZVfOJo5VeeoZEh63wTle3k1ayOJ3S3KnzloncdnTpw7tH20N+wFZ8vQwE6l9AgRqPO+CX4U7IM=;bsPzYUV2z2mAXcamAyigOw=="
 ---
 
