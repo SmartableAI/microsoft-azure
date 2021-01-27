@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
 type: article
 quality: 86
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -52,6 +52,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
     ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
+    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
+    publishedDateTime: 2021-01-27T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
     type: article
     provider:
       name: Nasdaq

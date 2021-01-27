@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
-publishedDateTime: 2021-01-19T16:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
+excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
+publishedDateTime: 2021-01-27T15:22:00Z
+originalUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
 type: article
-quality: 60
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
@@ -67,17 +63,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
-    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
-    publishedDateTime: 2021-01-27T15:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
+    publishedDateTime: 2021-01-19T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -132,6 +128,6 @@ related:
         height: 315
         isCached: true
 
-secured: "bx0lYmCMvGu3uTprnMejsjiimhAAi0Q/wwzXwIQX/p+uAJ1SMFQGcAzBYvAM9VFe/2bo/dcIYtAFpqMgqTeMNqm0Ppcd1CtyMn3V4SIhrxbaC8QbLj+7RSVCqbDJVKq2bNYiUswsu3kAiTFaYsLuswhow4lCqIDm0em/inNH3lOnACvGfmGSX0U6wDlyxsWq4bLYhNUjjz1e9fmzDbhTTitfiokK7Kr5xvPrfrf8biNoRnn440dcmLGmLcUpPuXrL3jIX4qY44Y1pirj0QZEYJlJlLhHKbZoQ/GZce4KtNfCkKX2u55S7NndeesA01cDNJqNViye0tzsNKjkgtTJEUDGJhU8n0sBGY3boUTXLok=;h3zcg4hA/GkdjcjiqaiCHA=="
+secured: "gFCddbb6hJ9t7POYTh76T09/jeLL2Xm+9NhU3Nuih1PXO2zswqWieKq/bgEqvoNYnCGEEVP3Cs+lAsnvZsrxuPzl/pKgbKPUB1jj7sAY3TxK3ey6NrL6qTRiKhPnZmV4xZbu0eHdWF+i5LKT5miQcLOHzpOuMoNneI1pxNS3/s0BRhYp5ZcEtYQFMVfe1nOZaVm1GtCEo6wPZxpGt7JEVubs/EyYUF7e/OBPxbER7h5IYAQ7IeKgReKL19strqy7kvgjWBf3PY4OswSWuAkB6LsQaCyy+rZ7vuNcEy+5p/FCTksOMCngkQN731W0t5T263tCTXo4NChvql7jBG+1JPQPfm8KmaKC8PcSBYUfBLI=;MUJv6rZxFqBMrEajSm8Xag=="
 ---
 

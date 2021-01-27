@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Azure Cognitive Services Translator - Inuktitut language text translation now available"
+    excerpt: "Translate to or from Inuktitut into any of the more than 70 languages available in Translator.\n"
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-inuktitut-language-text-translation-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Cognitive Services Translator — Canadian French language text translation now available"
     excerpt: "Use Translator to add Canadian French translation to your apps, products, and workflows."
     publishedDateTime: 2020-10-20T15:15:16Z

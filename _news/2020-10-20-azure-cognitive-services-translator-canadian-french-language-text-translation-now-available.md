@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Azure Cognitive Services Translator - Inuktitut language text translation now available"
+    excerpt: "Translate to or from Inuktitut into any of the more than 70 languages available in Translator.\n"
+    publishedDateTime: 2021-01-27T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-inuktitut-language-text-translation-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Cognitive Services Translator Text— New languages now available"
     excerpt: "Translator Text now supports the Odia, Dari, Pashto, Central Kurdish and Northern Kurdish languages."
     publishedDateTime: 2020-08-20T16:00:05Z

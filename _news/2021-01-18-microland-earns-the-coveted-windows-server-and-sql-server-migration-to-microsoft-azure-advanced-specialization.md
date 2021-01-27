@@ -2,9 +2,9 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+publishedDateTime: 2021-01-18T09:11:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
 type: article
 quality: 34
 heat: -1
@@ -620,6 +620,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "02/U/orb+n8pb0yHBiNCr63iHt4RP2l5MGK1XLsKDKqHfShZRiWunQFvNFyRacqzK94xUoskbtF2hBeowGveLb0Sy6TaViSU1yB38uE7yChUjbDlcXju+dJFD6SR1QOqaIjJSkkW1xGiddG/QJfLdgvjEjskS5Cq5JB3wklEP9Yfmqy8yM4c6+ytq2Mu9HnwV/ltOfKJEOw5ZfY+YUgzSZRPvh73rgjmnCJwN0KuAH8DApZmak2GzdUeXUW892Puy06Y3jO7QOi6E7hpNy7kGDMKDz1JW3Xv8jqTA3KSpAXUnyPuFAYfuvmleRvqE75DjzWZsfjJgIrjYZBIhl31IIe+sAuqIsNlVBqw7EEXepY=;Pt0gtvJNxE/3GGHYzY8j1g=="
+secured: "O2LAmNeG13JSYW54W1UBOlQWM3ty9WbYAOCKZ145w9LaX2yRIJFYDchHySkqmlY62OpY7QSQ+CTjVW14V9eZwSbC0FbQCoGCZmAD02e3rg5MVqHaX4AgEyU6+CvVxGhRYEclYGm+w801zMYdac1TzVrcHvgMvkoDv7UZOn1Nuqje9nvb79iePPd+xbuibditShWE90v36KR99MKm5ZgXcxlclYAFi5hHzWH8k/pyfZYM1ikup5kN+0sEzzy4AxjvkKP32t4pg79fK4L/k21cTAYBwwov1LWxx2twUHpkU1PS5epCDOhpF+GkKprRSKhVK/+lGqNK4/p69/SfO0+Zf0G7tRR3VzeBKZq81qVOJMs=;iIGH/fBHpG4eo9jfND83BQ=="
 ---
 

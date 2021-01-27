@@ -1,14 +1,14 @@
 ---
 category: news
-title: "App Service Authentication portal experience is now in public preview"
-excerpt: "A new version of the App Service Authentication/Authorization portal experience is now in preview."
-publishedDateTime: 2021-01-21T17:02:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/"
+title: "Resource instance rules for access to Azure Storage now in public preview"
+excerpt: "Resource instance rules enable secure connectivity to Azure  Storage by restricting access to specific resources of select Azure services. Resource instance rules to control access to Azure Storage are now in preview in all Azure public regions."
+publishedDateTime: 2021-01-27T16:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-preview/"
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 83
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,15 +20,23 @@ provider:
 
 topics:
   - Azure
-  - Compute
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/57e5a3a7-6c89-438a-bd13-712987f17971.jpg"
-    width: 770
-    height: 529
-    isCached: true
+  - Storage
 
 related:
+  - title: "App Service Authentication portal experience is now in public preview"
+    excerpt: "A new version of the App Service Authentication/Authorization portal experience is now in preview."
+    publishedDateTime: 2021-01-21T17:02:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/57e5a3a7-6c89-438a-bd13-712987f17971.jpg"
+        width: 770
+        height: 529
+        isCached: true
   - title: "Python 3.9 in Azure Functions is now in public preview"
     excerpt: "Announcing some enhancements to the development experience for Python workloads in Azure Functions, including support for Python 3.9."
     publishedDateTime: 2021-01-25T18:35:41Z
@@ -38,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Resource instance rules for access to Azure Storage now in public preview"
-    excerpt: "Resource instance rules enable secure connectivity to Azure  Storage by restricting access to specific resources of select Azure services. Resource instance rules to control access to Azure Storage are now in preview in all Azure public regions."
-    publishedDateTime: 2021-01-27T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "App Service Anti-Virus Logs in public preview"
     excerpt: "Receive improved application monitoring with support for anti-virus scans ."
     publishedDateTime: 2020-12-09T17:00:20Z
@@ -66,6 +65,6 @@ related:
       domain: microsoft.com
     quality: 43
 
-secured: "DCNNQgAq9tMY5TOfMKKYLcYE5EhriDkGHIMeMxBUXVb8dFyuJy8F+o2oXfErDq4SMtC6GQ8lxNaVvNVwRV/VqOsQKtCEIHFvmpJ0nxc+cZQM19w3GhAZ6lxd9RMha/YKoPH1qdJmzheXZOzpWn7gcO8XlZ27uspEUt0TDrwIqji8d2R4N3n4ubeO65s/fNekSanPeszZSQ5ITxaKI2yUDStSO6kUsA8vQ8TtjkrJtR2kt31u3aXm0M3wdk2g6WtqlHe7mFduLjrbp0SdCLqlx6Ewq7hxcT2UjIzPtB1voo1RWCRyA3eCU2vcuiiwlaGA38R27+gXYn9voigVpR/GwUIgEEvExwzoQ+ap1gxCFYg=;RhwCmCCW8atqWDhnDgJKtA=="
+secured: "/tIcZFe+hHd0TyEO3R/lXNOyqAhFq+Yl5AgiydJ9jA7IJJyFJb0oYqQFtbLc5XU68IucznYG/x+6htQp9ELdJAF+4IDuxM9TJj74hzW4vRuib5N9zq/b1Sm4pseMrEwtqf92i4T/s0WzWp0JNVap1mrkKjBXxUpJbEOFpj/s8XwwjIBeA3Te72TsZFwlt8m9Sb1FflfN0/eWcvmmA/eainrjKQULKYIVgrsfTXxB8ZmN2ShXg+Q6cMuNDaJt6idm5SkCwdVoOfrpoz9DyC1kAMvNms7eAb8lAq8EPp5G+shtZqrvZ/zTaswqjP5GO2ikiKQZSurZuuSTyd7ONJVM7PfWVrayr365T0qS/Y92b64=;VGY3VJ1dl/nVnvmUcuUP2w=="
 ---
 
