@@ -2,27 +2,27 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+publishedDateTime: 2021-01-18T01:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
-
-images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
-    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -620,6 +620,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "RUMJVC/RUuzEUt/NZww1H6iXSwPaDmbdszmzq2DuECS0qc5HRHNMDahnSP7m+P8m0NmmGcMt9yYCYIPlWJBL9T2RuIXdHqQ8G0B/EDnuWrPKfXC0yASp1zeWwX00A52aGUDxVDl8XptvU17gWVT76WQSUOkRVX0sW8LQcoYSMp+qOQeCDPCuuFAdaWk4iT5NED5iXW858Z6pscXxequoY6bf00RTkFJilF9BdEdFbGxw+u9/WvgAtPn6yZa1Jd/cuJcU+HBGld1EiSzAZX8JgAm0DERL0OWUjpwdiMuch9a4lOzuVWYbc+0rF0rzfCPFAshTunah9dtj70Vr8otK+e/XaDerPXrv22wqXRXS/68=;vqj7TqSk7d/hBJjbRwN3RA=="
+secured: "ezJc6/ORCaU86JMXQ3Cau8lvh2RSMKbcWhoheJmNogXTBr7zLkhGVkwOj8Hmv4qyLhrwSN8gRLqckZzcrVnP4XABTbHDWkJ3PyPJaKzvm163mycmpt+1yDM1lUpQkj48wGHJbMRdFM3x39ZFfcivCWuKo3OpDvA4E7durG8doWLB/9HarZ7ExpL72skvFJmJjP08jIihNYj/MzRGZ9d3rZKkv/jp9WeXaPIgZONfCO3/E5laFqyCrmr7YPSfOyIROgBL3IB5MwivNSziCJkbcrnDvEHqZ+y/7VFZbSbEYFawcBIi0eD4nFK5KHiUI8TRIlv+DIITU9PKYGETXMqFplX0uAOvdzAFwG0VcSzX1Jo=;PP252WSgbij7ZQkY/MduSg=="
 ---
 

@@ -105,15 +105,18 @@ related:
         isCached: true
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-    publishedDateTime: 2021-01-21T21:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+    publishedDateTime: 2021-01-22T01:24:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure-301212893.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
+        width: 2063
+        height: 1082
+        isCached: true
   - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
     excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
     publishedDateTime: 2021-01-26T11:24:00Z

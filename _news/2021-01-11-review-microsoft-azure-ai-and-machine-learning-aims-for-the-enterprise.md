@@ -209,6 +209,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
+    publishedDateTime: 2021-01-18T01:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1029975774"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T15:50:00Z
@@ -451,20 +462,6 @@ related:
       - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
         width: 596
         height: 298
-        isCached: true
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-    publishedDateTime: 2021-01-18T03:38:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-        width: 842
-        height: 441
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Lunavi Distinguished as Certified Microsoft Azure Expert Managed Service Provider for Second Consecutive Year"
-excerpt: "The certification is the highest distinction Microsoft Partners can achieve for Azure and is awarded to a highly select set of partners with the demonstrated expertise and capabilities to help ..."
-publishedDateTime: 2021-01-20T16:15:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210120005181/lunavi-distinguished-as-certified-microsoft-azure-expert-managed-service-provider-for-second-consecutive-year"
-webUrl: "https://www.morningstar.com/news/business-wire/20210120005181/lunavi-distinguished-as-certified-microsoft-azure-expert-managed-service-provider-for-second-consecutive-year"
+excerpt: "CHEYENNE, Wyo. & DENVER--(BUSINESS WIRE)--Lunavi, a leading provider of digital transformation consulting and managed IT services, was awarded Microsoft’s Azure Expert Managed Service Provider ..."
+publishedDateTime: 2021-01-21T05:47:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210120005181/en/Lunavi-Distinguished-as-Certified-Microsoft-Azure-Expert-Managed-Service-Provider-for-Second-Consecutive-Year"
+webUrl: "https://www.businesswire.com/news/home/20210120005181/en/Lunavi-Distinguished-as-Certified-Microsoft-Azure-Expert-Managed-Service-Provider-for-Second-Consecutive-Year"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
 
-secured: "0xWoLN4s2BPAXIK43LQccQ/evSb2bSFUEiANevnUe0L3qgLROkdLYmW0GUdTit7fYmoaeVpLjo4qtSchaSO/sNUW/rmJtpFEXVFwSIBg2Wp+ypcq5SiWBbI/zku3/anRDfAwd+m3bs8l/ItN62FT3ryLkatIRH1JoxiEAwa+Vra8DhjYYWzy0IQhDKtX0EoRh6uQ8dx8v7/6KsvBQrIi/RaL++NU9CRj6dwJYDUhaFDwMUrJngViN+m8f0ZcYDkj5P62f4iSZS2wVkGIAsANzfgGwdTRpALjX9U2+P+dCsiSYwp0ScwLDxwyhP/Z+XnXyI7QLOwcWDlFY9F7ppQXxiLUB4tFBa8PyMRqzbzDMCk=;E9qtB0zTVaM674Kyary2Og=="
+secured: "7YjUZF1DYvIi9vL8aiwlTmSoIqraDp0MAk4zm0elWuriaNaul7w/G8ZY0QQF8bunz9MUBLWyPTeE6LHtgnrRtP1QUClc+A07Ua5doPI81YqnNFoTACCHLfF1JJsGA5Nw2BGXwOxoaL7+gHPm+zPHNhhxGw85zrPOhrgyi2/En2yERms1ppcXGUqVYoW/f2Vv6nriHN7/9VDethDT8IchLGSmcvdGkTql2BbgXb28B8pXNN+SkRabH09fVBMFq4u9rTzQRYJIgEuAjL2J/5Qa4kv8hXCIFgr9KzkzUGOqyppUzU79sQl1QYq3mc+Xu5YjxkTD1TPHmJQk+GE0BiqqmhmUYF1HoIn82K+SzSl9usE=;q03xPekajx355aWNu1VPgA=="
 ---
 
