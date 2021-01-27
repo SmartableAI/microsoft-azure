@@ -119,6 +119,22 @@ related:
         width: 893
         height: 439
         isCached: true
+  - title: "Microsoft moves closer to running all of its own services on Azure"
+    excerpt: "Five years ago, Microsoft still was not running some of its major services on its own Azure cloud. Since then, the company has made a concerted effort to change this situation and it's closing in ..."
+    publishedDateTime: 2021-01-12T20:59:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/11/b2be8710-35ea-4edb-9427-925f4df0d0a9/azurehostedmsservices.jpg"
+        width: 935
+        height: 670
+        isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
     publishedDateTime: 2021-01-18T11:47:00Z
@@ -203,6 +219,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 76
+  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2021-01-18T14:05:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T05:30:00Z
@@ -431,20 +461,6 @@ related:
       - url: "https://www.androidguys.com/wp-content/uploads/2021/01/excel_screen.jpg"
         width: 596
         height: 298
-        isCached: true
-  - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-    publishedDateTime: 2021-01-18T09:11:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-        width: 842
-        height: 441
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"

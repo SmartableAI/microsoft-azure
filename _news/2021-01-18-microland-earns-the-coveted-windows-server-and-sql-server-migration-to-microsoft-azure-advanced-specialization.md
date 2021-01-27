@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T09:11:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2021-01-18T14:05:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
+webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -118,6 +122,22 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
         width: 893
         height: 439
+        isCached: true
+  - title: "Microsoft moves closer to running all of its own services on Azure"
+    excerpt: "Five years ago, Microsoft still was not running some of its major services on its own Azure cloud. Since then, the company has made a concerted effort to change this situation and it's closing in ..."
+    publishedDateTime: 2021-01-12T20:59:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/11/b2be8710-35ea-4edb-9427-925f4df0d0a9/azurehostedmsservices.jpg"
+        width: 935
+        height: 670
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
@@ -604,6 +624,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "aSpCB+0wN83HYuJ0iSzyRqUjnMxG/oU1nnmYt5O+Bhnl1C570Q5QSlzMBSYoRPsAdpjp/3d+BRi5EQ+M8JYoVOKJW01Ads6mnCszyY5YE7KPzD/4AiQzCL1zzLLFjmgzEEaWQxceBSTWTZyvCWloj8AxWjYVP3ad3A17L0PRTFlrq7TE/PzYoVPu54KFoIaGo/QznIrRoN1YuNz1EMHXJ1fidCyS4Y63U+GLGsDsLcaJCE17ZgciWh8kjDJxcWT/OpJzWHFIITeFpMmtvR7ANAFKHYbtO9LitdD6eYzOgdzmYRLlkixUWgbLE8vcvAjhdNlIF1EVChB5BFQ/L1hlvvmvB6Lle+seg8ropaaRJ94=;GpE91kTVN0UNhwR/oLyZwQ=="
+secured: "W5BM5pWhuydBb8spscrIaOS8+keSgbmRBcO68f1P+omKPh11cmXSIcyIumOPmEl1GXTWsqZ0Vr0d11rlwFbx+aBoYJZZO3bsar2vUyf1cZXmucMQAhwLg0/GFGaAtvHUMhJvQQDJzNkFuZoQ3NaCacD70ETxe+IjkSh5FWOr5Qmgs76J1x4oimFjdv7xuYWPrKrvFyFgfxKkCkCn3l85FMIjmDQUxIld7jKk+s4zWDKiDz+uRxkA8P9s5c81SEoxhL4SqS+k+qPZCqCr5hSVrHN92S9jUetJVXVjxsUl1NEgGYvQ7U8gD5cikDej+9mk5ItLVwKmwNGzIsTn2deG3IouXdvXbZhcVBD733FwkK4=;w+IV9tGVCAQoZtktmG6T7Q=="
 ---
 

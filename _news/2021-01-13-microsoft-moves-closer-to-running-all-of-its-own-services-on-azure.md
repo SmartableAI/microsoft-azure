@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
-excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
-publishedDateTime: 2021-01-05T20:52:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+title: "Microsoft moves closer to running all of its own services on Azure"
+excerpt: "Five years ago, Microsoft still was not running some of its major services on its own Azure cloud. Since then, the company has made a concerted effort to change this situation and it's closing in ..."
+publishedDateTime: 2021-01-12T20:59:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+webUrl: "https://www.zdnet.com/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
 type: article
-quality: 32
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
+  - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/11/b2be8710-35ea-4edb-9427-925f4df0d0a9/azurehostedmsservices.jpg"
+    width: 935
+    height: 670
     isCached: true
 
 related:
@@ -117,22 +123,6 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/2021/01/09/cc0a1fa0-25c9-463e-9795-f6d360999169/flexera-tech-spend-3.png"
         width: 893
         height: 439
-        isCached: true
-  - title: "Microsoft moves closer to running all of its own services on Azure"
-    excerpt: "Five years ago, Microsoft still was not running some of its major services on its own Azure cloud. Since then, the company has made a concerted effort to change this situation and it's closing in ..."
-    publishedDateTime: 2021-01-12T20:59:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-moves-closer-to-running-all-of-its-own-services-on-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/11/b2be8710-35ea-4edb-9427-925f4df0d0a9/azurehostedmsservices.jpg"
-        width: 935
-        height: 670
         isCached: true
   - title: "These Microsoft Azure tools can help you unlock the secrets lurking in your business data"
     excerpt: "How to develop business insights from big data using Microsoft's Azure Synapse and Azure Data Lakes technologies."
@@ -503,6 +493,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Blue Prism accelerates intelligent automation for cloud users on Microsoft Azure"
+    excerpt: "Delivers on Blue Prism's vision of giving customers end-to-end automation solutions spanning IT environments, including on-premise, hybrid, public cloud, and SaaS"
+    publishedDateTime: 2021-01-05T20:52:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144593"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "HITRUST Collaborates With AWS And Microsoft Azure To Enhance The Shared Responsibility Approach For Cloud Security"
     excerpt: "HITRUST®, a leading data protection standards development and certification organization, today announced the release of publicly available resour"
     publishedDateTime: 2021-01-12T11:52:00Z
@@ -619,6 +623,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "6EXt1pZr9FXpyTSjaMo4gjLRISqK35f+O4xr83tfiSSP5oU249WEx8VdLYq6tx4vHCH+Es/nGcTHRYypoh5wbfzJ1hy5gFs01VuFsfs8tvJLpJbVMxsGOoow1VQHaKQ5hDwGldSsWypOUOw9jcHaA7J4AF9DYsaRLkEN0sRKMt6YfyAkDbVD0jCGA8H+zMOqtybkptnMO6HMwllHSl7H2PqRxi+sdQBbfBMrgb+i8NHgZJ7QHfI5C1/peV3MspkzpvrKhpotw7VTa4RTQWU2xLY6qBZqj2ypq/sEGixIeDrLZWvmQdCyqWK9WUglYHDQ/lCFow0RPzBfjKACKrsVqCvvY+XkUOFnoIF6QP3Q7MU=;pfLRp1kT3F7+/IlOWp0rzg=="
+secured: "5Byx1ddn9sNSmf/5H/SywfCxI8F3qEWngixqXrDRorKChZNvVUYHiVGqLO2i9jUovHS3QaBazsb9wNogAdusA9ORYNCDtsYYnCwtdx842ph5xZWeLLpyDaJV6BxvCM9kCz7kLrRa74nCiHp319gRC+PzabOcSa/9a4HfXivfgssU5dUmkD8jvB3O4Na02gg8wRg7j0eWZ9qujoOF2YKikV1M2rezt5un8InMITJvQI2ti0gzRbYg3goj/jU2b3J8Or2ms+fqgzsNSDQaoo2q/vXylJ4AcwOesvQ18Ln8wyLPQiW2PSg3NduX7yEzHGpQ6fCALP4pjb2WtV9K1jnjjVl7tm9gMzjSQkHQ863vyMc=;uHUeo1QdFpxfeAOH8t+Xcw=="
 ---
 
