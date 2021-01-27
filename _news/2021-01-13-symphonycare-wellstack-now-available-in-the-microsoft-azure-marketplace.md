@@ -26,12 +26,12 @@ images:
 related:
   - title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
     excerpt: "Sajan Parihar, Director, Microsoft Azure Platform at Microsoft Corp said, “We’re excited to welcome SymphonyCare’s WellStack to the growing Microsoft Azure healthcare marketplace ecosystem ..."
-    publishedDateTime: 2021-01-12T14:14:00Z
-    webUrl: "https://www.oaoa.com/news/business/symphonycare-wellstack-now-available-in-the-microsoft-azure-marketplace/article_74f8c8a0-d066-5822-85fd-dfe7268eeef2.html"
+    publishedDateTime: 2021-01-12T08:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210112005002/en/SymphonyCare-WellStack-Now-Available-in-the-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
 
 secured: "7lqrZYzwbdnwCJWRESkTNSwhunbikOfVBJwIcGaCfFFHEkqeOH2wtIBAU5fDA1tQXNWFZPgDKiERKCFTDMiWWqXR19x+ZTDP/OSwTtahkCrt/ii+TpFipKK1PKoLCYN6r+3KNKLbcGWhTqzQuiPthLZFHU3RK/MMCSb0ottkZQnSg7zDgxYgLdYUlBfxaziqV6LSsH4w1Faf0MLK0kuwF/tc/zB/FGCNQ0DqwX0nSChzV+xx+/xeRn+DB7S7mOCKI1VZRGRDdThLhjqYrGLK3vc6jyCgF2xqdVIM9+qiD18OtXhLgR4PYvFxyNIoLO1XrnJPZKXayG6HnX3w0cQv6t1u95jbx03E9yH1NaKmGlI=;XIoKfc5BNpEx31+PkaFvzw=="

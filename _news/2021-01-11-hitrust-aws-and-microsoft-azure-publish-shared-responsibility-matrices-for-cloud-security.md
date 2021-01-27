@@ -204,18 +204,34 @@ related:
       domain: zdnet.com
     quality: 76
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
-    publishedDateTime: 2021-01-21T04:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-21T05:30:00Z
+    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 69
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
         height: 493
+        isCached: true
+  - title: "Get 6 Microsoft Azure courses valued at $199 each for under $35"
+    excerpt: "It's not often that you come across six fully-loaded Microsoft Azure prep courses bundled at a deep discount. For those looking to get ready for the Azure certification, these courses—now ..."
+    publishedDateTime: 2021-01-11T08:00:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"

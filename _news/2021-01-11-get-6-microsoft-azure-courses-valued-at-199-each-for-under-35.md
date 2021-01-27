@@ -1,27 +1,29 @@
 ---
 category: news
-title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
-excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
-publishedDateTime: 2021-01-15T05:04:00Z
-originalUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+title: "Get 6 Microsoft Azure courses valued at $199 each for under $35"
+excerpt: "It's not often that you come across six fully-loaded Microsoft Azure prep courses bundled at a deep discount. For those looking to get ready for the Azure certification, these courses—now ..."
+publishedDateTime: 2021-01-11T08:00:00Z
+originalUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/"
+webUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/"
+ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
 type: article
-quality: 76
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+    width: 1600
+    height: 800
+    isCached: true
 
 related:
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
@@ -191,6 +193,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "SAP's Q4 shows improvement, adds Microsoft Azure alum as marketing chief"
+    excerpt: "SAP issued its 2021 outlook as it aims to move its customer base to the cloud. Julia White will be chief marketing and solutions officer at SAP. She previously led product marketing for Microsoft Azure."
+    publishedDateTime: 2021-01-15T05:04:00Z
+    webUrl: "https://www.zdnet.com/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/saps-q4-shows-improvement-adds-microsoft-azure-alum-as-marketing-chief/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 76
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
     excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
     publishedDateTime: 2021-01-21T05:30:00Z
@@ -204,22 +217,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
         height: 493
-        isCached: true
-  - title: "Get 6 Microsoft Azure courses valued at $199 each for under $35"
-    excerpt: "It's not often that you come across six fully-loaded Microsoft Azure prep courses bundled at a deep discount. For those looking to get ready for the Azure certification, these courses—now ..."
-    publishedDateTime: 2021-01-11T08:00:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/"
-    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-6-microsoft-azure-courses-valued-at-199-each-for-under-35/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
-        width: 1600
-        height: 800
         isCached: true
   - title: "Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, today announced an additional purchasing channel for Teradata Vantage on Azure: the Microsoft Azure Marketplace, an online store providing software applications and services for use on Microsoft Azure,"
@@ -606,6 +603,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "lfdrYNffmp8aIUKbMxgmpTaIjnjCgSL4ftg77nBVYMNY4Gqsf68UQsF0nvX7+oTXnyaeaA3gSjxdq9O86obeXD5Aiz5MlKw/RgCdQaXuio+tQlbeqjXbIlGUueEWzgZ6yXzGMnR9R68jWJQC1dBsjKJaJwK9/buLycfcYoUv7Sy2TXPAb7LGXMM/hcKGirVL33Q5jgNCPo18ppMXgw4ctCsTdsWXvFsuBRvVp76aT+3h2CHETUCG7d14DvEz40n/JIcleOW/ENHwGyDL1+/Qd9RseY5cYMHV7KdW9bVIzCiA1BmjexlA1pTvM5wnvECKGZj6q/oDVQy6KGIlln5HeyLkZ+WfGmt7yWSy+i9bn/t0EEPgi6BrQqEf8C0029hAyLHavCe7x1xNcHr3BgOBoZmexHIffWZlQJyVErlkcOY8FaxRkuXR0Nx533xiTdM8dHjQ+E64aAnXkFvx6qEux7Iy+t2kbn0961Ve6/wLtdCufTj78kcA0dAhxnwG2YPHxl/EZrgEXJPl/GK3JLo92w==;GYB4WyIe8Bi7HdtbDqPPLQ=="
+secured: "JeJK3Y1duwdKGribJrlQ+4fFYii//mzkHHuIauyM4JkXKA5vgwLpxgMp/hhaxuAosLgAfORE9br1N2jEd+nZQ3c3rPldbrKUWmfNQG+AvbjfuObSX8c0PH0oWTde3w2t0rO7HDPoEYlaCtwZY4YcD2vG1CZi71xz0uu2YS1P4v/2e+I5HrBOQsPvgQxWezlxtEaX2gur3yNyFQdPra8DZEOuUJTafCr02hM4IgG+P0Yzzc+7wpxlUCnL7x1gtFwb720oCxpTMW6s2b1q2ejq48h0ACeEtgyjVb2NCWIV2sSLO+e8jfScaV8LQuHtBlq0iQuDlDxy6sD7ohLoh/fcYvaSRHfSPOCLneuSRE/zqvo=;QSz+CN9b7+75EOK5aalZqg=="
 ---
 

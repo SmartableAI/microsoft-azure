@@ -2,17 +2,17 @@
 category: news
 title: "SymphonyCare WellStack Now Available in the Microsoft Azure Marketplace"
 excerpt: "Sajan Parihar, Director, Microsoft Azure Platform at Microsoft Corp said, “We’re excited to welcome SymphonyCare’s WellStack to the growing Microsoft Azure healthcare marketplace ecosystem ..."
-publishedDateTime: 2021-01-12T14:14:00Z
-originalUrl: "https://www.oaoa.com/news/business/symphonycare-wellstack-now-available-in-the-microsoft-azure-marketplace/article_74f8c8a0-d066-5822-85fd-dfe7268eeef2.html"
-webUrl: "https://www.oaoa.com/news/business/symphonycare-wellstack-now-available-in-the-microsoft-azure-marketplace/article_74f8c8a0-d066-5822-85fd-dfe7268eeef2.html"
+publishedDateTime: 2021-01-12T08:02:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210112005002/en/SymphonyCare-WellStack-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20210112005002/en/SymphonyCare-WellStack-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -33,6 +33,6 @@ related:
         height: 450
         isCached: true
 
-secured: "0LPOAGf2XZ0R3CMFPQi47QjJ8BzW2WuDEDaNyAr8prOrEhjhXDtko/kkvTkY0Z7TTmatYuzkzS9Ca0Snp8yHmb592IKuiElkJFqUYRtweQHXw6F62TsrcNZZgiwmMgsSW2B8OaYBa46Ltde9k5RIuN5h3bJCHHsZ5jyE9MKZIBmgKldRCUcWcsx4oN+M3lnKxjInRGUU1e+dzTf6IjcalUPHmHS2H2GgAfd3s+rZny9bR3CBrESpn9tOsixfm4SWGLnvopVhdejpse+tWht9lWP7d4m0f+JQobXwYIbpihOIPo1dEi/Z8TroH/zj1Dk4DKNx3CB2DwtUahjSK3Y1j1YZftPMf6/xn2mTGZ0fRmI=;2fEyVoXNjATCQE92xTlTlQ=="
+secured: "An3Vk2vcqVOEFwR0lb80r9y25MhDe+OWahPX/dwaJ0Qnk8WcaO27tk9xWcXuhEUv7542op7cTyOxXBK6FqPVBRlC6LSg5OgEXCi8tws+xp5gpQ9zWK31MieoPUiAVNnfPKHv39MJTKFYq3DzPhZNbT7EoGtkUymurtk2coGEE7K9/4uQVNoXHd5N+0YC+YfTMdmxvCScaxy7m/RcA1/fVHwnmm0IHdDWlta4W75HNTAdU4YZ8nS1imC4tpdVjwrj4hdVRCJ+JJUDfNxbkon+U+XEkU/5UVaH2cumXJlj50EfiVrUReS4aTrBg6BxIwa2sEDvc/dqAmXe5i0eTmnkxEFyFlCC6cW+38tozrSXOws=;PODUiDhTS1UWiFjC03Ovgg=="
 ---
 
