@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 21254,
-            "average": 4.7838054
+            "count": 21294,
+            "average": 4.783836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 4546,
-            "average": 4.7122746
+            "count": 4559,
+            "average": 4.7126565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 3949,
-            "average": 4.7601924
+            "count": 3955,
+            "average": 4.760051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3127,
-            "average": 4.75056
+            "count": 3132,
+            "average": 4.7503195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,53 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-session.md",
+      "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
+      "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 26,
+        "average": 4.6538463
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -236,8 +283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 3949,
-        "average": 4.7601924
+        "count": 3955,
+        "average": 4.760051
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +821,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3152,
-            "average": 4.7325506
+            "count": 3153,
+            "average": 4.7326355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6881,
-            "average": 4.659933
+            "count": 6882,
+            "average": 4.6599827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -853,8 +900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2641,
-            "average": 4.6486177
+            "count": 2642,
+            "average": 4.648751
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1015,8 +1062,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 1586,
-            "average": 4.735813
+            "count": 1587,
+            "average": 4.73598
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1058,8 +1105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3129,
-            "average": 4.7146053
+            "count": 3131,
+            "average": 4.7147875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1226,8 +1273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2641,
-            "average": 4.6486177
+            "count": 2642,
+            "average": 4.648751
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1401,8 +1448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3159,
-            "average": 4.6717315
+            "count": 3160,
+            "average": 4.6718354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1657,8 +1704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6262,
-            "average": 4.714149
+            "count": 6264,
+            "average": 4.7136016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1693,8 +1740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2476,
-            "average": 4.6167207
+            "count": 2477,
+            "average": 4.616875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1728,8 +1775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5607,
-            "average": 4.6133404
+            "count": 5609,
+            "average": 4.613478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2071,8 +2118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5607,
-            "average": 4.6133404
+            "count": 5609,
+            "average": 4.613478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2451,8 +2498,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5115,
-            "average": 4.6957965
+            "count": 5116,
+            "average": 4.695856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2486,8 +2533,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5607,
-            "average": 4.6133404
+            "count": 5609,
+            "average": 4.613478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3302,8 +3349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 5607,
-        "average": 4.6133404
+        "count": 5609,
+        "average": 4.613478
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3626,44 +3673,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 676,
-        "average": 4.673077
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
       ]
     }
   ],
