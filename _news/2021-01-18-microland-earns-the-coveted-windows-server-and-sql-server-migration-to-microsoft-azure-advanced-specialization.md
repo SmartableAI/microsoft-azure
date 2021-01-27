@@ -2,9 +2,9 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T09:11:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+publishedDateTime: 2021-01-18T03:38:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
 type: article
 quality: 34
 heat: -1
@@ -620,6 +620,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ai62+Aas3HoKTzy+IiO6P1v5osTSTpZWA++Gd5iZdPZCJhujqxZcNoADcw814lZ38/x7yAa79u9hPo09/ngHYeRWXaYNDVjnaDwrM3yqb0lU18yXfsDh16fwkCsXayLFq/RFos9svu1KdlzrUcdRHzFyNJqQbOTYstJT/ycq/1LouGhqwsKyawwCwDw462rWyqcAmUJusCMDdJ/eCyYBeNC+KWR2/NrbF/EgT5vx69ZgktmmwrCrlLMcErUCtCtswWzxMpWea1R2UHxvMdwtYtSSa1BrT72d+w48CQkZxJCasz6aJM+jqhXYC71cT2N4le/BA8938HvJlflgse9egNJYPF9H6Q6fBDc9Ynj5b1M=;dNgpRrak9+Dx6I40JjgjAg=="
+secured: "c9oByBKdkQZovYp7tW42VI+Lkbz3mH3SyqUWW1R9bMQJMLzMMTSrqfE9+LfWYSsupGNTAtq/UBlaO6M1mgm4ll+QfX84gMa7CJI5bc+18SH4i9AUAl71TTrRp5zoUMJuuNbGGNf+vM3OFhHRdrmP22bW0Q394n3pFMt6kBTPjdEOO9syEsBjcO9D5faBXOTnVc7hAAaW+Ncg7vOf9BPrSkOh4QEhfePR+/bOyr5oc/tX+y4X2rzcA7+W1Ju2Up6UQVKuGc21OIO/An4D7s1oCi+56hTGCCVEq9OaYAb7aGY8ir6A+4yFdsiprCHY416J2RVbXAusgkDnjSXoiBvoKiKxfIp25A1qqMjd6v6WMyk=;DwGoX/cBnqzNRVwVTqDTeA=="
 ---
 
