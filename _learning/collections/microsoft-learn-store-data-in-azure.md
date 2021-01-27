@@ -4,7 +4,7 @@ excerpt: "This learning path gets you started with the basics of storage managem
 type: collection
 price: Free
 length: PT3H50M
-heat: 76
+heat: 82
 
 provider:
   name: Microsoft Learn

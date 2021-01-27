@@ -4,6 +4,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks.md",
+      "title": "Secure your Azure virtual machine disks",
+      "excerpt": "Explore the options for Azure disk encryption to encrypt OS and data disks on existing and new virtual machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-virtual-machine-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 2923,
+        "average": 4.6712284
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
       "title": "Survey the services on the Azure Data platform",
       "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
@@ -11,8 +48,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 5037,
-        "average": 4.6912847
+        "count": 5040,
+        "average": 4.6914682
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -94,8 +131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 2064,
-        "average": 4.6802325
+        "count": 2065,
+        "average": 4.6803875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
       "length": "PT46M",
       "ratings": {
-        "count": 310,
-        "average": 4.748387
+        "count": 311,
+        "average": 4.749196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,42 +465,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
-      "title": "Connect an app to Azure Storage",
-      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 5464,
-        "average": 4.6282945
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-explore-data-storage-processing-azure.md",
       "title": "Explore data storage and processing in Azure",
       "excerpt": "Explore data storage and processing in Azure",
@@ -471,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 607,
-        "average": 4.69687
+        "count": 608,
+        "average": 4.6973686
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -851,8 +852,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 696,
-        "average": 4.702586
+        "count": 697,
+        "average": 4.703013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -900,8 +901,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4611,
-        "average": 4.7436566
+        "count": 4612,
+        "average": 4.743712
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,8 +1217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 882,
-            "average": 4.6496596
+            "count": 883,
+            "average": 4.6489244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1446,8 +1447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 78,
-        "average": 4.525641
+        "count": 79,
+        "average": 4.531646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1491,8 +1492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-lambda-architecture-iot-solutions/",
       "length": "PT28M",
       "ratings": {
-        "count": 464,
-        "average": 4.6271553
+        "count": 465,
+        "average": 4.6258063
       },
       "provider": {
         "name": "Microsoft Learn",
