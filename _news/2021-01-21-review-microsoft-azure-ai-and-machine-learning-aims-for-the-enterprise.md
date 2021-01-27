@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
-publishedDateTime: 2021-01-21T04:57:00Z
-originalUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
-webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+publishedDateTime: 2021-01-21T15:50:00Z
+originalUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
     width: 740
     height: 493
     isCached: true
@@ -450,8 +450,8 @@ related:
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-    publishedDateTime: 2021-01-18T09:11:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+    publishedDateTime: 2021-01-18T03:38:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
     type: article
     provider:
       name: PR Newswire
@@ -620,6 +620,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "ggmVhKvd6mkpaIeBG+2sm9jroVUX8FBVjbZgSKVtqk/0a3T0fSCRYnjLCk6GqZTUcvYm9PU9XQjm4D9yEAdxd3g1jXHcltlduRuqANxTMsKGZwbt//VmCIlzvNAmY23t9/GwXNsvU7gNAxuRXWBQMTnkUsMJycfd+HaLTquxG+7pJ8hbN87Pzzjb4PE6UAbre4nduAq2t6aUd40+UU9sQg8/V0i3alVuQ/10U0cAMpFP9SIgV/PvorhkJgpwl/vtBPngcu5NT5b45YZsMC23tNsScZ2HHxkR6gWZm8g4SwMKOrk8eaB4Nr2FVcT6jaPjdz7wqmEkTrz0dmhyZ+NfPwLAmgWC5GD3hB+SV59ahTA=;dDwN0cKZCqKLAOuLrNMrog=="
+secured: "8eBzpqtcreYpSKtzM6zSOcB6QT6s/xyr1RQh15/32kOBDMygf1UnapLpyoFrsm4D2capQgl1T9D8gvVadNgysZOdlJIZCyMglFFaEB4oxs3NzmODu4DiNX/0lKDtiyJPmxQcQ77L8+tepSeN9Crf8zJ+MSUlSX/xuFCuhAybDIjA2bGDV4FpDxB9iHbF37XtHvgQ8acWT2u0GXcfg7Tzo/qFA/FEtcd2HX3km1TKuqKYLG4W5tlCVvAjxNp7vSU1ddUDXbmKi7nJruT5FjFzHwg6vAZUsY/1iY2fJqP/66rgQLgHwdpXgKIBdWt1A0vE+Q1L75DEuF66aOYavavBO8bW9zzOgHhdEJ65H2YIVBo=;Q4mdPWoSIUvtQNlipGj4Eg=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T09:11:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-810853627.html"
+publishedDateTime: 2021-01-18T03:38:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
 type: article
 quality: 34
 heat: -1
@@ -220,16 +220,16 @@ related:
       domain: zdnet.com
     quality: 76
   - title: "Review: Microsoft Azure AI and Machine Learning aims for the enterprise"
-    excerpt: "Microsoft has a presence in most enterprise development and IT shops, so it’s not a surprise that the Azure AI and Machine Learning platform has a presence in most enterprise development, data analysis, and data science shops. Enterprise AI often has ..."
-    publishedDateTime: 2021-01-21T04:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
+    excerpt: "Microsoft Azure combines a wide range of cognitive services and a solid platform for machine learning that supports automated ML, no-code/low-code ML, and Python-based notebooks."
+    publishedDateTime: 2021-01-21T15:50:00Z
+    webUrl: "https://www.arnnet.com.au/article/685477/review-microsoft-azure-ai-machine-learning-aims-enterprise/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 69
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/azure.jpg"
         width: 740
         height: 493
         isCached: true
@@ -620,6 +620,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "hbeNJPfyR69KRQwbHSmdJ2Ch5gqUdN5WeRTH2HeoVjb4sk0bRq9swbzyQPbMgTkevg+LeI4MU20nMsmsXy4ipmQ2GofQmXLBXQDyHpOHa1xgjaAgkHkemsAnTWC7+IWFvfGSoVtxhVgPLOFSsw3w13zJbdKx6BzFtD5XrCB5/0oN1CJfUNOYcychR2Ubt8qSJ7xLUfIHaZlq7iqaxyFfK0qQCehCsB9iYDMJXI/K36bxGG35tva72ruRSeLKQ7DmchWYn2H1VAlY+XpHW/aAxBWp/bNq8+iZeg3OX4A+UsPLW/DVQ7ADR+s5Yaqby8EquNzaS42PaQ7K6PRWOxBudO5KV9ACdIniNYLf8pbfZ6I=;MYykaNrnNyUHUdIyka/C/Q=="
+secured: "RUMJVC/RUuzEUt/NZww1H6iXSwPaDmbdszmzq2DuECS0qc5HRHNMDahnSP7m+P8m0NmmGcMt9yYCYIPlWJBL9T2RuIXdHqQ8G0B/EDnuWrPKfXC0yASp1zeWwX00A52aGUDxVDl8XptvU17gWVT76WQSUOkRVX0sW8LQcoYSMp+qOQeCDPCuuFAdaWk4iT5NED5iXW858Z6pscXxequoY6bf00RTkFJilF9BdEdFbGxw+u9/WvgAtPn6yZa1Jd/cuJcU+HBGld1EiSzAZX8JgAm0DERL0OWUjpwdiMuch9a4lOzuVWYbc+0rF0rzfCPFAshTunah9dtj70Vr8otK+e/XaDerPXrv22wqXRXS/68=;vqj7TqSk7d/hBJjbRwN3RA=="
 ---
 
