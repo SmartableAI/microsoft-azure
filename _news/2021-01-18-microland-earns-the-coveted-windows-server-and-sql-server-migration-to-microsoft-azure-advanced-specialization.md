@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
-publishedDateTime: 2021-01-18T03:38:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-828069243.html"
+excerpt: "Before it's here, it's on the Bloomberg Terminal."
+publishedDateTime: 2021-01-18T14:05:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
+webUrl: "https://www.bloomberg.com/press-releases/2021-01-18/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-kk2my4oy"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
-    width: 842
-    height: 441
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -463,18 +467,18 @@ related:
         height: 298
         isCached: true
   - title: "Microland earns the coveted Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Microland, a leading digital services company today announced that it has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization. This recognition is a validation of Microland’s deep knowledge,"
-    publishedDateTime: 2021-01-19T05:53:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-3d8aae5891105a79520003325e8056d5"
+    excerpt: "This recognition is a validation of Microland's deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure. This recognition is ..."
+    publishedDateTime: 2021-01-18T17:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/microland-earns-the-coveted-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-301209233.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1343841/Microland_Logo.jpg?p=facebook"
+        width: 842
+        height: 441
         isCached: true
   - title: "Blue Prism Accelerates Intelligent Automation for Cloud Users on Microsoft Azure"
     excerpt: "New Offering Extends Blue Prism's Intelligent Automation Leadership in the Cloud and Brings Increased Benefits to Microsoft Azure Users LONDON and AUSTIN, Texas, Jan. 4, 2021 /PRNewswire/ -- Blue ..."
@@ -620,6 +624,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "rzVe4UEZ4dRTB/NiWOwN/2qT108tNGLUWcbQ8Hp/Nut0LTf2nE/z6mqHoQ+JcUGIOPwwAPLA4lGrAput9L8B0454zducO7uGuqyF7K0tuLYy8QcUaTuPuzGg5YndKEm52ICMjOJsI2TywBntdH3dos5S6I8GlXinxXVuJTFxYyqiERDwI92xFNHmMFP5BNUAj/UMqZcCnbitSf7GECm60k0XMlOk4xkFewYbhzVpT9VojsP3bM0JHxSlFzqM8zsoZl4mh+JwlSUAoo7dU/jOWhPGWgjP3luWACaIsBvwgbgjo4TgFNsj2J5CUVogH9SAATAYRR16bW7vFZ67QkT63Bv5rhmDg9mkMN1vIXiC+ko=;k15RcsO0bzvzVU6Wq6mB0Q=="
+secured: "GRxJEU9fIWnYq5/YyCNGgHYDmxKHMIg8x0t4DdMGfCMlzGTwcJjUMs8WyBtk9NNcd874HwAmROAysdpEaAFZ+JaVejVActSd6Bgqcj3AXcUloYluiGeWJnTYy7TfBSNLN4xpQP6zQtZkcRtInnv95eOMIiR0w2kkzmGjU/DXnLZUXWZCJvAs8+5D9af5e/ysh8iO69Wd/zPaGbteYCXD8DVN6tw1rj6qa7abpdejbmdrZLu8zS3s9p1zX8xseDf9BrxFZYQl9Vztn9ZOTwMhXvi7OhGlil+fl6EZOBcCliiEHboYFdcNSqRUXRazIKzDvqg1GGuH5Qgkb2tN/NG+ddwJZ5g4CIagSRUd/6r7Ehg=;SwKCuCkaCqxXRE+5yLz/xw=="
 ---
 
