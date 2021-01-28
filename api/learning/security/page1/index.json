@@ -4,6 +4,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
+      "title": "Fundamentals of network security",
+      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 3159,
+        "average": 4.7122507
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 149,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-4-describe-general-security-and-network-security-features.md",
       "title": "Azure Fundamentals part 4: Describe general security and network security features",
       "excerpt": "Learn about the various Azure services you can use to help ensure that your cloud resources are safe, secure, and trusted.",
@@ -34,8 +69,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 21533,
-            "average": 4.783913
+            "count": 21546,
+            "average": 4.783858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2524,
-            "average": 4.737322
+            "count": 2528,
+            "average": 4.736551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 2721,
-            "average": 4.776185
+            "count": 2722,
+            "average": 4.7762675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -358,8 +393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 2524,
-        "average": 4.737322
+        "count": 2528,
+        "average": 4.736551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3160,
-            "average": 4.7332277
+            "count": 3161,
+            "average": 4.733312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -469,8 +504,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2644,
-            "average": 4.649017
+            "count": 2646,
+            "average": 4.648904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6885,
-            "average": 4.6599855
+            "count": 6886,
+            "average": 4.6600347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1303,8 +1338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3160,
-            "average": 4.7332277
+            "count": 3161,
+            "average": 4.733312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1347,8 +1382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6885,
-            "average": 4.6599855
+            "count": 6886,
+            "average": 4.6600347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1382,8 +1417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2644,
-            "average": 4.649017
+            "count": 2646,
+            "average": 4.648904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1581,8 +1616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7118,
-            "average": 4.6496205
+            "count": 7119,
+            "average": 4.64967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1749,8 +1784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2644,
-            "average": 4.649017
+            "count": 2646,
+            "average": 4.648904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1894,41 +1929,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
-      "title": "Fundamentals of network security",
-      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 3159,
-        "average": 4.7122507
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 69,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-secure-infrastructure-in-azure.md",
       "title": "Architect secure infrastructure in Azure",
       "excerpt": "Learn about the tools and services available on Azure to ensure your resources are secure.",
@@ -2002,8 +2002,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2926,
-            "average": 4.671565
+            "count": 2927,
+            "average": 4.6713357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2135,8 +2135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3160,
-        "average": 4.7332277
+        "count": 3161,
+        "average": 4.733312
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2237,8 +2237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
           "length": "PT50M",
           "ratings": {
-            "count": 77,
-            "average": 4.5974026
+            "count": 78,
+            "average": 4.6025643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2409,8 +2409,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 459,
-            "average": 4.727669
+            "count": 460,
+            "average": 4.726087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3889,8 +3889,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6885,
-        "average": 4.6599855
+        "count": 6886,
+        "average": 4.6600347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3924,8 +3924,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2644,
-        "average": 4.649017
+        "count": 2646,
+        "average": 4.648904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3967,8 +3967,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7118,
-        "average": 4.6496205
+        "count": 7119,
+        "average": 4.64967
       },
       "provider": {
         "name": "Microsoft Learn",
