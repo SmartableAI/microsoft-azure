@@ -22,15 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Availability Zones in the South Central US datacenter region add resiliency"
-    excerpt: "As businesses move more workstreams to the cloud, business continuity and data protection have never been more critical—and perhaps their importance has never been more visible than during the challenges and unpredictability of 2020."
-    publishedDateTime: 2021-01-26T09:00:12Z
-    webUrl: "https://azure.microsoft.com/blog/azure-availability-zones-in-the-south-central-us-datacenter-region-add-resiliency/"
+  - title: "Azure Service Fabric Mesh Preview Retirement"
+    excerpt: "Today, we are announcing the retirement of the Azure Service Fabric Mesh public preview. New deployments will no longer be available but we will continue to support existing deployments until April 28, 2021."
+    publishedDateTime: 2021-01-28T17:40:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-fabric-mesh-preview-retirement/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 66
+    quality: 67
 
 secured: "bMIQfHe7IVEy3mFZMKejNxeBDMjM+ZCy8dKn31kTPqr/s1fV3Ff/Rfyn8aaD4NICOZZlgeSiM+SDfw2dPff+TvlDXt+xJUkyRZs5aX+1UeGuWCVjgp/SSWf2W5Mzj1xZdG5P+9QKnSzxh2/AtQBnkr0PhXZBTnrPj1AU2cg0knBweBWsmJd4DwVwQbPQ4V+pbCkRYTHhdjYGcGQhQhwZoGDxF9NtUUNWcbD3RQVMIXVFRXOgbub4gBSVWUnD4XAidGgufU+LjOmGn8EVziE8w/JK+puzMSTDlLi/qrAsI7pAOx2N6as8RijtPh5XwNgGJi2/T0ZZGfuqkeMkfcZYQ3TVhsRyrLwRzw6cEPjlYYE=;4GuV2cdCUuf+lMTJlZ0lnA=="
 ---
