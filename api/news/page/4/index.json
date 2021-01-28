@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-12-nodejs-14-for-azure-functions-is-now-available-in-public-preview.md",
+      "title": "Node.js 14 for Azure Functions is now available in public preview",
+      "excerpt": "Developers can now build and publish Azure Functions Apps using Node.js 14.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T09:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-new-version-of-ssms-and-ads-tools-for-serverless-sql-pools-in-azure-synapse-analytics.md",
       "title": "New version of SSMS and ADS tools for serverless SQL pools in Azure Synapse Analytics",
       "excerpt": "Serverless SQL pool released a new version of SSMS and ADS which improves scripting in object explorer and increases stability.",
@@ -1095,65 +1138,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-azure-cost-management-and-billing-updates-october-2020.md",
-      "title": "Azure Cost Management and Billing updates – October 2020",
-      "excerpt": "Last month, we shared a lot of cost optimization tips and tricks. Continuing with that focus, October is all about helping you save money on Azure infrastructure as a service (IaaS), database, or storage offerings. You'll also read about creating subscriptions via Azure Resource Manager deployment templates,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 383,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bcb247c7-d8dd-4c00-a23d-fc83a68109b7.png",
-          "width": 1024,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T03:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools",
-        "Databases",
-        "Compute",
-        "Migration",
-        "IoT",
-        "Serverless",
-        "AI"
       ]
     }
   ],
