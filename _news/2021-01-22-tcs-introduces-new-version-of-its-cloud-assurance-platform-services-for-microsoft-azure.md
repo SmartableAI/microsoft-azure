@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
+    excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
+    publishedDateTime: 2021-01-28T20:34:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
     excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
     publishedDateTime: 2021-01-26T03:15:00Z
@@ -78,17 +94,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
-    publishedDateTime: 2021-01-19T16:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
+    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
+    publishedDateTime: 2021-01-21T13:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 60
+    quality: 67
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -103,6 +119,56 @@ related:
         width: 632
         height: 422
         isCached: true
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
+        isCached: true
+  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
+    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
+    publishedDateTime: 2021-01-26T16:16:00Z
+    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
+  - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
+    excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
+    publishedDateTime: 2021-01-23T10:30:00Z
+    webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
+    ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
+    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
+    publishedDateTime: 2021-01-24T22:29:00Z
+    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
   - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
     excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
     publishedDateTime: 2021-01-26T11:24:00Z
@@ -117,20 +183,15 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
-    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
-    publishedDateTime: 2021-01-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "iKlavFIrEFG+V8/SO09Zeb55bl34y/DRH+UZw4EykR5571hR2fDBww5R3vZ7SH9gZM7ofUY2U2zGReITM97JxPfBoifsPCmeZSqzsZTwmhv4+Ves673OHImfgZ/sGbfp6Ueyj1fB3dROxY6RL+XCxE23xdY7lLqbA8btbEuTJAm4IHRBBdP4t2Va6avbh/sO/BKXzWHbG7K93zQLJiQf/NPps97sOuP61Cft12q6IwBOfbPWlScYZNAejwMidozfmLFkTVVpGV7cXpFirk6BZfaTYQV3A5CavRReQyjfnEhu3r9oHCofUXs+SDbQVOF2MH759kbHvt+cYpiJgLnHPma0MFnlrffFB7jSx6jHWnc=;DPNSooWBcpfoC0fedowi8Q=="
 ---

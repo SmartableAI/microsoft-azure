@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/falanx-group-limited---
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
 type: article
 quality: 77
-heat: 97
+heat: 137
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - Azure
 
 related:
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
+    publishedDateTime: 2021-01-19T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
   - title: "Octopai to Support Microsoft Azure Data Factory with its BI Platform"
     excerpt: "Octopai, provider of automated data lineage and discovery solutions, announced its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence."
     publishedDateTime: 2021-01-19T19:13:00Z
@@ -37,6 +48,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
+    publishedDateTime: 2021-01-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "8yxWjBlwvmeY+ckxRGfXCOYRZBVTx8Gl3HC1TMyx48oIsTFqT3ITyn8oLWdqAiKDnHE3MSb0tCz4b2phrPIHb8jGDRp6/5605sYmdLeRBJAQDHFWOH2AhBbdMqBK55dpunaVtzpIs4QqfWecCrP7loi0x7ijuVlz7YtvT6jz5+jC8ldulLiYqoyLG983WP+W+gClMul6XhPOpUuv8AVrE4bEQpupfyZsvHOlmgpGq+Ia/7M837hvRWWlUZjC+TJZN+XbO50Gvk4afxAFofwx/XUPZu7uct45FityW4S0IZQXQ1XfwueAHxj5p14Un77Nqoid8UTICPyB37/Rq0RYxHCDI2jHM2RwVVxY8Xaavg4=;C7oyCnl8HuNAMfugmpL9+A=="

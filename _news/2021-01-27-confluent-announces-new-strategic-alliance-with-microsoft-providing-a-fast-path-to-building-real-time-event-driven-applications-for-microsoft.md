@@ -18,17 +18,76 @@ topics:
   - Azure
 
 related:
-  - title: "Quorum announces re-platforming of data resources on Microsoft Azure to enable the future delivery of advanced analytics and artificial intelligence"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is working with Microsoft in a re-platforming and data consolidation project utilizing Microsoft Azure Synapse Analytics."
-    publishedDateTime: 2021-01-19T15:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-announces-re-platforming-of-data-resources-on-microsoft-azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
+  - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
+    excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
+    publishedDateTime: 2021-01-28T20:34:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
+        width: 4000
+        height: 2667
+        isCached: true
+  - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
+    excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
+    publishedDateTime: 2021-01-26T03:15:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
+        width: 848
+        height: 493
+        isCached: true
+  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+    publishedDateTime: 2021-01-26T22:16:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
+        isCached: true
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
+    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-01-21T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
+    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
+    publishedDateTime: 2021-01-27T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
     publishedDateTime: 2021-01-21T13:22:00Z
@@ -40,33 +99,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
-    publishedDateTime: 2021-01-13T02:02:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/18820-cloud-data-analytics-platform-teradata-vantage-now-available-in-the-microsoft-azure-marketplace"
+  - title: "Couchbase Cloud Now Available on Microsoft Azure"
+    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
+    publishedDateTime: 2021-01-21T21:53:00Z
+    webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 42
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/d6734c2afd1ce01508d259bd11925a72.jpg?t=20210113_014718"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Microsoft Azure PlayFab Expands to More Regions, Gains AMD VM Support"
-    excerpt: "Microsoft’s Azure PlayFab cloud gaming service is now available in four new regions, while AMD virtual machines are now available for the platform. Microsoft is announcing the expansion of its ..."
-    publishedDateTime: 2021-01-15T14:10:00Z
-    webUrl: "https://winbuzzer.com/2021/01/15/microsoft-azure-playfab-expands-to-more-regions-gains-amd-vm-support-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
+      name: ctovision.com
+      domain: ctovision.com
     quality: 37
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/01/PlayFab-Microsoft-Acquisitionp-Official.jpg"
-        width: 1000
-        height: 733
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
   - title: "Ooredoo provides managed services for Microsoft Azure"
     excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
@@ -91,53 +136,60 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
-    excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
-    publishedDateTime: 2021-01-13T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19138979/atmosera-once-more-recognized-as-a-microsoft-azure-expert-managed-service-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19138979"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19138979"
+  - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
+    excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
+    publishedDateTime: 2021-01-23T10:30:00Z
+    webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
+    ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of"
-    publishedDateTime: 2021-01-19T13:03:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Quest Announces Availability of On Demand SaaS Platform in Australia for Easy Management of Microsoft Cloud Environments"
-    excerpt: "Quest Software, a global systems management and security software provider, today announced the availability of Quest On Demand in Australia. A Microsoft Azure-hosted software-as-a-service (SaaS) platform available within Quest’s Microsoft Platform Management business,"
-    publishedDateTime: 2021-01-19T10:10:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/137169/quest-announces-availability-of-on-demand-saas/"
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
+    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
+    publishedDateTime: 2021-01-24T22:29:00Z
+    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
-  - title: "Octopai Announces Support of Microsoft Azure Data Factory, Empowering Organizations and Data Users with Advanced Intelligence in BI Environments"
-    excerpt: "TEL AVIV, Israel, Jan. 19, 2021 /PRNewswire/ -- Octopai, the leader in Automated Data Lineage and Discovery, announced today its support of Microsoft Azure Data Factory as part of Octopai's ..."
-    publishedDateTime: 2021-01-19T17:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/octopai-announces-support-of-microsoft-azure-data-factory-empowering-organizations-and-data-users-with-advanced-intelligence-in-bi-environments-301210207.html"
+      name: Windows
+      domain: compsmag.com
+    quality: 33
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+    publishedDateTime: 2021-01-22T01:24:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure-301212893.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 0
+    quality: 29
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
+        width: 2063
+        height: 1082
+        isCached: true
+  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
+    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
+    publishedDateTime: 2021-01-26T11:24:00Z
+    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 29
+    images:
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "dPUUgJqpHqS+rgtURLV+IMa7fn9DSUbGIab01bmnj9VLFF/UihrwR3x/B0ZjDfdEMpcPRcJdAuZII0iz/xEHpj77bqVkJrhUbAQnmjmxdPebPx7sBWA+SwyvfHsDtOD6/PaIjP+kxEB++OvfcYLoJktm/SpX335qu690OdMBmQ4ikVhCmd10AF5fKJvIsH9it6cyKYMJInEo5x1LtWwV9Op8f7o229UDIF1WHXMYPix0krjLm/dmKWUirv/Bd0Nx9xj4vYG7QlG9NXc8n8jwfwGXf6OBfs8q0vH1zb6vIKl284bUkSISw1GGxNJGwWI/pvPXGkBih2nspW46UN1es8yeuV5xRnnRo49inIxTgG0=;CVgnylEMybWTKEFygvLxdA=="

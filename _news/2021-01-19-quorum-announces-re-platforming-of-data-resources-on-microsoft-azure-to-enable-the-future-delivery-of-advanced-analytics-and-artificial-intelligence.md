@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-announces-re-pla
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-announces-re-platforming-of-data-resources-on-Microsoft-Azure-to-enable-the-future-delivery-of-advanced-analytics-and-artificial-intelligence-1029981572"
 type: article
 quality: 72
-heat: 272
+heat: 192
 published: true
 
 provider:
@@ -26,17 +26,6 @@ topics:
   - Analytics
 
 related:
-  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
-    publishedDateTime: 2021-01-21T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -65,29 +54,6 @@ related:
         width: 1000
         height: 733
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
-    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
-    publishedDateTime: 2021-01-26T16:16:00Z
-    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
     publishedDateTime: 2021-01-13T11:00:00Z
@@ -136,15 +102,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
-    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
-    publishedDateTime: 2021-01-26T16:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "mQPTigBZmU00SLyIRIWl0oBFDxspHJmP9uUVlfe1flwMmbSrbAsIWhX3LMix1QJeV6pzHsp+Oe2QjBcfKxMaXXQcdhcufEvThhc4X6xo3QkNrSUW48HbnYkTMmLi2t+cI7P09KT7fqr3fkJTJwypEIHewd5Lxy7MKMNnCB4EU9LklszKvVDvmRCaXC5Ml3bm4P/cqLyU7gr55HZLLzweEVvu1wjgieDv5ttGh/JKNApI69TlEgnmvPclYazThoVu6262sU+8fEcx4HLZO9+IZH83yq6ghNV9fbWa6R2Cj5hYB7ygqAd3oI/JIHGaqqE6fNOPSPSweCg0vsuz7+oB/BZ3haYF3EnD8aATHDdLxPo=;PxugsGWzMrxRH0cnCx2c3g=="
 ---

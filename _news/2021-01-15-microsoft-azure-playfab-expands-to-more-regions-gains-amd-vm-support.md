@@ -35,17 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 72
-  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
-    publishedDateTime: 2021-01-21T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Cloud Data Analytics Platform Teradata Vantage Now Available in the Microsoft Azure Marketplace"
     excerpt: "Teradata, the cloud data analytics platform company, on Tuesday announced an additional purchasing channel for Teradata Vantage on Azure:"
     publishedDateTime: 2021-01-13T02:02:00Z
@@ -60,29 +49,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
-    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
-    publishedDateTime: 2021-01-26T16:16:00Z
-    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Atmosera once more recognized as a Microsoft Azure Expert Managed Service Provider"
     excerpt: "Atmosera, a leading cloud services provider, announced today that it has been recognized as a Microsoft Azure Expert"
     publishedDateTime: 2021-01-13T11:00:00Z
@@ -131,15 +97,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
-    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
-    publishedDateTime: 2021-01-26T16:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "Owv0NBL34fZ2zlPOLGlailNvT1rJ4wIamVvb4LCoiIqWLuumPUjR4XRnnGbhNv3CmAaEHrvqHVjvfpiBPhFFNOwL62qg0nOwqrX9Nhy2UUyMbTd35F3qqBAUhpjSeK3KbfnZq+BCyGh82/E051o+M38cuKH+iVHsqg/fC6MvG9eUdZYU6tS+SLvW/J6hsbDNa7GnmgmiLQ3zzrh5OD5cBiU5jlbfE8Z+V4Gi8CO152ARtHejkRcY3QmY7hJ4o0mA8jC47UNGO0A4moQxJhT7kvkm7QNaUUFiJX+0sslfC0vnxFV5u2FOapd7+kYwr9vTy1fVyinCXAG2XG1OO7bNwDaHFpKfB1wXf2k3mez6//E=;JEpiRYmujV/eFWHY+9d3aQ=="
 ---

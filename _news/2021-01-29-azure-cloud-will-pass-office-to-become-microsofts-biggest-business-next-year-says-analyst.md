@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-publishedDateTime: 2021-01-26T22:16:00Z
-originalUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
+excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
+publishedDateTime: 2021-01-28T20:34:00Z
+originalUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
 type: article
-quality: 82
-heat: -1
-published: false
+quality: 87
+heat: 347
+published: true
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,28 +24,12 @@ topics:
   - Azure
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-    width: 1200
-    height: 573
+  - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
+    width: 4000
+    height: 2667
     isCached: true
 
 related:
-  - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
-    excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
-    publishedDateTime: 2021-01-28T20:34:00Z
-    webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
     excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
     publishedDateTime: 2021-01-26T03:15:00Z
@@ -61,6 +45,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
         width: 848
         height: 493
+        isCached: true
+  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+    publishedDateTime: 2021-01-26T22:16:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
@@ -197,6 +197,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "rFGw1emFF/BBUHIqbZC31lT21VbtiD00oUyVEGouXtiJLKDx7Ljf9lv/4/2QUaKdmxF5TrpiutFfMghBZJagDaETUH2schgdlplorvETH/JeynVcVw+U7ZEk3126tDL1iZnUJboTJn5AO7k9F14EA1+Qr9ITD+w1m/f5ImM2lG+rEVQxFlA76SUteqhTmp+wA81+AmUzSbJUe6XSuKC+Wbek5VU3p7K67TlMwyQfHROP6QHD3emH59vwtx6CA18ULSA9BHi0QZsUtyaiOsHltQLO5sFEktm+B408PQ8bASABtqd5KqlDj3rqCTUDRGY7ZMbXfmEhykyzVUkHv9V0UGWRcXG770Uk44hunoMqbrUVX0g7K4nYK7P3lNvHz61UI9tcgTXjqBMP1wzDuXrvS7jkqT4y3FJwHQ6tSI6pP6ARD3mCdj7/uUv/Jrpe8gZFF3nNpqxfw/Pm1EH6azZhZQ7+YPNegZR6Bx8vZo9yFlAOAx1A80v6qeWWYapTTHR9KyDfRtwb8FJtktZS9dM3+g==;wudh+r/UCrsgxwd1dcFfiw=="
+secured: "jdenb0+XRwes6JSHX1MUilyhJ+GnhcZSSBXJXkTmaXJAdD7UuXJEWAqdD8EUJYQv70FBcTfE/rfC+ocpZ23IdwikSBFQUgfeqDy1F7eLqYRk3aJEW8G7eStn0sR5baiTlQfOBuJAHCDWzP6viiiGdh+lgXcg8Xi4+VRJOPwha9/9pZgZpom3r30Gg/gFcxPsKBvJkLWuVv0skauIyW17rZTbPZaDjoPIHB7Do4ze0BsvjVGQEMfLROzyFK2oAx0BduQ7AdOg69lIG9aQcKl4rsHp0eyFr2UBtW8vxFbowlRuakOXow6ARZvPLnGlOA90nEorc5yRI3yCBPhie244dxLwr+IBwbs1Z6KI7879bHc=;Bb3I/0eIVMTBS3I1e4RSTw=="
 ---
 
