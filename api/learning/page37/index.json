@@ -4,6 +4,92 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
+      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
+      "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 929,
+        "average": 4.4940796
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recommend-system-feedback-mechanisms.md",
+      "title": "Recommend and design system feedback mechanisms",
+      "excerpt": "Learn how surveys and application analytics create a feedback loop that helps you understand the voice of the customer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recommend-system-feedback-mechanisms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recommend-system-feedback-mechanisms/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 326,
+        "average": 4.665644
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/recommend-system-feedback-mechanisms-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
       "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
       "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
@@ -766,8 +852,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
       "length": "PT30M",
       "ratings": {
-        "count": 233,
-        "average": 4.669528
+        "count": 234,
+        "average": 4.6709404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,93 +1273,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
-      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 170,
-        "average": 4.605882
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace.md",
-      "title": "Simplify cloud procurement and governance with Azure Marketplace",
-      "excerpt": "Overview of using Azure Marketplace for cloud procurement and governance for customers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 20,
-        "average": 4.95
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

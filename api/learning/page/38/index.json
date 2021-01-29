@@ -4,6 +4,93 @@
   "page": 38,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
+      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
+      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 170,
+        "average": 4.605882
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace.md",
+      "title": "Simplify cloud procurement and governance with Azure Marketplace",
+      "excerpt": "Overview of using Azure Marketplace for cloud procurement and governance for customers",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-simplify-cloud-procurement-governance-azure-marketplace/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simplify-cloud-procurement-governance-azure-marketplace/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 20,
+        "average": 4.95
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-simulate-distribution-regression-coefficients.md",
       "title": "Simulate the distribution of regression coefficients",
       "excerpt": "Learn",
@@ -11,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/simulate-distribution-regression-coefficients/",
       "length": "PT40M",
       "ratings": {
-        "count": 69,
-        "average": 4.7246375
+        "count": 70,
+        "average": 4.7285714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,48 +284,6 @@
         "Azure",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-stack-hci-arc-integration.md",
-      "title": "Integrate Azure Arc and Azure Stack HCI",
-      "excerpt": "Integrate Azure Arc and Azure Stack HCI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stack-hci-arc-integration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stack-hci-arc-integration/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 9,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/stack-hci-arc-integration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -834,50 +879,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
-      "title": "Train a machine learning model",
-      "excerpt": "Train a machine learning model",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 30,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-train-package-azure-ml-module-iot-edge.md",
       "title": "Train and package an Azure machine learning module for deployment to IoT Edge device",
       "excerpt": "University of Oxford",
@@ -1017,8 +1018,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 281,
-        "average": 4.718861
+        "count": 282,
+        "average": 4.719858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1232,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-windows-server-iaas-vm-cost-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 19,
-        "average": 4.6842103
+        "count": 20,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
