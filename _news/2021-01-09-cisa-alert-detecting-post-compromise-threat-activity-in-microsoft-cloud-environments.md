@@ -41,11 +41,11 @@ related:
         height: 827
         isCached: true
   - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
-    excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
-    publishedDateTime: 2021-01-13T18:18:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    excerpt: "Microsoft is making available in preview form its second vertical cloud offering: The Microsoft Cloud for Retail. The Cloud for Retail follows the Microsoft Cloud for Healthcare -- which bundled ..."
+    publishedDateTime: 2021-01-14T13:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
     type: article
     provider:
       name: ZDNet
