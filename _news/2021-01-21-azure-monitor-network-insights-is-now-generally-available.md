@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-network-in
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/"
 type: article
 quality: 84
-heat: 264
+heat: 266
 published: true
 
 provider:

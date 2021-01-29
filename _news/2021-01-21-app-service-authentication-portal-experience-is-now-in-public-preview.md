@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/app-service-authenticati
 webUrl: "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

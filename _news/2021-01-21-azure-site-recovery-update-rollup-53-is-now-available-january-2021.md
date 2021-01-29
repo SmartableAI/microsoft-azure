@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rol
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/"
 type: article
 quality: 84
-heat: 184
+heat: 185
 published: true
 
 provider:
