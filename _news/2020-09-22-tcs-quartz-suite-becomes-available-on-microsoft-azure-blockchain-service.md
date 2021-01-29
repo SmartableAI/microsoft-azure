@@ -1229,6 +1229,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
+    excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
+    publishedDateTime: 2021-01-28T23:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
     excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
     publishedDateTime: 2020-10-04T14:09:00Z

@@ -1231,6 +1231,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
+    excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
+    publishedDateTime: 2021-01-28T23:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

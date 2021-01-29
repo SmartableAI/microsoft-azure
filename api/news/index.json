@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-28-general-availability-azure-machine-learning-output-datasets.md",
+      "title": "General availability: Azure Machine Learning Output Datasets ",
+      "excerpt": "Read data in the cloud efficiently with Output datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T15:46:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-azure-cloud-will-pass-office-to-become-microsofts-biggest-business-next-year-says-analyst.md",
       "title": "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst",
       "excerpt": "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business.",
@@ -197,92 +240,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-23-generally-available-copy-blob-support-over-private-endpoints-in-azure-storage.md",
-      "title": "Generally available: Copy Blob support over private endpoints in Azure Storage",
-      "excerpt": "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 255,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west.md",
-      "title": "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  ",
-      "excerpt": "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:02:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_news/2021-01-21-azure-site-recovery-update-rollup-53-is-now-available-january-2021.md",
       "title": "Azure Site Recovery update rollup 53 is now available - January 2021",
       "excerpt": "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components.",
@@ -378,22 +335,22 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available.md",
-      "title": "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available",
-      "excerpt": "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column.",
+      "path": "_news/2021-01-21-azure-monitor-network-insights-is-now-generally-available.md",
+      "title": "Azure Monitor Network Insights is now generally available",
+      "excerpt": "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 264,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:59-08:00",
+      "publishedDateTime": "2021-01-21T09:02:06-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -462,49 +419,6 @@
         "Azure",
         "Containers",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available.md",
-      "title": "Azure Cosmos DB Management with PowerShell cmdlets is now generally available",
-      "excerpt": "Manage Azure Cosmos DB resources using PowerShell cmdlets in the Az.CosmosDB Powershell module—providing full support for all features in general availability for Azure Cosmos DB and across all API’s.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:00:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -591,48 +505,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-the-azure-quota-rest-api-to-manage-service-limits-quotas-is-now-generally-available.md",
-      "title": "The Azure Quota REST API to manage service limits (quotas) is now generally available",
-      "excerpt": "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning. Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T17:29:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -772,49 +644,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-azure-backup-encryption-at-rest-using-customer-managed-keys-is-now-generally-available.md",
-      "title": "Azure Backup: Encryption at rest using customer-managed keys is now generally available",
-      "excerpt": "Encrypt your backups using customer-managed keys for more security and control.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T09:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     },
     {
@@ -1159,6 +988,195 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-microsoft-will-soon-offer-9999-uptime-for-azure-active-directory.md",
+      "title": "Microsoft will soon offer 99.99% uptime for Azure Active Directory",
+      "excerpt": "Microsoft plans to update its service level agreement (SLA) for Azure AD user authentication to 99.99%. Hitting this four-nine uptime will be an improvement over the current 99.9% SLA. A multi-tenant identity management service,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory",
+      "originalUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1581677441/itpro/Azure.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358248/microsoft-will-soon-offer-9999-uptime-for-azure-active-directory?amp",
+      "publishedDateTime": "2021-01-06T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-cross-resource-query-between-azure-monitor-and-azure-data-explorer-in-public-preview.md",
+      "title": "Cross resource query between Azure Monitor and Azure Data Explorer in public preview",
+      "excerpt": "Azure Monitor cross resource query enables you to run cross-resource queries by using client tools that support Kusto queries. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/cross-resource-query-between-azure-monitor-and-azure-data-explorer-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/cross-resource-query-between-azure-monitor-and-azure-data-explorer-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T09:00:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-introducing-azure-health-botan-evolution-of-microsoft-healthcare-bot-with-new-functionality.md",
+      "title": "Introducing Azure Health Bot—an evolution of Microsoft Healthcare Bot with new functionality",
+      "excerpt": "Since the start of the pandemic, Microsoft Healthcare Bot has been at the leading edge of helping organizations be more agile with the patient engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
+      "originalUrl": "https://azure.microsoft.com/blog/introducing-azure-health-bot-an-evolution-of-microsoft-healthcare-bot-with-new-functionality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7e6ec972-e979-41d4-8f12-317156c33b99.jpg",
+          "width": 1024,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-06T00:00:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-azure-automation-is-now-available-in-uae-north.md",
+      "title": "Azure Automation is now available in UAE North",
+      "excerpt": "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-north-region/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-north-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-05T13:29:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
       ]
     }
   ],

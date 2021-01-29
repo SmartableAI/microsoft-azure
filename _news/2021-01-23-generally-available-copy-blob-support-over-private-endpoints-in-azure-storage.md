@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-p
 webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
 type: article
 quality: 95
-heat: 255
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,33 +23,69 @@ topics:
   - Storage
 
 related:
-  - title: "Azure Monitor Network Insights is now generally available"
-    excerpt: "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights"
-    publishedDateTime: 2021-01-21T17:02:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/"
+  - title: "General availability: Azure Machine Learning Output Datasets "
+    excerpt: "Read data in the cloud efficiently with Output datasets."
+    publishedDateTime: 2021-01-28T23:46:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
+    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "LIKE keyword support now generally available in Azure Cosmos DB"
-    excerpt: "Announcing support for LIKE keyword, a popular SQL keyword for doing text search in Azure Cosmos DB."
-    publishedDateTime: 2021-01-21T17:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/like-keyword-support-now-generally-available-in-azure-cosmos-db/"
+  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
+    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
+    publishedDateTime: 2021-01-21T17:01:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "App Service Private Endpoints now generally available"
-    excerpt: "Secure your line of business applications with Private Endpoints"
-    publishedDateTime: 2020-10-14T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/app-service-private-endpoints-ga/"
+    quality: 76
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+  - title: "General availability: AKS resources view"
+    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
+    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
+    publishedDateTime: 2021-01-25T17:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
     excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
     publishedDateTime: 2021-01-21T17:01:07Z
@@ -77,24 +113,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Private endpoints for Azure File Sync are now generally available"
-    excerpt: "Starting with Azure File Sync agent 10.1, Azure File Sync supports private endpoints in all public and Azure US Government cloud regions where Azure File Sync is available."
-    publishedDateTime: 2020-07-09T21:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-file-sync-are-now-generally-available/"
+  - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-01-21T17:02:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Generally available: Azure Private Link for Azure SignalR Service "
-    excerpt: "Use private endpoint to connect to Azure SignalR Service. "
-    publishedDateTime: 2020-07-14T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-for-azure-signalr-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
+    quality: 38
 
 secured: "FXUJytZi58nBo0Qhnfty2v0zBHI0frp8BwW1jlrVqo8ytE1Cxp9yo0mHYRy9RIgBQvJpgn//+v8PElTisWpyUTY35Ag6hPYq1wFaNIHMBcOMgLsWuIWec3luicb2SZJ4E5IgtqBQzrKJtlSsCZiXPLzdicYOHUdM96zUboTO5YXNqFkoQt6xKkvuxpx/eEN3WLoTkEmsfrgge6K42WLDjbIex/x6Su0errbHCMkCRXEvlqaba+dfLRzuj7DnFEtrV28LKQ11yOVGUwBLGZOe9/IPbwa+LWI+jbSkGff8UgukvC7fDxW3YCA2y4kpoaIrY9jZN1MzLVXK5CP7R0PkhNFi7aUsdhq118P865RLX8Q=;fB4TaLiUBF2sJOFcfPsUbg=="
 ---

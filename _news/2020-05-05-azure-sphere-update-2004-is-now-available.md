@@ -84,6 +84,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.01 is now available"
+    excerpt: "This release includes new memory and current control functions as well as new features in the SDK."
+    publishedDateTime: 2021-01-28T23:36:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2101-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.07 is now available"
     excerpt: "The 20.07 feature release contains new features for application development and tenant certificate renewal, additional promotions of beta features to long-term stable (LTS), and enhancements to improve stability and troubleshooting of device connections on Windows platforms."
     publishedDateTime: 2020-07-29T23:00:32Z

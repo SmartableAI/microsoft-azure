@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2634
+heat: 2654
 published: true
 
 provider:
@@ -1219,6 +1219,20 @@ related:
       - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
+    excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
+    publishedDateTime: 2021-01-28T23:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."

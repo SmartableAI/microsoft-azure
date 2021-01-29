@@ -55,15 +55,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 17
-  - title: "Azure Monitor Logs connector is now generally available"
-    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
-    publishedDateTime: 2020-07-21T17:31:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Remote Desktop client for Android now supports Windows Virtual Desktop connections"
     excerpt: "Access Windows Virtual Desktop from the new Remote Desktop client for Android."
     publishedDateTime: 2020-07-30T00:00:32Z

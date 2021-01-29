@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.01 is now available"
+    excerpt: "This release includes new memory and current control functions as well as new features in the SDK."
+    publishedDateTime: 2021-01-28T23:36:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2101-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

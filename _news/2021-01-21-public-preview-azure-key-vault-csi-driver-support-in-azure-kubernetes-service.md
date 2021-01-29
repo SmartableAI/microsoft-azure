@@ -33,15 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
-    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
-    publishedDateTime: 2021-01-21T17:01:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
+  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
+    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
+    publishedDateTime: 2021-01-28T23:43:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 76
+    quality: 78
   - title: "Public preview: Automatic Cluster Upgrades in AKS"
     excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
     publishedDateTime: 2021-01-21T17:03:14Z

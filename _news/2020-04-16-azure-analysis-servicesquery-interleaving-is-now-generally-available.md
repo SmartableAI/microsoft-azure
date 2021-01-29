@@ -63,15 +63,6 @@ related:
         width: 553
         height: 259
         isCached: true
-  - title: "Azure App Service—.NET Core 3.1 is now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-23T16:00:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-app-service-net-core-31-ga-on-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
 
 secured: "En/Y3dwCQyZZxBODhvQQkTeQKkM9llsmJPsrcm8k6CQdG9/QCkRQFgPk8t3Z0+cjHxgPwJnUUmGTSPQTf+3YRv4YZ7UhZy/66Xrw6dp84oWzygvC2veN+Ju/RdhVSFfWmOxSWQkBIOstKGNIfNWYs6baBGnZCu6aqSXFD6oLtoGkMc85OmNlfQbsPt9WL6aIcqgSB+a6KPfVRb6kP6Zv7PtDWYVhSj7Ludr2sM9xHvqcppfL8Mxu/h7pr721ozomZ37YHXjiJJUL08TcZi1Gne+k2K6LVksfh8V84umYsVsmIeJUFtgGWzpEhZeKYpSuttd2kRkhiqneJ5wOOx7s5g==;7XQk3YfVL8VWyiEm57uJkA=="
 ---
