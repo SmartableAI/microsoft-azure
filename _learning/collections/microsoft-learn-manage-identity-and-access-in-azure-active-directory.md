@@ -4,7 +4,7 @@ excerpt: "Learn how to work with subscriptions, users, and groups by configuring
 type: collection
 price: Free
 length: PT6H8M
-heat: 93
+heat: 98
 
 provider:
   name: Microsoft Learn
@@ -19,7 +19,7 @@ levels:
   - Intermediate
 
 items:
-  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-protect-against-security-threats-azure
   - courses/microsoft-learn-create-azure-account
   - courses/microsoft-learn-manage-users-and-groups-in-aad
   - courses/microsoft-learn-create-users-and-groups-in-azure-active-directory
@@ -35,9 +35,9 @@ topics:
   - Identity
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/manage-users-and-groups-in-aad-social.png
-    width: 800
-    height: 400
+  - url: https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png
+    width: 640
+    height: 320
     isCached: true
 
 secured: "MreDdwQoybkCvHygwHNZb5HFWzh7vkJN9Wt+KckNqmnJTf6htUNMaElYJNMEt6R5Qv9Sh+2OLp+zSC1x2GJ4TSBTzWPLL+BFyW9BH4p7BxOP9M4s9SE5XY0ABgFC+F4rZvUAN/FlpMQeej5xEWLRSjgEvMdO58gYk5J/C+rO/Z7rFmOpVjwBjP9p9rpYb5Tfx/aRGk0S5pJgsjRI8IQeMTaRn6YKB57abGwX1+JXFmpYAw3zlXKnsbZHFfN+gpCSXWQE6MGWPBdzNoTxIAMeL6BB6Fh9IBPmLB5VpEMLWdbYevem0s0bQ6B8IXf+3iEhs5dMkwNiXno0PdCndvVxDZ1un3NCZmBan7BEG3V226A=;qKn8b7JZHibVmFltBcbilg=="

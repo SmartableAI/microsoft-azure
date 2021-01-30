@@ -19,7 +19,7 @@ levels:
   - Intermediate
 
 items:
-  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-protect-against-security-threats-azure
   - courses/microsoft-learn-top-5-security-items-to-consider
   - courses/microsoft-learn-configure-security-policies-to-manage-data
   - courses/microsoft-learn-secure-azure-storage-account
@@ -35,9 +35,9 @@ topics:
   - Analytics
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png
-    width: 800
-    height: 400
+  - url: https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png
+    width: 640
+    height: 320
     isCached: true
 
 secured: "ydVwrvebiK8l4xMyIkhdWV4H9mQEGPfjxNniXuBgUp0pryz+NsvimsJv+hdfhfCVIx15w15gNX0Sioz8abp/YJHMg8AOObDiVg6vnK+maIq0D0fdjjl9cYMvTEtyT+1AIyElyEEAB+Jo70fE/8u/OOqdMO/pNxcAMxR05EDaLNW8wEx800t11aWdUSBy9ijY8QsPJnTpe6dy1tOc90EdwJgSAteLSFxWZRAI1L2aZXaS/1Fk+u/Bpt7bzKVHxaMHony6uSTEWwfd1BizXHloBxaYRgm4yMATQSHQcHkJUMNC92nYquUlINrZChkcv+Jc03Cnm6a9Lpud6L5AtcZOKlNodvF3/095887OaCEeJNg=;HbzMGz2yAdwD4Ou3EJgFZw=="

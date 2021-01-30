@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 4114,
-            "average": 4.7598443
+            "count": 4116,
+            "average": 4.759961
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -235,8 +235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 5975,
-            "average": 4.6075315
+            "count": 5976,
+            "average": 4.607597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -365,8 +365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3145,
-            "average": 4.7141495
+            "count": 3146,
+            "average": 4.71424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -450,8 +450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3871,
-            "average": 4.6463447
+            "count": 3872,
+            "average": 4.6464357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14260,
-        "average": 4.714516
+        "count": 14261,
+        "average": 4.714536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 1812,
-            "average": 4.826159
+            "count": 1813,
+            "average": 4.826255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -810,8 +810,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
           "length": "PT24M",
           "ratings": {
-            "count": 1423,
-            "average": 4.8243146
+            "count": 1424,
+            "average": 4.824438
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1431,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3145,
-            "average": 4.7141495
+            "count": 3146,
+            "average": 4.71424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1814,8 +1814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3796,
-            "average": 4.7175975
+            "count": 3797,
+            "average": 4.7174087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2067,8 +2067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 509,
-            "average": 4.603143
+            "count": 510,
+            "average": 4.6039214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2277,8 +2277,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3145,
-            "average": 4.7141495
+            "count": 3146,
+            "average": 4.71424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3010,15 +3010,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-          "title": "Security, responsibility, and trust in Azure",
-          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-          "length": "PT1H16M",
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
           "ratings": {
-            "count": 45991,
-            "average": 4.705464
+            "count": 2594,
+            "average": 4.7347727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3035,13 +3035,20 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 82,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
             "Security"
           ]
         },
@@ -3179,9 +3186,9 @@
       "heat": 68,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -3314,8 +3321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 3258,
-            "average": 4.7744017
+            "count": 3259,
+            "average": 4.774471
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3643,15 +3650,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
-          "title": "Security, responsibility, and trust in Azure",
-          "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
-          "length": "PT1H16M",
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
           "ratings": {
-            "count": 45991,
-            "average": 4.705464
+            "count": 2594,
+            "average": 4.7347727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3668,13 +3675,20 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 78,
+          "heat": 82,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
             "Azure",
-            "Identity",
             "Security"
           ]
         },
@@ -3804,9 +3818,9 @@
       "heat": 68,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/configure-security-policies-to-manage-data-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -3852,8 +3866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3796,
-            "average": 4.7175975
+            "count": 3797,
+            "average": 4.7174087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4059,8 +4073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3796,
-            "average": 4.7175975
+            "count": 3797,
+            "average": 4.7174087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4266,8 +4280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3871,
-            "average": 4.6463447
+            "count": 3872,
+            "average": 4.6464357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4301,8 +4315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3007,
-            "average": 4.6139007
+            "count": 3008,
+            "average": 4.6140294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4440,8 +4454,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3007,
-            "average": 4.6139007
+            "count": 3008,
+            "average": 4.6140294
           },
           "provider": {
             "name": "Microsoft Learn",

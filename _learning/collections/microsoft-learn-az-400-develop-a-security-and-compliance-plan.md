@@ -23,7 +23,7 @@ items:
   - courses/microsoft-learn-authenticate-apps-with-managed-identities
   - courses/microsoft-learn-configure-and-manage-azure-key-vault
   - courses/microsoft-learn-control-authentication-with-apim
-  - courses/microsoft-learn-introduction-to-security
+  - courses/microsoft-learn-protect-against-security-threats-azure
   - courses/microsoft-learn-monitor-report-aad-security-events
   - courses/microsoft-learn-maintain-secure-repository-github
   - courses/microsoft-learn-intro-to-governance
