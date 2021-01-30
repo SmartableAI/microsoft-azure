@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-11-support-for-oracle-weblogic-server-on-azure-kubernetes-service-is-now-available.md",
+      "title": "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available",
+      "excerpt": "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png",
+          "width": 798,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T09:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-azure-cosmos-db-transactional-batch-support-for-java-sdk-470-and-above-is-now-available.md",
       "title": "Azure Cosmos DB transactional batch support for Java SDK 4.7.0 and above is now available",
       "excerpt": "This new support satisfies a frequent customer ask for ACID-compliant transactions that succeed or fail altogether.",
@@ -1100,59 +1152,6 @@
       ],
       "topics": [
         "Azure",
-        "Management tools"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-migrate-your-hadoop-data-lakes-with-wandisco-livedata-platform-for-azure.md",
-      "title": "Migrate your Hadoop data lakes with WANDisco LiveData Platform for Azure",
-      "excerpt": "It’s no secret that organizations consider data as one of their most valuable assets and are investing to build their capability for data-driven decision making. While it is challenging to institute a flexible and cost-effective data estate on-premises, the cloud offers an extensive set of innovative",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/migrate-your-hadoop-data-lakes-with-wandisco-livedata-platform-for-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/migrate-your-hadoop-data-lakes-with-wandisco-livedata-platform-for-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b51fac7d-3045-4230-8f6f-4114441d1076.png",
-          "width": 1024,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T02:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
         "Management tools"
       ]
     }
