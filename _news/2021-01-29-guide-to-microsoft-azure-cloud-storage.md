@@ -1,33 +1,24 @@
 ---
 category: news
-title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
-excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
-publishedDateTime: 2020-12-07T06:02:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+title: "Guide to Microsoft Azure Cloud Storage"
+excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
+publishedDateTime: 2021-01-28T21:24:00Z
+originalUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
 type: article
-quality: 93
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Enterprise Storage Forum
+  domain: enterprisestorageforum.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
-    width: 1413
-    height: 794
-    isCached: true
+  - Storage
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -221,6 +212,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600721129_azure_at_ignite_2020_(2)_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
+    excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
+    publishedDateTime: 2020-12-07T06:02:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 93
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
+        width: 1413
+        height: 794
         isCached: true
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
@@ -720,17 +727,6 @@ related:
     provider:
       name: Breaking Defense
       domain: breakingdefense.com
-    quality: 54
-  - title: "Guide to Microsoft Azure Cloud Storage"
-    excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
-    publishedDateTime: 2021-01-28T21:24:00Z
-    webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-    ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-    cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-    type: article
-    provider:
-      name: Enterprise Storage Forum
-      domain: enterprisestorageforum.com
     quality: 54
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
@@ -1746,6 +1742,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gmstY3vYV7PGKNokosYOao81dBIEX/Qb8PkbPfI1jPrA0cAGROMe/n1qVW7CZkgOGZeQUgrsrMPbsMqheljDjl84b+egRsukRqCpDy2tCXdhC6n9kj9cN7mbw1ho4zuWZV6lBK9IStO/X/8a+d7zA8kubS39kYwVxRGGOvuCsAv7ICEi7T+pmvtK0pMVMrPEx2HlGQ9u0novcy9qJ0KaFWvoML/0CFmTIcD3sR76BxmhhbU5v/frKtMZuvqZ2rBen8PoWPuM9sR3thYgsyDC8D/MSd4yEbgBc+fHuhGkZn3QjfxeSI5ZgkHVvWDPVqO4kGlH7o+z2hZoFeHcK3/Jfmao2NoQHYBr5lp6YfWglzuJ/536sBcQgrxeA/S5O/AZVDwIp+FPT/oMNTVFZYH4w3LeTwrVBTRVpLKWGb55QYa1TlTQSYhOe/BF/MOOd0FwUXGKaFyNE2IC5b7ow3vrX1uB8AHnvhqoxlcEQd/q2QlRCCGc2/pBZW+EBcTj17h+Oh57Gu2JNbES9x4tao5Axw==;+4b+1Tw+XOjy3fO+Npk5Zg=="
+secured: "Pk04JU3BPod6iLIKQtQD83OcRGoeW6FCeUsE/wDOrCmyjQwgYK0LpK9WFy7LayGbnjPG72VbyKbBwPLghnucTQ9sDz5n64yRnMjatZ8yBlYY6+Oo2MwQY21I40lUWrs90D5nMzGZZeTdOhd2koFKnqcosLKvEvuvVBcQtSx5ilZGYE0oO4BsZhNw3lU6gvXCynMb/W+M/nKBIW4XJoEzYcvBR6PTjQ50kg6dbu8c+j4/uYEuv1KUq+go/8rYIYxkEPaxLBqvzK7tmZwUkGdRIRqTc0c8wQ5H7zyqJlyOyRiZPnjtmqN6dP3Z0jpgIbBsP9V9xbM3r0O8jGHMBnOp0w+D0qSE8pn4G4fJRUO/H2A=;HOaE4YOwCH2e8AsQyOhGjg=="
 ---
 

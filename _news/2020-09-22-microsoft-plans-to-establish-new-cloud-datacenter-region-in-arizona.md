@@ -729,6 +729,17 @@ related:
       name: Breaking Defense
       domain: breakingdefense.com
     quality: 54
+  - title: "Guide to Microsoft Azure Cloud Storage"
+    excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
+    publishedDateTime: 2021-01-28T21:24:00Z
+    webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
     publishedDateTime: 2020-09-22T19:08:00Z
