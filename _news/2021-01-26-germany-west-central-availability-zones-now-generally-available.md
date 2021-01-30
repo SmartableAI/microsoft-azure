@@ -103,6 +103,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+    publishedDateTime: 2021-01-30T01:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "South Central US Availability Zones now generally available"
     excerpt: "Azure Availability Zones are now generally available in the South Central US region. These three new zones provide customers with options for additional resiliency and tolerance to infrastructure impact."
     publishedDateTime: 2021-01-26T17:00:12Z

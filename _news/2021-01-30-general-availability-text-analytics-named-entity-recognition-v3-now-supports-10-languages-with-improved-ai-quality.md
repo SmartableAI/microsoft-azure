@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
-excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
-publishedDateTime: 2021-01-23T04:00:00Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
-webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
+title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+publishedDateTime: 2021-01-30T01:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
 type: article
-quality: 95
+quality: 63
 heat: -1
 published: false
 
@@ -20,7 +20,8 @@ provider:
 
 topics:
   - Azure
-  - Storage
+  - AI
+  - Analytics
 
 related:
   - title: "General availability: Azure Machine Learning Output Datasets "
@@ -32,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
+    excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
+    publishedDateTime: 2021-01-23T04:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -95,15 +105,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
-  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-    publishedDateTime: 2021-01-30T01:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
   - title: "Germany West Central Availability Zones now generally available"
     excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
     publishedDateTime: 2021-01-26T17:00:21Z
@@ -132,6 +133,6 @@ related:
       domain: microsoft.com
     quality: 38
 
-secured: "FXUJytZi58nBo0Qhnfty2v0zBHI0frp8BwW1jlrVqo8ytE1Cxp9yo0mHYRy9RIgBQvJpgn//+v8PElTisWpyUTY35Ag6hPYq1wFaNIHMBcOMgLsWuIWec3luicb2SZJ4E5IgtqBQzrKJtlSsCZiXPLzdicYOHUdM96zUboTO5YXNqFkoQt6xKkvuxpx/eEN3WLoTkEmsfrgge6K42WLDjbIex/x6Su0errbHCMkCRXEvlqaba+dfLRzuj7DnFEtrV28LKQ11yOVGUwBLGZOe9/IPbwa+LWI+jbSkGff8UgukvC7fDxW3YCA2y4kpoaIrY9jZN1MzLVXK5CP7R0PkhNFi7aUsdhq118P865RLX8Q=;fB4TaLiUBF2sJOFcfPsUbg=="
+secured: "C9dLNuyzY9pPrTcLuc6cEf81r/m7+wD1JXxkIgCbMVDSriEd0YulPxciMQH8GJV7HzQunGT/csK6uYzoKndBxndRqiAjVCEFHyY/B3lh/KETHokZjbneGm4phl7xZjHecoqwGKUlbzWNkiSJHaCaG+JleSj/IQ6FYsngezQXvkALXAsDIkmVv2UUcQE2y2AwBsRBXmdN/r+RNIvsKUS6/1f4On7srtVF28Cv3J0U8TJxhzyV2TnRRqpka7dq/+zV+Qc6FzWw8e7KQ/PTnuXjxVMvNepurfZ6LJhEmTzbwRp3mgT1PQfVbnzcBKH04hzJ1AnqlEC5+sB8M/wjSiW0ER7hN9dENKBcBHFNqMVxyTE=;HG0odJ60wdDv9EqlYnUl4Q=="
 ---
 
