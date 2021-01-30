@@ -4,7 +4,7 @@ excerpt: "Learn to develop an enterprise AI strategy to create business value in
 type: collection
 price: Free
 length: PT9H36M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
