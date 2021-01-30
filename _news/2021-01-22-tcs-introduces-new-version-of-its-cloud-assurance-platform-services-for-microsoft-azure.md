@@ -2,26 +2,22 @@
 category: news
 title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
 excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-publishedDateTime: 2021-01-22T01:24:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure-301212893.html"
-webUrl: "https://www.prnewswire.com/news-releases/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure-301212893.html"
+publishedDateTime: 2021-01-21T21:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/449425/TATA_CONSULTANCY_SERVICES_Logo.jpg?p=facebook"
-    width: 2063
-    height: 1082
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -204,6 +200,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "FMf2y5TeKC6v0KpQiAI6+Q16mN8je3lkOhdDKAGGs7HNY6MIwbnE0Iu6bPHDAo4OOmObKXWqQlEY/tQvJM/yioMl68lnu4cjyW3m1lE9Oai/pfn/ME+BxMdizooPI14+TvjUYPgWGO/A5BqsMNfN5HnmfhPvJEBwKkbe5/QgNoKBWMtXgujRI2hU8m0rMBYTwPMG/43ciWxZTTFs9gCuEf2cuIbEXJACwNTCGXp/AXsK4ATkasNXJr67BksPIqV8KETW1k2vzakV1sW/qEOUTsmVqyfAf9vWDc+VDAU2buo9nhAJZZTx6SQ0KngoVwyJVr505kNC7B+bwLXxkoF/1BdooyKJfvdlD+evKip3qbg=;ChYUCLo/gHkjMvjPfnLOAQ=="
+secured: "p6BIWv5OdpSPT1vugaIWL5hXvopWrNGfChMKIBMU36qTeB7B1Sk+HR8VMCuqvuBKmgtVI8tl0jeW4Mtn7ljgiE91uB/xfrP8k4e7C3xoSWIsVANiFNzbS7uV492GtqgrHmoYHTKXR5FDPPTaemWL/t5+gDoH/VRAHbpbKxbvdqN8ocEU2YfvJmHx3SD2j5t+oeEevyqBXGhf3suqWwBSGW0/Odx+5Fyekjwpm8YjfS4AofB+/oU1y8uUtVUBDsUInTGUOxs5Y9RXYQ/pesQKpbUkL8dFwDU7KSEc99IJ5mNs5lk9LlHDe7wjlOEgu6RXeS9yBj/SrA5wLqm8wpRvleweAdzdu56muXI4VM943RY=;e28OwNoBlGFGFOm0DP5wEw=="
 ---
 
