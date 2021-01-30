@@ -94,6 +94,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
+    publishedDateTime: 2021-01-28T13:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-publishedDateTime: 2021-01-26T22:16:00Z
-originalUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
+publishedDateTime: 2021-01-28T13:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
 type: article
-quality: 82
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-    width: 1200
-    height: 573
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -62,6 +56,22 @@ related:
         width: 848
         height: 493
         isCached: true
+  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+    publishedDateTime: 2021-01-26T22:16:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
     publishedDateTime: 2021-01-21T15:03:00Z
@@ -83,17 +93,6 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 77
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
-    publishedDateTime: 2021-01-28T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 77
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
@@ -208,6 +207,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "rFGw1emFF/BBUHIqbZC31lT21VbtiD00oUyVEGouXtiJLKDx7Ljf9lv/4/2QUaKdmxF5TrpiutFfMghBZJagDaETUH2schgdlplorvETH/JeynVcVw+U7ZEk3126tDL1iZnUJboTJn5AO7k9F14EA1+Qr9ITD+w1m/f5ImM2lG+rEVQxFlA76SUteqhTmp+wA81+AmUzSbJUe6XSuKC+Wbek5VU3p7K67TlMwyQfHROP6QHD3emH59vwtx6CA18ULSA9BHi0QZsUtyaiOsHltQLO5sFEktm+B408PQ8bASABtqd5KqlDj3rqCTUDRGY7ZMbXfmEhykyzVUkHv9V0UGWRcXG770Uk44hunoMqbrUVX0g7K4nYK7P3lNvHz61UI9tcgTXjqBMP1wzDuXrvS7jkqT4y3FJwHQ6tSI6pP6ARD3mCdj7/uUv/Jrpe8gZFF3nNpqxfw/Pm1EH6azZhZQ7+YPNegZR6Bx8vZo9yFlAOAx1A80v6qeWWYapTTHR9KyDfRtwb8FJtktZS9dM3+g==;wudh+r/UCrsgxwd1dcFfiw=="
+secured: "MysDlZr+qTjVXY5dy94hmBidHbjpJX/uuL8VO6wLd6e5mIpASfbOj2eaR0tBgeFdmG/s6rUp7N+ir52jw3QL18mnJiF9wkDojgeTm1ycF8E/e06LL6EblthIdolpN9dSmGsEDrwsz5koVFO/z+djC26LpR7wGpd/pNi3fWzfoNTwaeG1hZ3FP4gBmKwUCy7INZctSfSHIuoCTU5IZtcUgc+ZBiP3jZdt7qwxCU+ncTdpkzWjcd2LpqHdgR8w279azz6BQjcpAyL9jImMQl2OD98M5YtQbNiskRSFlz0yLMKE375UAI0qTuiW5kf6sHz+REJdJJny2LsEy17DQXnyJKrMuCpWW2uOUEIU7unRvtc=;l0U20jftKKylwcMA0nc+Dg=="
 ---
 

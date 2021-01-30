@@ -215,6 +215,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
+    excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
+    publishedDateTime: 2021-01-27T17:15:00Z
+    webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-291021/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cognizant to acquire Microsoft cloud native company New Signature"
     excerpt: "Bengaluru: Nasdaq-listed Cognizant Technology Solutions Corp. on Tuesday said it has entered into an agreement to acquire US-based New Signature, one of the largest independent Microsoft public cloud transformation specialists. This will be Cognizant’s ..."
     publishedDateTime: 2020-07-28T15:45:00Z

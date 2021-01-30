@@ -231,6 +231,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
+    excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
+    publishedDateTime: 2021-01-27T17:15:00Z
+    webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-291021/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "3Cloud Wins 2020 Microsoft US Azure Influencer Partner Award"
     excerpt: "CHICAGO, July 22, 2020 /PRNewswire/ -- 3Cloud, a leading Microsoft Azure services firm, today announced it has been named the 2020 Microsoft United States Azure Influencer Partner Award Winner. This award recognizes a partner that has excelled in ..."
     publishedDateTime: 2020-07-22T18:17:00Z
