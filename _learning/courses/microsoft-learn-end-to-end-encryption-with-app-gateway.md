@@ -8,7 +8,7 @@ length: PT1H17M
 ratings:
   count: 893
   average: 4.5778275
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "zX2PCMZtNZCrzmYB5e2tplgG0cQvnLNtMqVGDpTI6LCQFOs6LZFDS1VzGKHjF1/1Clad5JmyGI9BBOlZUzwEcoOF1S5VwO94oyYPpP8lfZl1VcwkG4Uc2yzoj/rFuaAn0Gol2bvEq3eIxmrswyTQqzjmfXBoSC5czQD7alSGM0uEnqxafJcJnXLP1HsofZqn+wUxIDArUfiGkQhbhTQMx8rBr4kwjvIAH03u9hNXHkGf4Csgo3cjrF3e26QCOTlvxv/dEC/nysqIZF302iAvOVDB78WmUB69RA40aQkqMhkWBw3t5EC5tStHsffKGV5rRfnKVGDbdJTZMEMqBxDDAa/rdNzHY+3vZgCeXUMs2W5nsIwZR6ftlmVPh7pgWbXJRkwmQ5vN/1z0k+RnBGmAQ0DdNdulqvIfKudu0ookpro=;MCX88LrkxxlAypYIxGVC0w=="
+secured: "bpa9LZ3wu//Dfy+okGCW1d9UP5ClUdEvudYYSd5oifibaBHhkY5liaFH+4l5+n/3mqCafCzSspINQjt6zxZYn7mtOAdlDwdOJONkDx/J1i728A2tUyBLfPpEU0rPuWu8ozdExFNcYpSqEnYmTeJYn+S12V9b+drcBYaVkYZXpXNQIQBFd5l8KTL/Nx+fmuw/0hipurFex6/t2lrRTaHsM3CzplqP1NKwTmssZwESDSRO6pIxcsXE8wLIyG3glw/m+HXSV+Y1uuS2gZ+IT1edRCHWJSjnK5r7ghkDvWCQzvuTqu7iAnURES+v0SdjY7JNrmRbhiDxQz+b6D1KOWaAwUNNwbwB5GQc/xEAFwOlcC/Rqpj5SmH4TYbZa3dZYDnbb8yrZqyOEZHY2yym9BGDjc1rH8DijOj8tzX4T4o5lio=;z7sl1wYrNfVvEM6REZVbkw=="
 ---
 

@@ -8,7 +8,7 @@ length: PT59M
 ratings:
   count: 1821
   average: 4.6803956
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "bHWQOZJDK4MbWfa5PHPBG5yKyjvWOmzzWW+pMnY54Z+3mMRDIBvDOZ5mpi7Y14Dp357+2jkwE5oTLxQaeuSTXkbyJzegzX7E1zTsD9mYf/0tcV2Skz647Ij8koyyNJunEBp+R8TU1mcGibES4V5opgrMnxn9ftPSReRmow6XSlf+6fkBxd1EgwCmTrQEs21MCLcKBcb1wbq2yTTkBNLplzabPgLtBnR7AqY+WdBFuiI3kSzPDol8FXQzgUAjbof+BYKMR2nREcHcATJm0296LAq21Et0q3U8JMTTY5fg8oc5d0PDHUzNCLQNiUdOYA+T9eooXSO2Vin0QUHN3C6V5gFWk1baMM4md+3MRS4xso9Tb6bF6HoYBz+wXuVYImPvgM40oSBsc652Ypga/TyYm8oX1BKHwHwfwDsKKqjIO2U=;MAKFZvaLRS97F9GbucglMQ=="
+secured: "tKCBe8b+Eu//6tzMTmiMb7GRh77KyVa7x994cr0ERfZzJrlp5ysj/1jCPWABsY/syiXT9U7CpX7piJ33m/FVovfTGpahi5SpzCRLOuHZk+yzjHp766vy+3bkvC9iA4I6Ol25RX1QYOEpZZJQb/kjcv/bevCjNISX258Dn7LBhpjC+74MD8jraYO1xV5R/GORDbGIS192RDPbajkflV6/g/hoAz7nDr9BAP80W0/Z1TgTVWsUtt1Hdb76UhLKSeLsI2UGu5LxnjhQCBKWPW17r0evC4D/cL8O4qQWmJ+tL/xyd6fKSHKzfQvTW/JckGDF8cgXGX4GTiFZoyyb/eHJcbdgidhpgGYqCPNKGT5RkeqSvNYtqepfwNtAHHajDoB2tnocq6E2n74yAeIn0Tk7GSXQdZcZ8riLtUo7ZjIaNNE=;XEVnyDlIxgRxJIvPk1sfEg=="
 ---
 
