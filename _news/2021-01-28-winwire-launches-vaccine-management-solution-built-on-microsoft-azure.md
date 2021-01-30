@@ -194,6 +194,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+    publishedDateTime: 2021-01-27T10:40:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z
@@ -204,6 +218,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "kXTnJ7TcglphqGCV8hotGejlgtkoRb8e/O8yHRd3Z5GGt9IiLKyZzzqtHH6AEpnvxzIHVGH1fpNisDTENAa/R4pPbC5FPbfjHw4S0YPOcpvovjgH0N5XAo/Cki4Z48utXb7UuboC7Hg8rlJNdWUd6I89LihNpD0d41EcHHAcpQcQYLyFAlDCAtTevlgyr+OaN4MTCyIzJWZeIeT9IeSNBz6CZmty5GUk3Iw/UFOSGoBYq5f6WM37HapJh5pEUUUHkAF/pHpwp6tI00mkVjEpqfF/KPDIpo8fZv+s2Nake+qbad5xDvckdMbt4xx6PJMG3nMnp9o1QDqJRv/mBNJEiBtAEgDxep2LIdzTvHgyZ/Y=;8jevHj4+ZU6XRxHECrPZjA=="
+secured: "UAlXkREoKnSytnTwsoeZU5tEgLdguLJ9EG7arBT6riswITlsq8H5e7l0+OQF/MxfExiDRHMYpBPAp/Ob3olEaZxwu5wRcsXcPFDRgVOJbly9PuavGmHK+qqzsngpUJ2QrRAqoWgk2TPYl2f1H75PW8ZFJpw1CMTjOv2thYzZLArs6aIuSmJt4lKyycM7tpqtEdpGpHPl5G5mjGzAhsXY6nmrFoHNMF0GV+XDT1uo3Je/UzrmI+0Fc+N+EHxJrFjHE7eWKpW88zae6yP7W24ZoLUUEep8az3dx1JEPCy+6wtHu+5J3K0rQEk4eYwMznYuNj8DXbt9tnJCcyC2x9o4Xp4jus1S77Im+ArUuHNyjso=;v4cL146m9UtE1p/szUckxg=="
 ---
 

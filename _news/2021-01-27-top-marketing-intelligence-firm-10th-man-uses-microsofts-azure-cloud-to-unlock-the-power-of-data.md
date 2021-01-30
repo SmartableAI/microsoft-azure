@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
-excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
-publishedDateTime: 2021-01-24T22:29:00Z
-originalUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
-webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
-ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+publishedDateTime: 2021-01-27T10:40:00Z
+originalUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
 type: article
-quality: 33
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+    width: 768
+    height: 512
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -165,6 +173,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
+    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
+    publishedDateTime: 2021-01-24T22:29:00Z
+    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
     publishedDateTime: 2021-01-21T21:34:00Z
@@ -190,20 +209,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
-    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
-    publishedDateTime: 2021-01-27T10:40:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z
@@ -214,6 +219,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "N3gU2pxOkTayxHQRF2jT2Ejv1zkZwRFtKACG+gkPsp2p4E56PAM62EVSvpQRejgair/skNgX7MvR8mccjKKzlmbIp71BW7raG6GTWleSBwqeWtHpoUWzBUoJcVyWXfCCY1SxlW/S99tHKrh8EZNXGfRUFiPJRkGOTmGC0ikBtnCc+qPjw4X9Col0zBUp/Mrqn2sLiTmXzhVz5DBJCy8Z1RGalRjHR8jeLM93oROe6xFEDLlraIMfJD5oH/Qc07YQQ6KynbsguvQuIN6pIt3xORgv6kLZ5pR8twdKNV/vKdUJO0/j//zKCybLE4dvk0uTjyUCPKdCbMrWm3xb5o1gpUTVvJSPKyMD4KZWbqwgwW0=;0ZkPGgV7xXyLX+314AiETw=="
+secured: "RVO+0RkLh28d0KlQmcGpTdAYSM6zgvwWD055kBOBOmmcFKOWy7/Z2ZCe8J3hUuuTk3dva9SYAzfLj97iB1pUzdWBf/cDM+3w+tM8XgpL2wi4V1PDU5OM/gSY8/h7weCJIsy9nAhdrmQhP9pcMyLppyAUQEtn2qc+ctdcddCtm8H7F7zqxg3X8t+TE9Ztn4m2Z1KIVFEc4e5t6tHzbkkmGJZ5HOUmcWNZdND9diLfV+Aw/JXHKukLwCfpuyjX7wMRU3YJvCXdh/XUmWqmrARHvDmF5jImnQwb7yc75jMQ8jcvhaWobRqnHlRiz19qKkhKW9SHPKZyCxavMG9I14pRzRHntelDLODa9QdXb9fJyk8=;bRtcxB00PNyglQ4ycJJgGQ=="
 ---
 
