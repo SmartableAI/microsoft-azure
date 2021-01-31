@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/design-for-availability-a
 type: course
 price: Free
 length: 59 mins
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
