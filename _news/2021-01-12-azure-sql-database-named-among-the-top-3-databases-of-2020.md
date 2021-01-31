@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-sql-database-named-among-th
 webUrl: "https://azure.microsoft.com/blog/azure-sql-database-named-among-the-top-3-databases-of-2020/"
 type: article
 quality: 114
-heat: 115
+heat: 114
 published: true
 
 provider:
