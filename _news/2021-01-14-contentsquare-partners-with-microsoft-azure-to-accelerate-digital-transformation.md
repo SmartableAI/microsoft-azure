@@ -182,6 +182,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+    excerpt: "Microsoft has announced a new industry-specific cloud solution that will provide an end-to-end shopper journey to help businesses in the retail sector. Microsoft Cloud for Retail will bring ..."
+    publishedDateTime: 2021-01-14T16:29:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft Azure Speech to Text review"
     excerpt: "Microsoft’s voice-to-text technology has come a long way, and you can capitalize on its advances by integrating the Azure speech service into your system. That said, price and the need to have a ..."
     publishedDateTime: 2020-04-06T13:47:00Z

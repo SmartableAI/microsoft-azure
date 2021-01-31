@@ -1,31 +1,32 @@
 ---
 category: news
-title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
-excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
-publishedDateTime: 2021-01-05T05:34:00Z
-originalUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
-webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+excerpt: "Microsoft has announced a new industry-specific cloud solution that will provide an end-to-end shopper journey to help businesses in the retail sector. Microsoft Cloud for Retail will bring ..."
+publishedDateTime: 2021-01-14T16:29:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+webUrl: "https://www.techradar.com/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
 type: article
-quality: 37
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: TechRadar
+  domain: techradar.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
-    width: 768
-    height: 401
+  - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+    width: 970
+    height: 545
     isCached: true
 
 related:
@@ -177,22 +178,6 @@ related:
     webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 80
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
-    excerpt: "Microsoft has announced a new industry-specific cloud solution that will provide an end-to-end shopper journey to help businesses in the retail sector. Microsoft Cloud for Retail will bring ..."
-    publishedDateTime: 2021-01-14T16:29:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     type: article
     provider:
       name: TechRadar
@@ -383,6 +368,20 @@ related:
       - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience"
+    excerpt: "IRCTC's AskDISHA chatbot developed by CoRover using Azure processes about 150,000 passenger queries daily in English and Hindi."
+    publishedDateTime: 2021-01-05T05:34:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-azure-powered-corover-developed-irctc-ai-chatbot-askdisha/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/01/corover-irctc-askdisha-768x401.jpg"
+        width: 768
+        height: 401
         isCached: true
   - title: "Seqster Interoperability Platform Launches on Microsoft Azure™"
     excerpt: "PRNewswire/ -- Seqster PDM Inc. (\"Seqster\") the award-winning healthcare technology company, announced the release of Seqster Platform v7.1 on the"
@@ -640,6 +639,6 @@ related:
       domain: tcs.com
     quality: 6
 
-secured: "cFtBWaEYW1OETux8tpY0VHFDrWzhgReO5wR5/FOvQL6TW2fYMAeTeMVU5jZc1d/hQWHPLY+MpRuO0zz0NkgVNMMF3IJ1ZrXaTJWiAQAAl3t9Z2Oj/hGWMlSaNBvf9kmY5I054Hd04uO7XyfgbtmfibCntp6wN7snaXZwo7TlTT7uV8NKg44oMv0BD6j1bx2WBaiXDA2SykaWwJilkEbH4G2J1BiJ+A/7B8ICnC2wJhwvfop4+5fHq8ELYWrUmlcMEcToh+bHN2kgi2eyYjFMY5yJvkOs3XR22P6xLUhqKHboCYCEm/boCBxXZH5zz5KXL3NZW6fO0BCo61Q9B5+BBcJNkQYn02FQYsAxftRaG5uGivpts9S2FbvKq5CZe/+908SJrDz3hmPjRQQO7wcNBOfcucjcLRuhiTcn3cYBilaMR1e/+Ip+IoVGB27T1TZzc0B4IpUsm1gEWsXLFWGJHS2KqZa8iBxJ4r6CQjtIeojCsxB2hej2XNrEcC9ikM9Xvhq3JIU5+l+ZaJ2BYz8DPw==;KRYwUNMttIHqkY8g2iqMSA=="
+secured: "4dDbjlQs2KIOdB4LxyeZvHbdVPzFh09lQ2vFZHK0VrVY1nrXFQwMt4d0GB/JAxaxrjzr6Bzivn5DrHgvvjtzBkHbgobZOrI4tWXmwPW93Gd9HVgh0BqZ7Rn6bPmA37aX9no4xHqiuzYMORySYLOofAZXrb/a44L/Fe976MO7X3u2CqfTXkCc6cg2+JIReN0rbfzsJhjLDmHWz9WenKRsIYdY0dDihwfDkofrAZDYxH+iE2C00d6n0H82dC1I6OHsaI3Z7kM5lzpg4LTKStdvJ1IwAo3RCYnOYsAdbKmWN12CD/iFnF53ofBZQk7e0oB89MgWxx5kqAkGVb7tQl9DtVV/zsX0pAHt+qqYB7RMUaM=;gMVOwuyieBpPK6S3+KorCQ=="
 ---
 

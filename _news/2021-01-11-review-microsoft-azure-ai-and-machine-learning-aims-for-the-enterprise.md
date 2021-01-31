@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3602597/review-microsoft-azure-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3602597/review-microsoft-azure-ai-and-machine-learning-aims-for-the-enterprise.amp.html"
 type: article
 quality: 129
-heat: 989
+heat: 1009
 published: true
 
 provider:
@@ -163,6 +163,22 @@ related:
     webUrl: "https://www.techradar.com/nz/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 80
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
+  - title: "Microsoft Cloud for Retail wants to make it easier to run a business online"
+    excerpt: "Microsoft has announced a new industry-specific cloud solution that will provide an end-to-end shopper journey to help businesses in the retail sector. Microsoft Cloud for Retail will bring ..."
+    publishedDateTime: 2021-01-14T16:29:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-cloud-for-retail-wants-to-make-it-easier-to-run-a-business-online"
     type: article
     provider:
       name: TechRadar
