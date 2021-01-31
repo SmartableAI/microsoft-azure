@@ -1,27 +1,27 @@
 ---
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
-publishedDateTime: 2021-01-28T13:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+publishedDateTime: 2021-01-28T13:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -105,6 +105,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
+    excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
+    publishedDateTime: 2021-01-28T20:08:00Z
+    webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -218,6 +234,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tMtknypPV8EcalNBUPBy7E54gvhKpfCofQTNKoJSPhdqjXl6hf/H2nnn1u0esZgfMTiLYAFL5lmhXI/uTuT8AgWWIKRBbAOA483nzT2kykaxgQme2gvNvTPxvrMhf3C1kryo+47cLtHWPHHpbBsn4W1oXKDr68n2FXu7rDa7xKrYFO07hR67Ic76CthrjxZYt3nwKBmJ6JbGYEBgKvEeJHvgUpI94L4A8g7LANilVoQccfteWnxRHFAyRKedrzQAGLAa0dAWQc2//x9m9plKoj9PhR7iXw23RkfCrUEXD3NozgJryyQsw4cMZ6FB8URx134JDnQEW3OPsKvPs7DaSlG1Na6A7sYkdMSs4rE9ZOQ=;zCZfuAM0gNUvZ0g/KNNH4A=="
+secured: "1PKrBv6SxJlwuiFjYQrHsamPchwuGwRAGeMoizpUzz/vZvkTamzXqbgsoC2FX6hlF/ponyUfXacAi4sLnxqJS3c0wd2Tl86JHWdyCNpSGe1e34pwM5BArguPi3srMB87LgVq5z/9Q+souO7m/pbOCAAW7GdVMQz1P9KqjZZZGs/+sbsdC6y5jDxd4x9yhBJRD3OX8iuyMRUfPqimstzbJxiukDr0qIU8xnuCVycZXenyyWCSIXqj6+ZwEQniuGSzivHnaQ6m+u0DV2uB2yldvBru34i+PNakiaXvLhtiDZ5Wp8vssXar/CF0j+kKCLqvwsJfnBm/wMjJXkPrNRr6jZwUwoWjxkpcCbGyLqevbew=;0pcYzQvA8YRL5aUaOT0LTA=="
 ---
 
