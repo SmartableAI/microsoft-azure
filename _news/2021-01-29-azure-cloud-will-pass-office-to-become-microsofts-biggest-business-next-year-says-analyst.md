@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
 type: article
 quality: 87
-heat: 408
+heat: 428
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
+    publishedDateTime: 2021-01-28T02:17:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 80
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+        width: 1080
+        height: 689
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."

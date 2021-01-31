@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
+    publishedDateTime: 2021-01-28T02:17:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 80
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+        width: 1080
+        height: 689
+        isCached: true
   - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
     excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
     publishedDateTime: 2021-01-27T15:22:00Z

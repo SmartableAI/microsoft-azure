@@ -1,30 +1,32 @@
 ---
 category: news
-title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
-excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
-publishedDateTime: 2021-01-27T10:40:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
-webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
+publishedDateTime: 2021-01-28T02:17:00Z
+originalUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
 type: article
-quality: 24
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
+  name: SD Times
+  domain: sdtimes.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/sdtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Security
+  - DevOps
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
-    width: 768
-    height: 512
+  - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+    width: 1080
+    height: 689
     isCached: true
 
 related:
@@ -75,20 +77,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
         width: 1200
         height: 573
-        isCached: true
-  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
-    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
-    publishedDateTime: 2021-01-28T02:17:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 80
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
-        width: 1080
-        height: 689
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
@@ -239,6 +227,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+    publishedDateTime: 2021-01-27T10:40:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z
@@ -249,6 +251,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "hGEDID17zJTEwOEHD1dUqrh0l1q7gmXEHVoEYEPjDCgPAW1ocQ1afiyV7fG0BQAEahVnhBmA7RKRBoIL9CXPyC4u6XrmDHIlqpXyDNQqt9n4KFu98/raDSITtCga8Vne/sSxe7j+AnNCuWCcZFLHs/UgpYVaPwd2iwGYCi1+ufTgvYkICm13PM1vyeKByw9a9kVa1OnsWSJQ1SvozA9YY0OYEbcWNK0OlWeipFvRLLHj+YCYYCxUTR3aURTtu6g9WOZhlQTA8VaMK+g/6jecWyVfNFE7HumXZwPdcMNtBVyJzl6uHjHbl2qK3YHlF5YfKVn3DwbNFp0FHly8f8pacNdCBtH119Ft8OWI06KBwlEgxEIuBvmDsY66lIPsatkLIhs7mAV8Gd/iM1LSnXB3DPLXynlzZ5Lv58OhdNhklFxbGRfNCtKWNKsOocFOvSPAfdmfuwS/L5a8jgm00SEdEeAL8SiD4VwJjnIfYk+dwbP5noO52VDJA/RLbpneZe1BMGUC8l+i4/cnFsc+kLkMWg==;z9VzqzUIjNUm2NzZCf102g=="
+secured: "Xgk8H566G4Cp1vmLS7uyILqsEUTaI9wEKnEU2pVb2Js5Rb9AxkybysoMPHZ+/A86Hq8jQKY0iFJEHmj17ju4KHcwGwqRSuJCR3teRbTqaKaiyn5MI4UR2vPFVxJndz48RqAN7SFa5sNA3SdNRRETBsLr/yqAwfKvoEPMF9Ltv7Blp5QTzXEBJL7i8DNSoG8fXHC7ma8DnjRIvmJY0Yp9MUwmf+TX9hP+ppXdcheJ/ubZ9aWULMHGtBjDgN6JFw5Ezni5ucsRG4P9p0xxjgvnrjD0lpV41av/j+6Ymd1BBPTC0KDT/q78a9BRDWSfxUWLHlGAtnJKG5Aj1xRByiRdQIBWHzGqiOnuvicp+0Nqhxw=;O60GgrXrSgTTz7orFEP/Dg=="
 ---
 

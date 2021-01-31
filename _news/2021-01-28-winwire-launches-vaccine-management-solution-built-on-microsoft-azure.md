@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
+    publishedDateTime: 2021-01-28T02:17:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 80
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+        width: 1080
+        height: 689
+        isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
     publishedDateTime: 2021-01-21T15:03:00Z
@@ -234,6 +248,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "C/fJRNoQgLLP1R5Rksv1Ko0eAOkAHmEAFkxGpCmnIaX2BX7FCfwkCDPud4ukurT1SJD3V6Q6jbotuXL3XKk5oFc58YN8NjQV0a0/Oz7CpVmY44wy2PAmXaVzNNmS2UyykgieL+BDV6raVnZT7UF/vldujfuqb5Sq7TVtDUFCV8wOeXK14Y9DWpVF9CQw2obr+KrwmkKQN+cDM02/PHrHuHbQg0FpzTZrmkLxkJeOdFTGMKn1UHJbm/FufU4kFEeehKUWDR0+YPiT1ZVzGWj4PawFMhbTmLaNcDB44DjpvoHodHcQjpcYYYkDgJTCTFTKdpjcAZmjUEQr3/fSa3ujKUix5ZGfb3SZzUmhMK6o4r4=;BXERngrcn4CVsgWBaKiAqA=="
+secured: "DYePG4d8AcSwrKq8WxfO4XO9hQPPlz+3wuCdDcOR8hXTIXuEkvaFdLWBGg4q4mC7FNe2ELhAz+93C4j95H7sXWB0Cc6D6Jo92b5NxkLJA5YlFqEDEuLuZi6VRkN3GwClqUxJVT+QR8zez+g9g0o3Amf9A+Fdd8kYx0DGID3/teXmIceW8ltkkxmNVsBZLJM3UKdCeDEeWikw/FNtKN+BSjTArUI4JMojdtehNv+gWolgUrJReEW2MISqjjI6ohNQuwoBDzayaHuMS2syVqx12yD2vCdt4xRre9R5ONm47ZAAejsYxHJEPn2py909A8pyIdX4fDhMIJasgGYUzXEpuJOjmLoGaDrr9TlZl8HPzm0=;FRcnluMIGqQWBmorqs5llw=="
 ---
 
