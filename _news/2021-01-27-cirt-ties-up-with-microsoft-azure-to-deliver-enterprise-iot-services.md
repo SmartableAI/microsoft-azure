@@ -103,17 +103,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
-    publishedDateTime: 2021-01-28T13:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
@@ -184,6 +173,20 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+    publishedDateTime: 2021-01-28T13:38:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
     excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
