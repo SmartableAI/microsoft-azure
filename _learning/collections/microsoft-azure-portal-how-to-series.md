@@ -38,7 +38,6 @@ items:
   - videos/microsoft-how-to-create-a-function-app-azure-portal-series
   - videos/microsoft-how-to-use-the-new-azure-mobile-app-home-screen-azure-portal-series
   - videos/microsoft-how-to-use-the-new-azure-home-screen-azure-portal-series
-  - videos/microsoft-how-to-use-azure-quickstart-center-azure-portal-series
   - videos/microsoft-how-to-troubleshoot-the-most-common-issues-on-azure-resources-azure-portal-series
   - videos/microsoft-how-to-use-cost-management-in-the-azure-portal-azure-portal-series
   - videos/microsoft-how-to-apply-budgets-to-subscriptions-using-the-azure-portal-azure-portal-series
