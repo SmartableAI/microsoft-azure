@@ -26,7 +26,7 @@ items:
   - courses/microsoft-learn-protect-against-security-threats-azure
   - courses/microsoft-learn-monitor-report-aad-security-events
   - courses/microsoft-learn-maintain-secure-repository-github
-  - courses/microsoft-learn-intro-to-governance
+  - courses/microsoft-learn-build-cloud-governance-strategy-azure
   - courses/microsoft-learn-improve-reliability-failure
   - courses/microsoft-learn-improve-reliability-incidents
 

@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-governance.md",
-      "title": "Apply and monitor infrastructure standards with Azure Policy",
-      "excerpt": "Learn about tools Azure provides for policy and standards management that support your teams' ownership and development of their resources in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-governance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-build-cloud-governance-strategy-azure.md",
+      "title": "Build a cloud governance strategy on Azure",
+      "excerpt": "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-cloud-governance-strategy-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
+      "length": "PT48M",
       "ratings": {
-        "count": 39635,
-        "average": 4.6346664
+        "count": 1739,
+        "average": 4.695227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,15 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 79,
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -46,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16772,
-        "average": 4.6959815
+        "count": 16775,
+        "average": 4.6959763
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -81,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 4314,
-        "average": 4.711173
+        "count": 4315,
+        "average": 4.711008
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -151,8 +159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 4945,
-        "average": 4.7581396
+        "count": 4948,
+        "average": 4.7580843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -186,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 5735,
-        "average": 4.718047
+        "count": 5736,
+        "average": 4.7180963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +271,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3897,
-        "average": 4.6466513
+        "count": 3899,
+        "average": 4.6468325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +306,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12242,
-        "average": 4.675298
+        "count": 12243,
+        "average": 4.6753244
       },
       "provider": {
         "name": "Microsoft Learn",
