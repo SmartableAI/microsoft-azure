@@ -119,6 +119,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
+    excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
+    publishedDateTime: 2021-01-27T15:02:00Z
+    webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
+    ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 74
+    images:
+      - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
     excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
     publishedDateTime: 2021-01-28T20:08:00Z

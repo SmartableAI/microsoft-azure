@@ -108,6 +108,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
+    excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
+    publishedDateTime: 2021-01-27T15:02:00Z
+    webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
+    ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 74
+    images:
+      - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
     publishedDateTime: 2021-01-21T13:22:00Z
@@ -248,6 +264,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "uFUv7F9rhhl8spo5pa5x7dtCr2QY6rEuqx3QxRPHYImziH39hhVdiep9CBZOdgEU7s27OG9AjjAXt2FR5QUWOHnF8alr8hyxIFMHlwAXsKBTso/MSvVOKufVS9e9NFmbd3MFla3JNvh3V/2IJP8l+bKW6NgW1HQQEHgMsVKkomvGsaXdkvF5nivS6YqEeZTZf6Hsm/NtH/6eBulyDDf/RyFwHvm1XHC6eKpX9SFvWBnK+m5W27F7nfCtTcDrFqt+53sFrhwThFkyAbKAe6iewecdz0/D1RJI9vVGD8onrUsnTmJrGL2kfpH/appc5vbVWu7ZqoVFxpdXZRH5M9U7Lv2qrWaZ3nzimHFQTnU/H7U=;zwm0ACpWqcc3PcG1a0uPxw=="
+secured: "efgEtUXWu5kUIZkadu6tup/+BtQarb0Hug6k/Faja454ssvqcIxkumtdlU/ZCGlJjG7Jh3TQg+6ZpP1DZUBlrvhAISN9jW7a0xqq9cvP5YGQifjie9aZJVbf6xGagGCZ2VGrTJSA8lh2EG+xQ4ZJ6x7bV7k2Rk/7XdEQkNsmrjYjwiV/F51HLsiNgLYAA0Ow3w0dBhvRv2t2ttmEZjTpntknt0gcHqYNSu/N7mPvbZhFjI2FSsRefhLfBhoKqefYCVHbIMyzQI0Muqbg1qHd3KHRTQDkS/8wH89f6viU4qd8vTAn0hqX1oeR5Rj1Cx9ZBMvvG/DcCIxtRPB+PYqjUPlqcCN3xWg15Up3EIlKdAQ=;5w+2qICiS475koVBYGSZMA=="
 ---
 

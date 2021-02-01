@@ -1,21 +1,30 @@
 ---
 category: news
-title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
-excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
-publishedDateTime: 2021-01-26T16:35:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
-webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
+excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
+publishedDateTime: 2021-01-27T15:02:00Z
+originalUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
+webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
+ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
+cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
 type: article
-quality: 0
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Hacker News
+  domain: thehackernews.com
 
 topics:
   - Azure
+  - Serverless
+
+images:
+  - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
+    width: 728
+    height: 380
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -113,22 +122,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
-    excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
-    publishedDateTime: 2021-01-27T15:02:00Z
-    webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
-    ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 74
-    images:
-      - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
     publishedDateTime: 2021-01-21T13:22:00Z
@@ -259,7 +252,16 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
+    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
+    publishedDateTime: 2021-01-26T16:35:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "dPUUgJqpHqS+rgtURLV+IMa7fn9DSUbGIab01bmnj9VLFF/UihrwR3x/B0ZjDfdEMpcPRcJdAuZII0iz/xEHpj77bqVkJrhUbAQnmjmxdPebPx7sBWA+SwyvfHsDtOD6/PaIjP+kxEB++OvfcYLoJktm/SpX335qu690OdMBmQ4ikVhCmd10AF5fKJvIsH9it6cyKYMJInEo5x1LtWwV9Op8f7o229UDIF1WHXMYPix0krjLm/dmKWUirv/Bd0Nx9xj4vYG7QlG9NXc8n8jwfwGXf6OBfs8q0vH1zb6vIKl284bUkSISw1GGxNJGwWI/pvPXGkBih2nspW46UN1es8yeuV5xRnnRo49inIxTgG0=;CVgnylEMybWTKEFygvLxdA=="
+secured: "1BvOvYzTIQb/+DDVVnQjxyIOmplyZKJ/bVVxoxBkcafCPjqcpKpemqgslK+Ml4E8R/zH9NzsdaJ+X+MPUcZjIkCMQUJZURNvC5jsKRiZV93eah7XBwpyyYIY+Sb1urddS+KKlcKYal8KoenVmzEMPekH3GsTpdNpJsNR6WnzT/tYR8bKL39S2yu2vsxUFDnHfvPYbxiSrk7zyQlwcMDgF1WRDkLG5AbAXsBbB1nKoSKXDMgINXSV3HxCORBS87raNaT97bl8Sw1PFPm+piMgTwPiAhxNnOtbLCh296A4HCdWT7yUJfpfEOyItUxeTA5DIP8BscIfIihNROUAn8Piqdf3f9MCUdP5WGjR3LE00K4=;NiS4rHHTFsxJYHn+uT5KlA=="
 ---
 
