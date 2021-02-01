@@ -1,27 +1,27 @@
 ---
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
-publishedDateTime: 2021-01-28T13:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
+publishedDateTime: 2021-01-28T13:38:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -278,6 +278,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/iNsM3yqVajC6exNrRy2ZxFbvhVdska4IZ8fOa9YQPARdgpsQ0kPvPNBMUxO8CnQA+MxYOsVYrdhsZg5p/iWb5zRTFNvkID+HAyspnrmCGrysYhyFQ3nAI3TX+NhEvSiH1neSf61BpkSMAawXYKIZrKsTy7N5+gNIHovaO2AtNkMl977ZNaE1VY0rfTpCmJD0N2+NxkGziZMKXbuXuck9oTBA+DTjO2HkEB/7Dv83+2EdpQgG8E9N3V7vkMSaTCMoTHuwazeY/ttPe/Dmkio3XLgTgP5UlXogez3Iespo+T2bhNjgPpgX+Ijb+uMZgGnIcQ2aYdFF3tqb5W+rhT/BfXjuEv7lxH/tUtu0ybv19M=;AOp9XRFuVTZzTnNUBX0Krg=="
+secured: "mMj5Nl3zI/MM+mQgoO5vRoP2t0HKBgih1O1FbdMu9BwF+5xcfLL4uLy8g4qkrbEOA+Ry2NU1sicr320VC9rOAkSvJSJ8BOEdu+94lVm9KTqdNd3n5YHAi7FZb9OB8t1gMcuIehmT0gluIdTt5i+yEko/T0Nhcv4x73e89uzXR4UHYZFdUdKwO9RS/B3ZvNjI78axpZzvjTf9L9O0p8OYiiRqibpunXWCYbqX7dGFMY37JWem2WjSu5DTpAC9hhVMg9PsaMuQX1vPw0SxKHE6GtPwVCGpqEMD73TtuBwSiDFrIYcAfQ6umhTndXcI2FnWxr26T16xFyGI9uzk3KkFQ4QxbnY4XQtRZj83DlstzI8=;TB8vNtsLcyQpe8E9ViCkHQ=="
 ---
 
