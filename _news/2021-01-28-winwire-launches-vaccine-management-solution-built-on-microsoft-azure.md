@@ -1,27 +1,27 @@
 ---
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
-publishedDateTime: 2021-01-28T13:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
-webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+excerpt: "Robust integration, and the fact that it is built from the ground up on scalable Microsoft Azure cloud provide healthcare companies with the tools to move vaccines quickly through their healthcare ..."
+publishedDateTime: 2021-01-28T13:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+webUrl: "https://markets.businessinsider.com/news/stocks/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-1030015209"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -179,6 +179,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
+    excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
+    publishedDateTime: 2021-02-01T18:26:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
     excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
     publishedDateTime: 2021-01-26T16:16:00Z
@@ -264,6 +278,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "tyq5iJp5//p/BTEsSrXgwSmGhmB3JmpaGJkjqjzWphggRs5CwvCKUnojHipq/jxESq+Ig8dpA/izbSrlcCtZ2jPUez3yIRYw1l0Hcs4ls/A2Om2evm3X1nyYoazEYy+1KWHw8BwkC8+gtDPRESXG7BnDek7CTmyABr/psKv/hwN+ZZaVCfgR66Kqae1O9PI11jA1pS1Y4DPw6QHWoo8w9Lp2HYETKeBiPCTStN6WSLe98qz6nwGAKW0sqLa74J37WbVYzJV3LW/jpBWA+2mPv6bgaZzh4a0iWP9/JJWQHYCxwtKJQXb41UxnLBHa5+UowamJ5CPIcwnNWTkPozMS33+Z1Pl9CG+DSC91MKWtOoo=;ZHIM3Y06FHrv2lTEieCgcw=="
+secured: "PI2hxoNbVQFW9qrDHywbNtFUDXCIoDquIoE88bqlGsVHWJzw1Clh4C2O4zLLyiVIH5muVAg5HHjxAE0gw5cg9PtXeQ50JtTeFW3YKLLshj9OCTt38bqZc2Uep4U1hWJPgb6wnbjNygOsvFuDNiAxKKnlZwgpnxeSoXgOn7LgGvEhfb2QHgM8q2/DUUPi5r5W9VXs01IwVV6gApnLLVrZUnfoq6Z0iJ5uXiU6IA50+c0AeoKCr1RaKK2kO70xBHgojelqRSqo36wtsw93eK43oFQAna73uTwUyb8QhFYSva6UwgpCGQF2eQtH6aw5dj3VZVF5rpo5rds0rnPWCZc/iWZoYyz9ttQj+GoizU8OSp4=;K3S8/BquSYliKk+SEr5GAA=="
 ---
 

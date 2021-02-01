@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rol
 webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/"
 type: article
 quality: 84
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - Migration
 
 related:
-  - title: "Azure API Management Updates - January, 2021"
-    excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
-    publishedDateTime: 2021-01-28T01:30:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-january-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Site Recovery update rollup 49 - August 2020"
     excerpt: "The latest Azure Site Recovery update provides fixes and download links for Site Recovery components."
     publishedDateTime: 2020-08-19T19:00:04Z

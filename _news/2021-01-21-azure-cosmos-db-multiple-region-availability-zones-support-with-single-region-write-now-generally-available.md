@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center—general avialability updates for January 2021"
+    excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
+    publishedDateTime: 2021-02-01T18:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
     excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
     publishedDateTime: 2021-01-23T04:00:00Z

@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Security Center—general avialability updates for January 2021"
+    excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
+    publishedDateTime: 2021-02-01T18:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z

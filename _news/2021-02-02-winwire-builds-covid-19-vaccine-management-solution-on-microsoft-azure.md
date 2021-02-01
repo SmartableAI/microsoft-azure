@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
-excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
-publishedDateTime: 2021-01-24T22:29:00Z
-originalUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
-webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
-ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
+excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
+publishedDateTime: 2021-02-01T18:26:00Z
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: KMWorld Magazine
+  domain: kmworld.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+    width: 772
+    height: 594
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -186,20 +190,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
-    excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
-    publishedDateTime: 2021-02-01T18:26:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
   - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
     excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
     publishedDateTime: 2021-01-26T16:16:00Z
@@ -225,6 +215,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
+    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
+    publishedDateTime: 2021-01-24T22:29:00Z
+    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 33
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
     publishedDateTime: 2021-01-21T21:34:00Z
@@ -274,6 +275,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "N3gU2pxOkTayxHQRF2jT2Ejv1zkZwRFtKACG+gkPsp2p4E56PAM62EVSvpQRejgair/skNgX7MvR8mccjKKzlmbIp71BW7raG6GTWleSBwqeWtHpoUWzBUoJcVyWXfCCY1SxlW/S99tHKrh8EZNXGfRUFiPJRkGOTmGC0ikBtnCc+qPjw4X9Col0zBUp/Mrqn2sLiTmXzhVz5DBJCy8Z1RGalRjHR8jeLM93oROe6xFEDLlraIMfJD5oH/Qc07YQQ6KynbsguvQuIN6pIt3xORgv6kLZ5pR8twdKNV/vKdUJO0/j//zKCybLE4dvk0uTjyUCPKdCbMrWm3xb5o1gpUTVvJSPKyMD4KZWbqwgwW0=;0ZkPGgV7xXyLX+314AiETw=="
+secured: "ZCev5XYCrJmCEPTGPu/BVHIGABVJVeLI1clqiyo0LA8lwRs3fXVmWJkNo7/ALT1aDXSG+ecWA4ntx7LCnWCDPMLkVGZcws3I2MLoWJvju0fcEunhbZkPo9ISRk5jucu+YJWz3Oa1Cqm2JIYWKgDKih19oWN5I5mEeeOJlZ1W7ps8x9UO3w7uPQnU+om4h0CBT7uCm1EOCZj/D21o/kzMnfHpvT9QUyfmRVnTvTg9oa+L9ptuWQ8eDntM4IWTexlfIMrtZT4xA600BhcZ9oUxaB+PYoYrg/D2ncyIh4q2vEFWQOfoHsNjUGqGVA2k/fWkBP6taPXZlbCBIWxIhuGYcGXmxECCNPrYeCGJg5YIZ1Q=;cxR4kNYEwdrTYUvupWjnyQ=="
 ---
 

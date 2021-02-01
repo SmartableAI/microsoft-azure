@@ -97,6 +97,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Microsoft’s Azure Quantum platform is now in public preview"
+    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
+    publishedDateTime: 2021-02-01T18:41:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
     publishedDateTime: 2020-07-13T16:48:00Z

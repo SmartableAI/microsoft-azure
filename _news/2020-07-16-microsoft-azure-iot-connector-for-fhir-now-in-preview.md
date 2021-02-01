@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for
 webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
 type: article
 quality: 104
-heat: 1304
+heat: 1324
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
         width: 600
         height: 350
+        isCached: true
+  - title: "Microsoft’s Azure Quantum platform is now in public preview"
+    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
+    publishedDateTime: 2021-02-01T18:41:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."

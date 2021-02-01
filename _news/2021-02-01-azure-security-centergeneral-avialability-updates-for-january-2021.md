@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
-excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
-publishedDateTime: 2021-01-25T17:00:35Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+title: "Azure Security Center—general avialability updates for January 2021"
+excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
+publishedDateTime: 2021-02-01T18:00:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
 type: article
-quality: 67
+quality: 99
 heat: -1
 published: false
 
@@ -20,22 +20,13 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - Security
 
 related:
   - title: "General availability: Azure Machine Learning Output Datasets "
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Azure Security Center—general avialability updates for January 2021"
-    excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
-    publishedDateTime: 2021-02-01T18:00:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
     type: article
     provider:
       name: Microsoft
@@ -95,6 +86,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
+    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
+    publishedDateTime: 2021-01-25T17:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Cosmos DB: Multiple region Availability Zones support with single-region write now generally available"
     excerpt: "The general availability of Availability Zone support for Azure Cosmos DB accounts configured for two or more regions with single-region writes may lower pricing and includes increased availability SLA."
     publishedDateTime: 2021-01-21T17:01:07Z
@@ -141,6 +141,6 @@ related:
       domain: microsoft.com
     quality: 38
 
-secured: "M0Cd50znnfewlh2Gw+gaug+Wm7bJCCl0whzRRofxjJyevOah0qoMfLn9Xg87+ezkZNA42T1uJrmJYUfPr0gmVrpRzmEy4rhkbdlF5bTtVccVSIg2wvnBW7/mdYcg+RNJJBAI/TbmtkMbFRm/NIhDumbxYxew8aqdC/XXlXKcBYQPuZpBaESyACkP9ZQj2Bm+zunD3xHGg2i8zSHvbiaqEnHj3dCZM+5bXZ9dDJxxgQ8tPaZv0X8xm8U4YGTzdwKiKzk+HN6SwSF10oQdGMez0mFfoZXhkpymcHYbnLJv+YRexiqF5A5srM7Ve8AJATFEgmL7oRNxGpCh3LX/m12ObtKT2nsY+ZaPn2gaEPpPuw0=;sc76eJi4WEuHUZ60JSWBdw=="
+secured: "gicmVjikJjqrrjluLvFtPXyIncFx9zYZTpD2AaWWJFl8BFWtK3xSvjdQjNXuQRyietslJQfheG1v0jc6tNFcETomTcwmOXYI9UwgaIlMRUTU7Lu4/YTfUBchnX9ZxPVj6jLPIbIISsiJgzxqiN+KdoOARiK2fRn4s02hqQocuBHfUzoGo9X5RQ0gcGgtJ8VDaBw+W5jmc7OYfJLjamySb2vAXVl2vTOWbGHXTJXLRwohglHUpHH+rq7QfuNgYRWfsXas8ei3GeV+4hPgpJGNvhn1PnEill+VDaFKNNccLRZMm/1LZHrJykm8rPFEEMZuy0jIEqGQm6jGznlBD3H9yqDOkW9MTwmPEGe9PxzxCX4=;ez15C1FFRIirHhudkneVzA=="
 ---
 
