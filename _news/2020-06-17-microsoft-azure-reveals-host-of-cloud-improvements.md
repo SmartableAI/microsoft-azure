@@ -481,6 +481,20 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "SAS Makes Viya Available on Microsoft Azure"
+    excerpt: "Analytics provider SAS has expanded its partnership with Microsoft by allowing cloud migration and management of analytics workloads through Azure."
+    publishedDateTime: 2021-02-02T21:40:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z

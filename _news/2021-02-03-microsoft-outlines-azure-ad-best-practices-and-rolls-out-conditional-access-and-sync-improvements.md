@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
-excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
-publishedDateTime: 2021-01-23T10:30:00Z
-originalUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
-webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
-ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
+excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
+publishedDateTime: 2021-02-02T21:10:00Z
+originalUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
+webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
 type: article
-quality: 33
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Your Story
-  domain: yourstory.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-    width: 1200
-    height: 600
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -281,6 +279,22 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
+    excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
+    publishedDateTime: 2021-01-23T10:30:00Z
+    webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
+    ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
     excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
     publishedDateTime: 2021-01-24T22:29:00Z
@@ -331,20 +345,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
-    excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
-    publishedDateTime: 2021-02-02T21:10:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 24
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
     publishedDateTime: 2021-01-28T07:38:00Z
@@ -364,6 +364,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "pkWhUIsDZGgfSVH7PB2z+5r2v10g6rZf5Bw2k274GvS7BecKf0cofhnwCLwmf2o71F47+kY0aFuIwXAuTLO2u2p6Mmd/ir+oAYmHTCeIv8PQxB6mfMlHelawMGN19Zyb3tFlsOryEtAeIv+lQehADHGkSEwFrQt+Fylmzfm1y5lwQmgBPXSWwWPEKyV1xU4sVvogTwmMmHad3za2WDXHxtmTLUdl1dFAN3yjEpCXLtqyFemyDOCHT8gQwyTpNK6dVkoNLWRZenakl/wyEIrWVrEhy6ViofD3SvLmqr1PCIzbhfaMWn0ffxHmKeRFM6mTKTPUOTKBG28mZhlt1Ip1Hi61CxLdon0MyDnVy28xe4Qqny+mV33R32p4ewG3Iz3T+ojqFcu/inUkTOVEioLE+Tq2AjRSQZ/zO+mSTEDBj3YWeHYA3tmloI/BAX1X5GYs1mb6Aqb5WxwU0hjFDCr2Z/rUIG0r5tdlkBYy5pThq4S4h4a1F4CCB1w0Ar7NUcxx7Skdfx9oUy443YENEzwvGg==;FiRE6NJ/0xSiuAYHLj9+dA=="
+secured: "RvO0My21cSxy/jraTcivuvKZzQUKXrcp6gV2T1iLPjnIEJ7FvD5bd7e7WbW3b20p5VYhs4SD+3ufWk7LAZqSQc2Ly1jJkb/UGBeF2uRUIkmh3+rx/ZX9yDJEjN6/EsKLISJ+aWmqKJjlBufpaaXCfZKl0oiZ4ttsTsmrO6B684iCv4rq37GEzw4tvYuJQ0vOIzejvijnZJs1gESFAYaLgV/m3cR5uNGIbCIbTQrIiLvPqE9ciNVK/QFSsACMrPrFI+xtzUSBJK2StgPV1KYNOLdEvync0BiGaFat2cXKO6d//BK5VKH1IRxiKWgVbkbzarcL6DBECXibWVlZZ3gq+0V7/yz5ZjEXrC2LUBiKUCA=;0tGrvPS2rK2/qM1mmGTzyA=="
 ---
 

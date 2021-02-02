@@ -335,6 +335,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
+    excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
+    publishedDateTime: 2021-02-02T21:10:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 24
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
     publishedDateTime: 2021-01-28T07:38:00Z

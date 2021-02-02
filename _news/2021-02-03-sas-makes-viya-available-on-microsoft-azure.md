@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
-excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
-publishedDateTime: 2021-01-20T12:41:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+title: "SAS Makes Viya Available on Microsoft Azure"
+excerpt: "Analytics provider SAS has expanded its partnership with Microsoft by allowing cloud migration and management of analytics workloads through Azure."
+publishedDateTime: 2021-02-02T21:40:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
 
 related:
   - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
@@ -485,20 +491,6 @@ related:
         width: 1240
         height: 700
         isCached: true
-  - title: "SAS Makes Viya Available on Microsoft Azure"
-    excerpt: "Analytics provider SAS has expanded its partnership with Microsoft by allowing cloud migration and management of analytics workloads through Azure."
-    publishedDateTime: 2021-02-02T21:40:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/135080-0121_Trends_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -702,6 +694,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+    publishedDateTime: 2021-01-20T12:41:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Microsoft Azure will become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
     excerpt: "announced a five-year relationship centered on Microsoft’s Azure and analytical tools that will support new discoveries as part of JHM’s inHealth precision medicine initiative. The work will bring together JHM’s leading global research expertise with ..."
     publishedDateTime: 2020-06-18T15:07:00Z
@@ -763,6 +764,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "F3Isx1OrqQ/wq2XJh4mrhwXfFigghaS9ahmWsRLcOxD5a0t1IpJjkr8DLcGv0s5iRhSTJ9aEN5KBX9UlW745jm9/uUIwoBI601YFPWg/NzS5RMXmxxv1GR5s9UzQ0IEbuQlsrszzb5F+dttw/LyMwpeFg4m5DtTxUEvK3EWx+tmPabDDWL/ZBW4ba6D+ZEGsCcHUCNOXppLxAUjxZt0hmOq60K6Qv6I2PNXuRmmf3NnPZHyC4nn/isEhNu4oh56KWdb90Pnn6s1HfMLWXnlObQczVUeTXxbv6ZVfOJo5VeeoZEh63wTle3k1ayOJ3S3KnzloncdnTpw7tH20N+wFZ8vQwE6l9AgRqPO+CX4U7IM=;bsPzYUV2z2mAXcamAyigOw=="
+secured: "REOxEFWC6MDCxiPw1Gq1LLRsL0FeurcpWGLYolqG76pl7FzWoCo4JSRtep+4YwGl2/kMeGwtPNozgeXDXasJnRlgUj47YYOFuyUxz+YElW03xIocccQP6KsUfXSrkcJQg78eQ9s6Yfndp/F6PDA0bQpY9X/zDzmog/+k2wnqMg2+TAnWLt+jkkpxwCP60B97KGo1r+mODssNZ1mrB/Acp145SU7jJ4yC2FxnyKriEhFSXmnFTVFDpT5xtT6w+quQ1UCQZ4H3SYokuysgRhodUJU73ti0Y74HgKKinvRCLwouglbOF7Joa3Eg+o9MoF5+m6EztrDCWv4gijNMkf2JN5rSiReJ3oapicSPHTzwPXQ=;vUaCI51tnnnWWuGuP+DBsw=="
 ---
 

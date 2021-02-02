@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft announces the public preview of Azure Quantum"
+    excerpt: "Azure Quantum is a full-stack, public cloud ecosystem for quantum solutions that gives developers, researchers, systems integrators, and customers access to diverse quantum software and hardware solutions."
+    publishedDateTime: 2021-02-02T22:24:00Z
+    webUrl: "https://sdtimes.com/softwaredev/microsoft-announces-the-public-preview-of-azure-quantum/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-5.18.08-PM.png"
+        width: 790
+        height: 622
+        isCached: true
   - title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
     excerpt: "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs."
     publishedDateTime: 2020-06-23T13:31:00Z
