@@ -200,20 +200,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
-    publishedDateTime: 2021-01-28T13:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -337,6 +323,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "dPUUgJqpHqS+rgtURLV+IMa7fn9DSUbGIab01bmnj9VLFF/UihrwR3x/B0ZjDfdEMpcPRcJdAuZII0iz/xEHpj77bqVkJrhUbAQnmjmxdPebPx7sBWA+SwyvfHsDtOD6/PaIjP+kxEB++OvfcYLoJktm/SpX335qu690OdMBmQ4ikVhCmd10AF5fKJvIsH9it6cyKYMJInEo5x1LtWwV9Op8f7o229UDIF1WHXMYPix0krjLm/dmKWUirv/Bd0Nx9xj4vYG7QlG9NXc8n8jwfwGXf6OBfs8q0vH1zb6vIKl284bUkSISw1GGxNJGwWI/pvPXGkBih2nspW46UN1es8yeuV5xRnnRo49inIxTgG0=;CVgnylEMybWTKEFygvLxdA=="
 ---

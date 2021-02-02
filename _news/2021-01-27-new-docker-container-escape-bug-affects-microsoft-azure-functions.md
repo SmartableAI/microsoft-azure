@@ -193,20 +193,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
-    publishedDateTime: 2021-01-28T13:38:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -330,6 +316,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare"
-publishedDateTime: 2021-01-28T13:38:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
-webUrl: "https://www.prnewswire.com/news-releases/winwire-launches-vaccine-management-solution-built-on-microsoft-azure-301217194.html"
+excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+publishedDateTime: 2021-01-28T07:38:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -339,6 +333,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "mMj5Nl3zI/MM+mQgoO5vRoP2t0HKBgih1O1FbdMu9BwF+5xcfLL4uLy8g4qkrbEOA+Ry2NU1sicr320VC9rOAkSvJSJ8BOEdu+94lVm9KTqdNd3n5YHAi7FZb9OB8t1gMcuIehmT0gluIdTt5i+yEko/T0Nhcv4x73e89uzXR4UHYZFdUdKwO9RS/B3ZvNjI78axpZzvjTf9L9O0p8OYiiRqibpunXWCYbqX7dGFMY37JWem2WjSu5DTpAC9hhVMg9PsaMuQX1vPw0SxKHE6GtPwVCGpqEMD73TtuBwSiDFrIYcAfQ6umhTndXcI2FnWxr26T16xFyGI9uzk3KkFQ4QxbnY4XQtRZj83DlstzI8=;TB8vNtsLcyQpe8E9ViCkHQ=="
+secured: "XKiTiT6A0toDokv/TsZqaCRdnynyD77kztwJ3/FTFNu80UJ2MZuIOpJmRwbprWxeh+KfgXmP53pB0WaQiGS/CUT+R7k2+mV/UjO7tlURF1XrEMcK6/ebcUM4zn9To6j3KhGom0+mWCA8aNDRJjUUetAhjdgRYFB83dRmEwLUoQKTlMYZKuXyxtxUFTveYVQZ0ONUNWPzXCU7U/yTFlDjmAlg1C+ayPpr1XCUZsp6dXuXfJOjVEQ5A4mSzce234pCykJad6p3aTCUyQfeNkpdJJqhnXQYG40YopUgOju64ejUzl865AxX5QGMCGhvCnLW359MoiJ/FeiHMkDcChuTuLy/UVZOopvsGu4CLnCQuEc=;lbleOTtREWNOQon19jZzPA=="
 ---
 

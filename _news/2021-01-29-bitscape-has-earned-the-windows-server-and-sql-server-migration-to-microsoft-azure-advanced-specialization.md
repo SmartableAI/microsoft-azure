@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "LOS ANGELES & MISSISSAUGA, Ontario & AHMEDABAD, India--(BUSINESS WIRE)--Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced ..."
-publishedDateTime: 2021-01-29T08:04:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
+publishedDateTime: 2021-01-29T14:36:00Z
+originalUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
 type: article
 quality: 16
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
   - Azure
@@ -59,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RzG2MkO8u9LFZu2QF1fqVD0Gi+BXbtioKd/e7XppI7AC9hpd3SoWQsGQm045zX4kyytW5X6I16jt9Drh/tkV1vbxeinCnoLiFQKmgO5I7d7zgR/b8p/3r/qiOMXjLe6LNg51BDocYvxoQaikkKF3TkuiQDULZmcHuV+L5LzoIZgy5swb/7CwlRTEWhWtcUP0mglFHOHC6M+MU6aE8v99AC+rTh1MSrE0oWV0kG+McMYUJ1/EXRO3LVVI0QOx+lGoEFRs+nP4tZVwVx/j4ogFxcozDQYDLJZJvGT3s/f7+7jWKP3YitRu8z2pruh+ryhOmJD26AhSUG8rAu9thALvLdkRhVwSVohA2dDkySvppXc=;T3GlmeNtqoI0dMvmA/EKcQ=="
+secured: "fOJ/uvZhptKIg9Pr7kUXSQOGnsYcn/SZaTTOWIrBY8Eoi/CLIhaL+W5J/0VBDJSj19qOpFehQd6leGGh4TP6v8Wk9BIMQJJS3G6JaLJHBrhDCY2jeIAuifAJcb7Wsf0BlP52tvNrEb+gN5dFRHtzOKK8fj+cO1UZpejbAII6yK50JqjjEdCztvGIA7rmzLJ/0dPSgPg6dsnuQMI6YHD1kRSYwKETLAFEdocUb30uoMDsfA5x5gdp0o/cRRWXhoY7ayEIgSm1RoVSETToQVRJZnK7NT3QlZ44KPVdg9Vm+Z7DnUC08YwMYEsmbpx+iikw3OwEHBddRBiPfbFSYdnY3lwcjSWQZ3Z9JqWog8hA65c=;//6CaKMpZsNuXdL4Q3SruA=="
 ---
 
