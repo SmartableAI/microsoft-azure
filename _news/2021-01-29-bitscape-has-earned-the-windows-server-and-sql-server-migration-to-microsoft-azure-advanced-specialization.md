@@ -2,17 +2,17 @@
 category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
 excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-publishedDateTime: 2021-01-29T14:36:00Z
-originalUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
-webUrl: "https://www.businesswireindia.com/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-71303.html"
+publishedDateTime: 2021-01-29T08:33:00Z
+originalUrl: "https://www.oaoa.com/news/business/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_f3bc0816-9341-50a1-af73-9c7f35e8bb2c.html"
+webUrl: "https://www.oaoa.com/news/business/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_f3bc0816-9341-50a1-af73-9c7f35e8bb2c.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
@@ -59,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fV8T0WO45Ka6onaFaBsmX02UO8P4Sy+KVjuGqczXemE94yutFRTRjqlXpu0A2xxRya+lN317BSx4bEIC/hTXOafZwdpDJp1Y20oTnJ3shlc0dr8ua0z9l9ERTRn2PsQdRz17QP8UHGPYmWEWS71C0gicUrN4pbu4ND8aZQwX8Gmrou0wVhKjNSIRdVZZN2Tx4JVS1rSr7JOq7HFzQ1YJCDRzlAGkgN7Nel+wQompKV5AWpewkJiBUisEQoajHOYxyuhg2jIcXTygVqvl+mtRsq2mC55YbpNdaGjGua7jFNv7wXCmPTfK/bldkbbspxGBuH/1nwWavEzuRz++PeJGrv5CLZPTTePchV2rbIOOGrs=;VzT/FqWnp3l7AQZ4no0mpw=="
+secured: "MutNPDUJZZNjpb7eb0ChT1y75sFBKXWFRaxxFO6QOqMJ8W9c/XXOE3WwG3BVQl2cPdtYc6WBCsSQGXHqlHU6aE6x7t0NafaI60HYNhZSvsuivNeMFkseGxieVia6pK4md4ItrQFVQQiwkaDVj7gbzi+jZ7Nru3QbrjjLwNTe9aXEIvt+Ggy7U41vkDAw4ifsympS4kXyItoo94EGycrg589aBLPN+PkcKL83OqhAMXhzBwt7/aZ4ORczo0SiT9ZLBkfUsWE8WTWrOtCMmR/MQA04dyqtnkFU4oyg54d25F9Bgluh6mZEZG5WmNlXxvy5M107dJnvKYKfBAV1GttIeSHVFDpgELGq+iSVJZThRq4=;p4VI2yW08OvRr/xrFu1zMA=="
 ---
 
