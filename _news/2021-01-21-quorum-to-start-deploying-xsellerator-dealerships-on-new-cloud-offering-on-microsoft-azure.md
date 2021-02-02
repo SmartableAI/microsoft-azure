@@ -135,6 +135,22 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
+    excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
+    publishedDateTime: 2021-02-02T16:22:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 72
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
     excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
     publishedDateTime: 2021-01-28T20:08:00Z

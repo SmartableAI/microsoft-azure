@@ -502,6 +502,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
+    excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
+    publishedDateTime: 2021-02-02T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
+        width: 708
+        height: 471
+        isCached: true
   - title: "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel"
     excerpt: "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR)."
     publishedDateTime: 2020-06-09T19:23:00Z

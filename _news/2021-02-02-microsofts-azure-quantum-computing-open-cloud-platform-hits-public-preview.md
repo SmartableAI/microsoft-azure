@@ -1,26 +1,26 @@
 ---
 category: news
-title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
-excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
-publishedDateTime: 2021-01-20T16:53:00Z
-originalUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
-webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
+excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
+publishedDateTime: 2021-02-02T15:35:00Z
+originalUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
+webUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
 type: article
-quality: 37
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
-    width: 1240
-    height: 700
+  - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
+    width: 708
+    height: 471
     isCached: true
 
 related:
@@ -477,6 +477,20 @@ related:
         width: 985
         height: 634
         isCached: true
+  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+    publishedDateTime: 2021-01-20T16:53:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -501,20 +515,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/90cacb6b7e5b5d2906c25a9b819d4d51.jpg?t=20200818_001650"
         width: 752
         height: 408
-        isCached: true
-  - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
-    excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
-    publishedDateTime: 2021-02-02T15:35:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 35
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
-        width: 708
-        height: 471
         isCached: true
   - title: "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel"
     excerpt: "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR)."
@@ -750,6 +750,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "y3WaMYprV6BC1xXBgIuQfU/sdl0cRSW3r6NH7If0BQ0hioNbCdq9HI9oGicCcdSU7NSi4c1AvpKz0612nuxxBzqek41tlmVkK0rnKnSMmAwVFdiddciX+7cNvwHNWXPRwNjGNnyUgamoSN82EW5VaYXQ8nTTNjpQBUdTi6LxkXiBCspNC6wrl+fi+cMMYP6yaxVUi9EcPsadZR62iQ7qNd0RvwIXZ5tQ8CSt3KFj+eXSW/+bqHp5CFqE4Dme1yVx8nrqt8j+vw6faxtqBqTNmxrDWbNAAyVEysB2tAqkaUk7HaF95ibUptjlL1iuvM2dZiSWGEeOQAYwbUCNBAWQG7rldqZJW9Ep0DhrsHHfB9qscrjlUEwtv7CHXlkXgc1tAxaBVT6IPadGbzPZDCP13Xe3UHvJ1zL2XA7CGKU6epzxkxTfNJiCiSWT69WiUBg34x5BDonq7HPWcbtpRUi612mV6kyjNm9LqV/by+fL8n8nOu+W+pA5jxZhfMKARroDmiejO8VkB6Y6MruwggYi0Q==;VB5nzY/6pwK18diG8AbdCQ=="
+secured: "wl38xle3D13f6E+1uiI6nVpu/UUYEPoVuOOVTVXhqF58NL1d2PxMRDSVgBEU8Qk2N8AuZxmizmKMcoBO/JfU5NjoPmruCWLBvkamddOPEZYSQkV2U3oeb635DiJFKJWRrugroBkh8/3cYAU2dXleCUTEPOo0Lbuo5bJOyStzhyvBWomarlguwR9uIBnpOABWutQBOGlCJiPdlf8bw5hbbyoHg2CSWc58G9/Ic05siWkYFvPAvTk+wm/SXnCl/sMHd1u7npHTIbFQq7DdXkjkHKw9XQSJDhiTyZIRApbzUyjA2GPYRxcikgZpT02jx7rHmkEps7qIflOp25WSwpfVPwn0SmD5jhAOGkPwq9Y1im0=;KVv/dGlT1TBmZMP6jMBv7A=="
 ---
 

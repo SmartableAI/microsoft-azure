@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Singtel offers 5G edge computing on Microsoft Azure"
-excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-publishedDateTime: 2021-02-02T08:36:00Z
-originalUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
+excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
+publishedDateTime: 2021-02-02T16:22:00Z
+originalUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/"
+webUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/"
+ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
 type: article
-quality: 77
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Azure
+  - Mobile
+
+images:
+  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -108,6 +111,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Singtel offers 5G edge computing on Microsoft Azure"
+    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+    publishedDateTime: 2021-02-02T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
@@ -123,22 +137,6 @@ related:
       - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
         width: 728
         height: 380
-        isCached: true
-  - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
-    excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
-    publishedDateTime: 2021-02-02T16:22:00Z
-    webUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/"
-    ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 72
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
@@ -353,6 +351,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Fl4r5u1GL0smSGaGprrGHRaZHOogjZY/GG7CHP8GzC/wzXRxXo2RCU8GgxkvL4m5j/WM6KGFRKBY87VIjHGpUSz6GWZ/tjM0dYt7Tqi9CoJsJWeDzzXGftICeYBZpugI2Xl+GEWP0udQ9dInwdLpG6M+EbCs218GiRBCEkJSDnYNMJC3nK+6QHTS8dMSVqO1dwBpFraKh0G5KTaUh7af5y0VTR7tn3Tc7pGMCM6emM1hXjiQEcx3RiDvZe3uTc2jsI93Zi9FGuwHVSMqugqs6AmO4Ej2dO6aFZTM7ir9IbFRYqYJUaC0J7Q6fFsitV+81WD8kczrVkQ/ckfPqGCZul+h7+S/WKjjoxNn1w4gksRMjjRc9BTWYqTONDerKZShtO58/pSUHjkVkm4CJQOAj2rpF5W8qcStMEApZls9Z4dEXVUGvt301cILmGXKOkK7DQEnq2Axk21S4u2d892xVJ4ljRKNg26GFrqqmM7qxGGgd0oGZCXXKVnl05MFSE/XqsurEerLh6iJt394dvOXWQ==;M1wM4KLcAuAfs+CLZJ0QZg=="
+secured: "ougTq2qUhmwEu7Hezm6qg3FeYrx9XbMZeJkclUhg2uAOBlf3tCjemKHWUF8/J0oO1tuHsqj5J1HfQjiHY01Oxfy/F6nHVYSH+OsRQ2VmpuIiu/PSP0uvGATTdlP1PKjbRdBfBWcI+Wd1bHabKSaIbccRVN0OehtK7J3ZXyl0Ls9+fWP6M5jNQ6ZlWxOKpYbuPdzBg4rnF1/oV7mWLHHqscW1+kM0+BDiOKukZ5YhCm+es43rQjMQOWuJCv6iS+dDrdC7ExdsgSlc2hHDWwcZstSUegO96WuH3/L0Py7N3cCtD/QQm0iltx7FrXyHaapzPvpSTM7Mp54lCSqburMz3UCcnVC3Px6DzMT6R6IjK6o=;QzsxzPlUs9GcuYBzLiXwPw=="
 ---
 

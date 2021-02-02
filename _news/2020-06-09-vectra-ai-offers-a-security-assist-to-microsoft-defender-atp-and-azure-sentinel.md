@@ -516,6 +516,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
+    excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
+    publishedDateTime: 2021-02-02T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 35
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
+        width: 708
+        height: 471
+        isCached: true
   - title: "Greater Than Make Enerfy Loyalty Now Available in the Microsoft Azure Marketplace"
     excerpt: "Greater Than, today announced the availability of the cloud-based loyalty program Enerfy Loyalty in the Microsoft Azure Marketplace,"
     publishedDateTime: 2020-06-11T10:01:00Z
