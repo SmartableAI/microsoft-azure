@@ -1,33 +1,22 @@
 ---
 category: news
-title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
-excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
-publishedDateTime: 2021-01-28T02:17:00Z
-originalUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
-webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
+excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
+publishedDateTime: 2021-02-02T09:41:00Z
+originalUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
 type: article
-quality: 80
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: SD Times
-  domain: sdtimes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/sdtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-  - Security
-  - DevOps
-
-images:
-  - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
-    width: 1080
-    height: 689
-    isCached: true
+  - Mobile
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -77,6 +66,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
+    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
+    publishedDateTime: 2021-01-28T02:17:00Z
+    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 80
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
+        width: 1080
+        height: 689
         isCached: true
   - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
     excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
@@ -244,15 +247,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
-    excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
-    publishedDateTime: 2021-02-02T09:41:00Z
-    webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
     excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
     publishedDateTime: 2021-01-23T10:30:00Z
@@ -329,6 +323,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Xgk8H566G4Cp1vmLS7uyILqsEUTaI9wEKnEU2pVb2Js5Rb9AxkybysoMPHZ+/A86Hq8jQKY0iFJEHmj17ju4KHcwGwqRSuJCR3teRbTqaKaiyn5MI4UR2vPFVxJndz48RqAN7SFa5sNA3SdNRRETBsLr/yqAwfKvoEPMF9Ltv7Blp5QTzXEBJL7i8DNSoG8fXHC7ma8DnjRIvmJY0Yp9MUwmf+TX9hP+ppXdcheJ/ubZ9aWULMHGtBjDgN6JFw5Ezni5ucsRG4P9p0xxjgvnrjD0lpV41av/j+6Ymd1BBPTC0KDT/q78a9BRDWSfxUWLHlGAtnJKG5Aj1xRByiRdQIBWHzGqiOnuvicp+0Nqhxw=;O60GgrXrSgTTz7orFEP/Dg=="
+secured: "CPrrScnEIZcjTqozoMNytB84WsEHEqiX4X2AISbE55riKkAw4oikwMmhQ9Q7S5J4ku/rDzjeSxKemqCxfBjVeFgYD+BvdvsXA3pl6vYG4NMouagyKX8b3oOMWaXCX+ulyeEHJ2EgSfsS/usDAc6ipL2yKPtn4Aoqqs14ZZbtwmIGk5HQnqBTayUOhNI8bnPQVEgFsqsHAcd6RHSkdGCOM8tpTGjTRPEQaKS+14DHI8mcPVTBye2wVMJR5nxihR+UZvhz0+Fow+/XsDhhmaWpllQYWg/o8g2xue5jEF3JOFCPMNsMsN7UFKaxFG/dgN4F232IujxI+T6KAKDsofCytYiftsrLoEORC8QfubDlXH4=;LHCxM+HtqD1WZSdGzqXRpA=="
 ---
 

@@ -1240,6 +1240,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+    publishedDateTime: 2021-02-02T10:39:00Z
+    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

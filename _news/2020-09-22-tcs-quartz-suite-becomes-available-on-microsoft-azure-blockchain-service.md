@@ -1254,6 +1254,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+    publishedDateTime: 2021-02-02T10:39:00Z
+    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
     excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
     publishedDateTime: 2020-10-04T14:09:00Z

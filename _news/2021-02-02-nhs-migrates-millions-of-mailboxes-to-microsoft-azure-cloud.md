@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Guide to Microsoft Azure Cloud Storage"
-excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
-publishedDateTime: 2021-01-28T21:24:00Z
-originalUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+publishedDateTime: 2021-02-02T10:39:00Z
+originalUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Enterprise Storage Forum
-  domain: enterprisestorageforum.com
+  name: Information Age
+  domain: information-age.com
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+    width: 1013
+    height: 675
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -728,6 +731,17 @@ related:
       name: Breaking Defense
       domain: breakingdefense.com
     quality: 54
+  - title: "Guide to Microsoft Azure Cloud Storage"
+    excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
+    publishedDateTime: 2021-01-28T21:24:00Z
+    webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
     publishedDateTime: 2020-09-22T16:05:31Z
@@ -1240,20 +1254,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
-    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
-    publishedDateTime: 2021-02-02T10:39:00Z
-    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1756,6 +1756,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Pk04JU3BPod6iLIKQtQD83OcRGoeW6FCeUsE/wDOrCmyjQwgYK0LpK9WFy7LayGbnjPG72VbyKbBwPLghnucTQ9sDz5n64yRnMjatZ8yBlYY6+Oo2MwQY21I40lUWrs90D5nMzGZZeTdOhd2koFKnqcosLKvEvuvVBcQtSx5ilZGYE0oO4BsZhNw3lU6gvXCynMb/W+M/nKBIW4XJoEzYcvBR6PTjQ50kg6dbu8c+j4/uYEuv1KUq+go/8rYIYxkEPaxLBqvzK7tmZwUkGdRIRqTc0c8wQ5H7zyqJlyOyRiZPnjtmqN6dP3Z0jpgIbBsP9V9xbM3r0O8jGHMBnOp0w+D0qSE8pn4G4fJRUO/H2A=;HOaE4YOwCH2e8AsQyOhGjg=="
+secured: "hYlwpkxE1kFMa00Rsz7y1y6aJwgJRXPFWu/gV8bzQn3KWof4d8GAUMW7MFnZn9A3ILg0eYpKH6zqJDZB98gSDIw1ZOTIqdzMc98FuiGbuTtixSbVtfKS9ucLrpvzIzyQSGofkWwDuYpX02EK4JSeIP0xmlluquTyM4sDuHkwdBclF0g35z1hSI6j/Yn6mZNM9/wJV0+Z8pc5KMBctT6jtzuFqP8ogpwziiRwoQvUyyKAmkTXZC4LMZl3lDipyBzwiEJrmTSNH3UL/q5uSXjTxo8xEVwM8cnkSV5HYQ5zb6pKugYVJ//mH4z+XGic3jtVhabED6zekgbXDyNUo+uRKEKfZhRomM3Knm6FW51ubVk=;+1tIwwbmW/CZbZyh0KDdyQ=="
 ---
 
