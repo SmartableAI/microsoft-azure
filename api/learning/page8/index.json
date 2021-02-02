@@ -4,6 +4,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
+      "title": "Define identity and access management in Azure Active Directory",
+      "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 5510,
+        "average": 4.767695
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
       "title": "Secure your Azure Storage account",
       "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
@@ -132,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5680,
-        "average": 4.731338
+        "count": 5682,
+        "average": 4.7314324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3211,
-        "average": 4.7334166
+        "count": 3213,
+        "average": 4.7335825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,8 +262,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 9209,
-        "average": 4.6974697
+        "count": 9212,
+        "average": 4.6975684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4017,
-        "average": 4.712472
+        "count": 4018,
+        "average": 4.7125435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -340,8 +383,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 1541,
-        "average": 4.6203766
+        "count": 1542,
+        "average": 4.6206226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +426,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5745,
-        "average": 4.665274
+        "count": 5746,
+        "average": 4.6653323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +462,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 6092,
-        "average": 4.7355547
+        "count": 6094,
+        "average": 4.7354774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +583,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2580,
-        "average": 4.7062016
+        "count": 2581,
+        "average": 4.7063155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -617,8 +660,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 3169,
-        "average": 4.715052
+        "count": 3171,
+        "average": 4.715232
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -855,8 +898,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
           "length": "PT54M",
           "ratings": {
-            "count": 528,
-            "average": 4.715909
+            "count": 529,
+            "average": 4.716446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -915,8 +958,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2278,
-        "average": 4.71115
+        "count": 2280,
+        "average": 4.7114034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,8 +1044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7238,
-        "average": 4.710279
+        "count": 7239,
+        "average": 4.710319
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1086,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1763,
-        "average": 4.659104
+        "count": 1764,
+        "average": 4.659297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,8 +1172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 4122,
-        "average": 4.5608926
+        "count": 4123,
+        "average": 4.5609994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1318,49 +1361,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-      "title": "Introduction to Azure Kubernetes Service",
-      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 3874,
-        "average": 4.618224
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
