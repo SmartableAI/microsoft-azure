@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
-excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
-publishedDateTime: 2021-01-28T20:08:00Z
-originalUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+title: "Singtel offers 5G edge computing on Microsoft Azure"
+excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+publishedDateTime: 2021-02-02T08:36:00Z
+originalUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
 type: article
-quality: 60
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -111,17 +108,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Singtel offers 5G edge computing on Microsoft Azure"
-    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-    publishedDateTime: 2021-02-02T08:36:00Z
-    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
@@ -149,6 +135,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
+    excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
+    publishedDateTime: 2021-01-28T20:08:00Z
+    webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -315,6 +317,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "km/Z+z91ZkAWGIKJ9HGUg3FKrE6UeN39xn9xFtYbZg5jW9/jRtGap4+0/sBk6thr9XBWcR7lkpbF/O4kY5uzI6GhBuQUHiNLBtnxxW2+hOYr7/ynrpAKhtL9aKSDKv+0J3B6K1UwNPbg3weNT3Dw0tEpOPtIeUUCa0W/J/4sByBlmcQf598QQg/S09sy53jzAZRvN7TYywLRDci8kdmWRmtKSZzUo51fsgQk3IlPL0Ro9V5Q9ytWjGSkt7c+Hl7JXme4gJp9zqU0tImJt50Ok5xpMtIP3jzfVuibVUysmsWIbP+Xoz19u1go/OlZ6/yBl2HKkz33XRybkLxFK+RXlGhGhiZTFbB/iCOA/LdW/5baEmuW4E5z7BgO5IGzgZqbX3jUMkE5PwYb7eHllAIWi3DZlZwQ7V3mViy/DtX2oFFIhycAUWrkuiaZLrIrPxwWFQX6/nPkmHdtV6PS1vaj2ICvcINyrQWKRDw5LyjpsnAxYMgVMro1YFNR/IQQCkfSmmK/D4HO+LbKKekoqvVxCw==;AMdVqgj9hM1q7M1kqbmRzg=="
+secured: "Fl4r5u1GL0smSGaGprrGHRaZHOogjZY/GG7CHP8GzC/wzXRxXo2RCU8GgxkvL4m5j/WM6KGFRKBY87VIjHGpUSz6GWZ/tjM0dYt7Tqi9CoJsJWeDzzXGftICeYBZpugI2Xl+GEWP0udQ9dInwdLpG6M+EbCs218GiRBCEkJSDnYNMJC3nK+6QHTS8dMSVqO1dwBpFraKh0G5KTaUh7af5y0VTR7tn3Tc7pGMCM6emM1hXjiQEcx3RiDvZe3uTc2jsI93Zi9FGuwHVSMqugqs6AmO4Ej2dO6aFZTM7ir9IbFRYqYJUaC0J7Q6fFsitV+81WD8kczrVkQ/ckfPqGCZul+h7+S/WKjjoxNn1w4gksRMjjRc9BTWYqTONDerKZShtO58/pSUHjkVkm4CJQOAj2rpF5W8qcStMEApZls9Z4dEXVUGvt301cILmGXKOkK7DQEnq2Axk21S4u2d892xVJ4ljRKNg26GFrqqmM7qxGGgd0oGZCXXKVnl05MFSE/XqsurEerLh6iJt394dvOXWQ==;M1wM4KLcAuAfs+CLZJ0QZg=="
 ---
 

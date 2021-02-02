@@ -104,6 +104,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
+  - title: "Singtel offers 5G edge computing on Microsoft Azure"
+    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+    publishedDateTime: 2021-02-02T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
@@ -189,6 +200,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft and Singtel team up on 5G via Azure Stack"
+    excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
+    publishedDateTime: 2021-02-02T08:34:00Z
+    webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
+    ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 37
   - title: "Microsoft brings its Azure Quantum cloud service into public preview"
     excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
     publishedDateTime: 2021-02-02T01:00:00Z

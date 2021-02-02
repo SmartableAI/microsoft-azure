@@ -1,30 +1,23 @@
 ---
 category: news
-title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
-excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
-publishedDateTime: 2021-01-28T20:08:00Z
-originalUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+title: "Microsoft and Singtel team up on 5G via Azure Stack"
+excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
+publishedDateTime: 2021-02-02T08:34:00Z
+originalUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
+webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
+ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
 type: article
-quality: 60
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-  - Security
-
-images:
-  - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -149,6 +142,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
+  - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
+    excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
+    publishedDateTime: 2021-01-28T20:08:00Z
+    webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -191,17 +200,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft and Singtel team up on 5G via Azure Stack"
-    excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
-    publishedDateTime: 2021-02-02T08:34:00Z
-    webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
-    ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
   - title: "Microsoft brings its Azure Quantum cloud service into public preview"
     excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
     publishedDateTime: 2021-02-02T01:00:00Z
@@ -315,6 +313,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "km/Z+z91ZkAWGIKJ9HGUg3FKrE6UeN39xn9xFtYbZg5jW9/jRtGap4+0/sBk6thr9XBWcR7lkpbF/O4kY5uzI6GhBuQUHiNLBtnxxW2+hOYr7/ynrpAKhtL9aKSDKv+0J3B6K1UwNPbg3weNT3Dw0tEpOPtIeUUCa0W/J/4sByBlmcQf598QQg/S09sy53jzAZRvN7TYywLRDci8kdmWRmtKSZzUo51fsgQk3IlPL0Ro9V5Q9ytWjGSkt7c+Hl7JXme4gJp9zqU0tImJt50Ok5xpMtIP3jzfVuibVUysmsWIbP+Xoz19u1go/OlZ6/yBl2HKkz33XRybkLxFK+RXlGhGhiZTFbB/iCOA/LdW/5baEmuW4E5z7BgO5IGzgZqbX3jUMkE5PwYb7eHllAIWi3DZlZwQ7V3mViy/DtX2oFFIhycAUWrkuiaZLrIrPxwWFQX6/nPkmHdtV6PS1vaj2ICvcINyrQWKRDw5LyjpsnAxYMgVMro1YFNR/IQQCkfSmmK/D4HO+LbKKekoqvVxCw==;AMdVqgj9hM1q7M1kqbmRzg=="
+secured: "zDqAYOdz4AmSba+HAm/jbDVH3K+FWBI2BmXkvEtc/vIC96txJmgCi7WU1OrjDfP/vkNo4pn6U9qkjFNdY6fAmLFPui/woDJZuVjQyhjqG6Cnvk6/iE28Ib/wr59PHenLO0sJz27r4H69I3BhT19PAOx3ElVq0LJ3O4BiguK/YbiIKYGH3ownxgfCeRrdBnzXonf9q59eDq2avAgXd+K5W9xOs9JTSZAthfhqleA0c5IgyCW4aA6qKlENovvv7lsm+n0ZPDKhA89XSYWdkjVfVvZgCsl3YFEEBY1iBCZ+giuxP6kLalafQIZdvM/uzwf4YoYV7Bq3aakF+9PreSs41GYn3nz35aWWhE33G7vQO8XxHZn862+K7+d5x1YyAr6ePJtUn6hJNMSyREJ9HkANLerFXCOEQvDIqmEf4xpgWg/h72KOMQCD2r4cAgNGIVUAswyHi3PdNwEWKOT2YW38++iOlGOkxuaAUhp8oU3D788KCQZsE+zdtkR+mLxXrarugaoafJxPmZGuX67pPXIeyQ==;C70BU+b/aAgv9Xc+WV+pHA=="
 ---
 
