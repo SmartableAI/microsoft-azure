@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT44M
 ratings:
-  count: 1112
-  average: 4.6897483
-heat: 51
+  count: 1113
+  average: 4.6900268
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "FBxDYUjHoKBGvTq2sUXKaiRpglfFUkA/iaRbL8afkdvZOzm7Xroh9O4ZZGw9LHdFYiXrCmCh4Ltk6zjSz2FKv4yp9RILe1u/3vRjkioaTCs2JPhBlM7NmVL0SIUHwJmntrUxhs+6buzPqDuJRld/oDnkcNqLSjwpTWcS1LXfQg2FDhkR9Gq3WuA6SHzaqqMKjDepf1l/U7K2ugjco9g+aZp6eTJNr6kM8y/ukGLEJtT2mETa5p8I0nsf5Cb9RKOav8Au8Pymva4I+BJbPEylyP5ACRYf5bDAnVAyfGVqoooPFLmUheVTR9obnc223gCCP2xLe+O1AFNGj8DD7ljyRvs+jzj0LZUJTR07kxJ7PP5/W4teobmNnwX5akb3O+LNjWXsERoXdPkWtcToIPXGyDf+TqkUkAyij8MYr5VClYs=;Jx9Z83ni5O28Kf4AD4pv0g=="
+secured: "TwZ6YmDOtS574TeaNb6o0U+8I1sMeGjAQhag8uDs0oc0jEfHzpXSJ6fSyAzW+I16DXxgtXas2seJuMmnQcMnVSgJ+RZM94Q34SqzPIObSiGKV+G8jkJEXB++JrHewt8PuggQegaREDsaGcmwUxdEKGz6VljINTE+Aam9/EW7QUJD6PPW6/aJPFdPuJgQEAc47RwkGxD5OXMRria4bb+d5Y4zEBAISftb26HI5Y6aIL04f6pgCYFPI/+UQPGI6moHByr+F8KfhANNqybmgxHbSbysI9gHXyz30sCnkTjpECQEqG53LQ17b+oas3olL24keEdUtG2Jk+86IBoeVmIT7QOBl33/sQLOXw5Y4o+6hYWVRRFn2J2o1yJc9qV2B4x6a8inmqGYGyh0Z6addZS4/RbDdTESgA1+4x1J6NmQpkM=;qEjpuYtbjDxBUxzsqSoaiQ=="
 ---
 
