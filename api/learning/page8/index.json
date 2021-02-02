@@ -4,6 +4,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
+      "title": "Introduction to Azure Kubernetes Service",
+      "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 3872,
+        "average": 4.6180267
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
       "title": "Core Cloud Services - Azure networking options",
       "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
       "length": "PT28M",
       "ratings": {
-        "count": 45369,
-        "average": 4.7669554
+        "count": 45371,
+        "average": 4.766966
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -205,8 +248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3273,
-        "average": 4.718912
+        "count": 3274,
+        "average": 4.718693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -247,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7147,
-        "average": 4.6496434
+        "count": 7148,
+        "average": 4.649692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -291,8 +334,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 5744,
-        "average": 4.665216
+        "count": 5745,
+        "average": 4.665274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,8 +413,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 1762,
-        "average": 4.6589103
+        "count": 1763,
+        "average": 4.659104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -449,8 +492,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 1209,
-        "average": 4.8263025
+        "count": 1211,
+        "average": 4.8265896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -593,8 +636,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 5636,
-            "average": 4.693577
+            "count": 5637,
+            "average": 4.693631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 5074,
-            "average": 4.6903825
+            "count": 5075,
+            "average": 4.6904435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -741,8 +784,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3209,
-        "average": 4.73325
+        "count": 3210,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +828,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 4049,
-        "average": 4.6833787
+        "count": 4050,
+        "average": 4.683457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -828,8 +871,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 5998,
-        "average": 4.6065354
+        "count": 5999,
+        "average": 4.606601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -871,8 +914,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 1893,
-        "average": 4.6502905
+        "count": 1895,
+        "average": 4.6506596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -986,8 +1029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2672,
-        "average": 4.6482034
+        "count": 2674,
+        "average": 4.6484666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1156,8 +1199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 2428,
-        "average": 4.589374
+        "count": 2429,
+        "average": 4.589543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,8 +1242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 5508,
-        "average": 4.7676105
+        "count": 5509,
+        "average": 4.767653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,8 +1327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 6293,
-        "average": 4.713491
+        "count": 6294,
+        "average": 4.7135367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1310,49 +1353,6 @@
         "Azure",
         "Containers",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-      "title": "Survey the services on the Azure Data platform",
-      "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 5074,
-        "average": 4.6903825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
