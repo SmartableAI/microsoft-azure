@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
-excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-publishedDateTime: 2021-01-21T15:03:00Z
-originalUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+title: "How do you pronounce 'Azure?' Microsoft wants to know."
+excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
+publishedDateTime: 2021-02-02T12:25:00Z
+originalUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know"
+webUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know"
+ampWebUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
 type: article
-quality: 77
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+    width: 800
+    height: 600
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -82,6 +88,17 @@ related:
         width: 1080
         height: 689
         isCached: true
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
+    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-01-21T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
   - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
     excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
     publishedDateTime: 2021-01-27T15:22:00Z
@@ -146,22 +163,6 @@ related:
       - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "How do you pronounce 'Azure?' Microsoft wants to know."
-    excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
-    publishedDateTime: 2021-02-02T12:25:00Z
-    webUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know"
-    ampWebUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
@@ -338,6 +339,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "FH+HlYSFEVt1JzCoEAqPs/5nddxd4nyzvEH8Xj1NYupkVjC9arEbnHB5lPznPKp4TqcWng+2ew4EllBsZ17ex8zJwmyb8eDvUrCBQeSjHaL9oxN0KyQ+jpP1DdsMr39wM9bTo1TQoTaaesxxV+7ETmNrYxqo9+yx/x+ugU/PWbAusEZLijOQf+icNn4COgIF21jIZn6KqWyk7xieXXH438Iun7eTc70SnrgJzoZcj9quZh3tKgRU5BKRFL84ZLFVG9EanwxPWDHZTmKqWD0odYKX18T1Zmvz75pungJm/hjvz1WcSIHKnDev/ur5JxKluMrsDkqw8dB4uzslSVFci1MSGGryYhY5nwTYUFI8MtU=;TQGcXh4B49fF7sJB4uGdiQ=="
+secured: "Ki8OwhVZ2Sm9e6J95IinPQhR3TGlAdKr+HX2AI/p+jQMfBi2cODBN0LqfmpQODU0BWw99oKW9MB5mCsef4sRSLiQWKvjqV+ZQL+ABS1N94Q464BoXy2w8ZsyiIwnE1qMw4jLsDG9yReoIGckIOmd+NETvwRSl5fyH4ZJ+x00KJNNLnB9VJ1RxfGilOEb0z7v4Hy6bXH14nmLsRy9VtDLVRPoxBZC9oxJWxDqS2ZpBKe46kFLjMdVi/lV9NvLY5qMREawm2lSuUfiPX8TK3nk8YwgD9At1huXPGDR7viSz1ymxR+vqmZ/Dh9ADWmNhQyE1kaXEwHYNnMq74N5rn6My/99QisPbUqcOg7yfiin/Rs=;zZFvQ4p258RRxEMpsLNSlg=="
 ---
 

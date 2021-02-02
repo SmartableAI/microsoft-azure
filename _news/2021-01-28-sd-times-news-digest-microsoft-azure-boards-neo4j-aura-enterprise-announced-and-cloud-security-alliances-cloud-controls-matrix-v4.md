@@ -154,6 +154,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "How do you pronounce 'Azure?' Microsoft wants to know."
+    excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
+    publishedDateTime: 2021-02-02T12:25:00Z
+    webUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know"
+    ampWebUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
