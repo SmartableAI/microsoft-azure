@@ -4,6 +4,46 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
+      "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
+      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-01T09:48:59-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +74,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 23218,
-            "average": 4.784607
+            "count": 23259,
+            "average": 4.7848573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3317,
-            "average": 4.7696714
+            "count": 3325,
+            "average": 4.7693233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 2618,
-            "average": 4.7158136
+            "count": 2625,
+            "average": 4.7154284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2304,
-            "average": 4.745226
+            "count": 2312,
+            "average": 4.7456746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -273,8 +313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 2021,
-        "average": 4.763978
+        "count": 2025,
+        "average": 4.7644444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -344,8 +384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9212,
-            "average": 4.6975684
+            "count": 9213,
+            "average": 4.6976013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6094,
-            "average": 4.7354774
+            "count": 6095,
+            "average": 4.735521
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1530,
-            "average": 4.6633987
+            "count": 1531,
+            "average": 4.6636186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1113,
-            "average": 4.6900268
+            "count": 1114,
+            "average": 4.690305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -553,8 +593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1764,
-            "average": 4.659297
+            "count": 1765,
+            "average": 4.65949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -596,8 +636,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40553,
-            "average": 4.715582
+            "count": 40556,
+            "average": 4.7156034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 517,
-            "average": 4.60735
+            "count": 518,
+            "average": 4.608108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -675,8 +715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 332,
-            "average": 4.4066267
+            "count": 333,
+            "average": 4.4084086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -969,8 +1009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2291,
-            "average": 4.6896553
+            "count": 2292,
+            "average": 4.6897907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 3833,
-            "average": 4.7179756
+            "count": 3836,
+            "average": 4.718196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +1137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2117,
-            "average": 4.615494
+            "count": 2118,
+            "average": 4.615675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1446,8 +1486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2775,
-            "average": 4.741982
+            "count": 2780,
+            "average": 4.7420864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1747,8 +1787,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3516,
-            "average": 4.5910125
+            "count": 3517,
+            "average": 4.591129
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1867,8 +1907,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3516,
-            "average": 4.5910125
+            "count": 3517,
+            "average": 4.591129
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2089,8 +2129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 3183,
-            "average": 4.7298145
+            "count": 3184,
+            "average": 4.7298994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2926,8 +2966,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1113,
-            "average": 4.6900268
+            "count": 1114,
+            "average": 4.690305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3317,8 +3357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1523,
-        "average": 4.6460934
+        "count": 1524,
+        "average": 4.6463256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3363,8 +3403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3516,
-        "average": 4.5910125
+        "count": 3517,
+        "average": 4.591129
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3551,46 +3591,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
-      "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
-      "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=4fPRxveXGXw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fPRxveXGXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-01T09:48:59-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4fPRxveXGXw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless",
         "Integration"
       ]
     },
