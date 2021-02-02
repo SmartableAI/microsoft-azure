@@ -4,7 +4,7 @@ excerpt: "The Microsoft identity platform is an evolution of the Azure Active Di
 type: collection
 price: Free
 length: PT5H42M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn
