@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
-excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
-publishedDateTime: 2021-01-28T20:34:00Z
-originalUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+title: "Microsoft brings its Azure Quantum cloud service into public preview"
+excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+publishedDateTime: 2021-02-02T01:00:00Z
+originalUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
 type: article
-quality: 87
-heat: 489
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
-    width: 4000
-    height: 2667
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+    width: 971
+    height: 520
     isCached: true
 
 related:
+  - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
+    excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
+    publishedDateTime: 2021-01-28T20:34:00Z
+    webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
     excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
     publishedDateTime: 2021-01-26T03:15:00Z
@@ -183,20 +193,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
-    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
-    publishedDateTime: 2021-02-02T01:00:00Z
-    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
-        width: 971
-        height: 520
-        isCached: true
   - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
     excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
     publishedDateTime: 2021-02-01T18:26:00Z
@@ -296,6 +292,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "jdenb0+XRwes6JSHX1MUilyhJ+GnhcZSSBXJXkTmaXJAdD7UuXJEWAqdD8EUJYQv70FBcTfE/rfC+ocpZ23IdwikSBFQUgfeqDy1F7eLqYRk3aJEW8G7eStn0sR5baiTlQfOBuJAHCDWzP6viiiGdh+lgXcg8Xi4+VRJOPwha9/9pZgZpom3r30Gg/gFcxPsKBvJkLWuVv0skauIyW17rZTbPZaDjoPIHB7Do4ze0BsvjVGQEMfLROzyFK2oAx0BduQ7AdOg69lIG9aQcKl4rsHp0eyFr2UBtW8vxFbowlRuakOXow6ARZvPLnGlOA90nEorc5yRI3yCBPhie244dxLwr+IBwbs1Z6KI7879bHc=;Bb3I/0eIVMTBS3I1e4RSTw=="
+secured: "GvSAjz2XvbYUxuVyR2L5X51KZdLRwnSUBM7kVW4l4YKh/w58QIBWc3wVVzf4ccg7K9nz531hjMJg229bJL8rjYlkHad4N4KxlWbtYn0Sph4LbyivlD1LuQisCh8Mm8GfXHG5ZaMSWsUkcwohbOEE+IJZL3ZI/NPPJ7U3KX55pzscEYzYGX/GMBVs4xjwN0e/XBheBhr6afnnCUgECWr1vKMPxZ6CvvtPz8rArUcY+ty0QgYaLNz0zgvszWN2u3HUb56kxT0RSgsWYoxks8gE50wvW+9QFzxpcCiqM/oSv9cM6ZzDK7HE0twqkv3Jojnvb6PIRf4VYEm3tk3aMjWit1gZquDlqMt+1NJfawDdbqY=;ffaIz7OpgY1D0TjUgFB9aA=="
 ---
 

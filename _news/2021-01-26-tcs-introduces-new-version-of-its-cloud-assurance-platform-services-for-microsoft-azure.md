@@ -193,6 +193,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
+    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+    publishedDateTime: 2021-02-02T01:00:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+        width: 971
+        height: 520
+        isCached: true
   - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
     excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
     publishedDateTime: 2021-02-01T18:26:00Z

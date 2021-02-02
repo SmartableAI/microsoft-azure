@@ -193,6 +193,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
+    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+    publishedDateTime: 2021-02-02T01:00:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+        width: 971
+        height: 520
+        isCached: true
   - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
     excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
     publishedDateTime: 2021-01-26T16:16:00Z
