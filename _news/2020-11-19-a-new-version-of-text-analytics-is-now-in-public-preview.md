@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
 webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,35 @@ provider:
 topics:
   - Azure
   - Analytics
+
+related:
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+  - title: "General availability: VPN over ExpressRoute private peering"
+    excerpt: "VPN over ExpressRoute allows customers to encrypt all traffic going over their ExpressRoute circuit. VPN over ExpressRoute, combined with site-to-site and point-to-site VPN provides end-to-end encryption between data centers, branch offices and remote users."
+    publishedDateTime: 2020-11-16T22:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2020-11-16T19:06:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
 
 secured: "m0Zbg7KIoH3JccbxCI/pNGZQFnB4BGGODFfmnrdpzL/07YAA0Cmep89Hyp514gBYNngTn6QWPVKMdVOQ9pD2YzEXY9511kTIWpKCvqazFAIrBR6eu0wGe1vuZDVG8orkLT09bGqnxlNNu/oDqYukiEYT9uqqTRnouGul2PtETmhvwex95Ax7050FI42EA9lkxuk/jxeTIat1l5fNwbvXgTMkwRLn8t55Xn2sHpIva0xGtMU95NMTboZnwjIov5OuscfZqCtuE9arr5OZD4iIMUFLcvU7S0QHFz36nYioOoU/T1IYkuEWK4IUDsJCwVFZ/DlRdeNHaiKl8OkvcXh9+pTHXviiS+cp2MzNzLHVF4c=;+VqF550JB8zyuMbtcIsqbw=="
 ---

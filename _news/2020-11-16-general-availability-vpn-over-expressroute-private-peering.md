@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-vpn-over-expressroute-private-peering/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,6 +22,24 @@ topics:
   - Azure
 
 related:
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+  - title: "A new version of Text Analytics is now in public preview"
+    excerpt: "Text Analytics new API version supports batch processing and healthcare scenarios."
+    publishedDateTime: 2020-11-19T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cognitive-services-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Application Insight in Australia Central, Brazil Southeast, and Norway East"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central, Brazil Southeast, and Norway East regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-11-16T19:06:45Z

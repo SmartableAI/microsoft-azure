@@ -45,15 +45,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Resource instance rules for access to Azure Storage now in public preview"
-    excerpt: "Resource instance rules enable secure connectivity to Azure  Storage by restricting access to specific resources of select Azure services. Resource instance rules to control access to Azure Storage are now in preview in all Azure public regions."
-    publishedDateTime: 2021-01-27T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "App Service Anti-Virus Logs in public preview"
     excerpt: "Receive improved application monitoring with support for anti-virus scans ."
     publishedDateTime: 2020-12-09T17:00:20Z

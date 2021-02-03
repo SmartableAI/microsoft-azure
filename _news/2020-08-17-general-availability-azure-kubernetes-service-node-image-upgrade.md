@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "General availability: Stop/start functionality for Azure Database for MySQL"
+    excerpt: "With stop/start functionality support for Azure Database for MySQL, you can stop a database server when not in use (non-work hours) and start it when it’s back online."
+    publishedDateTime: 2021-02-03T17:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-stopstart-functionality-for-azure-database-for-mysql/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "Generally available: Copy Blob support over private endpoints in Azure Storage"
     excerpt: "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy."
     publishedDateTime: 2021-01-23T04:00:00Z
@@ -48,10 +57,28 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 95
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
+    publishedDateTime: 2021-02-03T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft
@@ -129,6 +156,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
+    excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-custom-neural-voice-a-custom-texttospeech-capability-within-speech-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
   - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-01-21T17:02:28Z

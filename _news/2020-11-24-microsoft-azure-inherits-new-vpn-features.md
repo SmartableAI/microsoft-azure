@@ -119,6 +119,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 75
+  - title: "Microsoft Azure Attestation is now generally available"
+    excerpt: "Verify the identity and security posture of a platform before you interact with it."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-attestation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-f
 webUrl: "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-flexible-server/"
 type: article
 quality: 52
-heat: 52
-published: false
+heat: 72
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Additional IOPS feature for MySQL - Flexible Server in public preview "
+    excerpt: "MySQL - Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-iops-feature-for-mysql-flexible-server-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "59BKmNvt0e7i2qnx5c6NKraWXSDjG432hWz2uoDgHCr7Y1xu36MQjih9F9Pi8iKiqxlZELZ5EG7QkRpEFwNkm/AMkb5MfpA326XhXWck4L8ak7Acr17CFwwiQ6b891uInusx2rxVoaqMpJ6emFj3vI2xrwGlamBhPGNbYKX7J7F5rEj12YcECYC8mE8ub/OK9SddlihPPSe9L9uTuecH/Rm5lDtuFbh6JQ8e45xokA3QhX78UDkr8vV9TZr9VUqEuFaTaRo6VaXBAH5feUrROdwAku4SOfl04dwIQBFBt9yNwrImEZUqEURB5qYg2FJt2Z/D8d3k/8cg10CYI3DoIUoqzAqXegpnPJkNQEfhmcY=;Q/fb/Eaa5ECbxRMr/+W4xw=="
 ---

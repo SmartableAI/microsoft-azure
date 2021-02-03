@@ -46,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Resource instance rules for access to Azure Storage now in public preview"
-    excerpt: "Resource instance rules enable secure connectivity to Azure  Storage by restricting access to specific resources of select Azure services. Resource instance rules to control access to Azure Storage are now in preview in all Azure public regions."
-    publishedDateTime: 2021-01-27T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 83
   - title: "Confidential computing using Always Encrypted with secure enclaves now in public preview"
     excerpt: "Always Encrypted with secure enclaves enables in-place encryption and rich confidential queries on sensitive data by leveraging Intel SGX secure enclaves, available in the new DC-series hardware configuration."
     publishedDateTime: 2021-01-21T17:00:50Z
