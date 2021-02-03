@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-publishedDateTime: 2021-01-29T08:33:00Z
-originalUrl: "https://www.oaoa.com/news/business/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_f3bc0816-9341-50a1-af73-9c7f35e8bb2c.html"
-webUrl: "https://www.oaoa.com/news/business/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_f3bc0816-9341-50a1-af73-9c7f35e8bb2c.html"
+excerpt: "LOS ANGELES & MISSISSAUGA, Ontario & AHMEDABAD, India--(BUSINESS WIRE)--Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced ..."
+publishedDateTime: 2021-01-29T08:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -59,6 +59,6 @@ related:
         height: 450
         isCached: true
 
-secured: "fo5YA+3CGmej6iWbgK4MtSQWkvgKOaelNz8cCV+DW38kO1vEzmpNvqp2wGI+S7Mpg0rsLFlayCCZu9XKpwOekgXc4AJlGoOspVauUVZue1ZCV5gaqMZLD3UWbKVyBrOK4Dstz0q95/ML0N51rOd4ZTueaSu0UrjIzdRddk2El4yjLwPoHaYZR594RwUEcXbziyW0/qqoHYla+R5hXntEgrbldyAbltXWN8Ymxtrjo2Ze8w5H3Uj3/ipvgIg9VwR37pEETE5jbvB6ZUas/pVP8MWjgJp1nYDwuq1lBxLw+1ckc/4A2j+PP+kl2oddFfED07vPZOyaDHiw9TipCeDc2GxAJ4C0hstz99/DQnpGUQ4=;iFMf2wRFqD8uf78TajA/zA=="
+secured: "H/fcqBDYYRFFPXT/T+aL10e4q4KZV1jS8l4ag4KguKvymPU2Uys1yNRZIeoi9oKh/n1yiA/1e6vHoqs7cHlqqpj5AtvfjQZ/IDCn6U5Z7yFQNEdujv9f52jZ9RIb24H0sf45oR3uRjqG8/VqQDj/KMFiYVcP4D9r/nox/ZBh/o8mIQB9MpqrC1YoiMCM0ga96bjwgGDTVVYJt7U0o6lnNEQVhwHnLwvNAAyatPqmR/Dcx11U2fQbk5FilDDMsC1QkYh4q9vw8bZftrFa30lo9CCVV6C2PF6U26Qg4JI1qUtdECYfb8MmrgA9WvnilHqFtPQ1deqCTpIEM6qsHRbD4HRhnwzwZzKqzxD7PvKzK54=;1N9SILTTg8l5AvYtOzBumw=="
 ---
 

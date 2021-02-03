@@ -54,13 +54,13 @@ related:
         height: 450
         isCached: true
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
-    publishedDateTime: 2021-01-29T08:33:00Z
-    webUrl: "https://www.oaoa.com/news/business/bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization/article_f3bc0816-9341-50a1-af73-9c7f35e8bb2c.html"
+    excerpt: "LOS ANGELES & MISSISSAUGA, Ontario & AHMEDABAD, India--(BUSINESS WIRE)--Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced ..."
+    publishedDateTime: 2021-01-29T08:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 16
 
 secured: "Y8Hvd3c4vsyMO6l4baahuf1YVYOWOjMNfS956Ui6xxc5hyosBRBdyXjIFljwMTaNSbtMfyS5MOBvW2DFiKYPN9h2HEDG9pyFgRC3gTHtpPCgt3tWW02IauwrrGHrkS6pZPv0DuXEygAtJ9/3KMRs//JybM3dMqLowydpIPD2fw6duA5vYZbBEf57+e5aXKelMTFlvCRUC9dH2zv3GySlEgiMlcafCCkvl94BoXnb8p9CEk+M1WHJcugblprcxxNlsUfbtCxvrIn2MBb6qWrCN/90UB447ZgjK5X6BgACeMLS6ssjoWyqZ6FwZkfRlh4IhvRwHOypAwDTUSG2wGNabRVr8bWCTDU5VawfeMqASbk=;QeOJ3TH01HYqRXq+2kd02Q=="

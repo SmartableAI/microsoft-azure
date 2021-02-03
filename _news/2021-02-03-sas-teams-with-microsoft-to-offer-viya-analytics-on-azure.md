@@ -1,23 +1,28 @@
 ---
 category: news
-title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-publishedDateTime: 2021-01-21T21:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
+excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
+publishedDateTime: 2021-02-03T01:38:00Z
+originalUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
 type: article
-quality: 29
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
+  - Analytics
+
+images:
+  - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
+    width: 1500
+    height: 843
+    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -190,20 +195,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -316,6 +307,17 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 33
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+    publishedDateTime: 2021-01-21T21:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
     excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
     publishedDateTime: 2021-01-26T11:24:00Z
@@ -377,6 +379,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "p6BIWv5OdpSPT1vugaIWL5hXvopWrNGfChMKIBMU36qTeB7B1Sk+HR8VMCuqvuBKmgtVI8tl0jeW4Mtn7ljgiE91uB/xfrP8k4e7C3xoSWIsVANiFNzbS7uV492GtqgrHmoYHTKXR5FDPPTaemWL/t5+gDoH/VRAHbpbKxbvdqN8ocEU2YfvJmHx3SD2j5t+oeEevyqBXGhf3suqWwBSGW0/Odx+5Fyekjwpm8YjfS4AofB+/oU1y8uUtVUBDsUInTGUOxs5Y9RXYQ/pesQKpbUkL8dFwDU7KSEc99IJ5mNs5lk9LlHDe7wjlOEgu6RXeS9yBj/SrA5wLqm8wpRvleweAdzdu56muXI4VM943RY=;e28OwNoBlGFGFOm0DP5wEw=="
+secured: "Z0rjFhOBwc5SbtGhdH26EXoGtJ4P+PDyrWmbCdZZ/YMUkC/azb3Ig3C/+59LMXE6c+no5BU/7JEowORNv5LB+pNNIqjsDeWDytapf7WOTwdnY8q6ePgzMvBwJR5BQTE18orHJJ6KVPwMGTvxCAZtLOF06ob7Phyv0+r1S27vK9sWt+UsMWAc3MqUsKqig6/FQTnvkzzXmtnCCv83w45hfCG+ok1A4xbrcHMuvbHBbYPDrOAXZtAs9byg24w4+M+Ft1E3D3u2Xnyi0XYTi/qHiOe1qbFHXeBSb/nQUt0NQBVq7N9B426sjOQhyMY6BVrZqsPWqxX6/lnJZhe4HAKw2+51RdG/dDubGwq0GUArm0A=;L1bwcbbKpZhiJAuiuzvIDA=="
 ---
 
