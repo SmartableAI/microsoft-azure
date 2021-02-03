@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-05-08-microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland.md",
+      "title": "Microsoft to add new cloud regions in Italy, New Zealand and Poland",
+      "excerpt": "In the span of a week, Microsoft announced plans to add three new datacenter regions in countries where it doesn't currently have them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/08/9ed511c7-e2bb-4bba-b5d3-4dd6a65c9c4b/newcloudregionsmicrosoft.jpg",
+          "width": 899,
+          "height": 538,
+          "title": "Microsoft to add new cloud regions in Italy, New Zealand and Poland",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-add-new-cloud-regions-in-italy-new-zealand-and-poland/",
+      "publishedDateTime": "2020-05-08T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-amazon-says-big-government-jedi-award-is-fatally-flawed-in-latest-rebuttal-to-microsoft-criticisms.md",
       "title": "Amazon says big government JEDI award is 'fatally flawed' in latest rebuttal to Microsoft criticisms",
       "excerpt": "The JEDI, or Joint Enterprise Defense Infrastructure, deal worth up to $10 billion has become one of the most tangled contracts for the Department of Defense.",
@@ -1234,58 +1285,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints.md",
-      "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
-      "excerpt": "Azure Container Registry announces dedicated data endpoints, enabling tightly scoped client firewall rules to specific registries, minimizing data exfiltration concerns.\r\n\r\nPulling content from a registry involves two endpoints:\r\n\r\n\r\n\tRegistry endpoint, often referred to as the login URL, used for authentication",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-container-registry-mitigating-data-exfiltration-with-dedicated-data-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/65527b4a-84d5-4864-92e5-78da3ecba512.png",
-          "width": 640,
-          "height": 214,
-          "title": "Azure Container Registry: Mitigating data exfiltration with dedicated data endpoints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T03:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools"
       ]
     }
   ],
