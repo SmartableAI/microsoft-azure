@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M9S
 publishedDateTime: 2019-04-23T15:40:24Z
-heat: 65
+heat: 69
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gA2yxwKo0M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tFRY53NLfrsm3gZxWV2a7RvF9th8RSDDNgX8g1OEJVVY7GxMMavKl2CaZ46106DzMmJTzA+Crm1O2E9QVW8p0pS+ZQwI7qlPqGNsjYv6DCSLw9H0mqlXebIDYzmRulNEqrPzW97arT9U5WkBpbhy1G+LCBDsVAsJ8aZRPvQE/QAt7ZNiD4F+BGyRXjMQIaDctjSqsCjm0BHhB2NvA0Hjjihf31HMZ+M1ehU24CW4a5pJvFm4y/gyIyzzi8aRNotyq/Dtnbb0eyQTTwSLCrrXv1gEsRYqgaxOABRlCgdhwUuUc8qC1zXIOWUaj6MR8yVzTP/Sze2FLiVHO25KBK4c/omhHEr85pxYH3H7hpyPM1kB1CUKKldle0NMcCbDKYoBg5F1SdaAHTIy64jA/ipWDYXXFUOgsuHtdDqbGBbq2+M=;63n5kuQVtTnv/rGt8pTCuQ=="
+secured: "TEDXE+y9jxYq1OEPWMSkR2XZhvqzcRpW8+MEgl9Zfe0k53K9ivQkU/lGvHDHSPS/HGNxo3F7EPVg5w8PHafJF42mc9awADBtrkMOs0tP0DuFzTVd/LXLhbsPEdZX6atrBiHUmYsTICr11cOAbJourjYOQB3xyAIN4dvdLY97YIqXLDXX0GVNpqMPnAz5kgdJrVD8hhLa8uvfoLU2v6aW5Q5oVd5QsTh8YY6p3hvlO90bOBEYk0yBK3a/CsMCQqVKcuGpJ41YYR+F6J85g6bTLLTUquWcCJ+6bSnZbl5ISeUmubUAMCpNHt0MK4849FOQ0uCUnhX1K/WV7l7MNuE28QGBa8LGHeaKwXmS+ny5DdNhVXibf6CZcGUO5FsSALSCe2bjDtQeuWuuziWsTUw2huzzMKquQtEJ1wDNkclGHAA=;+7IedB8/IpRFpX11xGniuw=="
 ---
 

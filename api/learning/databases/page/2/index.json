@@ -133,8 +133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4352,
-        "average": 4.5337777
+        "count": 4354,
+        "average": 4.533762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -205,8 +205,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
       "length": "PT39M",
       "ratings": {
-        "count": 3703,
-        "average": 4.589522
+        "count": 3704,
+        "average": 4.589633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -335,8 +335,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 707,
-        "average": 4.704385
+        "count": 708,
+        "average": 4.7033896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1208,14 +1208,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
-      "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5YNJpGwj_Zs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YNJpGwj_Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M48S",
+      "path": "_learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday.md",
+      "title": "How to do bulk and transactional batch operations with the Azure Cosmos DB .NET SDK | Azure Friday",
+      "excerpt": "Matías Quaranta shows Donovan Brown how to do bulk operations with the Azure Cosmos DB .NET SDK to maximize throughput, and how to use the new Transactional Batch support to create atomic groups of operations.  2:21 - Demo: Batch API 6:32 - Demo: Bulk API  Bulk import data to Azure Cosmos DB SQL API",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=TPtGhQY1pZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TPtGhQY1pZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M53S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1228,13 +1228,13 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-12T16:53:12-07:00",
+      "publishedDateTime": "2020-01-10T11:46:02-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/TPtGhQY1pZQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -1243,7 +1243,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Databases",
+        "Developer tools"
       ]
     },
     {
@@ -1286,14 +1287,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday.md",
-      "title": "How to use composite indexes and correlated subqueries with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Tim Sander joins Scott Hanselman to discuss composite indexes and correlated subqueries using the SQL API in Azure Cosmos DB. A Request Unit, or RU, is the measure of throughput in Azure Cosmos DB. Learn how to optimize queries with a composite index to decrease the RUs needed for a given query. They",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-composite-indexes-and-correlated-subqueries-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FigrAT2ooPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FigrAT2ooPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
+      "path": "_learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks.md",
+      "title": "How to run C# Notebooks with Azure Cosmos DB | Azure Tips and Tricks",
+      "excerpt": "In this episode of Azure Tips and Tricks, explore data in your Azure Cosmos DB and run experiments with C# notebooks.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks    Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-run-c-notebooks-with-azure-cosmos-db-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=pJVYnMAKxXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pJVYnMAKxXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M49S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1306,11 +1307,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-06T08:42:23-08:00",
+      "publishedDateTime": "2020-12-08T08:04:38-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FigrAT2ooPM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pJVYnMAKxXI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
