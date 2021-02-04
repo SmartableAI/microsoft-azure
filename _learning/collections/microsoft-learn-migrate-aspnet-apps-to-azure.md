@@ -23,6 +23,7 @@ items:
   - courses/microsoft-learn-provision-azure-sql-db
   - courses/microsoft-learn-migrate-app-service-migration-assistant
   - courses/microsoft-learn-migrate-sql-server-relational-data
+  - courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines
 
 topics:
   - Azure
