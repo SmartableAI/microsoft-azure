@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft’s Azure Quantum platform is now in public preview"
-excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
-publishedDateTime: 2021-02-01T18:41:00Z
-originalUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
-webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
-ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+title: "Microsoft Azure Quantum opens for public preview"
+excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
+publishedDateTime: 2021-02-04T02:01:00Z
+originalUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
+webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
+ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
 type: article
 quality: 97
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: InfoWorld
+  domain: infoworld.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -108,21 +108,21 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Microsoft Azure Quantum opens for public preview"
-    excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
-    publishedDateTime: 2021-02-04T02:01:00Z
-    webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+  - title: "Microsoft’s Azure Quantum platform is now in public preview"
+    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
+    publishedDateTime: 2021-02-01T18:41:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 97
     images:
-      - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
-        width: 1200
-        height: 675
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
@@ -844,6 +844,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "JuqiWmE+nB7wri9IV0S4Eu/HqZL4iF+ABgr2PyKxsGiKXEXs+ZDTflslv63/o6u2dYcFG9FH19BaehabT+PVLFi8jVVnQ5hIsZSmpkdQbkiU1aLlRuQYNWTaSsj7zPxCVYKVcbM6UnEGu8wIMy7Z6iLh3v+v4SlYyMwlrGy90tY069zbCRB7PenrM0GtpOOKQzFIBzMmyG7lAKSZSsW93SPiS+IIC1y7d7jL+AkO/l0/7esXh02zJdMk1gbt7wIi4ZXWcZcV3UWeo1MsBSdC/9Nof+xq3VxbbPOxRSvav8V8ekVLfWncxQa+wQWUdW/jdCOQOk8p/3zRuaKniaHcKotcH+OG5oORXBpx0PEjGZY=;dr+u1e+79EjTvAWh1qCTPw=="
+secured: "NcyxYnbujQQ9P/hdD+J3pjyQukIZtWxKQsOC2jjcV+4cvgk6/HhnfQbPYpfQM5ZjJSJze2wMKCcEd2ScBB/3poNUg9fyyOi8ClrLVMZz1++JrbQiqsnNRW2GUttl+GiWfn8Et8HDKF/2Nj8pQTjAc81UthGW+pELOwU7FPDrotKIRvLKoP/+0HdcXGJSewyAKXk7uX7RWCjoUBdO80eZrHIHRB9N7F1HwUKv2ueVNgc/ZeltF7E1v36OFdkYwvcWNfJWgZRH3RiryV+9XhKn769qnpIkaA/8h8DnvlpnVv3yI2jvhLwRgByQ5ykwOZGHU7EntcmGO2XeY2k8iZajqefN4jNMKYCo/7iiJcxLHFE=;beNas6tkdz2/kkCUMFGPVA=="
 ---
 

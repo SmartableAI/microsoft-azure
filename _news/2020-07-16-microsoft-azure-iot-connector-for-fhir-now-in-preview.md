@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for
 webUrl: "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/"
 type: article
 quality: 104
-heat: 1324
+heat: 1344
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Azure Quantum opens for public preview"
+    excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
+    publishedDateTime: 2021-02-04T02:01:00Z
+    webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
+    ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."

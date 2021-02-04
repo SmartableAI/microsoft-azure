@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Azure Quantum opens for public preview"
+    excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
+    publishedDateTime: 2021-02-04T02:01:00Z
+    webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
+    ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
     publishedDateTime: 2020-07-13T16:48:00Z
