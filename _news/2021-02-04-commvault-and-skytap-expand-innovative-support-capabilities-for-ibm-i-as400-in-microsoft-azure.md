@@ -1,0 +1,44 @@
+---
+category: news
+title: "Commvault and Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
+excerpt: "Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, today announces a new partnership with Skytap to expand data protection and migration for IBM i (AS/400) workloads hosted in Skytap on Microsoft Azure."
+publishedDateTime: 2021-02-04T08:04:00Z
+originalUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-software-industry-72ba5252a074b6a344d2bc1cd7b2b801"
+webUrl: "https://apnews.com/article/technology-business-corporate-news-products-and-services-software-industry-72ba5252a074b6a344d2bc1cd7b2b801"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Commvault and Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
+    excerpt: "TINTON FALLS, N.J., /PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, today announces a new partnership with Skytap to expand data protection and migration for IBM i (AS/400) workloads hosted in Skytap on Microsoft Azure."
+    publishedDateTime: 2021-02-03T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-2021-02-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "bFLct7PckLGxwqPbbRHjClQa20dRFjZfZfC6m3ucm5Dm+b4CYpg15lbMs3U/6Lr1NVNzMp5il4aUI+yIhZzkBjCW8rFf/ZSwb4jqtAXt17X4wADmC4F/ml6vnjuW+HdckdaE5x6wCwzmLXg3JqqTA/KE0N8cnDaIIb3+2ZSLhKync8E8ZlvJTw9idVBeAS2+8iKQJAyaTFC9PLg0l208z/EXsZ5z8kigGZ9O5/jLUXMTrmqyAYvtq4Bv/5XQCLBGwOiPUAoI6dhIbSRROQ/3g09m/mKs4TyeZF+jOL1n+TWMKolxbhGx7SmBLjpWZuf7XHUubi7+pdpKynoVZVRbjaRf21y1kF0+20fMNfpQXqM=;9jDtIgBU43V+8Nkf+9R+gA=="
+---
+
