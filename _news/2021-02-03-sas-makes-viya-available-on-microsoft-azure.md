@@ -3,8 +3,8 @@ category: news
 title: "SAS Makes Viya Available on Microsoft Azure"
 excerpt: "Analytics provider SAS has expanded its partnership with Microsoft by allowing cloud migration and management of analytics workloads through Azure."
 publishedDateTime: 2021-02-02T21:40:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/SAS-Makes-Viya-Available-on-Microsoft-Azure-145069.aspx"
-webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/SAS-Makes-Viya-Available-on-Microsoft-Azure-145069.aspx"
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145069"
 type: article
 quality: 37
 heat: -1
@@ -764,6 +764,6 @@ related:
       domain: telecompaper.com
     quality: 0
 
-secured: "7UKNzqRTW2gasQo2n2if1WhmGwqwSQmivAqn0HIryNLgtW+u28UjSvb/CgP1oklY8R/xSZSF5Oh/pyh+RiRrnvDPxJ92NSNlVD+uZQrVqeGHX8k4s+mi5xuG6m/NT5X7x0wd07xHDBsYpQyhXtOw5Gwm4XSm+SRzVqawTY/3DxyHT1x/YNiD3ViTLFQJgro+ALzTyozx1AoVtC+tWREMaXBiS+glOs8K07NWmBh93TYJ/bzd+GyH8HrKg8G5Wql9mvbVzpAikPxLU+d513oXnaTBZm6AujsVztHVl60Ig6i7eiYsAez0VuJkPd5HSrpt+bRaPgaRmCOfI7uy3ZdpVU8NtR4q+Pj8KJxZ7co+x74=;lGDdKsOORN3hZpmgY2rBaA=="
+secured: "LslC2n5Q1wmquz5EktDH7WPMcs5DINrFBfHhiJkUz8Pvtnvr8p8byXU9X8kCGM3J+Rt8YKLy1FQltgNv4nAHSuYfpS3ICwir621PUH+v7Wk20bMC2u2o5BpAXWEkHFIG03uoQtoATkUz7pemXK43AL9wg2BCvAfhuA/1wvQdJSdR+IxQUFFI9T9K/RAOT/3Fr082DeSep5ckF8nIF/B3SfXSjKoLxETcan0GN38CM6SZUa8nlHeAqlznTp06b43qvgIOWYR0i/fVgWwD7jQs8QBqp+UQNgsRD3S0Zx5sggjq6LpuBvwmYgx+ZGUO0hDZnIvnzWsHNeNacuhKe2m7eQkoTF2BZwfMkQHSzQhDQhk=;tJj+zWBPh/kvWu0RotErkw=="
 ---
 
