@@ -8,7 +8,7 @@ length: PT42M
 ratings:
   count: 2153
   average: 4.6990247
-heat: 53
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "PTcUgMkjDCR5AUx4C2E8utX9s30qpTPePeN7FWNJnZhxqg0VJFJJKAADmDsNzaPaJAvg84YkzSEo+QFwsC5kVgRP5/6ONwTRfUEzQxjtirq6G/Cnje4TrV/FfD4j6tTqMeBVups7GDMf9aISNh4X5S3rDYGk/3XH++9bHkfwCMqgs56lkecyR6jM2KA4nRVy4V93E1qqEWeqDspAzaBE++qguisxVLG8QdVguVMyJ1ChU2t1dRHD6y6ZI/JpE4nCCZaC6iYHZnZUBgOoB+vQ73mFM5KPnlDo7MrArQHEpboNHK7MEccrzEXJTHgqUCzs17Qi58Ux7xk6rdZXpcCk1y7+k5xVUC5t/2Y/QU9CHzENx9MtO5PyTb8r/zSRce08oyzUlZ3q+6+83JL+dNLCL1TAOS8AJpusZVrZN3kEfrk=;hntlRLvoagsXG+4+0rWAtw=="
+secured: "CiCFkdvx5hk9IYsW5wfpfhj5RBzG+5tbpK9wfHlsPA2PezQ48AM0JBj/xvjV7td08XH8YbqyORXBygF5rPFrBheni5YVrdOsQfjtQGP+yahra/spubi17lFt25/G3XWlc4h6/f1NhXYwD7giG/kzZJMy/DNtSgm+UJSLI9G01ZtKiprlVTFs5y1CsinQpNjd96hccCd0Ag6GLeaYs3M6+lT50cGOP1EaTwCcoxtkpgHefRTmpnHpmAtEtvFOwKqMe0J+eAuLQF8m1OGjf9horG+VZGZnDxSsDZXfKZQoBfef+bpIsLgw43Gh2hbOZ+kof4RNoajxWyY+UrJN/7Gff9KpNbySst1PchzAXeV9yWprO+rDg5eh5R8ZFpaK3ECWmxdmbRNUWmIf4vOltUJHI3aQlvyPqoC1WvCvx1wx2+A=;irnA+0Rsu/zMyTQxjxY4rg=="
 ---
 
