@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+    publishedDateTime: 2021-01-29T08:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
     excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"
     publishedDateTime: 2020-11-23T14:00:00Z
@@ -53,15 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "LOS ANGELES & MISSISSAUGA, Ontario & AHMEDABAD, India--(BUSINESS WIRE)--Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced ..."
-    publishedDateTime: 2021-01-29T08:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "Y8Hvd3c4vsyMO6l4baahuf1YVYOWOjMNfS956Ui6xxc5hyosBRBdyXjIFljwMTaNSbtMfyS5MOBvW2DFiKYPN9h2HEDG9pyFgRC3gTHtpPCgt3tWW02IauwrrGHrkS6pZPv0DuXEygAtJ9/3KMRs//JybM3dMqLowydpIPD2fw6duA5vYZbBEf57+e5aXKelMTFlvCRUC9dH2zv3GySlEgiMlcafCCkvl94BoXnb8p9CEk+M1WHJcugblprcxxNlsUfbtCxvrIn2MBb6qWrCN/90UB447ZgjK5X6BgACeMLS6ssjoWyqZ6FwZkfRlh4IhvRwHOypAwDTUSG2wGNabRVr8bWCTDU5VawfeMqASbk=;QeOJ3TH01HYqRXq+2kd02Q=="
 ---
