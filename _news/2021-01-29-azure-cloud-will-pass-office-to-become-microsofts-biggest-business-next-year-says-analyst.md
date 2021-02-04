@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
 type: article
 quality: 87
-heat: 627
+heat: 629
 published: true
 
 provider:
