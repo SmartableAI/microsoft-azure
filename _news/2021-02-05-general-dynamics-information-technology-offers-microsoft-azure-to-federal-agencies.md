@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-publishedDateTime: 2021-01-26T22:16:00Z
-originalUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+publishedDateTime: 2021-02-04T17:59:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
 type: article
-quality: 82
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-    width: 1200
-    height: 573
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -61,6 +55,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
         width: 848
         height: 493
+        isCached: true
+  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+    publishedDateTime: 2021-01-26T22:16:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
         isCached: true
   - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
     excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
@@ -310,20 +320,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 33
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
     publishedDateTime: 2021-01-21T21:34:00Z
@@ -396,6 +392,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "rFGw1emFF/BBUHIqbZC31lT21VbtiD00oUyVEGouXtiJLKDx7Ljf9lv/4/2QUaKdmxF5TrpiutFfMghBZJagDaETUH2schgdlplorvETH/JeynVcVw+U7ZEk3126tDL1iZnUJboTJn5AO7k9F14EA1+Qr9ITD+w1m/f5ImM2lG+rEVQxFlA76SUteqhTmp+wA81+AmUzSbJUe6XSuKC+Wbek5VU3p7K67TlMwyQfHROP6QHD3emH59vwtx6CA18ULSA9BHi0QZsUtyaiOsHltQLO5sFEktm+B408PQ8bASABtqd5KqlDj3rqCTUDRGY7ZMbXfmEhykyzVUkHv9V0UGWRcXG770Uk44hunoMqbrUVX0g7K4nYK7P3lNvHz61UI9tcgTXjqBMP1wzDuXrvS7jkqT4y3FJwHQ6tSI6pP6ARD3mCdj7/uUv/Jrpe8gZFF3nNpqxfw/Pm1EH6azZhZQ7+YPNegZR6Bx8vZo9yFlAOAx1A80v6qeWWYapTTHR9KyDfRtwb8FJtktZS9dM3+g==;wudh+r/UCrsgxwd1dcFfiw=="
+secured: "E+YE0WRTEsBr0/TUp4aoWyFgtA4e+1irxlfac05aZKZDznNUt5EO87D+frBa0QP5JsXXVqm6rqON5X7U6dlr7Zkn8XXfZIEzgUGhrk2Ty5gO1kz0oGFfjdTxafvEyGixaffiFY+1VV6lw8eTICh3uO6DAnriCN1p3ey5MCCioTiTkfHcTC+bRzUwZiECOnXdXSHl4j5RTtORoRy6dnor3Ik3aJHCY3DisAOxyz26SGjsVM1wDFMhuVuziy3fvcWfssC1SijGa3SlNnE5xGJdZQ/f1oV5ibyiN6ZT0l5paDz6Gc6ApyB1hGVf4gCLmQQqsfHwUVTxJow9lkpzxijJm2t8ENgRZ5XufD6h480qtPA=;HxkwQu+OfrKMy5UdYpc0lg=="
 ---
 
