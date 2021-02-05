@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H13M
 ratings:
-  count: 52750
-  average: 4.7107487
+  count: 52751
+  average: 4.7106977
 heat: 60
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Management tools
 
-secured: "Tjeacd0IEiM4ksG4XdIksu+7RzDZKR+QrYFxbWVa9Ws8/RuvKNUJ2dyVgvH5HifqpHs1GalWboZxp882onNuazTfgNna9D8vcWbO8BthE9uU1sb4rlK3nAYlkuMbjkpHq1BtVAn6V7++/ZoVreJ+HUFLxlkeSmPmHFdMHbMOtWKMwM9rQkTl8EDN8yJY5RRIRGuQZP8dlj8Nw7Ll1lH6WR8zZW5wV7DHUr6gmRJvX8iZcyyMyE9IuWv/T6eu+CQwFUnh8jHSsTMD6zsp3Sgtx3n7VZColL6UGspwEVuIMBnndJuUeRk4gXgiJvlva+2rkqcRG9a54Rs6MN0R1+BSNJ+Gqfk008eeoyLfHaU0p74jBasCt0E9xAbrT7iFIfIkhNWmrlrJYBywzpfZ13a6BpbObgYucTAuXxbts32ywOl61eQPf+tv0UfprNJHxgky;BEbeozDqGIFWVeaJ/q5tVQ=="
+secured: "+5iIrsVCy70puf+CRpYncQIkXeFS1/9BHY1K2XNpNA7fFjE93+IZLexQ//gaqzWP5a+756MvP3as/eG9B4+Yj106d3dUbg/X6Z0dQ4GQTHhw2cXwAD+4CnV/ZGj7s3aTx08uSqeMw0ZV/x7YQoWaiMY6jb9zXpIX6EwDk+bL03MLpTXEEJbTF+epdvLDwX6dZiDot3IAEDnXMpwdR7ZiEl5tRKv0ZqLbjYPs8FDU41FT2eHVp3oc5o4K1hB3Q8UHskthkCQtRD+Zl6ERBr7nJMi57oJra4mjM0dsVFd0H5dAsGnwTXPH4DHD85gvGJ1T1h6e+AlKo3yyq1D9o+0hvH/uQ9afVP2OncUF+Pu2Fd7q36KWW9BORk9LS4+32yjfyAX+zYCDVoApfO83sDf08/ohek9l/6gssA692pjn/10tejQbIVGrGf47yKSzo+0S;qkDzQjoP3hLw1OG+nhDhmg=="
 ---
 
