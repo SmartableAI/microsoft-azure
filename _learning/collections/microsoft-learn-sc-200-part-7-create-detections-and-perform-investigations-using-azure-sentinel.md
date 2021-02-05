@@ -4,7 +4,7 @@ excerpt: "SC-200 part 7: Create detections and perform investigations using Azur
 type: collection
 price: Free
 length: PT4H40M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -19,7 +19,7 @@ levels:
 
 items:
   - courses/microsoft-learn-analyze-data-in-sentinel
-  - courses/microsoft-learn-analyze-data-in-sentinel
+  - courses/microsoft-learn-threat-response-sentinel-playbooks
   - courses/microsoft-learn-incident-management-sentinel
   - courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel
   - courses/microsoft-learn-query-data-sentinel
