@@ -4,6 +4,44 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday.md",
+      "title": "How to use Jupyter Notebooks in Azure Data Studio | Azure Friday",
+      "excerpt": "Vicky Harp joins Scott Hanselman to show how Azure Data Studio combined the simple and robust SQL query editing experience of tools like SSMS with the flexibility and collaboration of Jupyter Notebooks. The November 2019 release of Azure Data Studio included SQL Server 2019 Guide as a Jupyter Book, which",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-jupyter-notebooks-in-azure-data-studio-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=pHuRj9ty9cI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pHuRj9ty9cI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-21T08:17:39-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pHuRj9ty9cI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-implement-serverless-apis-with-azure-functions-and-azure-api-management-azure-friday.md",
       "title": "Implement serverless APIs with Azure Functions and Azure API Management | Azure Friday",
       "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly deploy and manage your Serverless API's using OpenAPI and API Management.  0:00 – Overview 0:40 – OpenAPI definition (fka Swagger) 2:15 – Using API Management to build an OpenAPI definition 3:48 – Reviewing the generated OpenAPI definition",
@@ -423,8 +461,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 623,
-        "average": 4.7576246
+        "count": 624,
+        "average": 4.75641
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -753,8 +791,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5624,
-        "average": 4.746266
+        "count": 5625,
+        "average": 4.746311
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -914,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 171,
-        "average": 4.631579
+        "count": 173,
+        "average": 4.635838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1287,8 +1325,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-networking/",
       "length": "PT54M",
       "ratings": {
-        "count": 144,
-        "average": 4.576389
+        "count": 145,
+        "average": 4.5793104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1330,8 +1368,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-operations/",
       "length": "PT44M",
       "ratings": {
-        "count": 215,
-        "average": 4.739535
+        "count": 216,
+        "average": 4.740741
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,8 +1410,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 661,
-        "average": 4.741301
+        "count": 662,
+        "average": 4.741692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1394,48 +1432,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-non-relational-data-stores-azure.md",
-      "title": "Manage non-relational data stores in Azure",
-      "excerpt": "Explore non-relational data stores in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-non-relational-data-stores-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 537,
-        "average": 4.716946
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-non-relational-data-stores-azure-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
