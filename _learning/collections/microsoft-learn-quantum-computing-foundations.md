@@ -4,7 +4,7 @@ excerpt: "Intrigued by quantum computing but don't know where to start? This lea
 type: collection
 price: Free
 length: PT4H50M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -18,19 +18,19 @@ levels:
   - Beginner
 
 items:
+  - courses/microsoft-learn-qsharp-create-first-quantum-development-kit
+  - courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing
+  - courses/microsoft-learn-solve-graph-coloring-problems-grovers-search
   - courses/microsoft-learn-get-started-azure-quantum
   - courses/microsoft-learn-run-quantum-algorithms-hardware
   - courses/microsoft-learn-solve-quantum-inspired-optimization-problems
   - courses/microsoft-learn-solve-job-shop-optimization-azure-quantum
-  - courses/microsoft-learn-qsharp-create-first-quantum-development-kit
-  - courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing
-  - courses/microsoft-learn-solve-graph-coloring-problems-grovers-search
 
 topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://docs.microsoft.com/learn/achievements/quantum/qsharp-create-first-quantum-development-kit-social.png
     width: 640
     height: 320
     isCached: true
