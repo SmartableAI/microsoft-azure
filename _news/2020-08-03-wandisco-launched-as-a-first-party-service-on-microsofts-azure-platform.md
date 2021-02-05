@@ -351,6 +351,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+    publishedDateTime: 2021-02-05T16:06:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
   - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
     excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
     publishedDateTime: 2020-08-12T11:57:00Z

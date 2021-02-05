@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Attestation is now generally available"
-excerpt: "Verify the identity and security posture of a platform before you interact with it."
-publishedDateTime: 2021-02-03T17:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-attestation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-attestation/"
+title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
+excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
+publishedDateTime: 2021-02-05T16:06:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
+webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
+    width: 405
+    height: 228
+    isCached: true
 
 related:
   - title: "Microsoft Azure: A cheat sheet"
@@ -127,6 +129,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 75
+  - title: "Microsoft Azure Attestation is now generally available"
+    excerpt: "Verify the identity and security posture of a platform before you interact with it."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-attestation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z
@@ -340,20 +351,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
-    excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
-    publishedDateTime: 2021-02-05T16:06:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/microsoft-azure-helping-to-strengthen-us-microelectronics-supply-chain/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
-        width: 405
-        height: 228
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
@@ -628,6 +625,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "+hXHbJIo9Rx6g6qOYcCDVPNbVbL/ez25Rf7RSDG4Dg/P90En+WpjFifjG0109YZOQTLmMVsbyS6N/nvtBLaHa1uxJK7cuJ5Pw1NgN17VEXMf+tUwUOmXeFCs2tU1ufRPqBJGk8OYO8bH7ivNsutwi042iI2M27GS6ys77DSoXaPCspg5wbfG0uTtk9WmuGJhJv1BQMW+UPdANwoXImZhcDoM6WH5kMazK47dvK4oKTeiC1w55M9k5XgEEO59apxWmF1rTcOAelHT0qpU16Bz1a4lyHz63/Sqzm1mCDnHPScj2/Uya69HVBcrZrkyxXbL+lYfuBlbatv+YT2cag2W260gWtYpM8CS/VcNIB6E1aA=;IRxQI4TXy40HTHJP5wjpEA=="
+secured: "JgxtGVWfAn4/nn/ON2uqRPoxyXpGeGguwPBhihejrrQFHpE+vzYqePocp8d8JeKhSDPDAlhJrvFqa1mkbRQiKFyVnUqkRQg/VP3qXqs4FgzsBubpG4D9KRMzRGPwrRZ2hlIYFWQOae2u1oG2n8CkLIQzMfbAtbvVceFaFGASxE8Qq3SF9SzfnfC1yiNG1PovuMMc18Nl0Z6LJg88GHyvnNcaigwv4omdcGg+bfGAFEd22PBG266sPozpcgzmcIteYxuxZf5nyryvIeqd5ks5UL8JaaGv7SWi08i2FDta9GsKrEBBDcN+eDEL8+geqk7rKoTNX2fS5bTUUrcMVbFMek6Ei/H+/gsVLmbfzlopqlE=;y3ILHw7yK5z9SYhoCBh6dQ=="
 ---
 
