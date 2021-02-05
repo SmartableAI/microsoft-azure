@@ -141,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 19,
-        "average": 4.894737
+        "count": 20,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -588,8 +588,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-plot-graphs-python/",
       "length": "PT52M",
       "ratings": {
-        "count": 136,
-        "average": 4.7058825
+        "count": 137,
+        "average": 4.70073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,15 +1257,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-azure-synapse-studio.md",
-      "title": "Explore Azure Synapse Studio",
-      "excerpt": "Explore Azure Synapse Studio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-synapse-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-synapse-studio/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
+      "title": "Explore the types of Azure Data Science Virtual Machines",
+      "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-dsvm-types/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-dsvm-types/",
+      "length": "25 mins",
       "ratings": {
-        "count": 21,
-        "average": 4.6190476
+        "count": 891,
+        "average": 4.654321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1285,9 +1285,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-azure-synapse-studio-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Explore the types of Azure Data Science Virtual Machines",
           "isCached": true
         }
       ],
@@ -1296,7 +1297,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "Compute"
       ]
     }
   ],
