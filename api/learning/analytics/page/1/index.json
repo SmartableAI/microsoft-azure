@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 24210,
-            "average": 4.7852125
+            "count": 24247,
+            "average": 4.785293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5234,
-            "average": 4.719335
+            "count": 5244,
+            "average": 4.719489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 4530,
-            "average": 4.7596025
+            "count": 4541,
+            "average": 4.759304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3594,
-            "average": 4.75153
+            "count": 3601,
+            "average": 4.7514577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 236,
+        "average": 4.5550847
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5234,
-        "average": 4.719335
+        "count": 5244,
+        "average": 4.719489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2940,
-            "average": 4.744218
+            "count": 2945,
+            "average": 4.744652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 6955,
-            "average": 4.661107
+            "count": 6956,
+            "average": 4.6611557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +560,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5234,
-            "average": 4.719335
+            "count": 5244,
+            "average": 4.719489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +686,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1211,
-            "average": 4.436003
+            "count": 1212,
+            "average": 4.4331684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -719,8 +764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7534,
-            "average": 4.6551633
+            "count": 7536,
+            "average": 4.655255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -802,8 +847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3531,
-            "average": 4.592467
+            "count": 3532,
+            "average": 4.592582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -922,8 +967,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3531,
-            "average": 4.592467
+            "count": 3532,
+            "average": 4.592582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1029,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2130,
-            "average": 4.458216
+            "count": 2131,
+            "average": 4.458001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1972,8 +2017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 175,
-            "average": 4.634286
+            "count": 176,
+            "average": 4.6363635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3457,8 +3502,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 1648,
-        "average": 4.8373785
+        "count": 1649,
+        "average": 4.837477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3500,8 +3545,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3531,
-        "average": 4.592467
+        "count": 3532,
+        "average": 4.592582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3644,8 +3689,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 653,
-            "average": 4.6998467
+            "count": 654,
+            "average": 4.695719
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3999,8 +4044,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2130,
-        "average": 4.458216
+        "count": 2131,
+        "average": 4.458001
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4034,8 +4079,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 175,
-        "average": 4.634286
+        "count": 176,
+        "average": 4.6363635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4150,49 +4195,6 @@
         "Azure",
         "Analytics",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-      "title": "Threat detection with Azure Sentinel analytics",
-      "excerpt": "Threat detection with Azure Sentinel analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 42,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

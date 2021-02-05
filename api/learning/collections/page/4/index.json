@@ -4,6 +4,219 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server.md",
+      "title": "Monitor and optimize operational resources in SQL Server",
+      "excerpt": "Configure hardware and server resources for optimum performance after establishing a baseline. Identify sources of performance problems. Troubleshoot using Azure SQL Intelligent Insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/",
+      "length": "PT2H40M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
+          "title": "Describe performance monitoring",
+          "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 600,
+            "average": 4.8216667
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
+          "title": "Explore causes of performance issues",
+          "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 576,
+            "average": 4.8159723
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-causes-of-performance-issues-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
+          "title": "Configure SQL Server resources for optimal performance",
+          "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 1417,
+            "average": 4.7699366
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
+          "title": "Configure databases for performance",
+          "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 560,
+            "average": 4.7964287
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-perform-data-science-with-azure-databricks.md",
       "title": "Perform data science with Azure Databricks",
       "excerpt": "Perform data science with Azure Databricks",
@@ -901,8 +1114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
           "length": "PT51M",
           "ratings": {
-            "count": 598,
-            "average": 4.7608695
+            "count": 599,
+            "average": 4.7612686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -944,8 +1157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7373357
+            "count": 1067,
+            "average": 4.737582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +1200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
           "length": "PT39M",
           "ratings": {
-            "count": 723,
-            "average": 4.7980638
+            "count": 724,
+            "average": 4.7983427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1159,8 +1372,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7373357
+            "count": 1067,
+            "average": 4.737582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
           "length": "PT39M",
           "ratings": {
-            "count": 723,
-            "average": 4.7980638
+            "count": 724,
+            "average": 4.7983427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1374,8 +1587,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7373357
+            "count": 1067,
+            "average": 4.737582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1417,8 +1630,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
           "length": "PT39M",
           "ratings": {
-            "count": 723,
-            "average": 4.7980638
+            "count": 724,
+            "average": 4.7983427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1589,8 +1802,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7373357
+            "count": 1067,
+            "average": 4.737582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1632,8 +1845,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
           "length": "PT39M",
           "ratings": {
-            "count": 723,
-            "average": 4.7980638
+            "count": 724,
+            "average": 4.7983427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1802,8 +2015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5132,
-            "average": 4.714536
+            "count": 5133,
+            "average": 4.714592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2107,8 +2320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
           "length": "PT20M",
           "ratings": {
-            "count": 669,
-            "average": 4.793722
+            "count": 670,
+            "average": 4.7940297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2149,8 +2362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-nodejs-project-dependencies/",
           "length": "PT25M",
           "ratings": {
-            "count": 310,
-            "average": 4.754839
+            "count": 311,
+            "average": 4.7459807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2741,8 +2954,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 175,
-            "average": 4.634286
+            "count": 176,
+            "average": 4.6363635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3824,8 +4037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
           "length": "PT49M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7373357
+            "count": 1067,
+            "average": 4.737582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3867,8 +4080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
           "length": "PT39M",
           "ratings": {
-            "count": 723,
-            "average": 4.7980638
+            "count": 724,
+            "average": 4.7983427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3910,8 +4123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-marketing/",
           "length": "PT38M",
           "ratings": {
-            "count": 681,
-            "average": 4.7782674
+            "count": 682,
+            "average": 4.7785926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5564,8 +5777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
           "length": "PT45M",
           "ratings": {
-            "count": 38,
-            "average": 4.6842103
+            "count": 39,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5609,8 +5822,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
           "length": "PT40M",
           "ratings": {
-            "count": 31,
-            "average": 4.451613
+            "count": 32,
+            "average": 4.46875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5697,8 +5910,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
           "length": "PT45M",
           "ratings": {
-            "count": 38,
-            "average": 4.6842103
+            "count": 39,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5742,8 +5955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
           "length": "PT40M",
           "ratings": {
-            "count": 31,
-            "average": 4.451613
+            "count": 32,
+            "average": 4.46875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5786,8 +5999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-implement-application-allowlists-adaptive-application-control/",
           "length": "PT24M",
           "ratings": {
-            "count": 15,
-            "average": 4.6666665
+            "count": 16,
+            "average": 4.6875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5830,8 +6043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
           "length": "PT35M",
           "ratings": {
-            "count": 17,
-            "average": 4.7058825
+            "count": 18,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6090,215 +6303,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-areas-and-solutions-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-microsoft-endpoint-manager-fundamentals.md",
-      "title": "Microsoft Endpoint Manager fundamentals",
-      "excerpt": "This learning path help you understand the fundamentals concepts involved in managing your endpoint environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-microsoft-endpoint-manager-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-microsoft-endpoint-manager-fundamentals/",
-      "length": "PT2H57M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-endpoint-manager.md",
-          "title": "Introduction to Microsoft Endpoint Manager",
-          "excerpt": "In this module, you'll learn about the basics of Microsoft Endpoint Manager.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-endpoint-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-endpoint-manager/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 4,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-endpoint-manager-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-endpoints-with-endpoint-manager.md",
-          "title": "Protect your endpoint environment with Microsoft Endpoint Manager",
-          "excerpt": "In this module, you'll learn protecting devices, apps, and data. Additionally, you understand the endpoint environment and the supported platforms available with Microsoft Endpoint Manager.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-endpoints-with-endpoint-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-endpoints-with-endpoint-manager/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 1,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-endpoints-with-endpoint-manager-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-devices-with-microsoft-endpoint-manager.md",
-          "title": "Understand device management using Microsoft Endpoint Manager",
-          "excerpt": "In this module, you'll learn about how your organization's devices can be provisioned and managed. Additionally, you will learn about the different types of enrollment methods available using Microsoft Endpoint Manager.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-devices-with-microsoft-endpoint-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-devices-with-microsoft-endpoint-manager/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 2,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/device-management-with-microsoft-endpoint-manager-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-app-management-using-microsoft-endpoint-manager.md",
-          "title": "Understand app management using Microsoft Endpoint Manager",
-          "excerpt": "In this module, you'll learn about app management using Microsoft Endpoint Manager.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-management-using-microsoft-endpoint-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-management-using-microsoft-endpoint-manager/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 2,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/app-management-with-microsoft-endpoint-manager-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-endpoint-manager-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

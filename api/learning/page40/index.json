@@ -4,6 +4,51 @@
   "page": 40,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
+      "title": "Upgrade and migrate Windows Server IaaS virtual machines",
+      "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 14,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-azure-maps-to-track-air-pollution.md",
       "title": "Track global air quality with Azure Maps",
       "excerpt": "This module shows how you can track global air quality using the Azure Maps Web SDK and pollution data from a third-party air quality API.",
@@ -187,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
       "length": "PT27M",
       "ratings": {
-        "count": 2,
-        "average": 4.5
+        "count": 3,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -267,41 +312,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
-      "title": "Using IoT Central with Connected Field Service for Dynamics 365",
-      "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 55,
-        "average": 4.6545453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel.md",
       "title": "Utilize threat intelligence in Azure Sentinel",
       "excerpt": "Utilize threat intelligence in Azure Sentinel",
@@ -352,8 +362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloads-reference-architecture/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 315,
-        "average": 4.75873
+        "count": 316,
+        "average": 4.756329
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,8 +788,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-security/",
       "length": "PT56M",
       "ratings": {
-        "count": 42,
-        "average": 4.8809524
+        "count": 43,
+        "average": 4.883721
       },
       "provider": {
         "name": "Microsoft Learn",
