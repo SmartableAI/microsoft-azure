@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Append blob support for Azure Data Lake Storage is now in limited public preview "
+    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs.\n\n "
+    publishedDateTime: 2021-02-05T18:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-for-azure-data-lake-storage-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
   - title: "Azure Blob storage—NFS 3.0 protocol support public preview now supports GPV2 storage accounts "
     excerpt: "NFS 3.0 support for Azure Blob Storage preview now supports premium performance tier in all available regions and lower cost standard performance tier in Australia East, Korea Central, and South Central US.    "
     publishedDateTime: 2020-12-09T21:00:15Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—November 2020"
-excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
-publishedDateTime: 2020-12-11T20:00:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
+title: "Azure IoT Central new and updated features—January 2021"
+excerpt: "January updates include jobs improvements, new API features, new data export features, and documentation enhancements."
+publishedDateTime: 2021-02-05T18:00:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
 type: article
-quality: 84
+quality: 104
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86fdc786-9af7-434c-8d27-d92a21d6b7ac.png"
+    width: 448
+    height: 299
+    isCached: true
 
 related:
   - title: "Azure IoT Central new and updated features—September 2020"
@@ -51,20 +57,6 @@ related:
         width: 918
         height: 650
         isCached: true
-  - title: "Azure IoT Central new and updated features—January 2021"
-    excerpt: "January updates include jobs improvements, new API features, new data export features, and documentation enhancements."
-    publishedDateTime: 2021-02-05T18:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-january-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86fdc786-9af7-434c-8d27-d92a21d6b7ac.png"
-        width: 448
-        height: 299
-        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
@@ -78,6 +70,15 @@ related:
     excerpt: "Updates include improvements to the ARM template deployment experience, a variety of updates for Azure Blob Storage, and more."
     publishedDateTime: 2020-10-01T18:31:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-portal-september-2020-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Central new and updated features—November 2020"
+    excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
+    publishedDateTime: 2020-12-11T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
     type: article
     provider:
       name: Microsoft
@@ -102,6 +103,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KLa/Lurf/o/JsgC6S2Iqr6KZlI93qv08i38evu4+NW/zZKhVWLhdk+jRBrrwkJYXmPSBvgcvYJ5fnu3dTwwYStUfQv72xVSinAwR0HTA6txS0js/Wq+aOscZ27F+jAPD4mr5cDbIBcbsEfRloLXaKUifAbWxoh0fWwc5bJqwSAyGVr/5ga9Be4rpLtuOKbIduXbTd3bLUHNudLjbDjq0IXlfVIK+A7dvhI8tFKg2OB16msXfg5nWOa16dBFVHjf1SZ8YQVE4Ju18nt5Ozw5b0XcVSnOTNyTJkKX7GTwgZj6Bz6SrRxIYybtdOHdrnZdlgSVSxGt/WEZ6TNOZ40x6Nf8ZHka74QIa5qIwsCY2wPg=;/Pf45gZJDmdlmkItnu8tDQ=="
+secured: "KEE2TP8jcq/TQ7bvChICHcoK5FdzQ2YBB1BDaxpXr18axBNSuGAoyPTvaV8pPEtns6sUPbR8MyPRvNo2046Sln1gJdQuNuQFDHVj1B8CH0lkBLkEQOWAwDFeMCJ1hv3qIk4OJVCqsLw4Ff/Sn7mQr0L90j6N9cFRwZ+bm826xYubiV7Dx8xJm2BbS/nUom97CTVJEUn/zfemPysKndvbEbBSjbqCxlTXOdpKrdgguGta2dwC43izkMUsI70nlM0yDRpfMM/tex0rKxw1oCMjnsgT6P2b8k5ppBRuFk/6z7ygEUaAZp9iaeWGrPchmuTtRNRXZifHM5MykZQ06w9VEiC2nbQgRHI+ZTUC58tzkc4=;0Simsgzv/s9+tU4e9DcoeA=="
 ---
 

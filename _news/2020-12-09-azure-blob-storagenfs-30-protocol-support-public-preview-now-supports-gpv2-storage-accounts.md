@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Append blob support for Azure Data Lake Storage is now in limited public preview "
+    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs.\n\n "
+    publishedDateTime: 2021-02-05T18:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-for-azure-data-lake-storage-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
   - title: "Azure resource logs for Azure Storage is now in public preview"
     excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
     publishedDateTime: 2020-12-09T17:00:19Z

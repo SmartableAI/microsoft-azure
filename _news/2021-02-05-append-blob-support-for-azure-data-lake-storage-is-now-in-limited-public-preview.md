@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure resource logs for Azure Storage is now in public preview"
-excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
-publishedDateTime: 2020-12-09T17:00:19Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
+title: "Append blob support for Azure Data Lake Storage is now in limited public preview "
+excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs.\n\n "
+publishedDateTime: 2021-02-05T18:00:27Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-for-azure-data-lake-storage-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-for-azure-data-lake-storage-preview/"
 type: article
-quality: 84
+quality: 94
 heat: -1
 published: false
 
@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Append blob support for Azure Data Lake Storage is now in limited public preview "
-    excerpt: "Applications can now create append blobs in addition to block blobs in Azure Data Lake Storage accounts and append to them using Append Block operations. Applications that need to add information to existing files efficiently and continuously can leverage append blobs.\n\n "
-    publishedDateTime: 2021-02-05T18:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/append-blob-support-for-azure-data-lake-storage-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
   - title: "Azure Blob storage—NFS 3.0 protocol support public preview now supports GPV2 storage accounts "
     excerpt: "NFS 3.0 support for Azure Blob Storage preview now supports premium performance tier in all available regions and lower cost standard performance tier in Australia East, Korea Central, and South Central US.    "
     publishedDateTime: 2020-12-09T21:00:15Z
@@ -50,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "Azure resource logs for Azure Storage is now in public preview"
+    excerpt: "With Azure Storage logs and native export options, it’s more convenient to troubleshoot issues on requests to your storage account."
+    publishedDateTime: 2020-12-09T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-resource-logs-for-azure-storage-is-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Files support for NFS v4.1 is now in preview"
     excerpt: "Azure Files now adds support for NFS v4.1 file system protocol for an easy migration of your Linux-centric workloads."
     publishedDateTime: 2020-09-16T17:00:28Z
@@ -150,6 +150,6 @@ related:
       domain: microsoft.com
     quality: 14
 
-secured: "tSG3J54srFVEsuGr7prDg09L2hdCn1l6DrfTNFbrd2rtjlLR9wIB+4HcRo+9RFJB+P0CWYzTRYXGZcIFQ/ANiPE+fb1SbCC9esqZ4I+Adzj9EpSn+3Dn3gqMtSUsLNF/h6XlRWNsA+VbHsEovrDuT0wOOGm0rfM4JgWtnAvIZmIZcFYZd7Xc9x0L2hnFrABQb6uFgYNizz49XJE9w2dDO6vXiDz1mVMqv5W7DYqa1lJZXzShb1ZZknLw1/zOczDw3tavKdpdBdclXzqNL++9XEHzgE/zXDiA6P8eUAWM1oa7MbUhmTlQ1gH7Qk9MO0eAkYfOp+c/aCNVGhjXLPjQ+UiF7zb1qsrxb+uBYNIUacE=;a7NfEIKcNp0/viVBdlEZxw=="
+secured: "qbyfu+LJz+/gjTbkM5YXhp1fF0wZ3CqYPXv6oCudBB0SRx1f9k9SWzkvGr8I/8T8qXOebD/MMoyjXWSeGCMEOO2rvh95Oisu462e43wCOle2K1NA7NbK3z9qGSED/uaw9KSOEdVgcZg3W7We8nTKxvfTH1Ss2/Tk5igKDXA8FXn5wsagzWQK/8F4jKQKhWqo4dUcfpHfVktLFQIVyhL4Zh/wraQINpYVf290le+ufXLLy6Z6Q4NqD4psBmload6T6wKlzi2uiPaHeM60iByS0zyUn2NZklkzEdiAh8fHKlXeo7txg6B6kMb0pZYlbuz1E3RB1i48hjLoI8wM5GdXTnp7v5RtMu6NjCBV5KObG6w=;oQYFKrdQ2MVQjwgAPoLc6Q=="
 ---
 
