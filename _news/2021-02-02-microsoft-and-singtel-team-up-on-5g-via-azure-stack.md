@@ -204,6 +204,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
     publishedDateTime: 2021-01-21T21:53:00Z
@@ -305,20 +314,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 33
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-    publishedDateTime: 2021-02-04T17:59:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
     publishedDateTime: 2021-01-21T21:34:00Z
