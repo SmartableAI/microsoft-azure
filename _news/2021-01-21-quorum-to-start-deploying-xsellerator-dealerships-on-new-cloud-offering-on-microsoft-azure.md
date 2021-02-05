@@ -376,6 +376,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "What Small Businesses Should Know About Microsoft Cloud"
+    excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
+    publishedDateTime: 2021-02-04T14:43:00Z
+    webUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
+    type: article
+    provider:
+      name: Independent Retailer
+      domain: independentretailer.com
+    quality: 22
+    images:
+      - url: "https://independentretailer.com/wp-content/uploads/2021/01/ir-reward-01-2021-371w.png"
+        width: 371
+        height: 212
+        isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
     publishedDateTime: 2021-01-28T07:38:00Z

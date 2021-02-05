@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
-excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
-publishedDateTime: 2021-02-02T21:10:00Z
-originalUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
-webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
+title: "What Small Businesses Should Know About Microsoft Cloud"
+excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
+publishedDateTime: 2021-02-04T14:43:00Z
+originalUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
+webUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Independent Retailer
+  domain: independentretailer.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
-    width: 647
-    height: 450
+  - url: "https://independentretailer.com/wp-content/uploads/2021/01/ir-reward-01-2021-371w.png"
+    width: 371
+    height: 212
     isCached: true
 
 related:
@@ -373,19 +373,19 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "What Small Businesses Should Know About Microsoft Cloud"
-    excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
-    publishedDateTime: 2021-02-04T14:43:00Z
-    webUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
+  - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
+    excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
+    publishedDateTime: 2021-02-02T21:10:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
     type: article
     provider:
-      name: Independent Retailer
-      domain: independentretailer.com
-    quality: 22
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 24
     images:
-      - url: "https://independentretailer.com/wp-content/uploads/2021/01/ir-reward-01-2021-371w.png"
-        width: 371
-        height: 212
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
@@ -406,6 +406,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "QH5m1Qw0aDrLpZPe3oNQz4ENangHYAQzqGrqeP7IvRK6eVfiVT52k1Zgv3KD4AqAozsuxtLEp1u8HhPO6lSZbltXDD5aVHCFjoHdUsTqz1GKeTh7X4y3iqaxrD7/NFNGNHZy+FffkOSYMcDN3uJEciOdTyPGD9P6A8ljnMrow9gTMpuOxhGqieeAi0XBquUn0y/n9FAzGHCBvjXJ/bZVAAELKdYnaurlPbwWAEtD3ad/Jua/O12mGDJBwd1qERKkjsN0BbriNkMni+06TBCtXczf0vtHB1T6HV18PjXCymLJZy1G1s3LDjCT1pP1QDnuhg9hYQ5xjzJ6ggGn94PQSxkN1pEB5OYT2Ch9GWk+/ZzP8UUS6g9OWHwUDL0ZZm8CzAN952Tih3XYWCswpwBDGILUECvGprCza6VlCUysqYStCFpp6+KVnZBrVgaPYGJXFhZ0epj4XkdK+dC1TJVQ6ur/R4KNtm7OKaUwSnnylCFN7iGc3GTqBqwgEUNWOClQYwDuYrHOJDvUvvCRR0/9vg==;HfCxG9kH9DcCqDw573KJWA=="
+secured: "WWMQub4JU0pFHcQ4TWVTqUQL7HEKwCjS0w9IADDTm6wxg9hJVuidyOJr6cNUGrS3YB/Qd54Va0MmG5NT8ufH9idL9JAbUVef94TS6qEH8VX3nZ+7s63AMw9oGPTfTieilG0gL+GrdHsukI3nbp2B1uBHBm/5w71fTy7VtGczY/B8LBo8ShST3WxWviKqI84CluWALyBxR9n16uIVpbr2TMiYtLEUtrN4OJmf6JKVWSZDkSLuJRfypiaHolJNrYEAjF9RmY1Lddki0qKYQdS5fNdnUit4/dP2ppwadUFrV12snvWgkEvOEGSyAX714Md6F1UVbDgCmOl42AVrm/3r8lp4ItlJHFGl9CbG3tb3DCY=;J5vdzYWtkdBoR5Edtv57mQ=="
 ---
 

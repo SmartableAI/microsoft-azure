@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
 type: article
 quality: 87
-heat: 648
+heat: 668
 published: true
 
 provider:
@@ -376,6 +376,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "What Small Businesses Should Know About Microsoft Cloud"
+    excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
+    publishedDateTime: 2021-02-04T14:43:00Z
+    webUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
+    type: article
+    provider:
+      name: Independent Retailer
+      domain: independentretailer.com
+    quality: 22
+    images:
+      - url: "https://independentretailer.com/wp-content/uploads/2021/01/ir-reward-01-2021-371w.png"
+        width: 371
+        height: 212
         isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
