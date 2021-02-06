@@ -4,15 +4,15 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cmu-build-apps-cloud.md",
-      "title": "Build applications on the cloud",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how developers write programs that run on the cloud, including how to deploy, be fault-tolerant, load balance, scale, and deal with latency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-build-apps-cloud/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-build-apps-cloud/",
-      "length": "PT1H21M",
+      "path": "_learning/courses/microsoft-learn-cloud-storage-overview.md",
+      "title": "Cloud storage overview",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-storage-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-storage/",
+      "length": "PT2H43M",
       "ratings": {
-        "count": 225,
-        "average": 4.595556
+        "count": 53,
+        "average": 4.8679247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -30,19 +30,12 @@
         "Beginner"
       ],
       "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/build-applications-on-the-cloud-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Storage"
       ]
     },
     {
@@ -432,8 +425,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
       "length": "PT54M",
       "ratings": {
-        "count": 138,
-        "average": 4.5507245
+        "count": 139,
+        "average": 4.5395684
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +467,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-storage-network-virtualization/",
       "length": "PT54M",
       "ratings": {
-        "count": 68,
-        "average": 4.4411764
+        "count": 69,
+        "average": 4.3913045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -517,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
       "length": "PT33M",
       "ratings": {
-        "count": 73,
-        "average": 4.3287673
+        "count": 74,
+        "average": 4.283784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -601,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
       "length": "PT19M",
       "ratings": {
-        "count": 68,
-        "average": 4.367647
+        "count": 69,
+        "average": 4.3188405
       },
       "provider": {
         "name": "Microsoft Learn",
