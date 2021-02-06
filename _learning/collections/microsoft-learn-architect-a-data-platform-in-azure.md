@@ -4,7 +4,7 @@ excerpt: "Learn how to architect a data platform in Azure and build solutions to
 type: collection
 price: Free
 length: PT8H5M
-heat: 62
+heat: 130
 
 provider:
   name: Microsoft Learn
