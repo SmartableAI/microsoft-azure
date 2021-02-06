@@ -22,6 +22,7 @@ items:
   - courses/microsoft-learn-plan-manage-azure-costs
   - courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management
   - courses/microsoft-learn-save-money-with-azure-reserved-instances
+  - courses/microsoft-learn-optimize-costs-data-analysis-powerbi
   - courses/microsoft-learn-manage-costs-partner-cost-management
 
 topics:

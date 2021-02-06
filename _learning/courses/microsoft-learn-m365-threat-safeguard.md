@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Identity
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png
