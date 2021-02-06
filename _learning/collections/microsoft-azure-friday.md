@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 68
+heat: 172
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday
   - videos/microsoft-scale-your-cloud-app-with-azure-cache-for-redis-azure-friday
   - videos/microsoft-azure-arc-enabled-kubernetes-with-gitops-azure-friday
   - videos/microsoft-migrate-and-modernize-your-net-applications-on-azure-azure-friday
@@ -291,7 +292,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/K7_gnzge6Oc/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
