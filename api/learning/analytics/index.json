@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 657,
+        "average": 4.544901
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 24411,
-            "average": 4.7852197
+            "count": 24429,
+            "average": 4.7851734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5277,
-            "average": 4.7191586
+            "count": 5280,
+            "average": 4.7193184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 4579,
-            "average": 4.7595544
+            "count": 4580,
+            "average": 4.7593884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3622,
-            "average": 4.7506905
+            "count": 3625,
+            "average": 4.7508965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5277,
-        "average": 4.7191586
+        "count": 5280,
+        "average": 4.7193184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 2975,
-            "average": 4.7455463
+            "count": 2980,
+            "average": 4.74396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7541,
-            "average": 4.6554832
+            "count": 7542,
+            "average": 4.6553965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1961,
-            "average": 4.590005
+            "count": 1962,
+            "average": 4.5902143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -755,8 +799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2379,
-            "average": 4.638924
+            "count": 2380,
+            "average": 4.6386557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1961,
-            "average": 4.590005
+            "count": 1962,
+            "average": 4.5902143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -897,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5277,
-            "average": 4.7191586
+            "count": 5280,
+            "average": 4.7193184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1162,7 +1206,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
@@ -1381,7 +1425,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
@@ -3523,8 +3567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 878,
-            "average": 4.7710705
+            "count": 879,
+            "average": 4.7701936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3565,8 +3609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 667,
-            "average": 4.743628
+            "count": 668,
+            "average": 4.741018
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3607,8 +3651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 659,
-            "average": 4.698027
+            "count": 660,
+            "average": 4.698485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3696,50 +3740,6 @@
         "Integration",
         "IoT",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
-      "title": "Describe Azure Databricks",
-      "excerpt": "Describe Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 657,
-        "average": 4.544901
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     },
     {
