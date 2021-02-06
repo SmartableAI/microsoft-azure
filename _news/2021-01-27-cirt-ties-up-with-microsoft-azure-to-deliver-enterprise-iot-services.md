@@ -316,7 +316,7 @@ related:
       domain: wfmz.com
     quality: 31
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/601e4e6037db6.image.jpg?resize=1120%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/601e9101a0bd6.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
         isCached: true
