@@ -18,7 +18,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/601e9101a0bd6.image.jpg?resize=1120%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/601ea2a009b72.image.jpg?resize=1120%2C630"
     width: 1120
     height: 630
     isCached: true
@@ -406,6 +406,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "2C8mQeklZ/SJ/TJLce+DjcLJm1E4Z5tpVlJtxXMk5/7gSNe7Xp/l8md6XODhUrzKV5jmyz6o0g9qX6otzyNkXPKw73RErQJypFrQaawWflQtvJmDlzOc/Ka65iWyj/CadYD2kc/pJlLDPaYXnWt0RfBC4rbb6mMt6RrD+T+CBLR0vuhJt+1dPlLs2ldIq/4xfslsXnu/Kwd1BaV/Bbt7XjhalelUFwfg7ja7A1ki3JL+oI9gkjKod1EJiOMOYJ/5Vfr2ct5FlkJK2w0tmSl3fnmKdMFQNIVKeaRab+gi/a4hjpIDk1lJ4OUeLesxY6Qhn2jXJzFm4Yeugu+duuTu6vgnqZEK1WnuQlY/dpoCXqY=;RN4DbHK1eOR5nNx7loe2mw=="
+secured: "/TC6s7kHlXg8SFZVF6Io5rtRwdRTxqHOXry/xUX5i7rprxzFaeYIU6ZqJRbI+2fhgDno+urAPBNHDc8oNcp31F7zW9IR2SLXgnwP+Vgtx1xm1+A2wnVUNQwcrF5lUnqqNjaAIZykaRgMfO8Fm11Xq/BA0CTBPVn7ILpDxrTsFu1TivYXbIcjoKqhooyPD6nurKOnRVt5ieZEiMX9sol9BbjPboEK3Cz30wr0SxUsUlh/w9FN2+lmwUhnYA+XAvywmoI8Xd3etkcoSUYtwKy9a1n4jtrETqmxJm9pGAFay1ySA8QrCq4Qq9HiweuOqq3gjWIHjFKrJwoVx6fIj+8gG4K9nuOvtNiuMxwJe1wg3yU=;opHlHjDzHlD6ESCvJruP/g=="
 ---
 
