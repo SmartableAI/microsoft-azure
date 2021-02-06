@@ -1,27 +1,21 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
-publishedDateTime: 2021-02-04T18:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+publishedDateTime: 2021-02-04T17:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/601ea2a009b72.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
-    isCached: true
 
 related:
   - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
@@ -406,6 +400,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/TC6s7kHlXg8SFZVF6Io5rtRwdRTxqHOXry/xUX5i7rprxzFaeYIU6ZqJRbI+2fhgDno+urAPBNHDc8oNcp31F7zW9IR2SLXgnwP+Vgtx1xm1+A2wnVUNQwcrF5lUnqqNjaAIZykaRgMfO8Fm11Xq/BA0CTBPVn7ILpDxrTsFu1TivYXbIcjoKqhooyPD6nurKOnRVt5ieZEiMX9sol9BbjPboEK3Cz30wr0SxUsUlh/w9FN2+lmwUhnYA+XAvywmoI8Xd3etkcoSUYtwKy9a1n4jtrETqmxJm9pGAFay1ySA8QrCq4Qq9HiweuOqq3gjWIHjFKrJwoVx6fIj+8gG4K9nuOvtNiuMxwJe1wg3yU=;opHlHjDzHlD6ESCvJruP/g=="
+secured: "1AvTQAMaRgfQ3qsLhGyg/lF3zLadWMf26imBfFGzNGteATlSO+LKmVst/vj+5DvqRAlTucoI47O/RB1pluLnio4Zt8/u6ktUnZkdVpdJcigyaxLfI99RHUh1QmhbPq+h3ooCaYbHx0fxiAIH/usAhzJxbWsa1BuHFO035BE8yvC32NyAcfY3m2+u0Tkvlt6Ohh2Ygd0JNQ0FjfDYMmdY87tFbxWgrE1g9N3Ho3bSrQiMH8MVdOJTinxN813lUgUjbRNw4eFaiuKyp5c/VRg76MAjMwLv9jGPOeWlWtELehqXA0rACroIsOydpFlI04Tgm0/Wdnkmj4ra6rcflhqhPzbe7VRTu42nVVINwYQHS9U=;gcD6MgCePFyXJjJMOc50/w=="
 ---
 
