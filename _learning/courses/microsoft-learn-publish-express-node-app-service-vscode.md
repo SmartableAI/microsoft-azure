@@ -8,7 +8,7 @@ length: PT26M
 ratings:
   count: 26
   average: 4.8076925
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Web
   - Developer tools
 
-secured: "DJ1AiodFSAd9D1iH1QH1vgpAXWE5rXICsS14H9KRkp2QU/vvgnZmMNjxcV0kk1TndsIufBNj7uehSHufH3R2+xvZ8C35XQi0PNWqQdOFXE3w6IigRyY56EuHQci4Qi9d8qEFMh/Ta7gbBibxnEUGtoJM+xHDCJ07ASETvPvkkXCnv2+uPoOMxfkyo71fo5X2yAHrTGmFiYEbADBnrMWQCLALRU4evDLXYI8wgg0mlL9hyB7m7JUIAIocm0hMTX65i4A9sc2WXSxrryJqA2Mwv5LSWlVX49dOAdaNBLWOOPBLiLzmkV7Qr476GiFbGp2QD2sFpnyvIpTjNDBuB4DYl3T/SpSR3tfVpVUIX75GFKoFfO4lrvZDl46Sibo9JOgJNri3vatBLpVsJMmhjK/aDuDdSrC1zQJd5ZzTOZdrFf0=;pb52k/x6qeNg1ryTI2p3BA=="
+secured: "rL9SP70niRT5BzJf5Fis2+fwU6wWWgqDtYzL+h8jpHB7cSzyfeFe4iI0uieezJyXqkQCJ5LgLfsngM5gtRPIEg3iFEnimZxqwpDORtD7KK15AjDBV711ycou74o7lyqPEbtZKWf/3LjDPTmt/DcoKEhF+SR3UZ7uvVxEWzj+SoP4eJVMuK34+1oqyJ6sDavJR/A14ewUq/PmhULuj6UyhEX8Fk08agTVTQb3giJdoEEwPo61RWSn9bwwaKARqC62yJFG30pIATK3HnFLjWDU1P3r8N8QrXUMXaKM32bBVOLnymT8J7sy2Ff5QKqVqXf/QedeVXqOFcvDJIQnvXZv5g7OQl6wWzDi+KdClfEaS1rfc4J7DwoQNeMIPU0hS/XMsRd3U07wcSby7dg1ybZ5CQ7qlxAE1Ik3MUkCzZWNVZs=;n/Mi4s9zAjaUmqzujuwG3A=="
 ---
 
