@@ -1,26 +1,28 @@
 ---
 category: news
-title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
-excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
-publishedDateTime: 2021-01-08T21:24:00Z
-originalUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
-webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
+title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
+excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
+publishedDateTime: 2021-01-20T17:23:00Z
+originalUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
+webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
+ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: MeriTalk
-  domain: meritalk.com
+  name: Techzim
+  domain: techzim.co.zw
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
-    width: 300
-    height: 300
+  - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -56,22 +58,6 @@ related:
         width: 1358
         height: 827
         isCached: true
-  - title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
-    excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
-    publishedDateTime: 2021-01-20T17:23:00Z
-    webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
-    ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
-    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
-    type: article
-    provider:
-      name: Techzim
-      domain: techzim.co.zw
-    quality: 42
-    images:
-      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
     excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
     publishedDateTime: 2021-01-11T16:23:00Z
@@ -99,6 +85,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
         width: 523
         height: 404
+        isCached: true
+  - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
+    publishedDateTime: 2021-01-08T21:24:00Z
+    webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 22
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Insight selected to deliver £35m Microsoft cloud deal to Cheshire councils"
     excerpt: "Six-year deal will see VAR support Cheshire East and Cheshire West & Chester Councils as they adopt Azure cloud services"
@@ -129,6 +129,6 @@ related:
         height: 960
         isCached: true
 
-secured: "dg5XMudMAlEFTkzR7NVitIVTlwuSzVBD+gRfEDgjOORJOnjox8M7YGQsp1u/d5uk+TvjDFUctXvscpVYDy3o7m96LG+orvL5zbDRDiJbuyQDEtj6uV1PfIRMrrHcCobNDrKm66BCxfI1sIK5PQWl4dzwKammYPnSDCQoZxM6Z2Y8oGjoZ+rCsSARkHczwcN5iKr7mSBrWJp5OxJCqti7YXpP4lAIqp1tPLC8nGxurSV4WN9GVWlaCO8mH42d9SJLtdCIhmh8dEs8ckRfcl9CYmyqXY7Da04aINYWVZw7vQ2lwJj90CBUj+cxDJNJtmry0bk443RgrWsxbCYYVZRTKAcwieO2AcpEtcoevPMsBbk=;OY2tzQJKV/MDghFzHDPfWQ=="
+secured: "4FVIMfWap4Dr4i/CoKDWESC810s0xXXlEJe6FrrlGKtFE6UjJC5pRKVD1Ya/kpSuX0jx9hZZ7pKONioKmpSXP9i59mYOionYT2J/zcTotJ0M0+xwvNmPJ2RxIXqpHeoJxbitsY9BsNmJeHpzFjwfzNzcDXCKhjBllUyF8udpiq/Ine1vQhuL94nNddFvMSPlRoZF0DLwHYC97IRTeWPuMRQV3uYoPOe8LzT+u5zBb3srReivN7dh8VKUul4oXMX7Bq/PXOCzvT2WzM2EZR8GiI1T1KrtQjaXW31g4UUXs4A39dqq+F3tYZSH+Tdmm7512P57In6ZgWK3rOY7dFN5133HoFTCyEh0PYAF3f2SPVU=;p6BCG/RkPUeW2ww/cIhQDQ=="
 ---
 

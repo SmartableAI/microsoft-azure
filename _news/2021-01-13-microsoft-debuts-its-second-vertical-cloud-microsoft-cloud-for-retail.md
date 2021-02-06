@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
         width: 1358
         height: 827
+        isCached: true
+  - title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
+    excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
+    ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 42
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
     excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."

@@ -56,6 +56,22 @@ related:
         width: 1358
         height: 827
         isCached: true
+  - title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
+    excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
+    ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 42
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
     excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
     publishedDateTime: 2021-01-13T14:15:00Z
