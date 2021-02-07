@@ -4,6 +4,202 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday.md",
+      "title": "Serverless geo-distributed applications with Azure Cosmos DB | Azure Friday",
+      "excerpt": "Matias Quaranta joins Scott Hanselman to share some best practices for creating serverless geo-distributed applications with Azure Cosmos DB. With the native integration between Azure Cosmos DB and Azure Functions, you can create database triggers, input bindings, and output bindings directly from your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-serverless-geo-distributed-applications-with-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=cfZUiVQIhTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cfZUiVQIhTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-11T12:22:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cfZUiVQIhTw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-share-data-simply-and-securely-using-azure-data-share-azure-friday.md",
+      "title": "Share data simply and securely using Azure Data Share | Azure Friday",
+      "excerpt": "Azure Data Share is available in public preview today, and offers a simple pane of glass over your data sharing relationships. In this episode, you will learn how to easily provision a new data share, add datasets to it, specify your terms of use and invite recipients. Joanna walks through how you can",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-share-data-simply-and-securely-using-azure-data-share-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-share-data-simply-and-securely-using-azure-data-share-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=fbN8pqeFtBM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fbN8pqeFtBM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T08:31:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fbN8pqeFtBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-siphon-on-hdinsight-kafka-azure-friday.md",
+      "title": "Siphon on HDInsight Kafka | Azure Friday",
+      "excerpt": "Thomas Alex joins Lara Rubbelke to discuss how Microsoft uses Apache Kafka for HDInsight to power Siphon, a data ingestion service for internal use. Apache Kafka for HDInsight is an enterprise-grade, open-source, streaming ingestion service. Microsoft created Siphon as a highly available and reliable",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-siphon-on-hdinsight-kafka-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-siphon-on-hdinsight-kafka-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=6tXiqQd12Kg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6tXiqQd12Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:01:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6tXiqQd12Kg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday.md",
+      "title": "Testing in production with Azure App Service | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to show how to leverage Azure App Service features to empower your DevOps to achieve sophisticated scenarios like testing in production using deployment slots with just a few clicks.  Azure App Service overview https://aka.ms/azfr/565/01  Set up staging environments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=MP8fXgxq6xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MP8fXgxq6xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M36S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-09T00:04:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MP8fXgxq6xo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-the-new-azure-functions-experience-azure-portal-series.md",
+      "title": "The new Azure Functions experience | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, learn about the new and improved way to create and manage Azure Functions using the Azure Portal.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal    And make sure to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-new-azure-functions-experience-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-new-azure-functions-experience-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=0bdT_9uOqkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0bdT_9uOqkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M14S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-21T09:00:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0bdT_9uOqkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
       "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
       "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
@@ -502,45 +698,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
-      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
-      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-23T11:57:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-using-hashicorp-consul-to-connect-kubernetes-clusters-on-azure-azure-friday.md",
       "title": "Using HashiCorp Consul to connect Kubernetes clusters on Azure | Azure Friday",
       "excerpt": "HashiCorp Consul is a distributed service mesh to connect, secure, and configure services across any runtime platform and public or private cloud. In this episode, Scott Hanselman is joined by HashiCorp's Geoffrey Grossenbach who uses Helm to install a Consul server to Azure Kubernetes Service (AKS)",
@@ -991,159 +1148,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-are-the-differences-between-v1-and-v2-authentication-one-dev-question-hirsch-singhal.md",
-      "title": "What are the differences between v1 and v2 authentication? | One Dev Question: Hirsch Singhal",
-      "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the evolution of the Azure Active Directory (Azure AD) developer platform to the Microsoft identity platform.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/about-microsoft-identity-platform?WT.mc_id=onedevquestion-c9-AzureIdent",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-are-the-differences-between-v1-and-v2-authentication-one-dev-question-hirsch-singhal/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-are-the-differences-between-v1-and-v2-authentication-one-dev-question-hirsch-singhal/",
-      "originalUrl": "https://youtube.com/watch?v=aBMUxC4evhU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aBMUxC4evhU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M27S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-20T08:06:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aBMUxC4evhU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-are-the-different-aad-app-types-and-how-do-they-compare-one-dev-question-hirsch-singhal.md",
-      "title": "What are the different AAD app types and how do they compare? | One Dev Question: Hirsch Singhal",
-      "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains what kinds of Azure Active Directory (Azure AD) apps are supported for authentication.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/v2-app-types?WT.mc_id=onedevquestion-c9-AzureIdent",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-are-the-different-aad-app-types-and-how-do-they-compare-one-dev-question-hirsch-singhal/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-are-the-different-aad-app-types-and-how-do-they-compare-one-dev-question-hirsch-singhal/",
-      "originalUrl": "https://youtube.com/watch?v=NrydwrckYaw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NrydwrckYaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-26T08:11:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NrydwrckYaw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-aspects-of-using-protocols-does-msal-libraries-make-easier-one-dev-question-hirsch-singhal.md",
-      "title": "What aspects of using protocols does MSAL libraries make easier? | One Dev Question: Hirsch Singhal",
-      "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how the Microsoft Authentication Library (MSAL) libraries make it easier to sign in users.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/msal-overview?WT.mc_id=onedevquestion-c9-AzureIdent",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-aspects-of-using-protocols-does-msal-libraries-make-easier-one-dev-question-hirsch-singhal/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-aspects-of-using-protocols-does-msal-libraries-make-easier-one-dev-question-hirsch-singhal/",
-      "originalUrl": "https://youtube.com/watch?v=4pwuRYcZbz4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4pwuRYcZbz4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-27T08:09:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4pwuRYcZbz4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-can-i-use-azure-function-triggers-for-one-dev-question-laurent-bugnion.md",
-      "title": "What can I use Azure Function Triggers for? | One Dev Question: Laurent Bugnion",
-      "excerpt": "In the One Dev Question series, Cloud Developer Advocate Laurent Bugnion explains various development features of Azure. In this video, Laurent explains the value of Azure Function Triggers.   Get more information at: http://gslb.ch/63c-onedevquestion  Create your free Azure account today: https://aka.ms/TryAzure1",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-can-i-use-azure-function-triggers-for-one-dev-question-laurent-bugnion/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-can-i-use-azure-function-triggers-for-one-dev-question-laurent-bugnion/",
-      "originalUrl": "https://youtube.com/watch?v=THcDnzKMUEY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/THcDnzKMUEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M14S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-26T10:17:51-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/THcDnzKMUEY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
