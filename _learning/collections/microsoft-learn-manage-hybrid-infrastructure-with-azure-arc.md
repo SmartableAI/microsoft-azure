@@ -4,7 +4,7 @@ excerpt: "Learn how to work with Azure Arc enabled servers and describe Azure Ar
 type: collection
 price: Free
 length: PT1H51M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
