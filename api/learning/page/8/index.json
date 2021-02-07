@@ -90,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 7044,
-        "average": 4.75937
+        "count": 7045,
+        "average": 4.7594037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -126,8 +126,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2612,
-        "average": 4.7090354
+        "count": 2613,
+        "average": 4.7091465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -252,8 +252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 6971,
-        "average": 4.661598
+        "count": 6972,
+        "average": 4.6616464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -452,8 +452,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3262,
-        "average": 4.7345185
+        "count": 3263,
+        "average": 4.7346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -539,8 +539,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 4096,
-        "average": 4.6853027
+        "count": 4097,
+        "average": 4.684891
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4049,
-        "average": 4.7137566
+        "count": 4053,
+        "average": 4.714039
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -729,50 +729,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-      "title": "Improve incident response with alerting on Azure",
-      "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 2168,
-        "average": 4.654059
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
       ]
     },
     {
@@ -869,8 +825,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3271,
-        "average": 4.7150717
+        "count": 3272,
+        "average": 4.715159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -904,8 +860,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 783,
-        "average": 4.7854404
+        "count": 784,
+        "average": 4.785714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -946,8 +902,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7182,
-        "average": 4.6506543
+        "count": 7184,
+        "average": 4.6507516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1033,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
       "length": "PT28M",
       "ratings": {
-        "count": 1367,
-        "average": 4.777615
+        "count": 1368,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1174,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 674,
-            "average": 4.7433233
+            "count": 675,
+            "average": 4.743704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1392,6 +1348,42 @@
         "Integration",
         "IoT",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 5527,
+        "average": 4.62837
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
       ]
     }
   ],
