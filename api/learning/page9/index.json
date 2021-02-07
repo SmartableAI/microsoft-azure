@@ -115,8 +115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 599,
-            "average": 4.8230386
+            "count": 601,
+            "average": 4.8236275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -241,8 +241,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/",
           "length": "PT1H5M",
           "ratings": {
-            "count": 39,
-            "average": 4.820513
+            "count": 40,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,6 +416,41 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
+      "title": "Create a classification model with Azure Machine Learning designer",
+      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 187,
+        "average": 4.7967916
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
       "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
       "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
@@ -465,8 +500,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8915,
-        "average": 4.695457
+        "count": 8917,
+        "average": 4.695525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 1265,
-        "average": 4.7438736
+        "count": 1266,
+        "average": 4.744076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 5615,
-        "average": 4.72057
+        "count": 5616,
+        "average": 4.7206197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -706,8 +741,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7177,
-        "average": 4.650411
+        "count": 7178,
+        "average": 4.65046
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +928,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 887,
-            "average": 4.7711387
+            "count": 888,
+            "average": 4.771396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -935,8 +970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 672,
-            "average": 4.7425594
+            "count": 673,
+            "average": 4.742942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -977,8 +1012,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 663,
-            "average": 4.699849
+            "count": 664,
+            "average": 4.700301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1291,8 +1326,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5525,
-        "average": 4.6282353
+        "count": 5526,
+        "average": 4.6283026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1524,51 +1559,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 1805,
-        "average": 4.597784
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
       ]
     }
   ],
