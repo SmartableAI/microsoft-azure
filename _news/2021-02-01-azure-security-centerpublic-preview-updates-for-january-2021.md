@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-2/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-2/"
 type: article
 quality: 99
-heat: 120
+heat: 119
 published: true
 
 provider:

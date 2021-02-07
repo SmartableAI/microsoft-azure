@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-is-now-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-is-now-in-public-preview-for-azure-cache-for-redis/"
 type: article
 quality: 101
-heat: 122
+heat: 121
 published: true
 
 provider:
