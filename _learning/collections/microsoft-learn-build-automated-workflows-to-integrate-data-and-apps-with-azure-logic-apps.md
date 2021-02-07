@@ -4,7 +4,7 @@ excerpt: "This learning path guides you through creation of serverless workflows
 type: collection
 price: Free
 length: PT2H49M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

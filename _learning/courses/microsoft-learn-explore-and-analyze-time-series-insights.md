@@ -8,7 +8,7 @@ length: PT37M
 ratings:
   count: 465
   average: 4.6989245
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - IoT
 
-secured: "/GrDS+ZDLS5060haAjsyyBJPSaj+HCYoTo36VQPGqCMXOdPyUAA+mbU6RK0vPdavyKwXNYSX9IMTGFFbSmXOImluJu5xzVSG8RyjsbGhNalq7JWTvU7fOnpP7r44RZ5+XNm0ZqK4CMBNqHzvytX14wc6pe7Wb474onVNaUCMNR/VeWjqQHIzvYvJMsYvUvCk2DoupOLMBUwle8+F4m2mGj9LKmHlNn2GCK+CsvFMFcljZXWVhupLKL4zdYExgehq1D8X48mUt3OKi1i38Q0arNc7tkXLIv/z19MzAdLcugP9Blv6nVE7QIGm81IlCP4v75Y1h7ED+bmwKqawUVFRg7yml3prs5+qwixXiswnWfBWFNHgy9iX7rciGyvr4iJu4gbbKcUne9g1o4Lge3uJMigdZx2rgNLClpk4GlbbWs8=;hoQPbo8YAM4skRgOQkrsdg=="
+secured: "Jw+9+/EVegR43Y+oJ//YASum5OkwtOKq7edbpIDwi6GDGOB/P5lANxaQz5F3b7NP/9c2clwtadroSA4V5JW2qmsJZ9gDPjuzVAJ3Tqr2lswrg2agx3/28OeQtNFx0P5e6KAAEwDMwjcwxp+yCTUIihrYjFbV/4OtDmzMITjIlbSlB/winOfIyim8WxIEMX2HyS9KX0bWQ5dkTgULrwJg4gM/HPeFrPQTLXJzsvBOmQNkKyt9MatCwRRBeJ1L8rTCebYYxPHSbEg+VIwENwKmd3dJbdFkYAfKdtSw2aRHDoyjFPOirdpA3+f0ljf9DsIXzaJUFI73/0HWT8gXvBhpTYBugW/tC+Kq6mGwpYcqXJoSQLSzxcWoGXMC3RBOgjDQz5dq/jhSCQm0vbHavehOUAf9XK6THx5ammCzYvcdNLI=;rGrmw9L9Id9uAHXINwRYrA=="
 ---
 
