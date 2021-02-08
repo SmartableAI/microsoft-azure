@@ -1,21 +1,27 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
+publishedDateTime: 2021-02-04T21:29:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
+webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
+    width: 1279
+    height: 670
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -33,6 +39,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
         width: 1200
         height: 774
+        isCached: true
+  - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
+    excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
+    publishedDateTime: 2021-02-08T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
+        width: 1024
+        height: 524
         isCached: true
   - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
     excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
@@ -209,6 +229,6 @@ related:
         height: 212
         isCached: true
 
-secured: "ut3ffALmiVxGmaeGd0WCtX0ujG7QULNk5CDd68NIJWXBMDCvCj830PhRnN3ZF0OKLzq6r/V4UYkbuDspCyDMjY9QrPxpdbEOyJYGR0XLyzQFw2L8csOTaHtoTxjeBSlEuHv/oqwgH6RIHa0c8CmQFng3N+ori/yRGb4zoJhacwqSmkJu5JljSxXFboEBLVkotWJTXDd610sbKQUSe3ipCGK7oWT/cEXsnLHLyOU0+f0AZ1pp4KlxECKP/4Mks0SespTRBOgreuDVPqJbmisgxWyJQu/gcCD3LbcyPQb5S4EX8c7DKL01C5k6iaewmKyHv4vSeaP3JYZWdvQf+nfKJH50YqGFgxohfQU6KoOcxHA=;prGzd2lTP3vl0GfkJdJ0/Q=="
+secured: "Wtw9K9db07lzn2d/nvlMF6fGf8yPdTeQw6KUlf6dsaLRzgSn9SoKfQ6Jx9Ky+VQW580jLTd27X8dSvmIZ3d9JJD13ASDN6POLMNOGGm4HNVPQc7wcw7yVXR/5GAt7FpxHYSEhFQpXqQVH0nmFSjPLcCDB/SQEjN7eAaWWV/syn3R2yYGHIEv3SurgfvWf6gOtIBfj727TXAODdh+9FaJd8TAJkCKcs2/0gEb8JUTc47dZczLl3sifpa539mg98S7cYnsQd9rNaaalo+41YzSNn+manCLf1WC8vbYH32IrhLuSFyi6oXFZT8ccpo+buSRBU1C2y/ryxNbbIeKwC8AFhwP4R7QCQ/pQphPlkNuzOs=;mSnXUf1mvBrzZUjJCd1uaQ=="
 ---
 

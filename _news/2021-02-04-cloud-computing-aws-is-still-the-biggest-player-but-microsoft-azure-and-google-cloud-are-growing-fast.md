@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
+    excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
+    publishedDateTime: 2021-02-08T08:00:05Z
+    webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
+        width: 1024
+        height: 524
+        isCached: true
   - title: "Singtel offers 5G edge computing on Microsoft Azure"
     excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
     publishedDateTime: 2021-02-02T08:36:00Z
@@ -114,15 +128,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-    publishedDateTime: 2021-02-04T17:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -171,6 +176,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
+    publishedDateTime: 2021-02-04T21:29:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
+        width: 1279
+        height: 670
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z

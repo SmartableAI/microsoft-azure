@@ -1,27 +1,31 @@
 ---
 category: news
-title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-publishedDateTime: 2021-02-03T01:38:00Z
-originalUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
-webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+title: "KLAS recognizes Microsoft's momentum in healthcare AI"
+excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
+publishedDateTime: 2021-02-08T08:00:05Z
+originalUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
+webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
 type: article
-quality: 54
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Analytics
+  - AI
 
 images:
-  - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-    width: 1500
-    height: 843
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
+    width: 1024
+    height: 524
     isCached: true
 
 related:
@@ -40,20 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
         width: 1200
         height: 774
-        isCached: true
-  - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
-    excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
-    publishedDateTime: 2021-02-08T08:00:05Z
-    webUrl: "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg"
-        width: 1024
-        height: 524
         isCached: true
   - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
     excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
@@ -113,6 +103,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
+    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
+    publishedDateTime: 2021-02-03T01:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "DATA443 DELIVERS ADVANCED CAPABILITIES FOR CLASSIDOCS™ INTEGRATED WITH MICROSOFT DOUBLE KEY EXCHANGE ON MICROSOFT AZURE"
     excerpt: "Customer Demand Drives Rapid Adoption of Advanced Encryption and Data Protection Capabilities by ClassiDocs RESEARCH TRIANGLE PARK, NC, Feb."
@@ -230,6 +234,6 @@ related:
         height: 212
         isCached: true
 
-secured: "J+nwyo6+zIwN4msb+hCIL4RVQkK5OF9hctFx80ywsPHwkh/2gJg5RjY9j2nsgboNwDWNGnUGEXhK/JMbKemj1Tq7U4x0nu6En4VSGhq4DlrbjHwGCN8pURMLfr9onuq0DnOi4SqQ+o5Ijmn+rpNlnVOZRkkomT9qybia6vsBTsrrFdwI+iAVdpOe8kGWao1uPHCJtHb7s4ZyPbugNy8AIkbj0nuMD0HZEY2HT+Kp7OcVNwgYHEZp4mezn2Cad+Ly4inLcdbDgMmCRKKDFcqbBCsWrHnq0hvB1W5xq5FavGKvvWEpvnziREsKfUJ5afhjbCsmrglUWEUOExKH9puXvm6qjtg5Ofre9joEI7IFLa/alZcYYE+4Q/ZVOnGazyN3fc/HnpziH1wNuUiWXUBkQBTPPZ8Feq/ytoah4ZU4911vINMs4T4WKDoSMiUEs1Hc/0+HtvA7eLAeQsdJ0on4D0MZuk4I3S+r+cgQ62P5zv02k2hju9J6GqM9uP5MojS7XERyE/1DVLsXSWCmjSjXmA==;8imR+3o8ijI0NMkvSy87eg=="
+secured: "Gyt4k1OdpLQvdO8Xju8zfnL0J8/iIjRTkEauOdCs18LmXr0qaQFo7BQ6Up1/IRriQuYYA9CcwxQbFReWrrjdQSF4fuYr3uU7C9B/WlKrNgPIkzQA3Ht0RqPEBDPyjhkMzNxPtWA4+eKckyIUbjbC+tANeaQvXkd5/5sLEgK/S4rrEHE5UOIn0QGMe7yZwLuEsQIZ45TEV7O/+3Yd2Q9+J1RtOCGWZ9BJj9bAl9PDtSu6xelYcFmwJzI4/8F73eiNgEY/vpV/MGCqeO3F1I3x1f3OgoLI81fkklTfZC5EqMYCq6vGFb+tmbM+k+IClINcQPBcFYEtUdFdBVO2L/i5GCmz0VoZ00baggGhLGMd/Lg=;4iZOgDJ/5tOF9fuihW7ZyQ=="
 ---
 
