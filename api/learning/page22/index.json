@@ -4,6 +4,48 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-app-management-using-microsoft-endpoint-manager.md",
+      "title": "Understand app management using Microsoft Endpoint Manager",
+      "excerpt": "In this module, you'll learn about app management using Microsoft Endpoint Manager.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-management-using-microsoft-endpoint-manager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-management-using-microsoft-endpoint-manager/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-management-with-microsoft-endpoint-manager-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-app-package-management-using-helm.md",
       "title": "Application and package management using Helm",
       "excerpt": "Helm is an application package manager for Kubernetes that you use to standardize and simplify the deployment of cloud-native applications on Kubernetes. Here you'll see how to install third-party packages called Helm charts and how to create and install Helm charts for the workloads your teams develop.",
@@ -96,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2718,
-        "average": 4.5654893
+        "count": 2719,
+        "average": 4.565649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -276,8 +318,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7260,
-        "average": 4.7104683
+        "count": 7261,
+        "average": 4.7105083
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -353,6 +395,48 @@
         "Management Tools",
         "Compute",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
+      "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+      "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 221,
+        "average": 4.60181
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -657,8 +741,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 252,
-        "average": 4.6190476
+        "count": 253,
+        "average": 4.6205535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -989,8 +1073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
       "length": "PT50M",
       "ratings": {
-        "count": 92,
-        "average": 4.6086955
+        "count": 93,
+        "average": 4.612903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,82 +1266,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-technologies-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-bash-introduction.md",
-      "title": "Introduction to Bash",
-      "excerpt": "Learn how to use Bash to manage IT infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-bash-introduction/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/bash-introduction/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 49,
-        "average": 4.6734695
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-benefits-microsoft-endpoint-manager.md",
-      "title": "Benefits of Microsoft Endpoint Manager",
-      "excerpt": "In this module, you'll learn about Microsoft Endpoint Manager benefits, including how it increases security and productivity, provides flexibility, and maximizes your investment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-benefits-microsoft-endpoint-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/benefits-microsoft-endpoint-manager/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/benefits-microsoft-endpoint-manager-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

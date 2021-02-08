@@ -4,6 +4,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-neural-networks.md",
+      "title": "Make predictions from complex data with neural networks",
+      "excerpt": "Use neural network models to make predictions. Change neural network structures to refine predictions using TensorFlow and Keras.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-neural-networks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-neural-networks/",
+      "length": "38 mins",
+      "ratings": {
+        "count": 287,
+        "average": 4.383275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-neural-networks-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Make predictions from complex data with neural networks",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
       "title": "Protect your Azure infrastructure with Azure Site Recovery",
       "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
@@ -274,8 +317,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 1950,
-        "average": 4.6153846
+        "count": 1951,
+        "average": 4.615582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -896,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloads-reference-architecture/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 324,
-            "average": 4.762346
+            "count": 325,
+            "average": 4.763077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -938,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-sap-solutions/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 241,
-            "average": 4.7883816
+            "count": 242,
+            "average": 4.789256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -980,8 +1023,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 281,
-            "average": 4.758007
+            "count": 282,
+            "average": 4.7588654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-azure-vm-based-sap-solutions/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 160,
-            "average": 4.78125
+            "count": 161,
+            "average": 4.7826085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,8 +1190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-azure-sap-workloads/",
           "length": "PT48M",
           "ratings": {
-            "count": 157,
-            "average": 4.7707005
+            "count": 158,
+            "average": 4.772152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1286,8 +1329,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 341,
-        "average": 4.4017596
+        "count": 342,
+        "average": 4.4035087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1407,8 +1450,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1540,
-        "average": 4.647403
+        "count": 1541,
+        "average": 4.6476316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1453,8 +1496,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5631,
-        "average": 4.7465816
+        "count": 5633,
+        "average": 4.746671
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1539,8 +1582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 625,
-        "average": 4.776
+        "count": 626,
+        "average": 4.7747602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1572,50 +1615,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-control-authentication-with-apim.md",
-      "title": "Control authentication for your APIs with Azure API Management",
-      "excerpt": "Discover how to protect your APIs from unauthorized use with API keys and client certificate authentication.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-authentication-with-apim/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1908,
-        "average": 4.650419
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/control-authentication-with-apim-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     }
   ],

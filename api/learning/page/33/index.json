@@ -4,6 +4,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
+      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 223,
+        "average": 4.5829597
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-microservices-configuration-aspnet-core.md",
       "title": "Implement feature flags in a cloud-native ASP.NET Core microservices app",
       "excerpt": "This module guides you through implementing a feature flag in an ASP.NET Core microservices app using Azure App Configuration.",
@@ -615,8 +658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 252,
-        "average": 4.730159
+        "count": 253,
+        "average": 4.7312255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -950,8 +993,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 272,
-        "average": 4.5992646
+        "count": 273,
+        "average": 4.600733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1245,49 +1288,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-costs-data-analysis-powerbi.md",
-      "title": "Optimize Azure costs with data analysis in Power BI",
-      "excerpt": "Use Power BI to understand where your money is being spent in Azure so you can help your organization to optimize its costs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-costs-data-analysis-powerbi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-costs-data-analysis-powerbi/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-costs-data-analysis-powerbi-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],
