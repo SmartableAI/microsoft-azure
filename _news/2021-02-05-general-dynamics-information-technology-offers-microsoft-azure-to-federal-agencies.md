@@ -1,27 +1,21 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
-publishedDateTime: 2021-02-04T21:29:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
-webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
+excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+publishedDateTime: 2021-02-04T17:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
-    width: 1279
-    height: 670
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -215,6 +209,6 @@ related:
         height: 212
         isCached: true
 
-secured: "ZpxFHpjteQjckhkrCoSGTtAaPrnAmE/HwA/2zLl+xxbwpVx9J2q/6rlBhmfu2Q6mVnUPevIgcBgNabyiJymPJc9ccB2yk5rOhZgm69FmOps+z0LZE1GC6ieQhPe110V1uqrdu8rbdD05ZSvN9dklKRR7pha3f67F5OHJmxo5bl2hIFArvLyU8PGRK8sLShbFkUsrnpN4CuNVz6C6qT/Z7DtET7gLjE6fwnaIz+sUNz6zseFGf3WN3gtJuj5ny88u0+2xzy+TOm7Lm6RCD8/6NM6DE0Mr6K1Pqt1sTnwMPaA3xqn28sFJsbvCUw5s9QVX3PGbEiXPw/AtNdMXqEuFJza7aXA+ONPDby9V7VwFH50=;sdLcoYClzWrqp51MPr7ccg=="
+secured: "ut3ffALmiVxGmaeGd0WCtX0ujG7QULNk5CDd68NIJWXBMDCvCj830PhRnN3ZF0OKLzq6r/V4UYkbuDspCyDMjY9QrPxpdbEOyJYGR0XLyzQFw2L8csOTaHtoTxjeBSlEuHv/oqwgH6RIHa0c8CmQFng3N+ori/yRGb4zoJhacwqSmkJu5JljSxXFboEBLVkotWJTXDd610sbKQUSe3ipCGK7oWT/cEXsnLHLyOU0+f0AZ1pp4KlxECKP/4Mks0SespTRBOgreuDVPqJbmisgxWyJQu/gcCD3LbcyPQb5S4EX8c7DKL01C5k6iaewmKyHv4vSeaP3JYZWdvQf+nfKJH50YqGFgxohfQU6KoOcxHA=;prGzd2lTP3vl0GfkJdJ0/Q=="
 ---
 
