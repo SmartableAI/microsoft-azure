@@ -4,414 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
-      "title": "Deploy a website to Azure with Azure App Service",
-      "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/",
-      "length": "PT4H30M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
-          "title": "Prepare your development environment for Azure development",
-          "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 5150,
-            "average": 4.6972814
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 5677,
-            "average": 4.615818
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
-          "title": "Publish a web app to Azure with Visual Studio",
-          "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 3190,
-            "average": 4.6711597
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
-          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
-          "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1940,
-            "average": 4.5252576
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions.md",
-      "title": "Describe the capabilities of Microsoft Identity and access management solutions",
-      "excerpt": "Describe the capabilities of Microsoft Identity and access management solutions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-identity-and-access-management-solutions/",
-      "length": "PT2H3M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-identity-principles-concepts.md",
-          "title": "Describe identity principles and concepts",
-          "excerpt": "Describe identity principles and concepts",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-principles-concepts/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 10,
-            "average": 4.9
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad.md",
-          "title": "Explore the services and identity types of Azure AD",
-          "excerpt": "Explore the services and identity types of Azure AD",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 9,
-            "average": 4.7777777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
-          "title": "Explore the authentication capabilities of Azure AD",
-          "excerpt": "Explore the authentication capabilities of Azure AD",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 6,
-            "average": 4.8333335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
-          "title": "Explore the access management capabilities of Azure AD",
-          "excerpt": "Explore the access management capabilities of Azure AD",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
-          "length": "PT15M",
-          "ratings": {
-            "count": 6,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
       "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
       "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
@@ -618,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9236,
-            "average": 4.6975965
+            "count": 9237,
+            "average": 4.697629
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3499,8 +3091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 806,
-            "average": 4.73201
+            "count": 807,
+            "average": 4.7323422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3709,8 +3301,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 806,
-            "average": 4.73201
+            "count": 807,
+            "average": 4.7323422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3835,8 +3427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 208,
-            "average": 4.7211537
+            "count": 209,
+            "average": 4.722488
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3885,6 +3477,227 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-static-web-apps.md",
+      "title": "Azure Static Web Apps",
+      "excerpt": "Azure Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-static-web-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-static-web-apps/",
+      "length": "PT1H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+          "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+          "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+          "length": "PT22M",
+          "ratings": {
+            "count": 395,
+            "average": 4.734177
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
+          "title": "Publish an API to Azure Static Web Apps",
+          "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-api-preview-url/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 35,
+            "average": 4.714286
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-api-preview-url-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
+          "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+          "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 88,
+            "average": 4.8863635
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
+          "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
+          "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-static-apps-gatsby/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 110,
+            "average": 4.7545457
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/static-apps-gatsby-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     },
     {
@@ -5034,8 +4847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sentinel-deploy-configure/",
           "length": "PT50M",
           "ratings": {
-            "count": 91,
-            "average": 4.6043954
+            "count": 92,
+            "average": 4.6086955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5205,8 +5018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 215,
-            "average": 4.688372
+            "count": 216,
+            "average": 4.689815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5812,6 +5625,228 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine.md",
+      "title": "Deploy and configure Windows Server IaaS Virtual Machine",
+      "excerpt": "In this learning path, you’ll learn how to deploy and configure Azure IaaS Virtual Machine workloads. After completing the learning path, you’ll know how to plan, deploy, and upgrade Windows Server Azure Virtual Machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-and-configure-windows-server-iaas-virtual-machine/",
+      "length": "PT3H24M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
+          "title": "Plan and deploy Windows Server IaaS Virtual Machines",
+          "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 19,
+            "average": 4.736842
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Storage",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images.md",
+          "title": "Customize Windows Server IaaS Virtual Machine images",
+          "excerpt": "You'll be able to create new VMs from generalized images and use Azure Image Builder templates to create and manage images in Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-customize-windows-server-iaas-vm-images/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-windows-server-iaas-virtual-machine-images/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 18,
+            "average": 4.7222223
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/customize-windows-server-iaas-vm-images-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms.md",
+          "title": "Automate the configuration of Windows Server IaaS Virtual Machines",
+          "excerpt": "You'll be able to deploy Desired State Configuration (DSC) extensions, implement those extensions to remediate noncompliant servers, and use custom script extension.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-configuration-of-windows-server-iaas-vms/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-configuration-of-windows-server-iaas-virtual-machines/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 16,
+            "average": 4.6875
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-the-configuration-of-windows-server-iaaa-vms-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines.md",
+          "title": "Upgrade and migrate Windows Server IaaS virtual machines",
+          "excerpt": "Learn to migrate a workload running in Windows Server to an infrastructure as a service (IaaS) virtual machine (VM) and to Windows Server 2019 by using Windows Server migration tools or the Storage Migration Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upgrade-migrate-windows-server-iaas-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upgrade-migrate-windows-server-iaas-virtual-machines/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 16,
+            "average": 4.875
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Storage",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
       ]
     }
   ],

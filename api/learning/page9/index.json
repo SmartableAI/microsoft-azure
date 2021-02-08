@@ -4,43 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-      "title": "Choose a messaging model in Azure to loosely connect your services",
-      "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 3544,
-        "average": 4.5931153
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
       "title": "Connect an app to Azure Storage",
       "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
@@ -299,8 +262,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6453,
-        "average": 4.7052536
+        "count": 6455,
+        "average": 4.7051897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -335,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 8598,
-        "average": 4.6506166
+        "count": 8600,
+        "average": 4.6506977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,8 +523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 720,
-            "average": 4.795833
+            "count": 722,
+            "average": 4.795014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +864,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3012,
-        "average": 4.4790835
+        "count": 3013,
+        "average": 4.4792566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -945,8 +908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2210,
-        "average": 4.581448
+        "count": 2211,
+        "average": 4.5816374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1176,8 +1139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 1810,
-        "average": 4.598895
+        "count": 1811,
+        "average": 4.5991163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1349,8 +1312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 720,
-        "average": 4.795833
+        "count": 722,
+        "average": 4.795014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1391,8 +1354,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 1050,
-        "average": 4.784762
+        "count": 1051,
+        "average": 4.7849665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1410,6 +1373,48 @@
         "Beginner"
       ],
       "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-python.md",
+      "title": "Introduction to Python",
+      "excerpt": "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 5624,
+        "average": 4.721017
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-python-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",

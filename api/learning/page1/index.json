@@ -236,6 +236,274 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
+      "title": "Azure Fundamentals part 2: Describe core Azure services",
+      "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/",
+      "length": "PT3H12M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
+          "title": "Introduction to Azure fundamentals",
+          "excerpt": "This module introduces you to the basics of Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 24869,
+            "average": 4.785677
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 147,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+          "title": "Explore Azure database and analytics services",
+          "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 5383,
+            "average": 4.7176294
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 89,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Analytics",
+            "AI",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
+          "title": "Explore Azure compute services",
+          "excerpt": "Learn about the different services that are available in Azure Compute.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 4683,
+            "average": 4.7591286
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 89,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
+          "title": "Explore Azure Storage services",
+          "excerpt": "Learn about the different storage options that are available in Azure Storage.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 3699,
+            "average": 4.7499323
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 159,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 176,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Storage",
+        "Containers",
+        "Databases",
+        "Analytics",
+        "AI",
+        "Networking"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
+      "title": "Explore Azure Storage services",
+      "excerpt": "Learn about the different storage options that are available in Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 3699,
+        "average": 4.7499323
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 159,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-scale-your-cloud-app-with-azure-cache-for-redis-azure-friday.md",
       "title": "Scale Your Cloud App with Azure Cache for Redis | Azure Friday",
       "excerpt": "Ye Gu joins Scott Hanselman to discuss Azure Cache for Redis, a popular open-source in-memory data store that uses DRAM to store the most frequently used or time-sensitive data for fast retrieval. With it, you can create applications on Azure that handle millions of requests per second at down to sub-millisecond",
@@ -282,8 +550,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 24825,
-        "average": 4.7859416
+        "count": 24869,
+        "average": 4.785677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -390,15 +658,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-cmu-orchestration.md",
-      "title": "Automate cloud resource management",
-      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-orchestration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-m365-identity-authentication.md",
+      "title": "Strengthen authentication (conditional access) with Azure Active Directory",
+      "excerpt": "Learn about modern authentication and the security benefits it provides to your organization, such as enabling multi-factor authentication and a passwordless environment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
+      "length": "PT24M",
       "ratings": {
-        "count": 117,
-        "average": 4.6239314
+        "count": 3288,
+        "average": 4.772506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -413,12 +681,55 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/strengthen-authentication-with-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authenticate-apps-with-managed-identities.md",
+      "title": "Authenticate apps to Azure services by using service principals and managed identities for Azure resources",
+      "excerpt": "Securely authenticate apps to Azure to manage and access Azure services. Service principals and managed identities give your app an Azure AD identity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-authenticate-apps-with-managed-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 221,
+        "average": 4.60181
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/authenticate-apps-with-managed-identities-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -429,89 +740,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
-      "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
-      "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-static-apps-gatsby/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 110,
-        "average": 4.7545457
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/static-apps-gatsby-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks.md",
-      "title": "How to work with Azure Cosmos DB with PowerShell | Azure Tips and Tricks",
-      "excerpt": "In this episode of Azure Tips and Tricks, learn how to work with Azure Cosmos DB with PowerShell.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=xzBhbq--4UU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xzBhbq--4UU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M15S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-24T08:03:32-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xzBhbq--4UU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     },
     {
@@ -545,8 +773,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 24825,
-            "average": 4.7859416
+            "count": 24869,
+            "average": 4.785677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -587,8 +815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 13008,
-            "average": 4.806965
+            "count": 13031,
+            "average": 4.806922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +859,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 6189,
-            "average": 4.798029
+            "count": 6198,
+            "average": 4.797838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 13008,
-        "average": 4.806965
+        "count": 13031,
+        "average": 4.806922
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +1025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139812,
-            "average": 4.701034
+            "count": 139816,
+            "average": 4.7010427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -907,231 +1135,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
-      "title": "Azure Fundamentals part 2: Describe core Azure services",
-      "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services/",
-      "length": "PT3H12M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
-          "title": "Introduction to Azure fundamentals",
-          "excerpt": "This module introduces you to the basics of Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 24825,
-            "average": 4.7859416
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 147,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-          "title": "Explore Azure database and analytics services",
-          "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 5378,
-            "average": 4.7182965
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 89,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Analytics",
-            "AI",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
-          "title": "Explore Azure compute services",
-          "excerpt": "Learn about the different services that are available in Azure Compute.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-compute-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 4679,
-            "average": 4.7591367
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 89,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-compute-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
-          "title": "Explore Azure Storage services",
-          "excerpt": "Learn about the different storage options that are available in Azure Storage.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-storage-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 3695,
-            "average": 4.749662
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 79,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-storage-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Storage",
-        "Containers",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-5-describe-identity-governance-privacy-and-compliance-features.md",
       "title": "Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features",
       "excerpt": "Learn how Azure can help you secure access to cloud resources, what it means to build a cloud governance strategy, and how Azure adheres to common regulatory and compliance standards.",
@@ -1162,8 +1165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 24825,
-            "average": 4.7859416
+            "count": 24869,
+            "average": 4.785677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1204,8 +1207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 2267,
-            "average": 4.7688575
+            "count": 2270,
+            "average": 4.7687225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1247,8 +1250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2104,
-            "average": 4.7110267
+            "count": 2109,
+            "average": 4.7107635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 2162,
-            "average": 4.7303424
+            "count": 2165,
+            "average": 4.7307158
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1565,8 +1568,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3030,
-            "average": 4.746205
+            "count": 3036,
+            "average": 4.746377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1608,8 +1611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2104,
-            "average": 4.7110267
+            "count": 2109,
+            "average": 4.7107635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1686,8 +1689,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5792,
-            "average": 4.665573
+            "count": 5794,
+            "average": 4.665516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1765,8 +1768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 24825,
-            "average": 4.7859416
+            "count": 24869,
+            "average": 4.785677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1807,8 +1810,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3558,
-            "average": 4.7712197
+            "count": 3565,
+            "average": 4.771108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1850,8 +1853,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 2802,
-            "average": 4.7152033
+            "count": 2805,
+            "average": 4.714795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1893,8 +1896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2471,
-            "average": 4.749899
+            "count": 2474,
+            "average": 4.7489896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1963,8 +1966,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 6189,
-        "average": 4.798029
+        "count": 6198,
+        "average": 4.797838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2030,8 +2033,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3030,
-            "average": 4.746205
+            "count": 3036,
+            "average": 4.746377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2073,8 +2076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139812,
-            "average": 4.701034
+            "count": 139816,
+            "average": 4.7010427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2249,8 +2252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 4679,
-        "average": 4.7591367
+        "count": 4683,
+        "average": 4.7591286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2294,8 +2297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5378,
-        "average": 4.7182965
+        "count": 5383,
+        "average": 4.7176294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2340,8 +2343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 2104,
-        "average": 4.7110267
+        "count": 2109,
+        "average": 4.7107635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2383,8 +2386,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 3890,
-        "average": 4.629049
+        "count": 3897,
+        "average": 4.6284323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2483,8 +2486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2104,
-            "average": 4.7110267
+            "count": 2109,
+            "average": 4.7107635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2526,8 +2529,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16930,
-            "average": 4.6959243
+            "count": 16933,
+            "average": 4.695978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2561,8 +2564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4411,
-            "average": 4.712537
+            "count": 4412,
+            "average": 4.712602
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2678,8 +2681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 13008,
-            "average": 4.806965
+            "count": 13031,
+            "average": 4.806922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2764,8 +2767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16930,
-            "average": 4.6959243
+            "count": 16933,
+            "average": 4.695978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2876,8 +2879,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2104,
-            "average": 4.7110267
+            "count": 2109,
+            "average": 4.7107635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2919,8 +2922,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 16930,
-            "average": 4.6959243
+            "count": 16933,
+            "average": 4.695978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,8 +2957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4411,
-            "average": 4.712537
+            "count": 4412,
+            "average": 4.712602
           },
           "provider": {
             "name": "Microsoft Learn",
