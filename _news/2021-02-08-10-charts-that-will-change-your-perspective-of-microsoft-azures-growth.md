@@ -114,6 +114,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -162,20 +171,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
-    publishedDateTime: 2021-02-04T21:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -219,6 +214,6 @@ related:
         height: 212
         isCached: true
 
-secured: "A+iLAI9pMMU6giF3oii3o7Xl6sz9I3JXf73mV8Y/lKs2BQq79el2iRIw8c5tGtyE8Ujcpp8PQv1QMdVzPi85Ly7VzG4EA6HHwuTSobG0z4JMuG/mB64JvHLxUEMYZ5c2KRx2cQbaJKVdMslU2GIuL4ThivWJddZslMREtlpe3EnRj0k8xy52O3mdZ7TiRMSjsLvlHh8aDAaOV7ORla3HCTCBh+2tb/VUcX0ghfm7tsPOxAyESPvUwVHa6gks+KTvwtx130re0x/MS1hx6YUv+UlJ3V46ZVj7PMzYVtwsHaliztPU2r1hCrvQcDgFkOzSbXWYPsuJNm8Eae8khpXZZLSIdmtLedjrnLpZmjqx6lI=;tqZZbcfFtlv8bePcr5tEJw=="
+secured: "hoJx2QUKv6xPi0WHWbYMzs9ol68iY4B0DDAIbUu2h3YBxf9ZbKDMM0lJRk3gibaDR8pFWyTW6TDmB+pwXhjEkiEQbTJrbegkvuefU6jJMVC9BvcDe7eXN2pTyo8LEahPJdTywLZJGaNl9vKe0JwfyfuNelYYv/vuShqN+G/YAHB9cX+roaqbENpi0jjjfZbCkgJOGhXXuYFypycCdt+XZyEfMExLNOO1wCShDjFMnkrtgyZdTltuid847P5962lKGH0+pyoFhBkSPGvXvnrsEv2Bw7cKtLdL0+1qxyHoDpzZQRiSQb+lXvrcIfY1OEXbO4UVIrqy8FAs80gsU4nRXoA7wo1ZjQznuSG5ko+tH555euGZepqfKzAqZ78ASztV7j2wiLYc/rw+ECO5Eo+jlUJihVoFp+9Qa8M0bGM8zqCgqLTfMpf6K3S6sEgtC8rZayyv3TerP963KSdx0DQKKz6NCud8SCHJS/EuBcbHGKCm7k4gFTcAJ1K326WoQb3R3ADyREVZ6LFIZ1Bl4ltXYA==;tYl8LvHGLXpnhsVY1e21Cg=="
 ---
 
