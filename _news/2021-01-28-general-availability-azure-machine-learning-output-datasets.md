@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azu
 webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
 type: article
 quality: 99
-heat: 459
+heat: 479
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
     excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
     publishedDateTime: 2020-12-09T17:00:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
+    excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
+    publishedDateTime: 2021-02-08T18:02:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
     type: article
     provider:
       name: Microsoft

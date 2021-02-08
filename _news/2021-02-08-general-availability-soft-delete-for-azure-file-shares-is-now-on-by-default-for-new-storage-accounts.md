@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
-excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
-publishedDateTime: 2021-01-21T17:02:41Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
+title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
+excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
+publishedDateTime: 2021-02-08T18:02:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
 type: article
-quality: 70
+quality: 69
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - Storage
 
 related:
   - title: "General availability: Azure Machine Learning Output Datasets "
@@ -95,19 +95,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "General availability: AKS resources view"
-    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
-    publishedDateTime: 2020-12-09T17:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
-    excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
-    publishedDateTime: 2021-02-08T18:02:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+    quality: 70
+  - title: "General availability: AKS resources view"
+    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
     type: article
     provider:
       name: Microsoft
@@ -195,6 +195,6 @@ related:
       domain: microsoft.com
     quality: 38
 
-secured: "M3svcJkp7FWK1RcCEg5Bl5n3QTHmdylWQoDGofrVq/dnYzK79tAwsoD4G4r2tGSkE5I/z1IZlj+3o+RehBNib+P1uqGUk2SDJ9MmxppYz5wGz4rp80wARj36GpwI69qI2T6L5NfdDIOYSE1R+US0qKO9pZD5RlRl7DVINgmqbZBPPdaFgyNSRk2P8WFnVeqGSAynNKCjADlphZcKxZRMw8dz5mLQWkZPKVxJ9hSixIahXtOpWI0mgLOpi+89/ZoFUiETaXcuEGSvVa3PRc39GX6A4j8OoLSGTSdhXPkTyt1qlMyFQyo6UrMlsZiQX0lO2lSAuJoogGG/IEtvBfqKg5CTRkAiAnSKle52BRdhceQ=;qFdRCMv93ODZTKcXsVR4Kg=="
+secured: "5JIuKFMiw43t1RCMDBSRE+bEhT5D5hmkzV9vg5ZzlyeRl+ySmmP25TMMnTRKmeW0Qo6Bgt2GSM07UVX7rakm/R9e6p8BB+Y9g4Djpk4Wt+9tEelnDlK+ArHRUE2L//v7daw0qpgMwr9+xKj/FPJlUSqpj5nzshqA178EM3K7KmzFHseDE7vR9qGjXawwmMbSwxINrObHSkG2Qig+StaaCuiv7y19qEGyMtDtOTir8K6MCe3xAMMS2Whfz03MFyLk/ar+rG70EZJmpuizafqApVXjboN1lzk3fgaSxFhwUejx2/Cyhm2M7c66og1mo22iGn2mOJBwVaV8TgW8tm3CkZyrWV4J4Kru1c4ZfsCN8fs=;ct1s5fqm6Lu/H3UWE+58jQ=="
 ---
 

@@ -111,6 +111,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
+    excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
+    publishedDateTime: 2021-02-08T18:02:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
     excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
     publishedDateTime: 2021-01-25T17:00:35Z

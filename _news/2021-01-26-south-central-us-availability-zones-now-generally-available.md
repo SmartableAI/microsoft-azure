@@ -112,6 +112,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
+    excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
+    publishedDateTime: 2021-02-08T18:02:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General Availability: Azure Kubernetes Service node image upgrade "
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z
