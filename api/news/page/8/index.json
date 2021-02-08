@@ -2,6 +2,103 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-22-export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga.md",
+      "title": "Export and import securely to Azure Disk Storage with Azure Private Links integration (GA)",
+      "excerpt": "Azure Disk Storage now enables enhanced security options for export and import via integration with Azure Private Links ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/export-and-import-securely-to-azure-disk-storage-with-azure-private-links-integration-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview.md",
+      "title": "Change data integration in Azure Monitor for VMs is now in public preview",
+      "excerpt": "You can now observe degradation of performance or health in a VM with the new change data integration in Azure Monitor for VMs.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/change-data-integration-in-azure-monitor-for-vms-is-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/6d7b4ff4-8c9a-4041-bff7-6887de23340f.png",
+          "width": 1024,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-general-availability-of-azure-monitor-for-key-vault-and-azure-cache-for-redis.md",
       "title": "General availability of Azure Monitor for Key Vault and Azure Cache for Redis",
       "excerpt": "Azure Monitor for Key Vault and Azure Monitor for Azure Cache for Redis provide out of the box insights for these resources using platform telemetry.",
@@ -1039,92 +1136,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-additional-azure-sql-database-gateways-changes-effective-october-12-2020.md",
-      "title": "Additional Azure SQL Database gateways changes effective October 12, 2020",
-      "excerpt": "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T13:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-azure-synapse-sql-on-demand-now-enforces-tls-12-on-outbound-connections.md",
-      "title": "Azure Synapse SQL on-demand now enforces TLS 1.2 on outbound connections",
-      "excerpt": "Azure Synapse SQL on-demand is now enforcing TLS 1.2 for outbound connections used by all SQL client applications.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondemand-now-enforces-tls-12-on-outbound-connections/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondemand-now-enforces-tls-12-on-outbound-connections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T10:00:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

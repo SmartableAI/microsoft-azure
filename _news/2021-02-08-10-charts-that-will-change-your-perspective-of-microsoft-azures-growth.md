@@ -1,40 +1,35 @@
 ---
 category: news
-title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
-excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
-publishedDateTime: 2021-02-02T09:41:00Z
-originalUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
-webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue."
+publishedDateTime: 2021-02-08T06:40:00Z
+originalUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 97
+heat: 377
+published: true
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Mobile
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
+    width: 1200
+    height: 774
+    isCached: true
 
 related:
-  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
-    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue."
-    publishedDateTime: 2021-02-08T06:40:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
-        width: 1200
-        height: 774
-        isCached: true
   - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
     excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
     publishedDateTime: 2021-02-04T12:43:00Z
@@ -158,6 +153,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
+    excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
+    publishedDateTime: 2021-02-02T09:41:00Z
+    webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
     publishedDateTime: 2021-02-04T21:29:00Z
@@ -215,6 +219,6 @@ related:
         height: 212
         isCached: true
 
-secured: "CPrrScnEIZcjTqozoMNytB84WsEHEqiX4X2AISbE55riKkAw4oikwMmhQ9Q7S5J4ku/rDzjeSxKemqCxfBjVeFgYD+BvdvsXA3pl6vYG4NMouagyKX8b3oOMWaXCX+ulyeEHJ2EgSfsS/usDAc6ipL2yKPtn4Aoqqs14ZZbtwmIGk5HQnqBTayUOhNI8bnPQVEgFsqsHAcd6RHSkdGCOM8tpTGjTRPEQaKS+14DHI8mcPVTBye2wVMJR5nxihR+UZvhz0+Fow+/XsDhhmaWpllQYWg/o8g2xue5jEF3JOFCPMNsMsN7UFKaxFG/dgN4F232IujxI+T6KAKDsofCytYiftsrLoEORC8QfubDlXH4=;LHCxM+HtqD1WZSdGzqXRpA=="
+secured: "7NQVxUgqAlPKi2omXsSiMejez5mvLu/gcBv7tb7LClOLfE5CBD/dIWlUs3bfepbp+C8kGg/Z8zocm7ufxfhcRzS6LIuKb5POjjir3hO3tgFRX3fhpACUcnZiD64sMnDKvniGw6qpQsl62/Y44ixoGkHDXKS+ugJBBFDDdfql6XJRx/SArQRX3+OUAr+aBsXYA0D8LmsmGi+fj+05C2dsos1vbVsFtb4EpTkAsHo6EKfdJAssFreFxB448KxQlJqucVCuPVfjOU9OKibmVXIKID5NVNNYMDc03djWmTyIM/E5GdNNDPeXD9DxreV31c7ofpZBTLkxiBL3Os7K0LUDKycQV9boWS037HnzPZr+Dfc=;jumVTPGvI9V43N3QcqyGVw=="
 ---
 

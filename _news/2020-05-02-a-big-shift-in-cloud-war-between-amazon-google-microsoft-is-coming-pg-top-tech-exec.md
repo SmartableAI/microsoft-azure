@@ -94,22 +94,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
-    excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
-    publishedDateTime: 2021-02-04T12:43:00Z
-    webUrl: "https://www.zdnet.com/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/18/0a9ab2fd-7764-4649-9f02-7c3ec5a3bad5/istock-849181820-2.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage"
     excerpt: "Microsoft isn’t saying exactly when single screen devices like laptops will support Windows 10X, nor when dual-screen devices will launch with the OS. “We will continue to look for the right moment, in conjunction with our OEM partners,"
     publishedDateTime: 2020-05-04T16:08:00Z

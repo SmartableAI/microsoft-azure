@@ -98,17 +98,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "Singtel offers 5G edge computing on Microsoft Azure"
-    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-    publishedDateTime: 2021-02-02T08:36:00Z
-    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
@@ -124,22 +113,6 @@ related:
       - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
         width: 728
         height: 380
-        isCached: true
-  - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
-    excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
-    publishedDateTime: 2021-02-02T16:22:00Z
-    webUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/"
-    ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-to-launch-singtel-5g-mobile-edge-computing-on-microsoft-azure-stack-40757/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 72
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
@@ -167,36 +140,6 @@ related:
       - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "How do you pronounce 'Azure?' Microsoft wants to know."
-    excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
-    publishedDateTime: 2021-02-02T12:25:00Z
-    webUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know"
-    ampWebUrl: "https://www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/how-do-you-pronounce-azure-microsoft-wants-know?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
-    excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
-    publishedDateTime: 2021-02-03T01:38:00Z
-    webUrl: "https://www.crn.com/news/applications-os/sas-teams-with-microsoft-to-offer-viya-analytics-on-azure"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
-        width: 1500
-        height: 843
         isCached: true
   - title: "Couchbase Cloud Now Available on Microsoft Azure"
     excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
@@ -226,58 +169,10 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Microsoft and Singtel team up on 5G via Azure Stack"
-    excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
-    publishedDateTime: 2021-02-02T08:34:00Z
-    webUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack"
-    ampWebUrl: "https://www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252495728/Microsoft-and-Singtel-team-up-on-5G-via-Azure-Stack?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
-  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
-    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
-    publishedDateTime: 2021-02-02T01:00:00Z
-    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
-        width: 971
-        height: 520
-        isCached: true
-  - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
-    excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
-    publishedDateTime: 2021-02-01T18:26:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
   - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
     excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
     publishedDateTime: 2021-01-26T16:16:00Z
     webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
-  - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
-    excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
-    publishedDateTime: 2021-02-02T09:41:00Z
-    webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
     type: article
     provider:
       name: Telecompaper
@@ -310,20 +205,6 @@ related:
       name: Windows
       domain: compsmag.com
     quality: 33
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
-    publishedDateTime: 2021-02-04T21:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
-        width: 1279
-        height: 670
-        isCached: true
   - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
     excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
     publishedDateTime: 2021-01-21T21:34:00Z
@@ -362,34 +243,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
         width: 768
         height: 512
-        isCached: true
-  - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
-    excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
-    publishedDateTime: 2021-02-02T21:10:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 24
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "What Small Businesses Should Know About Microsoft Cloud"
-    excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
-    publishedDateTime: 2021-02-04T14:43:00Z
-    webUrl: "https://independentretailer.com/2021/02/04/what-small-businesses-should-know-about-microsoft-cloud/"
-    type: article
-    provider:
-      name: Independent Retailer
-      domain: independentretailer.com
-    quality: 22
-    images:
-      - url: "https://independentretailer.com/wp-content/uploads/2021/01/ir-reward-01-2021-371w.png"
-        width: 371
-        height: 212
         isCached: true
   - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
     excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."

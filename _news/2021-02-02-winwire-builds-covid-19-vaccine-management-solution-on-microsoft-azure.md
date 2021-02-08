@@ -24,90 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Azure cloud will pass Office to become Microsoft's biggest business next year, says analyst"
-    excerpt: "If the estimate is correct, then it will have taken Microsoft 12 years to build Azure into its highest-performing business."
-    publishedDateTime: 2021-01-28T20:34:00Z
-    webUrl: "https://www.cnbc.com/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
+  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue."
+    publishedDateTime: 2021-02-08T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 97
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106831319-1611799292352-gettyimages-617845480-WSJDLIVE_TECHNOLOGY.jpeg?v=1611799375"
-        width: 4000
-        height: 2667
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
+        width: 1200
+        height: 774
         isCached: true
-  - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
-    excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
-    publishedDateTime: 2021-01-26T03:15:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+  - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
+    excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
+    publishedDateTime: 2021-02-04T12:43:00Z
+    webUrl: "https://www.zdnet.com/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 81
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
-        width: 848
-        height: 493
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/18/0a9ab2fd-7764-4649-9f02-7c3ec5a3bad5/istock-849181820-2.jpg"
+        width: 1254
+        height: 836
         isCached: true
-  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-    publishedDateTime: 2021-01-26T22:16:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "SD Times news digest: Microsoft Azure Boards, Neo4j Aura Enterprise announced, and Cloud Security Alliance’s Cloud Controls Matrix v4"
-    excerpt: "Microsoft Azure Boards, Neo4j Aura Enterprise announced, Cloud Security Alliance announces new controls Matrix v4"
-    publishedDateTime: 2021-01-28T02:17:00Z
-    webUrl: "https://sdtimes.com/softwaredev/sd-times-news-digest-microsoft-azure-boards-neo4j-aura-enterprise-announced-and-cloud-security-alliances-cloud-controls-matrix-v4/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 80
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/01/008eGmZEly1gmlcy608vgj31b20u0wmg.jpg"
-        width: 1080
-        height: 689
-        isCached: true
-  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
-    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-    publishedDateTime: 2021-01-21T15:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
-    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
-    publishedDateTime: 2021-01-27T15:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
   - title: "Singtel offers 5G edge computing on Microsoft Azure"
     excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
     publishedDateTime: 2021-02-02T08:36:00Z
@@ -119,22 +67,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
-    excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
-    publishedDateTime: 2021-01-27T15:02:00Z
-    webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
-    ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 74
-    images:
-      - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -150,33 +82,6 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
-    excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
-    publishedDateTime: 2021-01-21T13:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quorum-to-start-deploying-xsellerator-dealerships-on-new-cloud-offering-on-microsoft-azure-1029990038"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Quorum-to-start-deploying-XSellerator-dealerships-on-new-cloud-offering-on-Microsoft-Azure-1029990038"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
-    excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
-    publishedDateTime: 2021-01-28T20:08:00Z
-    webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-    ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
-    images:
-      - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "How do you pronounce 'Azure?' Microsoft wants to know."
     excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
@@ -208,34 +113,17 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Couchbase Cloud Now Available on Microsoft Azure"
-    excerpt: "Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, announced that Couchbase Cloud, its award-winning, fully-managed Database-as-a-Service (DBaaS), is now available on Microsoft Azure."
-    publishedDateTime: 2021-01-21T21:53:00Z
-    webUrl: "https://ctovision.com/couchbase-cloud-now-available-on-microsoft-azure/"
+  - title: "DATA443 DELIVERS ADVANCED CAPABILITIES FOR CLASSIDOCS™ INTEGRATED WITH MICROSOFT DOUBLE KEY EXCHANGE ON MICROSOFT AZURE"
+    excerpt: "Customer Demand Drives Rapid Adoption of Advanced Encryption and Data Protection Capabilities by ClassiDocs RESEARCH TRIANGLE PARK, NC, Feb."
+    publishedDateTime: 2021-02-02T13:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/data443-delivers-advanced-capabilities-for-classidocs-integrated-with-microsoft-double-key-exchange-on-microsoft-azure-1030032453"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/DATA443-DELIVERS-ADVANCED-CAPABILITIES-FOR-CLASSIDOCS-INTEGRATED-WITH-MICROSOFT-DOUBLE-KEY-EXCHANGE-ON-MICROSOFT-AZURE-1030032453"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/DATA443-DELIVERS-ADVANCED-CAPABILITIES-FOR-CLASSIDOCS-INTEGRATED-WITH-MICROSOFT-DOUBLE-KEY-EXCHANGE-ON-MICROSOFT-AZURE-1030032453"
     type: article
     provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 37
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
-        isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -261,15 +149,6 @@ related:
         width: 971
         height: 520
         isCached: true
-  - title: "CIRT ties up with Microsoft Azure to deliver enterprise IoT services"
-    excerpt: "South African IoT start-up Consumption Information Real Time (CIRT) announced a multiyear alliance with Microsoft to use its Azure cloud platform. Under the agreement Microsoft will provide technical guidance,"
-    publishedDateTime: 2021-01-26T16:16:00Z
-    webUrl: "https://www.telecompaper.com/news/cirt-ties-up-with-microsoft-azure-to-deliver-enterprise-iot-services--1369931"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z
@@ -279,33 +158,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
-    excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
-    publishedDateTime: 2021-01-23T10:30:00Z
-    webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
-    ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
-    images:
-      - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF"
-    excerpt: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform Other OTC:NEXCF. Cloud-based data enables Nextech AR to host"
-    publishedDateTime: 2021-01-24T22:29:00Z
-    webUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/nextech-ar-integrates-microsoft-azure-cloud-computing-platform-other-otcnexcf/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 33
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
     publishedDateTime: 2021-02-04T21:29:00Z
@@ -320,44 +172,19 @@ related:
         width: 1279
         height: 670
         isCached: true
-  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-    publishedDateTime: 2021-01-21T21:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
+    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
+    publishedDateTime: 2021-02-05T12:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
-    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
-    publishedDateTime: 2021-01-26T11:24:00Z
-    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 25
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
-    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
-    publishedDateTime: 2021-01-27T10:40:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
     excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
@@ -387,24 +214,6 @@ related:
         width: 371
         height: 212
         isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-    publishedDateTime: 2021-01-28T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-  - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
-    excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
-    publishedDateTime: 2021-01-26T16:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210126005321/en/Confluent-Announces-New-Strategic-Alliance-with-Microsoft-Providing-a-Fast-Path-to-Building-Real-Time-Event-Driven-Applications-for-Microsoft-Azure-Customers"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "ZCev5XYCrJmCEPTGPu/BVHIGABVJVeLI1clqiyo0LA8lwRs3fXVmWJkNo7/ALT1aDXSG+ecWA4ntx7LCnWCDPMLkVGZcws3I2MLoWJvju0fcEunhbZkPo9ISRk5jucu+YJWz3Oa1Cqm2JIYWKgDKih19oWN5I5mEeeOJlZ1W7ps8x9UO3w7uPQnU+om4h0CBT7uCm1EOCZj/D21o/kzMnfHpvT9QUyfmRVnTvTg9oa+L9ptuWQ8eDntM4IWTexlfIMrtZT4xA600BhcZ9oUxaB+PYoYrg/D2ncyIh4q2vEFWQOfoHsNjUGqGVA2k/fWkBP6taPXZlbCBIWxIhuGYcGXmxECCNPrYeCGJg5YIZ1Q=;cxR4kNYEwdrTYUvupWjnyQ=="
 ---

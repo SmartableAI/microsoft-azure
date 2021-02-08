@@ -94,22 +94,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
-    excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
-    publishedDateTime: 2021-02-04T12:43:00Z
-    webUrl: "https://www.zdnet.com/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-aws-is-still-the-biggest-player-but-microsoft-azure-and-google-cloud-are-growing-fast/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/18/0a9ab2fd-7764-4649-9f02-7c3ec5a3bad5/istock-849181820-2.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "A big shift in cloud war between Amazon, Google, Microsoft is coming: P&G top tech exec"
     excerpt: "Procter & Gamble chief information officer Javier Polit said the booming cloud computing market will contract over the next five years. Amazon has been an early leader and P&G has been a client ..."
     publishedDateTime: 2020-05-02T00:00:00Z
