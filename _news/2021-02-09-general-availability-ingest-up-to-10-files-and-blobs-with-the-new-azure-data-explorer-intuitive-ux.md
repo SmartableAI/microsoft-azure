@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
-excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
-publishedDateTime: 2021-01-30T01:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
-webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
+excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
+publishedDateTime: 2021-02-09T18:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/ingest-up-to-10-files-and-blobs-with-intuitive-ux/"
+webUrl: "https://azure.microsoft.com/en-us/updates/ingest-up-to-10-files-and-blobs-with-intuitive-ux/"
 type: article
-quality: 63
+quality: 73
 heat: -1
 published: false
 
@@ -20,8 +20,12 @@ provider:
 
 topics:
   - Azure
-  - AI
-  - Analytics
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a3e7475f-2596-405f-bc11-3992beb6de5f.png"
+    width: 432
+    height: 415
+    isCached: true
 
 related:
   - title: "General availability: Azure Machine Learning Output Datasets "
@@ -96,20 +100,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
-    excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
-    publishedDateTime: 2021-02-09T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ingest-up-to-10-files-and-blobs-with-intuitive-ux/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 73
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a3e7475f-2596-405f-bc11-3992beb6de5f.png"
-        width: 432
-        height: 415
-        isCached: true
   - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
     publishedDateTime: 2021-01-21T17:02:41Z
@@ -164,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Text Analytics' Named Entity Recognition v3 now supports 10 languages with improved AI quality"
+    excerpt: "With support for more entity categories and more languages, using Text Analytics NER enables organizations to extract higher quality insights from unstructured text."
+    publishedDateTime: 2021-01-30T01:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/text-analytics-ner-improved-ai-quality/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Germany West Central Availability Zones now generally available"
     excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
     publishedDateTime: 2021-01-26T17:00:21Z
@@ -210,6 +209,6 @@ related:
       domain: microsoft.com
     quality: 38
 
-secured: "C9dLNuyzY9pPrTcLuc6cEf81r/m7+wD1JXxkIgCbMVDSriEd0YulPxciMQH8GJV7HzQunGT/csK6uYzoKndBxndRqiAjVCEFHyY/B3lh/KETHokZjbneGm4phl7xZjHecoqwGKUlbzWNkiSJHaCaG+JleSj/IQ6FYsngezQXvkALXAsDIkmVv2UUcQE2y2AwBsRBXmdN/r+RNIvsKUS6/1f4On7srtVF28Cv3J0U8TJxhzyV2TnRRqpka7dq/+zV+Qc6FzWw8e7KQ/PTnuXjxVMvNepurfZ6LJhEmTzbwRp3mgT1PQfVbnzcBKH04hzJ1AnqlEC5+sB8M/wjSiW0ER7hN9dENKBcBHFNqMVxyTE=;HG0odJ60wdDv9EqlYnUl4Q=="
+secured: "CkmMuRuN6cosKwfF0TBXnMdtzLQfo3VTkTlA9aNHLpjyu96BxwMJd26m1paUzaHzUIGdN8fGdjuvdq7NCU7rurftyA5431A9UpThJmyou4KRrNvJYruLXMsXdCotkvZz9zsHvKZN35xSKgJZziR2dUsa3H+ifEQlzKCJpQhCwn/Zlulgbi83oUnn7+bKkHhr0tMlqbvruLwuGmwe8C17HYEuBHmEZTbUXeBbZpR+gOAcnPGB9CRooRsSmWKjrLrFTw/SFaxmP6fj+7gxrEMB5wgdSUhUowB5zUVUAuhBIoosMHb7radwlshycgQ8baH/iYrgh3PGVDomUyWONjuxYliWLsrkva8f+39T9VwzMms=;Hgl5yC5WRa16+8/mAZr5lQ=="
 ---
 

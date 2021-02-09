@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-16-running-sd-wan-virtual-appliances-natively-in-azure-virtual-wan.md",
+      "title": "Running SD-WAN virtual appliances natively in Azure Virtual WAN",
+      "excerpt": "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
+      "originalUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png",
+          "width": 911,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T03:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes.md",
       "title": "Run high scale workloads on Blob storage with new 200 TB object sizes",
       "excerpt": "Azure Blob storage is a massively scalable object storage solution that serves from small amounts to hundreds of petabytes of data per customer across a diverse set of data types including logging, documents, media, genomics, seismic processing, and much more.",
@@ -1208,59 +1260,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-azure-container-registry-securing-container-workflows.md",
-      "title": "Azure Container Registry: Securing container workflows",
-      "excerpt": "Securing any environment requires multiple lines of defense. Azure Container Registry recently announced general availability of features like Azure Private Link, customer-managed keys, dedicated data-endpoints and Azure Policy definitions. These features provide tools to secure Azure Container Registry",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-container-registry-securing-container-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ecfc63bf-21d1-493f-9f76-e1f895dc90a9.png",
-          "width": 1024,
-          "height": 483,
-          "title": "Azure Container Registry: Securing container workflows",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Containers"
       ]
     }
   ],

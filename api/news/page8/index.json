@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-22-azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga.md",
+      "title": "Azure Cognitive Search - Managed identity support and Private Endpoints are GA",
+      "excerpt": "You can now request Azure Cognitive Search to create an outbound private endpoint connection in order to securely access data from such data sources via indexers . You can also create identity for a search service in Azure Active Directory, then use RBAC permissions to grant the identity permissions",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Identity"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-azure-machine-learning-updates-ignite-2020.md",
       "title": "Azure Machine Learning updates Ignite 2020 ",
       "excerpt": "Azure Machine Learning is bringing new capabilities to customers at no additional cost. Azure Machine Learning designer and automated ML UI are now generally available. ",
@@ -1069,48 +1113,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-it-service-management-connector-itsmc-is-now-available-in-azure-government.md",
-      "title": "IT Service Management Connector (ITSMC)  is now available in Azure Government",
-      "excerpt": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/itsmc-is-now-available-in-fairfax/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T09:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

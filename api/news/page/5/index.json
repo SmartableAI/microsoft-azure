@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-its-past-time-for-microsoft-to-disclose-azure-details.md",
+      "title": "It's Past Time for Microsoft to Disclose Azure Details",
+      "excerpt": "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 817,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/",
+      "publishedDateTime": "2020-11-03T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-generate-azure-functions-using-azure-api-management-extension-for-visual-studio-code.md",
       "title": "Generate Azure Functions using Azure API Management extension for Visual Studio Code",
       "excerpt": "Using Azure API Management extension for Visual Studio Code, you can now generate Azure Functions. This will help you scaffold all the necessary functions for your API based on the API definitions.",
@@ -1110,49 +1161,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-t-digest-extension-for-azure-database-for-postgresql-hyperscale-citus.md",
-      "title": "T-digest extension for Azure Database for PostgreSQL - Hyperscale (Citus)",
-      "excerpt": "Now in general availability, the algorithm used in the open source t-digest extension allows high performance percentile calculations on sizable distributed analytical workloads with improved accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

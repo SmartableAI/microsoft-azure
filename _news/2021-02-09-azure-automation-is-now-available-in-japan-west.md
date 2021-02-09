@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Azure Automation is now available in Germany West Central"
+title: "Azure Automation is now available in Japan West"
 excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-publishedDateTime: 2020-12-28T19:01:49Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/"
+publishedDateTime: 2021-02-09T16:49:56Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,10 +22,10 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Automation is now available in Japan West"
+  - title: "Azure Automation is now available in Germany West Central"
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-    publishedDateTime: 2021-02-09T16:49:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+    publishedDateTime: 2020-12-28T19:01:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/"
     type: article
     provider:
       name: Microsoft
@@ -41,6 +41,6 @@ related:
       domain: microsoft.com
     quality: 64
 
-secured: "tiUK6aJc1hw4ityk8HoiXRG2xnYLO8aBBKdmSjDbgvJc24Ljq4jk4xBx4G2T4YtcpnxcbAQBxl+3BLXJMWZmKY7EKvByPIIaXfSZ0qd0HdRhrLDu+oLIKv0nGR1HsVpgHq2+vThkz/+u9T4w37PzooAl+IlV17+GJIA/EX3RfvEXnS2CZeOzmGDwiB8XKdPmLcGd/RRVY00NCA0nAyM4LBPiOpUhDHNm/yfL05iyI9ygYfAQygHO4UkQxcuXFbUWnj8vUjLNRpqWX8juq8+1TODrNhMTDyyC+zRBVksRdjrJX4frZFQnUFjMD/HmppECpqSGW2j8Ih6ND6f3pwGWk2SoeON0UHXRsDdhOMb6u8o=;D5frayqItm+2Z1V4BDlpgQ=="
+secured: "blrJLTbAFCgWcQMGI0LA4jnEZW36XjRVlszQ+zFN7hFi9qeNKunh3ApOChnnK4sze0+t/dWR8U/2MZo2+i9q9R4rXkWYT95PlvOXE4l5gQL2jJ9MIdZsJnugE6W0eE2v7YvfOf8zj3gS5D5RhOr//RpMHhFgQRcS6sfFzlrITlWJg7Ydq9Q4yN1dQEGlYgWwRL8iY+qTaX+5uJrfFwR5eXSPw7mRYEYUX8Qq0ief0NSqKxMq/+0bSfIYbt3DQiFtUc8Jd/kZDSf4w54MCMQFWumUhyGz2p7UPWFSGWGcfxEXb1gFTq0AFhlnXdBCiJ5zZACRFeu1g6KBPHjafZ9NrkTvkg+t8++mFhbCEH2RolI=;wn4evH02E3Vb/6sLsYeWow=="
 ---
 

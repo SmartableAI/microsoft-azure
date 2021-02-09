@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-02-reserved-capacity-on-azure-sql-database-hyperscale-is-now-available.md",
+      "title": "Reserved capacity on Azure SQL Database Hyperscale is now available",
+      "excerpt": "Obtain discounts on Azure SQL Database Hyperscale using reserved capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/reserved-capacity-on-azure-sql-database-hyperscale-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-02T09:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-microsofts-azure-ad-authentication-outage-what-went-wrong.md",
       "title": "Microsoft's Azure AD authentication outage: What went wrong",
       "excerpt": "It's been a rough week for Microsoft users who have first- and third-party apps that rely on Azure Active Directory for authentication. Microsoft has published a root-cause analysis of its issues.",
@@ -1099,50 +1142,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga.md",
-      "title": "Azure Cognitive Search - Managed identity support and Private Endpoints are GA",
-      "excerpt": "You can now request Azure Cognitive Search to create an outbound private endpoint connection in order to securely access data from such data sources via indexers . You can also create identity for a search service in Azure Active Directory, then use RBAC permissions to grant the identity permissions",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI",
-        "Identity"
       ]
     }
   ],

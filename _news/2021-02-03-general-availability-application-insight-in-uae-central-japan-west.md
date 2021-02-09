@@ -94,6 +94,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
+    excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
+    publishedDateTime: 2021-02-09T18:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ingest-up-to-10-files-and-blobs-with-intuitive-ux/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 73
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/a3e7475f-2596-405f-bc11-3992beb6de5f.png"
+        width: 432
+        height: 415
+        isCached: true
   - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
     publishedDateTime: 2021-01-21T17:02:41Z
