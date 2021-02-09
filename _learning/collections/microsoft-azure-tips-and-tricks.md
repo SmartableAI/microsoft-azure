@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 163
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks
   - videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks
   - videos/microsoft-how-to-use-github-actions-from-azure-app-service-azure-tips-and-tricks
   - videos/microsoft-how-to-get-started-with-azure-communication-services-part-2-of-2-azure-tips-and-tricks
@@ -161,7 +162,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/hlDN0o9tBAc/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

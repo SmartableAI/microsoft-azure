@@ -23,6 +23,7 @@ items:
   - courses/microsoft-learn-blockchain-solidity-ethereum-smart-contracts
   - courses/microsoft-learn-blockchain-tokens
   - courses/microsoft-learn-blockchain-create-ui-decentralized-apps
+  - courses/microsoft-learn-blockchain-ethereum-networks
 
 topics:
   - Azure
