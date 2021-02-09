@@ -1,21 +1,27 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
+publishedDateTime: 2021-02-04T21:29:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
+webUrl: "https://www.prnewswire.com/news-releases/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies-301222543.html"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1433377/GDIT___Microsoft_Azure_availability.jpg?p=facebook"
+    width: 1279
+    height: 670
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -180,6 +186,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -232,6 +252,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "rWrQlKaUfiNEIGGBc6ZQDmZTCOswzI+A84IOmGo1+AXNu4chq/+IPUUVw+wJtNjmK+BAusxRFGGlZNyAbQNFgc7Kra7SGaXcDOrojgsNsm/y1ZrSSgbmubzXr6xR5mO42/EQPq32nokJpKAn5AH7XEiT+Hd9SBusqthNX41h8C0p0njVzgB1sVSpGPKisTM82qbLABQEgoh/6olN6ADVY4NJy2TsIrzSLo3ArMp4Lg1j0HmK1jnmm04GJFz5j3rkq4Zy+6LLdoU6wCaUMqmSZ7wQci2pWbf0cYg4ruBBo3br3TFkjFfZ0zQT8Q+gjOR1o2ZmTXALcoVVcUt1slH4sssfEosos7ta6maqP4TuUEU=;L4GN1EqknmjX4u+fBH9k6g=="
+secured: "M+2nIuP+8kiEcZqfp5eBo0AVtCcgNFiif4rd09CUIpHOSZvn9056UHRfK5y/+rxcCxJBl2RJX+et1/ABHPwY3gsiFMGvjFUJcXZda6ETKhBgm8ooGyvNh14B3zdehLjxsA1XLhXFZvAG6qo3HD5rm/6f6hdeYTUZxg8LXdGAl6K5PMf/M3icC2CjZDWfsMo1B7rK8AHJfDQL1giP5tPyIRj8J4XOtPAx6lddzfRmZ3vSWspAeM41uTFlzwM6bvEeYZSLtEbQAhJ1S7yI+QGou+CHjZPqJl59dMLFi0Jl6AV1VWdUkjYHUBvnHgmEaft4+0EDpyMmGsG2d2Y/TpI4fJKBC55ZU5/G55TU1levZWc=;CKSrUSZt95tTIxVedlvVwA=="
 ---
 

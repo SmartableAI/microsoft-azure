@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Singtel offers 5G edge computing on Microsoft Azure"
-excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-publishedDateTime: 2021-02-02T08:36:00Z
-originalUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution"
+publishedDateTime: 2021-02-09T15:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
 type: article
-quality: 77
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -70,6 +70,17 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Singtel offers 5G edge computing on Microsoft Azure"
+    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+    publishedDateTime: 2021-02-02T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -175,20 +186,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
-  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution"
-    publishedDateTime: 2021-02-09T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
     publishedDateTime: 2021-02-04T21:29:00Z
@@ -255,6 +252,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "Fl4r5u1GL0smSGaGprrGHRaZHOogjZY/GG7CHP8GzC/wzXRxXo2RCU8GgxkvL4m5j/WM6KGFRKBY87VIjHGpUSz6GWZ/tjM0dYt7Tqi9CoJsJWeDzzXGftICeYBZpugI2Xl+GEWP0udQ9dInwdLpG6M+EbCs218GiRBCEkJSDnYNMJC3nK+6QHTS8dMSVqO1dwBpFraKh0G5KTaUh7af5y0VTR7tn3Tc7pGMCM6emM1hXjiQEcx3RiDvZe3uTc2jsI93Zi9FGuwHVSMqugqs6AmO4Ej2dO6aFZTM7ir9IbFRYqYJUaC0J7Q6fFsitV+81WD8kczrVkQ/ckfPqGCZul+h7+S/WKjjoxNn1w4gksRMjjRc9BTWYqTONDerKZShtO58/pSUHjkVkm4CJQOAj2rpF5W8qcStMEApZls9Z4dEXVUGvt301cILmGXKOkK7DQEnq2Axk21S4u2d892xVJ4ljRKNg26GFrqqmM7qxGGgd0oGZCXXKVnl05MFSE/XqsurEerLh6iJt394dvOXWQ==;M1wM4KLcAuAfs+CLZJ0QZg=="
+secured: "l9qGUDfCTWBpXFYhiqRrWxAMwG0aZG19akgbnV+W9OFjTUU9z46Y7VLBp3hvLWU8dxnDpiojz0Ac+o+uT/kXlQgnaszel0WTQSxiIbJ9J4GL5b7fie1kvT9d4DhmUAg6lN4NnPsGNrHCMxEX+XPpFPvZYWpZZat+U9tvi68eCggGjnGuXWOPelXFSds7T+/GpTVQUqEMnABcke7Cq+LZVKJB/pJ/bmQq+4mXqBYhyCZsZEZEAH6rsJxSNSyXQ0MV9f/fhyTfgf+1gIf0KYvTwKvKxUDUi8uTu2zzn3bFmssa+aj7afw6ivQweIJ8M+Hc2p4wZkqrYjfcE4SgANtsAWMiSe1os5Rq+zUH71BWq9Y=;tE4/YeV2sZEFvc/6unTwSQ=="
 ---
 
