@@ -4,7 +4,7 @@ excerpt: "Build data analytics solutions using Azure Synapse serverless SQL pool
 type: collection
 price: Free
 length: PT2H44M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
