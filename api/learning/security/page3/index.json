@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel.md",
+      "title": "Connect Microsoft 365 Defender to Azure Sentinel",
+      "excerpt": "Connect Microsoft 365 Defender to Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-microsoft-defender-365-to-azure-sentinel/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel.md",
       "title": "Connect Microsoft services to Azure Sentinel",
       "excerpt": "Connect Microsoft services to Azure Sentinel",
@@ -226,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/construct-kusto-query-language-statements/",
       "length": "PT36M",
       "ratings": {
-        "count": 6,
-        "average": 4.6666665
+        "count": 7,
+        "average": 4.571429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -694,49 +737,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-query-logs-azure-sentinel.md",
-      "title": "Query logs in Azure Sentinel",
-      "excerpt": "Query logs in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-query-logs-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 4,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
       "title": "Remediate security alerts using Azure Defender",
       "excerpt": "Remediate security alerts using Azure Defender",
@@ -830,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
       "length": "PT30M",
       "ratings": {
-        "count": 238,
-        "average": 4.672269
+        "count": 239,
+        "average": 4.6736403
       },
       "provider": {
         "name": "Microsoft Learn",
