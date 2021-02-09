@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "Bitscape archives Windows Server and SQL Server Migration to Microsoft Azure advanced specialization and joins group of select few Microsoft partners."
-publishedDateTime: 2021-01-29T13:01:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
-webUrl: "https://www.businesswire.com/news/home/20210129005073/en/Bitscape-Has-Earned-the-Windows-Server-and-SQL-Server-Migration-to-Microsoft-Azure-Advanced-Specialization"
+excerpt: "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure."
+publishedDateTime: 2021-01-29T08:46:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - Migration
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Quisitive Earns the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
@@ -59,6 +65,6 @@ related:
         height: 450
         isCached: true
 
-secured: "LZ/djrWK+VX/PqDAkSmxmjiLH5AMRl77mjQFr0C03mkpz/e72Xon8sVDKkpXhuSRSpTIzbmnVPtFJhU+CPD9OWccsodoKYoF3MS9oxMFF94bsNtPafm26SZ0JEAjIaA9w0pBY0Spgzg3SG9yFwjg33qMifKBomoflQnrVn4NuHkEkOabQ2/UWJDMt6YlLXiI7UeMJR45KJhdARZIUXmSVmvw3ZpQcYXwy3fCKr04U9odqnhtY4gi0K5k6Yhep9QMF68QqsF0j95ksWRebFphxbifyYWdcJVC+dZC1IwmihEV22c0yShnrBYKs2sG2zLKRIMuWyJ7ANrVqRIAyjC6itQbuiqvB9WQkWNiAI/4TuI=;qoYjogS1gCJxM9arG48O8A=="
+secured: "eKd/y6o9CrSa3jNHQJYB9+U1Zm7ap1XBKfEJeaQlFra3DRmphTyG+iOUjvvrjN6AZZX0x+xjdAeWn9tVDLZ/Fz+Xc8Hc4ioqbUojzTT/xWNeDXQiuoIDLk/s4UfZbLP7zRKs0Uh+FLNJsNsZj8nOz2a2FNDyk52UqGlke/aLklF5chng2nwqSsDiAcuLAIIA7FszR++b/93rGesEla60/0R8nmBqawSH8RwMDWbKZh1nqHQQMgin7XVUEZTfr+wWajOmZsPPFMCgDWnD5F3uF87iBgdjDJvLI3xq+rJ4Q+uAVIjnCf1rJZZcTJEZNNzV58O9gW+BUDgRFX0kDNFXe34FURbgwkRIZm1d8RKRQBU=;WAL9zdrClp/cAmA5K/+beA=="
 ---
 
