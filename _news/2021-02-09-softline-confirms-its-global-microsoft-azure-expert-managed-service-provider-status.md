@@ -1,22 +1,21 @@
 ---
 category: news
-title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
-excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
-publishedDateTime: 2021-02-02T09:41:00Z
-originalUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
-webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
+excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
+publishedDateTime: 2021-02-09T08:08:00Z
+originalUrl: "https://www.pr.com/press-release/830564"
+webUrl: "https://www.pr.com/press-release/830564"
 type: article
-quality: 34
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: PR
+  domain: pr.com
 
 topics:
   - Azure
-  - Mobile
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -172,6 +171,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
+    excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
+    publishedDateTime: 2021-02-02T09:41:00Z
+    webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "\"Microsoft offers Microsoft 365 for collaboration, Azure for cloud based workloads and Dynamics 365 for customer relationship management.\" \"GDIT's agreement with Microsoft is an important ..."
     publishedDateTime: 2021-02-04T21:29:00Z
@@ -228,16 +236,7 @@ related:
         width: 371
         height: 212
         isCached: true
-  - title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
-    excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
-    publishedDateTime: 2021-02-09T08:08:00Z
-    webUrl: "https://www.pr.com/press-release/830564"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 11
 
-secured: "CPrrScnEIZcjTqozoMNytB84WsEHEqiX4X2AISbE55riKkAw4oikwMmhQ9Q7S5J4ku/rDzjeSxKemqCxfBjVeFgYD+BvdvsXA3pl6vYG4NMouagyKX8b3oOMWaXCX+ulyeEHJ2EgSfsS/usDAc6ipL2yKPtn4Aoqqs14ZZbtwmIGk5HQnqBTayUOhNI8bnPQVEgFsqsHAcd6RHSkdGCOM8tpTGjTRPEQaKS+14DHI8mcPVTBye2wVMJR5nxihR+UZvhz0+Fow+/XsDhhmaWpllQYWg/o8g2xue5jEF3JOFCPMNsMsN7UFKaxFG/dgN4F232IujxI+T6KAKDsofCytYiftsrLoEORC8QfubDlXH4=;LHCxM+HtqD1WZSdGzqXRpA=="
+secured: "aU4G4yvH766SHasnj99RrkaMIs2yHb2I4g0Hse+OyZ0/EwfUs6nyHuE7PzutOwcgcyo4BErFPgQCJ1ylkhHzMPakl5JJJGCN6uYbTzWs1jeoX+jwvUXbuqZUCKfTDtID/zBubUq+HXa7K/W6b8HP65M5RGKo4cnG7p8zJ+vsLE1Ii/LS2o2KIa/8ANWFTiJbs7nj+A7PxIFPhfarcN6WIcw/349mKZQHHYo70V4PaEgQ4yjqYg2BMhOINBvvkhow7v1fNqFrWM6bGwntVCUAY6gREFjOQ5vBXhis5IYkCLyIv+/cS+EpEa0rKPF/vET2yFtMWLthUhGRH70MTAwJIuF/LO8HHqxtBb4HGQDo7U8=;twwrbW+Q5jl454Wdfbwv0w=="
 ---
 

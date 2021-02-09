@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
 type: article
 quality: 97
-heat: 397
+heat: 417
 published: true
 
 provider:
@@ -232,6 +232,15 @@ related:
         width: 371
         height: 212
         isCached: true
+  - title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
+    excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
+    publishedDateTime: 2021-02-09T08:08:00Z
+    webUrl: "https://www.pr.com/press-release/830564"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 11
 
 secured: "hoJx2QUKv6xPi0WHWbYMzs9ol68iY4B0DDAIbUu2h3YBxf9ZbKDMM0lJRk3gibaDR8pFWyTW6TDmB+pwXhjEkiEQbTJrbegkvuefU6jJMVC9BvcDe7eXN2pTyo8LEahPJdTywLZJGaNl9vKe0JwfyfuNelYYv/vuShqN+G/YAHB9cX+roaqbENpi0jjjfZbCkgJOGhXXuYFypycCdt+XZyEfMExLNOO1wCShDjFMnkrtgyZdTltuid847P5962lKGH0+pyoFhBkSPGvXvnrsEv2Bw7cKtLdL0+1qxyHoDpzZQRiSQb+lXvrcIfY1OEXbO4UVIrqy8FAs80gsU4nRXoA7wo1ZjQznuSG5ko+tH555euGZepqfKzAqZ78ASztV7j2wiLYc/rw+ECO5Eo+jlUJihVoFp+9Qa8M0bGM8zqCgqLTfMpf6K3S6sEgtC8rZayyv3TerP963KSdx0DQKKz6NCud8SCHJS/EuBcbHGKCm7k4gFTcAJ1K326WoQb3R3ADyREVZ6LFIZ1Bl4ltXYA==;tYl8LvHGLXpnhsVY1e21Cg=="
 ---

@@ -232,6 +232,15 @@ related:
         width: 371
         height: 212
         isCached: true
+  - title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
+    excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
+    publishedDateTime: 2021-02-09T08:08:00Z
+    webUrl: "https://www.pr.com/press-release/830564"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 11
 
 secured: "UCmzhKODBfi6sSLXfxkzo3PPrKaoXNy/WnDZWA4j95kS5gSlAJKCeso5tUe9uj/BdORq3lk1ry6Q/aOHntucfdnEgAbMS9Usa2geCmRW/vyRLOQb9DWmF1KqYnNXShxdLBaJQ3/G+VZo6a2Ggq8lvBPtKciJ3C9MwWQhcohwncwOKAJNm+qo+kZObf9cGQWD9dwM8FN8YdLlIZefE4AuFbn3aCpTeiXsV7MS0q0MVl1pHBiEIl+awlmIshYPzz2wTPuXZnzM6TBjg4Bk5VKRyfLDoMArvKyk0Zax03drkmW+FNpnFcRPt79k+yuENsGYFDxpVAEvUw7tFHnFXkZ3CuwJdtVisWMlFXvWKiW9xX4/seaes8JettzSjVWVxmAxAhHrDa6JnVZOLxqElEBQjfAhGPBWj5bLICTpPjcY48a7hExHR7kMaryqgu1wCZRU8c4P9L/8yCId9HzcaCjPnCAWC9kRTSaIRtnm9LVzqoyZsq6+vpVN3FJh1hI8Z16g9TnB1z1Pjh62pH4avf9sxg==;Pf7lWoFd4Lnb89MFdA3hMg=="
 ---
