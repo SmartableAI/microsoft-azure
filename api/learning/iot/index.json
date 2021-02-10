@@ -4,6 +4,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
+      "title": "Introduction to Azure Functions for IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 101,
+        "average": 4.633663
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 25819,
-            "average": 4.784035
+            "count": 25878,
+            "average": 4.784257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3678,
-            "average": 4.7702556
+            "count": 3683,
+            "average": 4.770296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2563,
-            "average": 4.7499022
+            "count": 2565,
+            "average": 4.7500973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -232,8 +276,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 2964,
-        "average": 4.773954
+        "count": 2973,
+        "average": 4.774638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 2269,
-        "average": 4.76245
+        "count": 2273,
+        "average": 4.7624283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -386,8 +430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1834,
-            "average": 4.6652126
+            "count": 1835,
+            "average": 4.6653953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40688,
-            "average": 4.7158375
+            "count": 40693,
+            "average": 4.7158723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 540,
-            "average": 4.6203704
+            "count": 542,
+            "average": 4.6217713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 349,
-            "average": 4.415473
+            "count": 350,
+            "average": 4.417143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -595,8 +639,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7598,
-            "average": 4.655699
+            "count": 7600,
+            "average": 4.6557894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -613,7 +657,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 145,
+          "heat": 65,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -715,8 +759,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1971,
-            "average": 4.591578
+            "count": 1972,
+            "average": 4.591785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -870,8 +914,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 1971,
-            "average": 4.591578
+            "count": 1972,
+            "average": 4.591785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -978,8 +1022,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9259,
-            "average": 4.6970515
+            "count": 9260,
+            "average": 4.6970844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1838,8 +1882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1724,
-            "average": 4.7186775
+            "count": 1725,
+            "average": 4.718261
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2924,8 +2968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1724,
-        "average": 4.7186775
+        "count": 1725,
+        "average": 4.718261
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3349,49 +3393,6 @@
         "Integration",
         "Compute",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub.md",
-      "title": "Automate IoT devices management with Azure IoT Hub",
-      "excerpt": "Automate IoT devices management with Azure IoT Hub",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-iot-devices-management-with-azure-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-management-with-azure-iot-hub/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 196,
-        "average": 4.6887755
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/automate-iot-devices-management-with-azure-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

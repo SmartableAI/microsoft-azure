@@ -4,6 +4,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads.md",
+      "title": "Using IAAS support with Azure for SAP workloads",
+      "excerpt": "There are a variety of commonly used SAP-certified operating systems supported by SAP running on Azure VMs, and there are also several different methods of provisioning storage for SAP workloads in Azure. In this module, you will learn the SAP recommended support products and VM types as well as the network, database, and monitoring requirements.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iaas-support-azure-sap-workloads/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iaas-support-azure-sap-workloads/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 354,
+        "average": 4.757062
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/using-iaas-support-with-azure-for-sap-workloads-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
       "title": "Cognitive Search - Azure Search with AI | Azure Friday",
       "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
@@ -354,8 +396,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5172,
-            "average": 4.715197
+            "count": 5174,
+            "average": 4.715307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -539,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3026,
-        "average": 4.481163
+        "count": 3027,
+        "average": 4.4813347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -713,8 +755,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
       "length": "PT25M",
       "ratings": {
-        "count": 5172,
-        "average": 4.715197
+        "count": 5174,
+        "average": 4.715307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1136,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5122,
-        "average": 4.6593127
+        "count": 5123,
+        "average": 4.6593795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1258,8 +1300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2983,
-        "average": 4.671807
+        "count": 2984,
+        "average": 4.6712465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1313,44 +1355,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/D_AJk2lAepw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday.md",
-      "title": "Azure API for FHIR (Fast Healthcare Interoperability Resources) | Azure Friday",
-      "excerpt": "Michael Hansen joins Scott Hanselman to explain what FHIR is and how to get started with FHIR on Azure. Fast Healthcare Interoperability Resources (or, FHIR) is a new standard for representing and exchanging healthcare data. Developed by the HL7 community to address problems with interoperability, pieces",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5vS7Iq9vpXE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vS7Iq9vpXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-25T15:21:34-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5vS7Iq9vpXE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
