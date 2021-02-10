@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-10-back-up-linux-virtual-machines-running-mission-critical-workloads.md",
+      "title": "Back up Linux virtual machines running mission-critical workloads",
+      "excerpt": "As organizations continue to embrace Linux, we see a growing number of enterprises running business and mission-critical workloads on Linux virtual machines in Azure. Azure Backup service offers application consistent backup of Linux virtual machines in Azure to safeguard against unintended destruction",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-running-mission-critical-workloads/",
+      "originalUrl": "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-running-mission-critical-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T01:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-general-availability-azure-mobile-app-now-supports-azure-government.md",
       "title": "General availability: Azure mobile app now supports Azure Government",
       "excerpt": "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app.",
@@ -147,7 +192,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-defender-for-app-service-introduces-dangling-dns-protection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1135,50 +1180,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
-      "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
-      "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "Security"
       ]
     }
   ],

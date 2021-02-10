@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-20-chinas-alibaba-to-invest-282-billion-in-cloud-infrastructure-as-it-battles-amazon-microsoft.md",
+      "title": "China's Alibaba to invest $28.2 billion in cloud infrastructure as it battles Amazon, Microsoft",
+      "excerpt": "Alibaba has put a concerted effort on cloud computing and analysts as well as executives see it becoming a critical area in the future, despite it currently accounting for just 7% of total revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/04/20/alibaba-to-invest-28-billion-in-cloud-as-it-battles-amazon-microsoft.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105912345-1557846366021gettyimages-1091456116.jpeg?v=1567733667",
+          "width": 4254,
+          "height": 2660,
+          "title": "China's Alibaba to invest $28.2 billion in cloud infrastructure as it battles Amazon, Microsoft",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/20/alibaba-to-invest-28-billion-in-cloud-as-it-battles-amazon-microsoft.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/20/alibaba-to-invest-28-billion-in-cloud-as-it-battles-amazon-microsoft.html",
+      "publishedDateTime": "2020-04-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-microsoft-windows-admin-center-how-it-can-help-you-manage-remote-pcs-and-servers.md",
       "title": "Microsoft Windows Admin Center: How it can help you manage remote PCs and servers",
       "excerpt": "With staff working from home, Microsoft's web-based server administration tools will help to keep the lights on in data centres and in the public cloud. Microsoft's Windows Admin Center (WAC) is a useful tool. Replacing both the on-desktop Server Manager and the PC-hosted Remote Server Admin Tools, it's a modern web front end to the management ...",
@@ -1254,59 +1305,6 @@
       "topics": [
         "Azure",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-plan-migration-of-physical-servers-using-azure-migrate.md",
-      "title": "Plan migration of physical servers using Azure Migrate",
-      "excerpt": "At Microsoft Ignite, we announced new Microsoft Azure Migrate assessment capabilities that further simplify migration planning. In this post, I will talk about how you can plan migration of physical servers. Using this feature, you can also plan migration of virtual machines of any hypervisor or cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/",
-      "originalUrl": "https://azure.microsoft.com/blog/plan-migration-of-physical-servers-using-azure-migrate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b1ef990c-46e2-4a1f-b878-3c9a016d9b97.jpg",
-          "width": 1024,
-          "height": 594,
-          "title": "Plan migration of physical servers using Azure Migrate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T03:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute",
-        "Migration"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-app-service-in
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-app-service-introduces-dangling-dns-protection/"
 type: article
 quality: 123
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1024
     height: 438
     isCached: true
+
+related:
+  - title: "Versions no longer required for Key Vault references in App Service and Azure Functions"
+    excerpt: "Version pinning is no longer required for Key Vault references in App Service and Azure Functions."
+    publishedDateTime: 2021-02-10T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/versions-no-longer-required-for-key-vault-references-in-app-service-and-azure-functions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 110
 
 secured: "U0hFKgsqYcWQuEL/zYo2JUGsj3BzogPxM+jol+Uac81kW8EPVTQFlM2yDX3ygNJ/q7nYZbx0q7V8O1DXNazDm+1qHTz67R7HsGxEqqO8vni2s2OM8mg98dc49og1agh6FhzYW07a7JXKUR08/u2tgMRMTKt2gGrLWbJVdhbvt1CGb6nkwaOevoPJGrMBjwZv7OH4aI4llKOJ7ILObnqA2wkjVnEYxUaP7iGV/sxUkdTOkYSDUtmxy0UxOxn3LIm5wxD/bNxHgkYPZ45URzcJQMafTz/3i/WHfotilxt5q1L12UWq35Ri/bJUGa1thiICsr9uYTy+1jAi9DcbotEpS25CYwOpsXtpU3hLpL6qqig=;HwQu/AP5zhaeGDQtigGOeg=="
 ---
