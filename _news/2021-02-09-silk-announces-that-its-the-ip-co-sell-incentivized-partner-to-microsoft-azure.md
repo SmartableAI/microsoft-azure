@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-publishedDateTime: 2021-02-09T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers' databases and mission-critical applications in the cloud."
+publishedDateTime: 2021-02-09T15:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
+webUrl: "https://markets.businessinsider.com/news/stocks/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
 type: article
-quality: 33
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/60231cbb2c16d.image.jpg?resize=269%2C224"
-    width: 269
-    height: 224
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -247,6 +247,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "FXZFHdLOBk6fUM+k+UItt28DfFQESJxlOR1aTWkN245bC7NLQB31bxHZ7NC8IuIQhj8geDq3QRf6hpZ7QGrqLRQtOEPX8fB53ywN9cYuDWrdZJCaWfRZ52ik6KFEmlpvjahCtJ5DCjHPUm1N2vZpP4PXDVJJkd5st5UtPdP1RAoPDvD/JXfcG9juFp+TGq+3+h/4VYjaJhd6GIcdrUYgLNeu/zbqdnew6u4QH3HVCJ1VU3jiFVCzzcHOY5vpzo4pZNSGwSu5RAU99cL31Z1/OwFEh4Hd+VTK3Iv0mH350GaA9PSEO9kpYzPVaQRockoFdcH0jgLkJM3eK4NGVt65k4J8R622ICha6yMSC8+AauBW2MqwlI27C9Z0IFnJSxKvXKRMHGN2omOxCigHh61qy0Lh7Uy2j2Q7BpCYj0moaLq8IlayOYfC9Lxdt9ydHkD33PBJrQHK66TGGVHjQdEhs8MFyK+5WracZwVBxCTnDlm75drTi7FtIVV4J5T20jQT3hRnrM7TRlok+euA+4ek7g==;3Ma5cVo71A1JmStDm17Jyg=="
+secured: "1fqzi4U7IgWeRzw7EwbOMbsWzOrst0nJy1G5qKVjmEuZAA+0gqpU8OTWaOJtcGsuimH5mNrRzUwHSL2sGqhdofIjtPXpA5FmGBb8qpe9bHfDmFOpOFJo5L7BI3u9JucltSLVynq9MBRxh4YZ2Y1cSV7qsZ6gt66mANEUrmWmKXr6+GKqasP3KVn1U/Tj1fwxcTmVN06zjdUt51YbvZaLvkrmL7d+tJr/bdbejPkPZMeagI0fSZG3HMKXYDYLkU6ji7O1FFF1CoG3PwfqseI8dHtHwT5EWDx9+tN9ZhW4Tdov8PkRCR1wbvrnXRJhoDMsfmYxGkcmXY4kT52COFDKM3GvQGgfdGW6TESnwti3SVQ=;uS6Puo6wUhEHzCcS87aglQ=="
 ---
 
