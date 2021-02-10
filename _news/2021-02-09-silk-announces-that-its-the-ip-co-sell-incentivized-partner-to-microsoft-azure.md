@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-publishedDateTime: 2021-02-09T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
+publishedDateTime: 2021-02-09T15:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
-    width: 269
-    height: 224
+  - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "mnzj948kSQHXGGlCn99KLEdbSWlQ5UdAwRiJ6ZT1GmqOk4SZVPNtyKOGqCzRt8EBg6QQnePgei2kg3oWVsDDfuGBjPN/L2LpdYT5v1M7mPEF+0kZYuJPnN7h568HdmXQLZTwCp63hMD4JqznVoIBgFbWyFfhSEQ8NAj59/dMLjuWvRrmsASgS7Zj7OkyW5vR8NYDz/wc+6w128kUQhsi3TDf99LVOEgD+WjW2j6Qn/Dv1sngSjCkGqixOL+EIBDDf98lYBLDfD3d1lUH34gbLJnZ/66NhLnKx4X/q2GxjKout4VLESraKeXKRmPYySb1oP/tGU63hqJ9Y/nTmFJg6vPyoeik3XsTXGyg6vjxUPYLGBuAi2fxe5fI+LdHZb5/2s56MdHcdILm7fs14vSZo1vcKC0fHEP5QwpYs1oO/Q/gRYK59nRHfwOZXNLK5GxuNh9U4JVoJ5Yh7mlpN6CgAOaGD28WQW7ZQaZXySh/2OmaBt1teidr7ZYqOx4BBli8Tysm6lP6HwrhdEwB30MdeA==;tfmPYkgUVSpZFHN+MTuAkw=="
+secured: "z2+NqE1dUiSqgpp1QZcJ/vLvU0Z0Qb0bt8/Zm/UIcfjSe6FSNuRoEIyBjm0IqGqBdfScQVdlAUat5fB9GqLDEQQyUUZFJyJ4a94yfvwyNJ3600pzvSfO1IdQIs1eUnbgDh6jhoBG49n7Owyb5EZRCSFtRdQae2GfOwPwIvTk+4VrCiQUsm+NkPtMRId59q5ZW/fJq3aLeoBj4AfJohuJiH1yd12S9OC90aAUxZUqcHjzabQHRUgYIA7wQxp7tj9LUMEaq24xiCI5QWRSwPKdhhIQLmDD7+o6ssQHNCm75ocHYzHjEetUK/u8btmwaBkNNepG9ludCVzecgtUVylrPdMw4hAU3GWYxG7gEqH2pgE=;vj/QpLXY+AIg7sUZQfwQGg=="
 ---
 
