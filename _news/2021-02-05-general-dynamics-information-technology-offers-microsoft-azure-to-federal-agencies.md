@@ -75,17 +75,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers' databases and mission-critical applications in the cloud."
-    publishedDateTime: 2021-02-09T15:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/silk-announces-that-it-s-the-ip-co-sell-incentivized-partner-to-microsoft-azure-1030061389"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -191,6 +180,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
