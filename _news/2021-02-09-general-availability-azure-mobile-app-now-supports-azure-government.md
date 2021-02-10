@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
-excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
-publishedDateTime: 2021-02-03T17:00:01Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
-webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+title: "General availability: Azure mobile app now supports Azure Government"
+excerpt: "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app."
+publishedDateTime: 2021-02-09T23:45:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
+webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 104
+heat: 344
+published: true
 
 provider:
   name: Microsoft
@@ -20,24 +20,15 @@ provider:
 
 topics:
   - Azure
-  - Security
-  - Integration
+  - Mobile
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/9fe2977f-67c6-4eb0-b476-6ffaff1f7e7f.png"
+    width: 467
+    height: 374
+    isCached: true
 
 related:
-  - title: "General availability: Azure mobile app now supports Azure Government"
-    excerpt: "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app."
-    publishedDateTime: 2021-02-09T23:45:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/9fe2977f-67c6-4eb0-b476-6ffaff1f7e7f.png"
-        width: 467
-        height: 374
-        isCached: true
   - title: "General availability: Azure Machine Learning Output Datasets "
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
@@ -56,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -143,6 +143,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "4Ag6k+E9HdlSRV61iw82jUGa8nQ+n7eZtbX1w7ipan5k2V8aX93mFEho4gmI5JDpYDBpFBry+QUKQa8q3uQBQIdN9irRGky6zdfWndK92slTFy6tDtDbkXh8p75EifFFpiNSTI79QN2nJmZMW0diX0wut0qOIfSiMLDuY8kxkY7MKNRpxM5YcEL9VHO7VBZlbZ80Z70u2Foa3dPUHJiwmzlZ6iQLFVJKvtRn0aBWyGI6GIPLN70Lj9bl7lvdjYgiTUZGQWHI25mK1UTdd182Om6TLsrowkYG5RrPC45jztZnneUaSBfm9FO4twJH+5etP/c3QdzrNxnErN2wwTrzIV6aci+5L5t9FvoOG0PhDbU=;x2Hz/3jFaWIXHt8LjivCBA=="
+secured: "ZHj8P728ELgfF4+UkgZAxKVsVH9GISYG+bZTzHWKCckw4EzMAYjxR2aAx/pTgTdxdQnTcfuQRHdivAG9ftf4Gu0fTapEPUTOml2FqHSPcrlFqWwLvY048MyuB1f0hO+HpU97ExDKFNigwzkkZ3HEsm4QJa6O4bKc9Tsd7BJ1kVLOxi6ePQ3+m7ynfbyCe7uLmtpsrOD4e+0rHjXjaAgoXW4Mx45Gdhox01rbMXhg9aFDm30smUpxr0PMWVu2oCPrkYqt3r8ixeKMy2YKxF3FHxGtOa7BZg4hICSu/kbhYMYuEHT2LeV0e8QGSoLmBxqj9khoflyF87IN2DP0xL+CmGsbeZbfjIZSG+umXmf98Ec=;E75LJ3Ki5USuosXNgkUKfA=="
 ---
 

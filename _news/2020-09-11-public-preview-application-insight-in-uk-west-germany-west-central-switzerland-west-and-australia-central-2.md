@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-applicati
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uk-west-germany-west-central-switzerland-west-and-australia-central-2/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-01-21T17:02:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-germany-west-central-uae-north-switzerland-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 38
 
 secured: "FXrqsoYn3gbZoihftgqX92nJAjmukLKquqYzwLNJzZItBbwY78tR2kN9JYPT3FRhM8ORJNjwO/jUlw6BrFYTri8wpUb93d5Zjb4iLzbcDjoMd4vq5jMnPlaLwtXeft7ECL8eTDoIpuW4zmGeY6LvLjanjz86eIAEk2xtsIQhoR9LjNCYnxNj4pQQ/rlK6VyavqdxLK98VUYOSdKg9Gt8SAP78/WXoeOsDf31SPKrT5/TUuANZBGm1TTJ+HM0Ij+JvmOodJbtP1/TK1tIDxkPsk5WkMY7Zcrn3pkAT5T7W7JDo4ZNSyI1wfjAYcCoeQqOBoCqCR6r5FRVEuvZBjmNsv7StV3ivL/UuXyoueQaxgs=;w63MQHjIJwpioU+pocI/hw=="
 ---

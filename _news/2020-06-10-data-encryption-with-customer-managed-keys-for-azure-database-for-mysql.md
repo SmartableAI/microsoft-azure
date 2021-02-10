@@ -21,6 +21,24 @@ topics:
   - Azure
 
 related:
+  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
+    publishedDateTime: 2020-08-10T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "Data encryption with customer managed keys for Azure Database for MySQL is now generally "
+    excerpt: "Data encryption with customer-managed keys for Azure Database for MySQL enables you to bring your own key (BYOK) for data protection at rest. "
+    publishedDateTime: 2020-08-10T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/data-encryption-with-customer-managed-keys-for-azure-database-for-mysql-is-now-generally/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 8
   - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
     excerpt: ""
     publishedDateTime: 2020-06-08T16:00:20Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-10T20:39:42Z
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-powershell-7-support-is-now-generally-available/"
 type: article
 quality: 67
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "PowerShell support in Durable Functions is in public preview"
-    excerpt: "Developers can now orchestrate complex automation workflows in Azure Functions using familiar language constructs in PowerShell 7"
-    publishedDateTime: 2020-08-19T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-in-public-preview/"
+  - title: "Azure Cosmos DB Management with PowerShell cmdlets is now generally available"
+    excerpt: "Manage Azure Cosmos DB resources using PowerShell cmdlets in the Az.CosmosDB Powershell module—providing full support for all features in general availability for Azure Cosmos DB and across all API’s."
+    publishedDateTime: 2021-01-21T17:00:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 81
   - title: "Azure Cosmos DB Management with PowerShell cmdlets is in public preview"
     excerpt: "Now in preview, users can manage Azure Cosmos DB resources using a set of PowerShell cmdlets, available in the Az.CosmosDB Powershell module. The Az.CosmosDB module can be used with Windows PowerShell 5.1 as well as cross-platform PowerShell Core 6 or 7."
     publishedDateTime: 2020-08-05T16:00:03Z

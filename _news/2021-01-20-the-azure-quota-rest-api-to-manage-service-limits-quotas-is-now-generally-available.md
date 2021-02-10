@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-apis-to-manage-service-limits-quota-are-now-generally-available/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Microsoft
@@ -22,87 +22,24 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Monitor Network Insights is now generally available"
-    excerpt: "Customers now have a single console for all their network monitoring requirements with Azure Monitor Network Insights"
-    publishedDateTime: 2021-01-21T17:02:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-network-insights-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "LIKE keyword support now generally available in Azure Cosmos DB"
-    excerpt: "Announcing support for LIKE keyword, a popular SQL keyword for doing text search in Azure Cosmos DB."
-    publishedDateTime: 2021-01-21T17:00:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/like-keyword-support-now-generally-available-in-azure-cosmos-db/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure Cosmos DB Management with PowerShell cmdlets is now generally available"
-    excerpt: "Manage Azure Cosmos DB resources using PowerShell cmdlets in the Az.CosmosDB Powershell module—providing full support for all features in general availability for Azure Cosmos DB and across all API’s."
-    publishedDateTime: 2021-01-21T17:00:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-management-with-powershell-cmdlets-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available"
-    excerpt: "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column."
-    publishedDateTime: 2021-01-21T17:01:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-  - title: "Azure Backup: Encryption at rest using customer-managed keys is now generally available"
-    excerpt: "Encrypt your backups using customer-managed keys for more security and control."
-    publishedDateTime: 2021-01-18T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-cmk-encryption/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Azure Data Factory is now available in two additional regions"
-    excerpt: "Azure Data Factory is now available in two new regions: China North 2 and South India"
-    publishedDateTime: 2021-01-25T17:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-two-new-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Automatic tracking of click events with Application Insights is now available"
-    excerpt: "Azure Monitor Application Insights JavaScript SDK Click Analytics Plugin provides automatic tracking of click events on web pages."
-    publishedDateTime: 2021-01-21T17:01:52Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-tracking-of-click-events-with-application-insights-is-now-available/"
+  - title: "Announcing general availability support for Java Message Service (JMS) 2.0 API on Azure Service Bus Premium"
+    excerpt: "Easily migrate your Java and Spring workloads to Azure Service Bus."
+    publishedDateTime: 2021-01-21T17:01:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-support-for-java-message-service-jms-20-api-on-azure-service-bus-premium/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 49
-  - title: "Azure Monitor Logs connector is now generally available"
-    excerpt: "Use Azure Logic Apps and Power Automate to create automated workflows using hundreds of actions for a variety of services. The Azure Monitor logs connector is now generally available—use it to build workflows that retrieve data from the Azure Monitor Logs workspace or Application Insights component."
-    publishedDateTime: 2020-07-21T17:31:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-connector-is-now-generally-available/"
+  - title: "Azure Quota REST APIs to manage service limits (quota) are now available in preview"
+    excerpt: "Use Azure REST Quota APIs to manage the service limits (quota) of Azure Virtual Machines (cores/vCPU) and Azure Machine Learning (in preview). Take advantage of this capability to query current usage and quotas for the supported resources and update these limits.\n\n\n"
+    publishedDateTime: 2020-06-15T15:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-quota-rest-api-to-manage-service-limits-quota-are-now-available-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Custom Commands is now generally available"
-    excerpt: "Streamline the process for creating task-oriented voice applications with Custom Commands (now generally available)."
-    publishedDateTime: 2020-07-08T16:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/custom-commands-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
+    quality: 11
 
 secured: "yi04M9bU9BM1GgSaCZ/yI69LfTd2RpBqQqmvlopjHCOz2tdxkigIfciPwBGCrX0Cw34u/ZNX/zDv1Q9NVz4r3NBPhAMecldHzct6VeGvXbbilyIYX/rr5avjyE8lXEfoW759CTZN8wIwSckvaM4M4m1jCMDMBjZwU6R6XCWsPt8gTb2IrwZpSmGAJydrdSkBh+UT8HZGpknCOi9Cg/zUUEYE5JWI/Pfaiip2KXSvTmIHZOchjr6wpFcg7bTu1w10uhnfB5pYohjH/pOvKWWEp6LFWHTdCErelzgoXkBuGrO5PL+z500atXwjeCFCBNcu5YlGySrLNDXr0uFPI8AzZNaYV2Pk1tWf8aFXiqhdx+g=;fVpmLBAA//y8tR9ipVO8gw=="
 ---

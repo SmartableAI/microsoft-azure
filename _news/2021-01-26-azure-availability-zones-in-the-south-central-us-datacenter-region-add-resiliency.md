@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-availability-zones-in-the-s
 webUrl: "https://azure.microsoft.com/blog/azure-availability-zones-in-the-south-central-us-datacenter-region-add-resiliency/"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,62 @@ topics:
   - Azure
   - Storage
   - Management tools
+
+related:
+  - title: "Azure Security Center—general avialability updates for January 2021"
+    excerpt: "New general availability enhancements and updates made to Azure Security Center in January 2021."
+    publishedDateTime: 2021-02-01T18:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Security Center—Public preview updates for January 2021"
+    excerpt: "New preview enhancements and updates made to Azure Security Center in January 2021."
+    publishedDateTime: 2021-02-01T18:00:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-january2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure API Management Updates - January, 2021"
+    excerpt: "A regular Azure API Management service update was started on January 21, 2021, and included several new features and bug fixes, along other improvements. It may take several weeks for your API Management service to receive the update."
+    publishedDateTime: 2021-01-28T01:30:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-updates-january-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
+    excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
+    publishedDateTime: 2021-01-25T17:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-extends-capabilities-for-encryption-of-data-in-transit-and-at-rest/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Germany West Central Availability Zones now generally available"
+    excerpt: "Microsoft is pleased to announce that Azure Availability Zones are now generally available from the Germany West Central datacenter region. Azure Availability Zones (AZs) feature in the broad portfolio of services and products that enable organizations to create resilient, highly available applications"
+    publishedDateTime: 2021-01-26T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/germany-west-central-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "South Central US Availability Zones now generally available"
+    excerpt: "Azure Availability Zones are now generally available in the South Central US region. These three new zones provide customers with options for additional resiliency and tolerance to infrastructure impact."
+    publishedDateTime: 2021-01-26T17:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/south-central-us-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "jFKGq730SJBRsKFibVp+MG+aImXN6Owb/Nltt66/+UMoZimPH/jJcl6kKSOxTZjGKOxOKuPT5Np2tc14bQt3BfpyAw2LL955IcYN1FXXcPjKsh4fIe+w7v12FcCg4NaVgWa+GW5hHEh41em5/YQLaAwncQDnoogWgqMppPl+YMKLYnDJ7ZYa9SyJ5m6evea46bKpLx4w0HNp7AdRKgs/TQUzAWcFmBtLluGP5Py6nSDkhQD7meRvppE18KroQov+BnJscc7RdQH8Db+SkXFy7RlbSS69wr/WU4YaapjhhH/tS+XwteJuokcfERXuV3JawK3Scc6gPPlTsg7zCHPeStu/Vgm3R77uOplfGcH7vwE=;g0yZu1ZK2zS/UOMdRruNXQ=="
 ---
