@@ -43,15 +43,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-      "title": "Introduction to open source database migration to Azure Cosmos DB",
-      "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
       "ratings": {
-        "count": 75,
-        "average": 4.7066665
+        "count": 1710,
+        "average": 4.2789474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -66,24 +66,18 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
+      "heat": 131,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Migration"
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
       ]
     },
     {
@@ -117,8 +111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 25621,
-            "average": 4.7843566
+            "count": 25657,
+            "average": 4.7843475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5537,
-            "average": 4.717356
+            "count": 5542,
+            "average": 4.7174306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 4817,
-            "average": 4.7591863
+            "count": 4821,
+            "average": 4.7591786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -250,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3815,
-            "average": 4.7496724
+            "count": 3818,
+            "average": 4.749869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -319,8 +313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5537,
-        "average": 4.717356
+        "count": 5542,
+        "average": 4.7174306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11796,
-            "average": 4.583079
+            "count": 11798,
+            "average": 4.583065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +620,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3129,
-            "average": 4.743688
+            "count": 3130,
+            "average": 4.74377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -835,8 +829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5537,
-            "average": 4.717356
+            "count": 5542,
+            "average": 4.7174306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -881,8 +875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5121,
-            "average": 4.6592464
+            "count": 5122,
+            "average": 4.6593127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1039,8 +1033,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3509,
-            "average": 4.676546
+            "count": 3513,
+            "average": 4.676914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1485,8 +1479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5693,
-            "average": 4.6158442
+            "count": 5694,
+            "average": 4.6159115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5121,
-            "average": 4.6592464
+            "count": 5122,
+            "average": 4.6593127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1646,8 +1640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5121,
-            "average": 4.6592464
+            "count": 5122,
+            "average": 4.6593127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1849,8 +1843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9255,
-            "average": 4.6972446
+            "count": 9256,
+            "average": 4.6972775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,8 +1928,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1549,
-            "average": 4.6642995
+            "count": 1550,
+            "average": 4.663871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +1971,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1127,
-            "average": 4.690328
+            "count": 1128,
+            "average": 4.690603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2058,8 +2052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3509,
-            "average": 4.676546
+            "count": 3513,
+            "average": 4.676914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2471,8 +2465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12375,
-        "average": 4.675879
+        "count": 12377,
+        "average": 4.6758504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2572,8 +2566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1254,
-            "average": 4.7192984
+            "count": 1255,
+            "average": 4.719522
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2759,8 +2753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1127,
-            "average": 4.690328
+            "count": 1128,
+            "average": 4.690603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3782,8 +3776,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5121,
-        "average": 4.6592464
+        "count": 5122,
+        "average": 4.6593127
       },
       "provider": {
         "name": "Microsoft Learn",
