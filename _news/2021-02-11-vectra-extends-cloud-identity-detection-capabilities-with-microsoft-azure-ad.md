@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
 publishedDateTime: 2021-02-11T13:08:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 51
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Identity
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -270,18 +270,18 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
-    publishedDateTime: 2021-02-09T15:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
         isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
@@ -335,6 +335,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "2TqBqwhL3cZne8/1DNpvoxjEaF3IzG28S53k0ACDZfUHeOmAFm7kPul8efN3FeSyeBdXu2qyxiPPcKnTMGgack0n1qsPbQ9LjeR0V8BYTiGWYLaciJpUqBxx7tqZdEsJqWl215iDe9x0ktEs3yKHatF9P65WuYB6B5ISPMJadU4jUDZbsAzOEf64hihrc4BdjrhICoC9fp5WxG0z2HYMbgnJSXCQ8eSgxMh0nv5DsOfFlmMamk0xViapJPmde+mV2cEb7cRaINLj8MTB49O8CV7yO8URAPj0qXrvps50AeCtkFifqaLN9SCJ0Dg5IzkTlWsrxo+c1p/AR2muKFT0Ip4Z4eSTCsTuGBxFZPgT5Os=;8zHaoE/g3EjthPx06QCbnA=="
+secured: "89nuFpCpXqh5e23OfJSynlTpt1p50mszwLo6hSbKiEBnqg9ekrnk7g2FxixPjxqwXDZC+7kVMMemh88UMWYLPVKNZNJiDHfz9GuAckM9o6KevwjKdj/jRYRXXsG3oIJBBoRUtKApqyadTkMCbaEbLepa/0opYN9FJ8W7UpZz/8cZ8DrZr0rU1z6ebDNFmriyYC9Jf4idT47gvjtaw3C4p6OuWq3/p7MN2Gqy9U8oFPa969cFV4EUmkxMkIUSmmpKl236R2qWsK6ZlcAGZiwzC9eWHafbr4JK1XbL5EW7ej8unoh9uLby79RedQJbNYXlkUKsDds75HpF8TKtO4Cc3E0OMcxNhOkmF8CEa65EmrA=;yTJAGWIgFnVn/Z2VWZerQw=="
 ---
 
