@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-    publishedDateTime: 2021-02-11T10:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+  - title: "Volkswagen Taps Microsoft Cloud To Advance Autonomous Vehicle Features"
+    excerpt: "By working with Microsoft, Volkswagen holds to increase the use of over-the-air software updates in its vehicles, something that Tesla has touted as a differentiating factor between its cars and those of competitors."
+    publishedDateTime: 2021-02-11T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-        width: 615
-        height: 384
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60254e5958e6f9dc146d273c%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "JeAL95nR0J8x4w9lsa2/ea2YbgZF5MR5AQjnNZ5krFS7Yy04fuCVKU/jiTz6mtMLlMcrKfWmvW1XWnrR1KTZX5zVkmBu5Lnsq5gDEEJ9tOLoEUuZIxjhqjb3KQRkpoChA7mKA6UFxJgP3WtUVzPQ96pFck77DDAWBDwE3DjeQf5lEwPvyFnJ3QjAzwjw0lSPIHwR5/xJzwUYqVwSanL7ro4VCwRdssNebc/PGpWumXfpO1dB+Gx1SErl/FXYUwIXTLvWasHYAdV91O9zOhC1MSAM0d1d8A8ZKdep5Y+ke2RkbVJgWstL82vsEX3M9n7REsPTGZwPVeWkZlEwVg1xcDMKN5DRzag79V4eLyMm5yClZiNF02qE9ab4x8cmJtw5YuMID/abDNbccm2ck47fxqEYxA+KS1odCNKZPziJvlrejvhL3cgmMbGDHRiajtxOt6YLiKbGn7UcCaoJMInU/1/07eesUlqTXt9kdmxpEdSNe/ju8EVaAZ+PqzM2QCO46see/dWv0XHBnVKca2WqHQ==;4aTmaOmVndhcn+oKNqkU8A=="

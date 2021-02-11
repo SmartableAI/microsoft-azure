@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Microsoft brings its Azure Quantum cloud service into public preview"
-excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
-publishedDateTime: 2021-02-02T01:00:00Z
-originalUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
-webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
+excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
+publishedDateTime: 2021-02-11T16:17:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
 type: article
-quality: 37
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
-    width: 971
-    height: 520
-    isCached: true
+  - AI
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -102,17 +103,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
-    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
-    publishedDateTime: 2021-02-11T16:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
   - title: "Singtel offers 5G edge computing on Microsoft Azure"
     excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
     publishedDateTime: 2021-02-02T08:36:00Z
@@ -245,6 +235,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
+    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+    publishedDateTime: 2021-02-02T01:00:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+        width: 971
+        height: 520
+        isCached: true
   - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
     excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
     publishedDateTime: 2021-02-01T18:26:00Z
@@ -334,6 +338,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "5nxToDyO818Cp4sjCY8E0la0RfB45OKzYyXucANsz3Uxn9eVTkBnOJHbkClL79eDef6TIFugGaePE+sSnIVEgCcilR4c7xuyHzD6NYh0k6SetYjg5ethS9INDV0mCPQ87JVfm9GrC9SCvISV5GWdn5g/GtMOWrBOkAM4eClHDiBCcDncRDcES/b5P5nQLFYJqxqtEIfupr4d4rOZMn5c7XBLro9ZQiLZ+CMiOvgPBxbDyoVgPCjKAln+24QuY0gJ9YgdTpAG84Ye1YT4Sx6ph27nOKY6BGr3RZy/lsVup7e8JRAECeemfrGgIo2O7xQOQiZlNtDhyD4lrKp6n50CfPGqqfZGp4+tHaO13C9vM121N6jxmZrrpULvJ9ARRGEn6ac5qk3ym3R8U9n58XqnUbZgSXz9ikKGaO0aGStjPXVIixBkAzRPxeOs9GbCYY5SdE9Kmjyviip7t8NXIT9u9tdFpmQugeEsRORXAc5+o0W2xQ1QYH3sDf6MNuubiLhKNHfr2uOFgTDn0sc7eVEKAA==;5YJo1RqC3SPl8Pz4eyzGDw=="
+secured: "uSau4ujlbWSmRYBD6o1CFiY2K9DMbltjlVVyh8yfC9rsS7lckF2gUawnzCM/b4rfRe4TaqxFx/9O+NRPeHkT0+nVf4uq6ljVeJlqkdVJX7Ic5z4ahvSImr6z5OdoRO/EoazbArxn013NvmmYfVQYoqdOFUZPLgiFIfdTgw3liOZvPWBfEtmjXLSPWUNP1FcE5ebJeUAPUBq88OiUyL34CZ7SK4x7Icc5vplUEix95OgSPakhh88Tus3jmoPLNo88/jeD+M1W7xGRjL8Z5TBjfLDTAG9XmDHOnst4PLpwIiXVa5xHdbwcXlKW6c32UjuwTG/QfVXTVcy1m8ZQhEBWFG0Y1iGxUDtirrg6WKT44wXjbvCHTy9mQIbb7QnzVp2Nda9XgoVEgFociWhf9gq4pB1T9e5XfDt7gCGJV1zltEBMGPU8l1NraAOhP6UIXmizjAGyZB9XY7nNGAuC/LOa82OVqCfbLkWlVZm8EENJFmhkUxkLKKEbvpJrzLss698s0prYLc1DGL2AXb703CMsoA==;WVld26xl5Ccmfi07PpPhGA=="
 ---
 

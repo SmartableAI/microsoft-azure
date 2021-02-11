@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-28-public-preview-support-of-azure-container-registry-across-availability-zones.md",
+      "title": "Public preview: Support of Azure Container Registry across Availability Zones",
+      "excerpt": "Announcing the public preview support of Azure Container Registry across Availability Zones",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-28T09:00:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-12-26-crowdstrike-releases-free-azure-security-tool-after-failed-hack.md",
       "title": "CrowdStrike releases free Azure security tool after failed hack",
       "excerpt": "... was notified by Microsoft that threat actors had attempted to read the company's emails through compromised by Microsoft Azure credentials. Earlier this month, it was discovered that the SolarWinds network management company suffered a cyberattack ...",
@@ -1107,49 +1150,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-azure-sphere-sdk-version-2011-is-now-available.md",
-      "title": "Azure Sphere SDK version 20.11 is now available",
-      "excerpt": "The 20.11 SDK introduces the first Beta release of the azsphere command line interface (CLI) v2, which is designed to more closely match the Azure CLI in functionality and usage.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T14:35:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools"
       ]
     }
   ],

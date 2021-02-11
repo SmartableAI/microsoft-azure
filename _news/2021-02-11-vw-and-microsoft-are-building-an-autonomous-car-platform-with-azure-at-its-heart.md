@@ -92,6 +92,17 @@ related:
         width: 1254
         height: 836
         isCached: true
+  - title: "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge"
+    excerpt: "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device."
+    publishedDateTime: 2021-02-11T16:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
   - title: "Singtel offers 5G edge computing on Microsoft Azure"
     excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
     publishedDateTime: 2021-02-02T08:36:00Z
@@ -327,6 +338,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "JSDlyNNxc6e+ZSV+pHOK/OkElfXsxd8xtAhun1MeWkAxtXWZC4m69rrWHnyArJwxphGx3/62EFri0TzK50uImGO8xkmz/9hMyOjG52uI16fp2ps+ABZ1m/paQCuJa6/FdglYiULj9vY3Jkj1tUw/GL/3yoy0voPaLtJmzh/NEaQx40CEcQXyi9Ln0e+2o1EzFRothWQ7ooCPgcYEnCV/rQi+39cVIqFUY5QrpbmsVqaT+dytCO8XqLfyPsCIvxQN5zwVwh63lvxTNbomV8pg2Qn5U58v00jqjJApWZ6bnkKZbAVYs2m4tEgZYq5ghi6c49jiNR6wuaWlDEC3v+DvqlJ4mNg7UjtKwt9updLy3WY=;AGO9AdRt0BhgkOvQmdihxA=="
+secured: "QKYa8M3NnEmF5KONiFsowCRBeAlN4N0X9vVMyitZ1IEqmUq8AmL1YMe+ujNe3o12A+mrSAj5/QpyciwsZeThI5S3fVftSEuftU70sd7vLBvZaomsaxGP1h3lp3y1Majm0PLLwYmGctTX83VGDs/Q2tenZu4KHnwhSxHl/ik92XWGqTN9nLI77xk5MFGZAXt0rL5YTNJz8TsOjSA2AYvW8TEH46qPmgOL81nI5pqXF0ReRgn7LzQunHpqU/0GI0gM2w991v68KPrAnjhi2STm97aNc0OogXH1lrbGoMby//s46H5MHxrr93gMNQs54/U+DvgNHmH+GUu8WXNpqM0uNKycea8avBbkTLiCuhL7jmPyT8BSIgOVNjGsZN3kjoAUwUas3opPUX5u3Bi9lBtf3wXT+bkhf0CXNIAgv9xNYU4tGUCuXGEi6q/kyObiiRTzxdb44ld4GvDd5n3CFN52ONI/sg44NFW6E0Q6pyZzkpMD2zIXvQwHmdVLXKkNdwfhNmLcD5vXhWyNRjQvI1VS3A==;Xv3+OSdpaihK3GdQqx1ZGg=="
 ---
 
