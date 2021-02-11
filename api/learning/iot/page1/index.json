@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-output-from-adt-to-downstream-services.md",
-      "title": "Output from Azure Digital Twins to Downstream Services",
-      "excerpt": "In this module, you will get to learn about how Azure Digital twins use event routes to send data to consumers outside the service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-output-from-adt-to-downstream-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-with-azure-digital-twins/route-output-from-azure-digital-twins-to-downstream-services/",
-      "length": "PT52M",
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
       "ratings": {
-        "count": 8,
-        "average": 5.0
+        "count": 12,
+        "average": 4.0833335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/output-from-adt-to-downstream-services-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -43,7 +43,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT"
+        "IoT",
+        "Mobile",
+        "Web",
+        "Serverless",
+        "Compute"
       ]
     },
     {
@@ -77,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26355,
-            "average": 4.7848606
+            "count": 26396,
+            "average": 4.7849674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3740,
-            "average": 4.771658
+            "count": 3744,
+            "average": 4.7716346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 2940,
-            "average": 4.7170067
+            "count": 2946,
+            "average": 4.7165647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2603,
-            "average": 4.7514405
+            "count": 2606,
+            "average": 4.7505755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -275,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 3024,
-        "average": 4.7728176
+        "count": 3027,
+        "average": 4.7720513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,8 +322,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 2317,
-        "average": 4.7621927
+        "count": 2322,
+        "average": 4.761843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +476,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40711,
-            "average": 4.7159243
+            "count": 40713,
+            "average": 4.7159386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -638,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7616,
-            "average": 4.6554623
+            "count": 7617,
+            "average": 4.6551137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,8 +882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2398,
-            "average": 4.6334443
+            "count": 2399,
+            "average": 4.632764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1449,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 730,
-            "average": 4.5945206
+            "count": 731,
+            "average": 4.595075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1817,7 +1821,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/iot/output-from-adt-to-downstream-services-social.png",
@@ -2330,8 +2334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 466,
-            "average": 4.727468
+            "count": 467,
+            "average": 4.728051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3082,8 +3086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-iot-edge-gateway/",
           "length": "PT1H40M",
           "ratings": {
-            "count": 217,
-            "average": 4.552995
+            "count": 218,
+            "average": 4.555046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3238,8 +3242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
       "length": "PT1H22M",
       "ratings": {
-        "count": 730,
-        "average": 4.5945206
+        "count": 731,
+        "average": 4.595075
       },
       "provider": {
         "name": "Microsoft Learn",
