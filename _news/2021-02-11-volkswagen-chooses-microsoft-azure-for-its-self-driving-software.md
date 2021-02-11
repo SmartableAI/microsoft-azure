@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft brings its Azure Quantum cloud service into public preview"
-excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
-publishedDateTime: 2021-02-02T01:00:00Z
-originalUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
-webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+publishedDateTime: 2021-02-11T12:00:00Z
+originalUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
-    width: 971
-    height: 520
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -81,20 +85,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
-    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
-    publishedDateTime: 2021-02-11T12:00:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 77
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -188,6 +178,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
+    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+    publishedDateTime: 2021-02-02T01:00:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+        width: 971
+        height: 520
+        isCached: true
   - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
     excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
     publishedDateTime: 2021-02-01T18:26:00Z
@@ -277,6 +281,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "5nxToDyO818Cp4sjCY8E0la0RfB45OKzYyXucANsz3Uxn9eVTkBnOJHbkClL79eDef6TIFugGaePE+sSnIVEgCcilR4c7xuyHzD6NYh0k6SetYjg5ethS9INDV0mCPQ87JVfm9GrC9SCvISV5GWdn5g/GtMOWrBOkAM4eClHDiBCcDncRDcES/b5P5nQLFYJqxqtEIfupr4d4rOZMn5c7XBLro9ZQiLZ+CMiOvgPBxbDyoVgPCjKAln+24QuY0gJ9YgdTpAG84Ye1YT4Sx6ph27nOKY6BGr3RZy/lsVup7e8JRAECeemfrGgIo2O7xQOQiZlNtDhyD4lrKp6n50CfPGqqfZGp4+tHaO13C9vM121N6jxmZrrpULvJ9ARRGEn6ac5qk3ym3R8U9n58XqnUbZgSXz9ikKGaO0aGStjPXVIixBkAzRPxeOs9GbCYY5SdE9Kmjyviip7t8NXIT9u9tdFpmQugeEsRORXAc5+o0W2xQ1QYH3sDf6MNuubiLhKNHfr2uOFgTDn0sc7eVEKAA==;5YJo1RqC3SPl8Pz4eyzGDw=="
+secured: "lcEHqLv/JurBL4NS8LA2xQJ8ewxMBnkCubJ88hhKh0LTMZKDVVB+kTgxSlhod3k7JCRG1sqlpE7k7mtFJiRHwhr4kBolXvtWIzv0rfGAhSmzUwIWuj+vVA7oFgfxIc71RV3wz8HKTlUV5ToRKEC8GykY9j+S6zXs3LE5a7PpNqboxYGxMJMewBfI1PEEVOMehgsrPMiVpxbiqeElWypwlpsApZ9Se0e8Neu9POoZwQWTL4JCg4TNFVp2fzSTBILZn3ie8SDp/7PhZ/b++2Pknjh7ON9G6PA+asIClSkU4YmJVB87K8IcOPqNzMugRZripZqchkGNVJ8Af5vLBf3LA7YLiWQE45i/hWqbglzQXfE=;RToHB1Bn1tGDdx+0iBOthA=="
 ---
 

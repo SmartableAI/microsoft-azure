@@ -71,6 +71,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z

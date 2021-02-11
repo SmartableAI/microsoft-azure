@@ -84,6 +84,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How do you pronounce 'Azure?' Microsoft wants to know."
     excerpt: "A new marketing video from Microsoft asks people how they pronounce Azure. There's some debate on the correct pronunciation of the word, and how people say it also varies by region."
     publishedDateTime: 2021-02-02T12:25:00Z

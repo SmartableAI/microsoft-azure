@@ -81,6 +81,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
+    publishedDateTime: 2021-02-11T12:00:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -263,6 +277,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "LJTBDhXDkjcW0f9rkFI0OD97Nc0sbNwtnMLmrU6006D6XXTh2IUgohj/i07dkMbmqPdXjowZSuhr0xLRlO7GlsE99WLx+Uq6wYWoRCwDl8fjsoW6d1AQIqdUbVs4yxNhBsvzGN5SrRSadBxhLf7I+zr3Oox/9fGFXLJCLxNKCCUqUNt7SVmTGGWdGEcZyqi+t30Px0xi1zwuSMTfTfYGkVd/qhrGDOyGR5AiTt9Q6JO2CSc6x+wQamqpEirsoGVQAQ4b0T9qsBfJqEEnb4kc8AS0OY2QwwprxqXwe7pOl24RWSL7Mx4yxrqpdBp4n1IeAUcEgu982Nj9IUdR/Vzm3PHu3l/7+PxJhgV/AkTmZ6w=;xwFKtFLL7ziUYhtt4Atleg=="
+secured: "fvHTcQOLn8cuiczxmGGYpLfXVf/H0jPZEFHPj/F4co1ffhl1+DQkRvJjdjnjVVoptkoYZqSufTIrVqJt1hcPiQjdiSO6938SU5nNvN4yMxuBlxIPqWlo4BfdV1PCYPXyVOvZRqPtWDDdqyINH+xGwcecu0PLGb2Hlyw2xMaL2z4jrWuLWFYlQBLg5HfsASK88GMafKQyBQN5OahhNcpV6Oc+wZSB2ry4WGY5cV4xSveTqg6/lvwc0rY3i69I+u6VWNLllK9/EPUB9sY0pmaTRkj2vyB9RG4JmbmOuoBL4HOcF63DjyhHjWIbTjS1fnIHpDEst8CA89uFcyflY8wn4v2UEEY2Yw4HkGc3vpUkpbOUzCe31A20EtukiCHvxL2ZSTPNb2zaXf0uQM82Qi4FsFwDYlKRvkv2CS/xZP24VQEcqpXSafbnnh2gBg56Ypwv8zlr51MlOpMLrXhDwtA7ops7I4pT+fC/Z2LRp8X20X1QEjmSM0z9KpSGDeAPLSEU5FYya0meQCZOUmuxnRZ9jg==;27AFaUxqHz1vLyCIsuQu8A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-stack-hc
 webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-stack-hci-in-india-to-empower-organizations-with-advanced-hybrid-cloud-capabilities/"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 768
     height: 512
     isCached: true
+
+related:
+  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
+    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 45
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "JeAL95nR0J8x4w9lsa2/ea2YbgZF5MR5AQjnNZ5krFS7Yy04fuCVKU/jiTz6mtMLlMcrKfWmvW1XWnrR1KTZX5zVkmBu5Lnsq5gDEEJ9tOLoEUuZIxjhqjb3KQRkpoChA7mKA6UFxJgP3WtUVzPQ96pFck77DDAWBDwE3DjeQf5lEwPvyFnJ3QjAzwjw0lSPIHwR5/xJzwUYqVwSanL7ro4VCwRdssNebc/PGpWumXfpO1dB+Gx1SErl/FXYUwIXTLvWasHYAdV91O9zOhC1MSAM0d1d8A8ZKdep5Y+ke2RkbVJgWstL82vsEX3M9n7REsPTGZwPVeWkZlEwVg1xcDMKN5DRzag79V4eLyMm5yClZiNF02qE9ab4x8cmJtw5YuMID/abDNbccm2ck47fxqEYxA+KS1odCNKZPziJvlrejvhL3cgmMbGDHRiajtxOt6YLiKbGn7UcCaoJMInU/1/07eesUlqTXt9kdmxpEdSNe/ju8EVaAZ+PqzM2QCO46see/dWv0XHBnVKca2WqHQ==;4aTmaOmVndhcn+oKNqkU8A=="
 ---
