@@ -1,26 +1,28 @@
 ---
 category: news
-title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
-excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
-publishedDateTime: 2021-02-05T12:04:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
-webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
+title: "Microsoft sharpens focus on hybrid cloud with Azure Stack HCI"
+excerpt: "Tech giants are betting big on hybrid cloud as customers look to cut costs and demand greater flexibility. In Q3, the top four cloud infrastructure service providers were Amazon Web Services (32%), Microsoft Azure (19%),"
+publishedDateTime: 2021-02-11T08:01:00Z
+originalUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci-11613029059060.html"
+webUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci-11613029059060.html"
+ampWebUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
 type: article
-quality: 25
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images.livemint.com/img/2021/02/11/600x338/microsoft_1559621351338_1613029274494.JPG"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -112,22 +114,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft sharpens focus on hybrid cloud with Azure Stack HCI"
-    excerpt: "Tech giants are betting big on hybrid cloud as customers look to cut costs and demand greater flexibility. In Q3, the top four cloud infrastructure service providers were Amazon Web Services (32%), Microsoft Azure (19%),"
-    publishedDateTime: 2021-02-11T08:01:00Z
-    webUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci-11613029059060.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/02/11/600x338/microsoft_1559621351338_1613029274494.JPG"
-        width: 600
-        height: 337
         isCached: true
   - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
     excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
@@ -225,6 +211,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
+    excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
+    publishedDateTime: 2021-02-05T12:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/general-dynamics-information-technology-sell-microsoft-azure-us-agencies-aws-defense/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 25
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/ConnectedSoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
     excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
     publishedDateTime: 2021-02-02T21:10:00Z
@@ -263,6 +263,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "SZxd3W/PwNb89TbaE0qjPfca6O7QguB+Akma6oKTTMN6SE/3BKQ+M6IuSbt6eNL+oF9KH+6qlyO6d7bx+wnBnELU+TPwqadwR46rqg1lzeq4zM2l/gt/HsRbctintd1JdyYTLK0JHHXsviD0vZhlv/qD8IQtm5amXjUu+jRWKe1CINdHSIAJyOGfX364gIYKNWb7AyBxiz6Lz5/kMdyQWMRfikSz8BA06fN9p9+BKXReCyOwRil8exswJfZ8NqJH6Wm4NcddDjwGP4nLIFmJlelkSNERFjQSTJrp82GEbccV1AkODVOP9Efa3WpXFD1+SoHadaqC4Qg6v1RU4TYuZRrNtOpcABA5oW4yuUNYPPxbu5XJM/gEauHddeZh3xqj9d2fyUTqW7LBlMoPhTTLOqgREOyMzjD5czS7gXFkU+HFKyqdzEpqUqwguQdea0dFz0Z6hiS8+j9mOU07If3I0a7CO0NWPHcdnzzTrenwAOO9VR/FelKNEBAL+To2hh98L9+tnknM9xNVi8GL/b4DxQ==;YvLvcmjZ8j0TY1AuB8I56w=="
+secured: "ocipZ7WCJFm9MF4o50u0Hbk0ll8z1ZwACic9Mq0ELTWikEb2olNquX1qwntneZC+pkBRADTk7E52peSuG52I86yMQWV2AkJHpbxwnTlqV+LEUgYb2wCS2VfwNcrJ8HiV0j+w/A5m0m14E+4ve5jwJmut2EbXSpmArZRGwL+Bk7rFZgYm46b0olQ6h+5js6iDTRmDFwSH2zvMaRHLVZrg3TOhXyO5IE1IrjUN4woJ2UIQ6O+SJ9PHAxju42e1IvI9iAz+vQ/uC54Bl/NXwisjNVpemmTxFkq53Ct9ebY6abx5650DcpL25uxe98oZu7zloHmkhIN5jdLU1GDXokE87Gg2g546P3CbKCNeLG3zMfs=;3hxV/zfOlU8YinRxyg+PRQ=="
 ---
 

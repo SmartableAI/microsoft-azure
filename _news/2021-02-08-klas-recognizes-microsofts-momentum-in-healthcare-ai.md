@@ -104,6 +104,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft sharpens focus on hybrid cloud with Azure Stack HCI"
+    excerpt: "Tech giants are betting big on hybrid cloud as customers look to cut costs and demand greater flexibility. In Q3, the top four cloud infrastructure service providers were Amazon Web Services (32%), Microsoft Azure (19%),"
+    publishedDateTime: 2021-02-11T08:01:00Z
+    webUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci-11613029059060.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/microsoft-sharpens-focus-on-hybrid-cloud-with-azure-stack-hci/amp-11613029059060.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/02/11/600x338/microsoft_1559621351338_1613029274494.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "SAS Teams With Microsoft To Offer Viya Analytics On Azure"
     excerpt: "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform."
     publishedDateTime: 2021-02-03T01:38:00Z
@@ -187,18 +203,18 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-    publishedDateTime: 2021-02-09T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
+    publishedDateTime: 2021-02-09T15:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
-        width: 269
-        height: 224
+      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+        width: 600
+        height: 315
         isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
