@@ -4,7 +4,7 @@ excerpt: "Run Azure for SAP workloads"
 type: collection
 price: Free
 length: PT2H33M
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn

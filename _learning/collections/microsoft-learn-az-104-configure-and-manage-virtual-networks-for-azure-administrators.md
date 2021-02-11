@@ -4,7 +4,7 @@ excerpt: "Learn how to configure key Azure network capabilities and prepare for 
 type: collection
 price: Free
 length: PT11H2M
-heat: 73
+heat: 69
 
 provider:
   name: Microsoft Learn
