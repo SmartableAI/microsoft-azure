@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-publishedDateTime: 2021-02-09T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+publishedDateTime: 2021-02-11T13:08:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
 type: article
-quality: 33
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
-    width: 269
-    height: 224
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -209,20 +210,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -271,6 +258,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -323,6 +324,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "fvHTcQOLn8cuiczxmGGYpLfXVf/H0jPZEFHPj/F4co1ffhl1+DQkRvJjdjnjVVoptkoYZqSufTIrVqJt1hcPiQjdiSO6938SU5nNvN4yMxuBlxIPqWlo4BfdV1PCYPXyVOvZRqPtWDDdqyINH+xGwcecu0PLGb2Hlyw2xMaL2z4jrWuLWFYlQBLg5HfsASK88GMafKQyBQN5OahhNcpV6Oc+wZSB2ry4WGY5cV4xSveTqg6/lvwc0rY3i69I+u6VWNLllK9/EPUB9sY0pmaTRkj2vyB9RG4JmbmOuoBL4HOcF63DjyhHjWIbTjS1fnIHpDEst8CA89uFcyflY8wn4v2UEEY2Yw4HkGc3vpUkpbOUzCe31A20EtukiCHvxL2ZSTPNb2zaXf0uQM82Qi4FsFwDYlKRvkv2CS/xZP24VQEcqpXSafbnnh2gBg56Ypwv8zlr51MlOpMLrXhDwtA7ops7I4pT+fC/Z2LRp8X20X1QEjmSM0z9KpSGDeAPLSEU5FYya0meQCZOUmuxnRZ9jg==;27AFaUxqHz1vLyCIsuQu8A=="
+secured: "2TqBqwhL3cZne8/1DNpvoxjEaF3IzG28S53k0ACDZfUHeOmAFm7kPul8efN3FeSyeBdXu2qyxiPPcKnTMGgack0n1qsPbQ9LjeR0V8BYTiGWYLaciJpUqBxx7tqZdEsJqWl215iDe9x0ktEs3yKHatF9P65WuYB6B5ISPMJadU4jUDZbsAzOEf64hihrc4BdjrhICoC9fp5WxG0z2HYMbgnJSXCQ8eSgxMh0nv5DsOfFlmMamk0xViapJPmde+mV2cEb7cRaINLj8MTB49O8CV7yO8URAPj0qXrvps50AeCtkFifqaLN9SCJ0Dg5IzkTlWsrxo+c1p/AR2muKFT0Ip4Z4eSTCsTuGBxFZPgT5Os=;8zHaoE/g3EjthPx06QCbnA=="
 ---
 

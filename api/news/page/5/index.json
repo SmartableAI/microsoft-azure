@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-09-new-enhanced-dns-features-in-azure-firewallnow-generally-available.md",
+      "title": "New enhanced DNS features in Azure Firewall—now generally available",
+      "excerpt": "Custom DNS, DNS proxy, and FQDN filtering in network rules (for non-HTTP/S and non-MSSQL protocols) in Azure Firewall are now generally available. In this blog, we also share an example use-case on using DNS proxy with Private Link. Azure Firewall is a cloud-native firewall as a service (FWaaS) offering",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d944b156-02e4-4e7b-94d3-94e85d72d8c7.png",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T00:00:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-advancing-global-network-reliability-through-intelligent-softwarepart-1-of-2.md",
       "title": "Advancing global network reliability through intelligent software—part 1 of 2",
       "excerpt": "In our two-part series on advancing global network reliability through intelligent software, we explain how we’ve approached our network design, and how we’re constantly working to improve both reliability and performance.",
@@ -1116,50 +1168,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-azure-key-vault-event-grid-integration-is-now-available.md",
-      "title": "Azure Key Vault Event Grid integration is now available",
-      "excerpt": "Azure Key Vault is now an events publisher with Azure Event Grid, enabling developers to subscribe to events about keys, certificates, and secrets changes.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T09:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Integration"
       ]
     }
   ],

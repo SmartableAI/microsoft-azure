@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-publishedDateTime: 2021-02-09T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
+excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
+publishedDateTime: 2021-02-11T14:25:00Z
+originalUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
+webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
+ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
 type: article
-quality: 33
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: SlashGear
+  domain: slashgear.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/slashgear.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
-    width: 269
-    height: 224
+  - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
+    width: 1680
+    height: 946
     isCached: true
 
 related:
@@ -55,22 +61,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
         width: 630
         height: 464
-        isCached: true
-  - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
-    excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
-    publishedDateTime: 2021-02-11T14:25:00Z
-    webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
-    ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 92
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
-        width: 1680
-        height: 946
         isCached: true
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
     excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
@@ -271,6 +261,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -323,6 +327,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "fvHTcQOLn8cuiczxmGGYpLfXVf/H0jPZEFHPj/F4co1ffhl1+DQkRvJjdjnjVVoptkoYZqSufTIrVqJt1hcPiQjdiSO6938SU5nNvN4yMxuBlxIPqWlo4BfdV1PCYPXyVOvZRqPtWDDdqyINH+xGwcecu0PLGb2Hlyw2xMaL2z4jrWuLWFYlQBLg5HfsASK88GMafKQyBQN5OahhNcpV6Oc+wZSB2ry4WGY5cV4xSveTqg6/lvwc0rY3i69I+u6VWNLllK9/EPUB9sY0pmaTRkj2vyB9RG4JmbmOuoBL4HOcF63DjyhHjWIbTjS1fnIHpDEst8CA89uFcyflY8wn4v2UEEY2Yw4HkGc3vpUkpbOUzCe31A20EtukiCHvxL2ZSTPNb2zaXf0uQM82Qi4FsFwDYlKRvkv2CS/xZP24VQEcqpXSafbnnh2gBg56Ypwv8zlr51MlOpMLrXhDwtA7ops7I4pT+fC/Z2LRp8X20X1QEjmSM0z9KpSGDeAPLSEU5FYya0meQCZOUmuxnRZ9jg==;27AFaUxqHz1vLyCIsuQu8A=="
+secured: "JSDlyNNxc6e+ZSV+pHOK/OkElfXsxd8xtAhun1MeWkAxtXWZC4m69rrWHnyArJwxphGx3/62EFri0TzK50uImGO8xkmz/9hMyOjG52uI16fp2ps+ABZ1m/paQCuJa6/FdglYiULj9vY3Jkj1tUw/GL/3yoy0voPaLtJmzh/NEaQx40CEcQXyi9Ln0e+2o1EzFRothWQ7ooCPgcYEnCV/rQi+39cVIqFUY5QrpbmsVqaT+dytCO8XqLfyPsCIvxQN5zwVwh63lvxTNbomV8pg2Qn5U58v00jqjJApWZ6bnkKZbAVYs2m4tEgZYq5ghi6c49jiNR6wuaWlDEC3v+DvqlJ4mNg7UjtKwt9updLy3WY=;AGO9AdRt0BhgkOvQmdihxA=="
 ---
 

@@ -44,6 +44,38 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
+    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 93
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
+        width: 630
+        height: 464
+        isCached: true
+  - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
+    excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
+    publishedDateTime: 2021-02-11T14:25:00Z
+    webUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/"
+    ampWebUrl: "https://www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-heart-11658892/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 92
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/02/vw-id-space-vizzion-concept-25.jpg"
+        width: 1680
+        height: 946
+        isCached: true
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
     excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
     publishedDateTime: 2021-02-08T08:00:05Z
@@ -167,6 +199,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 51
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure"
+    publishedDateTime: 2021-02-11T13:08:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -281,6 +327,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "lcEHqLv/JurBL4NS8LA2xQJ8ewxMBnkCubJ88hhKh0LTMZKDVVB+kTgxSlhod3k7JCRG1sqlpE7k7mtFJiRHwhr4kBolXvtWIzv0rfGAhSmzUwIWuj+vVA7oFgfxIc71RV3wz8HKTlUV5ToRKEC8GykY9j+S6zXs3LE5a7PpNqboxYGxMJMewBfI1PEEVOMehgsrPMiVpxbiqeElWypwlpsApZ9Se0e8Neu9POoZwQWTL4JCg4TNFVp2fzSTBILZn3ie8SDp/7PhZ/b++2Pknjh7ON9G6PA+asIClSkU4YmJVB87K8IcOPqNzMugRZripZqchkGNVJ8Af5vLBf3LA7YLiWQE45i/hWqbglzQXfE=;RToHB1Bn1tGDdx+0iBOthA=="
+secured: "r2i6OiqD5y/BSQQ29kw9gfhGWsHu6KexyKpDCo0F/NohzPFk856hbg8699e4AOAOpsZs8YoIQOFeXVfSdlMNsMaLceefES3h74Fai03hynQmW7RylwN8es1aSBwnK6M/L4VFGosj0boujxJzjF3HAqPgHLfMeb3lWjOBHFgf7nkADyyTqxXWOZ/UKJLpmPHq4i7xbwZ8q1DlGvSuMkCte6R9z0nJiGVOLU4O4Gi5NpbP/xnd2u9YwuyqMwd/gqtkwKKe4WZumYI3KOU+TYcX/acfashd7zCG/1u3gp8tt3rLmgOpG7PVFUvzZhQ2+AUfODeAk2WYWa1yK+2Ohg93IXqqpe6OqV1EpmnihTa3vERXoyiJjOYVUKVr5+nxPtcVcwcHSumYi8KqT148aiQvGkbM0Lx7e0Q0HmvQkMunawKRayOn/yX99tfuItB7qGjTyi8z0LKJA9VvtCcJ+B3RSmZCuE7OxczGK8IrzQRz7PYdO3SH0bu51rnUrEKT3V8mQWpc5p5VTQm6mx+KP5qVcQ==;lDlhaDc3EZtzlv67qKtn2Q=="
 ---
 

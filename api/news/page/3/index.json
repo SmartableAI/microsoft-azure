@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-26-crowdstrike-releases-free-azure-security-tool-after-failed-hack.md",
+      "title": "CrowdStrike releases free Azure security tool after failed hack",
+      "excerpt": "... was notified by Microsoft that threat actors had attempted to read the company's emails through compromised by Microsoft Azure credentials. Earlier this month, it was discovered that the SolarWinds network management company suffered a cyberattack ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2020/12/25/crowdstrike-header.jpg",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
+      "publishedDateTime": "2020-12-25T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-microsoft-azure-breach-left-thousands-of-customer-records-exposed.md",
       "title": "Microsoft Azure breach left thousands of customer records exposed",
       "excerpt": "The documents were housed in an unprotected Microsoft Azure blob storage and could be viewed by anyone with the direct address of the files, without any kind of authentication. Azure Blob storage ...",
@@ -1107,48 +1150,6 @@
       "topics": [
         "Azure",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government.md",
-      "title": "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government",
-      "excerpt": "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T09:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
       ]
     }
   ],

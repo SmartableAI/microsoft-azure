@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft will establish its next U.S. datacenter region in Georgia’s Fulton and Douglas Counties"
+    excerpt: "Datacenters are part of today’s critical infrastructure—providing reliable and scalable compute power for online transactions, conference calls, virtual classrooms, supply chain and inventory management, internet searches, and much more around the world."
+    publishedDateTime: 2021-02-11T06:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-will-establish-its-next-us-datacenter-region-in-georgia-s-fulton-and-douglas-counties/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
 
 secured: "IJzbrAa8TP4E7v5FF+Jzp13z5nFfnDWbYH98FlPqzOll49vMx304Qkqoc1ZiuJMaOaut/2hc3XUu0tIkK8h4joL4HN3y+WotOokSLx+LZd7Gzkw3dxWsIsFVa976I6/OKToQBAQS8cw2hA1q7dJPxr2wZfqR+GkbhTE/cDGXviHj+NlyTrKvp5q1X5ITyybaevipw25hfO1D4FKHL5Yg45aZ0h1SsYxxL8O9eRQmQfqP+qkCEEJs84ZjBt4NDiBUEX/0fFavSum62ELBHUPeY4vwbwaHbWbPhqlvhNGjH0R8/K/P4M8ZCvHUMLEJd/Mfim1XgVDINusJvLQiFAlNiE+gdM9jQWFecZOO6GrPdfc=;7deE5d70nVrro5thXwYg1Q=="
 ---
