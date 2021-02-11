@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieve
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
 type: article
 quality: 61
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,6 +22,15 @@ topics:
   - Azure
 
 related:
+  - title: "Azure Databricks Achieves DoD Impact Level 5 (IL5) on Microsoft Azure Government "
+    excerpt: "DoD Impact Level 5 (IL5) on Azure Government further validates security and compliance for Azure Databricks."
+    publishedDateTime: 2021-02-11T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-dod-impact-level-5-il5-on-microsoft-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Microsoft Azure Databricks receives FedRAMP ATO"
     excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
     publishedDateTime: 2020-11-30T01:00:00Z

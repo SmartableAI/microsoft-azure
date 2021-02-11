@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Databricks Achieves DoD Impact Level 5 (IL5) on Microsoft Azure Government "
+    excerpt: "DoD Impact Level 5 (IL5) on Azure Government further validates security and compliance for Azure Databricks."
+    publishedDateTime: 2021-02-11T17:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-dod-impact-level-5-il5-on-microsoft-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
     excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
     publishedDateTime: 2020-11-25T17:00:11Z

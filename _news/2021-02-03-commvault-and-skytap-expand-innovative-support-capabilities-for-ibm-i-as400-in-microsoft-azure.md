@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Commvault and Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
-excerpt: "Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
-publishedDateTime: 2021-02-03T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-301221112.html"
-webUrl: "https://www.prnewswire.com/news-releases/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-301221112.html"
+excerpt: "TINTON FALLS, N.J., /PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, today announces a new partnership with Skytap to expand data protection and migration for IBM i (AS/400) workloads hosted in Skytap on Microsoft Azure."
+publishedDateTime: 2021-02-03T14:11:00Z
+originalUrl: "https://www.marketwatch.com/press-release/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-2021-02-03"
+webUrl: "https://www.marketwatch.com/press-release/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-2021-02-03"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 64
+heat: 84
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/460887/commvault_new__logo.jpg?p=facebook"
-    width: 1622
-    height: 852
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "EbB5B2eWz+f7zLnbznR8S23MHjKOh7Y5F90RdfWzyiAFlgTsEgzVNE7z0uUpSrMqrg64EA7+ARLuhw3RbalX9JOICeBPZQraKbulINBIcgmOFLwXLOIHWYfJg0gCBge//dA3lW7A3WRT0gLE88wDojeCMZGW+vWGihwxfiHas3FI87XuuYOAwvy3PqbrYouzZKRwOE4DSG4LH6xmQGI2yj3JHn+bll+UeWAlDL3Om0us4dhwySz+azPVuf57rWSUKHt0PtaHid1+/JpYT+WZjV6Y03wxvNBlFrSH0AjG8o8lllKIdNPihq6ltXKrW6Yg32h1YCoJbAQJyT7anMIo9nbeOIcfn9knFG0YdN+D2QE=;HJ6eEHh8JPcNZII4ic+QZQ=="
+secured: "/IULSkz03hXzalcpk/0SrijN5HyX1qlOxZOoGrmEz0nKziIV1fSjZvrSwuw6GbcvYCNzwxJGkksiVb5zFayQa+S+enPc65XqaN1VGYXU/xygQavuTtY/TYd/kn3rX7zaJz98CcjmRGXtjTgIIob623vxYBgUSsk5EOtZ0hsTj21LryjTcozgUM2lYUPMb06yxYh857FeDNNZOpjoRT+1fguyp2S38gRHH23EF1H4xZwARYTv5JlDvTWuKizRI0s0XIsHa4cUC3ECkzwe63dREGLqxL70T3f006PPcrxOcYy8XYltCFf+lyoTyyxqGYEVejcDEZYVGF+MkzE15zZyeCWMg9QfqLzB8ONjv08DTTg=;1wwc0TEP9dWmtynDJdmusQ=="
 ---
 

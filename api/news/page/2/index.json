@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-23-generally-available-copy-blob-support-over-private-endpoints-in-azure-storage.md",
+      "title": "Generally available: Copy Blob support over private endpoints in Azure Storage",
+      "excerpt": "Azure Storage now supports copying of data between storage accounts using private endpoints. This includes support for the Copy Blob API and utilities such as AzCopy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-azure-site-recovery-update-rollup-53-is-now-available-january-2021.md",
+      "title": "Azure Site Recovery update rollup 53 is now available - January 2021",
+      "excerpt": "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:02:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-app-service-authentication-portal-experience-is-now-in-public-preview.md",
       "title": "App Service Authentication portal experience is now in public preview",
       "excerpt": "A new version of the App Service Authentication/Authorization portal experience is now in preview.",
@@ -1059,99 +1145,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it.md",
-      "title": "Microsofts Azure Modular Datacenter: What's 'special clouds' got to do with it?",
-      "excerpt": "Microsoft's Azure-in-a-shipping-container offering could figure prominently in its cyber-sovereignty and 'special clouds' efforts in the year to come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/01/04/47c6f569-83c7-45bf-86db-d69b30e6d5f3/azuremodular.jpg",
-          "width": 1223,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-modular-datacenter-whats-special-clouds-got-to-do-with-it/",
-      "publishedDateTime": "2021-01-04T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-azure-automation-is-now-available-in-germany-west-central.md",
-      "title": "Azure Automation is now available in Germany West Central",
-      "excerpt": "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T11:01:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

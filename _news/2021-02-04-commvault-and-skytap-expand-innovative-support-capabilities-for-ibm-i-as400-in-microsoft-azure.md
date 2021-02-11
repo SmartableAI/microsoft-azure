@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Commvault and Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
-    excerpt: "Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises"
-    publishedDateTime: 2021-02-03T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-301221112.html"
+    excerpt: "TINTON FALLS, N.J., /PRNewswire/ -- Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, today announces a new partnership with Skytap to expand data protection and migration for IBM i (AS/400) workloads hosted in Skytap on Microsoft Azure."
+    publishedDateTime: 2021-02-03T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-2021-02-03"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://mma.prnewswire.com/media/460887/commvault_new__logo.jpg?p=facebook"
-        width: 1622
-        height: 852
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bFLct7PckLGxwqPbbRHjClQa20dRFjZfZfC6m3ucm5Dm+b4CYpg15lbMs3U/6Lr1NVNzMp5il4aUI+yIhZzkBjCW8rFf/ZSwb4jqtAXt17X4wADmC4F/ml6vnjuW+HdckdaE5x6wCwzmLXg3JqqTA/KE0N8cnDaIIb3+2ZSLhKync8E8ZlvJTw9idVBeAS2+8iKQJAyaTFC9PLg0l208z/EXsZ5z8kigGZ9O5/jLUXMTrmqyAYvtq4Bv/5XQCLBGwOiPUAoI6dhIbSRROQ/3g09m/mKs4TyeZF+jOL1n+TWMKolxbhGx7SmBLjpWZuf7XHUubi7+pdpKynoVZVRbjaRf21y1kF0+20fMNfpQXqM=;9jDtIgBU43V+8Nkf+9R+gA=="

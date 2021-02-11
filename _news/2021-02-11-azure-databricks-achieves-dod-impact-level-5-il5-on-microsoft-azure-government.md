@@ -1,38 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Databricks receives FedRAMP ATO"
-excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
-publishedDateTime: 2020-11-30T01:00:00Z
-originalUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
-webUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
+title: "Azure Databricks Achieves DoD Impact Level 5 (IL5) on Microsoft Azure Government "
+excerpt: "DoD Impact Level 5 (IL5) on Azure Government further validates security and compliance for Azure Databricks."
+publishedDateTime: 2021-02-11T17:00:19Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-dod-impact-level-5-il5-on-microsoft-azure-government/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-dod-impact-level-5-il5-on-microsoft-azure-government/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 62
+heat: 162
+published: true
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
-images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
 related:
-  - title: "Azure Databricks Achieves DoD Impact Level 5 (IL5) on Microsoft Azure Government "
-    excerpt: "DoD Impact Level 5 (IL5) on Azure Government further validates security and compliance for Azure Databricks."
-    publishedDateTime: 2021-02-11T17:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-dod-impact-level-5-il5-on-microsoft-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 62
   - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
     excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
     publishedDateTime: 2020-11-25T17:00:11Z
@@ -42,6 +31,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 61
+  - title: "Microsoft Azure Databricks receives FedRAMP ATO"
+    excerpt: "Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program (FedRAMP) High Authority to Operate (ATO)."
+    publishedDateTime: 2020-11-30T01:00:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/30/microsoft-azure-databricks/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 37
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Infoworks DataFoundry to be Featured at Databricks Microsoft Azure Event"
     excerpt: "Theodore will discuss how AMN used Infoworks DataFoundry to successfully migrate operational and financial forecasting production environments from Hadoop to Microsoft Azure Databricks."
     publishedDateTime: 2020-08-31T16:18:00Z
@@ -85,6 +88,6 @@ related:
         height: 576
         isCached: true
 
-secured: "dsxJ3xSjwrN6tfCBbgGKjKXka+lL38evy6tjYp0Iiw/q3S7RBb4m3CjS+Q15kq1BvY1SMUeupZ/1THNzf4UMOKWU/G9o7hWh6DatQ2p5YqUOAT4DYw1hJw5NsYikdvK0zZA9uzLXRcyfi5hCgX5rlbIbQhik8huK0+XP0mnU0JPr+msLTr7a+iKpbruZwOliBos+O4qjiqmeUpkXGl+/GaxiE7PIg1wVu8vBos6FVEpYZ/xu9JdbqRRyn4pk7+u8E23uh3+8BA4XZKsxvKDBxFymdYG1+ZUlD8JhB+h02pCXDmR7DVlORzsUba6KhEUMZ0GabS1rymckmIY5B+Msr1aHES9n9eAgR7Em0YEACDQWfFVWqAcsEdA/nGcbXMftZXQd8FxFGJqO+Y7dzpjhwySL5wjMfnlLjBo/AzJRgIT5YBUnvz6ReRt8KOnq8AB5+WFPuE2LD1XIYhDHoU0PdRV2E5icstBq6VazzoY2DwJjvPR/GZbqlO/fwUeOO7n8F75p/PsTUeReA/pJ+aOUeA==;xBk5TeaJxOQFdgF0qQ5YDw=="
+secured: "6ROo3yUWKJM91EWb9i30bik79LsC7pmOF81PUVT+6FnjBGzG73JxUHJuwTSzMzwtV/AQ4DOWvByxV/Cq5NU0v0O+iTb+q1Tb6o/s6dvcMVYiZ0OKoRv1OLHqmorEIVBr5cIb/I1Ys15QSbaMSwefYIhwf+tfmSeR1C4GV8MQzoRi4oybdq6Aok2I/akG1JAwWZtsrDKDSiYZbmkVyQpHu9AnT1d/B+kXRsUh5x1WnU/6joVQU1M38/jES3ya4GV9p+AZ8Do32xnOonTFcw8GilJCFfRzfNwxpEuTViReMgV+Gf9KoG2uu2AojneB1+PgUR0ua+l4pJ1F7SsHmxx2yimbrMgPSX4p81gVlO/3u3k=;ZgWhFYJX9Y/VqMPCrh15nQ=="
 ---
 
