@@ -198,18 +198,18 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
-    publishedDateTime: 2021-02-09T15:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
         isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
@@ -263,6 +263,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "ocipZ7WCJFm9MF4o50u0Hbk0ll8z1ZwACic9Mq0ELTWikEb2olNquX1qwntneZC+pkBRADTk7E52peSuG52I86yMQWV2AkJHpbxwnTlqV+LEUgYb2wCS2VfwNcrJ8HiV0j+w/A5m0m14E+4ve5jwJmut2EbXSpmArZRGwL+Bk7rFZgYm46b0olQ6h+5js6iDTRmDFwSH2zvMaRHLVZrg3TOhXyO5IE1IrjUN4woJ2UIQ6O+SJ9PHAxju42e1IvI9iAz+vQ/uC54Bl/NXwisjNVpemmTxFkq53Ct9ebY6abx5650DcpL25uxe98oZu7zloHmkhIN5jdLU1GDXokE87Gg2g546P3CbKCNeLG3zMfs=;3hxV/zfOlU8YinRxyg+PRQ=="
+secured: "jCGSOSuxOjU5aRWVa+ZadvEbELKmlaxYSxbRRoOYdpwwGX5z96ka1ZLzbrFLcxCYN3DPoACT1A+ifGqBgW84fBGXLi0Wm2f7s5PnVajyDos1jBHGqvY45gjhvIDbaR972HMDYI0lrqcmheHohgMOzqCErODkpY9PdFVtV7JOLGGDF8d6kk3d54CESH8+4m1WnSj3vgJIqGTqPqFN/YwfETLY4lUWuUV3ydiPso5mncSVqLq8v8eMkboBnjoINFjuUGmCv2Zb8THzU3GM1jk2b4Aj5oXzbXHQsrLbISdeZkWf0uIa41fYio+BMlB9bGxwQ3gKqeGZtTDZRaxNbJzxqZzQil8YWn2r1lWqB7bCgc7hOywJbC4BBqYlNUjWhqDGJSZrUPmJL4vlBJ6cavCOHvmAPn/xto8MRwiupRLndG50ZFkZa0MIXdCWOwvEbX3F4OUO+s3nNrRs/6m+C73TJWbxsaOkGY9VaqmCQBKw/bDxEBeFzXbYefybzcp8ZX/wTOhxhO67arISzluZsJ9CUA==;BD21pIMzs9CXPL0ttNWw3A=="
 ---
 

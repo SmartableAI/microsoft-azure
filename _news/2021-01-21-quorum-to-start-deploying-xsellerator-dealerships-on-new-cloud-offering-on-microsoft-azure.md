@@ -252,6 +252,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Microsoft cloud strength drives second quarter results"
+    excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
+    publishedDateTime: 2021-01-26T00:00:00Z
+    webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z

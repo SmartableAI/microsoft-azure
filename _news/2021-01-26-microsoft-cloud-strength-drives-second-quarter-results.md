@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
-excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
-publishedDateTime: 2021-01-27T15:22:00Z
-originalUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
-webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
-ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+title: "Microsoft cloud strength drives second quarter results"
+excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
+publishedDateTime: 2021-01-26T00:00:00Z
+originalUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
+webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
 type: article
-quality: 77
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -88,6 +90,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
     ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
+    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
+    publishedDateTime: 2021-01-27T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
     type: article
     provider:
       name: Nasdaq
@@ -248,15 +261,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
-  - title: "Microsoft cloud strength drives second quarter results"
-    excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
-    publishedDateTime: 2021-01-26T00:00:00Z
-    webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
   - title: "Confluent Announces New Strategic Alliance with Microsoft, Providing a Fast Path to Building Real-Time, Event-Driven Applications for Microsoft Azure Customers"
     excerpt: "Confluent, Inc., the event streaming pioneer, today announced a new strategic alliance with Microsoft that establishes Confluent Cloud as a fully mana"
     publishedDateTime: 2021-01-26T16:35:00Z
@@ -267,6 +271,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "gFCddbb6hJ9t7POYTh76T09/jeLL2Xm+9NhU3Nuih1PXO2zswqWieKq/bgEqvoNYnCGEEVP3Cs+lAsnvZsrxuPzl/pKgbKPUB1jj7sAY3TxK3ey6NrL6qTRiKhPnZmV4xZbu0eHdWF+i5LKT5miQcLOHzpOuMoNneI1pxNS3/s0BRhYp5ZcEtYQFMVfe1nOZaVm1GtCEo6wPZxpGt7JEVubs/EyYUF7e/OBPxbER7h5IYAQ7IeKgReKL19strqy7kvgjWBf3PY4OswSWuAkB6LsQaCyy+rZ7vuNcEy+5p/FCTksOMCngkQN731W0t5T263tCTXo4NChvql7jBG+1JPQPfm8KmaKC8PcSBYUfBLI=;MUJv6rZxFqBMrEajSm8Xag=="
+secured: "tOkP76y0h2pY/ycwp8K84Ij1LGu/neFnSGoRMTetrmjydL56njqxeanbNVxybIJL7LuoMkAEIG1y9o8i6FvWlbYiHMdpO9s5EhMITasg38a9r57dgx43qjPDPC0MTjiFKZk1hzHO7gUk34uRrE+bMkS2zpPaBQlcn9jlhrSAr91DgE90LX5bIs1khZ3+D7G9OIyKGEMEJCL+2t4EAmYgAxlJktGypmjtfncc44Ov84uApsZsQvlU2LINMaVoo4Emm0EfS8WjW1NL36oqUBtjDKuMQIk98d1czG7dSwABeeyOIaDofJJvU0bBGD/f9nU9cO3y+z77K2sYzp5UGUyvSTkItGE84yAPd3+44ncvAwM=;n3xl4XL21TBD4RvhKN809A=="
 ---
 

@@ -257,6 +257,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 17
+  - title: "Microsoft cloud strength drives second quarter results"
+    excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
+    publishedDateTime: 2021-01-26T00:00:00Z
+    webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 2
 
 secured: "dPUUgJqpHqS+rgtURLV+IMa7fn9DSUbGIab01bmnj9VLFF/UihrwR3x/B0ZjDfdEMpcPRcJdAuZII0iz/xEHpj77bqVkJrhUbAQnmjmxdPebPx7sBWA+SwyvfHsDtOD6/PaIjP+kxEB++OvfcYLoJktm/SpX335qu690OdMBmQ4ikVhCmd10AF5fKJvIsH9it6cyKYMJInEo5x1LtWwV9Op8f7o229UDIF1WHXMYPix0krjLm/dmKWUirv/Bd0Nx9xj4vYG7QlG9NXc8n8jwfwGXf6OBfs8q0vH1zb6vIKl284bUkSISw1GGxNJGwWI/pvPXGkBih2nspW46UN1es8yeuV5xRnnRo49inIxTgG0=;CVgnylEMybWTKEFygvLxdA=="
 ---
