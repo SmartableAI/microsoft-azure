@@ -175,6 +175,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
+    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
+    publishedDateTime: 2021-02-11T21:51:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Google Cloud just nabbed another former bank exec as it looks to compete with AWS and Microsoft Azure for Wall Street customers"
     excerpt: "Derek White joins Google Cloud as vice president of global financial services after having served as chief digital officer at US Bank."
     publishedDateTime: 2020-09-10T13:03:00Z

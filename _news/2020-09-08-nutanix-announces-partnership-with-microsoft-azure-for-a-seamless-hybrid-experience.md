@@ -167,6 +167,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
+    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
+    publishedDateTime: 2021-02-11T21:51:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
     excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
     publishedDateTime: 2020-09-09T01:46:00Z
