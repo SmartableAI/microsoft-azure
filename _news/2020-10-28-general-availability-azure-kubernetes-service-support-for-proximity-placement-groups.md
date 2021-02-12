@@ -82,6 +82,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
+    excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
+    publishedDateTime: 2021-02-12T20:14:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/acm-for-payg-azure-gov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/177ba24e-a8f1-4bfd-96f3-80f6eb9a3ac7.png"
+        width: 2206
+        height: 1096
+        isCached: true
   - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
     excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
     publishedDateTime: 2021-02-09T18:00:05Z

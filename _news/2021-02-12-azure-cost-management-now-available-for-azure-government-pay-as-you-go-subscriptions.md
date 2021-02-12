@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
-excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
-publishedDateTime: 2021-02-08T18:02:36Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
+excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
+publishedDateTime: 2021-02-12T20:14:41Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/acm-for-payg-azure-gov/"
+webUrl: "https://azure.microsoft.com/en-us/updates/acm-for-payg-azure-gov/"
 type: article
-quality: 69
+quality: 80
 heat: -1
 published: false
 
@@ -20,7 +20,12 @@ provider:
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/177ba24e-a8f1-4bfd-96f3-80f6eb9a3ac7.png"
+    width: 2206
+    height: 1096
+    isCached: true
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -82,20 +87,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
-    excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
-    publishedDateTime: 2021-02-12T20:14:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/acm-for-payg-azure-gov/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 80
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/177ba24e-a8f1-4bfd-96f3-80f6eb9a3ac7.png"
-        width: 2206
-        height: 1096
-        isCached: true
   - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
     excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -123,6 +114,15 @@ related:
     excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
     publishedDateTime: 2020-12-09T17:00:15Z
     webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
+    excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
+    publishedDateTime: 2021-02-08T18:02:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
     type: article
     provider:
       name: Microsoft
@@ -156,6 +156,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "5JIuKFMiw43t1RCMDBSRE+bEhT5D5hmkzV9vg5ZzlyeRl+ySmmP25TMMnTRKmeW0Qo6Bgt2GSM07UVX7rakm/R9e6p8BB+Y9g4Djpk4Wt+9tEelnDlK+ArHRUE2L//v7daw0qpgMwr9+xKj/FPJlUSqpj5nzshqA178EM3K7KmzFHseDE7vR9qGjXawwmMbSwxINrObHSkG2Qig+StaaCuiv7y19qEGyMtDtOTir8K6MCe3xAMMS2Whfz03MFyLk/ar+rG70EZJmpuizafqApVXjboN1lzk3fgaSxFhwUejx2/Cyhm2M7c66og1mo22iGn2mOJBwVaV8TgW8tm3CkZyrWV4J4Kru1c4ZfsCN8fs=;ct1s5fqm6Lu/H3UWE+58jQ=="
+secured: "E7Up3hfLSrxqh8bDLvZXANdbZlDp77QqLv1z7XNQ4S5YCVh7WOo7jQvOx/obMJuqoJMSBdD8omcW2jL4Bb+htf5IYMFaBob1Ng8luqAJic0cIYfCoDcyDMVLE4G6OU4fVnAAvWe1K+uKTvqBQSMagurdPIcDGWYv474PSrEKH1GYFv5tLuHppDEOW6NmVdCSralmCeB+aCn652WE3tOoKwcjLQsklH/+dh3+nQV2J34DvSrGGrwQhCy9RY+T2ZmyEy8tfkag22LtGlUdg1NnHcTKhKCpCpdBBmn0UeEztht7O56Kcdt5l73hUNcL131T4+PkZbKF+2QkHhYh6kU68IKYRcBwVQaJkuLgw0IdR1M=;w/1KZMmdTXGgSIQ0y49Mgw=="
 ---
 

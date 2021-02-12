@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 344
+heat: 364
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
+    excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
+    publishedDateTime: 2021-02-12T20:14:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/acm-for-payg-azure-gov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/177ba24e-a8f1-4bfd-96f3-80f6eb9a3ac7.png"
+        width: 2206
+        height: 1096
+        isCached: true
   - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
     excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
     publishedDateTime: 2020-10-28T16:00:28Z
