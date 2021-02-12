@@ -136,16 +136,16 @@ related:
       domain: zdnet.com
     quality: 77
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
-    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform. As Reuters reports,"
-    publishedDateTime: 2021-02-11T12:00:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/131690/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
+    publishedDateTime: 2021-02-11T12:02:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_g1pd.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -354,6 +354,15 @@ related:
         width: 371
         height: 212
         isCached: true
+  - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
+    excerpt: "London – 10th February 2021 – Logicalis Group, an international IT solutions and managed services provider, has today announced its renewed status as a Microsoft Azure Expert Managed Services Provider (MSP). The Azure Expert MSP program is a global ..."
+    publishedDateTime: 2021-02-10T15:34:00Z
+    webUrl: "https://realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
+    type: article
+    provider:
+      name: realwire.com
+      domain: realwire.com
+    quality: 17
   - title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
     publishedDateTime: 2021-02-09T08:08:00Z

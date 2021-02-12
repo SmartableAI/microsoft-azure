@@ -1,31 +1,21 @@
 ---
 category: news
-title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
-excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
-publishedDateTime: 2021-02-11T12:02:00Z
-originalUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
-webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
+excerpt: "London – 10th February 2021 – Logicalis Group, an international IT solutions and managed services provider, has today announced its renewed status as a Microsoft Azure Expert Managed Services Provider (MSP). The Azure Expert MSP program is a global ..."
+publishedDateTime: 2021-02-10T15:34:00Z
+originalUrl: "https://realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
+webUrl: "https://realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
 type: article
-quality: 77
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PC Magazine
-  domain: pcmag.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcmag.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: realwire.com
+  domain: realwire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -139,6 +129,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
+    excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
+    publishedDateTime: 2021-02-11T12:02:00Z
+    webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 77
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel to launch Singtel 5G Mobile Edge Computing on Microsoft Azure Stack"
     excerpt: "Singapore, 2 February 2021 – Singtel is launching 5G edge compute infrastructure for enterprises, that includes Microsoft Azure Stack as one of the options, to deliver fast and secure 5G applications. Enterprises will be able to use Singtel’s Multi ..."
     publishedDateTime: 2021-02-02T16:22:00Z
@@ -358,15 +362,6 @@ related:
         width: 371
         height: 212
         isCached: true
-  - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
-    excerpt: "London – 10th February 2021 – Logicalis Group, an international IT solutions and managed services provider, has today announced its renewed status as a Microsoft Azure Expert Managed Services Provider (MSP). The Azure Expert MSP program is a global ..."
-    publishedDateTime: 2021-02-10T15:34:00Z
-    webUrl: "https://realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
-    type: article
-    provider:
-      name: realwire.com
-      domain: realwire.com
-    quality: 17
   - title: "Softline Confirms Its Global Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Softline, a digital transformation and cybersecurity provider, completed a progress audit in December of 2020 to retain its Microsoft Azure Expert Managed Service Provider (MSP) status for the second year in a row."
     publishedDateTime: 2021-02-09T08:08:00Z
@@ -377,6 +372,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "x3IozxOJ2RpGeoxMY+cH5eclCeLBcGFObWbt/iyktI3i/w5xWhsR8wYY68VVh+vo2yWn9XjUxvW/SkYP06Z4dFiW2XR5+HY15FJAoL9Nk8O6runYBEXKszl0vmxlfyW0AJm7p5xW/T/Ev+QfJsHZ5TdUYqbanMK7S2sZxd/LfrTDIESAB9UFbbg63FWxKNxu08p+IxZ4J49oJ6zkOQ8WCVg+PGkHJSQ4NChmd0CYEPpVGAxXubsg4xCmYThl3760/zB3sHP+66kArTy07SNkswCuw7EX9A0f1O+VHcqn0pEoTnOw+bIfWsRj3dGzQXhaYa8s0x1k479MfWiQldGgrqEWCFHJ2rKzGpTSMd4pNlI=;SKfM4olC3y886/Hp1Iz4hA=="
+secured: "XdWKrywd1sVJ+pWydF0rtMvDJRkEjK9k0ioSpCVZhY4+431uVJGwjvQR+BHGzt3QB3vQ1sSBQqxmfPfMEQ7vlDJbRcVe97MAvJsqocgMeD5FZsH5cryw1oVzfXKYieocw04LpdH5Xot5FQMSqVDFf/xnD+VP2Gy78jLuX+mXy+gUAPTlInK3/bfbALuuh7qVBn1KJtPdHL+Y7FbVnkwTYb+S9SOhHgBq097mdodfWMFXX5CONOPOtNE7F68pFmkTABT6AkGWnBufaije8od7QiRB5m6zYKIA5KqXLwUM7gpanlgJskmNDzIlUUtINDzG23vU7uLkVEJ8yHzVJVy/MbTEt9rLjxHpxRi9UvZIs4I=;1Y+shcSqfyB8hKR25VoHIQ=="
 ---
 
