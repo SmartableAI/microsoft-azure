@@ -1,21 +1,27 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
+publishedDateTime: 2021-02-04T18:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -269,6 +275,20 @@ related:
         width: 2300
         height: 1293
         isCached: true
+  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+    publishedDateTime: 2021-02-12T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z
@@ -344,6 +364,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "J8zROb3wZpS5NvhRlBYaupShILFbDMxotexDaKQJPuuVVsMCZCWIEl6FpefHRjcu+Z+G6gjIWL2ej+efddGC45xou7XQ/h1d+vreWuK8unm/2jVpksS1qJNx5u2aMaxdyi6WXRmfk25brPx1gTTo3E4iPK9V9Yj/KvCT1GQoI4OLbZol3S2eBMi7xPPf8LkiEHgs+StkgtmGWYoko3ttzhWHScheERWrkmp/YbXs6olzAS0D6IQ3XAcXXEs00VSyHFH2W0gaGig9iFF3Lf9ljACmiET5KOWZFBe7HSIep/lQbCmdMgcms+mjjjCf3pE43ktibWGpp3h/VLGLhSK3HhxQBqEOIvYlqpXd0NbDZik=;YlGPa+wQOjPRc+/Qm6PHKA=="
+secured: "Ro4XbLd1fiO2KGpGEEhdt8Vu2L3oZquGjK6SGenbS1EXm8taESHMRAtyfXfz71/aC7QnBvZpBcRo1kwq8FN2+H7AsV3nDZYkiAGEUxakxEwVQSRj1APrNnjJgFZ1vXfxa92T7qv6F7EoDUcqIbkbrsn7tpcVFooTVQU7fcwVTPaLsbQzBK5UTfG2kIjbAJB4CWt1TCM1xPbCjv44rRBfYzyXl/yQXEakyA6IfZ4OulK2BnA3hKH/3zQspl7cR2eQGdbeJAuIB1I6rhg6kjibdRyQFchCVMxtwPdItoLVSQYhYR1uz8QfCdF2jNGqqxHiiiRs1eDIIp4Atc2jOOEXEsewyruuDry04/JAPeIRmDI=;0qX+QbaCORZFXpapTFPzgQ=="
 ---
 

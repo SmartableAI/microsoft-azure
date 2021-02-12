@@ -222,15 +222,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-    publishedDateTime: 2021-02-04T17:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -284,6 +275,20 @@ related:
         width: 2300
         height: 1293
         isCached: true
+  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+    publishedDateTime: 2021-02-12T10:50:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z
@@ -293,6 +298,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
+    publishedDateTime: 2021-02-04T18:56:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -345,6 +364,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "VLdKCfyctuhneZI07ExxEQJiZVSHOUJ3/CjzLr5wIh6zqw2rhdEwasre22qlcr3HN+2bwY5sYSjHfkNPn1OMVV2MlscodDTl0vvpSZhcrZWWyhf+sacNfM88oNO/u+P8MG3Mmd5pW3Wfd7zadvaNHDhvlodV43sBFfYUBy51ihxR0H11vBq8/DNOIWR8lyrPrHlxJ2NDa+I9Sbcsdgltk/6aCkwbBfeuKWyuwxru+flQGFgkHY/Krn/FR8kVHHA8RsF6JNtqJ0/NtLJun4JjMVEPlFVOJbbrkMYj9bqb1qdNDo2naXFjyRpOh1UlUS9oOtYrB6Z4SK+xigOphCV58b0uXXfSspmnatLowDjU87g=;ENJHW9Y4fOA3Rcca2EC5Iw=="
+secured: "wVj/PtynjlKvU8sr0K7otQqZhaG0AWodpfcRG7rkmwlO1docbOquzGdNCChgEymmXImuOqdY/Lx3SYid5igwHGE9LXcpWldSOA7TQ8nLd6JF/wjneYbEWCAlaMW78Y8teaBpuB9FaJrLYMVE6Fcj0Cbg2VPH5yU5+zNC7u11fLgj52qP4ceibfY8Wt+MQ7sKjzGi4j8i+EmZYrF1/8NQttcPi7z5AdDtIwSKHKgDqzImIKWMiZuXo953vI7ed8NuLJJzQFnV8OMXGk3mbVteMn/V+qt34KV+0ogLoPrt2do3FN+zev+E1kMr8lEJYkIOnRVuCIElDv/PP5g3u9NH99Urn20qm1ccgV5NGY/zTrU=;klQVtCQePoM8rM3Sp9Wk0Q=="
 ---
 

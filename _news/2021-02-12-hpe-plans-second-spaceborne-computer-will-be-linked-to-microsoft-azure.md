@@ -1,26 +1,26 @@
 ---
 category: news
-title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
-excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
-publishedDateTime: 2021-02-01T18:26:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
+title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
+excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
+publishedDateTime: 2021-02-12T10:50:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
+webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KMWorld Magazine
-  domain: kmworld.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-    width: 772
-    height: 594
+  - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -247,6 +247,20 @@ related:
         width: 971
         height: 520
         isCached: true
+  - title: "WinWire builds COVID-19 vaccine management solution on Microsoft Azure"
+    excerpt: "The Vaccine Management solution empowers healthcare organizations; simplifies and expedites vaccine distribution, to create an immune and healthy world"
+    publishedDateTime: 2021-02-01T18:26:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145017"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "How auto-scaling SAP on Microsoft Azure is benefitting Microsoft"
     excerpt: "Discover how a team at Microsoft used auto-scaling SAP on Microsoft Azure to optimize and reduce the company’s internal cloud costs."
     publishedDateTime: 2021-02-12T00:08:00Z
@@ -260,20 +274,6 @@ related:
       - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10145_wordpress_hero.jpg"
         width: 2300
         height: 1293
-        isCached: true
-  - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
-    excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
-    publishedDateTime: 2021-02-12T10:50:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/hpe-plans-second-spaceborne-computer-will-be-linked-microsoft-azure/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/HPE_Space_borne.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
@@ -364,6 +364,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "ZCev5XYCrJmCEPTGPu/BVHIGABVJVeLI1clqiyo0LA8lwRs3fXVmWJkNo7/ALT1aDXSG+ecWA4ntx7LCnWCDPMLkVGZcws3I2MLoWJvju0fcEunhbZkPo9ISRk5jucu+YJWz3Oa1Cqm2JIYWKgDKih19oWN5I5mEeeOJlZ1W7ps8x9UO3w7uPQnU+om4h0CBT7uCm1EOCZj/D21o/kzMnfHpvT9QUyfmRVnTvTg9oa+L9ptuWQ8eDntM4IWTexlfIMrtZT4xA600BhcZ9oUxaB+PYoYrg/D2ncyIh4q2vEFWQOfoHsNjUGqGVA2k/fWkBP6taPXZlbCBIWxIhuGYcGXmxECCNPrYeCGJg5YIZ1Q=;cxR4kNYEwdrTYUvupWjnyQ=="
+secured: "/vf5fcrMefqBc+HIb38lKVPAOvtPNVpbML3PBrAeCBNNb91KwNrDyYuPGXsCEhvR77WcP4U8HcLyiyn3y5fQaxkaOM/QuFsfGHoWcKWAcdCPrVrIgwR/MYk1cJq2pjZO3RMcK2NbnQeWS0h6okzPDMBBiHUT/glVmgOsDCh0sqTZQFONQhD12cCJaQ4e9LWRb5dSNz4NnZAyyGHkNr3RqcsbmGXUDki9yAWwCpmxB6bP8kCNOkD/eQliJJ1aF6jgg6CQZL69HJq0wxDCCqcxpdvr+jlSDiN8U8txYV4x8gQzWgIesg/BK49uA+aDFDzzCY1yJougUIGA8iP3uWrNWSbJ+qtKVdG5ilZ0QN2Ett4=;2FZn25zKkX8DEsGM05Ypbg=="
 ---
 
