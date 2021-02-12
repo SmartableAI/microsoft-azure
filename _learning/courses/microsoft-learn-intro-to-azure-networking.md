@@ -8,7 +8,7 @@ length: PT28M
 ratings:
   count: 45449
   average: 4.767102
-heat: 64
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,12 @@ topics:
   - Azure
   - Networking
 
-secured: "Y2T4RdsPgHpXN2CpiMr/o4yyC3oAhUm1Xasu3JW3PYf33Qrg99T5hCCqwS7xXEbklsn0pQzS7XDExk9f/P01NxwXcL1gxo4PyxoaS5VkNnhQaQhGAG/8kB/3Ae7Qv1dgn7OVwzevcymxwZAWblTCLm2riAz6+79QmCTpOdvDStygO0YZE4Xau7X0Gwsp4AwTamUOIhSIO++JTQ8winjmNLIXPsjj/1QGEKTyqfeNphPsQpIMRDnGxDpS6kzHDfGkHi4MHjRnHsboZc9CVSvSn2Jefg5g/UMFF8dp8xU91GXoXSeg6YqjbYg3Fcouzo9hShW+YyW7kBqd72vExJANn5UOYHDa58m8a8ze4+j5x9/H0q2J2sbtaEa0dkjanOmdrNtCAKxmMaTepMQ0Ur6d0pg6jv1kbBNQnTNOvDviOtUJ5AW0jGe1lhaEmzdcBJtE;nLzGiJ4N7si4YaB76mOYrw=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "Qsqw3nbwHXoU/5Qyra3g6qt1fOvWvfwmIZL4AIR74eVMoDmtapamKFxzhAyM6MqCiprmuxzCk7BE6aCseKJ8CiCteanZQGNiqeeXLcI1Z/dOCo9ZZ01ajUy8Y66Hu15xrCEfe7LzNRhQj/7yPSxHol4DrgwcjMDRJg8eXpWp8O3BniuHNcV2VswvcEGBqYjMh1B0DTcUx03EmpgctkFyIy+gTKrJySB0MTnCudNkkTqeURHv+IfWzJEyc+r8sNYB0xs3rPNiURsuTtGE4qLhB1PkQwuKzRDEEOyifopb8tX4UXM60bN3ejr3IjhD/XiP2JaoBSdODbZXc+khr+liLL15uSjVsPi65K5dRjuR/JZHLPJuDIsFbqz5UlZYDRLdlWtwECdvonWnBT/KBQ3ydbrA/kPoVLgGAQ/QX7PPIjnYgJj6c5d0FWZcCvUj94Yq;YlkiE8hzxfe726WedKmU/A=="
 ---
 
