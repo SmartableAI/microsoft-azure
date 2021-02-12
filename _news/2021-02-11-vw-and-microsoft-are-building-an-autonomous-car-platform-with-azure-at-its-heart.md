@@ -284,18 +284,18 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
-    publishedDateTime: 2021-02-09T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
+    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
+    publishedDateTime: 2021-02-09T15:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
-        width: 269
-        height: 224
+      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+        width: 600
+        height: 315
         isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
