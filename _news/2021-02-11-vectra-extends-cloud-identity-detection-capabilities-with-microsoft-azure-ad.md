@@ -254,6 +254,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "How auto-scaling SAP on Microsoft Azure is benefitting Microsoft"
+    excerpt: "Discover how a team at Microsoft used auto-scaling SAP on Microsoft Azure to optimize and reduce the company’s internal cloud costs."
+    publishedDateTime: 2021-02-12T00:08:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/how-auto-scaling-sap-on-microsoft-azure-is-benefitting-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10145_wordpress_hero.jpg"
+        width: 2300
+        height: 1293
+        isCached: true
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z

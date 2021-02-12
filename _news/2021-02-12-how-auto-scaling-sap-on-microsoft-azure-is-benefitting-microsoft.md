@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
-excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
-publishedDateTime: 2021-02-02T09:41:00Z
-originalUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
-webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
+title: "How auto-scaling SAP on Microsoft Azure is benefitting Microsoft"
+excerpt: "Discover how a team at Microsoft used auto-scaling SAP on Microsoft Azure to optimize and reduce the company’s internal cloud costs."
+publishedDateTime: 2021-02-12T00:08:00Z
+originalUrl: "https://www.microsoft.com/itshowcase/blog/how-auto-scaling-sap-on-microsoft-azure-is-benefitting-microsoft/"
+webUrl: "https://www.microsoft.com/itshowcase/blog/how-auto-scaling-sap-on-microsoft-azure-is-benefitting-microsoft/"
 type: article
-quality: 34
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Mobile
+
+images:
+  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10145_wordpress_hero.jpg"
+    width: 2300
+    height: 1293
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -254,20 +263,15 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "How auto-scaling SAP on Microsoft Azure is benefitting Microsoft"
-    excerpt: "Discover how a team at Microsoft used auto-scaling SAP on Microsoft Azure to optimize and reduce the company’s internal cloud costs."
-    publishedDateTime: 2021-02-12T00:08:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/how-auto-scaling-sap-on-microsoft-azure-is-benefitting-microsoft/"
+  - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
+    excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
+    publishedDateTime: 2021-02-02T09:41:00Z
+    webUrl: "https://www.telecompaper.com/news/singtel-to-launch-5g-mobile-edge-computing-on-microsoft-azure-stack--1370806"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10145_wordpress_hero.jpg"
-        width: 2300
-        height: 1293
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
     excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
     publishedDateTime: 2021-02-09T15:00:00Z
@@ -343,6 +347,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "CPrrScnEIZcjTqozoMNytB84WsEHEqiX4X2AISbE55riKkAw4oikwMmhQ9Q7S5J4ku/rDzjeSxKemqCxfBjVeFgYD+BvdvsXA3pl6vYG4NMouagyKX8b3oOMWaXCX+ulyeEHJ2EgSfsS/usDAc6ipL2yKPtn4Aoqqs14ZZbtwmIGk5HQnqBTayUOhNI8bnPQVEgFsqsHAcd6RHSkdGCOM8tpTGjTRPEQaKS+14DHI8mcPVTBye2wVMJR5nxihR+UZvhz0+Fow+/XsDhhmaWpllQYWg/o8g2xue5jEF3JOFCPMNsMsN7UFKaxFG/dgN4F232IujxI+T6KAKDsofCytYiftsrLoEORC8QfubDlXH4=;LHCxM+HtqD1WZSdGzqXRpA=="
+secured: "jeWvfIKyLejbY5ozArDWdm1LuzcYGP3InxDB6kgKGr2Sela1pJUJfgPM9Qy6rrtvlnV5JDKCLPqTWig/hstXHR24wzUVqNQVrEqWOO0FOKCtfW3CyCdtLH6Tyr3zT1Cez/tj3yBJZL/1qd6ov1dkVepvCoYLW4qcTvlKoTdeBq90JJN0CyFRnDatwfDUi3Wovd8+yFeVR2Nx8s6Enr6DRJytd0sdmJslPB9x/2gFb7WMA8P+F71SnK3ep7NG5p2gVsIu6MOUKtC+BnQdb+RvwGAzitfnwdffyEDsrDlWlI9WWPKI0zJe+hkCA/YOaSrkDBSDLm+jYG5Qkd5w/Yr85Q2wJHGx7ZjdAI7ihwlADW0=;bebDen+48sxtDJs73viTRA=="
 ---
 
