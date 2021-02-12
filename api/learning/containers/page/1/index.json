@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26396,
-            "average": 4.7849674
+            "count": 26432,
+            "average": 4.785033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5694,
-            "average": 4.717246
+            "count": 5698,
+            "average": 4.717445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 4952,
-            "average": 4.759087
+            "count": 4959,
+            "average": 4.759226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,16 +229,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series.md",
-      "title": "How to manage applications in Azure Kubernetes Service | Azure Portal Series",
-      "excerpt": "In this episode of the Azure Portal “How To” Series, learn how to use the new Kubernetes resources view experience for #Azure Kubernetes Service to quickly deploy and debug your Kubernetes applications.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-manage-applications-in-azure-kubernetes-service-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=YfARHb52Bp4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YfARHb52Bp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M20S",
+      "path": "_learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes.md",
+      "title": "Introduction to Azure Arc enabled Kubernetes",
+      "excerpt": "Introduction to Azure Arc enabled Kubernetes",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-enabled-kubernetes/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 8,
+        "average": 5.0
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -249,22 +251,23 @@
           }
         ]
       },
-      "publishedDateTime": "2020-12-04T09:00:11-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YfARHb52Bp4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-enabled-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
         "Containers"
       ]
     },
@@ -276,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 4952,
-        "average": 4.759087
+        "count": 4959,
+        "average": 4.759226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -344,8 +347,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2303,
-            "average": 4.716891
+            "count": 2314,
+            "average": 4.716076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -387,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17032,
-            "average": 4.6961017
+            "count": 17034,
+            "average": 4.696137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -422,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4477,
-            "average": 4.7129774
+            "count": 4479,
+            "average": 4.7131057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3334,
-            "average": 4.714157
+            "count": 3328,
+            "average": 4.715745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -539,8 +542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2303,
-            "average": 4.716891
+            "count": 2314,
+            "average": 4.716076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -582,8 +585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17032,
-            "average": 4.6961017
+            "count": 17034,
+            "average": 4.696137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -617,8 +620,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4477,
-            "average": 4.7129774
+            "count": 4479,
+            "average": 4.7131057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -652,8 +655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3334,
-            "average": 4.714157
+            "count": 3328,
+            "average": 4.715745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1208,8 +1211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40715,
-            "average": 4.7159524
+            "count": 40714,
+            "average": 4.7159452
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1374,8 +1377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3992,
-            "average": 4.6482964
+            "count": 3993,
+            "average": 4.6483846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1409,8 +1412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
           "length": "PT53M",
           "ratings": {
-            "count": 719,
-            "average": 4.6383867
+            "count": 718,
+            "average": 4.637883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1572,8 +1575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 3992,
-            "average": 4.6482964
+            "count": 3993,
+            "average": 4.6483846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1851,8 +1854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5702,
-            "average": 4.6159244
+            "count": 5703,
+            "average": 4.615816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2053,8 +2056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 424,
-            "average": 4.485849
+            "count": 425,
+            "average": 4.4870586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2119,8 +2122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 3992,
-        "average": 4.6482964
+        "count": 3993,
+        "average": 4.6483846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2212,8 +2215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-app-package-management-using-helm/",
           "length": "PT58M",
           "ratings": {
-            "count": 68,
-            "average": 4.6911764
+            "count": 69,
+            "average": 4.695652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3056,8 +3059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 424,
-            "average": 4.485849
+            "count": 425,
+            "average": 4.4870586
           },
           "provider": {
             "name": "Microsoft Learn",
