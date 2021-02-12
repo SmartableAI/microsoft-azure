@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/commvault-and-skytap-expa
 webUrl: "https://www.prnewswire.com/news-releases/commvault-and-skytap-expand-innovative-support-capabilities-for-ibm-i-as400-in-microsoft-azure-301221112.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Commvault, Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
+    excerpt: "“We combined Commvault’s industry-leading data backup and recovery solution with Skytap’s ability to natively run IBM i workloads in Microsoft Azure to offer customers the most reliable and ..."
+    publishedDateTime: 2021-02-04T21:37:00Z
+    webUrl: "https://www.itweb.co.za/content/DZQ587VPYDkqzXy2"
+    ampWebUrl: "https://amp.itweb.co.za/content/DZQ587VPYDkqzXy2"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/DZQ587VPYDkqzXy2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 45
+    images:
+      - url: "https://lh3.googleusercontent.com/THVGNhigETdEMTFNw444tLf9XlsmgngZ7Wo1N2qu0DRHAwyy_wA8kuKJ8yhS4Fh92XtHZMx8eooJDXKUl1BUsZ4=w400-h316-c"
+        width: 400
+        height: 316
+        isCached: true
   - title: "Commvault and Skytap expand innovative support capabilities for IBM i (AS/400) in Microsoft Azure"
     excerpt: "Commvault (NASDAQ: CVLT), a recognized global enterprise software leader in the management of data across cloud and on-premises environments, today announces a new partnership with Skytap to expand data protection and migration for IBM i (AS/400) workloads hosted in Skytap on Microsoft Azure."
     publishedDateTime: 2021-02-04T08:04:00Z
