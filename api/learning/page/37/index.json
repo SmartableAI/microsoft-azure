@@ -4,255 +4,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-release-based-workflow-github.md",
-      "title": "Manage software delivery by using a release based workflow on GitHub",
-      "excerpt": "Learn to implement a release based workflow on GitHub using project boards, branches, and releases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-release-based-workflow-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
-      "length": "PT1H44M",
-      "ratings": {
-        "count": 169,
-        "average": 4.763314
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/release-based-workflow-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
-      "title": "Remediate security alerts using Azure Defender",
-      "excerpt": "Remediate security alerts using Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remediate-azure-defender-security-alerts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
-      "title": "Remotely monitor and control devices with Azure IoT Hub",
-      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 255,
-        "average": 4.6784315
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
-      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 75,
-        "average": 4.693333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
-      "title": "Deploy to multiple Azure environments by using ARM templates",
-      "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 42,
-        "average": 4.6904764
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
-      "title": "Identify governing practices for responsible AI in government",
-      "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 260,
-        "average": 4.7884617
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices.md",
       "title": "Identify governing practices for responsible AI",
       "excerpt": "Learn guiding principles for organizations, and how to choose and operationalize a governance system to responsibly and successfully use AI in the enterprise.",
@@ -1265,6 +1016,265 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-search-organize-repository-history-github.md",
+      "title": "Search and organize repository history by using GitHub",
+      "excerpt": "Learn to search and organize repository history by using filters, blame, and cross-linking on GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-search-organize-repository-history-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/search-organize-repository-history-github/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 170,
+        "average": 4.7941175
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/search-organize-repository-history-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+      "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+      "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1724,
+        "average": 4.7030163
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-cloud-resources.md",
+      "title": "Secure your cloud resources with access control",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about digital identities and how they can be managed and synchronized within an organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cloud-resources/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-secure-cloud-resources/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 255,
+        "average": 4.7019606
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/secure-cloud-resources-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
+      "title": "Secure Cognitive Services",
+      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 26,
+        "average": 4.6538463
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-data-manage-users-azure-synapse-serverless-sql-pools.md",
+      "title": "Secure data and manage users in Azure Synapse serverless SQL pools",
+      "excerpt": "Secure data and manage users in Azure Synapse serverless SQL pools",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-manage-users-azure-synapse-serverless-sql-pools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-manage-users-azure-synapse-serverless-sql-pools/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 10,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-data-and-manage-users-in-azure-synapse-serverless-sql-pools-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics.md",
+      "title": "Secure a data warehouse in Azure Synapse Analytics",
+      "excerpt": "Secure a data warehouse in Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-warehouse-azure-synapse-analytics/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 11,
+        "average": 4.818182
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-a-data-warehouse-in-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

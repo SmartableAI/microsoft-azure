@@ -4,260 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-the-mojifier.md",
-      "title": "The Mojifier - Create a Slack bot that replaces people's faces with emojis matching their emotion",
-      "excerpt": "Learn how to get images, calculate emotion, match emotions to emojis, and replace faces with emoji.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-the-mojifier/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/",
-      "length": "PT1H31M",
-      "ratings": {
-        "count": 49,
-        "average": 4.612245
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-      "title": "Threat response with Azure Sentinel playbooks",
-      "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 24,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
-      "title": "Approach your data-flow diagram with the right threat model focus",
-      "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
-      "length": "PT8M",
-      "ratings": {
-        "count": 277,
-        "average": 4.7256317
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
-      "title": "Create a threat model using data-flow diagram elements",
-      "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 317,
-        "average": 4.719243
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
-      "title": "Introduction to threat modeling",
-      "excerpt": "Explore the four high-level steps of threat modeling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 467,
-        "average": 4.728051
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls.md",
-      "title": "Prioritize your issues and apply security controls",
-      "excerpt": "Threat modeling provides you with a list of threats and ways to reduce or eliminate risk, but it doesn't prioritize them for you. Also, there are no layered security control recommendations based on their type and function.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-prioritize-your-issues-and-apply-security-controls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
-      "length": "PT14M",
-      "ratings": {
-        "count": 242,
-        "average": 4.694215
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/prioritize-your-issues-and-apply-security-controls-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
       "title": "Provide context with the right depth layer",
       "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
@@ -520,8 +266,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
       "length": "PT27M",
       "ratings": {
-        "count": 387,
-        "average": 4.715762
+        "count": 388,
+        "average": 4.716495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -606,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
       "length": "PT18M",
       "ratings": {
-        "count": 368,
-        "average": 4.6902175
+        "count": 369,
+        "average": 4.6910567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -649,8 +395,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 463,
-        "average": 4.764579
+        "count": 465,
+        "average": 4.763441
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -770,6 +516,49 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-big-data-engineering-with-apache-spark-azure-synapse-analytics.md",
+      "title": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
+      "excerpt": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 7,
+        "average": 4.428571
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     },
     {
@@ -997,8 +786,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 263,
-        "average": 4.7490497
+        "count": 264,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 79,
-        "average": 4.708861
+        "count": 80,
+        "average": 4.7125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,6 +1080,212 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-watchlists-azure-sentinel.md",
+      "title": "Use watchlists in Azure Sentinel",
+      "excerpt": "Use watchlists in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-watchlists-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+      "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+      "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 56,
+        "average": 4.660714
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel.md",
+      "title": "Utilize threat intelligence in Azure Sentinel",
+      "excerpt": "Utilize threat intelligence in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-threat-intelligence-azure-sentinel/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 5,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-what-is-azure-defender.md",
+      "title": "Plan for cloud workload protections using Azure Defender",
+      "excerpt": "Plan for cloud workload protections using Azure Defender",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-azure-defender/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-what-is-threat-hunting-azure-sentinel.md",
+      "title": "Hunt for threats with Azure Sentinel",
+      "excerpt": "Hunt for threats with Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-threat-hunting-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-threat-hunting-azure-sentinel/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     }
   ],

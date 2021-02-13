@@ -4,204 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
-      "title": "Spark architecture fundamentals",
-      "excerpt": "Spark architecture fundamentals",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 514,
-        "average": 4.655642
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
-      "title": "Store application data with Azure Blob storage",
-      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 3521,
-        "average": 4.562056
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
-      "title": "Work with Compute in Azure Machine Learning",
-      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 719,
-        "average": 4.650904
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-wvd-msix-app-attach.md",
-      "title": "Deploy applications by using MSIX app attach for Windows Virtual Desktop",
-      "excerpt": "Learn how to deliver applications using MSIX app attach technology. MSIX app attach is an application delivery technology that separates applications and their state from the operating system and assigns applications to users dynamically.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-msix-app-attach/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-application-management/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 73,
-        "average": 4.8767123
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/wvd-msix-app-attach-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-wvd-security.md",
-      "title": "Secure a Windows Virtual Desktop deployment",
-      "excerpt": "Introduction to Microsoft security capabilities that can keep your applications and data secure in your Windows Virtual Desktop deployment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-security/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 53,
-        "average": 4.90566
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/wvd-security-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday.md",
       "title": "60 seconds to a Linkerd service mesh on AKS | Azure Friday",
       "excerpt": "See just how easy it is to deploy a service mesh to your AKS cluster. William Morgan, maintainer of the open source service mesh Linkerd, joins Scott Hanselman to demonstrate just how easy it is to deploy Linkerd. Together they explore how to debug a live microservices application using the service mesh,",
@@ -238,6 +40,83 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday.md",
+      "title": "An overview of Azure Integration Services | Azure Friday",
+      "excerpt": "Azure Integration Services brings together API Management, Logic Apps, Service Bus, and Event Grid as a reliable, scalable platform for integrating on-premises and cloud-based applications, data, and processes across your enterprise. [04:41] Demo Start   Azure Integration Services overview https://aka.ms/azfr/527/01",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=sbqhJsWhKAs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sbqhJsWhKAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M46S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T17:01:03-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sbqhJsWhKAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday.md",
+      "title": "Azure API for FHIR (Fast Healthcare Interoperability Resources) | Azure Friday",
+      "excerpt": "Michael Hansen joins Scott Hanselman to explain what FHIR is and how to get started with FHIR on Azure. Fast Healthcare Interoperability Resources (or, FHIR) is a new standard for representing and exchanging healthcare data. Developed by the HL7 community to address problems with interoperability, pieces",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=5vS7Iq9vpXE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vS7Iq9vpXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-25T15:21:34-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5vS7Iq9vpXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -314,45 +193,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-container-registry-general-availability.md",
-      "title": "Azure Container Registry General Availability",
-      "excerpt": "Steve Lasker joins Scott Hanselman to demo & discuss Azure Container Registry, which was in preview since November 2016. Since then, we have received a lot of valuable feedback from customers that we've worked to incorporate, which enables us to move Azure Container Registry to GA.  Harness the power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-container-registry-general-availability/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-container-registry-general-availability/",
-      "originalUrl": "https://youtube.com/watch?v=V8lbEHyvo8k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V8lbEHyvo8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M8S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-16T15:40:55-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V8lbEHyvo8k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
@@ -625,44 +465,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday.md",
-      "title": "Code-free data transformation at scale using Azure Data Factory | Azure Friday",
-      "excerpt": "Learn about the new code-free visual data transformation capabilities in Azure Data Factory as Gaurav Malhotra joins Lara Rubbelke to demonstrate how you can visually design, build, and manage data transformation processes without learning Spark or having a deep understanding of the distributed infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-code-free-data-transformation-at-scale-using-azure-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=8gs-KExURa4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8gs-KExURa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M43S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:59:54-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8gs-KExURa4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-code-to-cloud-with-docker-and-azure-container-instances-azure-friday.md",
       "title": "Code to Cloud with Docker and Azure Container Instances | Azure Friday",
       "excerpt": "Chad Metcalf from Docker joins Scott Hanselman to show how to use the Docker CLI to deploy a container to Azure Container Instances (ACI). Using only the Docker CLI, Chad deploys a Minecraft image to ACI and then shares the public IP address with Scott so he can join in the wacky, blocky world!  ACI",
@@ -854,14 +656,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-2-azure-friday.md",
-      "title": "How to build a CI/CD pipeline for API Management, Part 2 | Azure Friday",
-      "excerpt": "Miao Jiang joins Scott Hanselman to demonstrate a sample CI/CD pipeline implemented using Azure DevOps and Azure API Management DevOps resource kit. The sample follows the suggested approach that was introduced in Build a CI/CD pipeline for API Management, Part 1 (https://aka.ms/azfr/574/yt).  Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-2-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-2-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=PDOXI2E6zYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PDOXI2E6zYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M27S",
+      "path": "_learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday.md",
+      "title": "Getting started with Azure App Configuration | Azure Friday",
+      "excerpt": "Azure App Configuration is a service that enables you to centralize your application configuration. Built on the simple concept of key-value pairs, this service provides manageability, availability, and ease-of-use. You can use Azure App Configuration to store and retrieve settings for applications,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=EIvuLLAMLZg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EIvuLLAMLZg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M42S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -874,11 +676,49 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-12T09:36:59-07:00",
+      "publishedDateTime": "2019-04-24T16:03:29-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PDOXI2E6zYA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EIvuLLAMLZg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-1-azure-friday.md",
+      "title": "How to build a CI/CD pipeline for API Management, Part 1 | Azure Friday",
+      "excerpt": "Miao Jiang joins Scott Hanselman to walk through a conceptual framework for building a CI/CD pipeline to automate the deployment of APIs into Azure API Management. Learn about common automation challenges with API Management and how the suggested approach addresses these challenges.  For a demonstration,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-1-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-a-cicd-pipeline-for-api-management-part-1-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=2x1CrzdTcL0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2x1CrzdTcL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-12T16:00:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2x1CrzdTcL0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1164,6 +1004,164 @@
         "Azure",
         "Serverless",
         "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday.md",
+      "title": "How to defend against denial of service attacks with Azure DDoS Protection | Azure Friday",
+      "excerpt": "Distributed denial of service (DDoS) attacks are rampant and it's not a question of if a business will be impacted but when. Anupam Vij shows Scott Hanselman how Azure DDoS Protection Standard can protect your applications against targeted DDoS attacks and why it is critical for every business running",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-defend-against-denial-of-service-attacks-with-azure-ddos-protection-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=D0vR6YNRCww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D0vR6YNRCww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M57S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-31T23:58:56-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D0vR6YNRCww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-deploy-aspnet-application-to-docker-hub-and-azure-azure-tips-and-tricks.md",
+      "title": "How to deploy ASP.NET application to Docker Hub and Azure | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to deploy ASP.NET application in a Windows image to Docker Hub from Visual Studio, and run it in Azure App Service.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-aspnet-application-to-docker-hub-and-azure-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-aspnet-application-to-docker-hub-and-azure-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=pRRcQpp90F8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pRRcQpp90F8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M24S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-23T09:28:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pRRcQpp90F8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-deploy-azure-functions-with-visual-studio-code-azure-tips-and-tricks.md",
+      "title": "How to deploy Azure Functions with Visual Studio Code | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to deploy Azure Functions with Visual Studio Code. To deploy an Azure Function, open the command palette and type \"deploy function\".    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-azure-functions-with-visual-studio-code-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-azure-functions-with-visual-studio-code-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=RD3vUCdRf8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RD3vUCdRf8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M19S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-20T09:05:48-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RD3vUCdRf8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks.md",
+      "title": "How to deploy your web app in Windows Containers on Azure App Service | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to deploy your web app in Windows Containers on Azure App Service. Windows Containers that run in an App Service web app provide you with the benefits of Azure like scaling and deployment slots, while still giving you a lot of control over your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=d5omcL6z9dI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d5omcL6z9dI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-19T08:07:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d5omcL6z9dI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Containers"
       ]
     }
   ],

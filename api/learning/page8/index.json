@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 5146,
-            "average": 4.691605
+            "count": 5147,
+            "average": 4.691665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -268,8 +268,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8981,
-        "average": 4.696582
+        "count": 8983,
+        "average": 4.696649
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +346,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 1568,
-        "average": 4.8220663
+        "count": 1570,
+        "average": 4.822293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -388,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4087,
-        "average": 4.7149496
+        "count": 4088,
+        "average": 4.7150197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -468,8 +468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 4000,
-        "average": 4.649
+        "count": 4001,
+        "average": 4.649088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -705,8 +705,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3322,
-        "average": 4.7363033
+        "count": 3323,
+        "average": 4.736383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14448,
-        "average": 4.715601
+        "count": 14449,
+        "average": 4.7156205
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1068,44 +1068,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday.md",
-      "title": "Azure API for FHIR (Fast Healthcare Interoperability Resources) | Azure Friday",
-      "excerpt": "Michael Hansen joins Scott Hanselman to explain what FHIR is and how to get started with FHIR on Azure. Fast Healthcare Interoperability Resources (or, FHIR) is a new standard for representing and exchanging healthcare data. Developed by the HL7 community to address problems with interoperability, pieces",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-api-for-fhir-fast-healthcare-interoperability-resources-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5vS7Iq9vpXE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vS7Iq9vpXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-25T15:21:34-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5vS7Iq9vpXE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-build-serverless-apis-with-azure-functions-azure-friday.md",
       "title": "Build serverless APIs with Azure Functions | Azure Friday",
       "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can build highly scalable serverless APIs with Azure Functions.  0:00 – Overview 1:09 – What \"serverless\" really means 4:00 – A closer look at Azure Functions 7:29 – Azure Functions Live Metrics 10:45 – Thinking downstream of Azure Functions 13:52 – Using",
@@ -1293,8 +1255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2468,
-            "average": 4.708671
+            "count": 2469,
+            "average": 4.708789
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,6 +1472,40 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-azure-tasks-with-powershell.md",
+      "title": "Automate Azure tasks using scripts with PowerShell",
+      "excerpt": "Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-azure-tasks-with-powershell/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
+      "length": "PT1H11M",
+      "ratings": {
+        "count": 5840,
+        "average": 4.718836
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure"

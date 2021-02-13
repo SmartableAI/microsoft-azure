@@ -49,8 +49,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 26809,
-        "average": 4.784886
+        "count": 26835,
+        "average": 4.7848334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -154,8 +154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26809,
-            "average": 4.784886
+            "count": 26835,
+            "average": 4.7848334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -196,8 +196,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 14093,
-            "average": 4.8081317
+            "count": 14111,
+            "average": 4.8083057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -240,8 +240,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 6662,
-            "average": 4.7996097
+            "count": 6669,
+            "average": 4.79982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 14093,
-        "average": 4.8081317
+        "count": 14111,
+        "average": 4.8083057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -414,15 +414,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-      "title": "Analyze costs and create budgets with Azure Cost Management",
-      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-      "length": "PT40M",
+      "path": "_learning/courses/microsoft-learn-explore-concepts-of-data-analytics.md",
+      "title": "Explore concepts of data analytics",
+      "excerpt": "Explore concepts of data analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-data-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
+      "length": "PT16M",
       "ratings": {
-        "count": 1394,
-        "average": 4.6721663
+        "count": 1732,
+        "average": 4.838337
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -439,12 +439,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 135,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-data-analytics-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -453,7 +453,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools"
+        "Analytics"
       ]
     },
     {
@@ -649,15 +649,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
-      "title": "Hunt for threats using notebooks in Azure Sentinel",
-      "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
-      "length": "PT31M",
+      "path": "_learning/courses/microsoft-learn-deploy-nodejs.md",
+      "title": "Automate Node.js deployments with Azure Pipelines",
+      "excerpt": "Implement CI/CD pipeline for Node.js applications. Automate deployment of Vue, React, Angular or webpack apps with Azure Pipelines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-nodejs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-nodejs/",
+      "length": "PT44M",
       "ratings": {
-        "count": 2,
-        "average": 5.0
+        "count": 20,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -672,12 +672,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-nodejs-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -688,19 +688,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "DevOps"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-understand-big-data-engineering-with-apache-spark-azure-synapse-analytics.md",
-      "title": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
-      "excerpt": "Understand big data engineering with Apache Spark in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-intro-iot-funtions-iot.md",
+      "title": "Introduction to Azure Functions for IoT",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-iot-funtions-iot/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
+      "length": "PT27M",
       "ratings": {
-        "count": 7,
-        "average": 4.428571
+        "count": 101,
+        "average": 4.633663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -715,12 +715,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-azure-functions-iot-edge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -731,7 +731,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "IoT",
+        "Serverless"
       ]
     },
     {
@@ -805,8 +806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26809,
-            "average": 4.784886
+            "count": 26835,
+            "average": 4.7848334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -847,8 +848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5771,
-            "average": 4.7189393
+            "count": 5776,
+            "average": 4.71901
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -893,8 +894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5022,
-            "average": 4.7598567
+            "count": 5029,
+            "average": 4.760191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -938,8 +939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 3983,
-            "average": 4.7496862
+            "count": 3989,
+            "average": 4.749812
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1065,8 +1066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139970,
-            "average": 4.701029
+            "count": 139971,
+            "average": 4.7010307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1205,8 +1206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26809,
-            "average": 4.784886
+            "count": 26835,
+            "average": 4.7848334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1247,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3798,
-            "average": 4.772512
+            "count": 3805,
+            "average": 4.7724047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 2979,
-            "average": 4.7176905
+            "count": 2981,
+            "average": 4.7175446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2639,
-            "average": 4.750284
+            "count": 2640,
+            "average": 4.7503786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1426,8 +1427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26809,
-            "average": 4.784886
+            "count": 26835,
+            "average": 4.7848334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,8 +1469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 2417,
-            "average": 4.77079
+            "count": 2422,
+            "average": 4.7712636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1511,8 +1512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2365,
-            "average": 4.7154336
+            "count": 2367,
+            "average": 4.714829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1829,8 +1830,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3277,
-            "average": 4.7424474
+            "count": 3282,
+            "average": 4.742535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1872,8 +1873,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2365,
-            "average": 4.7154336
+            "count": 2367,
+            "average": 4.714829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1915,8 +1916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40729,
-            "average": 4.715927
+            "count": 40730,
+            "average": 4.7159343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1950,8 +1951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5837,
-            "average": 4.666267
+            "count": 5838,
+            "average": 4.666324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2045,8 +2046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 5022,
-        "average": 4.7598567
+        "count": 5029,
+        "average": 4.760191
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2090,8 +2091,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5771,
-        "average": 4.7189393
+        "count": 5776,
+        "average": 4.71901
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2171,8 +2172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 6662,
-        "average": 4.7996097
+        "count": 6669,
+        "average": 4.79982
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2214,8 +2215,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 3983,
-        "average": 4.7496862
+        "count": 3989,
+        "average": 4.749812
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2281,8 +2282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3277,
-            "average": 4.7424474
+            "count": 3282,
+            "average": 4.742535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2324,8 +2325,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 139970,
-            "average": 4.701029
+            "count": 139971,
+            "average": 4.7010307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2465,8 +2466,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 3798,
-        "average": 4.772512
+        "count": 3805,
+        "average": 4.7724047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2508,8 +2509,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 2365,
-        "average": 4.7154336
+        "count": 2367,
+        "average": 4.714829
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2578,220 +2579,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing.md",
-      "title": "Control Azure spending and manage bills with Azure Cost Management + Billing",
-      "excerpt": "Learn how to monitor and control your Azure spending and optimize the use of Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-control-azure-spending-and-manage-bills-with-azure-cost-management-billing/",
-      "length": "PT3H19M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1261,
-            "average": 4.71927
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-manage-azure-costs.md",
-          "title": "Plan and manage your Azure costs",
-          "excerpt": "Migration to the cloud presents new ways to think about your IT expenses. This module teaches you about the factors that influence cost and tools you can use to help estimate and manage your cloud spend.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-manage-azure-costs/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 2331,
-            "average": 4.791506
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 69,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-          "title": "Analyze costs and create budgets with Azure Cost Management",
-          "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 1394,
-            "average": 4.6721663
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 131,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-save-money-with-azure-reserved-instances.md",
-          "title": "Save money with Azure Reserved Instances",
-          "excerpt": "Learn how to use plan for, buy, and manage Azure reservations to save money.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-save-money-with-azure-reserved-instances/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/save-money-with-azure-reserved-instances/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 125,
-            "average": 4.688
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/save-money-with-azure-reservations-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-prerequisites-for-azure-administrators.md",
       "title": "AZ-104: Prerequisites for Azure administrators",
       "excerpt": "Learn the basic concepts you'll need to know as an Azure administrator and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -2822,8 +2609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2365,
-            "average": 4.7154336
+            "count": 2367,
+            "average": 4.714829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2935,8 +2722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3347,
-            "average": 4.7134748
+            "count": 3348,
+            "average": 4.71356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2984,6 +2771,204 @@
         "Identity",
         "Containers",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-linux-on-azure.md",
+      "title": "Linux on Azure",
+      "excerpt": "This comprehensive learning path reviews deployment and management of Linux on Azure. Learn about cloud computing concepts, Linux IaaS and PaaS solutions and benefits and Azure cloud services. Discover how to migrate and extend your Linux-based workloads on Azure with improved scalability, security, and privacy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-linux-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-linux-on-azure/",
+      "length": "PT11H1M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-fundamental-azure-concepts.md",
+          "title": "Discuss Azure fundamental concepts",
+          "excerpt": "Learn about the different types and categories of cloud computing.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-fundamental-azure-concepts/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 14111,
+            "average": 4.8083057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 143,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
+          "title": "Introduction to Linux on Azure",
+          "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-linux/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
+          "length": "PT16M",
+          "ratings": {
+            "count": 1292,
+            "average": 4.7438083
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-linux-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-azure-virtual-machines.md",
+          "title": "Introduction to Azure virtual machines",
+          "excerpt": "Learn about the decisions you make before creating a virtual machine, the options to create and manage the VM, and the extensions and services you use to manage your VM.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-virtual-machines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
+          "length": "PT1H7M",
+          "ratings": {
+            "count": 17052,
+            "average": 4.6963406
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 68,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+          "title": "Create a Linux virtual machine in Azure",
+          "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+          "length": "PT1H26M",
+          "ratings": {
+            "count": 8983,
+            "average": 4.696649
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 13,
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/fundamental-azure-concepts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

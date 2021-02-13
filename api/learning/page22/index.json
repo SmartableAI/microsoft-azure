@@ -4,873 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2.md",
-      "title": "Large-Scale Data Processing with Azure Data Lake Storage Gen2",
-      "excerpt": "With this learning path, you'll use Azure Data Lake Storage to process your Big Data efficiently and easily while also being protected by Azure’s host of security features.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-large-scale-data-processing-with-azure-data-lake-storage-gen2/",
-      "length": "PT2H5M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage.md",
-          "title": "Introduction to Azure Data Lake storage",
-          "excerpt": "Discover how Data Lake Storage provides a repository where you can upload and store unstructured data bringing new efficiencies to processing big data analytics.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-data-lake-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 1924,
-            "average": 4.7068605
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage.md",
-          "title": "Upload data to Azure Data Lake Storage",
-          "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 1809,
-            "average": 4.61581
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-          "title": "Secure your Azure Storage account",
-          "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 8643,
-            "average": 4.651047
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-cloud-resources.md",
-      "title": "Manage cloud resources",
-      "excerpt": "The second learning path in a course on Cloud Administration from Carnegie Mellon University. Learn more about how the cloud works by exploring its underlying technology of virtualization, how to take advantage of the cloud for scale, and how to automate cloud resource management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-cloud-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-cloud-resources/",
-      "length": "PT2H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
-          "title": "Understand virtualization",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 98,
-            "average": 4.5408163
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-cloud-elasticity.md",
-          "title": "Scale your cloud resources with elasticity",
-          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover what cloud elasticity means and different ways to scale your cloud resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-elasticity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-elasticity/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 240,
-            "average": 4.65
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-elasticity-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-orchestration.md",
-          "title": "Automate cloud resource management",
-          "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Learn about how to automate cloud resource management with scripts and infrastructure-as-code tools like Terraform.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-orchestration/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-orchestration/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 118,
-            "average": 4.6271186
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-orchestration-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc.md",
-      "title": "Manage hybrid infrastructure with Azure Arc",
-      "excerpt": "Learn how to work with Azure Arc enabled servers and describe Azure Arc enabled Kubernetes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-arc.md",
-          "title": "Introduction to Azure Arc",
-          "excerpt": "Introduction to Azure Arc",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-arc/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 31,
-            "average": 4.870968
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-arc-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-arc-for-servers.md",
-          "title": "Introduction to Azure Arc enabled servers",
-          "excerpt": "This module introduces you to Azure Arc enabled servers and describes its characteristics, capabilities, and use cases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-for-servers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-for-servers/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 10,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-for-servers-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes.md",
-          "title": "Introduction to Azure Arc enabled Kubernetes",
-          "excerpt": "Introduction to Azure Arc enabled Kubernetes",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-enabled-kubernetes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 10,
-            "average": 5.0
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-enabled-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-arc-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
-      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
-      "length": "PT1H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 27,
-            "average": 4.5925927
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-          "title": "Implement logging in a .NET Framework ASP.NET web application",
-          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 34,
-            "average": 4.647059
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 28,
-            "average": 4.642857
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Security",
-        "Databases",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db.md",
-      "title": "Migrating Cassandra and MongoDB workloads to Cosmos DB",
-      "excerpt": "The focus of this learning path is to migrate MongoDB and Cassandra databases to Azure Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-cassandra-and-mongodb-workloads-to-cosmos-db/",
-      "length": "PT1H13M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db.md",
-          "title": "Introduction to open source database migration to Azure Cosmos DB",
-          "excerpt": "An introduction to migrating an open-source database to Azure Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure-cosmos-db/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 75,
-            "average": 4.7066665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db.md",
-          "title": "Migrate Cassandra workloads to Cosmos DB",
-          "excerpt": "Migrate Cassandra workloads to Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-cassandra-workloads-cosmos-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-cassandra-workloads-cosmos-db/",
-          "length": "PT14M",
-          "ratings": {
-            "count": 48,
-            "average": 4.7708335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-cassandra-workloads-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb.md",
-          "title": "Migrate on-premises MongoDB databases to Cosmos DB",
-          "excerpt": "Migrate MongoDB workloads to Cosmos DB",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mongodb-databases-azure-database-mongodb/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mongodb-databases-azure-database-mongodb/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 59,
-            "average": 4.762712
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mongodb-databases-to-cosmos-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/Introduction-to-open-source-database-migration-to-Azure-Cosmos-DB-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-optimize-query-performance-in-sql-server.md",
       "title": "Optimize query performance in SQL Server",
       "excerpt": "Analyze individual query performance and determine where improvements can be made. Explore performance-related Dynamic Management Objects. Investigate how indexes and database design affect queries.",
@@ -1415,8 +548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 387,
-            "average": 4.715762
+            "count": 388,
+            "average": 4.716495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1458,8 +591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
           "length": "PT18M",
           "ratings": {
-            "count": 338,
-            "average": 4.6301775
+            "count": 339,
+            "average": 4.6312685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1501,8 +634,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 368,
-            "average": 4.6902175
+            "count": 369,
+            "average": 4.6910567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1973,8 +1106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
           "length": "PT1H5M",
           "ratings": {
-            "count": 30,
-            "average": 4.733333
+            "count": 31,
+            "average": 4.7419353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2033,7 +1166,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2908,6 +2041,187 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analytics-engines-graphlab.md",
+      "title": "Distributed computing on the cloud: GraphLab",
+      "excerpt": "Carnegie Mellon University's cloud developer course. GraphLab is a big data tool developed by Carnegie Mellon University to help with data mining. Learn about how GraphLab works and why it's useful.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-graphlab/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-graphlab/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 25,
+        "average": 4.92
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analytics-engines-mapreduce.md",
+      "title": "Distributed computing on the cloud: MapReduce",
+      "excerpt": "Carnegie Mellon University's cloud developer course. MapReduce was a breakthrough in big data processing that has become mainstream and been improved upon significantly. Learn about how MapReduce works.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-mapreduce/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-mapreduce/",
+      "length": "PT1H47M",
+      "ratings": {
+        "count": 27,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analytics-engines-spark.md",
+      "title": "Distributed computing on the cloud: Spark",
+      "excerpt": "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-spark/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 29,
+        "average": 4.7586207
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
+      "title": "Threat detection with Azure Sentinel analytics",
+      "excerpt": "Threat detection with Azure Sentinel analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 47,
+        "average": 4.7021275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 1960,
+        "average": 4.7234693
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
       ]
     }
   ],

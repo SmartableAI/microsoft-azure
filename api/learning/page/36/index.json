@@ -4,264 +4,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-protect-endpoints-with-endpoint-manager.md",
-      "title": "Protect your endpoint environment with Microsoft Endpoint Manager",
-      "excerpt": "In this module, you'll learn protecting devices, apps, and data. Additionally, you understand the endpoint environment and the supported platforms available with Microsoft Endpoint Manager.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-endpoints-with-endpoint-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-endpoints-with-endpoint-manager/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-endpoints-with-endpoint-manager-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
-      "title": "Protect your identities with Azure AD Identity Protection",
-      "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-identities-with-aad-idp/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 392,
-        "average": 4.767857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-identities-with-aad-idp-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
-      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
-      "excerpt": "Learn how to protect your virtual machine settings with Azure Automation State Configuration",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 1044,
-        "average": 4.678161
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database.md",
-      "title": "Protecting, monitoring and tuning a migrated database",
-      "excerpt": "Protecting, monitoring, and tuning a migrated database",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-migrated-database/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 69,
-        "average": 4.7971015
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-and-use-azure-dsvm.md",
-      "title": "Provision and use an Azure Data Science Virtual Machine",
-      "excerpt": "Provision and use an Azure Data Science Virtual Machine",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-and-use-azure-dsvm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-and-use-azure-dsvm/",
-      "length": "53 mins",
-      "ratings": {
-        "count": 781,
-        "average": 4.62484
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/provision-and-use-azure-dsvm-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Provision and use an Azure Data Science Virtual Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-provision-databases-azure-pipelines.md",
-      "title": "Provision databases in Azure Pipelines",
-      "excerpt": "Provision databases in Azure Pipelines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-databases-azure-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-database-azure-pipelines/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/provision-database-azure-pipelines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-provision-infrastructure-azure-pipelines.md",
       "title": "Provision infrastructure in Azure Pipelines",
       "excerpt": "Learn how infrastructure as code enables you to describe and automatically provision the infrastructure that you need for your application.",
@@ -638,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/",
       "length": "PT48M",
       "ratings": {
-        "count": 324,
-        "average": 4.808642
+        "count": 325,
+        "average": 4.809231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1072,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-entities-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 90,
-        "average": 4.7222223
+        "count": 91,
+        "average": 4.7252746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,8 +858,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 543,
-        "average": 4.801105
+        "count": 544,
+        "average": 4.8014708
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1271,6 +1013,255 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-release-based-workflow-github.md",
+      "title": "Manage software delivery by using a release based workflow on GitHub",
+      "excerpt": "Learn to implement a release based workflow on GitHub using project boards, branches, and releases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-release-based-workflow-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
+      "length": "PT1H44M",
+      "ratings": {
+        "count": 169,
+        "average": 4.763314
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/release-based-workflow-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
+      "title": "Remediate security alerts using Azure Defender",
+      "excerpt": "Remediate security alerts using Azure Defender",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remediate-azure-defender-security-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub.md",
+      "title": "Remotely monitor and control devices with Azure IoT Hub",
+      "excerpt": "Create an IoT Hub device app, and a back-end service app. As a scenario, we use the monitoring, and controlling, of the temperature and humidity of a cheese cave.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-control-devices-with-azure-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 255,
+        "average": 4.6784315
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/remotely-monitor-and-control-devices-with-azure-iot-hub-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+      "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 75,
+        "average": 4.693333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-resource-manager-template-reuse.md",
+      "title": "Deploy to multiple Azure environments by using ARM templates",
+      "excerpt": "Manage multiple Azure environment deployments of your Azure Resource Manager templates by using functions, variables, tags, and parameter files.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resource-manager-template-reuse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modify-azure-resource-manager-template-reuse/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 43,
+        "average": 4.6976743
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modify-azure-resource-manager-template-reuse-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-responsible-ai-governing-practices-government.md",
+      "title": "Identify governing practices for responsible AI in government",
+      "excerpt": "Learn guiding principles for governments, and how to choose and operationalize a governance system to responsibly and successfully use AI in the public sector.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-governing-practices-government/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices-government/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 260,
+        "average": 4.7884617
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-governing-practices-government-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],
