@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/172-azure-offerings-achi
 webUrl: "https://azure.microsoft.com/en-us/updates/172-azure-offerings-achieve-hitrust-certification/"
 type: article
 quality: 67
-heat: 88
+heat: 89
 published: true
 
 provider:
