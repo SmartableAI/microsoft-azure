@@ -129,14 +129,14 @@ related:
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
     publishedDateTime: 2021-02-11T12:02:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    webUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_6cxg.1200.jpg"
         width: 1200
         height: 675
         isCached: true

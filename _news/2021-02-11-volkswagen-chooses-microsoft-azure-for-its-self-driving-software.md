@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
 excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
 publishedDateTime: 2021-02-11T12:02:00Z
-originalUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
-webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+originalUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+webUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
 type: article
 quality: 77
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_6cxg.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -380,6 +380,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "Mof3GE15kEGxxbspKi5G9v2RBZ3RBNG0zm86k/jdM6ZncLcCSdAlraf3TxHM0yzQmKnsj5dDvL3Gd0MBnd3dtge/jiMQPGlzKXcGREAZukAmpgabFrD0CFMh32aeZ2MGjntN4QPOod3+nK9hAgV+RelgbRX5GAwluqP/1kRzqSp9zz9YNY7l8jWzdtbjjyj5TPQ46uWDYfqILCeW9PX2SlqJpOVY5UxjaLWSeteRjsMNd700DpwzJg82Wyep8WYzFkQVWoeUgD0GBPrecVaDPrLXMRV4y33TV0CjTaXtZTUswcsVCHe3OfdmuraOCWKnhMV+1u83Iw5W58DoOW3LGIvZp2F8fbyW9mm8SzYPofU=;l1THAif7N3p2PPUXQkDZ7Q=="
+secured: "sxAQ6sNAUcIRw4f6qL/r7kv69MuhjYk+1U/niiUGWYKdZZzpLNzDj1jAzbjqF+6uFMwldyyVvxW0w269iCYUeRKP40DGBDVyrCWDf+V60lW4PMxP/jnxy5J99lMKk9Q/BvLjcJE3iu0Xz2n44IfJQgN7ZoF59etgcBfmKIA1oJ/2aH6i30uhU7t8dj2vpO6Lqcantu2B9rLHCRDRXeWI2IXcpDkA5jMzChRLASQ+pRSCyfCH5o5tL/eUXgnIIXkZVuYPpKCIDjAD2siXE3YaQjPSonhWGSiQFtUuIa+/HRbYZRwqtPbBnbR5V2AbM5VDP4mg15Cyh+hWwrP1MX4DQxuWeQrcagnScc2itFp8neM=;m9JISpJBuzvXJ3Z+nktXtQ=="
 ---
 
