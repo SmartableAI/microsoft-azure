@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
 excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
 publishedDateTime: 2021-02-11T12:02:00Z
-originalUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
-webUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+originalUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
 type: article
 quality: 77
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_6cxg.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -201,20 +201,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -319,6 +305,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 31
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -380,6 +375,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "XTv5YHpToa1LfbqMQFUgw8b+7CZvK6I335K7ow7w86HgALIr/0nZ83g/lHTs0yaAuzKSzUbKXxa3QxhcOTEU3NYY0dTFfZsR5YsJhPs6fWNEHWQTAmGCT2ByniatNBgh3KvJjaIk30IR7GFI72iyhOcg8hhJlrFOcxzSb7X4u6WbkeTTkA6ek98XF7S7/v1rpprn6Qhjt5XBjqhjwG+SyHcNk8m6yRQW7HboFgzEjgOYCsGvDCUztHROjoMkKJV6mU8mLfbhZ+ByidHbomQNwoT8/17JPpKTeZC+1pbc/JfCihkO1y8Wioi7R/YrPhWElpmDwnUafoM2vBC0UdNKodjTSPlEGuaOvKtv03f+ETQ=;rozN/sdiDzxg9+NeRgqU3Q=="
+secured: "aIOAy7A8IQzkEto5MlxoUp9vkjcM1hwEnl9mgpjnfVGQkAymntFF1XRbEbhZuNcuVJVqLatzJx5MM8pJ2Ayw68dy9tMuT+NgH01HdizMxzCYzisorq3rWeFT64CT3Ef1N8+7zskWNVgD/pyAnn/V4BFOCaVsm/sP0GscSe2ZL973EdP3zSZXzsSylmEhyoiGyzn3vWwZg1QcBKSsrs1CNuAv7SUWFfV5M3mynCvJMH+IKOQaU6IEfLO1othcj87f9MuNDAYnZVk9CWnPw9HMzpN/n9X7FochfJKFZgh7jMeVtCZXA7okDwbcK8Enb+Lee/KKFyE9EUkAsleEm+ZRscSc1E1ctk1JIFQBgTEEIOk=;8XbUU2bpco1Gm4BL4oz0JA=="
 ---
 
