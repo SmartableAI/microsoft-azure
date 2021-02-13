@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-publishedDateTime: 2021-02-11T07:08:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+publishedDateTime: 2021-02-11T13:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Identity
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -122,14 +128,14 @@ related:
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
     publishedDateTime: 2021-02-11T12:02:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    webUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_6cxg.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -371,6 +377,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "u1Fgv1PuL6A8g/2FaBWhoQByBuR7VDm93X/pb2dZMbb2SMrkAWCIMZhwSSI9mGzNiZ/c4vcj5hoFQgXAPRy43slpXl5KnXt9qHClTZD07LhC+JCORrLaB4K6c+uJalxb6j4IQUZ7LARHh27ZepKl0EyUpLcz5kgwQUtXRVY6WDPNJR6EW0UxU7Va8n325MlM6yi0LkKZDWxx4BGVrSA1lKBe8JbEg7PvmasllFBbCQOXX4XB0OVXamm1Sg2FQEjjcChdtadT0zPIp+e5D5BT6Lt2Jo2sP8X5QuAA0NHFFiEzDLlP/5E/bWhSJCRx8YYnxEFo8q2CdCUjT8sbDUVWYJ4scLaOZGYRR2wHuBX0IuI=;aq3B0xZtS+AWw2lNCoNuvw=="
+secured: "Y1r9RmwF4/AP/T76AOPB+uzQvZGi/VcW6jr3kgB1MA78L0tpMmnJXH6bJRqYop8DKehnbRSyvN3+ZNnNh4v+YuGPZULvwo3h/sWYaFcJpoz7lhlFkGGqNUHSdVpx2psqol+RZgtbnOlDE24AmZar3CVSFMkYBHkXY1IRkgsCX33VMMOQ51BUfBolh757hfwZwLGcPiMX1vBU6DLL2O3/qzfKPb4dIBt1UxyC0JdOAnjmtd4P308ZEh5epMsnqA3iYs2uqpMRyyLqB9HOcb/t3Ao+V63yUt/FVZLUgjxqnBUJO2yRNTkjhU8yD5nFHR10su+KVPiI7RI6uARMaGbGg9xhQULtWU+X03GTOYTF/QQ=;smbuHwebq8+vz7G2Tpug5Q=="
 ---
 
