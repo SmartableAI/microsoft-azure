@@ -77,17 +77,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
   - title: "Cloud computing: AWS is still the biggest player, but Microsoft Azure and Google Cloud are growing fast"
     excerpt: "Microsoft Azure slightly closes the gap on Amazon Web Service's lead. Pandemic helps drive cloud infrastructure spending through remote work and online games."
     publishedDateTime: 2021-02-04T12:43:00Z
@@ -317,6 +306,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 31
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z

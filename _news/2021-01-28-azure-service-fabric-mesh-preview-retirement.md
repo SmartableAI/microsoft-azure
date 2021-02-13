@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-service-fabric-mes
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-service-fabric-mesh-preview-retirement/"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

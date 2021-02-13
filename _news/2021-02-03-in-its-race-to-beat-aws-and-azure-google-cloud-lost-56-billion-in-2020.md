@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2021/02/03/in-its-race-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2021/02/03/in-its-race-to-beat-aws-and-azure-google-cloud-lost-56-billion-in-2020/amp/"
 type: article
 quality: 96
-heat: 97
+heat: 96
 published: true
 
 provider:

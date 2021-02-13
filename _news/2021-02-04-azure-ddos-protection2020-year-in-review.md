@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-ddos-protection-2020-year-i
 webUrl: "https://azure.microsoft.com/blog/azure-ddos-protection-2020-year-in-review/"
 type: article
 quality: 121
-heat: 122
+heat: 121
 published: true
 
 provider:
