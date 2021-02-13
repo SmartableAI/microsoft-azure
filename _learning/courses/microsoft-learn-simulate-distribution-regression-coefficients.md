@@ -1,7 +1,7 @@
 ---
 title: "Simulate the distribution of regression coefficients"
 excerpt: "Learn"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/simulate-distribution-regression-coefficients/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/simulate-distribution-regression-coefficients/
 type: course
 price: Free
 length: PT40M
@@ -24,6 +24,6 @@ levels:
 topics:
   - Azure
 
-secured: "e25dChyFKWGnsIsk45oqr6dw86NsoqT10lpiOOMtmRWEG9KXK5ueTB5WiBzuPD1b5KYCcks3tneUgUG5s2lUNMWH88cUihCYIdiIoNUz9ghRbnJW4CMsoGt96ZEilbMng9f67B+CoOUYYQxO+9m1y7TnnFcgCFEqfWxFx/zlxzXY6VD6geRgUp+vrt0V9tzT9U6Q92kfTw2QIRUAGItqzjojC0SD/BW44VIC2dwy5AYCgmDHS17tKDxwaXAO5u7pO/eoRv5WaLp2Ib+6UjRzSwCkclZEdaIGMXHB4qDxU2Wwrd0K2k7plTB0v70oc7yHHxxY2nI19JpggqfJ9U9ObFibzFU3VKituVVrpWGSzC2FEK4r34QdxuyEFJ5Xybd5hdFZn+SlVqThUjxOL8bqXQ==;A4pIbeLJ625QgxKRRwXmFQ=="
+secured: "Iem5Z579rNp7sMbpnOjObCanqq1ZpjacrmJ9aznbwZr0lhyO0NClYQVuPMl55hHDybTFcqsC/i5d/BczNJlrBydnOTqWH7G+ZhAcs5MZ40bYIpBvKRWO/ZvPevVHw3CwtoNuc1w6hqx7Ccc+SkH5j27cCF/FeuOlCFSTMTEPay4cjfKXqzI3l5Q2LScac9cJpE7WAZyzo19jTUMaepTBrAbI+FhB1PuAjymBiplaqE5fjh2YJTYzgoIEyVBSn4d4H9c8XEypH76SSvK1SdCqr8txNo3nJ0be3V27iHAKpw30NAUg8JhOeFBtjo+ynwPOTsR+FqeJng2vms4CmDlhgsO43glg/b0GyyCwPB0zUv20ypnf8PImCLOXZD5Jlc//phljKbepxlP+lPJ5hfqimQ==;R8vC3y23RS/W6e6vo2Chfg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Intrigued by quantum computing but don't know where to start? This lea
 type: collection
 price: Free
 length: PT4H50M
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -22,6 +22,7 @@ items:
   - courses/microsoft-learn-qsharp-create-first-quantum-development-kit
   - courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing
   - courses/microsoft-learn-solve-graph-coloring-problems-grovers-search
+  - courses/microsoft-learn-use-qsharp-libraries
   - courses/microsoft-learn-run-quantum-algorithms-hardware
   - courses/microsoft-learn-solve-quantum-inspired-optimization-problems
   - courses/microsoft-learn-solve-job-shop-optimization-azure-quantum
