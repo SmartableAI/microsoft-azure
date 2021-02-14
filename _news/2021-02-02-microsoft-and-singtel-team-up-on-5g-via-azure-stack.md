@@ -208,18 +208,18 @@ related:
       domain: businessinsider.com
     quality: 53
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
-    publishedDateTime: 2021-02-11T13:08:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+    excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
+    publishedDateTime: 2021-02-11T13:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft brings its Azure Quantum cloud service into public preview"
     excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
