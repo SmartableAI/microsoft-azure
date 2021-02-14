@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-publishedDateTime: 2021-02-11T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its"
+publishedDateTime: 2021-02-11T13:08:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html"
 type: article
-quality: 91
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Identity
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -377,6 +377,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "rNW8I64Tq96QMfUFRjkO/PEKyzQtmLKrDkMqoCCSwFIGVX2vAKySNfN2vY+SVwXTTfzMB5ao8lsTET4FcFj3Z6YahF0EaV0PbgmuXJkH1+yYs97/zwn0YMTZzo43czXvOzv/7csgP4nCK+eCfkAT66LByVZVYSIdIr8aFRB/wbFt+mRNFYzuveZNe2dnEG3SMEHwv66hVSLrbeSKJCT/G23dL3ccaCYHQ0Lf8hSyMFc3CKeqD5C1+ouyItplllhb1eDwtaS4FZcNF4kD2V4DAjt0/aotSjr4myuROdWHGwlhe5sPwtB7xyByUyadqh4weDX2mLmPRDjHc1yeqQ+m5pIuFC5wzvrLPshrc998kmI=;oo/L/JnN3LYP0T7VNO4caA=="
+secured: "mowo3OOofWj73ZuCnmP5zwM3PhGLKEXGhkAhWOj2cGgxWqoxEjCSeV8hRWowg3cdGMDFeVGo3C2pcUhfbuwMCBOrpMlg9t7b9cVhngD0j6YQUuWRTqYoqtVCCTVUF5KpZ1LS3YyQ+EseXyALyzJl3BLpnnIlgVX/vHcy6tpdnMl+9N0TlTj9EFexA+IxzgtAasdxtMBEFqIi62ZKv25JLaJKxGWYvGBj3OAvuU1/uhquEGUrrDeVkxKBAawXtZCmEEY5AvysVYThzge0cic09V2q2YpcD42G3pmSRZioaMYsD6mr6Vd4A3KM+he2HYGWGbKiHwLO8Am1W0GvxigCme9KVWYm7N/1nqPrifNedBE=;pUvNJu8wQky8Qk2rDl1PEg=="
 ---
 
