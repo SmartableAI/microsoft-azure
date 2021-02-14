@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 6122,
-        "average": 4.6099315
+        "count": 6123,
+        "average": 4.609995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 8988,
-        "average": 4.6965957
+        "count": 8989,
+        "average": 4.696629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -132,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 1575,
-        "average": 4.822222
+        "count": 1576,
+        "average": 4.8223352
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -174,8 +174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4091,
-        "average": 4.7152286
+        "count": 4092,
+        "average": 4.715298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -289,8 +289,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 4169,
-        "average": 4.6972895
+        "count": 4170,
+        "average": 4.697122
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,6 +560,49 @@
         "Azure",
         "Storage",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
+      "title": "Create a Windows virtual machine in Azure",
+      "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-windows-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 14457,
+        "average": 4.7155013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-windows-virtual-machine-in-azure-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     },
     {
@@ -1261,8 +1304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 831,
-        "average": 4.7448854
+        "count": 833,
+        "average": 4.7442975
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1337,44 +1380,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 3252,
-        "average": 4.573493
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
       ]
     }
   ],
