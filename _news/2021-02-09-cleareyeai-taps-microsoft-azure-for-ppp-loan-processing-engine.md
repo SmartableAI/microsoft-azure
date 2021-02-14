@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Singtel offers 5G edge computing on Microsoft Azure"
-excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-publishedDateTime: 2021-02-02T08:36:00Z
-originalUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+publishedDateTime: 2021-02-09T14:19:00Z
+originalUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
+webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
 type: article
-quality: 77
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
+  - AI
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -113,6 +114,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 81
+  - title: "Singtel offers 5G edge computing on Microsoft Azure"
+    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+    publishedDateTime: 2021-02-02T08:36:00Z
+    webUrl: "https://www.zdnet.com/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
     publishedDateTime: 2021-02-11T12:02:00Z
@@ -188,20 +200,6 @@ related:
       - url: "https://www.crn.com/resources/0266-117c11a50dd5-9301b525dd7b-1000/digital_data_cloud_futuristic_cloud_with_blockchain_technology.jpeg"
         width: 1500
         height: 843
-        isCached: true
-  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
-    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
-    publishedDateTime: 2021-02-09T14:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "DATA443 DELIVERS ADVANCED CAPABILITIES FOR CLASSIDOCS™ INTEGRATED WITH MICROSOFT DOUBLE KEY EXCHANGE ON MICROSOFT AZURE"
     excerpt: "Customer Demand Drives Rapid Adoption of Advanced Encryption and Data Protection Capabilities by ClassiDocs RESEARCH TRIANGLE PARK, NC, Feb."
@@ -393,6 +391,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "Fl4r5u1GL0smSGaGprrGHRaZHOogjZY/GG7CHP8GzC/wzXRxXo2RCU8GgxkvL4m5j/WM6KGFRKBY87VIjHGpUSz6GWZ/tjM0dYt7Tqi9CoJsJWeDzzXGftICeYBZpugI2Xl+GEWP0udQ9dInwdLpG6M+EbCs218GiRBCEkJSDnYNMJC3nK+6QHTS8dMSVqO1dwBpFraKh0G5KTaUh7af5y0VTR7tn3Tc7pGMCM6emM1hXjiQEcx3RiDvZe3uTc2jsI93Zi9FGuwHVSMqugqs6AmO4Ej2dO6aFZTM7ir9IbFRYqYJUaC0J7Q6fFsitV+81WD8kczrVkQ/ckfPqGCZul+h7+S/WKjjoxNn1w4gksRMjjRc9BTWYqTONDerKZShtO58/pSUHjkVkm4CJQOAj2rpF5W8qcStMEApZls9Z4dEXVUGvt301cILmGXKOkK7DQEnq2Axk21S4u2d892xVJ4ljRKNg26GFrqqmM7qxGGgd0oGZCXXKVnl05MFSE/XqsurEerLh6iJt394dvOXWQ==;M1wM4KLcAuAfs+CLZJ0QZg=="
+secured: "gZ9EmQWAfuMqeJSlCamTTELcKfKQiC3k0ollGqhu7B53+HdLShoM2fhJsRz0KodznLU/Sb/jkKJVgJBJ+QqWr+3jE5zKTgXsuk4LKrg9rBUV/4nHsxcF4g4XsRQxjXCXk3XKm1hvd1DkU7eg3WWcJJ5L24PNt088Ocd2pCXb5A9y9sJ4YWVW+xouRbrnXJYziZQwB+adRkZCpyI0ME2RBUEggQuc6iKHf17VRelYtUAhRhVQRl7kH9aXEttSqs9sIHXxzEg4Ox8qCCVT1nuuiMSwtpzKAf0BJ8fGJAn6aKVIbUSP25/ysMxDDarf5P3NHt114HI1eoudP7JYpH4wJgLUt6N8sS5kDqP1Qnmui9k=;fJRDqsNjxNXIPTB48u5kpw=="
 ---
 

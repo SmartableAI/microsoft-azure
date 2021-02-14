@@ -201,6 +201,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T14:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "DATA443 DELIVERS ADVANCED CAPABILITIES FOR CLASSIDOCS™ INTEGRATED WITH MICROSOFT DOUBLE KEY EXCHANGE ON MICROSOFT AZURE"
     excerpt: "Customer Demand Drives Rapid Adoption of Advanced Encryption and Data Protection Capabilities by ClassiDocs RESEARCH TRIANGLE PARK, NC, Feb."
     publishedDateTime: 2021-02-02T13:09:00Z
@@ -377,6 +391,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "e9xO1djYwJDKBYw97CTSkJb6VTBxOuogyI8VP57gBoHPmD1mixFuwHn/Vde3deQmIKwYQbiD4MC5AIf+WUiUjvFKurknypgGJmD4FUkP2kjHa6bGKHmobN9TA6jVsmxgzlltxnTgf+qdJfLzC61WQ1m/EK99YKQX/3IB94Wr+XyK+g4P+RSj+oWb4UEVpLDkFj7CU54pSfg+xC3kP4vWOWPZr2m5piU2ovQy7Q4sTo9XUCNcBOJuv+kKetxcQGk+2+n4WuO9+rZfZetW6CQtTnWj4MYgHYhemWcDYXKraiD6iY6Bwnl9itUk925YE8ty8gxR99fArT4gNuhBbJxGQjiilzeSr8ZcpIvoupNR2no=;yCNI2EPRuXjqc/yP7CEWrw=="
+secured: "z/K+tDJYBDA1kxXepcOHMr5Lqdz4f6zfQ1R/6eFfjJnTyXJfYOezs2B5qRqkO1/mqEc6TdROxh8LJrm1MK8ARWyvmjuPlWH05IJiRvN3WmDvsI0YgJWfkyqZa3j82g5tEDsBte5BzNMOeTdXHmBgq76Mwp8thf26QhaLmKfEM3swmDxr7hjcw/s7OtJu5AdMmZR2utGtHLqddqwqDResRvNPa5/M6UEPbzFG6+M4jAY11sdfvFe6ofPH9xD2/o03qbA13Nac4p2ns0MHVJ+p3Yw3dci4QtqUACGfVdUIe2ZBrWe6FNJKyY0X5UZ/9lO5sYskYzruapLyP0GIirNtWJ8rdDubtu+mIJZfC6di/ps=;sOqgGYXjoQQq3YlCsC28UQ=="
 ---
 

@@ -194,6 +194,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T14:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "DATA443 DELIVERS ADVANCED CAPABILITIES FOR CLASSIDOCS™ INTEGRATED WITH MICROSOFT DOUBLE KEY EXCHANGE ON MICROSOFT AZURE"
     excerpt: "Customer Demand Drives Rapid Adoption of Advanced Encryption and Data Protection Capabilities by ClassiDocs RESEARCH TRIANGLE PARK, NC, Feb."
     publishedDateTime: 2021-02-02T13:09:00Z

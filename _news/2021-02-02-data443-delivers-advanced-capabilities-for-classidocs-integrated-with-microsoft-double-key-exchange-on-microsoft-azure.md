@@ -200,6 +200,20 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Cleareye.ai taps Microsoft Azure for PPP loan processing engine"
+    excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai’s enterprise-ready platform will use Microsoft technology to power its products,"
+    publishedDateTime: 2021-02-09T14:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86101/cleareyeai-taps-microsoft-azure-for-ppp-loan-processing-engine"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
     publishedDateTime: 2021-02-11T13:10:00Z
