@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-publishedDateTime: 2021-02-11T13:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+publishedDateTime: 2021-02-11T13:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
 type: article
-quality: 51
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Identity
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -391,6 +391,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "olerzfj/byjAnXOgqW6LMOOZLmAofUfLTzhyreekdvo1HXYb8sTuQ48zNxV7fgu58PJ/rwsQ1ILsm0dh6E41VX9CJm2Y2TjbsaxlCZ0p2xsyZ5kfW7mrPFEHnyQ1pKhKwNXuFv5uYxYdKzvOgZ+riaF1G2w9Kkt0zSz67n3PTAkbQtZTOgjr1lKJ5vaUQHCrKtf2emEksJPdlUFK2W4gQaD7TZ+61W5raR9r8P5DRExgNTFEb5jd1XQBPIOtCI97ch792dspz0CV34OBLAhwFKolXZkhCWSsaRQMTBuFRkpYwHKNiAkkPQ/uUanN62WhPSSppScRtlCH1xr2f1VSosI9hgBgv8hXHlnu5xchwe4=;wNfaDZqbSgMCa5TfbL6wIw=="
+secured: "roEfJx/zxLVHOiAtt4jUJX4y/x+GTvtFIhdawc/OAL5KHl1KTP0rA6wdQfh/GAQxv0WdhH3GfY+azyYE99zyJLNFHIdD39q+0Lnw1qUCMh5Z2pA3+pg+pO2WfCoEHDuYasZhTGMMyOxefFHRmS+mHvUpJVAIUcCPqzCICotAW/D+7dzeSzaYeRgx1LtffWsv5TrhVWS11U+GPQpQm8rJ+nvPdFYJeU1YAWBzS6iKjCyuB76xCOUU13Xin9i6OBQwxwCXODDvhvGd+45P++Tp8zyhp3g4mfOm6nTpOuN6n+TU3cT749t+vqjKCatjAefVbUuomutdwIVho08eQuMkPmF4L8SHDVTsRX+Qcngr5hc=;FHQdL3/d0TDsesvE1oYyZg=="
 ---
 
