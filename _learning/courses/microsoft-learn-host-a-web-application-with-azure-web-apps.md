@@ -8,7 +8,7 @@ length: PT58M
 ratings:
   count: 5714
   average: 4.6162057
-heat: 54
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Web
   - Management Tools
 
-secured: "1PGGg4J1qJU75q+H0OVqTSoxhK4YuntahkXYY/65OOM/fvf+Cu+h24u290iHViGN5f0DNv92gRWNeCzjKkMKtiOiit944BruWyIAWgOZVKY3pyMxxb7gQHMPAd+zCStJjHeYAp9hblSZx/zmupKBg5AUY1ehl0VFzxGBW3HCOBrUT4boGJZlzTET6fUcWn69UwfgojcMoyIC8+YMdC6OIeNcFZsBkCkuK1RIE20Oz0OvIYSo61HROvuQdinyp1Mb7OtrR5PWaBvATz8IN/V8DLchgwWGxRSjOMQE+BwttjUan3UFYwIsxiMwAq5KAcxXRohnRfs3oF+uLYBhcvTIYNub5YWk+JBBg6gr0/NdM4d28iN/JS+Mm84w8NynHlBOCs7gTkLbxFYnMULXf+aNosXvsVnTQb5c9SU9BPufY6k=;HmRwOnPVQI+DRQ137ccMrA=="
+secured: "QQkH5IsvB9ncwtrdLK7+CFJm+wCzbrB1mmvqw7jul6ZNMh28qwQSvF8eaOfDSE446MNrCozKtZrKmUdSP+fkmZTQUWjIGTCf57fBpPhPqXSIxMso6/p006U3v/2Sq7Rvv0oL1UnLX9cfa8aMVqCw/65VoBdYuTAW8gbKgJrC5dXotGQ/C6hJR9ANpMn4QGalI3E/uVguV90aMUc60tXbaXkfKQh0s4Apb5Hmw9p07yAVM+G04ptboryzm3CNsnQNP+oGL/fU4vQxkFBqB1s7dW6C4KcrsiQ7efCbrj2y0idms8spgYTjoUzVgd53Nc+6sBXwjSV+Fb0WUTz9cItoKM7vrB7VLTYSkXRUFrofkC6rMqxE3k0Sgx8WxB5WWS1gzQJZwKopHcqN0+PFfuZckrVipssLdWthNNotqQgoUog=;10VpvHLogODMj1CcIaQoiw=="
 ---
 
