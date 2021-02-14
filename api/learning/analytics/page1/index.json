@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-monitor-data-warehouse-activities-azure-synapse-analytics.md",
-      "title": "Manage and monitor data warehouse activities in Azure Synapse Analytics",
-      "excerpt": "Manage and monitor data warehouse activities in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-monitor-data-warehouse-activities-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-monitor-data-warehouse-activities-azure-synapse-analytics/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
       "ratings": {
-        "count": 7,
-        "average": 4.571429
+        "count": 241,
+        "average": 4.560166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,12 +29,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-monitor-data-warehouse-activities-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,7 +43,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
+        "IoT",
+        "Analytics",
+        "Storage"
       ]
     },
     {
@@ -77,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 26984,
-            "average": 4.7848725
+            "count": 26999,
+            "average": 4.7848067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5812,
-            "average": 4.719718
+            "count": 5817,
+            "average": 4.719959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5049,
-            "average": 4.75916
+            "count": 5052,
+            "average": 4.759303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4004,
-            "average": 4.75025
+            "count": 4009,
+            "average": 4.750312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -279,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5812,
-        "average": 4.719718
+        "count": 5817,
+        "average": 4.719959
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3294,
-            "average": 4.7419553
+            "count": 3298,
+            "average": 4.741965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -595,8 +597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1664,
-            "average": 4.514423
+            "count": 1665,
+            "average": 4.5147147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3567,
-            "average": 4.5915337
+            "count": 3568,
+            "average": 4.591648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -760,8 +762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5812,
-            "average": 4.719718
+            "count": 5817,
+            "average": 4.719959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -965,8 +967,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3567,
-            "average": 4.5915337
+            "count": 3568,
+            "average": 4.591648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1002,8 +1004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2406,
-            "average": 4.6321697
+            "count": 2407,
+            "average": 4.631907
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1188,8 +1190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 515,
-            "average": 4.6563106
+            "count": 516,
+            "average": 4.6569767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1407,8 +1409,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 515,
-            "average": 4.6563106
+            "count": 516,
+            "average": 4.6569767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3543,8 +3545,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3567,
-        "average": 4.5915337
+        "count": 3568,
+        "average": 4.591648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3879,8 +3881,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 585,
-        "average": 4.805128
+        "count": 586,
+        "average": 4.805461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4166,15 +4168,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
-      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
-      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
-      "length": "PT1H6M",
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-best-practices.md",
+      "title": "Describe Azure Databricks best practices",
+      "excerpt": "Describe Azure Databricks best practices",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-best-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/",
+      "length": "PT38M",
       "ratings": {
-        "count": 241,
-        "average": 4.560166
+        "count": 112,
+        "average": 4.741071
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4189,14 +4191,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-best-practices-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -4205,9 +4207,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
         "Analytics",
-        "Storage"
+        "AI"
       ]
     }
   ],
