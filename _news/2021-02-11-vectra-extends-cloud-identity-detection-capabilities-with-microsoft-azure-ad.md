@@ -128,14 +128,14 @@ related:
   - title: "Volkswagen Chooses Microsoft Azure for Its Self-Driving Software"
     excerpt: "Self-driving cars need a reliable connection to the cloud, and automaker Volkswagen has decided Microsoft's Azure cloud service is the best choice on which to build its automated driving platform."
     publishedDateTime: 2021-02-11T12:02:00Z
-    webUrl: "https://in.pcmag.com/cars-auto/140929/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
+    webUrl: "https://au.pcmag.com/cars-auto/85564/volkswagen-chooses-microsoft-azure-for-its-self-driving-software"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 77
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_in/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_sge2.1200.jpg"
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/v/volkswagen/volkswagen-chooses-microsoft-azure-for-its-self-driving-soft_6cxg.1200.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -377,6 +377,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "AivlrlZf7PcQUhr6zqxhvkSGIt8LPdWO19S7qhEN5QRYHkc0rmKn1gn8FFZcFevVFvJy8nOxr/CHDd9Y0Wh7WpXVqD6AZVuAZyO3dgCctOORhcPYTdIKIv+5F74b1x8k0lFG392DsAe4O4p+EoSzQ9afVwNj0qi8Bc++gXs9FVASaxYfVj9/U5gk8D7vvwC6ERImgUNtVK8msoEVQEsVrrKiQ2p0SL9s0rNFJLbTi2UTeib1AngRrUwLfiYMbmCbjuXA/15c9gHxJsEXYpsqo3e5efydNdCNRozO6m4RIuETwireIW4kxekpSDJ3N9NZ6M/i3AYPHA15Bycsw/mWD67h5gK4F+uNrddNC+5AtVw=;/2TvbpwoN8EIMnGrrtqynQ=="
+secured: "p3eWzol3cZzY3waBbe6Kjb/V52aBDZZstJz66UAN++kfNnxP72QbhnL1HXZSwqSYZ/3hQQTnXAIJFyqQFIBEr/cx9C48Z3FV6h437D7chidMbLZdw8nB++mkmPyeyApM51b3ftDB0YCUK599hPP+Dymhfa+oJHwIou8SjCEbBf0j+0GCH7uOa9GhHaKXLTQY1kmYfaxdfwnHMM39V06bI56TVn5zDnrstYNudCP4ws8/xcQvmeSYPZbRbqojEGb+CJBn+3az55pch8LTeS+EY/PulMgx2mPU62IJPskdJ1m0RkRP+Ym+LUEIQXNEs4TV6REzF1u0qtn+4g9ZvPkGpU58x7+7IYK+Dxe9aT5j/rw=;PysIeQBbIByM1oQvCG7kxA=="
 ---
 
