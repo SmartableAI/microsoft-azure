@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
+    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
+    publishedDateTime: 2021-02-15T20:17:00Z
+    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Do54zEOAiauyjRKRy4hMNtd4kW3OzWuajyNFfn89zPHcJYezWFfkczmGR7TS2hZcMtpAYe7jB9frCTtn+MAwlUwcqylaKOSsQuayVXcsHZoizAeNxnpSecikUie4agmrwS4eBVLQvABOX3WhEaprpatIbF8hDk3UkQlH+QXx/LHB6ioU8T0IFXL2yE6CTa/SdDy+HBOzcP38ktteI8mGiOU8FpnJz8ArGE9biXMRyKskEzOfjGJ2kX8qGRomIH74kwPlhGy5/3jrBrBSAoj2i/UCQRpSePLRYOGwmDXJiBeLzMSqACpjGsU8bTm2Dg+YYv2vQAN0qiY+YNpfUuyvgnZV3+Uz4dhQ5btyuh8zeg0=;P9IUjZWybu02PCFI7vQ4BQ=="
 ---

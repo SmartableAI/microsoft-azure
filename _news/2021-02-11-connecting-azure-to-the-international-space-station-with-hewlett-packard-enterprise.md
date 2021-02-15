@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/connecting-azure-to-the-internati
 webUrl: "https://azure.microsoft.com/blog/connecting-azure-to-the-international-space-station-with-hewlett-packard-enterprise/"
 type: article
 quality: 81
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
+    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
+    publishedDateTime: 2021-02-15T20:17:00Z
+    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "HPE Spaceborne Computer-2 linked to Azure cloud for the Space Station"
     excerpt: "Hewlett Packard Enterprise is preparing to send a second-generation Spaceborne Computer to the International Space Station later this month."
     publishedDateTime: 2021-02-11T13:12:00Z
