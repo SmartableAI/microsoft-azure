@@ -51,6 +51,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
+    excerpt: "Microsoft India has announced the general availability of Azure Stack HCI, a new hyper-converged infrastructure (HCI) solution, that combines the flexibility, scalability, and price-performance advantages of hyper-converged infrastructure with native Azure hybrid capabilities."
+    publishedDateTime: 2021-02-15T15:09:00Z
+    webUrl: "https://uniindia.com/~/microsoft-launches-azure-stack-hci-in-india-to-empower-organizations-with-advanced-hybrid-cloud-capabilities/States/news/2319791.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 18
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/LargePhoto//2021/2/2021_2$LargePhoto15_Feb_2021_15022021194219.jpg"
+        width: 300
+        height: 209
+        isCached: true
 
 secured: "eMK4ppjuYpl0QJQiKiHCfX4RXoTf8SgFWRL5zSoB9VH9nlQZEhTtJRHyfHImvIp612Y+VcYJ03RcfSKHxs89JjuHHFodMo5e6KmCoKneYOQLEbzGRaEuOnH7aYRmYeohoGguRtcgrjEfDQiKC37ksBSUt1hCQWTPXoM/U8QrQlfLuwJVYDDMxKj/N90/kbXb/oRbGKGrvh3jdFKEcfRVJoE7Nneu1v5NcD8vuq9cql7O68eKYwpEJO2o53Lb5ajUVPdlpk/q7U75aD5of2n3ILEhhFU4N15EliyqLH493vOkpe0+WTt+ImRrP2stbj1/bwYt37SA9kQ2CAW5V/uH/2CVOq1RBvNEeaksNIWJn44=;UR5LbKYsqqEPJlWELQ2XJQ=="
 ---
