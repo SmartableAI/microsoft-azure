@@ -4,6 +4,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
+      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
+      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 2168,
+        "average": 4.6056275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Developer tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
       "title": "Explore the types of Azure Data Science Virtual Machines",
       "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
@@ -579,42 +624,6 @@
         "Web",
         "Serverless",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
-      "title": "Keep your virtual machines updated",
-      "excerpt": "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-keep-your-virtual-machines-updated/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3089,
-        "average": 4.5105214
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     },
     {

@@ -58,8 +58,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
       "length": "PT55M",
       "ratings": {
-        "count": 1721,
-        "average": 4.28007
+        "count": 1722,
+        "average": 4.280488
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
       "length": "PT30M",
       "ratings": {
-        "count": 2142,
-        "average": 4.703081
+        "count": 2143,
+        "average": 4.70322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-case-studies/",
       "length": "PT54M",
       "ratings": {
-        "count": 196,
-        "average": 4.7908163
+        "count": 197,
+        "average": 4.791878
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -165,6 +165,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-sql-case-studies-social.png",
           "width": 643,
           "height": 324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-sql-high-availability.md",
+      "title": "Deploy highly available solutions by using Azure SQL",
+      "excerpt": "In this module, you'll learn how to deploy highly available solutions by using Azure SQL. You'll also look at architectures and how they affect availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-high-availability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
+      "length": "PT1H34M",
+      "ratings": {
+        "count": 134,
+        "average": 4.738806
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-high-availability-social.png",
+          "width": 642,
+          "height": 325,
           "isCached": true
         }
       ],
@@ -1255,49 +1298,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data.md",
-      "title": "Implement compliance controls for sensitive data",
-      "excerpt": "Explore data classification capabilities and degrees of confidentiality. Explore and configure advanced threat protection options, including SQL Injection.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 903,
-        "average": 4.8172755
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-compliance-controls-for-sensitive-data-social.png",
           "width": 643,
           "height": 321,
           "isCached": true

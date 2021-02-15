@@ -4,6 +4,170 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage.md",
+      "title": "Upload data to Azure Data Lake Storage",
+      "excerpt": "Learn about creating an Azure Data Lake Storage account and uploading data to Data Lake Storage Gen 2 through the Azure Storage Explorer.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-data-to-azure-data-lake-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 1809,
+        "average": 4.61581
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/upload-data-to-azure-data-lake-storage-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
+      "title": "Upload, download, and manage data with Azure Storage Explorer",
+      "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1982,
+        "average": 4.6150355
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-use-compute-contexts-in-aml.md",
+      "title": "Work with Compute in Azure Machine Learning",
+      "excerpt": "Learn how to manage compute contexts for experiments in Azure Machine Learning.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-compute-contexts-in-aml/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 720,
+        "average": 4.651389
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-utilizing-azure-sap-workloads-reference-architecture.md",
+      "title": "Utilize Azure for SAP workloads reference architecture",
+      "excerpt": "Utilize Azure for SAP Workloads Reference Architecture",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-utilizing-azure-sap-workloads-reference-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloads-reference-architecture/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 338,
+        "average": 4.772189
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/utilizing-azure-sap-workloads-reference-architecture-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
       "title": "Work with DataFrames advanced methods in Azure Databricks",
       "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
@@ -123,121 +287,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday.md",
-      "title": "An introduction to decentralized identities | Azure Friday",
-      "excerpt": "Danny Strockis joins Scott Hanselman to discuss decentralized identity, which gives users ownership of their digital identities and data by leveraging permissionless distributed ledgers.  04:07 - Authentication concept 10:30 - Demo  Decentralized identity – Own your own identity https://aka.ms/azfr/566/01",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-introduction-to-decentralized-identities-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=r28GeXkxn0w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r28GeXkxn0w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M1S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-15T14:33:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r28GeXkxn0w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday.md",
-      "title": "An overview of Azure Data Explorer (ADX) | Azure Friday",
-      "excerpt": "Manoj Raheja joins Lara Rubbelke to demonstrate Azure Data Explorer (ADX) and provide an overview of the service from provisioning to querying. ADX is a fast, fully managed data analytics service for real-time analysis on large volumes of streaming data. It brings together a highly performant and scalable",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-data-explorer-adx-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=D_AJk2lAepw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D_AJk2lAepw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T17:00:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/D_AJk2lAepw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday.md",
-      "title": "An overview of Azure Integration Services | Azure Friday",
-      "excerpt": "Azure Integration Services brings together API Management, Logic Apps, Service Bus, and Event Grid as a reliable, scalable platform for integrating on-premises and cloud-based applications, data, and processes across your enterprise. [04:41] Demo Start   Azure Integration Services overview https://aka.ms/azfr/527/01",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-an-overview-of-azure-integration-services-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=sbqhJsWhKAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sbqhJsWhKAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M46S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T17:01:03-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sbqhJsWhKAs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
       ]
     },
     {
@@ -705,45 +754,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday.md",
-      "title": "Cognitive Search - Azure Search with AI | Azure Friday",
-      "excerpt": "Jacob Jedryszek joins Scott Hanselman to talk about about using Cognitive Services with Azure Search with your mobile and web apps. Skip hiring search experts who know what an inverted index is. Don't worry about distributed systems expertise to scale your service to handle large amount of data. And",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-cognitive-search-azure-search-with-ai-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=6kw8SHwxp9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kw8SHwxp9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M24S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T22:02:39-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6kw8SHwxp9c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
       "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
       "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
@@ -769,6 +779,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday.md",
+      "title": "Debugging and optimizing Azure Cosmos DB performance | Azure Friday",
+      "excerpt": "Deborah Chen joins Scott Hanselman to share some best practices on how to debug and optimize Azure Cosmos DB for better performance. Watch as they go through the common issues newcomers to Azure Cosmos DB run into with respect to performance and how to solve them by tuning Request Unit (RU) cost and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-debugging-and-optimizing-azure-cosmos-db-performance-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=IkCKGX6jbN4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IkCKGX6jbN4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-08T23:00:57-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IkCKGX6jbN4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -859,6 +908,44 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday.md",
+      "title": "Getting started with Azure App Configuration | Azure Friday",
+      "excerpt": "Azure App Configuration is a service that enables you to centralize your application configuration. Built on the simple concept of key-value pairs, this service provides manageability, availability, and ease-of-use. You can use Azure App Configuration to store and retrieve settings for applications,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-getting-started-with-azure-app-configuration-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=EIvuLLAMLZg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EIvuLLAMLZg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M42S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-24T16:03:29-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EIvuLLAMLZg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -1093,84 +1180,6 @@
         "Azure",
         "Management tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks.md",
-      "title": "How to build and deploy your first app with Azure SDK for Java | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to easily create and run the Java application in Azure SDK.    For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-your-first-app-with-azure-sdk-for-java-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=5tBRF46Qelc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5tBRF46Qelc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-06T08:07:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5tBRF46Qelc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series.md",
-      "title": "How to build Azure Workbooks using logs and parameters | Azure Portal Series",
-      "excerpt": "Discover how to use Azure Workbooks as a visualization tool for #AzureMonitor. Build an interactive, repeatable narrative to monitor your #Azure environment from apps to infrastructure beyond the insights. In an earlier video: https://youtu.be/Z5xRyy3HB8U, we covered how to build workbooks using Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-azure-workbooks-using-logs-and-parameters-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=EC7n1Oo6D-o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EC7n1Oo6D-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M39S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-12T11:39:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EC7n1Oo6D-o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     }
   ],
