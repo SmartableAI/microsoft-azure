@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2486,
-            "average": 4.710378
+            "count": 2487,
+            "average": 4.7100925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5748,
-        "average": 4.731733
+        "count": 5749,
+        "average": 4.7316055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2486,
-        "average": 4.710378
+        "count": 2487,
+        "average": 4.7100925
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -637,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 3444,
-        "average": 4.7592916
+        "count": 3446,
+        "average": 4.758851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -680,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "PT28M",
       "ratings": {
-        "count": 5178,
-        "average": 4.696987
+        "count": 5179,
+        "average": 4.6968527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -715,8 +715,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7231,
-        "average": 4.6502557
+        "count": 7232,
+        "average": 4.6500278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -759,8 +759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7033,
-        "average": 4.662875
+        "count": 7036,
+        "average": 4.6628766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -992,8 +992,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6644,
-        "average": 4.7414207
+        "count": 6646,
+        "average": 4.7414985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1112,8 +1112,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2758,
-        "average": 4.5649023
+        "count": 2759,
+        "average": 4.564335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1321,15 +1321,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-control-azure-services-with-cli.md",
-      "title": "Control Azure services with the CLI",
-      "excerpt": "Learn the steps to install the Azure CLI locally, create a website, and manage Azure resources using the CLI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-azure-services-with-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
+      "title": "Create a build pipeline with Azure Pipelines",
+      "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-build-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
+      "length": "PT1H20M",
       "ratings": {
-        "count": 5054,
-        "average": 4.7592006
+        "count": 5116,
+        "average": 4.7458954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1347,12 +1347,20 @@
         "Beginner"
       ],
       "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Management Tools"
+        "DevOps",
+        "Azure"
       ]
     }
   ],
