@@ -1,10 +1,10 @@
 ---
 category: news
-title: "General availability: Application Insight in UAE Central & Japan West"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-02-03T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+title: "US Gov Virginia Availability Zones now generally available"
+excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
+publishedDateTime: 2021-02-16T22:33:18Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
 type: article
 quality: 52
 heat: -1
@@ -145,10 +145,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "US Gov Virginia Availability Zones now generally available"
-    excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
-    publishedDateTime: 2021-02-16T22:33:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft
@@ -164,6 +164,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "X0hk5tvZQ5YdN7bpoQ0tiAKJCWoD4Np8VenRpyxG/MUpNSBPGpqTp+fV/ddqVX4Ze3yi8RtmFz5tfIvcVQJAZ1Oq57KFQKN+vo4PdGVVFc+ROcq6HcBpKC21U0q9NBpyOqm42SOKLWcsfX2PUDPP8lsEeHdLDKZACH/x15sQOUvhH80CxZmoAfRgZ9Extze7PJuUdW+L76PmjbB6rSwycKl4OdAoYU16C86TOrRbtQdXsP4x2nbKs+E8nh1qpDDJZ5RBnwSfSQGCfjKBXFn/JGXvzzox2HsvIFnigV5QT94WQLCyBCLm0n+FHMsJErNLgzCngtiYRbQ+Zc4fl/7Ew4sQX8nbKnESRF4hJU/4yIM=;a9apL2ElN6f7II1SMNlBOQ=="
+secured: "zSkk3zSf30jBLY+bebROH+yGBrR7lNZ4IIgKCQChh7t0O0ij9PlUQJI7Axr4Q6Pu53AGz+6lX1tmNKQxfvb6JIq0QtMACgVA0DkCPKaQGFMSOyKydhdJuZphKgNcWE5a4+2jwITiGL2Xvf+kb5Dp9iu3OX9rXyB2AZ42liWW7qfOJNy8VCAjat287iyHhtkdpMCwrNCCmjzKMmfBAJvLHDWvyBk57l6X+e/sq6XwauGE/YzSDQNfQ7r0C4dIdQy2094XkNS2CEFRNGypxMb2J2MczJZ+Cl7brmQ9naKa2DZFPlfxOD1Iqesgvb/jwKPjwPFyH2l+r10QlNQeoPo5FkC+cMJS70Fn5w+SFmzkgSo=;3/esdKgCudPnE+avtNCilw=="
 ---
 

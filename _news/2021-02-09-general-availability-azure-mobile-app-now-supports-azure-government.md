@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 364
+heat: 384
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "US Gov Virginia Availability Zones now generally available"
+    excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
+    publishedDateTime: 2021-02-16T22:33:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
     type: article
     provider:
       name: Microsoft

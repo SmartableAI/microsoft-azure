@@ -154,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "US Gov Virginia Availability Zones now generally available"
+    excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
+    publishedDateTime: 2021-02-16T22:33:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "RA20iIE0TFtOdKcQlsqKI1x/hiGVs8C6NvablIlgQkqlvyVqeeN7CafeEp6knrWrada+GZobDW/uIdhD0wt1bJynQS+u3iocXOFE6qe1kIITqkXq5UEwRkbW2l5BSO2LfClM7066doanyyRqzjw2Ur2a9YTgek6YOdzmDXTQY5LH9dCpgnrDQtdVZXsnuRlbEJD3WK2iXtzM2DohldtH5PHGrRdfPg8Th5q5Vz2nhO/K7lEGT8yu1zgUzZyilpyPdGglKKNKAPwm9tAm+WrxFu+aLqyKAO1FekTcNp9mBfdVxPqbu9RMsRjNP8m9pAcJEyQii03oDz7nBa4x0q3DLkSba1s3TMzLRT1wK6eyEr0=;DSYLu8LnRDmsDu2zgvWIwg=="
 ---
