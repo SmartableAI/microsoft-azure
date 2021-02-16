@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-publishedDateTime: 2021-02-11T07:08:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
+publishedDateTime: 2021-02-11T13:10:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Identity
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -310,6 +316,20 @@ related:
         width: 269
         height: 224
         isCached: true
+  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
+    publishedDateTime: 2021-02-11T00:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-04T17:59:00Z
@@ -385,6 +405,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "rM4iMkfpLS8UCWsTD2MTdwvS0Av8OE8b1KmtiPfQcfIPMDZGm3BeHVpqUgJpc43JVPbtBegc1VxcxvzL95x/jv2W4JDJWhiYh+ZVo5kKQJMQjb364oldUU5ZDFdYaVZdyJdg8mF3I/NGtUIr0h3rzj8H1jWEtrW9fVlzEWV0tDwjOIZkK0cHj/CAQPWQj0zVU2hiQy25ryEHHwi7jhYSp+6f2/tdYytrMIcmXTvEOy7NjtLjQZdi0/Am/edot3a3F4Nzs81J7s1c6ptetse8C2Xa7fkSwkKqRmexTTsySjo2k/BH+MCf2Ypc0oH608PR1TwckYl++eEp4W8ENzkWxbyiM4D2zZDD+JYXmbh4uOM=;Wyl3SvE5fUbmaDVnkftRQg=="
+secured: "eOpbXTS9XeSPqvFZ4Qi57S30JWpZ/7298pB1Zr2Bq1/Pu0QIWQSkZc6r24MwwAVI4hCbXqF/7p7WCJSwI1NbASflN2xNKKK8fvxlImRu2KEn90XRETMKMpZdkiltNQxkl0QRfeXbXL4dwO13XtN+DNJTPPwDqgp+CLVLhhcgRv4OR3EG78PipP5YAuRlSw1llfvqAjra9ecFCRAe8EZrEs9OBwn00eCmyo553NB9JdmtC3HYlLcKv5O6eEK+ISiSNH5v6OwsyQrXvAaoTeEE37mBrzMpq6j51w0frILS0+NSJll44IdRZ9C8XYBE4MbrgUTUiLrmdgbIAZs5ZgvD7Po3PBs7VPVF+9VpZLIPRbc=;K+12weuxZ0safLnAJYCrQg=="
 ---
 

@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
-excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
-publishedDateTime: 2021-02-11T13:00:00Z
-originalUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
-webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
-ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
+excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
+publishedDateTime: 2021-02-11T00:16:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
+webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
 type: article
-quality: 93
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
-    width: 630
-    height: 464
+  - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -45,6 +39,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
         width: 1200
         height: 774
+        isCached: true
+  - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
+    excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
+    publishedDateTime: 2021-02-11T13:00:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 93
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg"
+        width: 630
+        height: 464
         isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its heart"
     excerpt: "Volkswagen and Microsoft are collaborating on autonomous vehicles, with the two behemoths planning to work on an Automated Driving Platform. Announced today, the deal will see the VW Group and"
@@ -319,20 +329,6 @@ related:
         width: 269
         height: 224
         isCached: true
-  - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
-    publishedDateTime: 2021-02-11T00:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
     excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
     publishedDateTime: 2021-02-04T17:59:00Z
@@ -408,6 +404,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "pqXzf9XK7DgARYO60pOy8iQXAnzpB0krod25QNjI8iZQla4p9NKXfJZ1u4+QL9x5oJkshCyAmmO5BsQ071k0sRV6Lz0hFpZCWiPlE8U/jLoRkiLtfmXZ5sCParS06YQ5piym2rOAGW07Az2vBpzfl4KJ0lgKeY5w/NI3rwW2zfoeVb0RFTo70JnJ/38GY3yq5ehpW2RnlK4ZwF2L4Y/V9JxWMNP4o7aPBX1bmZ8lmGXhYbmK3/Kst8ylRcNnPlxjLSg8dQbGVfLlMLB1qIgco++PsudjNt+WjdDu3iwKEkO3Wh9q+z9muQfB7oqdE4+5+4jEuo4PGT3twjKUx4PxErQI/k8kKnE06gSqxNLsVdSAuR34ipAZ/8/W+0bvisNPFO/vgIUVF3vZ2rD15JpjLuc650teHNUSAp987nWy7a0OKil5qj9HH2B3viP+NYw5XKgL/ZmrxXv2rYslyQVw4C65QkFeLe39sQ0o27ldI5d9oREqzULaI25OVUJ4uMIBmqgfpzjGb55A69qF86i0ww==;JkXDDE0mllp1qjMa6w5SmQ=="
+secured: "tQFxxbwJK0eXtmqScbsaJ/ud4nRVaV+UT3Atw5Jq7gcssZ/G30Y/4PFXSpOLri7EbCJDtGnxDC1LwR0wDMOYKL+iCr4mrw6TKOUQ0aUhFIeZrLuSOmZX/n1+OMzm1BSEy6a3sc/PNDZoKwyMaMBbOWYy/lK9/eRb12nI9qxDXiOXayPaq5y0i2ph5b7h1VwdudqKVnNLwga8XHWtUHEoaHJxa7vWbKMzeCYPA/XAwW4Ot+w+PXkXl7F1nVAnYUMkvRHLnKk4j6ZR26riaWFEXT3T+xI4eabY+8xvhPSwV0geyARRXp24oGEOxIL20dvc1JaWojLA6xgxva8RqW+gPyUKcLMLyhTrcTxawaMrQMM=;hpA4cIm2EM5tFc4JJzeIoQ=="
 ---
 
