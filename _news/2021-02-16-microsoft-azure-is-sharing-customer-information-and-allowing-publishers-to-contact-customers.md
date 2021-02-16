@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
     publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
-        width: 2694
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "L/v2UEVyhB/BiSyxG7jg96XZ9510N3aaMi56ffBKHq9pI36Ok271kvJq6WtGQQXdfxzPc0QxM8IPkAZlfSb6nLmK1Z1CzWoa1l1pIiSANrfyolW6P98zGICN0m2Mn2Li4zZVEHdJxvjxJsUQQTuOZInI/WflY3rA1uzoecOlrW9tsBV2v0WUMb/Ceqn6f/cPB2/ltmBTV5Pm4r+MUJqKStL+jwr+13sy/MfcYre/bcowEOktcoSxB5qoTxtTw2/ilu2gUs87v9ClUjlBVRrUQGrkCNQpcm9m7qxq96ATsFgeyERA0kYmEKDfxNCCY//usgkimBcTteUzhbwNqsOZieQ4LH/CzI2GijsIVBS2pSM=;bD4S+ySg0jkc5dBlRPCmOA=="

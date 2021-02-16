@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-func
 webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
 type: article
 quality: 84
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
     excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
     publishedDateTime: 2020-11-17T21:00:21Z
     webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Firewall Premium is in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2020-11-18T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
     type: article
     provider:
       name: Microsoft

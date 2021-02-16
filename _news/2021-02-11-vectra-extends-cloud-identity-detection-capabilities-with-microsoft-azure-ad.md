@@ -2,27 +2,27 @@
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
 excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-publishedDateTime: 2021-02-11T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+publishedDateTime: 2021-02-11T13:10:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
 type: article
-quality: 91
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Identity
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -405,6 +405,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "bNR2sNaj6CoQmrZFn6DPsO4Ol7PSCX2ta4D8JThiPU3wXetzNGsupHy6l8u/asVbzSh1hFhynKMeaB5c8arZBbshMDjcM5NuABtYxPO3LLvvNWS0XgRPGysitQ/7Ok2tHtmTRFWCres8Dw2EaU4kfeeHvu7vOpZVqKbjl5pAycKn3xd0ib08fIkMbmBTLFXrm8DXtnBlQ8yfCmWa1WM0NLkeVgyArWBK2p2Ltyp5LQ7W+Gdr512Us9Wqz1qLt0lTQ3GILzrVpSZth/xNEW3+u4ALKwO50H6qPEzbw9HFLq1aj6RCQ7zzJprpdL69wWajuJDd2IEZGxN7dWk6qs7zagT17OapkEY1tjO0mPkxAr4=;SJaxCxtwvGWfkeMqRcBT1g=="
+secured: "SEBHEhBSyscbRwrpvsLBqvIAb5AoH1C01ycsP9+Pxo2g04rwC6+TGhCmqhn3z1zSaBIy5/aJQBJmpaF2omXeAm9tl4rckMITEwJFPvS7aX7LHIIJD47BKZBjqD6thVqF1cKrwxw63HJNVI9/AHxSujmKcj3ahY6CPrjGzGIJt0Uq/llNg8kbPeMg0F+tzcUK9F43TgFi5unHtdF0XFRIT34nMJYm7hV5ltSWyXUsyISpJK86HyXWm2Kh6yDpLQDqqnQZmlaw4eA/bVILj7jrNTh86Tbn/8gl4nNNR8NnqQxd91US1RBviAT7snZyVuf7hYyZ5HTwKqO+kAiVmZAxaG4WWBQxXRmEZ7wNoo5aSSI=;P5AzyTFXrk1N6a5sZlGBkg=="
 ---
 

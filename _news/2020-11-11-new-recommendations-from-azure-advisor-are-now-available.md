@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Firewall Premium is in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2020-11-18T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public preview: Application Insight in UAE North "
     excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
     publishedDateTime: 2020-11-16T19:09:09Z

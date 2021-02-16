@@ -22,51 +22,38 @@ topics:
   - Azure
 
 related:
-  - title: "Node.js 14 for Azure Functions is now available in public preview"
-    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
-    publishedDateTime: 2020-11-12T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+  - title: "Azure Firewall Premium now in preview"
+    excerpt: "Announcing the preview release of Azure Firewall Premium. Azure Firewall Premium provides next-generation firewall capabilities that are required for highly sensitive and regulated environments."
+    publishedDateTime: 2021-02-16T10:00:40Z
+    webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure Sphere 20.10 update is now available"
-    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
-    publishedDateTime: 2020-11-10T00:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "New recommendations from Azure Advisor are now available"
-    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-    publishedDateTime: 2020-11-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
-    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
-    publishedDateTime: 2020-11-17T21:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1c0edfef-1adb-479a-95e5-5c26f5911c4a.png"
+        width: 390
+        height: 480
+        isCached: true
+  - title: "Azure Firewall Premium now in public preview"
+    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
+    publishedDateTime: 2021-02-16T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Application Insight in UAE North "
-    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
-    publishedDateTime: 2020-11-16T19:09:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
+    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
+    publishedDateTime: 2021-02-12T16:43:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 53
 
 secured: "TETDixdprRdWFDrWH/Dwhj0SUbmKf5uZfmaoSE0+Ug+ByZPKJy0J4ceMX/3f/0mGpFWjYFDPicCdqztw4lDtLDrAuUwvIqB65qQX99fFmwzx4kU0xKRICPYcJC66n6EmzZjVz01UDOj4VgQx6WYtpHbGDh25C4IaZspidsOosk9sCxbmZ8cSHo1a2ivXlfpZ2CrARgxvMzBA5EIlYDdQABeCfP/zS60Nc8acZ3ypkrxMxDJhLpGSHVc9FzQnLPgT2BovQM5wqCVFESqrEMsgFj+iidwrgfEAVzzLKfrAwqcfJTGUB1QywA+VsbAGj8XBlcYOaK636kSjX0Ye/RK7LzUzkvtwpLlO9awfGJWNDb0=;eFCj7IFgWXyBFL9FESB4YA=="
 ---

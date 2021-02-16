@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
-excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
-publishedDateTime: 2021-02-12T16:43:50Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
+title: "Azure Firewall Premium now in public preview"
+excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
+publishedDateTime: 2021-02-16T17:00:40Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
 type: article
-quality: 53
+quality: 67
 heat: -1
 published: false
 
@@ -45,16 +45,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Firewall Premium now in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2021-02-16T17:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
+  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
+    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
+    publishedDateTime: 2021-02-12T16:43:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 53
 
-secured: "kAHa2w129q/0/LXppf6qCBJJZ067ZU7rQoEYu+FVh2BrMkgp02O1BT4odgocydaWfecErLvKL8WEQkfUwHlMHgOxYGNxoZAXsZrhjNVSBdORLst5t1YbnuGQ5Fh3vxqMYM3oK4dLC80V6CYwkADq8nH+3HKK6az7A/i3WRK/iR3rl9c0bvuJYjmABrZk3rYP1mm5L214w2WyTqOzcvqVR+/yaVrSjx0MaQJmvzXi8SY47T82fxmLORnZsUP7boaWNJZGs6x9olztp3Hh+K4NwDKf2bEUVIDfDtIjJqcS6/vHXDFSsYU8rvvL1wnyfQcJmTmUKCLSM27G50nj4T+AfRsHSRhyt22NBg5V5rDlfNw=;/wXc3cHozustCDlL0a/nEQ=="
+secured: "FIqYLDI09WgEooJsu2qbARR17xkUmMzOwpH5rS3m1kFPSYC6Jxk6kO4Qw+mN3/kF0oPNmR7Z9JkPujOW93IHHyvtXdivld5AtnBVNK8ksBCG87X3/w0YNymSSKLmvF5jffPTpQy1GfMfZgr+89QN+Khf2CC1sYvWYtXhxWLC7xVLoq4x7ceCecUGZVGnUuj7M8nkvJyB4tUyPFsx7JlRI/xQv4B3m/SK4iY8w1PW6yYeaCfmsFeFphJKJ2l+xxGRwSAm3WAjt/Z7pjSbbfni5mvYkZ3fkkslav9Y2FISsfJ9eCbdKXXBJbyWDQlP5vyMEZIksxG7dOZDdyOuUaMxuhSMEXzlLfrmuzLkXRA7g10=;jgscxCoLgcV4K26kEUvZZA=="
 ---
 
