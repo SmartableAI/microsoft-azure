@@ -4,6 +4,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-cmu-cloud-security.md",
+      "title": "Cloud security",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Keeping your cloud secure means more than just adding permissions to resources. Learn about what cloud security means, including threats, cryptography, and regulation.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-cloud-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 86,
+        "average": 4.7674417
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-cloud-security-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
       "title": "Implement resource management security in Azure",
       "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
@@ -35,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3371,
-            "average": 4.743103
+            "count": 3375,
+            "average": 4.7434072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -78,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2465,
-            "average": 4.7168355
+            "count": 2469,
+            "average": 4.717294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40755,
-            "average": 4.716035
+            "count": 40758,
+            "average": 4.716056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5856,
-            "average": 4.6656423
+            "count": 5857,
+            "average": 4.665699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -235,8 +278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27525,
-            "average": 4.784814
+            "count": 27554,
+            "average": 4.7848225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3371,
-            "average": 4.743103
+            "count": 3375,
+            "average": 4.7434072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -320,8 +363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 3354,
-            "average": 4.777579
+            "count": 3357,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +424,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 3371,
-        "average": 4.743103
+        "count": 3375,
+        "average": 4.7434072
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -484,8 +527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3345,
-            "average": 4.73722
+            "count": 3347,
+            "average": 4.737078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -571,8 +614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9007,
-            "average": 4.6969023
+            "count": 9008,
+            "average": 4.696936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 3354,
-            "average": 4.777579
+            "count": 3357,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -737,8 +780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 4264,
-            "average": 4.565666
+            "count": 4266,
+            "average": 4.56587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -905,8 +948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3371,
-            "average": 4.743103
+            "count": 3375,
+            "average": 4.7434072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1116,8 +1159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3345,
-            "average": 4.73722
+            "count": 3347,
+            "average": 4.737078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1364,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1856,
-            "average": 4.666487
+            "count": 1857,
+            "average": 4.666128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1364,8 +1407,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40755,
-            "average": 4.716035
+            "count": 40758,
+            "average": 4.716056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1591,7 +1634,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 61,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-users-and-groups-in-azure-active-directory-social.png",
@@ -1749,8 +1792,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3371,
-            "average": 4.743103
+            "count": 3375,
+            "average": 4.7434072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2084,8 +2127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5856,
-            "average": 4.6656423
+            "count": 5857,
+            "average": 4.665699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3922,8 +3965,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 319,
-            "average": 4.7178683
+            "count": 320,
+            "average": 4.71875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3966,8 +4009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 254,
-            "average": 4.7204723
+            "count": 255,
+            "average": 4.7215686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4002,8 +4045,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 278,
-            "average": 4.726619
+            "count": 279,
+            "average": 4.7275987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4066,8 +4109,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3345,
-        "average": 4.73722
+        "count": 3347,
+        "average": 4.737078
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4155,8 +4198,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3368,
-        "average": 4.7140737
+        "count": 3370,
+        "average": 4.713947
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4334,8 +4377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 68,
-            "average": 4.897059
+            "count": 69,
+            "average": 4.8985505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4464,49 +4507,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
           "width": 641,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
-      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
-      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
-      "length": "PT44M",
-      "ratings": {
-        "count": 1079,
-        "average": 4.6626506
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
