@@ -4,6 +4,220 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+      "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+      "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 19,
+        "average": 4.4736843
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
+      "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
+      "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 33,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-sql-server-virtual-machine.md",
+      "title": "Deploy SQL Server in a virtual machine",
+      "excerpt": "Configure virtual machine sizing, storage, and networking options to ensure adequate performance for your database workloads. Choose and configure appropriate high availability options. Investigate options for migrating existing workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sql-server-virtual-machine/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 2780,
+        "average": 4.781655
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-sql-server-in-a-virtual-machine-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
+      "title": "Deploy Azure virtual machines from VHD templates",
+      "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and error.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-vms-from-vhd-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 2192,
+        "average": 4.701186
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 693,
+        "average": 4.6753244
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-for-availability-and-recoverability.md",
       "title": "Design for availability and recoverability in Azure",
       "excerpt": "Learn how to handle infrastructure and service failure, recover from the loss if data, and recover from a disaster by designing availability and recoverability into your architecture.",
@@ -637,8 +851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
       "length": "PT50M",
       "ratings": {
-        "count": 1172,
-        "average": 4.5861773
+        "count": 1173,
+        "average": 4.58653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,226 +1330,6 @@
       "topics": [
         "Azure",
         "Management Tools",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines.md",
-      "title": "Migrate SQL workloads to Azure virtual machines",
-      "excerpt": "Migrate SQL workloads to Azure virtual machines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-workloads-azure-virtual-machines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-workloads-azure-virtual-machines/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 88,
-        "average": 4.6477275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-sql-workloads-to-azure-virtual-machines-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
-      "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
-      "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 45,
-        "average": 4.4444447
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms.md",
-      "title": "Plan and deploy Windows Server IaaS Virtual Machines",
-      "excerpt": "You'll be able to describe Azure compute and storage in relation to Azure VMs, and deploy Azure VMs by using the Azure portal, Azure CLI, or templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-deploy-windows-server-iaas-vms/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-deploy-windows-server-iaas-virtual-machines/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 19,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
-      "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
-      "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 14,
-        "average": 4.571429
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse.md",
-      "title": "Publish a web app to Azure by using Azure Toolkit for Eclipse",
-      "excerpt": "Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-eclipse/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-azure-toolkit-eclipse/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 9,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-azure-web-app-with-azure-toolkit-eclipse-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Compute"
       ]
     }

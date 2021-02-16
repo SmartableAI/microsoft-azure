@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 27650,
-        "average": 4.7851357
+        "count": 27678,
+        "average": 4.785317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27650,
-            "average": 4.7851357
+            "count": 27678,
+            "average": 4.785317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 14587,
-            "average": 4.809077
+            "count": 14606,
+            "average": 4.809188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 6888,
-            "average": 4.801539
+            "count": 6890,
+            "average": 4.801451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 14587,
-        "average": 4.809077
+        "count": 14606,
+        "average": 4.809188
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -336,16 +336,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks.md",
-      "title": "How to automatically manage Azure Blobs lifecycles | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to automatically manage Microsoft Azure Blobs lifecycles.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=-3k0hhngt7o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3k0hhngt7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M52S",
+      "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
+      "title": "Introduction to Kubernetes",
+      "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 724,
+        "average": 4.633978
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -356,71 +358,35 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-09T08:38:33-08:00",
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Beginner"
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series.md",
-      "title": "How to get a visualization view of your resources | Azure Portal Series",
-      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=wudqkkJd5E4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wudqkkJd5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-15T16:37:10-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools"
+        "Containers"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure.md",
-      "title": "Describe security management capabilities of Azure",
-      "excerpt": "Describe security management capabilities of Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-identify-azure-solutions.md",
+      "title": "Identify Azure solutions",
+      "excerpt": "In this module we’ll discuss solutions such as IoT, Azure IoT Hub, and Microsoft IoT Central. We’ll also explore big data analytics services (Azure SQL Data Warehouse, HDInsight, Azure Data Lake Analytics).",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-azure-solutions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-azure-solutions/",
+      "length": "PT33M",
       "ratings": {
-        "count": 12,
+        "count": 2,
         "average": 5.0
       },
       "provider": {
@@ -441,9 +407,10 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-security-management-capabilities-of-azure-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Identify Azure solutions",
           "isCached": true
         }
       ],
@@ -451,20 +418,19 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Security"
+        "Azure"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-test-hypothesis-by-simulating-statistics.md",
-      "title": "Test hypothesis by simulating  statistics",
-      "excerpt": "learn how to test hypothesis by simulating statistics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-test-hypothesis-by-simulating-statistics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/test-hypothesis-by-simulating-statistics/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-pitch-your-product-prototype.md",
+      "title": "Pitch your product prototype",
+      "excerpt": "Write a compelling pitch deck for your product prototype that will resonate with your audience and share the vision of your prototype.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-pitch-your-product-prototype/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/pitching-your-prototype/",
+      "length": "PT44M",
       "ratings": {
-        "count": 92,
-        "average": 4.804348
+        "count": 36,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,14 +448,6 @@
         "Beginner"
       ],
       "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/test-hypothesis-by-simulating-statistics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -528,8 +486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27650,
-            "average": 4.7851357
+            "count": 27678,
+            "average": 4.785317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -570,8 +528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 5955,
-            "average": 4.720571
+            "count": 5965,
+            "average": 4.7200336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -616,8 +574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5164,
-            "average": 4.759682
+            "count": 5167,
+            "average": 4.759822
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -661,8 +619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4086,
-            "average": 4.7518353
+            "count": 4089,
+            "average": 4.7515283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -723,200 +681,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-portal-how-to-series.md",
-      "title": "Azure Portal “How To” Series",
-      "excerpt": "Welcome to our weekly series that highlights specific aspects of the Azure portal so you can be more efficient and productive while deploying your cloud workloads from the portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-portal-how-to-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-portal-how-to-series/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series.md",
-          "title": "How to easily manage your virtual machine | Azure Portal Series",
-          "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about the new virtual machine (VM) overview experience, including new ways to quickly get started using your virtual machine.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=vQClJHt2ulQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQClJHt2ulQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M31S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-02-08T12:59:13-08:00",
-          "heat": 103,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/vQClJHt2ulQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools",
-            "Compute"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series.md",
-          "title": "How to use pills to filter in the Azure Portal | Azure Portal Series",
-          "excerpt": "IIn this episode of the #Azure Portal \"How To\" series, learn about the new design for pills, how to use them when filtering resources, and how to add and edit pill filters.  Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-pills-to-filter-in-the-azure-portal-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=XyKh_3NxUlM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XyKh_3NxUlM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M27S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-27T08:24:20-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XyKh_3NxUlM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series.md",
-          "title": "How to get a visualization view of your resources | Azure Portal Series",
-          "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to easily view a summary of your resources using different visualizations such as how to view all your resources on a map.   Try out these features in the Azure portal: https://portal.azure.com  Keep connected on Twitter: https://twitter.com/AzurePortal",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-a-visualization-view-of-your-resources-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=wudqkkJd5E4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wudqkkJd5E4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M38S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-15T16:37:10-08:00",
-          "heat": 131,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/wudqkkJd5E4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series.md",
-          "title": "How to use Azure Cost Management views | Azure Portal Series",
-          "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about built-in cost views in #Microsoft Azure Cost Management and how to create your own custom views.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal   Make",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-cost-management-views-azure-portal-series/",
-          "originalUrl": "https://youtube.com/watch?v=VRJA5bn2VH0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VRJA5bn2VH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M2S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-15T08:02:12-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/VRJA5bn2VH0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management tools"
-          ]
-        }
-      ],
-      "size": 50,
-      "heat": 123,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vQClJHt2ulQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -947,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27650,
-            "average": 4.7851357
+            "count": 27678,
+            "average": 4.785317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -989,8 +753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 3930,
-            "average": 4.7727737
+            "count": 3934,
+            "average": 4.772496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 3065,
-            "average": 4.7181077
+            "count": 3069,
+            "average": 4.718475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1075,8 +839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2717,
-            "average": 4.75046
+            "count": 2721,
+            "average": 4.750459
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1145,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 6888,
-        "average": 4.801539
+        "count": 6890,
+        "average": 4.801451
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27650,
-            "average": 4.7851357
+            "count": 27678,
+            "average": 4.785317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1253,8 +1017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 2482,
-            "average": 4.771958
+            "count": 2483,
+            "average": 4.77205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1296,8 +1060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2479,
-            "average": 4.7180314
+            "count": 2484,
+            "average": 4.718599
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,8 +1103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 2376,
-            "average": 4.7272725
+            "count": 2377,
+            "average": 4.7273874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1425,8 +1189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3391,
-            "average": 4.7443233
+            "count": 3394,
+            "average": 4.7442546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,8 +1232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2479,
-            "average": 4.7180314
+            "count": 2484,
+            "average": 4.718599
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1511,8 +1275,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40760,
-            "average": 4.7160697
+            "count": 40764,
+            "average": 4.7160974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1546,8 +1310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 5857,
-            "average": 4.665699
+            "count": 5858,
+            "average": 4.665756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1852,8 +1616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 140006,
-            "average": 4.701027
+            "count": 140007,
+            "average": 4.701022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1969,8 +1733,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 5955,
-        "average": 4.720571
+        "count": 5965,
+        "average": 4.7200336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2055,8 +1819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 4350,
-        "average": 4.630345
+        "count": 4354,
+        "average": 4.6306844
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2098,8 +1862,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 5164,
-        "average": 4.759682
+        "count": 5167,
+        "average": 4.759822
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2176,7 +1940,7 @@
             ]
           },
           "publishedDateTime": "2021-02-09T08:38:33-08:00",
-          "heat": 136,
+          "heat": 89,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg",
@@ -2214,7 +1978,7 @@
             ]
           },
           "publishedDateTime": "2021-02-03T08:54:27-08:00",
-          "heat": 81,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hlDN0o9tBAc/maxresdefault.jpg",
@@ -2252,7 +2016,7 @@
             ]
           },
           "publishedDateTime": "2021-01-26T08:11:14-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Dn_0La5ozHg/maxresdefault.jpg",
@@ -2291,7 +2055,7 @@
             ]
           },
           "publishedDateTime": "2021-01-12T11:46:16-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/XH4bNXwZPyk/maxresdefault.jpg",
@@ -2309,7 +2073,7 @@
         }
       ],
       "size": 144,
-      "heat": 97,
+      "heat": 98,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg",
@@ -2332,8 +2096,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 3930,
-        "average": 4.7727737
+        "count": 3934,
+        "average": 4.772496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2398,8 +2162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 27650,
-            "average": 4.7851357
+            "count": 27678,
+            "average": 4.785317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2440,8 +2204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3391,
-            "average": 4.7443233
+            "count": 3394,
+            "average": 4.7442546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2567,8 +2331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7052,
-            "average": 4.7610607
+            "count": 7064,
+            "average": 4.760334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2629,8 +2393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 2479,
-        "average": 4.7180314
+        "count": 2484,
+        "average": 4.718599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2672,8 +2436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 7052,
-        "average": 4.7610607
+        "count": 7064,
+        "average": 4.760334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2715,8 +2479,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 3391,
-        "average": 4.7443233
+        "count": 3394,
+        "average": 4.7442546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2823,6 +2587,87 @@
       "topics": [
         "Azure",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-iot-fundamentals.md",
+      "title": "Choose the best Azure IoT service for your application",
+      "excerpt": "Examine Azure IoT services, and choose the right service for your scenario.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-iot-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 3166,
+        "average": 4.774479
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks.md",
+      "title": "How to automatically manage Azure Blobs lifecycles | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to automatically manage Microsoft Azure Blobs lifecycles.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=-3k0hhngt7o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3k0hhngt7o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M52S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-09T08:38:33-08:00",
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

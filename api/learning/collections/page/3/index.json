@@ -4,204 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
-      "title": "Introduction to Kubernetes on Azure",
-      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
-      "length": "PT3H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Introduction to Docker containers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 4017,
-            "average": 4.648245
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-          "title": "Introduction to Kubernetes",
-          "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 724,
-            "average": 4.633978
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-          "title": "Introduction to Azure Kubernetes Service",
-          "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 3937,
-            "average": 4.618999
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 148,
-            "average": 4.783784
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
       "title": "Migrate application workloads and data to Azure",
       "excerpt": "Migrate application workloads and data to Azure",
@@ -232,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3643,
-            "average": 4.6807575
+            "count": 3647,
+            "average": 4.680559
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -360,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1249,
-            "average": 4.4403524
+            "count": 1250,
+            "average": 4.4408
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -479,8 +281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5720,
-            "average": 4.615734
+            "count": 5721,
+            "average": 4.6158013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -719,8 +521,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2796,
-            "average": 4.6459227
+            "count": 2797,
+            "average": 4.6460495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -755,8 +557,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
           "length": "PT42M",
           "ratings": {
-            "count": 1589,
-            "average": 4.6519823
+            "count": 1591,
+            "average": 4.65242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +686,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1564,
-            "average": 4.661125
+            "count": 1566,
+            "average": 4.6609197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1059,8 +861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1357,
-            "average": 4.6816506
+            "count": 1358,
+            "average": 4.6818852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 826,
-            "average": 4.687651
+            "count": 827,
+            "average": 4.688029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,8 +949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 849,
-            "average": 4.7255597
+            "count": 850,
+            "average": 4.7258825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1191,8 +993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1931,
-            "average": 4.6525116
+            "count": 1933,
+            "average": 4.652354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1278,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3643,
-            "average": 4.6807575
+            "count": 3647,
+            "average": 4.680559
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
           "length": "PT33M",
           "ratings": {
-            "count": 991,
-            "average": 4.609485
+            "count": 992,
+            "average": 4.609879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1926,8 +1728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1728,
-            "average": 4.71875
+            "count": 1729,
+            "average": 4.7189126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1971,8 +1773,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1669,
-            "average": 4.5140805
+            "count": 1671,
+            "average": 4.514662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2017,8 +1819,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
           "length": "PT40M",
           "ratings": {
-            "count": 545,
-            "average": 4.5798163
+            "count": 546,
+            "average": 4.580586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2195,8 +1997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1269,
-            "average": 4.7210402
+            "count": 1270,
+            "average": 4.72126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2239,8 +2041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 710,
-            "average": 4.7253523
+            "count": 711,
+            "average": 4.7257385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2281,8 +2083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 679,
-            "average": 4.723122
+            "count": 680,
+            "average": 4.7235293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2381,8 +2183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 231,
-            "average": 4.7099566
+            "count": 232,
+            "average": 4.711207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2557,6 +2359,194 @@
       "content": "\r\n",
       "type": "collection",
       "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
+      "title": "One Dev Question on Azure",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-one-dev-question-on-azure/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M46S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-07-01T08:04:20-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-30T08:05:33-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-29T08:03:22-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-25T08:03:44-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 65,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "Azure"
       ]
@@ -4291,8 +4281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 272,
-            "average": 4.7352943
+            "count": 273,
+            "average": 4.7362638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6130,8 +6120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1643,
-            "average": 4.621424
+            "count": 1644,
+            "average": 4.621046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6214,8 +6204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1139,
-            "average": 4.688323
+            "count": 1141,
+            "average": 4.6888695
           },
           "provider": {
             "name": "Microsoft Learn",

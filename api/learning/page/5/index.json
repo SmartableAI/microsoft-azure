@@ -4,6 +4,262 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks.md",
+      "title": "Is Azure Free Account really free? | Azure Tips and Tricks",
+      "excerpt": "In this video of Azure Tips and Tricks, you'll learn how to use Microsoft Azure for free, for 12 months. \r  For more tips and tricks, visit: http://azuredev.tips  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-is-azure-free-account-really-free-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=0KEfaUfolVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KEfaUfolVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-21T08:27:40-08:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0KEfaUfolVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-edge-engineer.md",
+      "title": "AI edge engineer",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-edge-engineer/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-edge-engineer/",
+      "length": "PT12H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot.md",
+          "title": "Introduction to Azure IoT",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 508,
+            "average": 4.7007875
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-hub.md",
+          "title": "Introduction to Azure IoT Hub",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-hub/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 1566,
+            "average": 4.6609197
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-hub-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-iot-edge.md",
+          "title": "Introduction to Azure IoT Edge",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-iot-edge/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 911,
+            "average": 4.6564217
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-edge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
+          "title": "Deploy a pre-built module to the Edge device",
+          "excerpt": "University of Oxford",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 426,
+            "average": 4.488263
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/deploy-pre-built-module-iot-edge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/introduction-to-iot-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Management Tools",
+        "Containers",
+        "Compute",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-api-integration-in-azure.md",
       "title": "Architect API integration in Azure",
       "excerpt": "Learn how to architect API integration in Azure, and provide secure, scalable API access for your applications.",
@@ -34,8 +290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1357,
-            "average": 4.6816506
+            "count": 1358,
+            "average": 4.6818852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -78,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 826,
-            "average": 4.687651
+            "count": 827,
+            "average": 4.688029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 849,
-            "average": 4.7255597
+            "count": 850,
+            "average": 4.7258825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -166,8 +422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 1931,
-            "average": 4.6525116
+            "count": 1933,
+            "average": 4.652354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -253,8 +509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3643,
-            "average": 4.6807575
+            "count": 3647,
+            "average": 4.680559
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -296,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
           "length": "PT33M",
           "ratings": {
-            "count": 991,
-            "average": 4.609485
+            "count": 992,
+            "average": 4.609879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +1157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1728,
-            "average": 4.71875
+            "count": 1729,
+            "average": 4.7189126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +1202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1669,
-            "average": 4.5140805
+            "count": 1671,
+            "average": 4.514662
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -992,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/logic-apps-and-custom-connectors/",
           "length": "PT40M",
           "ratings": {
-            "count": 545,
-            "average": 4.5798163
+            "count": 546,
+            "average": 4.580586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1170,8 +1426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1269,
-            "average": 4.7210402
+            "count": 1270,
+            "average": 4.72126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1214,8 +1470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 710,
-            "average": 4.7253523
+            "count": 711,
+            "average": 4.7257385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 679,
-            "average": 4.723122
+            "count": 680,
+            "average": 4.7235293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1356,8 +1612,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
           "length": "PT34M",
           "ratings": {
-            "count": 231,
-            "average": 4.7099566
+            "count": 232,
+            "average": 4.711207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1537,6 +1793,194 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
+      "title": "One Dev Question on Azure",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-one-dev-question-on-azure/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M46S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-07-01T08:04:20-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-30T08:05:33-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
+          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
+          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
+          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-29T08:03:22-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
+          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
+          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
+          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-25T08:03:44-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 65,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
       "title": "Create a Linux virtual machine in Azure",
       "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
@@ -1544,8 +1988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9011,
-        "average": 4.6970367
+        "count": 9013,
+        "average": 4.697104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1570,6 +2014,46 @@
         "Azure",
         "Management Tools",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series.md",
+      "title": "How to create an Azure SQL database | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create an Azure SQL Database in the Azure Portal and how you can be more productive in Azure.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=p7X8lH_XMtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p7X8lH_XMtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-08T09:00:08-07:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p7X8lH_XMtI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Databases"
       ]
     },
     {
@@ -3302,8 +3786,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 272,
-            "average": 4.7352943
+            "count": 273,
+            "average": 4.7362638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5141,8 +5625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1643,
-            "average": 4.621424
+            "count": 1644,
+            "average": 4.621046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5225,8 +5709,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1139,
-            "average": 4.688323
+            "count": 1141,
+            "average": 4.6888695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5404,487 +5888,6 @@
         "Storage",
         "Databases",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-threat-modeling-security-fundamentals.md",
-      "title": "Threat Modeling Security Fundamentals",
-      "excerpt": "This learning path takes you through the four main phases of threat modeling, explains the differences between each data-flow diagram element, walks you through the threat modeling framework, recommends different tools and gives you a step-by-step guide on creating proper data-flow diagrams.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-threat-modeling-security-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-threat-modeling-security-fundamentals/",
-      "length": "PT3H12M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-tm-introduction-to-threat-modeling.md",
-          "title": "Introduction to threat modeling",
-          "excerpt": "Explore the four high-level steps of threat modeling.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-introduction-to-threat-modeling/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 468,
-            "average": 4.7286325
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements.md",
-          "title": "Create a threat model using data-flow diagram elements",
-          "excerpt": "Data-flow diagrams are graphical representations of your system and should specify each element, their interactions and context.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 320,
-            "average": 4.71875
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-a-threat-model-using-data-flow-diagram-elements-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
-          "title": "Provide context with the right depth layer",
-          "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 255,
-            "average": 4.7215686
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
-          "title": "Approach your data-flow diagram with the right threat model focus",
-          "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
-          "length": "PT8M",
-          "ratings": {
-            "count": 279,
-            "average": 4.7275987
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "IoT",
-            "Security"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-threat-modeling-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-one-dev-question-on-azure.md",
-      "title": "One Dev Question on Azure",
-      "excerpt": "",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-one-dev-question-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-one-dev-question-on-azure/",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal.md",
-          "title": "The relationship between an authorization request and tokens | One Dev Question: Hirsch Singhal",
-          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains how authorization requests are connected to access tokens and refresh tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-protocols?WT.mc_id=onedevquestion-c9-AzureIdent",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-relationship-between-an-authorization-request-and-tokens-one-dev-question-hirsch-singhal/",
-          "originalUrl": "https://youtube.com/watch?v=jEEwN7XAtUo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jEEwN7XAtUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M46S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-07-01T08:04:20-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
-          "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
-          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero/",
-          "originalUrl": "https://youtube.com/watch?v=OzqpxeD3fG0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzqpxeD3fG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M10S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-30T08:05:33-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/OzqpxeD3fG0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal.md",
-          "title": "The difference between, ID, access, refresh, and session tokens? | One Dev Question: Hirsch Singhal",
-          "excerpt": "In the One Dev Question series, Hirsch Singhal a Program Manager working on the Microsoft identity platform, explains the difference between identity, access, refresh, and session tokens.    For more information, visit: https://docs.microsoft.com/azure/active-directory/develop/access-tokens?WT.mc_id=onedevquestion-c9-AzureIdent",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-the-difference-between-id-access-refresh-and-session-tokens-one-dev-question-hirsch-singhal/",
-          "originalUrl": "https://youtube.com/watch?v=41vmzPdbfXM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/41vmzPdbfXM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT2M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-29T08:03:22-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/41vmzPdbfXM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero.md",
-          "title": "What types of Azure RBAC role definitions exist? | One Dev Question: Arturo Lucatero",
-          "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on Azure role-based access control (RBAC), explains the various types of Azure role-based access control definitions.    For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-types-of-azure-rbac-role-definitions-exist-one-dev-question-arturo-lucatero/",
-          "originalUrl": "https://youtube.com/watch?v=I1mefHptRgo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I1mefHptRgo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1M25S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-25T08:03:44-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/I1mefHptRgo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 65,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jEEwN7XAtUo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
-      "title": "Microsoft Azure Well-Architected Framework - Security",
-      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 3349,
-        "average": 4.737235
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 7656,
-        "average": 4.655695
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     }
   ],

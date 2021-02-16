@@ -4,6 +4,1032 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-implement-microsoft-identity-associate.md",
+      "title": "Implement Microsoft identity – Associate",
+      "excerpt": "The Microsoft identity platform is an evolution of the Azure Active Directory (Azure AD) developer platform. It allows developers to build applications that sign in users, and access resources in both external applications such as Microsoft Office 365, the Azure portal, and thousands of other SaaS applications and internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. Learn how to utilize Microsoft identity in your custom applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-microsoft-identity-associate/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-microsoft-identity-associate/",
+      "length": "PT5H42M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
+          "title": "Getting Started with Microsoft Identity",
+          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 259,
+            "average": 4.7027025
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-application-types.md",
+          "title": "Application types in Microsoft identity",
+          "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 146,
+            "average": 4.609589
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
+          "title": "Permissions and Consent Framework",
+          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 117,
+            "average": 4.74359
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
+          "title": "Secure custom APIs with Microsoft Identity",
+          "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
+          "length": "PT1H23M",
+          "ratings": {
+            "count": 104,
+            "average": 4.701923
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-windows-server-hybrid-cloud-management-monitoring-and-security.md",
+      "title": "Implement Windows Server hybrid cloud management, monitoring, and security",
+      "excerpt": "This learning path addresses problems related to managing, monitoring, and securing a hybrid environment. After completing the learning path, you’ll be able to manage and maintain hybrid Azure and on-premises workloads.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-hybrid-cloud-management-monitoring-and-security/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-hybrid-cloud-management-monitoring-and-security/",
+      "length": "PT2H55M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc.md",
+          "title": "Manage hybrid workloads with Azure Arc",
+          "excerpt": "You will learn to describe Azure Arc, implement Azure Arc with on-premises server instances, deploy Azure policies with Azure Arc, and use role-based access control (RBAC) to restrict access to Log Analytics data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-hybrid-workloads-with-azure-arc/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-hybrid-workloads-azure-arc/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 32,
+            "average": 4.84375
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-hybrid-workloads-with-azure-arc-social.png",
+              "width": 642,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances.md",
+          "title": "Monitor Windows Server IaaS Virtual Machines and hybrid instances",
+          "excerpt": "You'll be able to implement Azure Monitor for IaaS Virtual Machines in Azure, implement Azure Monitor in on-premises environments, and use dependency maps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-windows-server-iaas-vms-hybrid-instances/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 45,
+            "average": 4.4444447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/monitor-windows-server-iaas-vms-and-hybrid-instances-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "DevOps",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
+          "title": "Audit the security of Windows Server IaaS Virtual Machines",
+          "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 41,
+            "average": 4.707317
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/audit-the-security-of-windows-server-iaas-vms-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
+          "title": "Manage Azure updates",
+          "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 33,
+            "average": 4.4848485
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-azure-updates-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-hybrid-workloads-with-azure-arc-social.png",
+          "width": 642,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security.md",
+      "title": "Implement Windows Server IaaS VM Security",
+      "excerpt": "This learning path deals with securing your Azure resources. After completing the learning path, you’ll be able to determine if your Azure IaaS workloads have any security vulnerabilities, and remediate those potential security vulnerabilities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-windows-server-iaas-vm-security/",
+      "length": "PT4H23M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms.md",
+          "title": "Audit the security of Windows Server IaaS Virtual Machines",
+          "excerpt": "You'll learn about Azure Security Center and how to onboard Windows Server computers to Security Center. You'll also learn about Azure Sentinel, security information and event management (SIEM), and security orchestration, automation and response (SOAR).",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-audit-security-of-windows-server-iaas-vms/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 41,
+            "average": 4.707317
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/audit-the-security-of-windows-server-iaas-vms-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
+          "title": "Manage Azure updates",
+          "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 33,
+            "average": 4.4848485
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/manage-azure-updates-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control.md",
+          "title": "Create and implement application allowlists with adaptive application control",
+          "excerpt": "You'll be able to implement Adaptive application controls within your organization to protect your Windows Server IaaS VMs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-implement-application-allowlists-with-adaptive-application-control/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-implement-application-allowlists-adaptive-application-control/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 17,
+            "average": 4.7058825
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-and-implement-application-whitelists-with-adaptive-application-control-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms.md",
+          "title": "Configure BitLocker disk encryption for Windows IaaS Virtual Machines",
+          "excerpt": "You'll be able to configure Azure Disk Encryption for Windows IaaS VMs and back up and recover encrypted data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-bitlocker-disk-encryption-for-windows-iaas-vms/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 19,
+            "average": 4.736842
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-bitlocker-disk-encryption-for-windows-iaas-vms-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/audit-the-security-of-windows-server-iaas-vms-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps",
+        "Compute",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices.md",
+      "title": "Improve your reliability with modern operations practices",
+      "excerpt": "The reliability of your systems, services and products has a direct impact on your success. Learn the modern operations principles and practices (and the Azure features that support them) that will help you achieve the level of reliability you need.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-improve-your-reliability-with-modern-operations-practices/",
+      "length": "PT2H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-improve-reliability-introduction.md",
+          "title": "Improve your reliability with modern operations practices: An introduction",
+          "excerpt": "Discover a map for navigating reliability challenges and sustainably achieving the appropriate level of reliability in your systems, services, and products.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-introduction/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-introduction/",
+          "length": "PT10M",
+          "ratings": {
+            "count": 68,
+            "average": 4.6764708
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-reliability-monitoring.md",
+          "title": "Improve your reliability with modern operations practices: Monitoring",
+          "excerpt": "Learn how to use monitoring to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-monitoring/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-monitoring/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 52,
+            "average": 4.730769
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-monitoring-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-reliability-incidents.md",
+          "title": "Improve your reliability with modern operations practices: Incident response",
+          "excerpt": "Learn the incident response fundamentals necessary to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-incidents/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 183,
+            "average": 4.655738
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-incidents-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-improve-reliability-failure.md",
+          "title": "Improve your reliability with modern operations practices: Learning from failure",
+          "excerpt": "Learn about post-incident reviews, a practice necessary to help you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-reliability-failure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failure/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 201,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-failure-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-reliability-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business.md",
+      "title": "Introduce DevOps Dojo: Create efficiencies that support your business",
+      "excerpt": "Start your DevOps Dojo journey.  Create multidisciplinary DevOps teams by using shared tools and processes that are designed to make your organization’s software development and implementation projects more efficient.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduce-devops-dojo-create-efficiencies-that-support-your-business/",
+      "length": "PT2H0M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+          "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+          "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 3255,
+            "average": 4.6884794
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-define-foundation-pillars.md",
+          "title": "Define the foundation pillars of DevOps: Architecture and Technology",
+          "excerpt": "There are three things required to make DevOps happen: the cultural component, tools and technology, and architecture. Discover the last two foundation pillars of DevOps, Architecture and Technology!",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-define-foundation-pillars/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-foundation-pillars/",
+          "length": "PT16M",
+          "ratings": {
+            "count": 1637,
+            "average": 4.744044
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+          "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+          "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+          "length": "PT22M",
+          "ratings": {
+            "count": 1961,
+            "average": 4.7231007
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explain-devops-continous-delivery-quality.md",
+          "title": "Explain DevOps Continuous Delivery and Continuous Quality",
+          "excerpt": "Explore two capabilities in the DevOps taxonomy, Continuous Delivery and Continuous Quality.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-devops-continous-delivery-quality/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-devops-continous-delivery-quality/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 1545,
+            "average": 4.7255664
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "DevOps"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-java-on-azure.md",
       "title": "Java on Azure",
       "excerpt": "Start here and learn how you can build, migrate and scale Java applications on Azure leveraging Azure services, and using tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform etc.",
@@ -468,8 +1494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
           "length": "PT50M",
           "ratings": {
-            "count": 350,
-            "average": 4.7714286
+            "count": 351,
+            "average": 4.769231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1122,8 +2148,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
           "length": "PT50M",
           "ratings": {
-            "count": 350,
-            "average": 4.7714286
+            "count": 351,
+            "average": 4.769231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1336,8 +2362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/administer-manage-windows-server-iaas-virtual-machine-remotely/",
           "length": "PT44M",
           "ratings": {
-            "count": 32,
-            "average": 4.75
+            "count": 33,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2278,8 +3304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
           "length": "PT37M",
           "ratings": {
-            "count": 1505,
-            "average": 4.6684384
+            "count": 1506,
+            "average": 4.6686587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3459,8 +4485,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 272,
-            "average": 4.7352943
+            "count": 273,
+            "average": 4.7362638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3580,8 +4606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 2,
-            "average": 4.0
+            "count": 3,
+            "average": 4.3333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4886,8 +5912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 7127,
-        "average": 4.7602077
+        "count": 7128,
+        "average": 4.7602415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4955,204 +5981,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-python.md",
-      "title": "Introduction to Python",
-      "excerpt": "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
-      "length": "PT1H7M",
-      "ratings": {
-        "count": 5683,
-        "average": 4.72057
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-python-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals-2.md",
-      "title": "Fundamentals of network security",
-      "excerpt": "Explore the fundamentals of computer networking security and monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals-2/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 3373,
-        "average": 4.7136083
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
-      "title": "Fundamentals of computer networking",
-      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 4515,
-        "average": 4.712957
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
-      "title": "Secure your Azure Storage account",
-      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 8670,
-        "average": 4.6507497
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-      "title": "Survey the services on the Azure Data platform",
-      "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 5165,
-        "average": 4.6923523
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
