@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
-excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
-publishedDateTime: 2021-02-12T16:43:50Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
+title: "Automatic Azure VM extension upgrade capabilities now in public preview"
+excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure virtual machines and virtual machine scale sets, keeping your environments more secure and up to date."
+publishedDateTime: 2021-02-16T19:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
 type: article
-quality: 53
+quality: 67
 heat: -1
 published: false
 
@@ -45,15 +45,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Automatic Azure VM extension upgrade capabilities now in public preview"
-    excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure virtual machines and virtual machine scale sets, keeping your environments more secure and up to date."
-    publishedDateTime: 2021-02-16T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Firewall Premium now in public preview"
     excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
     publishedDateTime: 2021-02-16T17:00:40Z
@@ -63,7 +54,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
+    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
+    publishedDateTime: 2021-02-12T16:43:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
 
-secured: "kAHa2w129q/0/LXppf6qCBJJZ067ZU7rQoEYu+FVh2BrMkgp02O1BT4odgocydaWfecErLvKL8WEQkfUwHlMHgOxYGNxoZAXsZrhjNVSBdORLst5t1YbnuGQ5Fh3vxqMYM3oK4dLC80V6CYwkADq8nH+3HKK6az7A/i3WRK/iR3rl9c0bvuJYjmABrZk3rYP1mm5L214w2WyTqOzcvqVR+/yaVrSjx0MaQJmvzXi8SY47T82fxmLORnZsUP7boaWNJZGs6x9olztp3Hh+K4NwDKf2bEUVIDfDtIjJqcS6/vHXDFSsYU8rvvL1wnyfQcJmTmUKCLSM27G50nj4T+AfRsHSRhyt22NBg5V5rDlfNw=;/wXc3cHozustCDlL0a/nEQ=="
+secured: "Ax6wNwwlIsuP9XHU4MzgIL2dasGiShJ1GV2AojZBPYRS1QI6EgVHnKOsIX1MxQAu1bfgluCOqTMiwyo9kKBzngLH/m7x2jm04MLdiY7QGQPkfJzvbibVhdACn/eJJf0ivEqLFiZWBj8wU4p94WiPL0zvGoAX/TKhLNKZj4L2f/cD4+4dltnNC06PPXQCaaJxkSVUdKGG0mhr0cPrU1LXnMwDHmf+wIzobrkTW9Jqze3L4F8i9TZZHW0aty078ZihVTs4+GvENkfHZvHDCWpTx0Rz1D7g/76zsgykpq9I0qyrl1I1I5nHfwqc2+xgdMJo5iOjRiFCS9MTZqUETVBSu/2pWyL5qKhGhgq06wtYgDM=;zkbLPYuJsgHp4NEAr7oLmg=="
 ---
 

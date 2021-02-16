@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
+excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications"
 publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
+originalUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
+webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
+    width: 2694
+    height: 1414
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 780
         isCached: true
 
-secured: "ymwachWBm6acHR4/AwExOJ0odNRlXPG6zV2+OwrJ2DHkvQEwxadhzu7LI79RjfMHYLNJgW5SfwVcDPdflL1qm2hzKtctpJRDnUkGPV7esay/EDFqRP/oMaAsHUoYwy5xuyOmlY8GmynlTgbY73BQ0LrZp3r9vRVoIRnhjbV6Cw6zB9bgVI/2BTAgFFdryZiuBNwB/1HRRWWbE/GVRerM/FCQ6YNbFd6znqmRQ8FFobbV4hD82MzR3QvPditTJx01Fo+fZ0ncbwjkPDE3PlN00yE7OcNrmaR5wZAVhiQiB8ZfWEU5ZitTcfBJV+Itv6lbvObaVLVp3Z2/++WI/aO/m0svqBosX4yLhxDAojyFqnQ=;hCXqJGBdeYF3H/jqs35uaA=="
+secured: "zFiL+4ADo12a8jOCfTmLXmA8BvYdIaqStpSo9GcK0vTuQKxOh3BjC4TGLw+o/I6NLnOn0QWSSQTu+8fLXxxhmCTepbY0YO6IdliAUz02B+yluYizA6yfIsJvIS2StAhLpuChOeyzrd/n4wFh0oUL5YCj6DmzsGNFpkMPotiI6XqTLkD9c7k9UFz1ekBcKCBVvI+kibkqF6poJnQLdoE+iFSkYW8454MXo+mPIlRgm5QX++WS4Mm13wGguHg1wWcg+Ha4lrFNn1ibgx/YpM2BoHER5Rc4iQ2jKpcuxHYhLFc8iJtc8YEGvW07qOpPsLS3F3lVL9fXF6A9OHrTgJJbTcFBaVbiDiJ5GHenG4kOKYg=;hGxoqNp7LIu+WrTW8APhpg=="
 ---
 

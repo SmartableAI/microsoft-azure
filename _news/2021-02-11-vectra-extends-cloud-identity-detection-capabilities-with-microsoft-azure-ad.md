@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-publishedDateTime: 2021-02-11T13:10:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+publishedDateTime: 2021-02-11T07:08:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
   - Identity
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -226,6 +220,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
+    publishedDateTime: 2021-02-04T17:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -330,20 +333,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
-    publishedDateTime: 2021-02-04T18:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -405,6 +394,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "SEBHEhBSyscbRwrpvsLBqvIAb5AoH1C01ycsP9+Pxo2g04rwC6+TGhCmqhn3z1zSaBIy5/aJQBJmpaF2omXeAm9tl4rckMITEwJFPvS7aX7LHIIJD47BKZBjqD6thVqF1cKrwxw63HJNVI9/AHxSujmKcj3ahY6CPrjGzGIJt0Uq/llNg8kbPeMg0F+tzcUK9F43TgFi5unHtdF0XFRIT34nMJYm7hV5ltSWyXUsyISpJK86HyXWm2Kh6yDpLQDqqnQZmlaw4eA/bVILj7jrNTh86Tbn/8gl4nNNR8NnqQxd91US1RBviAT7snZyVuf7hYyZ5HTwKqO+kAiVmZAxaG4WWBQxXRmEZ7wNoo5aSSI=;P5AzyTFXrk1N6a5sZlGBkg=="
+secured: "7ZwSGsDlwoCryZGZrKgQCVjxZPBPE6czHMEl4W/ONzepzu+2F28mhP9nbMJ4tBtAQG+fpCEnV/ruHPOO9SEOpevuXHAjx92jr+8ZJNBJZ1lM4B6FKepIypI2XVgxvuh88lsaqWtuhBL+YJNz0O9GyLzc7UobOL+k3FEYDkfIw/3ZbPFQYoH126vfisgWX2N+cA0khgD40mqbAtWqCU/ul/ni9g6SWV42RKq+B3YCPBGbNxR1mQJAar/cbHJSqPlI1fhaqLR7D3mGUfvnOY7LFQljvfm0QdV+FT+Pgpv1eSOqFVaCYrd7/wHeq/gnIEFM8EVSGT5MtmpL6SYZ7LFAt9m7O8DaZ17x+//9aqXj1/8=;9YdEhr2BqVkUQwGelm7A3Q=="
 ---
 

@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Automatic Azure VM extension upgrade capabilities now in public preview"
+    excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure virtual machines and virtual machine scale sets, keeping your environments more secure and up to date."
+    publishedDateTime: 2021-02-16T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
     excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
     publishedDateTime: 2021-02-12T16:43:50Z

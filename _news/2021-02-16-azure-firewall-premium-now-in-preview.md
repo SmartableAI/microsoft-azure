@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-pre
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
     publishedDateTime: 2020-11-18T17:00:04Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Automatic Azure VM extension upgrade capabilities now in public preview"
+    excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure virtual machines and virtual machine scale sets, keeping your environments more secure and up to date."
+    publishedDateTime: 2021-02-16T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
     type: article
     provider:
       name: Microsoft
