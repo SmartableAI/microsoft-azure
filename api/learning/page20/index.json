@@ -4,6 +4,168 @@
   "page": 20,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-manage-changes-pull-requests-github.md",
+      "title": "Manage repository changes by using pull requests on GitHub",
+      "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-changes-pull-requests-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 219,
+        "average": 4.7260275
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/manage-changes-pull-requests-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
+      "title": "Manage Agile software delivery plans across teams",
+      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 2626,
+        "average": 4.7281036
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
+      "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
+      "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-release-cadence/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 582,
+        "average": 4.7250857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
+      "title": "Manage user authentication",
+      "excerpt": "Manage user authentication",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 7,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
       "title": "Settle competing commits by using merge conflict resolution on GitHub",
       "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
@@ -11,8 +173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
       "length": "PT52M",
       "ratings": {
-        "count": 196,
-        "average": 4.836735
+        "count": 197,
+        "average": 4.8375635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 261,
-        "average": 4.727969
+        "count": 262,
+        "average": 4.7251906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -314,8 +476,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 299,
-        "average": 4.769231
+        "count": 300,
+        "average": 4.77
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -575,8 +737,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 548,
-        "average": 4.80292
+        "count": 549,
+        "average": 4.803279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -619,8 +781,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
       "length": "PT56M",
       "ratings": {
-        "count": 889,
-        "average": 4.7007875
+        "count": 890,
+        "average": 4.7011237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -747,8 +909,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4390,
-        "average": 4.5353074
+        "count": 4391,
+        "average": 4.5354133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1101,162 +1263,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks.md",
-      "title": "Work with DataFrames columns in Azure Databricks",
-      "excerpt": "Work with DataFrames columns in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-columns-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 163,
-        "average": 4.607362
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-columns-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
-      "title": "Work with Data in Azure Machine Learning",
-      "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-in-aml/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 836,
-        "average": 4.6483254
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday.md",
-      "title": "60 seconds to a Linkerd service mesh on AKS | Azure Friday",
-      "excerpt": "See just how easy it is to deploy a service mesh to your AKS cluster. William Morgan, maintainer of the open source service mesh Linkerd, joins Scott Hanselman to demonstrate just how easy it is to deploy Linkerd. Together they explore how to debug a live microservices application using the service mesh,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-60-seconds-to-a-linkerd-service-mesh-on-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=f8R3Y_geZwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f8R3Y_geZwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M45S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T12:22:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f8R3Y_geZwU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-automate-azure-resources-with-ansible-azure-friday.md",
-      "title": "Automate Azure resources with Ansible | Azure Friday",
-      "excerpt": "Kylie Liang joins Lara Rubbelke to demo how to use Ansible, an open-source, simple IT automation engine for automating cloud provisioning, configuration management and application deployments on Azure. Kylie also shares the roadmap for Ansible on Azure. [00:15] Demo Start   For more information:  + Ansible",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-automate-azure-resources-with-ansible-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-automate-azure-resources-with-ansible-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=khkdvLGfjYk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/khkdvLGfjYk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M54S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:02:06-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/khkdvLGfjYk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Azure"

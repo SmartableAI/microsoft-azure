@@ -4,6 +4,181 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
+      "title": "Automate Azure Functions deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 356,
+        "average": 4.702247
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
+      "title": "Automate Docker container deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 319,
+        "average": 4.7147336
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-kubernetes.md",
+      "title": "Automate multi-container Kubernetes deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for multiple containers to Kubernetes.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-kubernetes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-kubernetes/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 369,
+        "average": 4.701897
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-kubernetes-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks.md",
+      "title": "Describe Azure Databricks",
+      "excerpt": "Describe Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 673,
+        "average": 4.549777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-identity-principles-concepts.md",
       "title": "Describe identity principles and concepts",
       "excerpt": "Describe identity principles and concepts",
@@ -97,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
       "length": "PT34M",
       "ratings": {
-        "count": 233,
-        "average": 4.712446
+        "count": 234,
+        "average": 4.7094016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -568,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 275,
-        "average": 4.7381816
+        "count": 276,
+        "average": 4.7391305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
       "length": "PT57M",
       "ratings": {
-        "count": 3042,
-        "average": 4.615056
+        "count": 3043,
+        "average": 4.6151824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,168 +1272,6 @@
       "topics": [
         "DevOps",
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-changes-pull-requests-github.md",
-      "title": "Manage repository changes by using pull requests on GitHub",
-      "excerpt": "Learn how to manage changes to your repository source by using pull requests.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-changes-pull-requests-github/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 218,
-        "average": 4.7247705
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/manage-changes-pull-requests-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-delivery-plans.md",
-      "title": "Manage Agile software delivery plans across teams",
-      "excerpt": "Learn to optimize delivery efficiency by improving work plan visibility across teams.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-delivery-plans/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 2626,
-        "average": 4.7281036
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-release-cadence.md",
-      "title": "Manage release cadence in Azure Pipelines by using deployment patterns",
-      "excerpt": "Choose and implement a deployment pattern that helps you smoothly roll out new application features to your users.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-release-cadence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-release-cadence/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 582,
-        "average": 4.7250857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-release-cadence-using-deployment-patterns-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-      "title": "Manage user authentication",
-      "excerpt": "Manage user authentication",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 7,
-        "average": 4.857143
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

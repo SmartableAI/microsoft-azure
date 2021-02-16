@@ -4,6 +4,42 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db.md",
+      "title": "Distribute your data globally with Azure Cosmos DB",
+      "excerpt": "Discover the benefits of writing and replicating customized data to regions around the world with Azure Cosmos DB global distribution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-distribute-data-globally-with-cosmos-db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 1731,
+        "average": 4.6140957
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-end-to-end-encryption-with-app-gateway.md",
       "title": "Encrypt network traffic end to end with Azure Application Gateway",
       "excerpt": "Secure the traffic from your users all the way to your web servers by enabling TLS encryption on Application Gateway.",
@@ -311,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 2801,
-        "average": 4.820064
+        "count": 2802,
+        "average": 4.8194146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -441,8 +477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2413,
-        "average": 4.631579
+        "count": 2414,
+        "average": 4.6317315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +556,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
       "length": "PT49M",
       "ratings": {
-        "count": 554,
-        "average": 4.620939
+        "count": 555,
+        "average": 4.6216216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -794,8 +830,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6505,
-        "average": 4.7048426
+        "count": 6506,
+        "average": 4.7047343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -830,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 361,
-        "average": 4.7617726
+        "count": 362,
+        "average": 4.762431
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 3208,
-        "average": 4.6711345
+        "count": 3210,
+        "average": 4.671028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,41 +1242,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
-      "title": "Build an AI web app by using Python and Flask",
-      "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-flask-build-ai-web-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 163,
-        "average": 4.5828223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],
