@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 98
+heat: 106
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
   - videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks
   - videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks
   - videos/microsoft-how-to-use-github-actions-from-azure-app-service-azure-tips-and-tricks
@@ -162,7 +163,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/-3k0hhngt7o/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/5rR5C4Z5dU4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
