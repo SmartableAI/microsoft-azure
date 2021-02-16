@@ -1,26 +1,26 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-publishedDateTime: 2021-02-04T17:59:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
+publishedDateTime: 2021-02-04T18:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -404,6 +404,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "h6XvRWev9phEIozpmP32tXRCbtcq19zF67P5fkWszr5idN98xCaoidhDqFvRSYpoIto7vuVmiQZfocTf6vPNF3wq6UwAjQq0YdMRtQOV8GmwWgLCs2YoDnyNz6lWlqzv/tZ6x1dLdbN+ozytMS/EKjffQGkMeG5yZsSphwAodjbtpnZ1kN34rFJce8sYYC0mp86ulS/CinqjAa6+1dnRezNQ1fFwSw5pMwygMEPjALC7woMLwyMJ20BXycTBRfAolL0m3qme4eOf3q0gQbyFt+r1XqBDx4h2K9m0Mtshb2KpBommhGTYyoxom71u+ysC+NhL+xgP0FJZ2pg8TxBUj5VJ6ry9UFRMacAb93esvMk=;YzU1T0BIAw558oCNfcyg9g=="
+secured: "kIkOfoq0MgjsWHmHXkAB2xX7aIBcLNNVy24pAzgQcIW5iNMFZ49gNSpEpyhncQeIwKlCMnf5z66/87KumtyssmF6tW4GeSbJJRsxh4sOkHuiaFrwvuADYrG+NFj7dTF9AT5wzK4k2T/SfH0nqlZqOHYs6jTNevm/eFUH96fE0cvQC9MClGSrUtlbsCzpgPFJ0gqTQ1l3GVA2Zuq5h24znyADtv+uiX1aAXDbDgHeTwiI88O5PMfi20Yf5Y8zXvI1gXNq17kW2OOB2u95gxYWtY1droD4NYVrmGNDTlVeB1MqTAtx1TsM71uWYQGe273S6IxbQF/TZvNLRX+tabtWL1HQoOcDWcN5aCJ1HmLWz2I=;0eLBICsYH9bLldHoCtp+sA=="
 ---
 
