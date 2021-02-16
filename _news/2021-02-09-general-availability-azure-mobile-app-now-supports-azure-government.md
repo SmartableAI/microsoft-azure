@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 365
+heat: 364
 published: true
 
 provider:
