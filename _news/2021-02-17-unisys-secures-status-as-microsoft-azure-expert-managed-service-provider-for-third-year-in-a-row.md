@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-publishedDateTime: 2021-02-16T12:58:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+publishedDateTime: 2021-02-16T16:22:00Z
+originalUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
 type: article
-quality: 24
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-    publishedDateTime: 2021-02-16T16:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z
@@ -65,6 +55,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
     publishedDateTime: 2021-02-11T07:03:00Z
@@ -94,6 +98,6 @@ related:
         height: 209
         isCached: true
 
-secured: "AIISVVqP/L3kzirgwVg98w0eYGWXk5IABFOoZa8/wITEL5yuloRg3VuRtyaJU+uZWUqdmK+tbtt+WCAHSjaFTtbx1kGY/ua+SuOCDW+dI9P4F6wOqWhOa7r/zyJIspPHNoKHV3DP/hr51NH4U/n+2Q4Zb+vol3+DJuuEouwWr50cx60LWnWXtFZIfQRUDHvmJVwJX7kOQHYbV0kBvSRP1jzeMx1sfe8spcCLvCRu2BVo80PKi2hkeKlVZdksz9exJnqk11riJFb/p3DHXCLVyMcreMLKFphxLq555BjQjbXIw8PEiAmVoHMAVncS+ajKuzLPUZRDkD6piP4E8tHfctJpE6lMK9uvQnwqWliZmUc=;FhHr2l0XG2lb8vG4LwcRmA=="
+secured: "gqh7lW59Rr6G8F7BwsTS7E6YZPqciNvD0SpwVQnST0Sp91F8VogVRTQp9k4F+IoD8Bebtz9ZJQ228HgbSFwkMmigA8rqOoDix5OOcH+uHz6WPf3E1GaDh5PIIFZc9zP12GyLabx/TdSCcPKIuiEmw4gS8WEk2BSQ/YMiR7HoYdkKoNpnXEuKYR/T3g6dt7GlfhXKOVotf9gbWf6GPa0eCmz3A0A3xhVI2MSn6U0UX4Wu2uCM4bwpYZbCclaJ10HZJi5qTVxG4S03+Cn1pYOVy2PnCUuvrnZLAHvWTJvGhol4abgf6Kkd3KgiZfbMtwksuVauRCpZx6eCwJIPbPH40L5JSTkHkf7RoOTpFp5OYrM=;V7Hmm3AHSWqKDPIuF2KIsw=="
 ---
 

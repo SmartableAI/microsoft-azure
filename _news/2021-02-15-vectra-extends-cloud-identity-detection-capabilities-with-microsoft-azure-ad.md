@@ -38,6 +38,20 @@ related:
         height: 800
         isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+    publishedDateTime: 2021-02-16T16:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
     publishedDateTime: 2021-02-16T12:58:00Z
     webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
