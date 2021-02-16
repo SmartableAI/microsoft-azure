@@ -55,6 +55,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Microsoft India has announced the general availability of Azure Stack HCI, a new hyper-converged infrastructure (HCI) solution, that combines the flexibility, scalability, and price-performance advantages of hyper-converged infrastructure with native Azure hybrid capabilities."
     publishedDateTime: 2021-02-15T15:09:00Z
