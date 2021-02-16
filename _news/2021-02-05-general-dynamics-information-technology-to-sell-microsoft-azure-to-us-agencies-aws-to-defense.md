@@ -225,20 +225,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-    publishedDateTime: 2021-02-11T13:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-301226708.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft and Singtel team up on 5G via Azure Stack"
     excerpt: "Microsoft Azure customers in Singapore will soon be able to use Singtel’s 5G infrastructure to power 5G applications through the telco’s edge computing platform"
     publishedDateTime: 2021-02-02T08:34:00Z
@@ -316,33 +302,42 @@ related:
       domain: telecompaper.com
     quality: 34
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
-    excerpt: "As a partner, not only will Silk be available to the Microsoft Azure marketplace, but the two organizations will begin jointly selling Silk to Azure customers who need to maximize their database ..."
-    publishedDateTime: 2021-02-09T15:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure-301224865.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1435158/The_Silk__Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-    excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
-    publishedDateTime: 2021-02-04T18:56:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+    excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
+    publishedDateTime: 2021-02-09T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/silk-announces-that-its-the-ip-co-sell-incentivized-partner-to-microsoft-azure/article_3d97ad75-8755-5b5f-b480-49a7d5fcbc23.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b0/2b03ea96-70e3-5719-af59-6f5e67334af1/6023c1efb5ad6.image.jpg?resize=269%2C224"
+        width: 269
+        height: 224
+        isCached: true
+  - title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
+    excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+    publishedDateTime: 2021-02-04T17:59:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 31
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 31
   - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
     excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
     publishedDateTime: 2021-02-02T21:10:00Z
