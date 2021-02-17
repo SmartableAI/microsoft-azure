@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-ana
 webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-analysis-services-client-libraries-is-ga/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,42 @@ topics:
   - Azure
 
 related:
-  - title: ".NET Core support for Azure Analysis Services client libraries is in preview"
-    excerpt: "In response to customer feedback, .NET Core support for Azure Analysis Services client libraries is now available in preview. Start building .NET Core applications for modern cross-platform and cloud-oriented environments that target Analysis Services and Microsoft Power BI."
-    publishedDateTime: 2020-07-10T00:23:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-azure-analysis-services-client-libraries-is-in-preview/"
+  - title: "Azure IoT Edge 1.1.0 release is now generally available "
+    excerpt: "Azure IoT Edge 1.1.0 is our first long term servicing (LTS) release."
+    publishedDateTime: 2021-02-17T01:02:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 14
+    quality: 84
+  - title: "Azure Automation is now available in Japan West"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
+    publishedDateTime: 2021-02-09T16:49:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now generally available"
+    excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
+    publishedDateTime: 2021-02-16T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-rolebased-access-control-rbac-for-azure-key-vault-data-plane-authorization-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
+  - title: "A secure foundation for IoT, Azure Sphere now generally available"
+    excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
+    publishedDateTime: 2020-02-24T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
 secured: "ZidNQXdXWMZukyc6IaYUjexEZI0EEiiPgy3RaWvLiiumjQThltpw7D6ZiFrIbj2S9CoPevyxdOsQVUvzwUSOViK2geHM1dN8YZnTv6akkAohoeOn8sB08uh2LPLJXHyY+dG7oGU3Gv+4JyAFcgYCco4+7V01zdlLsLlFXdb7HZQxY9prq2LZjuy1dDsoJLhf/+uk+siqiXQI3Ejpcw7Z0Sqnxes0kQf2XSno7GjTtI+2G8ZSZ+fFS3JhoFDW/16+iA/m7ovwM+T9pGCI4LtFw+RYyPNBa2p8peKDlePYs5mMLOSI+/wVRsYo6Aiw5BhV94BUK0kvI7Aq6hphFB9w/R9WNJKBYVZeglePp/qf7zE=;FHVo3snXPRAQ4yfbsbIugw=="
 ---

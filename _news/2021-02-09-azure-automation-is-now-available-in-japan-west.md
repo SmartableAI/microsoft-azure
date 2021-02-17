@@ -22,24 +22,42 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Automation is now available in Germany West Central"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-    publishedDateTime: 2020-12-28T19:01:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/"
+  - title: "Azure IoT Edge 1.1.0 release is now generally available "
+    excerpt: "Azure IoT Edge 1.1.0 is our first long term servicing (LTS) release."
+    publishedDateTime: 2021-02-17T01:02:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Automation Python 3 runbook support is now available in public preview"
-    excerpt: "Execute Python 3 runbooks in Cloud Sandbox and Hybrid Worker."
-    publishedDateTime: 2020-12-22T19:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-python-3-public-preview/"
+    quality: 84
+  - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now generally available"
+    excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
+    publishedDateTime: 2021-02-16T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-rolebased-access-control-rbac-for-azure-key-vault-data-plane-authorization-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: ".NET Core support for Analysis Services client libraries is generally available"
+    excerpt: "Today, we are announcing general availability (GA) of Analysis Services client libraries for .NET Core, along with several enhancements."
+    publishedDateTime: 2021-02-17T00:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/net-core-support-for-analysis-services-client-libraries-is-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 48
+  - title: "A secure foundation for IoT, Azure Sphere now generally available"
+    excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
+    publishedDateTime: 2020-02-24T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/a-secure-foundation-for-iot-azure-sphere-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
 secured: "blrJLTbAFCgWcQMGI0LA4jnEZW36XjRVlszQ+zFN7hFi9qeNKunh3ApOChnnK4sze0+t/dWR8U/2MZo2+i9q9R4rXkWYT95PlvOXE4l5gQL2jJ9MIdZsJnugE6W0eE2v7YvfOf8zj3gS5D5RhOr//RpMHhFgQRcS6sfFzlrITlWJg7Ydq9Q4yN1dQEGlYgWwRL8iY+qTaX+5uJrfFwR5eXSPw7mRYEYUX8Qq0ief0NSqKxMq/+0bSfIYbt3DQiFtUc8Jd/kZDSf4w54MCMQFWumUhyGz2p7UPWFSGWGcfxEXb1gFTq0AFhlnXdBCiJ5zZACRFeu1g6KBPHjafZ9NrkTvkg+t8++mFhbCEH2RolI=;wn4evH02E3Vb/6sLsYeWow=="
 ---

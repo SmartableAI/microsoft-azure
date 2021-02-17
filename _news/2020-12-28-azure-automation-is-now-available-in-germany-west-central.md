@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germ
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/"
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Automation is now available in Japan West"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-    publishedDateTime: 2021-02-09T16:49:56Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Automation Python 3 runbook support is now available in public preview"
     excerpt: "Execute Python 3 runbooks in Cloud Sandbox and Hybrid Worker."
     publishedDateTime: 2020-12-22T19:00:03Z
