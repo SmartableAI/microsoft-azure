@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications"
+excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
 publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
-webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 77
+heat: 117
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
-    width: 2694
-    height: 1414
-    isCached: true
 
 related:
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
@@ -40,7 +40,23 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
+    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 45
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
+        width: 615
+        height: 384
+        isCached: true
 
-secured: "zFiL+4ADo12a8jOCfTmLXmA8BvYdIaqStpSo9GcK0vTuQKxOh3BjC4TGLw+o/I6NLnOn0QWSSQTu+8fLXxxhmCTepbY0YO6IdliAUz02B+yluYizA6yfIsJvIS2StAhLpuChOeyzrd/n4wFh0oUL5YCj6DmzsGNFpkMPotiI6XqTLkD9c7k9UFz1ekBcKCBVvI+kibkqF6poJnQLdoE+iFSkYW8454MXo+mPIlRgm5QX++WS4Mm13wGguHg1wWcg+Ha4lrFNn1ibgx/YpM2BoHER5Rc4iQ2jKpcuxHYhLFc8iJtc8YEGvW07qOpPsLS3F3lVL9fXF6A9OHrTgJJbTcFBaVbiDiJ5GHenG4kOKYg=;hGxoqNp7LIu+WrTW8APhpg=="
+secured: "Pv0L02GROMIOhGTWQyNDWnd6UbP2TOou0x++RKZlk+YKV+ZkCGWFEyhLsUCjI99CHfquRHNWm3rPDPybV+ts9a/5G+CCN9lCrA91+mwhoFXGMmO5a7bFnPTS+Aip/Mk1G7gqJPbkkLBzV0ZoapWipb+yI9cIkPdwy+jU5KkOZpeK02gTubKPEarwSQo7AvDnEDp/+dDA5XlSqaZt+lHES7+FQQhDPgc7UzPf0PfV8td5WXoaOy44hn9VbZbcrBhra6d1akuEI8HwOGomWZ1ydgBaJnhiMEB1X+3EQOPlOL5/tDj8CtTW3Zkz3R6oxpBe+80z24AFpEPqKxXej5x2HYxoDfDBwazZren+iupn33I=;YLGXU8AqFZjW3PqqVWmEwA=="
 ---
 

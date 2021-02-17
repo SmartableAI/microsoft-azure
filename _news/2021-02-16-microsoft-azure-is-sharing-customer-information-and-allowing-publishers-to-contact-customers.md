@@ -9,7 +9,7 @@ ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,18 +27,31 @@ images:
 
 related:
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
     publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
+    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
-        width: 2694
-        height: 1414
+      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "L/v2UEVyhB/BiSyxG7jg96XZ9510N3aaMi56ffBKHq9pI36Ok271kvJq6WtGQQXdfxzPc0QxM8IPkAZlfSb6nLmK1Z1CzWoa1l1pIiSANrfyolW6P98zGICN0m2Mn2Li4zZVEHdJxvjxJsUQQTuOZInI/WflY3rA1uzoecOlrW9tsBV2v0WUMb/Ceqn6f/cPB2/ltmBTV5Pm4r+MUJqKStL+jwr+13sy/MfcYre/bcowEOktcoSxB5qoTxtTw2/ilu2gUs87v9ClUjlBVRrUQGrkCNQpcm9m7qxq96ATsFgeyERA0kYmEKDfxNCCY//usgkimBcTteUzhbwNqsOZieQ4LH/CzI2GijsIVBS2pSM=;bD4S+ySg0jkc5dBlRPCmOA=="
