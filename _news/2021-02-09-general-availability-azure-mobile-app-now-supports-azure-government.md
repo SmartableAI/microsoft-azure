@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 384
+heat: 404
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
     excerpt: "With stop/start functionality support for Azure Database for MySQL, you can stop a database server when not in use (non-work hours) and start it when it’s back online."
     publishedDateTime: 2021-02-03T17:00:02Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-stopstart-functionality-for-azure-database-for-mysql/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
     type: article
     provider:
       name: Microsoft

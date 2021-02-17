@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "More ways to use composite indexes in Azure Cosmos DB now generally available"
+    excerpt: "You can now use composite indexes in Azure Cosmos DB to optimize even more types of queries, including queries with aggregates and system functions."
+    publishedDateTime: 2021-02-17T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/more-ways-to-use-composite-indexes-in-azure-cosmos-db-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now generally available"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2021-02-16T17:00:40Z

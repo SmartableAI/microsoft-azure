@@ -22,42 +22,42 @@ topics:
   - Azure
 
 related:
-  - title: "Node.js 14 for Azure Functions is now available in public preview"
-    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
-    publishedDateTime: 2020-11-12T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+  - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
+    excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
+    publishedDateTime: 2021-02-17T17:01:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Azure Sphere 20.10 update is now available"
-    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
-    publishedDateTime: 2020-11-10T00:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
+    quality: 94
+  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
+    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
+    publishedDateTime: 2021-02-12T16:43:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "New recommendations from Azure Advisor are now available"
-    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-    publishedDateTime: 2020-11-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
+    quality: 53
+  - title: "Public preview: Application Insights auto-instrumentation for .NET5 App Services"
+    excerpt: "Azure Monitor application insights now offers auto-instrumentation for .NET5 based Windows App Services."
+    publishedDateTime: 2021-02-17T17:01:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-autoinstrumentation-for-net5-app-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
-    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
-    publishedDateTime: 2020-11-17T21:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
+    quality: 47
+  - title: "Generally available: Application Insights synthetic monitoring SLA report template"
+    excerpt: "Azure Monitor Application Insights has released a new report template to enable easy reporting of your web tests across Application Insights resources that includes several key features like total application downtime, maintenance data exclusion, and end to end outage identification."
+    publishedDateTime: 2021-02-17T17:01:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-application-insights-synthetic-monitoring-sla-report-template/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 46
 
 secured: "eKIYtysUHq9e3U9HqGZMn3c0Hy9jiUBjuMA1r3BJlP66pZ48goK0Qi95KtWQI1vWpg3weQp4GoGGNmz5XRWhUf+Sju+5vSDDEFqMawMSHsgccqVo/kAzqEgs26iLEAKzsu29KanSClZvDt0hybO6blT4+hL8lG4W7yaxlDQfu2FvTym8B4upF/BO/TcCsMRiHYJgceEwAcf/8WVHFDeFY6+kxBM+ckVNMUO06JV4rfz02QEsazv+KhuBtCW7MUY0ra/MoTcrrBEoKI8/snibcjQZ+ROX2Vjy5/x97cCadG1Y5/ciUVarU2PzVcSZ4Wdsl72YYxA4dofMmafMM2fPe4C9fc0TKbRsFbVNQm5po9E=;hOM3y+xvo7K/WOzYju+HpQ=="
 ---

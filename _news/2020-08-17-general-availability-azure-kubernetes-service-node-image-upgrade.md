@@ -53,6 +53,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
   - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
     excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
     publishedDateTime: 2021-02-03T17:00:01Z

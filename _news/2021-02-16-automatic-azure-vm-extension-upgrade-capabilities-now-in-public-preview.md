@@ -54,15 +54,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
-    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
-    publishedDateTime: 2021-02-12T16:43:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
 
 secured: "Ax6wNwwlIsuP9XHU4MzgIL2dasGiShJ1GV2AojZBPYRS1QI6EgVHnKOsIX1MxQAu1bfgluCOqTMiwyo9kKBzngLH/m7x2jm04MLdiY7QGQPkfJzvbibVhdACn/eJJf0ivEqLFiZWBj8wU4p94WiPL0zvGoAX/TKhLNKZj4L2f/cD4+4dltnNC06PPXQCaaJxkSVUdKGG0mhr0cPrU1LXnMwDHmf+wIzobrkTW9Jqze3L4F8i9TZZHW0aty078ZihVTs4+GvENkfHZvHDCWpTx0Rz1D7g/76zsgykpq9I0qyrl1I1I5nHfwqc2+xgdMJo5iOjRiFCS9MTZqUETVBSu/2pWyL5qKhGhgq06wtYgDM=;zkbLPYuJsgHp4NEAr7oLmg=="
 ---

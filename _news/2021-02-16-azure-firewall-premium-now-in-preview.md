@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-pre
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Cost Management + Billing’s cost allocation now available in Azure Government"
-    excerpt: "Simplify your cost reporting in Azure government using Azure Cost Management + Billing’s cost allocation. "
-    publishedDateTime: 2021-02-12T16:43:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-cost-management-billing-s-cost-allocation-now-available-in-azure-government/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
 
 secured: "qSGII+zWTX3UhhEeVeWrLnkuHPtHfIZWq6kf43dxyYvk1OaB03H/m7TAo9Qt1GDMBOTQ3e72LndQXbt4sjKYFxJod0GbAxTqdqHEjJWW8lL7LSc4a0elkIoRj652CqkDHhmZXV8wBUATZlnz1Hpe6VYQTc224cWjDDlMh88NS3WBse7e0nqfK39ArfuDCNkpOq9LpScUau4AuVe3VGOIlhQ3HXdd7yXu6akpW85L6QTKvMYVnO+YJRsxVY4Vf17kHP9xZtTwqzP+yxKYQdYZZMIRHtQVcKplD/plKuk3JiZojuiC9oUby+eeevc6RMXtsY2o8toOtsIdPD6bAFIPe9sCfVIL2r0yRnUkusZaOvg=;vUHqYFS74GeV9rhYgMbSlw=="
 ---

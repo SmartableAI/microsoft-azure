@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 type: article
 quality: 84
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - IoT
 
 related:
+  - title: "More ways to use composite indexes in Azure Cosmos DB now generally available"
+    excerpt: "You can now use composite indexes in Azure Cosmos DB to optimize even more types of queries, including queries with aggregates and system functions."
+    publishedDateTime: 2021-02-17T17:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/more-ways-to-use-composite-indexes-in-azure-cosmos-db-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
   - title: "Azure Automation is now available in Japan West"
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
     publishedDateTime: 2021-02-09T16:49:56Z

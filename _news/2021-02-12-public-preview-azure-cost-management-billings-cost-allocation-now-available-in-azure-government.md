@@ -22,47 +22,42 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Firewall Premium now in preview"
-    excerpt: "Announcing the preview release of Azure Firewall Premium. Azure Firewall Premium provides next-generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2021-02-16T10:00:40Z
-    webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
+  - title: "Public preview: Application Insights work item integration for Azure DevOps & GitHub"
+    excerpt: "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. "
+    publishedDateTime: 2021-02-17T17:01:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1c0edfef-1adb-479a-95e5-5c26f5911c4a.png"
-        width: 390
-        height: 480
-        isCached: true
-  - title: "Azure Firewall Premium is in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2020-11-18T17:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-public-preview/"
+    quality: 94
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Automatic Azure VM extension upgrade capabilities now in public preview"
-    excerpt: "Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure virtual machines and virtual machine scale sets, keeping your environments more secure and up to date."
-    publishedDateTime: 2021-02-16T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-in-preview/"
+    quality: 52
+  - title: "Public preview: Application Insights auto-instrumentation for .NET5 App Services"
+    excerpt: "Azure Monitor application insights now offers auto-instrumentation for .NET5 based Windows App Services."
+    publishedDateTime: 2021-02-17T17:01:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-autoinstrumentation-for-net5-app-services/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Azure Firewall Premium now in public preview"
-    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-    publishedDateTime: 2021-02-16T17:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
+    quality: 47
+  - title: "Generally available: Application Insights synthetic monitoring SLA report template"
+    excerpt: "Azure Monitor Application Insights has released a new report template to enable easy reporting of your web tests across Application Insights resources that includes several key features like total application downtime, maintenance data exclusion, and end to end outage identification."
+    publishedDateTime: 2021-02-17T17:01:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-application-insights-synthetic-monitoring-sla-report-template/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 46
 
 secured: "kAHa2w129q/0/LXppf6qCBJJZ067ZU7rQoEYu+FVh2BrMkgp02O1BT4odgocydaWfecErLvKL8WEQkfUwHlMHgOxYGNxoZAXsZrhjNVSBdORLst5t1YbnuGQ5Fh3vxqMYM3oK4dLC80V6CYwkADq8nH+3HKK6az7A/i3WRK/iR3rl9c0bvuJYjmABrZk3rYP1mm5L214w2WyTqOzcvqVR+/yaVrSjx0MaQJmvzXi8SY47T82fxmLORnZsUP7boaWNJZGs6x9olztp3Hh+K4NwDKf2bEUVIDfDtIjJqcS6/vHXDFSsYU8rvvL1wnyfQcJmTmUKCLSM27G50nj4T+AfRsHSRhyt22NBg5V5rDlfNw=;/wXc3cHozustCDlL0a/nEQ=="
 ---

@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-16-connecting-urban-environments-with-iot-and-digital-twins.md",
+      "title": "Connecting urban environments with IoT and Digital Twins",
+      "excerpt": "As urbanization continues to take hold and cities face challenges to become more sustainable and livable, urban planning and operations strategies must adapt. Now more than ever, public and private organizations are coming together to push transformative solutions and change the way we plan and operate",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/connecting-urban-environments-with-iot-and-digital-twins/",
+      "originalUrl": "https://azure.microsoft.com/blog/connecting-urban-environments-with-iot-and-digital-twins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8b576899-95b8-4d85-aeb5-d80fbb4dfb6e.png",
+          "width": 1982,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T00:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-custom-translator-v2-upgrade-full-trainability-is-generally-available.md",
+      "title": "Custom Translator V2 upgrade (full trainability) is generally available",
+      "excerpt": "Custom Translator completed the full V2 platform upgrade to deliver an even bigger translation quality gain than before. Customers can now build custom models with all document types (Training, Testing, Tuning, Phrase Dictionary, and Sentence Dictionary) using full text documents, like Office documents,",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/ctnov2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/ctnov2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/797fd65e-0383-4457-8288-7374386a1a1e.png",
+          "width": 684,
+          "height": 289,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T15:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-nodejs-14-for-azure-functions-is-now-available-in-public-preview.md",
+      "title": "Node.js 14 for Azure Functions is now available in public preview",
+      "excerpt": "Developers can now build and publish Azure Functions Apps using Node.js 14.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T09:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-new-version-of-ssms-and-ads-tools-for-serverless-sql-pools-in-azure-synapse-analytics.md",
       "title": "New version of SSMS and ADS tools for serverless SQL pools in Azure Synapse Analytics",
       "excerpt": "Serverless SQL pool released a new version of SSMS and ADS which improves scripting in object explorer and increases stability.",
@@ -1008,151 +1154,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-policy-to-control-the-minimum-tls-version-used-with-azure-storage-now-generally-available.md",
-      "title": "Policy to control the minimum TLS version used with Azure Storage now generally available",
-      "excerpt": "Secure Azure Storage HTTPS connection with minimum TLS version via policy control.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/policy-to-control-the-minimum-tls-version-used-with-azure-storage-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/policy-to-control-the-minimum-tls-version-used-with-azure-storage-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T13:52:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-azure-cost-management-and-billing-updates-october-2020.md",
-      "title": "Azure Cost Management and Billing updates – October 2020",
-      "excerpt": "Last month, we shared a lot of cost optimization tips and tricks. Continuing with that focus, October is all about helping you save money on Azure infrastructure as a service (IaaS), database, or storage offerings. You'll also read about creating subscriptions via Azure Resource Manager deployment templates,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 383,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/bcb247c7-d8dd-4c00-a23d-fc83a68109b7.png",
-          "width": 1024,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T03:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools",
-        "Databases",
-        "Compute",
-        "Migration",
-        "IoT",
-        "Serverless",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-azure-backup-price-and-meter-id-change-za-north-and-za-west-regions-of-south-africa.md",
-      "title": "Azure Backup Price and Meter ID Change - ZA North and ZA West regions of South Africa",
-      "excerpt": "Effective 12/01/2020, the price and meter IDs of Azure Backup will change. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-price-and-meter-id-change/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-backup-price-and-meter-id-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T03:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Management tools"
       ]
     }
   ],

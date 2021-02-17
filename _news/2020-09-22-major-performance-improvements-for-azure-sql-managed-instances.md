@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/major-performance-improv
 webUrl: "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/"
 type: article
 quality: 84
-heat: 84
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Azure
   - Databases
+
+related:
+  - title: "Log Replay Service for Azure SQL Managed Instance in public preview"
+    excerpt: "Log replay service enables continuous replication of SQL Server data to SQL Managed Instance in the cloud, the easier orchestration of workload functions, and pre-migration performance testing through a fully customizable experience."
+    publishedDateTime: 2021-02-17T17:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-replay-service-for-azure-sql-managed-instance-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "A9vG4Xc/KNGfGM7VV6qAxnTuyI23ttLeC8awv8D/U7jSS4deP2QjcKcyBlsSTUcq5N2LvIBzLPsScHjo4CaPSjPvhCnbfmtLHvGfUzaQ8X/Prc5ppnamkHJSaxulpOdqH9D2mTj2sx4FxFYFxWIlggMh6vTrsLNHma6z+dX3z1OBwLcGiqUXGlGZPmFFxjSbphEd2sXzVoY2RDNsa3Po2GzGU3iuJqkvmZCGXKHow2pefvkXkTdQWGOiaFBaGxpp7U87HKw8yOq1i5hDln4f91NQ1Ct6xmS9ZYWlx/v5I/TJlfr3RBSejc9LlZdR5NgFlZGnvFqrdiQD8yu1g4LGsdJlJBoWBkmx3/kzXeT4gfU=;R66qq/lGmiOzSO1vu+fI+Q=="
 ---

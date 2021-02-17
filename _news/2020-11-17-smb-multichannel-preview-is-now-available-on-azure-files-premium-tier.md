@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Application Insight in UAE North "
-    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
-    publishedDateTime: 2020-11-16T19:09:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "9+ElTgEImN9FIYXfcqMai7C39tLgdfIdfeI/yDclEaWWKsTmaW29/Cf3Pk4GBHpduJx0AJYoI6wgomf9H+blQ8f/VEfMzB+UacX58Xpf6iH9gdymgWA50yJL0iPcJZ/H03C9UXgVNidAmXQOfLdjHd1QcMhCcRjDLkqFGS8xyzZfxySZZqGGFh+ZdiuRe7ZRFurm8aQJhgXJVhdp7FdIlsIbBEVhGKTXadu5miNFGUmiTCafpHpy7KCPHlNZ65NGaxIo35ks80C5w7VEihWS5ax6NAf6ftRp6Jpbwc8sC6mUYiZs28lDeDc+QJCQipgHLURcfWgYKH/i3UsbnsXAPN02POXVKbWE2o6sd/LSlrY=;iJYzUcO/n+MIIuO6o0sRBA=="
 ---
