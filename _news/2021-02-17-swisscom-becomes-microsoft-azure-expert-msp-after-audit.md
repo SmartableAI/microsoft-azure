@@ -61,6 +61,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
+    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
+    publishedDateTime: 2021-02-17T12:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "j3hXtwR4CcyFBz+50PsQNrin6UNCgoOoMuQfiSOM4hppLO02DKnZlpJ8knaXJKLm8xyrRWc9GG5TeqRe4iIhFnIL31jkJarKTF0eqid7dxYS37ZTbz1rF71aEDvX2J0DFtjuEewC5zSQoq/mLWmrlCqrNjJVxhW7yXPNikC1tCzreRdo2NHnV2bCYlDpP5T3Z9omUzGJdbFMRhoHwHLNp434QvFB64Hb2uoSXFfd/8iIDwtni9rzhia9fLys72EV/gRhdw0FIgfGjH565ykxe/4qesBqK1FJluOH29Z9UxAjo/cv5OaUEJyY5dsvitL31jkE2QuEt2oFfoC0FUO8MkLnUgVbyaA3RZva5BcrKU8=;gOaHHSD73NdCDQw18Z5a5w=="
 ---
