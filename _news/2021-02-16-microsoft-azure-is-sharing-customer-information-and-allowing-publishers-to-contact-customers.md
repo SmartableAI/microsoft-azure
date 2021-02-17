@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
     publishedDateTime: 2021-02-11T10:53:00Z

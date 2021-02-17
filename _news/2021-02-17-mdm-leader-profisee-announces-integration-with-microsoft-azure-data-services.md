@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-publishedDateTime: 2021-02-11T10:53:00Z
-originalUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+publishedDateTime: 2021-02-17T15:17:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
 type: article
-quality: 45
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Integration
 
 images:
-  - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-    width: 615
-    height: 384
+  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+    width: 1000
+    height: 524
     isCached: true
 
 related:
@@ -37,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -66,6 +51,22 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
         width: 1200
         height: 780
+        isCached: true
+  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
+    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
+    publishedDateTime: 2021-02-11T10:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 45
+    images:
+      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
+        width: 615
+        height: 384
         isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
@@ -105,6 +106,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "SZDLV6m8tAPFmlfhOuctCLCztIbUcxs9iG/yzvOwSUbDjwiI5W+2/lRz+LG2C7trm4nUjcvBUH/DokHhPyDmRLJALOCTm7aqjR45+4ZfQPr8E4zYv5Bo4Xyu79DmgDxL+RNPaog9S3+rJ+nekBW/Iv2XQdY8z32gFnIrbkRCnMMO25NecH6Qt5xHBDe6WnupBzpnB6ZbmYv1otfnUIR4lrWfyjSZMes8U5j9C7S7BJRjtKaSK3v6czeBNVfyQrgSjQs6LTMTndlJ+7ZvCnYJgKaCJkJOSUZX5AXNabGkrYhzVYRwSqBFdtXF13+H/oQ29zKgCsA2RIbMFfa94kTvlzlUQZyGJnb2wOgcDzXZn58=;QlY8JnB9os8o2MPbKCe9cw=="
+secured: "IuJ70+3xHz3xjArnayuyAbdvGydQHjYnzRX7ZWCXIKVwxzcQS9v/S0Kbl9ICM9a7+rKZnY62YF3Qt3Fbj+u0jmzVX6VubkGTC15k3mjv5WBmpxJyQVjTOZ2Px5XB2BhP+8tXkYnBTeWbUjijzThNF4Jboe3aJGYMrArtBENBPOl4kFenZA1tTAy0VcmrY4fjeBawgf2u1sMN4owVXJTTFcdnHIvcJHAWcPoJhhL7dbWeZA3WLsYS8gRDYgHlkApMrzGHaQT7y328hQ5n/ngmBWdjsc+JbMp7snRmj35O1mgzvJBlJzjIDPOQoc1JyBk9t3Mhf4f2BLJA7xepkUhBfg3SIezplzX23A6ZtZ/t3os=;t4WffPrwO5jglXzax+oO4A=="
 ---
 

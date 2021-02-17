@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-
 webUrl: "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/"
 type: article
 quality: 72
-heat: 72
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 511
     isCached: true
+
+related:
+  - title: "Customers unify hybrid and multicloud IT operations with Azure Arc"
+    excerpt: "Businesses today are building and running applications across various ecosystems: on-premises, in multiple clouds, and on edge. To maintain agility and ensure compliance, it’s critical to an organization’s success to effectively manage servers, applications, and data at scale—regardless of where they"
+    publishedDateTime: 2021-02-17T08:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/customers-unify-hybrid-and-multicloud-it-operations-with-azure-arc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "9PmxuHXmglV99M58KhrPP6NdntsIkmC8wCMl3+wpz3Jrsbvk1VSY1iaqAW98bv2rSy/QPYAwMNbYMVP9hjIPPomnbD7xMngfJB3EHjrHexe/7nNYNdEjeR59Z5xFl/amFMcHB5oj5ITrsItHDULRZ8tV872ZALHCUdRNL2AATu6gpWnrHC9bA72GrCv8Ud2AWYgwN5/4z8HcVWUEDMl0EsxMwkhcS/ndnGkZ0PxjzJ+n+Ghlx3N7EmdAdwmfu0jnpog7GUFdktyXHcY0DhGqhiUKJywkdnpRcQW1cBwSoR+6722LyU5tioUpzJLdThAlcGNkAOT5l4HRccJbT2nuFzyEerJxvMU45K6wbdGq+tY=;HCv2c1a5Hsy1xRl1qmCBpg=="
 ---

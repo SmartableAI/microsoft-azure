@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-i
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
 type: article
 quality: 77
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Azure
 
 related:
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
