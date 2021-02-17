@@ -1,29 +1,34 @@
 ---
 category: news
-title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
+excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
+publishedDateTime: 2021-02-17T09:47:00Z
+originalUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
+webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
 type: article
-quality: 77
-heat: 137
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
 
 related:
+  - title: "CockroachDB Available in Microsoft Azure Marketplace"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
+    publishedDateTime: 2021-02-16T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -56,16 +61,7 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
-secured: "RmLhMZ/t8RiTGj/fDpw1ko7LiDaogoxue+rsaNVDuHWwHsau7RovWoKT7jnILu43su9XoTQLPMVt4bJWZy4SZtr5gPi9VnpiGnc4yuNPAwshjZka2CVGLszmnMop8A3pIdvyU33sCBDhhBPuMD29Ffvh62PpiAaA48HobVEd2W6x+sUgtEHfEkFgXxCpRAcdiLKh+sNQ1jdFOgXKKn+MMRdn7UGz8SnF41Utko52ulcQ4PHzaJwiVQLkCB/CpwWmVeEJbTDDE2hvfhP5TcNMfDDqq5QBTAzrRQ/7obsBK1l0vT96DUodf4S+dIh2JXVHaVaAUOaShtNXth6/x0bdsBFM7OitqwMPoL2hsZ6+Q4k=;wP6OwzvYUcIeunFx/SW3oA=="
+secured: "j3hXtwR4CcyFBz+50PsQNrin6UNCgoOoMuQfiSOM4hppLO02DKnZlpJ8knaXJKLm8xyrRWc9GG5TeqRe4iIhFnIL31jkJarKTF0eqid7dxYS37ZTbz1rF71aEDvX2J0DFtjuEewC5zSQoq/mLWmrlCqrNjJVxhW7yXPNikC1tCzreRdo2NHnV2bCYlDpP5T3Z9omUzGJdbFMRhoHwHLNp434QvFB64Hb2uoSXFfd/8iIDwtni9rzhia9fLys72EV/gRhdw0FIgfGjH565ykxe/4qesBqK1FJluOH29Z9UxAjo/cv5OaUEJyY5dsvitL31jkE2QuEt2oFfoC0FUO8MkLnUgVbyaA3RZva5BcrKU8=;gOaHHSD73NdCDQw18Z5a5w=="
 ---
 

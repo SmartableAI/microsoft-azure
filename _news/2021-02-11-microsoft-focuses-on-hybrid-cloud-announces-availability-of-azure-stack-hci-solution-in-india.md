@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
+    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
+    publishedDateTime: 2021-02-17T09:47:00Z
+    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "SZDLV6m8tAPFmlfhOuctCLCztIbUcxs9iG/yzvOwSUbDjwiI5W+2/lRz+LG2C7trm4nUjcvBUH/DokHhPyDmRLJALOCTm7aqjR45+4ZfQPr8E4zYv5Bo4Xyu79DmgDxL+RNPaog9S3+rJ+nekBW/Iv2XQdY8z32gFnIrbkRCnMMO25NecH6Qt5xHBDe6WnupBzpnB6ZbmYv1otfnUIR4lrWfyjSZMes8U5j9C7S7BJRjtKaSK3v6czeBNVfyQrgSjQs6LTMTndlJ+7ZvCnYJgKaCJkJOSUZX5AXNabGkrYhzVYRwSqBFdtXF13+H/oQ29zKgCsA2RIbMFfa94kTvlzlUQZyGJnb2wOgcDzXZn58=;QlY8JnB9os8o2MPbKCe9cw=="
 ---
