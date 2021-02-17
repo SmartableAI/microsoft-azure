@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT42M
 ratings:
-  count: 2259
-  average: 4.583001
-heat: 57
+  count: 2260
+  average: 4.582743
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Management Tools
 
-secured: "0rKIYNMKHUKk19kbKRXsh4yiUgw5Rs58eq4YsRT4X/N8bi3zqIejcQpcn2sC2AbGsRL1Acx26kRW2DlIn1qDqmdKwM9RcnQndeOecWsx8Do+AC4drNdcUB4VGwH9McF4M5aQ3sOLKohWzFDfyMVW1ThygHa6Q2WJzAl9iKq3WR8UzEzNQopdUqR9epkteHRj66eXAe7lJCCv9UFMTQe19tttpz6sbCMLwGJ2J6Dr0Hrk0+AdcmdW/QDOeJwWhP6Ql9VA7d/RoxANKXLZEfukZcr75u2gcMTsGyXLKOXTj6ZLsMzH8fhn89X/rk8yr2wg6mIHhvzgSj/5d0SvZSXzyPKa7yNAxhJz3ZvML26z6j9Qdu5qcTvdRiRNdl+QBqyDxgX2WnjkpXynwrAfV/p7Nh2Tb045GFQXbIhqOPkbAQs=;7BS+K0kjn0wILlrUezElrA=="
+secured: "JUTFlX5tbaJsyoRMmL/v7qFazl35uJ4gPjNfxVuU8HxG9Ml+gLAVCDAnSPWYKIDnJlkZMjl9UsdqceOHPD/xawObisGD133/Cvfwl7iDb5t9FfoSUPJxNvq3O1n48UoZ4V+zAEbRHltu6PoT1JopeMTu4ReE717lRx1llXIMRPLcOkilnspxgKFKSv4qztWYonteSPYf1qmjR+Vb0NIKENq1YtS/EI1f9jb+AGSrJ0kYPpVFQPoVyw2+Nr41HEzvFKqBnvNw7LeM1mOl6YFS5w6lhD11PzoYQ8X6kf0NcgNuH0tB9/AxYk1l0uJXVDfX0VUrP0zGC8y1aDpyJSDdg8FySYZP9/MHmhtOtBUyNXAY7bDvrVCBn/Fx2OhtqCvu2TYx/WuEFnd2fkEBqUrLk3NmqflXIQDEQWgMmqyccEk=;VuBSK5Uht5nBS8Eo1VYCyg=="
 ---
 
