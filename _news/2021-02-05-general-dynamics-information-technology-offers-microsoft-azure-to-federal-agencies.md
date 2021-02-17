@@ -1,21 +1,27 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology, a business unit of General Dynamics, announced today the signing of Microsoft Partner Agreement for Online Services-Government. Through the recently awarded Defense Enterprise Office Solution contract,"
-publishedDateTime: 2021-02-04T17:30:00Z
-originalUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
-webUrl: "https://www.nasdaq.com/press-release/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies"
+excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
+publishedDateTime: 2021-02-04T17:59:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
@@ -393,6 +399,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "boaDO+1MiYxfZkut10SrouJhgSyaoDPo27V6m1f1iSnnCjNK8CtW4JFoNE4DrzmV8IzZMhb51RBfQFVc6mR7tPcgKW+mPTgVSmAYvPqW9Mvr2WESDqLPOp6X0AfjA405U6bxlqkr/cOVXBQyqzeiqbtoeo+wgsRAtT9Imm9zqzGPwI6bpcOqlLCX0hk4kzFgUX8zhpNEmRSm8fhNmVMWRFSdPCdUPLbLNl1IrN2sHYlOmOTru2HtO2kkyxW+VmnO67mX8Db1yxr/p7Hkqfv1NdydmqUWlqjVD4nr7docyRe3Shn8VQhlnh+lHBrTk3Xb9V5Dir1pN7HQBtXavOqkEC1zPYIVYy2dedxiHMxOZ6I=;Xty89bniMg+Eoh95q2uMvw=="
+secured: "sekdpLECO58n9FOQ1SQHNhBQdA3yKb87rkDzSkLmdXf6VEvd09kvLHq1uq5l6W7d0f31G2EdxA4c5aDXiXWKouBtbY8trKtSFwau2uUjdJ8/IT6fEHNou95reeE5UCqxAl1daaYrnYoMUU5uuw67jnj8RbIdsmTKd4DNAWpU8fvw2W/QIjUlg/5GmdNWVGkiYjgLtM/uaVg/AKvbxGXC6s94oN93YUId631ZYiPnrmXHywdatwEP46avbXqTMsiqDExgbhH7+d0G8jmr9iSZhXu6o1R0a3HTlTxHWBCqI4d3MMCFEdUpDm3BXW9vNo2Gs6rUq/QQV8SrjzkgZ17k/x9BvFNpOgwJO06RHAunoJM=;P8OXHNGF4bgMPdEUl+BAXg=="
 ---
 

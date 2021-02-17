@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
-excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
-publishedDateTime: 2021-02-16T14:21:00Z
-originalUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-02-17T14:24:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
 type: article
-quality: 46
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: winbuzzer.com
-  domain: winbuzzer.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
-    width: 1200
-    height: 780
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -37,6 +35,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
+  - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
+    excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
+    publishedDateTime: 2021-02-16T14:21:00Z
+    webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 46
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
+        width: 1200
+        height: 780
+        isCached: true
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
     publishedDateTime: 2021-02-11T10:53:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
         width: 615
         height: 384
-        isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
@@ -91,6 +91,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "L/v2UEVyhB/BiSyxG7jg96XZ9510N3aaMi56ffBKHq9pI36Ok271kvJq6WtGQQXdfxzPc0QxM8IPkAZlfSb6nLmK1Z1CzWoa1l1pIiSANrfyolW6P98zGICN0m2Mn2Li4zZVEHdJxvjxJsUQQTuOZInI/WflY3rA1uzoecOlrW9tsBV2v0WUMb/Ceqn6f/cPB2/ltmBTV5Pm4r+MUJqKStL+jwr+13sy/MfcYre/bcowEOktcoSxB5qoTxtTw2/ilu2gUs87v9ClUjlBVRrUQGrkCNQpcm9m7qxq96ATsFgeyERA0kYmEKDfxNCCY//usgkimBcTteUzhbwNqsOZieQ4LH/CzI2GijsIVBS2pSM=;bD4S+ySg0jkc5dBlRPCmOA=="
+secured: "8/G7yTRu8W9BIjSn204p3IiAvwn1xCZEUaNH2o7MWEUGUpn1rhUvLqyq2jG3zCx5QS81iNMAy1AtckGw+vHrPVGcgFkHr5uaTTil+anYHwuAxZP5vQ/Dvyhwyuz89z3Ip580DFaaRParCVpFCl61WLxIw/i67euDiSeBIJmFpPaRtCpMvVspXwdR/yNIC/be763urFyZJu47/4rJMz9cW4VYdRA5NJyuHP8exAMwjywKQtBRnN3wH8VGk8n7uHiLXWoZi/XJ2xnJ58xsxT4JUDD0T3xxPgRkvquUfZyytub6jLJxKcsEaCE58RUaHpaPIEW1lMHGsZASGYlTX1kk/oZMrtlymIkzhCwLdr+9HZA=;PPm+FOPSmCwJwoS4DcRtdQ=="
 ---
 
