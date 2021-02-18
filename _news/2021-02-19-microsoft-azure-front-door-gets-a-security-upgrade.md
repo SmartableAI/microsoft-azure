@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Tradeteq hops on Microsoft Azure"
-excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
-publishedDateTime: 2020-12-11T12:59:00Z
-originalUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
-webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+title: "Microsoft Azure Front Door Gets a Security Upgrade"
+excerpt: "New SKUs in Standard and Premium preview beef up the security of the content delivery network platform. Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection,"
+publishedDateTime: 2021-02-18T19:57:00Z
+originalUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
+webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Dark Reading
+  domain: darkreading.com
 
 topics:
   - Azure
+  - Security
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-    width: 480
-    height: 270
+  - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
+    width: 800
+    height: 412
     isCached: true
 
 related:
@@ -138,20 +139,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
-    excerpt: "New SKUs in Standard and Premium preview beef up the security of the content delivery network platform. Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection,"
-    publishedDateTime: 2021-02-18T19:57:00Z
-    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
-        width: 800
-        height: 412
-        isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z
@@ -351,6 +338,20 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
         width: 1066
         height: 602
+        isCached: true
+  - title: "Tradeteq hops on Microsoft Azure"
+    excerpt: "Tradeteq, the global hub for trade finance distribution, has today announced its collaboration with Microsoft."
+    publishedDateTime: 2020-12-11T12:59:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85447/tradeteq-hops-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Microsoft Azure Helping to Strengthen US Microelectronics Supply Chain"
     excerpt: "In a blog post, Mujtaba Hamid, Principal PM Manager, Microsoft Azure, discussed the company's collaboration with the Department of Defense"
@@ -639,6 +640,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "FtKmE+5viaYTHxx4kYDt1dQ5685xQYVGuTzSLJXLjv1uguD3pt0aafmIbx4AgWno8YHdkOAqph1k7W/ZamJMS0kMR2G/kRoGv6Xl5GV4voaAXawae3q4Ya+OI8iXymk07YUmEZMgUxFNNdMU4Kopzhq2bUuB3itF73jixXoeFJ+CYypBWBtlgNFV4lY8P86YyDr7wYRrKICU6M1F3bZxa763cjLWSV4/Q5w/BbGFncNdNA9yw/kXhHY16BSha7DEh+3aQiNUyqqpSWqaw2qiCA5HcVpgpMuAL+yyPRtOVhOWymKY8azQu7E4TIPOS2Q2WtAm0cOH3oZo4v57UvJ/74nMSDaJfQ23sg5NiTPYll8=;iRnXIfYXvmLh7qyT44jlFw=="
+secured: "bahjAAMbQaePHy1PPqud0PM4R4lYRPhxVwJDW8s4DVyZGwHPmy69vH/At00Bid/WbVLVZGWCH1IpZx6Bh8bUI+TmRzXrhbe5iZU17tTD/hoezAKW0G76y8icvRThEOtIGGlWyMlPiClK7Zty52vowKFKbHq/PcAd3bZyem8h11pQAjurEoWMV2qbW1F8rfpEiALyD8jwCUNOef1k2F/euBZjfGbbQ64J1HuWBrmD3vJcJHPa4JUzMYH5/xi/blOMfdseog2jst+Upq7hf9yeKKkbHZTJSd3DIAiUpP0RtgMMXDWDIGz7Lgaj1TCq7tpQkKQhEj4oIeSdNjEgNIvdj4fcrnZq2ya+ePzISqgGrYQ=;sjjYvF5uA3HtKDnQvWu1XQ=="
 ---
 

@@ -128,6 +128,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
+    excerpt: "New SKUs in Standard and Premium preview beef up the security of the content delivery network platform. Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection,"
+    publishedDateTime: 2021-02-18T19:57:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "Newly Launched Microsoft Azure AZ-303 Dumps as PDF and Practice Test [August 2020]"
     excerpt: "online practice test to enhance preparation for the Microsoft Azure Solutions Architect exam. Success in this exam is very beneficial as it leads to Microsoft Azure Solutions Architect Expert."
     publishedDateTime: 2020-08-05T11:41:00Z

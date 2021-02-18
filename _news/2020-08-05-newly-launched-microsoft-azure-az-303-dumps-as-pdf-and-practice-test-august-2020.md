@@ -139,6 +139,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
+    excerpt: "New SKUs in Standard and Premium preview beef up the security of the content delivery network platform. Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection,"
+    publishedDateTime: 2021-02-18T19:57:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "SimCorp A/S: SimCorp completes next phase in cloud transformation, offering SimCorp Dimension as a Service on Microsoft Azure"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2020-08-12T08:08:00Z
