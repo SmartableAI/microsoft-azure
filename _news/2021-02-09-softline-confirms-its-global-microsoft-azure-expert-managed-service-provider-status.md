@@ -396,7 +396,7 @@ related:
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "London – 10th February 2021 – Logicalis Group, an international IT solutions and managed services provider, has today announced its renewed status as a Microsoft Azure Expert Managed Services Provider (MSP). The Azure Expert MSP program is a global ..."
     publishedDateTime: 2021-02-10T15:34:00Z
-    webUrl: "https://realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
+    webUrl: "https://www.realwire.com/releases/Logicalis-Renews-Microsoft-Azure-Expert-Managed-Service-Provider-Status"
     type: article
     provider:
       name: realwire.com

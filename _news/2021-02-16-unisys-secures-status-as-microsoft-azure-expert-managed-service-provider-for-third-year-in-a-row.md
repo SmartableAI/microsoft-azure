@@ -24,39 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new native integration with Microsoft Azure data services."
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+  - title: "Volkswagen Taps Microsoft Cloud To Advance Autonomous Vehicle Features"
+    excerpt: "By working with Microsoft, Volkswagen holds to increase the use of over-the-air software updates in its vehicles, something that Tesla has touted as a differentiating factor between its cars and those of competitors."
+    publishedDateTime: 2021-02-11T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
-    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-    publishedDateTime: 2021-02-15T17:43:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
+      name: Forbes
+      domain: forbes.com
+    quality: 82
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60254e5958e6f9dc146d273c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -71,22 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
-    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
-    publishedDateTime: 2021-02-15T20:38:00Z
-    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 53
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z
@@ -98,21 +65,19 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-    publishedDateTime: 2021-02-11T10:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+  - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
+    excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
+    publishedDateTime: 2021-02-15T23:59:00Z
+    webUrl: "https://www.infoq.com/news/2019/07/Microsoft-Azure-Lighthouse/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 45
+      name: InfoQ
+      domain: infoq.com
+    quality: 41
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-        width: 615
-        height: 384
+      - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
@@ -127,20 +92,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
         width: 809
         height: 473
-        isCached: true
-  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
-    publishedDateTime: 2021-02-17T12:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
@@ -170,15 +121,6 @@ related:
         width: 300
         height: 209
         isCached: true
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "AIISVVqP/L3kzirgwVg98w0eYGWXk5IABFOoZa8/wITEL5yuloRg3VuRtyaJU+uZWUqdmK+tbtt+WCAHSjaFTtbx1kGY/ua+SuOCDW+dI9P4F6wOqWhOa7r/zyJIspPHNoKHV3DP/hr51NH4U/n+2Q4Zb+vol3+DJuuEouwWr50cx60LWnWXtFZIfQRUDHvmJVwJX7kOQHYbV0kBvSRP1jzeMx1sfe8spcCLvCRu2BVo80PKi2hkeKlVZdksz9exJnqk11riJFb/p3DHXCLVyMcreMLKFphxLq555BjQjbXIw8PEiAmVoHMAVncS+ajKuzLPUZRDkD6piP4E8tHfctJpE6lMK9uvQnwqWliZmUc=;FhHr2l0XG2lb8vG4LwcRmA=="
 ---

@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-publishedDateTime: 2021-02-16T16:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
+excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
+publishedDateTime: 2021-02-15T23:59:00Z
+originalUrl: "https://www.infoq.com/news/2019/07/Microsoft-Azure-Lighthouse/"
+webUrl: "https://www.infoq.com/news/2019/07/Microsoft-Azure-Lighthouse/"
 type: article
-quality: 64
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
+  - Migration
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -44,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+    publishedDateTime: 2021-02-16T16:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z
@@ -55,20 +66,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
-    excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
-    publishedDateTime: 2021-02-15T23:59:00Z
-    webUrl: "https://www.infoq.com/news/2019/07/Microsoft-Azure-Lighthouse/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
     publishedDateTime: 2021-02-18T15:02:00Z
@@ -126,6 +123,6 @@ related:
         height: 209
         isCached: true
 
-secured: "gqh7lW59Rr6G8F7BwsTS7E6YZPqciNvD0SpwVQnST0Sp91F8VogVRTQp9k4F+IoD8Bebtz9ZJQ228HgbSFwkMmigA8rqOoDix5OOcH+uHz6WPf3E1GaDh5PIIFZc9zP12GyLabx/TdSCcPKIuiEmw4gS8WEk2BSQ/YMiR7HoYdkKoNpnXEuKYR/T3g6dt7GlfhXKOVotf9gbWf6GPa0eCmz3A0A3xhVI2MSn6U0UX4Wu2uCM4bwpYZbCclaJ10HZJi5qTVxG4S03+Cn1pYOVy2PnCUuvrnZLAHvWTJvGhol4abgf6Kkd3KgiZfbMtwksuVauRCpZx6eCwJIPbPH40L5JSTkHkf7RoOTpFp5OYrM=;V7Hmm3AHSWqKDPIuF2KIsw=="
+secured: "f4Ktv5NovnGLAJP+6jxudOZN+d/IamCbJGqtFpbgBZ4EE5dOKmAU0xN+8XcDd+ncCWVLJlCXbtbOifbR9u04wX2Y8eNMOct3eN3GJoFhDu8y0vNVnM8tXZE4sPkJaMNeL0LS8jlECVA+TLwrBRV/UOWpQbSyTURwuzwMs0WeSdsEXaBX1s25cPq2vErAZfi2zJqv/ei2JIOlNgSDBMvdjf2EHxOwZaK6iO4ttCUJvi+PKRQ07NOInb3pozhKS/lDMTWMypm1VBEnYshc8Y/CjBOPGw5ix9PrUYVQIOsz4HT21VviO5J9506Z/YaWbSSVYGaKpTqIiJFZuB8kU/WGkzlqvdgqpFgoAA3SUmkL/Z0=;JTW8nfBvb2PaZuIljYPNoA=="
 ---
 

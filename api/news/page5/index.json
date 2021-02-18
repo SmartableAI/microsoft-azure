@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-17-azure-hybrid-benefit-now-generally-available-for-linux.md",
+      "title": "Azure Hybrid Benefit now generally available for Linux",
+      "excerpt": "Coinciding with this week’s Kubecon and Open Azure Day virtual events, today we’re announcing the general availability of Azure Hybrid Benefit functionality for Linux customers, allowing you to bring both your on-premises Windows Server and SQL Server licenses, as well as Red Hat Enterprise Linux (RHEL)",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/2f23f64c-ac36-4040-88ee-e45575fb94b4.png",
+          "width": 724,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T01:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east.md",
       "title": "General availability: Azure Log Analytics in Brazil Southeast and Norway East ",
       "excerpt": "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. ",
@@ -1101,59 +1152,6 @@
       "topics": [
         "Azure",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-preview-azure-monitor-for-containers-now-support-capacity-monitoring-of-persistent-volume-pv.md",
-      "title": "Preview: Azure Monitor for containers now support capacity monitoring of Persistent Volume (PV)",
-      "excerpt": "In this preview support you can monitor the capacity of the PVs. You can visualize, query and enable fast alert on the PV capacity & inventory metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azmon-ci-pv/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azmon-ci-pv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/bd8cdbe8-a369-4c3c-ab74-dbb505e22305.gif",
-          "width": 889,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:00:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
       ]
     }
   ],
