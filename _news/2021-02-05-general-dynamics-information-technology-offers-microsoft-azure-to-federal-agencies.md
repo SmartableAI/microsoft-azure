@@ -3,8 +3,8 @@ category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
 excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
 publishedDateTime: 2021-02-04T17:59:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921"
 type: article
 quality: 31
 heat: -1
@@ -399,6 +399,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "sekdpLECO58n9FOQ1SQHNhBQdA3yKb87rkDzSkLmdXf6VEvd09kvLHq1uq5l6W7d0f31G2EdxA4c5aDXiXWKouBtbY8trKtSFwau2uUjdJ8/IT6fEHNou95reeE5UCqxAl1daaYrnYoMUU5uuw67jnj8RbIdsmTKd4DNAWpU8fvw2W/QIjUlg/5GmdNWVGkiYjgLtM/uaVg/AKvbxGXC6s94oN93YUId631ZYiPnrmXHywdatwEP46avbXqTMsiqDExgbhH7+d0G8jmr9iSZhXu6o1R0a3HTlTxHWBCqI4d3MMCFEdUpDm3BXW9vNo2Gs6rUq/QQV8SrjzkgZ17k/x9BvFNpOgwJO06RHAunoJM=;P8OXHNGF4bgMPdEUl+BAXg=="
+secured: "iGH7DPxdHVrrsbKQ6A+OW3g5LGAsj71y5sDQTUiVGvajAM00Nw6HMOXib01+DSkw942j1FeomIDjZM6ml57g6xoT0RycJ/agbFnorDBpjNQBDvxW/eXQufyq30ZyLyl7daV/029+2DzYAz9HRQG276ibeWgfDQHQkWaqNH3oSZ+B5r9bh9cegnu+OhTV8euhdSmRnbs/uXoF/dR2ONDqO9jRzelx0Zmfk1pUxuSGiQu/Ah+BG/5/NUbK/LBeIP/dvsnefqAwIhnHGOyLieYNx4dfhkkyc4Ut2Y/Q8I4qUAVNkCKYsHb2dU1HRbGTrbx4fOslmPOn5JXBCElAyLoRHjyb2SZlWBgrE8y3I4OTEiI=;kvqxCjFzD5TffqnNvFDAcg=="
 ---
 
