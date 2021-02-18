@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 28612,
-        "average": 4.785475
+        "count": 28653,
+        "average": 4.7855372
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28612,
-            "average": 4.785475
+            "count": 28653,
+            "average": 4.7855372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 15129,
-            "average": 4.809571
+            "count": 15151,
+            "average": 4.8095174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 7130,
-            "average": 4.800982
+            "count": 7140,
+            "average": 4.8011203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 15129,
-        "average": 4.809571
+        "count": 15151,
+        "average": 4.8095174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -293,8 +293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28612,
-            "average": 4.785475
+            "count": 28653,
+            "average": 4.7855372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -335,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 6199,
-            "average": 4.718826
+            "count": 6209,
+            "average": 4.718473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5350,
-            "average": 4.7575703
+            "count": 5356,
+            "average": 4.757655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,8 +426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4230,
-            "average": 4.7501183
+            "count": 4235,
+            "average": 4.7504134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -601,15 +601,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
-      "title": "Manage secrets in your server apps with Azure Key Vault",
-      "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-execute-azure-function-with-triggers.md",
+      "title": "Execute an Azure Function with triggers",
+      "excerpt": "This module demos some of the most common types of triggers for executing Azure Functions and how to configure them to execute your logic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-azure-function-with-triggers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
+      "length": "PT1H23M",
       "ratings": {
-        "count": 1719,
-        "average": 4.5951133
+        "count": 4118,
+        "average": 4.7161245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -626,27 +626,27 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 132,
+      "heat": 139,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Security",
         "Compute",
-        "Web"
+        "Serverless",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search.md",
-      "title": "Create a knowledge store with Azure Cognitive Search",
-      "excerpt": "Learn how to persist the output from an Azure Cognitive Search enrichment pipeline for independent analysis or downstream processing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-knowledge-store-with-azure-cognitive-search/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-knowledge-store-azure-cognitive-search/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
+      "title": "Secure custom APIs with Microsoft Identity",
+      "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
+      "length": "PT1H23M",
       "ratings": {
-        "count": 29,
-        "average": 4.862069
+        "count": 105,
+        "average": 4.695238
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -664,37 +664,25 @@
         "Intermediate"
       ],
       "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implementing-a-knowledge-store-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI",
-        "Storage",
-        "Web"
+        "Identity"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
-      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
+      "path": "_learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks.md",
+      "title": "Discovering the Azure Architecture Center | Azure Tips and Tricks",
+      "excerpt": "In this episode of Azure Tips and Tricks, discover the Azure Architecture Center which is full of useful knowledge and resources.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks    Get started with 12 months of free services and $200 USD in credit. Create your free account today",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=AhAz3BcXy0A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AhAz3BcXy0A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M25S",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -705,24 +693,21 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2020-12-01T08:03:38-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/AhAz3BcXy0A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Analytics"
+        "Azure"
       ]
     },
     {
@@ -733,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 7130,
-        "average": 4.800982
+        "count": 7140,
+        "average": 4.8011203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -776,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 6199,
-        "average": 4.718826
+        "count": 6209,
+        "average": 4.718473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +830,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28612,
-            "average": 4.785475
+            "count": 28653,
+            "average": 4.7855372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -887,8 +872,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 4061,
-            "average": 4.7732086
+            "count": 4064,
+            "average": 4.773376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -930,8 +915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 3170,
-            "average": 4.715142
+            "count": 3174,
+            "average": 4.715501
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -973,8 +958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2799,
-            "average": 4.749553
+            "count": 2804,
+            "average": 4.7496433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1066,8 +1051,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28612,
-            "average": 4.785475
+            "count": 28653,
+            "average": 4.7855372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,8 +1136,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2604,
-            "average": 4.715438
+            "count": 2607,
+            "average": 4.7149982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1194,8 +1179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 2461,
-            "average": 4.726534
+            "count": 2465,
+            "average": 4.726978
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1280,8 +1265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3537,
-            "average": 4.746678
+            "count": 3546,
+            "average": 4.746757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1323,8 +1308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2604,
-            "average": 4.715438
+            "count": 2607,
+            "average": 4.7149982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1366,8 +1351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40791,
-            "average": 4.716212
+            "count": 40792,
+            "average": 4.716219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1457,8 +1442,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 5350,
-        "average": 4.7575703
+        "count": 5356,
+        "average": 4.757655
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1560,8 +1545,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 140045,
-            "average": 4.7010603
+            "count": 140047,
+            "average": 4.7010574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1677,8 +1662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 4524,
-        "average": 4.632847
+        "count": 4530,
+        "average": 4.6331124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1935,8 +1920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28612,
-            "average": 4.785475
+            "count": 28653,
+            "average": 4.7855372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +1962,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3537,
-            "average": 4.746678
+            "count": 3546,
+            "average": 4.746757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2020,8 +2005,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 3432,
-            "average": 4.777681
+            "count": 3433,
+            "average": 4.7777452
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2104,8 +2089,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7193,
-            "average": 4.761574
+            "count": 7202,
+            "average": 4.761733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2166,8 +2151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 7193,
-        "average": 4.761574
+        "count": 7202,
+        "average": 4.761733
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2209,8 +2194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 3537,
-        "average": 4.746678
+        "count": 3546,
+        "average": 4.746757
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2443,8 +2428,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 4061,
-        "average": 4.7732086
+        "count": 4064,
+        "average": 4.773376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2486,8 +2471,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 4230,
-        "average": 4.7501183
+        "count": 4235,
+        "average": 4.7504134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2529,8 +2514,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 2604,
-        "average": 4.715438
+        "count": 2607,
+        "average": 4.7149982
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2572,8 +2557,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 3278,
-        "average": 4.773032
+        "count": 3282,
+        "average": 4.7733088
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2650,8 +2635,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 3170,
-        "average": 4.715142
+        "count": 3174,
+        "average": 4.715501
       },
       "provider": {
         "name": "Microsoft Learn",

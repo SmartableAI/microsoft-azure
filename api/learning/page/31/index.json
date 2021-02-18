@@ -4,6 +4,51 @@
   "page": 31,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func.md",
+      "title": "Connecting IoT devices to Cognitive Services using Azure Functions",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 59,
+        "average": 4.4576273
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/connecting-iot-devices-to-cognitive-services-using-azure-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Serverless",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-docker.md",
       "title": "Automate Docker container deployments with Azure Pipelines",
       "excerpt": "Implement a CI/CD pipeline for Docker containers.",
@@ -449,8 +494,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 429,
-        "average": 4.4848485
+        "count": 430,
+        "average": 4.4860463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -621,8 +666,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
       "length": "PT33M",
       "ratings": {
-        "count": 116,
-        "average": 4.534483
+        "count": 117,
+        "average": 4.5384617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -750,8 +795,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
       "length": "PT38M",
       "ratings": {
-        "count": 175,
-        "average": 4.64
+        "count": 176,
+        "average": 4.6420455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +925,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 118,
-        "average": 4.6355934
+        "count": 119,
+        "average": 4.6386557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -925,8 +970,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-resource-governance-capabilities-azure/",
       "length": "PT21M",
       "ratings": {
-        "count": 9,
-        "average": 4.7777777
+        "count": 10,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1280,49 +1325,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics.md",
-      "title": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "excerpt": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 6,
-        "average": 4.6666665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-transactional-and-analytical-processing-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],
