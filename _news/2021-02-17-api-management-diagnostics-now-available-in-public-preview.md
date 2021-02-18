@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/api-management-diagnosti
 webUrl: "https://azure.microsoft.com/en-us/updates/api-management-diagnostics-now-available-in-public-preview/"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:
