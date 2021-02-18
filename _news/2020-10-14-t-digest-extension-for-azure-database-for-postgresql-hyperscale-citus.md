@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-az
 webUrl: "https://azure.microsoft.com/en-us/updates/tdigest-extension-for-azure-database-for-postgresql-hyperscale-citus/"
 type: article
 quality: 98
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Databases
 
 related:
+  - title: "Azure Database for PostgreSQL – Hyperscale (Citus) audit logging via pgAudit now in public preview"
+    excerpt: "Now in preview, audit logging of database activities in Azure Database for PostgreSQL - Hyperscale (Citus) is available through the PostgreSQL audit extension pgAudit, providing detailed session and/or object audit logging."
+    publishedDateTime: 2021-02-17T17:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-audit-logging-via-pgaudit-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 85
   - title: "New regions for Azure Database for PostgreSQL—Hyperscale (Citus)"
     excerpt: ""
     publishedDateTime: 2020-06-01T16:00:14Z

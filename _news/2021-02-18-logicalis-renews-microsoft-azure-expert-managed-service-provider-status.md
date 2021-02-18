@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-publishedDateTime: 2021-02-15T08:51:00Z
-originalUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
+excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
+publishedDateTime: 2021-02-18T15:02:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
 type: article
-quality: 51
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-  - Identity
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
+    width: 809
+    height: 473
+    isCached: true
 
 related:
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
@@ -84,6 +87,17 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
+    publishedDateTime: 2021-02-15T08:51:00Z
+    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
     publishedDateTime: 2021-02-11T10:53:00Z
@@ -99,20 +113,6 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
         width: 615
         height: 384
-        isCached: true
-  - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
-    excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
-    publishedDateTime: 2021-02-18T15:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
-        width: 809
-        height: 473
         isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
@@ -180,6 +180,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "eMK4ppjuYpl0QJQiKiHCfX4RXoTf8SgFWRL5zSoB9VH9nlQZEhTtJRHyfHImvIp612Y+VcYJ03RcfSKHxs89JjuHHFodMo5e6KmCoKneYOQLEbzGRaEuOnH7aYRmYeohoGguRtcgrjEfDQiKC37ksBSUt1hCQWTPXoM/U8QrQlfLuwJVYDDMxKj/N90/kbXb/oRbGKGrvh3jdFKEcfRVJoE7Nneu1v5NcD8vuq9cql7O68eKYwpEJO2o53Lb5ajUVPdlpk/q7U75aD5of2n3ILEhhFU4N15EliyqLH493vOkpe0+WTt+ImRrP2stbj1/bwYt37SA9kQ2CAW5V/uH/2CVOq1RBvNEeaksNIWJn44=;UR5LbKYsqqEPJlWELQ2XJQ=="
+secured: "JgmM01rJsXoMx6NrvwbRVQNeTXSau2k/o+ZDLvAAaGNht4Uzzaoc0ZEczzQM4kKt6AJGcAAtU0/vk5HYocF4AskMr3oSFiAwxy4x29gudw845kHTg9ib+hvwxggMuOQZXvkEykekXIAxXojUlflY8SPB8HRw1gN1w6+wzIWIyyMZQxbw4dE3pgdb8zr1GoydUJkvUn/zaXUf0nsjqeAU0wVzzT9SW6J3aWC4xbEJUsfstvf1dr1kVtfS6lnpUoEbHfFUZ95Qou+np5jfqp8ddSeg77M5ocj8NyORTtiVjrkuwws1sRIum9gSNlsBF2FCBCITot1DSgRpFqSxLw1ZnBtpwN62yv3r6oLgLYzWhng=;E6qc2H2jyBlyYCSTIfngZg=="
 ---
 

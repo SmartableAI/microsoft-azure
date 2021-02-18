@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/mdm-leader-profisee-ann
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
 type: article
 quality: 91
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
         width: 615
         height: 384
+        isCached: true
+  - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
+    excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
+    publishedDateTime: 2021-02-18T15:02:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
+        width: 809
+        height: 473
         isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
