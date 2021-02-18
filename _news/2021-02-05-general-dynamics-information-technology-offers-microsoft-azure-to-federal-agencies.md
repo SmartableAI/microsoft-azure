@@ -1,26 +1,26 @@
 ---
 category: news
 title: "General Dynamics Information Technology Offers Microsoft Azure to Federal Agencies"
-excerpt: "General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today the signing of Microsoft Partner Agreement for Online Services-Government (AOS-G). The new agreement provides federal customers with the capability to access Azure services and offerings,"
-publishedDateTime: 2021-02-04T17:59:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-government-business-and-finance-corporate-news-products-and-services-7c7c2146254e7c0b1d0b8fe0b781d921/gallery/c64d90f26effc8bf60e5e2bbe54359e7"
+excerpt: "Through the recently awarded Defense Enterprise Office Solution (DEOS) contract, GDIT is now enabled to provide Department of Defense customers with migration to both Microsoft 365 and Azure. \""
+publishedDateTime: 2021-02-04T18:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/general-dynamics-information-technology-offers-microsoft-azure-to-federal-agencies/article_158abffe-1da8-5525-9f0c-c3f5f8f95ae2.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/db/9db761ab-05fd-574f-9640-6cdc6d385b26/60215747a4ad3.image.jpg?resize=1120%2C630"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -72,6 +72,17 @@ related:
         width: 1680
         height: 946
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
+    publishedDateTime: 2021-02-11T13:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
     excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
     publishedDateTime: 2021-02-08T08:00:05Z
@@ -329,15 +340,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
-    publishedDateTime: 2021-02-11T07:08:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 31
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
@@ -399,6 +401,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "0y1yTsrNkf4CsYHSfqlE7SjnDYeSEJvCf0ioWoF68EOZLLPPnuj+StzlVmIzifo2nM5jFhi31NT860yn+conj5rB//wBKUPYCoDFlIVSyxOTxpbcVmDA0x7GfFyog8EXInIjFKtOmEKVDzlvtu2OOKTpRLMiHwSckh+G7QAD4OZOAfGURShJKpylFjfM78othzwPESU6rZkswPZKZdxLpgR+75dh7pDdZbXGxgqP6omp7RYcFBiNbqneaZ2ifWVSKp3HrelnIz8S8hlzpcdAqIZLLAJ5iz76dGyZBKeqEJBHckgvHnKoQfIlsiGP3LdlhjtV2RkGNDJ31rLOYfVZHdJmeMvfiem7DHO4JkLz7cc=;VwDxPiyqGp7ZHFLYp0qmRA=="
+secured: "7AqpIyuetzGxTvXGWRPxTAa6Vh2J05FGorVlecQX9EFm3BaV3zduzysoThZ5HgeadgXfjQ+zCr72j7P55H297Hwkhs8f33KpGf+zf8/1SRhr7iItEPi49DU+PwuO3y/RWGzKcc3Iwlj+H2S+/RwOTVGWI0sPB3U/j7a7wixkUqnDMAq0ei6OkLXGOqHnGqW1WTFbOmDYtkbJ1w0zYvUYLIvHwUXwd42dhxfixRMUjXPj1XKaXoRq+N7NIijIST17qBX6CScydgbbVyFcOlvFrCeehPzL2AiFAR80ZRdkZo4jzI7eqRUE/EEXRP/7Ce57UUqalcFfRX9eeX+l//5DYbbhWPKRe0RrNQ6Qf2xS2PI=;T5QqO0pZs+sLUqnhwMb+Ng=="
 ---
 
