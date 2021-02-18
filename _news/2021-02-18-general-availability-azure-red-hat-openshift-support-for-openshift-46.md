@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insight in UAE Central & Japan West"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-02-03T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
+excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
+publishedDateTime: 2021-02-18T17:00:06Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
 type: article
-quality: 52
+quality: 67
 heat: -1
 published: false
 
@@ -154,15 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
-    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
-    publishedDateTime: 2021-02-18T17:00:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 52
   - title: "US Gov Virginia Availability Zones now generally available"
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z
@@ -182,6 +182,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "X0hk5tvZQ5YdN7bpoQ0tiAKJCWoD4Np8VenRpyxG/MUpNSBPGpqTp+fV/ddqVX4Ze3yi8RtmFz5tfIvcVQJAZ1Oq57KFQKN+vo4PdGVVFc+ROcq6HcBpKC21U0q9NBpyOqm42SOKLWcsfX2PUDPP8lsEeHdLDKZACH/x15sQOUvhH80CxZmoAfRgZ9Extze7PJuUdW+L76PmjbB6rSwycKl4OdAoYU16C86TOrRbtQdXsP4x2nbKs+E8nh1qpDDJZ5RBnwSfSQGCfjKBXFn/JGXvzzox2HsvIFnigV5QT94WQLCyBCLm0n+FHMsJErNLgzCngtiYRbQ+Zc4fl/7Ew4sQX8nbKnESRF4hJU/4yIM=;a9apL2ElN6f7II1SMNlBOQ=="
+secured: "gTHyckxn3YiLvy9eY8Jk7+Dmz5TMLm1Ntr48tDUZNhL21olZoOPKYdFmpL9dLX0s0pUA/ksYv3IW/ADt4gPWjvcvCIPDgVR8xCIwYt16DEUyNTxi+IHSMyhu4N5TawjVj46IBCVhWhR+jt7qHj8taw7TiPqfHlIUFausRSVpxBPvcZgxV1UGRaxt7bFggm0x4S0/c39IviiL2uZqfe3gP5lRtRk2p1d+0cqGBu43gwaEzackrkvKRci18k3j1kntIWG4A8huxCP3m8QFWi4KrCofRKcJ1sJfqKGwk3lOvG2OI7erXdQRBKJ8L5Z01CRIEeceFg1R2uk/iLywEdreRNWe/BjlPyIiI6kDDxo8Dzk=;aAA3YkdrsuKOPyH1GlM+6Q=="
 ---
 

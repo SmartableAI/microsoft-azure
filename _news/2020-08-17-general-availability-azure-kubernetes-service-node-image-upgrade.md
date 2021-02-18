@@ -144,6 +144,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
+    publishedDateTime: 2021-02-18T17:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z

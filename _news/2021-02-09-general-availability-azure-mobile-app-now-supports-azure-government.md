@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 404
+heat: 424
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
+    publishedDateTime: 2021-02-18T17:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
     type: article
     provider:
       name: Microsoft
