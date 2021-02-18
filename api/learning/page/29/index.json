@@ -4,48 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-cloud-adoption-framework-ready.md",
-      "title": "Choose the best Azure landing zone to support your cloud operations requirements",
-      "excerpt": "Azure landing zones help accelerate configuration of your environment to meet your operational requirements.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-adoption-framework-ready/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-adoption-framework-ready/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 15,
-        "average": 4.733333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cloud-adoption-framework-ready-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-cloud-storage-overview.md",
       "title": "Cloud storage overview",
       "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn all about data and get an overview of how it's stored, including local and distributed file systems, databases, and object storage.",
@@ -510,8 +468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
       "length": "PT55M",
       "ratings": {
-        "count": 365,
-        "average": 4.6739726
+        "count": 367,
+        "average": 4.6757493
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-automatic-deployment-azure-sql-database/",
       "length": "PT27M",
       "ratings": {
-        "count": 84,
-        "average": 4.6904764
+        "count": 85,
+        "average": 4.6941175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,6 +1231,53 @@
       "topics": [
         "Azure",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
+      "title": "Transcribe speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "52 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

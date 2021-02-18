@@ -138,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 241,
-        "average": 4.6721992
+        "count": 242,
+        "average": 4.673554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -310,8 +310,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4664,
-        "average": 4.743568
+        "count": 4665,
+        "average": 4.743623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -814,6 +814,40 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-python-object-oriented-programming.md",
+      "title": "Object-oriented programming in Python",
+      "excerpt": "Learn more about object-oriented programming with this next-steps module in Python.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-object-oriented-programming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 777,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
       "title": "Explore the key concepts of quantum computing by using Q#",
       "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
@@ -1244,41 +1278,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
-      "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
-      "length": "PT1H26M",
-      "ratings": {
-        "count": 56,
-        "average": 4.696429
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

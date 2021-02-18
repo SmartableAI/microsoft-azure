@@ -4,6 +4,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory.md",
+      "title": "Implement initial configuration of Azure Active Directory",
+      "excerpt": "Implement initial configuration of Azure Active Directory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-initial-configuration-of-azure-active-directory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 25,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
       "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
       "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
@@ -55,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 420,
-        "average": 4.5571427
+        "count": 421,
+        "average": 4.5534444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +270,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-git/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 634,
-        "average": 4.771293
+        "count": 635,
+        "average": 4.7716537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 3316,
-        "average": 4.7720146
+        "count": 3318,
+        "average": 4.771549
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -312,8 +355,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 3450,
-        "average": 4.7585506
+        "count": 3453,
+        "average": 4.7578917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -690,8 +733,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 678,
-        "average": 4.678466
+        "count": 679,
+        "average": 4.67894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -820,8 +863,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
       "length": "PT50M",
       "ratings": {
-        "count": 5154,
-        "average": 4.659876
+        "count": 5155,
+        "average": 4.6599417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 529,
-        "average": 4.7599244
+        "count": 530,
+        "average": 4.7603774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,50 +1271,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
-      "title": "Spark architecture fundamentals",
-      "excerpt": "Spark architecture fundamentals",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 524,
-        "average": 4.6603055
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

@@ -4,49 +4,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-add-conversational-intelligence-luis.md",
-      "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-      "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-conversational-intelligence-luis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 79,
-        "average": 4.797468
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-administer-manage-windows-server-iaas-vm-remotely.md",
       "title": "Administer and manage Windows Server IaaS Virtual Machine remotely",
       "excerpt": "You’ll be able to select and use suitable tools and techniques to remotely manage Windows IaaS VMs, and restrict administrative connections to those VMs.",
@@ -694,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 50,
-        "average": 4.7
+        "count": 51,
+        "average": 4.7058825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1214,42 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration.md",
+      "title": "Automate the installation and configuration of software in your Virtual Machines",
+      "excerpt": "Learn how to automate the installation and configuration of software in your Azure Virtual Machines.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automate-virtual-machine-software-installation-configuration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-virtual-machine-software-installation-configuration/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 11,
+        "average": 4.090909
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools"
       ]
     }
   ],
