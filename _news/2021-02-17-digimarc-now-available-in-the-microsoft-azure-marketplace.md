@@ -24,86 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+  - title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
+    excerpt: "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-06-25T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
-  - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
-    excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
-    publishedDateTime: 2021-02-16T14:21:00Z
-    webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 46
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 780
+        height: 630
         isCached: true
-  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-    publishedDateTime: 2021-02-11T10:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
+  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
+    publishedDateTime: 2020-06-23T04:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 45
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-        width: 615
-        height: 384
+      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
+        width: 1223
+        height: 476
         isCached: true
-  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
-    publishedDateTime: 2021-02-17T12:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
+  - title: "IDology integrates its ExpectID solution with the Microsoft Azure Active Directory External Identities"
+    excerpt: "IDology partners with Microsoft to integrate its ExpectID identity verification and anti-fraud solution with the Microsoft Azure AD External Identities."
+    publishedDateTime: 2020-07-03T00:13:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/03/idology-microsoft/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
         isCached: true
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "8/G7yTRu8W9BIjSn204p3IiAvwn1xCZEUaNH2o7MWEUGUpn1rhUvLqyq2jG3zCx5QS81iNMAy1AtckGw+vHrPVGcgFkHr5uaTTil+anYHwuAxZP5vQ/Dvyhwyuz89z3Ip580DFaaRParCVpFCl61WLxIw/i67euDiSeBIJmFpPaRtCpMvVspXwdR/yNIC/be763urFyZJu47/4rJMz9cW4VYdRA5NJyuHP8exAMwjywKQtBRnN3wH8VGk8n7uHiLXWoZi/XJ2xnJ58xsxT4JUDD0T3xxPgRkvquUfZyytub6jLJxKcsEaCE58RUaHpaPIEW1lMHGsZASGYlTX1kk/oZMrtlymIkzhCwLdr+9HZA=;PPm+FOPSmCwJwoS4DcRtdQ=="
 ---

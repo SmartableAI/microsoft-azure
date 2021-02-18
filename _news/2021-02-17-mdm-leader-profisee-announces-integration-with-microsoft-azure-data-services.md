@@ -1,28 +1,28 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service"
+excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new native integration with Microsoft Azure data services."
 publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 91
+heat: 311
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
 
 related:
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
@@ -36,22 +36,58 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 77
-  - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
-    excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
-    publishedDateTime: 2021-02-16T14:21:00Z
-    webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+  - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
+    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
+    publishedDateTime: 2021-02-15T17:43:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 46
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+    publishedDateTime: 2021-02-16T16:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 780
+        height: 630
         isCached: true
+  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
+    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
+    publishedDateTime: 2021-02-15T20:38:00Z
+    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
+    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 53
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
+        width: 770
+        height: 578
+        isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
+    publishedDateTime: 2021-02-15T08:51:00Z
+    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 51
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
     publishedDateTime: 2021-02-11T10:53:00Z
@@ -68,20 +104,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
     publishedDateTime: 2021-02-17T12:05:00Z
@@ -96,6 +118,48 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
+    excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
+    publishedDateTime: 2021-02-11T07:03:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-stack-hci-in-india-to-empower-organizations-with-advanced-hybrid-cloud-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 18
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/02/microsoft-datacenter-rack-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
+    excerpt: "Microsoft India has announced the general availability of Azure Stack HCI, a new hyper-converged infrastructure (HCI) solution, that combines the flexibility, scalability, and price-performance advantages of hyper-converged infrastructure with native Azure hybrid capabilities."
+    publishedDateTime: 2021-02-15T15:09:00Z
+    webUrl: "https://uniindia.com/~/microsoft-launches-azure-stack-hci-in-india-to-empower-organizations-with-advanced-hybrid-cloud-capabilities/States/news/2319791.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 18
+    images:
+      - url: "http://www.uniindia.com/cms/gall_content/LargePhoto//2021/2/2021_2$LargePhoto15_Feb_2021_15022021194219.jpg"
+        width: 300
+        height: 209
+        isCached: true
   - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
     excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
     publishedDateTime: 2021-02-17T09:47:00Z
@@ -106,6 +170,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "IuJ70+3xHz3xjArnayuyAbdvGydQHjYnzRX7ZWCXIKVwxzcQS9v/S0Kbl9ICM9a7+rKZnY62YF3Qt3Fbj+u0jmzVX6VubkGTC15k3mjv5WBmpxJyQVjTOZ2Px5XB2BhP+8tXkYnBTeWbUjijzThNF4Jboe3aJGYMrArtBENBPOl4kFenZA1tTAy0VcmrY4fjeBawgf2u1sMN4owVXJTTFcdnHIvcJHAWcPoJhhL7dbWeZA3WLsYS8gRDYgHlkApMrzGHaQT7y328hQ5n/ngmBWdjsc+JbMp7snRmj35O1mgzvJBlJzjIDPOQoc1JyBk9t3Mhf4f2BLJA7xepkUhBfg3SIezplzX23A6ZtZ/t3os=;t4WffPrwO5jglXzax+oO4A=="
+secured: "kJM9+IVKLoSag1B7ml/3831r3ZMGv5phfWMrvjgEs1TymRFz0eYIEBfFJjCpOgxWxn4cbE24pRKg562IBbkkZevhw0PbWOwLFtFP5mPNBdPIl/n6oVy4TdVT3+WZ+xCOiHbvzRqccWUDSQCfPG+gmagq4fNjHW2jL0lGSLSaO6lOT/290SZMmtGdDpCeHpCATELYJCmFKFC8osTipUokDDTM4CzLD3w8K2xTXnAV2cvc0c778GasxqI0PNsOCKLX30RFYPmVH4vNjkZn9vgM6ZQEIP3RTbxonuw18AxFyaZV296hbQBeFdsezAQQjqYxeQ+Tk91KAuUYQUILTHyPHay4JOsYAD+fDQRAL01Agx4=;Nds/ZeKUKtmqOIbk+Crbew=="
 ---
 
