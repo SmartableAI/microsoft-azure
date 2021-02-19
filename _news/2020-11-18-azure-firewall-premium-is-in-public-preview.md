@@ -54,20 +54,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "TETDixdprRdWFDrWH/Dwhj0SUbmKf5uZfmaoSE0+Ug+ByZPKJy0J4ceMX/3f/0mGpFWjYFDPicCdqztw4lDtLDrAuUwvIqB65qQX99fFmwzx4kU0xKRICPYcJC66n6EmzZjVz01UDOj4VgQx6WYtpHbGDh25C4IaZspidsOosk9sCxbmZ8cSHo1a2ivXlfpZ2CrARgxvMzBA5EIlYDdQABeCfP/zS60Nc8acZ3ypkrxMxDJhLpGSHVc9FzQnLPgT2BovQM5wqCVFESqrEMsgFj+iidwrgfEAVzzLKfrAwqcfJTGUB1QywA+VsbAGj8XBlcYOaK636kSjX0Ye/RK7LzUzkvtwpLlO9awfGJWNDb0=;eFCj7IFgWXyBFL9FESB4YA=="
 ---

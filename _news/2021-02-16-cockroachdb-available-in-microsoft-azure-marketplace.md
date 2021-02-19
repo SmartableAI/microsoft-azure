@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-i
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
 type: article
 quality: 77
-heat: 217
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,6 +24,68 @@ topics:
   - Azure
 
 related:
+  - title: "SolarWinds hackers downloaded some Microsoft source code for Azure, Exchange, and Intune"
+    excerpt: "SolarWind hackers accessed Microsoft’s secret source code for authenticating customers, potentially aiding one of their main attack methods."
+    publishedDateTime: 2021-02-19T06:27:00Z
+    webUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/"
+    ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/static.reuters.com_.jpg?w=1200&strip=all"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+    publishedDateTime: 2021-02-16T16:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
+    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
+    publishedDateTime: 2021-02-15T20:17:00Z
+    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
+    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
+    publishedDateTime: 2021-02-15T20:38:00Z
+    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
+    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 53
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -56,66 +118,48 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
+    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
+    publishedDateTime: 2021-02-18T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
+        width: 647
         height: 450
         isCached: true
-  - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
-    excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
-    publishedDateTime: 2021-02-19T02:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
+    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
+    publishedDateTime: 2021-02-19T04:43:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 37
+    quality: 22
     images:
-      - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
+      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
         width: 300
         height: 300
         isCached: true
-  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
-    publishedDateTime: 2021-02-17T12:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "RmLhMZ/t8RiTGj/fDpw1ko7LiDaogoxue+rsaNVDuHWwHsau7RovWoKT7jnILu43su9XoTQLPMVt4bJWZy4SZtr5gPi9VnpiGnc4yuNPAwshjZka2CVGLszmnMop8A3pIdvyU33sCBDhhBPuMD29Ffvh62PpiAaA48HobVEd2W6x+sUgtEHfEkFgXxCpRAcdiLKh+sNQ1jdFOgXKKn+MMRdn7UGz8SnF41Utko52ulcQ4PHzaJwiVQLkCB/CpwWmVeEJbTDDE2hvfhP5TcNMfDDqq5QBTAzrRQ/7obsBK1l0vT96DUodf4S+dIh2JXVHaVaAUOaShtNXth6/x0bdsBFM7OitqwMPoL2hsZ6+Q4k=;wP6OwzvYUcIeunFx/SW3oA=="
 ---

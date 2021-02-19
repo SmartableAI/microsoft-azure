@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-pre
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "qSGII+zWTX3UhhEeVeWrLnkuHPtHfIZWq6kf43dxyYvk1OaB03H/m7TAo9Qt1GDMBOTQ3e72LndQXbt4sjKYFxJod0GbAxTqdqHEjJWW8lL7LSc4a0elkIoRj652CqkDHhmZXV8wBUATZlnz1Hpe6VYQTc224cWjDDlMh88NS3WBse7e0nqfK39ArfuDCNkpOq9LpScUau4AuVe3VGOIlhQ3HXdd7yXu6akpW85L6QTKvMYVnO+YJRsxVY4Vf17kHP9xZtTwqzP+yxKYQdYZZMIRHtQVcKplD/plKuk3JiZojuiC9oUby+eeevc6RMXtsY2o8toOtsIdPD6bAFIPe9sCfVIL2r0yRnUkusZaOvg=;vUHqYFS74GeV9rhYgMbSlw=="
 ---

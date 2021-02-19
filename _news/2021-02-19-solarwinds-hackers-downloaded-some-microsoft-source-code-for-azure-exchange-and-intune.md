@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
-excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
-publishedDateTime: 2021-02-16T14:21:00Z
-originalUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+title: "SolarWinds hackers downloaded some Microsoft source code for Azure, Exchange, and Intune"
+excerpt: "SolarWind hackers accessed Microsoft’s secret source code for authenticating customers, potentially aiding one of their main attack methods."
+publishedDateTime: 2021-02-19T06:27:00Z
+originalUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/"
+webUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/"
+ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 88
+heat: 268
+published: true
 
 provider:
-  name: winbuzzer.com
-  domain: winbuzzer.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2021/01/static.reuters.com_.jpg?w=1200&strip=all"
     width: 1200
-    height: 780
+    height: 691
     isCached: true
 
 related:
-  - title: "SolarWinds hackers downloaded some Microsoft source code for Azure, Exchange, and Intune"
-    excerpt: "SolarWind hackers accessed Microsoft’s secret source code for authenticating customers, potentially aiding one of their main attack methods."
-    publishedDateTime: 2021-02-19T06:27:00Z
-    webUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/"
-    ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/static.reuters.com_.jpg?w=1200&strip=all"
-        width: 1200
-        height: 691
-        isCached: true
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
     excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
     publishedDateTime: 2021-02-16T14:00:00Z
@@ -98,6 +86,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
+    excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
+    publishedDateTime: 2021-02-16T14:21:00Z
+    webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 46
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
+        width: 1200
+        height: 780
         isCached: true
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
@@ -158,6 +162,6 @@ related:
         height: 300
         isCached: true
 
-secured: "L/v2UEVyhB/BiSyxG7jg96XZ9510N3aaMi56ffBKHq9pI36Ok271kvJq6WtGQQXdfxzPc0QxM8IPkAZlfSb6nLmK1Z1CzWoa1l1pIiSANrfyolW6P98zGICN0m2Mn2Li4zZVEHdJxvjxJsUQQTuOZInI/WflY3rA1uzoecOlrW9tsBV2v0WUMb/Ceqn6f/cPB2/ltmBTV5Pm4r+MUJqKStL+jwr+13sy/MfcYre/bcowEOktcoSxB5qoTxtTw2/ilu2gUs87v9ClUjlBVRrUQGrkCNQpcm9m7qxq96ATsFgeyERA0kYmEKDfxNCCY//usgkimBcTteUzhbwNqsOZieQ4LH/CzI2GijsIVBS2pSM=;bD4S+ySg0jkc5dBlRPCmOA=="
+secured: "JVqrV1yniyKlQXnTV7YGs04MpB8Q8Qs9SIskgob0+pzz2iD3KdxEpnACvEOznI9lTxu+zx7lI700MhUre15dnjoxRQuj7KoYKZZJA0oe8oNJNpe9WulHEAK0SKJJfXusMWiE2QysEpLkWzrQ1OrsrsG+3ARTkf91j0U6WmVN64BqSvAEvpPrfWbW+1xkHKdI1hkpScX4gXyzEqSTlve1IBN79LI/Z2/TC4XmH4yVzH/fX6bWCYHgaQ8Oj38nzguhl/KCfboI3YzkMnX+Weqg0fBA4RaadzgmH18C9vf8NquS8vDlucyJf30mxn2wlL9kBKH5foW/L4Hc0zRpUjpg/VBRK322P0JAYqp+0GTSW2M=;InswwwnWjdT95PeqerglAQ=="
 ---
 
