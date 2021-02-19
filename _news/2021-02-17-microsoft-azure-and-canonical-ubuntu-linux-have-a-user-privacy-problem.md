@@ -1,29 +1,34 @@
 ---
 category: news
-title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
+title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
 excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-publishedDateTime: 2021-02-15T17:43:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+publishedDateTime: 2021-02-16T22:06:00Z
+originalUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
+webUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
 type: article
-quality: 77
-heat: 137
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Linux Today
+  domain: linuxtoday.com
 
 topics:
   - Azure
 
 related:
+  - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
+    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
+    publishedDateTime: 2021-02-15T17:43:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-02-19T11:15:00Z
@@ -54,16 +59,7 @@ related:
         width: 1000
         height: 524
         isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
-    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-    publishedDateTime: 2021-02-16T22:06:00Z
-    webUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
-    type: article
-    provider:
-      name: Linux Today
-      domain: linuxtoday.com
-    quality: 17
 
-secured: "Q+ztU/qFcC3ctzzYJFciD5e1bxCQOL/Nuzy6M6OUCEgunebOO6Cxg2uWmO/uf1/SwItcmjF+po6cdkStu6E9Dp+lpAeWCBWa0URQdyWDK6NKucIFt817QgFF310U/RL5mm9GunOOomro3R1ATOJFm9aGIjohsfPbMax5fYbCEc4cKU7ZLr/Mxs3zx4xRbszKtqg0mYktQund0wzdOqrCe54xpVoM1f+u0I9PWlapJLW4o0NC5HFWMNatd499xg0h/gHKlI+SmHlU/1vMWMtE1tx96Crb8KU8qYpbNat1bjwNZNI1H4o4a+WXYsOno5JC16gQraV+qGg57SXJxpXna7W97B5SC3uONL9tfSTVNLYIG798iwM2BdwnzfNp49d/Tjtbh1P/mrgMMKTOXPm5A0udYSCecdO8J5T00E3qnkLfk0KzMv3VKsUoLl+/axTUh1qZ43EcHieJjv/lUbpQEtyoOF3RQwxnjJtKjxXYhnzSxZ7JkxH9+BXA4XnF7oKjVmkMXYsG1SP1meXTDE7aHw==;6D3jt2t94tV35PVaRVsALA=="
+secured: "UobwkIWC1bevsyiV3tOmMlz5Hki2oeRvaVIxGoUUeVmU48N4KouDqKpmxkosEALiC1ZESt5mQn2gSjXyqoDnplch4R+StyMuzorPO8AA7MJtDRI+Rm93lT17RCKBEGmYcTT7xAJgrjGw9I9FYqODPG01CVrm0z3QITIXfmtk0X+NALaxb/jRDxHqUnt2hcOExiaeT92btGhw9HPtaSRsrhrD/aDHepHe5hJMyuykAM9TvLdnOi4SsbJRi9FY9yPudODNnZcn8gRENGn6LPWrHfcwp7b4+uoMfslS6kEjwoCXHrp2XZPv4ODkdmEvevxx2Ak2rcjY8b7sWx3Y7RcuSANQJt5J/Az/phd95afB3/o=;SI466SDdZAoCn3+YbkC8lQ=="
 ---
 

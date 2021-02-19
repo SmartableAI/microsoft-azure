@@ -24,84 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-17T15:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+  - title: "Volkswagen Taps Microsoft Cloud To Advance Autonomous Vehicle Features"
+    excerpt: "By working with Microsoft, Volkswagen holds to increase the use of over-the-air software updates in its vehicles, something that Tesla has touted as a differentiating factor between its cars and those of competitors."
+    publishedDateTime: 2021-02-11T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2021/02/11/volkswagen-taps-microsoft-cloud-to-advance-autonomous-vehicle-features/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
-    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-    publishedDateTime: 2021-02-15T17:43:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-    publishedDateTime: 2021-02-16T16:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60254e5958e6f9dc146d273c%2F0x0.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
-    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
-    publishedDateTime: 2021-02-15T20:38:00Z
-    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 53
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-02-19T11:15:00Z
-    webUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
-    ampWebUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 52
-    images:
-      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-        width: 630
-        height: 473
+        height: 800
         isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
@@ -114,22 +51,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-    publishedDateTime: 2021-02-11T10:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 45
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -143,62 +64,6 @@ related:
       - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
-    excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
-    publishedDateTime: 2021-02-19T02:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
         isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
@@ -228,15 +93,6 @@ related:
         width: 300
         height: 209
         isCached: true
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "HtYuwl/wJzleTseiNbCloY3Ht4FeI59pZKry5tfaupg0NO8ZKqEu7BrzdDUJYjJVDWXROPFWO8kWMsTqJFMHNT/oECzAO+XVup6qIeaa3d64L14+Zp1HjN7pVOXk10oItR4HmA01lH5YLd6V231WKkd4oJkEeFO9VfGDdR03/6fpPtPAO6yuPt4mChgaPwccXFoKSdUMqwXfKQMt1xJlaS89kiDc+11+TjklGwt/whlOBEs9x6359vTS3UgezHmF1PG4R1eMDQ7QRHzr6qJo6bi40+pjbEDMUjitrn8rtafZfa+rySFP33grntVwAO4skGEq4IV4kj3Q9S4AucX31YB9C54stji3WeCIDI7+yduDkHoinO0slatjp26wLkAPb++8CwnMNHjW4pVODFbv0KbtHjPJ7NbSFmBDZzSeG472OVyAO5sQ2zEywEsEOTE/ZxGBt7pdfCtxWL0caJuqtB3Qu7P3DlyzV2wlzG2F1WYZgEbjl4JMrP9DQspqkflDcSeyOdjX1kgoAg/G4ArS7Q==;p3Zs0nQCThS+rYQ4+kA5FQ=="
 ---
