@@ -49,6 +49,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-deploy-docker.md",
+      "title": "Automate Docker container deployments with Azure Pipelines",
+      "excerpt": "Implement a CI/CD pipeline for Docker containers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-docker/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-docker/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 319,
+        "average": 4.7147336
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-docker-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
       "title": "Build a real-time event-driven Java solution on Azure",
       "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
@@ -137,49 +180,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-java-containers.md",
-      "title": "Automate Java container deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Java containers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-containers/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 16,
-        "average": 4.1875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-java-containers-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     },
     {
