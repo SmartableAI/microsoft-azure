@@ -42,31 +42,6 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-    publishedDateTime: 2021-02-16T16:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
     excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
     publishedDateTime: 2021-02-15T20:17:00Z
@@ -82,22 +57,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
-    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
-    publishedDateTime: 2021-02-15T20:38:00Z
-    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 53
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
-        width: 770
-        height: 578
         isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
@@ -115,36 +74,6 @@ related:
         width: 1200
         height: 780
         isCached: true
-  - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
-    excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
-    publishedDateTime: 2021-02-11T10:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-focuses-on-hybrid-cloud-announces-availability-of-azure-stack-hci-solution-in-india/article33810423.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 45
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/5jmaz4/article33766631.ece/ALTERNATES/LANDSCAPE_615/microsoft"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
     excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
     publishedDateTime: 2021-02-19T12:17:00Z
@@ -158,34 +87,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
         width: 1280
         height: 733
-        isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "G6oZICfB7Ct6Jx4J0mrDGllynqC6P3ClE78Mhe7lQnyFp3JEOTDnfvt8CdVJdvE2jyd8yKMypm2NM+MjEdCgTiSpRrhB2u4SMi8qJb2RgnCkvkiYyFqe5TFkLBLqK6KR0ebAmnCfhvPViqD3bdJbsSw/gYG5IqSzvSWxiFgS2lv6akr8j5HonJhXZlHOdEZ0qmVCp9LVxvN9Hnrrf8TBH0V+eH+Q2ruOG2N7GcNgdEClhk53gqvhvqAICU7vURjlFA2kaOvnAwnwX9CCirRSXQ05slpA5A3bzJ3O9gPAUSshptZL25ytsu7EZVbqV4yUU6PXE2VX6C27Q+OO1mITS+Jxu1AsU+yw3G/tJv631Bg=;Otz1F9TyPdjArVwuMHBi5A=="

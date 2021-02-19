@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-
 webUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-cloud-cdn-with-intelligent-threat-protection/"
 type: article
 quality: 101
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Web Application Firewall Integration with Azure Front Door Standard and Premium SKU"
+    excerpt: "Azure Front Door Premium SKU with built-in Web Application Firewall,  protects your public and private web applications, combines protection with application acceleration and content caching.\n"
+    publishedDateTime: 2021-02-19T18:54:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-integration-with-azure-front-door-standard-and-premium-sku/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
   - title: "Azure Front Door Standard and Premium now in public preview"
     excerpt: "Azure Front Door Standard and Premium, enables Azure customers to securely deliver and manage their global applications and content, migrate to cloud and modern microservice architectures and improve their users’ experience."
     publishedDateTime: 2021-02-18T17:00:06Z

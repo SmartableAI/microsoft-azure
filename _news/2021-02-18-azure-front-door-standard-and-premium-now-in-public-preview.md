@@ -36,6 +36,15 @@ related:
         width: 573
         height: 388
         isCached: true
+  - title: "Web Application Firewall Integration with Azure Front Door Standard and Premium SKU"
+    excerpt: "Azure Front Door Premium SKU with built-in Web Application Firewall,  protects your public and private web applications, combines protection with application acceleration and content caching.\n"
+    publishedDateTime: 2021-02-19T18:54:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-integration-with-azure-front-door-standard-and-premium-sku/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 78
 
 secured: "8lsBHzygOIoaIvcn+TOn548MEAYkWeTAJbwBmU4KZQ7zdpIhFGcXHFT8v9qU2o5Nt8G6AKt2Bsm874xBJIp+I+eXXTQwC6//Z7Jfh9FCAwrQGj7iN36W05GBUcPh/1lvWVTG7T7EXHHzmwXfE+cVqyqe0Uen4XvbwBbp32Repe2jbc6CeuN9IC9ZWKL79W4AXpHl0dnudFSJZKC93VZWfri0RNPbCTf6nK4u4+n+mF2mCIKRysgS2MPU8XA6oWkTVOPz1migumCQMJAuI+ZpBAy6Tdxzm3VwFz64yFX0FjlGPY4iZladeaCPqMJuZqq1rktFG64pKa1TDIeQVmeEYd3hNjIfb9hkRc4iHyp0cps=;ZoD0ZQVlAbjHCOQa/bYbcA=="
 ---
