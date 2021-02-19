@@ -30,6 +30,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-02-19T11:15:00Z
+    webUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
+    ampWebUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
+        width: 630
+        height: 473
+        isCached: true
 
 secured: "b1HfikgLXs9/ohO2PLKufB30D5OhHmAoEEM43G83o5XH6itLne3OxKVvLOLXY7uNUvSwJBCxd4Lop/KveHe3h5tWPOPbA3JbXwlFeaHF2Ex8QqTw4aWhBvwohBxVz5jJvApz6OouEflPDmh7Q5TvnwqOgTSxwflPAlqr7m0ZGyADLObDToiY3X7wk+Ea1bCPZJPHlJX4mKFZb9h6Qlskelcyr55q2mS1nWTdTbtwN0P3UeHFo/QNZbHvUgYEZAas1v0K8OyoO4BO/PEvA/+iC3k7Rr/ZMFfceD2EhWeDX4ZcrHooXsXxHu3P+zY+R3+DymAOGq2zGiR5474n9kME89G6JYVU8QKb2TTirJWJwqw=;9yxwROFzt5mx/cdYZEjo+A=="
 ---
