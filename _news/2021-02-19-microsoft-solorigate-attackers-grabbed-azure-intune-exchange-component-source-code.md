@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
-excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
-publishedDateTime: 2021-02-15T20:38:00Z
-originalUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
+excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
+publishedDateTime: 2021-02-19T12:17:00Z
+originalUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
+webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
 type: article
-quality: 53
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
-    width: 770
-    height: 578
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
+    width: 1280
+    height: 733
     isCached: true
 
 related:
@@ -82,6 +80,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
+    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
+    publishedDateTime: 2021-02-15T20:38:00Z
+    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
+    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 53
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
+        width: 770
+        height: 578
         isCached: true
   - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
     excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
@@ -145,20 +159,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
-    excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
-    publishedDateTime: 2021-02-19T12:17:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 30
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
-        width: 1280
-        height: 733
-        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
     publishedDateTime: 2021-02-16T12:58:00Z
@@ -188,6 +188,6 @@ related:
         height: 300
         isCached: true
 
-secured: "CvayjuK/wlnGSio9RYGfTr+JKkzR3bTTRMIGB472OTy/35ddBLGt/jDuodVrM/AFYDcakWjhcVSSElGVfIoF8lYAKL8JgQL1PqPZxpcz7HjabX4KNOjXUDYG8AY5DUcRFbFmQ+KZyvzre3sah5EdH48E+4lFgEwKoED8cFupzieBFrKkalCuaaQLKBYN+yZTs2XIqBt2xfEGJVHqwmbpLumv5xYPUqiMOSyq8gAX/Kg/oG2gdu0plLQjTFp79m8vJ1yoPZuQIzbNZdOQ2dnQLEQwHnw5PIJJv8fwwBGqKVrT+wtQaGAlpAECFlLItLVqFjTjcLvBscH5JTD+qPTJ3zOIw3d9hGcgok5ES/dEamM=;0x01t351FGgBJnAE5MQ0FQ=="
+secured: "l+9OXqrCZ+MdkrXKREqcqO9K6NOCyQs3HE4UGP/YE97MAeeBSMXSYnH74vXcLEvodwXX4HBLwh7Du7cXLe4d8kros6XhDmmHYDnY1IeSihhDlD1CYwCmrMjJUqr4eVw0vFLcEP7oJvbqp0kjrubyXI2yHAXr1knBsH0JYBO6LpENdNG4QMImcDBhR/d33Fs1ubzI48TIKIh2OuwcCCelw/Jrr9I1IvsuDawLQY0/N1aYp8LNN+KHOvxbOZl2qJapMQJRYbuHwAMlt7ehyJDSBVyEqFmz+FKxjVKPyNXwa03Cat3zivd4bZecoGQj2lfgEuBCqGotpTO9n0ztCmRfGGXe4ZFCZreaI+4bhLran8Y=;zI0TnUmmP3U04Wl6cQ+Apg=="
 ---
 

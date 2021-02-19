@@ -159,6 +159,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
+    excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
+    publishedDateTime: 2021-02-19T12:17:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 30
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
+        width: 1280
+        height: 733
+        isCached: true
   - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
     excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
     publishedDateTime: 2021-02-19T04:43:00Z

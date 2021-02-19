@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-som
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
 type: article
 quality: 88
-heat: 288
+heat: 308
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
+    excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
+    publishedDateTime: 2021-02-19T12:17:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 30
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
+        width: 1280
+        height: 733
         isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
