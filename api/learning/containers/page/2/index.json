@@ -4,6 +4,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 683,
+        "average": 4.7218156
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
       "title": "Choose an Azure service for deploying your Java application",
       "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
@@ -203,46 +253,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday.md",
-      "title": "How to use Prometheus to monitor containers in Azure Monitor | Azure Friday",
-      "excerpt": "Keiko Harada joins Scott Hanselman to show how to use Prometheus to monitor containers in Azure Monitor.  Prometheus is a popular open source metric monitoring solution and is a part of Cloud Native Compute Foundation.  Customers who like the extensive metrics which Prometheus provides on Kubernetes",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-prometheus-to-monitor-containers-in-azure-monitor-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5ARJ6DzqTYE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ARJ6DzqTYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M30S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T15:31:28-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5ARJ6DzqTYE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "DevOps"
       ]
     },
     {
@@ -1194,8 +1204,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 727,
-        "average": 4.632737
+        "count": 728,
+        "average": 4.6332417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1271,49 +1281,6 @@
         "Azure",
         "Containers",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
-      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
-      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 225,
-        "average": 4.577778
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     },
     {
@@ -1400,6 +1367,51 @@
       "topics": [
         "Azure",
         "Containers"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-microservices-logging-aspnet-core.md",
+      "title": "Instrument a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through implementing logging and monitoring in an ASP.NET Core microservices app in Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-logging-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-logging-aspnet-core/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 13,
+        "average": 4.6153846
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-logging-aspnet-core-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Containers",
+        "DevOps"
       ]
     }
   ],

@@ -468,51 +468,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
-      "title": "Implement CI/CD with Azure DevOps",
-      "excerpt": "Implement CI/CD with Azure DevOps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ci-cd-azure-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
-      "length": "PT28M",
-      "ratings": {
-        "count": 109,
-        "average": 4.7522936
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-load-test-web-app-azure-devops.md",
       "title": "Load test Azure web apps by using Azure DevOps",
       "excerpt": "Discover Azure portal and Azure DevOps tools that help you quickly and efficiently define and scale up load tests for apps.",
@@ -1255,6 +1210,46 @@
       "topics": [
         "Azure",
         "Serverless",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
+      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-11T08:05:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
         "DevOps"
       ]
     }

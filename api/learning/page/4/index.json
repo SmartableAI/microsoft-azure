@@ -4,6 +4,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-network-fundamentals.md",
+      "title": "Fundamentals of computer networking",
+      "excerpt": "You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-network-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 4558,
+        "average": 4.7145677
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-administer-containers-in-azure.md",
       "title": "Administer containers in Azure",
       "excerpt": "With this learning path, you'll create and manage your Azure Container Instances, and see how they can be used to provide elastic scale for Kubernetes.",
@@ -34,8 +69,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4049,
-            "average": 4.650037
+            "count": 4051,
+            "average": 4.65021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -69,8 +104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3051,
-            "average": 4.613897
+            "count": 3052,
+            "average": 4.6140237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -208,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 6252,
-            "average": 4.71913
+            "count": 6253,
+            "average": 4.7190146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -334,8 +369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1262,
-            "average": 4.4461174
+            "count": 1263,
+            "average": 4.4465556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -412,8 +447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3051,
-            "average": 4.613897
+            "count": 3052,
+            "average": 4.6140237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1331,
-            "average": 4.746807
+            "count": 1332,
+            "average": 4.746997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1042,8 +1077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 2509,
-            "average": 4.791949
+            "count": 2510,
+            "average": 4.792032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1422,8 +1457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3742,
-            "average": 4.6822553
+            "count": 3743,
+            "average": 4.68234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1550,8 +1585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1262,
-            "average": 4.4461174
+            "count": 1263,
+            "average": 4.4465556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1647,8 +1682,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 140056,
-        "average": 4.701062
+        "count": 140060,
+        "average": 4.701071
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1724,8 +1759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 1803,
-        "average": 4.8386025
+        "count": 1804,
+        "average": 4.8386917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1999,8 +2034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1107,
-            "average": 4.67841
+            "count": 1108,
+            "average": 4.675993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2994,8 +3029,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
           "length": "PT43M",
           "ratings": {
-            "count": 1107,
-            "average": 4.67841
+            "count": 1108,
+            "average": 4.675993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3170,8 +3205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-sap-workloads/",
           "length": "PT50M",
           "ratings": {
-            "count": 586,
-            "average": 4.8105803
+            "count": 587,
+            "average": 4.810903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3416,8 +3451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1262,
-            "average": 4.4461174
+            "count": 1263,
+            "average": 4.4465556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3595,6 +3630,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday.md",
+      "title": "How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday",
+      "excerpt": "Jay Gordon (@jaydestro) joins Donovan Brown (@donovanbrown) to show how to build a containerized React application and deploy it to production with Azure Kubernetes Service. He'll also show how to configure an Azure Active Directory service principal to enable Role-Based Authentication, which enables",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=E9YWmbUb9Ps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9YWmbUb9Ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-10T10:36:15-08:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E9YWmbUb9Ps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series.md",
       "title": "How to create an Azure SQL database | Azure Portal Series",
       "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create an Azure SQL Database in the Azure Portal and how you can be more productive in Azure.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
@@ -3632,44 +3706,6 @@
         "Azure",
         "Management tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday.md",
-      "title": "Learn all about Distributed Application Runtime (Dapr), Part 1 | Azure Friday",
-      "excerpt": "Aman Bhardwaj and Yaron Schneider join Scott Hanselman to talk about the core concepts of Distributed Application Runtime (Dapr). Dapr is a portable, event-driven runtime that makes it easy for developers to build resilient, microservice stateless and stateful applications that run on the cloud and edge",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-learn-all-about-distributed-application-runtime-dapr-part-1-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=mPVnu4W0xzQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mPVnu4W0xzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M38S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-23T09:43:17-07:00",
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mPVnu4W0xzQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -3921,8 +3957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3742,
-            "average": 4.6822553
+            "count": 3743,
+            "average": 4.68234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4110,177 +4146,6 @@
         "Migration",
         "Web",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer.md",
-      "title": "Azure for the Data Engineer",
-      "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-for-the-data-engineer/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-for-the-data-engineer/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
-          "title": "Understand the evolving world of data",
-          "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 5792,
-            "average": 4.6937156
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
-          "title": "Survey the services on the Azure Data platform",
-          "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 5189,
-            "average": 4.6922336
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
-          "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
-          "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 5248,
-            "average": 4.716082
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Storage",
-        "Compute"
       ]
     }
   ],

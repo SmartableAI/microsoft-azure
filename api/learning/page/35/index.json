@@ -4,168 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-dsvm.md",
-      "title": "Introduction to the Azure Data Science Virtual Machine",
-      "excerpt": "Azure provides some pre-configured virtual machine images specifically designed for data science.  Learn how you can use these to get a jump start on your data science work.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-dsvm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dsvm/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 963,
-        "average": 4.593977
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-dsvm-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to the Azure Data Science Virtual Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-government.md",
-      "title": "Introduction to Azure Government",
-      "excerpt": "Learn how to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure log analytics in your cloud environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-government/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-government/",
-      "length": "PT1H20M",
-      "ratings": {
-        "count": 306,
-        "average": 4.767974
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-hybrid-services.md",
-      "title": "Introduction to Azure hybrid cloud services",
-      "excerpt": "Get an introductory overview of hybrid cloud technologies and how you can connect an on-premises environment to Azure in a way that works best for your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-hybrid-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-hybrid-services/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 8,
-        "average": 4.875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
-      "title": "Introduction to Content Moderator",
-      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-endpoint-manager.md",
       "title": "Introduction to Microsoft Endpoint Manager",
       "excerpt": "In this module, you'll learn about the basics of Microsoft Endpoint Manager.",
@@ -258,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
       "length": "PT53M",
       "ratings": {
-        "count": 727,
-        "average": 4.632737
+        "count": 728,
+        "average": 4.6332417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -559,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-python-nasa/",
       "length": "PT23M",
       "ratings": {
-        "count": 941,
-        "average": 4.7577047
+        "count": 942,
+        "average": 4.7579618
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1250,8 +1088,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1682,
-        "average": 4.8311534
+        "count": 1683,
+        "average": 4.8312535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,6 +1121,179 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-make-predictions-with-linear-regression.md",
+      "title": "Make predictions with linear regression",
+      "excerpt": "Learn",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-make-predictions-with-linear-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/make-predictions-with-linear-regression/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 84,
+        "average": 4.857143
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/make-predictions-with-linear-regression-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-azure-updates.md",
+      "title": "Manage Azure updates",
+      "excerpt": "You'll be able to enable Azure Update Management, deploy updates, review an update assessment, and manage updates for your Azure VMs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-updates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-updates/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 33,
+        "average": 4.4848485
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-azure-updates-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-costs-partner-cost-management.md",
+      "title": "Configure and manage costs as a Microsoft partner by using Azure Cost Management",
+      "excerpt": "Learn how to reconcile your bill and analyze costs across your customers and resources by using Azure Cost Management as a partner.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-costs-partner-cost-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-costs-partner-cost-management/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 41,
+        "average": 4.780488
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-costs-partner-cost-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines.md",
+      "title": "Manage database changes in Azure Pipelines",
+      "excerpt": "Use a release approval in Azure Pipelines to help coordinate database schema changes between developers and database administrators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-database-changes-in-azure-pipelines/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 685,
+        "average": 4.6569343
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-database-changes-in-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Databases"
       ]
     }
   ],
