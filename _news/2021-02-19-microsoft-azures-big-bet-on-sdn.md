@@ -1,10 +1,10 @@
 ---
 category: news
-title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
-excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
-publishedDateTime: 2021-02-19T04:24:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
-webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
+title: "Microsoft Azure's Big Bet on SDN"
+excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+publishedDateTime: 2021-02-19T06:59:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+  - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
     width: 300
     height: 300
     isCached: true
@@ -380,17 +380,17 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Microsoft Azure's Big Bet on SDN"
-    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
-    publishedDateTime: 2021-02-19T06:59:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+  - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
+    excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
+    publishedDateTime: 2021-02-19T04:24:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
     quality: 37
     images:
-      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+      - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
         width: 300
         height: 300
         isCached: true
@@ -667,6 +667,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "rW2FTqDixDrl4o2RjNnKqQ5VA4dtDqcpZFwKHVKNhks48+xCDRFiUVRUGpkQU6q/DxNH3Gr76OKp3KkqQ3HD/Cf9yuYXa0S0Ox7kS6pueS6Sdkh5MOinOQPbDs6fzeoigm/erIEOunDnDLEDrV8Ic7BDQ8AdNMpYFASxoU4oI0yOy5p3tFKP/ieJuVD7eJ0xuvNRxNb7hMCUJW+eMo8IauwCfl+iv5YrOHcCjWOwcUQnRqbNOybtawdQ6HZl/RKVXdyfMe55XZ9XLwNzK8Py5lo+OlwjO4vSWZuyt/MAdIwujG4aVXQ6ZApr8QLVyb20llg1lwA3IeO8RgF/2cAENcU+ZeM7bBl+4rs+ASBRvyAbx0q97X89CT4jwcq1bNc4sbznepVSUcQLXcFsBouqTeBwuyRRyDNm+gTMkjQdl+bgpOh1Vpxu+DqIBZZyjLOXJigyS52p5DbFTYk1cB/JA1mZYAm4iuA8Y2GXUDFO+R0soRt2oV5Zas/AGavvGxRFTugmnFLAI1OXfbM7+kuvXg==;i+5KKfS/xjq2/xcrL5/jWw=="
+secured: "f/zIBN0zGD38sLh7m6oaqf4Lk7czgxYgKBH0ON3DwP1pIcyvz1fLnL2Ojo3Uzzlgsnh8lJ/j6ioTZCzyhT3U1uKc4Z66SZlMWi218E4cPyJbgPXfkcibPmCa9YKrMcmFceymeemkrWajAj1LlZP9Qvq0510DcJstO/y/E2IlOWdOpg5rRDMgG3Dg53cxj526QvtmnplH6TDN+TPcK+94N8GSAWi2Bl2aXSTsK8qUJK9IrwLTTpxx/2rGVXyt9hGFKJX7G8gA+EupIocTw4vJRVqgP6u6Jb3+WHbM7/2hhZEhzMnnPj318lrrzEZfm4pqPmnRqnmGsqjq+Ov/NcAwjkbd3wi2F4Q5FB+ylbngG1I=;QGNNIwO/gU0j4T4x1Bk4iQ=="
 ---
 

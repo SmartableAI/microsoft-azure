@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 1037
+heat: 1057
 published: true
 
 provider:
@@ -381,6 +381,20 @@ related:
     quality: 37
     images:
       - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
         width: 300
         height: 300
         isCached: true

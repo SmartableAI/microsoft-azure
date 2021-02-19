@@ -389,6 +389,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
     publishedDateTime: 2020-08-03T19:19:00Z

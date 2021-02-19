@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2877
+heat: 2897
 published: true
 
 provider:
@@ -1410,6 +1410,20 @@ related:
     quality: 37
     images:
       - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure and the Trends That Will Drive its Future"
+    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
         width: 300
         height: 300
         isCached: true

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-publishedDateTime: 2021-02-16T12:58:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
+excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
+publishedDateTime: 2021-02-19T07:27:00Z
+originalUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
+webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
+ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
 type: article
-quality: 24
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: The Hacker News
+  domain: thehackernews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
+    width: 728
+    height: 380
     isCached: true
 
 related:
@@ -97,22 +99,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
-    excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
-    publishedDateTime: 2021-02-19T07:27:00Z
-    webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
-    ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
-    images:
-      - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -159,6 +145,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
     excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
     publishedDateTime: 2021-02-19T04:43:00Z
@@ -174,6 +174,6 @@ related:
         height: 300
         isCached: true
 
-secured: "AIISVVqP/L3kzirgwVg98w0eYGWXk5IABFOoZa8/wITEL5yuloRg3VuRtyaJU+uZWUqdmK+tbtt+WCAHSjaFTtbx1kGY/ua+SuOCDW+dI9P4F6wOqWhOa7r/zyJIspPHNoKHV3DP/hr51NH4U/n+2Q4Zb+vol3+DJuuEouwWr50cx60LWnWXtFZIfQRUDHvmJVwJX7kOQHYbV0kBvSRP1jzeMx1sfe8spcCLvCRu2BVo80PKi2hkeKlVZdksz9exJnqk11riJFb/p3DHXCLVyMcreMLKFphxLq555BjQjbXIw8PEiAmVoHMAVncS+ajKuzLPUZRDkD6piP4E8tHfctJpE6lMK9uvQnwqWliZmUc=;FhHr2l0XG2lb8vG4LwcRmA=="
+secured: "G6oZICfB7Ct6Jx4J0mrDGllynqC6P3ClE78Mhe7lQnyFp3JEOTDnfvt8CdVJdvE2jyd8yKMypm2NM+MjEdCgTiSpRrhB2u4SMi8qJb2RgnCkvkiYyFqe5TFkLBLqK6KR0ebAmnCfhvPViqD3bdJbsSw/gYG5IqSzvSWxiFgS2lv6akr8j5HonJhXZlHOdEZ0qmVCp9LVxvN9Hnrrf8TBH0V+eH+Q2ruOG2N7GcNgdEClhk53gqvhvqAICU7vURjlFA2kaOvnAwnwX9CCirRSXQ05slpA5A3bzJ3O9gPAUSshptZL25ytsu7EZVbqV4yUU6PXE2VX6C27Q+OO1mITS+Jxu1AsU+yw3G/tJv631Bg=;Otz1F9TyPdjArVwuMHBi5A=="
 ---
 

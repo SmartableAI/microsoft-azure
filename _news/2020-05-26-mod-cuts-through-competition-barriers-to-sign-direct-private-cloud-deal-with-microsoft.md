@@ -1425,6 +1425,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure and the Trends That Will Drive its Future"
+    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z

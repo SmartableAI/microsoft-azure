@@ -99,6 +99,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
+    excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
+    publishedDateTime: 2021-02-19T07:27:00Z
+    webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
+    ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft focuses on hybrid cloud, announces availability of Azure Stack HCI solution in India"
     excerpt: "Microsoft India on Thursday announced the general availability of Azure Stack HCI, a new hyperconverged infrastructure (HCI) solution.Part of the Azure Stack portfolio, Azure Stack HCI provides organi"
     publishedDateTime: 2021-02-11T10:53:00Z

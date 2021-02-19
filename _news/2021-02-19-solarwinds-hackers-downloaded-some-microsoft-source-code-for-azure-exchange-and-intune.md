@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-som
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
 type: article
 quality: 88
-heat: 268
+heat: 288
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
+    excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
+    publishedDateTime: 2021-02-19T07:27:00Z
+    webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
+    ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 53
+    images:
+      - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
+        width: 728
+        height: 380
+        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -162,6 +178,6 @@ related:
         height: 300
         isCached: true
 
-secured: "JVqrV1yniyKlQXnTV7YGs04MpB8Q8Qs9SIskgob0+pzz2iD3KdxEpnACvEOznI9lTxu+zx7lI700MhUre15dnjoxRQuj7KoYKZZJA0oe8oNJNpe9WulHEAK0SKJJfXusMWiE2QysEpLkWzrQ1OrsrsG+3ARTkf91j0U6WmVN64BqSvAEvpPrfWbW+1xkHKdI1hkpScX4gXyzEqSTlve1IBN79LI/Z2/TC4XmH4yVzH/fX6bWCYHgaQ8Oj38nzguhl/KCfboI3YzkMnX+Weqg0fBA4RaadzgmH18C9vf8NquS8vDlucyJf30mxn2wlL9kBKH5foW/L4Hc0zRpUjpg/VBRK322P0JAYqp+0GTSW2M=;InswwwnWjdT95PeqerglAQ=="
+secured: "mBbY2MdqmDhwNq4CVIYewTxgJcj6UdG9eLnK62CAquAOp29uCTrVKCFKuXn0f91PR5woIWlVcSIUPrjchLiPxu2FeBAVryqD83a8QXMR8gqFDXNtaZiyIpIH4QdTGs/JUO1aKCymYsUuBcbfOlMJukIDFunm9KbVcpZocSjf7ty++0NGVc03Ju5GFYkXOyOBCTH7qiJn7Bdwyxx2h7GmzXw205pBRqKkvTye57nj6jj4E+AjrLC2SJWPgIB6zs9nk/j7V+YAq8/b9AzdD2rzJYiPXmhpwl69jLC+0n0d2TpnLCAZ793DxBn5UtBX/ePt2+S/shDZ68dmsaDRJRpIlb+jTa5Ay1LSK9m5QDlmjzzoqv3mHadbM4uL2kc+fRs2niQazRfmxbjBZWWZR67gTSg93ma2M0jFl+kqNK8urBRe+vX8p/jHoUOYeRfnKz8De4qyG8hGyYiIi+J3v9kwrmrW8NgQBFVE5b/8yKiShMpmX75MGfmu9wGVMzHWwi1c5lXRcVGd4iZjcGxfn2w33Q==;xLCvPx9IJ/P5Fl8cLpQ/bA=="
 ---
 

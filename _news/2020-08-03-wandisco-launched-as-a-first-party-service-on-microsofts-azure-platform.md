@@ -393,6 +393,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "SimCorp launches Dimension platform as a service on Microsoft Azure cloud"
     excerpt: "With Microsoft Azure, SimCorp has rolled out its Dimension platform for buy-side firms as a service in latest cloud technology development."
     publishedDateTime: 2020-08-12T11:57:00Z

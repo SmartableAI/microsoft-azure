@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-publishedDateTime: 2020-11-30T18:55:00Z
-originalUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Microsoft Azure and the Trends That Will Drive its Future"
+excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+publishedDateTime: 2021-02-19T07:19:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+  - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
     width: 300
     height: 300
     isCached: true
@@ -1409,17 +1409,17 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Azure and the Trends That Will Drive its Future"
-    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: CSOonline
+      domain: csoonline.com
     quality: 37
     images:
-      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
         width: 300
         height: 300
         isCached: true
@@ -2035,6 +2035,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "7I15I1iWJZy4Q7BX9+QjvVwpzVsLLoqwD56WEsimy5HVQHwLr/Nl0mOKbZrCQZJ+bMB2D0jKwbKSn2heeCmdtM8TewWfRs/ZHm6YUERsmyjCnzz0PuVUuryVJc5Yx3yzzA5iullx/w91fFRxqoF4BYSqVpIbqzMYUjL4Q5aPe08VRmJp9GJQE7RqBfm1qOwilHC0rZl8iW5OJgzLj12bmS3+BGqZnzZbOzRgMZPRJAobBaFkaImiy8R5pPitTk3UTXq6OoRyvNmL/A51spvj/9JhXVVhzqveOZH9lnfoXIlATrBsWkXZ/LQ+/o8l1glJQUKDAms4f6sPaB3Jfd4T/3EBZUxOWbDOJJcDfftRalk=;SkFFH2lCpNHMcfUfmzk5Ag=="
+secured: "M42kpg5Wum6CECDD+rUPAvchYCgS0Waj6q3MDGIr2XlljUAU7P2nk9rQ000HhWwDsftODnNV4XfdmLBKQ3TNsIrLzSCuRKWknncRTgWo40XvbrtLMwKRWxuEkalfmL3ntzWDTu3s1n5jCwAyv+eTw8s4kTulgjqSWP5CLpUuPRB2Kr/1lnnnFjrlzNS6deB1J42ahs/iY7Zp928yLr2Pbtra7/DMFhJuj6dg1SCL9R+c+eEmAH6WuA9oTms8u9ROs7eEnO2dOEzlxyqefGeMQxLaj1ACbJnlHJ98OaOau7dyJlbVGWBqB+XVWYjuIJs8OOHzkTNYk7rGprqPF7y4WewdkvEWiBGoEgZ2y7CWQGk=;K/yAkl6ZLVRsBSh3l5E3EA=="
 ---
 
