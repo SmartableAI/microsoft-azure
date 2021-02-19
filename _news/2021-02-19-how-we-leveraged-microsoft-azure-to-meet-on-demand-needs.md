@@ -1,21 +1,27 @@
 ---
 category: news
-title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
-excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
-publishedDateTime: 2021-01-05T12:23:00Z
-originalUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
-webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
+excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
+publishedDateTime: 2021-02-19T04:24:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
+webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
 type: article
-quality: 12
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Tata Consultancy Services
-  domain: tcs.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "Microsoft Azure: A cheat sheet"
@@ -374,20 +380,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
-    excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
-    publishedDateTime: 2021-02-19T04:24:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."
     publishedDateTime: 2020-08-03T19:19:00Z
@@ -605,6 +597,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 13
+  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-05T12:23:00Z
+    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 12
   - title: "Cambridge Econometrics enables remote-work globally via Softwerx’s implementation of ‘Microsoft-first’ Azure cloud-secure strategy"
     excerpt: "Cambridge Econometrics, one of the Financial Times’ leading management consultancies of 2020, sought to migrate users, data, and devices to the cloud and enable remote work while protecting company data."
     publishedDateTime: 2020-08-03T20:38:00Z
@@ -652,6 +653,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "/04Sh3JuxFNGJFpUmXmHLrOCDN4lct7uUmnE21kdraj1OchnRwQ+LIO0Qv/0vZGtIn2EPhMwL/tmjVPKbLVf+DafRNprWdl6Ko4V1qGyzQOIbIpvmt9QfQqQwUV38TXZBdVfDt4Vrni9vWYzc9mz01J9+ZEtBisZjXEOD4z7VQa656/VeppXrwyBCmOAegGhcTnfyEWJwd5cGgJS9OFWGfksbK9uwsdTkPXLQLPz1YS+RHKniuHWR74kEUoW0zq7lfzFaa5Xrs9c28oOjk1y7r8mgyE8/lVrWmAtktxNQeu+d4FvdV6nmAG1uLuykIlNANGPkBg9GmZtv6Iio7HRtXKe9/mRYfozgOciyzdQI3TUz3/SmJj279T0zTTVPJmD2p3bkzg/XtF56gt89nCSoQYLqMrvaxK9WF+/Xc5yYC5JmjoT0p5F5E25GIlyWf6M1YeY+98qdZQjPfGDUvviN2X0QSrXdjIT6C9dgDCwyyczR5Jag85daXSTtOqO6jgTAgXkdMZRJXPDGsoa50TrKw==;E6ZgHeOWYGktNuofA61M4g=="
+secured: "7DgNeQOT9nLcdItOplU7J62586LT7AT+2APMdvb7/5eb1uU5VD5nRTNXzLd5x6WaOAooHOqq7i8RFpetJb4jAjBHwCv8jppKl84j+mdLfTD5w7xtBfOf99eQIx43Wsg5dYErRwPPWy14o4/LzSO+chof+F7yUCbkvhYgWVfI7kxofa44fZP+Ta19zII/YSPGVEVR5kNma+uZX8Qo7peWkTePKxoPYiPL21BnIUPoIKelGAZkV+NIpQaeDNRABWtzzvAe5BB3sH5/gqRhskKPUf3qJxT9wjpMtCyq2MCTp8TVCU508iO46DRxncK9Jj+ggxZcl8oHeqH/h9dTWU5RhBm5FjavmOmAiR8UuqiJM+A=;sITfDsWCHNszDWoJ6Zmxiw=="
 ---
 

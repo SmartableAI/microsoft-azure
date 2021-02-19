@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-publishedDateTime: 2021-02-16T16:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
-webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
+excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
+publishedDateTime: 2021-02-19T04:43:00Z
+originalUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
+webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
 type: article
-quality: 64
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -43,6 +39,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60254e5958e6f9dc146d273c%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
+    publishedDateTime: 2021-02-16T16:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
@@ -97,20 +107,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
     publishedDateTime: 2021-02-11T07:03:00Z
@@ -140,6 +136,6 @@ related:
         height: 209
         isCached: true
 
-secured: "gqh7lW59Rr6G8F7BwsTS7E6YZPqciNvD0SpwVQnST0Sp91F8VogVRTQp9k4F+IoD8Bebtz9ZJQ228HgbSFwkMmigA8rqOoDix5OOcH+uHz6WPf3E1GaDh5PIIFZc9zP12GyLabx/TdSCcPKIuiEmw4gS8WEk2BSQ/YMiR7HoYdkKoNpnXEuKYR/T3g6dt7GlfhXKOVotf9gbWf6GPa0eCmz3A0A3xhVI2MSn6U0UX4Wu2uCM4bwpYZbCclaJ10HZJi5qTVxG4S03+Cn1pYOVy2PnCUuvrnZLAHvWTJvGhol4abgf6Kkd3KgiZfbMtwksuVauRCpZx6eCwJIPbPH40L5JSTkHkf7RoOTpFp5OYrM=;V7Hmm3AHSWqKDPIuF2KIsw=="
+secured: "dB7RWJKbkZw+qVSXQy7m8UKF7s43zBVuF1x7GIpn1OizFiF7tNOkgT7icgb3Gl6ZrHMzvbM+Grworg/xt6soYukoxTrAqcdYIIlF7mn3fCpH3zIg3hY2JscH+AR2Is0f8t8wQHKR2Oh2R4hc/kaZf6Zydkihpc4PdHNtYOyT95fIUUCK2cutGvdbylO1CmW+FLi87MOVywgPXVRFTNYJk65c90MXOIykQMe+Dw0f781mu3o8o7V8+Dxh9C+W3rb8N5lXAhx1sCh/NSzI74iEpPWs2pco6Iqijkk8dv+5u0PZPB8ha3akZ6HVgpIMICo+l+ederrNUGprKiv/YWi+Sj4sccQ+oXx+yO3yyE+lbUs=;jYR89JyaezK9ozL81izpHw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
 type: article
 quality: 97
-heat: 1017
+heat: 1037
 published: true
 
 provider:
@@ -369,6 +369,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/stampede2-405x228.jpg"
         width: 405
         height: 228
+        isCached: true
+  - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
+    excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
+    publishedDateTime: 2021-02-19T04:24:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "WANdisco Launched As A First-Party Service On Microsoft's Azure Platform"
     excerpt: "There are very few companies that are selected to be first-party services on the Azure platform. Since the launch in June, the company has signed on 11 new customers."

@@ -93,6 +93,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
+    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
+    publishedDateTime: 2021-02-19T04:43:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft launches Azure Stack HCI in India to empower organizations with advanced hybrid cloud capabilities"
     excerpt: "Azure Stack HCI combines the flexibility, scalability, and price-performance advantages of hyperconverged infrastructure with native Azure hybrid capabilities."
     publishedDateTime: 2021-02-11T07:03:00Z
