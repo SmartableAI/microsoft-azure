@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Azure Firewall Premium now in public preview"
-excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
-publishedDateTime: 2021-02-16T17:00:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
+title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
+excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
+publishedDateTime: 2021-02-18T00:00:00Z
+originalUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
+webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
 type: article
-quality: 67
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "Azure Firewall Premium now in preview"
@@ -54,21 +56,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
+  - title: "Azure Firewall Premium now in public preview"
+    excerpt: "Azure Firewall Premium provides next generation firewall capabilities that are required for highly sensitive and regulated environments."
+    publishedDateTime: 2021-02-16T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-firewall-premium-now-in-public-preview/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
-        isCached: true
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
-secured: "FIqYLDI09WgEooJsu2qbARR17xkUmMzOwpH5rS3m1kFPSYC6Jxk6kO4Qw+mN3/kF0oPNmR7Z9JkPujOW93IHHyvtXdivld5AtnBVNK8ksBCG87X3/w0YNymSSKLmvF5jffPTpQy1GfMfZgr+89QN+Khf2CC1sYvWYtXhxWLC7xVLoq4x7ceCecUGZVGnUuj7M8nkvJyB4tUyPFsx7JlRI/xQv4B3m/SK4iY8w1PW6yYeaCfmsFeFphJKJ2l+xxGRwSAm3WAjt/Z7pjSbbfni5mvYkZ3fkkslav9Y2FISsfJ9eCbdKXXBJbyWDQlP5vyMEZIksxG7dOZDdyOuUaMxuhSMEXzlLfrmuzLkXRA7g10=;jgscxCoLgcV4K26kEUvZZA=="
+secured: "Uwg3vCqys82jAuTajgG+JDpyJZZO+ZoqHuMtSAYZp8qTmCikJTCEJ5s0QdhUKO+Gm1auFAUqHDs3cG959YWJwAs4OYg38uyvVQpDluwk99ekZ+q8AL5Imac6awijt+KDcbfeuhwEcXGENXGlpvhRiAESNISJ54cYZ8stgMFfeAihcQdlIRgtE4m4jlXcLNqDGCzKq+TZYbrNkWTas7qZO//Vmnqv9LhogNiP2DCleq4r7XGOEA0xC5/EtSu5prFOGADhPRepnnyPnZcdd0un7RIgrHd5XcVB0Acg56csKcoPxbemwp6VgvhePQBt9wCsmxlBm4YwOXlrp1UXYm1TlD/uxT4MeBSp10ivn3J5bTs=;yMJODot/2WJssd3noej2vA=="
 ---
 
