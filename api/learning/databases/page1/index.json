@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 28884,
-            "average": 4.7855215
+            "count": 28928,
+            "average": 4.7856054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 6269,
-            "average": 4.7189345
+            "count": 6279,
+            "average": 4.7189045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5406,
-            "average": 4.7586017
+            "count": 5411,
+            "average": 4.758455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4277,
-            "average": 4.7512274
+            "count": 4281,
+            "average": 4.75146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,51 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
+      "title": "See Azure in action",
+      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 2144,
+        "average": 4.703358
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Databases",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 6269,
-        "average": 4.7189345
+        "count": 6279,
+        "average": 4.7189045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -381,8 +426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 3576,
-            "average": 4.745526
+            "count": 3581,
+            "average": 4.745881
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -424,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7048,
-            "average": 4.663167
+            "count": 7049,
+            "average": 4.6630726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -502,8 +547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8707,
-            "average": 4.6509705
+            "count": 8709,
+            "average": 4.6509356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7702,
-            "average": 4.6560636
+            "count": 7703,
+            "average": 4.656108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -670,8 +715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 4120,
-            "average": 4.7162623
+            "count": 4121,
+            "average": 4.716331
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -707,8 +752,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3271,
-            "average": 4.5747476
+            "count": 3272,
+            "average": 4.573655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -870,8 +915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3025,
-            "average": 4.6723967
+            "count": 3026,
+            "average": 4.672505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1026,8 +1071,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 6269,
-            "average": 4.7189345
+            "count": 6279,
+            "average": 4.7189045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1072,8 +1117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5157,
-            "average": 4.6600738
+            "count": 5158,
+            "average": 4.6599455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1458,8 +1503,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3745,
-            "average": 4.68251
+            "count": 3746,
+            "average": 4.682595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1664,8 +1709,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9319,
-            "average": 4.6970706
+            "count": 9320,
+            "average": 4.697103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1873,8 +1918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5157,
-            "average": 4.6600738
+            "count": 5158,
+            "average": 4.6599455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2075,8 +2120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 3745,
-            "average": 4.68251
+            "count": 3746,
+            "average": 4.682595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2510,8 +2555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
           "length": "PT44M",
           "ratings": {
-            "count": 846,
-            "average": 4.7411346
+            "count": 847,
+            "average": 4.7402596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2803,8 +2848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5157,
-            "average": 4.6600738
+            "count": 5158,
+            "average": 4.6599455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3826,8 +3871,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 846,
-        "average": 4.7411346
+        "count": 847,
+        "average": 4.7402596
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3902,49 +3947,6 @@
       "topics": [
         "Azure",
         "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure.md",
-      "title": "Explore provisioning and deploying relational database offerings in Azure",
-      "excerpt": "Explore provisioning and deploying relational database offerings in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-provision-deploy-relational-database-offerings-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 646,
-        "average": 4.8219814
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-relational-database-offerings-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Databases"
       ]
     }
