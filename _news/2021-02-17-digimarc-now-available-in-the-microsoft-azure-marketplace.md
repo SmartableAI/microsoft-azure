@@ -67,6 +67,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
+    excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
+    publishedDateTime: 2021-02-19T02:35:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
     publishedDateTime: 2021-02-17T12:05:00Z
@@ -84,7 +98,7 @@ related:
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
     excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
     publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
     type: article
     provider:
       name: WFMZ-TV

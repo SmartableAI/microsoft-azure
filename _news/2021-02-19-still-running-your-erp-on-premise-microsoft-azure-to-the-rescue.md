@@ -1,22 +1,27 @@
 ---
 category: news
-title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
+excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
+publishedDateTime: 2021-02-19T02:35:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
+webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
 type: article
-quality: 31
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
@@ -76,20 +81,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
-    excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
-    publishedDateTime: 2021-02-19T02:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
     publishedDateTime: 2021-02-17T12:05:00Z
@@ -104,6 +95,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
   - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
     excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
     publishedDateTime: 2021-02-17T09:47:00Z
@@ -114,6 +114,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "b1HfikgLXs9/ohO2PLKufB30D5OhHmAoEEM43G83o5XH6itLne3OxKVvLOLXY7uNUvSwJBCxd4Lop/KveHe3h5tWPOPbA3JbXwlFeaHF2Ex8QqTw4aWhBvwohBxVz5jJvApz6OouEflPDmh7Q5TvnwqOgTSxwflPAlqr7m0ZGyADLObDToiY3X7wk+Ea1bCPZJPHlJX4mKFZb9h6Qlskelcyr55q2mS1nWTdTbtwN0P3UeHFo/QNZbHvUgYEZAas1v0K8OyoO4BO/PEvA/+iC3k7Rr/ZMFfceD2EhWeDX4ZcrHooXsXxHu3P+zY+R3+DymAOGq2zGiR5474n9kME89G6JYVU8QKb2TTirJWJwqw=;9yxwROFzt5mx/cdYZEjo+A=="
+secured: "gYXqw4vnrZmuXwnWv1qgXmlhAPY3GwVCA4SAGXXwxSaXyltzJvz7sCVm0Ik/GfBG++6YYqC1an/Wab4ljgkv32r7ddKsiprlU7kM+yB84fRv3noH4bfd/CFa7SROfRCNR/fWkIu9AvVQ/+1vcpXcaqqAsYO415OeBsan077Fju6+KoCwUpic4G9Oh+ZCmx/CPovowMGM3vJk71OePnSc32EsLXW0om7u4jhd5Yefexhw/ye1s/4ni26fPEEKrHSACtj29Ka80M5g/qGN0n13vCeQYZZxebrFKJR/QL2ZTJjO8+T2hLbty1u/F2tyjLQd6TxJz51Dr0UfqUpo2KBIBc+wRe7tnlHoFWZOQ6ZUSug=;vbC39DgYkMGxp4dv2g1E1A=="
 ---
 
