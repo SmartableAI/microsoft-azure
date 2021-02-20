@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 type: article
 quality: 84
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
     publishedDateTime: 2021-02-09T16:49:56Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-02-20T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available/"
     type: article
     provider:
       name: Microsoft

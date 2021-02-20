@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-02-20T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now generally available"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2021-02-16T17:00:40Z

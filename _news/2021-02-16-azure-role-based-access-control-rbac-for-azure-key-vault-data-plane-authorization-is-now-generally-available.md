@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-02-20T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: ".NET Core support for Analysis Services client libraries is generally available"
     excerpt: "Today, we are announcing general availability (GA) of Analysis Services client libraries for .NET Core, along with several enhancements."
     publishedDateTime: 2021-02-17T00:00:05Z
