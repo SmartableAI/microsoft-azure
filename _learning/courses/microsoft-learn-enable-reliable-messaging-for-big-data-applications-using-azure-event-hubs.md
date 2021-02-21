@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT56M
 ratings:
-  count: 2183
-  average: 4.456253
-heat: 53
+  count: 2184
+  average: 4.456502
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Analytics
 
-secured: "A7DlqRnHq9mimgGpWCZXlRnzTjEYlZF9b7QT0PYu/K1w8o886HHYnum/5CdBqOIQLq406HlIaqhwA1sydxCA1m7GS3tlRqWFXN3wxyjlRb61+ns/FIkHTmlRANUUGNu/cFl4wH5LAI3p32Br2Wx3WWEE2CNL35Hd2hcEQr0Ps32MnMMVfEIU/tBAZ/UsD4vEYekxQLhP/MkY+RllQSFXObK2hPphanoZRL1kPnzpwKLv8ptqlpYZwADM+0+BAS4t+dCAl6f0A0orNU1PQBtOARDWMPj9rozBFOMgRgEBd1pwYNb/9+v+1T0eLZWQmMXk1GJn8Pu0M976tQJCvemfsiPXxIjbMqKgR+RouxG8Jw2mW6pnNlvkIQUqsgYM/XkjUEq+V6Z9Dq2O8dNsbqJto6QMyD8wRkrLlejT6a2o+wQ=;msHpkMLZKCVrPn4W667SEg=="
+secured: "blhcmT6NPU4fVFeE+lvL2BXw+v9mAeD91YqCbjY/+UAhqi0h2aIQ9JdHwc5qDeGdOtJ4I8p8ZcXRbfPF9Yi4ua5xJp1x0wbHvHiUoxeHPnJ3OVtB9iAMJ085dwPs+QCIKhSrXFsbGYL7EwcrT3chhBDQfb2wSTToBBEnfviXj9+fdgeuI6/WWtMSPK0cyf8O0+fYryUtsfFVMQgtzsnllGsoQOYBjxyeBxGabH4lvMVvtAl/HM+jkMz+SSCiCK3TQJOrwrmtccXwiRy/HE6xfH5lWa5+Grd3tqaFyMzwIKoS5qMEk4Yu//OQs+4tgLWoxb5t7AWwgzaPJi5Df+kcI6IUDHZpDye8R7KM6bkNWUCYwd6n3AtzM9y5b3vZltew4e4scrt79GteP1P3TXz369od2O21twc2KkguShRmzNM=;PJpW72xMc90yciBs5weGhg=="
 ---
 

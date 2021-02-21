@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 839
   average: 4.6865315
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "de/vh6fmTPjWIiEseTkcONVD/vk12iv2H/4ihV6xGleVppI/J9BY5CC+JzDXSI+eATFBC8lHMhQutJnlYjR+pijQ0+1XpR5pMYdCrNeetBr0rjmbdcgKpPkLs/Vix0KYbBbKREGSu0VF00wbXNzg3Rtja2B+GBk5HyOJ6og8G74VoOSJnvzLPsB0hqmfvN+Wdd1ZZtWSdWGIHlJY2Fn4tvghkXDOl/gjLehWoOgh1Cpsy0YUpRqPtCEuuM0bc+wF6I7FG3vHiRULHtFypQvqc2sg8Jj+yHdUNjNLKxY95f6D+VHDOuSgWOTJdQwArv731u0rAG6lAfYU+Ln3Cv1gKM63Q4vrb7F/oymZ94U5ZGOplmG38VyXXRaAIiOZkRV3E2xXy39dJhNpubRjRKI8+Bi4pCJOeHmt/xX5M14UpNY=;dpI8BPgr0PJChDOX+nh2Ew=="
+secured: "Oy4vVcTnjV458eItH1y1ZJfVxMz7lHXIC4dj7MrVCH4Fxxal4s10dsJzZI9e0joMY3YYYrgrVwH2Y0fhbCc8cpESmLOk8u3tV7Vzam2EWJSTaKqeiuBf5f4uxDPTTp4E+gPSqa+AaQ790jvBfQm7h8X9hfDhbeorTvf7AMg+Q55MECSGTNYToMUEV+Vy1dy3uQPGZegPf05sAmQcnMzO2yZ+UMlafm3DTD/VwRrCIq4CJw5WOtZqhUtXBySWdcaJuiqrQax1ucWQJxNe1mnP3mtyboOF5kCxE1hBJPr4qrJH9ZNkjGbgZAK/4hOgL+TZzUW8G+Y9INbRjJHUbNTus+fWs0ymNpX0yr0SEBTTY5LsWq7FXjOdNsuAyQiKCpan5G5AqakqR9EJHEBDkiXrM3EnGsycS80C2J8JZIpOKjw=;LtLfho4GoqCDKddx3uDFfA=="
 ---
 
