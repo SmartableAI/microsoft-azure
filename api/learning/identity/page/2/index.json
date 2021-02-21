@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
+      "title": "Microsoft Azure Well-Architected Framework - Security",
+      "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
+      "length": "PT1H2M",
+      "ratings": {
+        "count": 3397,
+        "average": 4.7377095
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-provisioning.md",
       "title": "Simplify access and identity provisioning with Azure Active Directory",
       "excerpt": "Learn about identity governance and how you can safeguard access to your organization’s data.",
@@ -570,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 2308,
-        "average": 4.7742634
+        "count": 2309,
+        "average": 4.774361
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11740,
-        "average": 4.7630324
+        "count": 11741,
+        "average": 4.7630525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +692,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1764,
-        "average": 4.702381
+        "count": 1765,
+        "average": 4.7025495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 1230,
-        "average": 4.702439
+        "count": 1231,
+        "average": 4.7026806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -993,8 +1037,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
       "length": "PT15M",
       "ratings": {
-        "count": 20,
-        "average": 4.8
+        "count": 21,
+        "average": 4.8095236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1079,8 +1123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
       "length": "PT26M",
       "ratings": {
-        "count": 22,
-        "average": 4.6363635
+        "count": 23,
+        "average": 4.652174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,8 +1255,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
       "length": "PT50M",
       "ratings": {
-        "count": 1808,
-        "average": 4.619469
+        "count": 1809,
+        "average": 4.6196795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,8 +1298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1017,
-        "average": 4.4759097
+        "count": 1018,
+        "average": 4.476424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1767,51 +1811,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure.md",
-      "title": "Deploy and manage Azure IaaS Active Directory domain controllers in Azure",
-      "excerpt": "Deploy and manage Azure IaaS active directory domain controllers in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-manage-azure-iaas-active-directory-domain-controllers-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 34,
-        "average": 4.6764708
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-and-manage-azure-iaas-active-directory-domain-controllers-in-azure-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Management Tools",
-        "Compute"
       ]
     }
   ],
