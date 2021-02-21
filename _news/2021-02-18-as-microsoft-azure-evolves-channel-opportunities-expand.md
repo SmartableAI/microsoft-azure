@@ -1,26 +1,26 @@
 ---
 category: news
-title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
-excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
-publishedDateTime: 2021-02-19T04:24:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
-webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
+title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
+excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
+publishedDateTime: 2021-02-18T00:00:00Z
+originalUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
+webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Channel Partners
+  domain: channelpartnersonline.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
-    width: 300
-    height: 300
+  - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
+    width: 770
+    height: 285
     isCached: true
 
 related:
@@ -380,19 +380,19 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
-    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
+  - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
+    excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
+    publishedDateTime: 2021-02-19T04:24:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
     type: article
     provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
+      name: CIOReview
+      domain: cioreview.com
     quality: 37
     images:
-      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
-        width: 770
-        height: 285
+      - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Azure's Big Bet on SDN"
     excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
@@ -681,6 +681,6 @@ related:
       domain: bobsguide.com
     quality: 0
 
-secured: "rW2FTqDixDrl4o2RjNnKqQ5VA4dtDqcpZFwKHVKNhks48+xCDRFiUVRUGpkQU6q/DxNH3Gr76OKp3KkqQ3HD/Cf9yuYXa0S0Ox7kS6pueS6Sdkh5MOinOQPbDs6fzeoigm/erIEOunDnDLEDrV8Ic7BDQ8AdNMpYFASxoU4oI0yOy5p3tFKP/ieJuVD7eJ0xuvNRxNb7hMCUJW+eMo8IauwCfl+iv5YrOHcCjWOwcUQnRqbNOybtawdQ6HZl/RKVXdyfMe55XZ9XLwNzK8Py5lo+OlwjO4vSWZuyt/MAdIwujG4aVXQ6ZApr8QLVyb20llg1lwA3IeO8RgF/2cAENcU+ZeM7bBl+4rs+ASBRvyAbx0q97X89CT4jwcq1bNc4sbznepVSUcQLXcFsBouqTeBwuyRRyDNm+gTMkjQdl+bgpOh1Vpxu+DqIBZZyjLOXJigyS52p5DbFTYk1cB/JA1mZYAm4iuA8Y2GXUDFO+R0soRt2oV5Zas/AGavvGxRFTugmnFLAI1OXfbM7+kuvXg==;i+5KKfS/xjq2/xcrL5/jWw=="
+secured: "PfOAkcI7vYLRoVK/tbJswQkWeHVycLS/0NN9VcBodnCSKbG6Wg3re/QTj+d2gQTOm9MUyAjIFcSjjkAxEQYRyayk3tsNcemsc7N61AC/MElY6SyENBGPF7fWOLTovcVwd60PZ24JS8jbjvdDPMAwm8QS6fzYuS32GsP5kj+7SN5Tl7S41XrzE5tgjCzX6nM/cinmLXtmgvzNMV+Dl0hAjcdKJv7SE7f2W8z2hAL8+3IGLoyBtCdb1WJeQM+jSMR2kwtUnnUANnWcygih9QTPU4zSRZjpOwfDASZf7PIXtLtKVNWftjKH54saowkU2tE1thcCZPyV2eNiZ8mih2x9sU211Bk0B9ELmuKfz6p3UUw=;/GlSP7XXP19GLKkQcEpuIQ=="
 ---
 

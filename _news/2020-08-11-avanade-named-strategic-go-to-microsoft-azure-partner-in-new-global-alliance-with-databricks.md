@@ -373,6 +373,20 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
+    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
+    publishedDateTime: 2021-02-18T00:00:00Z
+    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
     excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
     publishedDateTime: 2021-02-19T04:24:00Z

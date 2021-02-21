@@ -52,6 +52,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
+    publishedDateTime: 2021-02-18T20:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg?p=facebook"
+        width: 1106
+        height: 578
+        isCached: true
   - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
     publishedDateTime: 2020-06-23T04:20:00Z
