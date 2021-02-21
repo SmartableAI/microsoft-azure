@@ -1,27 +1,27 @@
 ---
 category: news
-title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+title: "First AWS, Now Microsoft Cloud, Who Is Next"
+excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
+publishedDateTime: 2021-02-19T04:20:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
 type: article
-quality: 77
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -40,6 +40,17 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "CockroachDB Available in Microsoft Azure Marketplace"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
+    publishedDateTime: 2021-02-16T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-15T17:43:00Z
@@ -293,20 +304,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
-    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-    publishedDateTime: 2021-02-19T04:20:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
     excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
     publishedDateTime: 2021-02-19T04:43:00Z
@@ -340,6 +337,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "RmLhMZ/t8RiTGj/fDpw1ko7LiDaogoxue+rsaNVDuHWwHsau7RovWoKT7jnILu43su9XoTQLPMVt4bJWZy4SZtr5gPi9VnpiGnc4yuNPAwshjZka2CVGLszmnMop8A3pIdvyU33sCBDhhBPuMD29Ffvh62PpiAaA48HobVEd2W6x+sUgtEHfEkFgXxCpRAcdiLKh+sNQ1jdFOgXKKn+MMRdn7UGz8SnF41Utko52ulcQ4PHzaJwiVQLkCB/CpwWmVeEJbTDDE2hvfhP5TcNMfDDqq5QBTAzrRQ/7obsBK1l0vT96DUodf4S+dIh2JXVHaVaAUOaShtNXth6/x0bdsBFM7OitqwMPoL2hsZ6+Q4k=;wP6OwzvYUcIeunFx/SW3oA=="
+secured: "EbFIM5PPjmUhKcSuAWNwmxePVTKsP4Gh50/3M5RQ+QmNZDt/Rk+9rNbMAeJDm+M2sUpGVLPREuRGcW1Xhgez+ohJ6xsutjglSm2PL/entXrqMPfTF7EdZgF0FIFNeR8cPJBBUY5Lv/bA9dKJAv+AZq3kFNz7mNPvaG9/YjQv9C0z6b9bkbNljVd9mpztETR1ivSD8TtQRUVTwpMHmyN+JHjyBjgsmUCkq271JDD8qnMpbY/L8nntO/AfEaBXz0T21yhSSYPYbCdTEy1jeACfZPMCrcMSNXe87O74gJCHso8a3AIDRq4c/9I5SpqEy84zsd4chZQtPX293wHqc5j/X2ixSPF5PLwhYlkVyji/OgY=;1XZiGb0TBZwoJNNiIlJ16Q=="
 ---
 

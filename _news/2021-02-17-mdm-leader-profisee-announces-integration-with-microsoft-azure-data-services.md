@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-publishedDateTime: 2021-02-17T15:20:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
+publishedDateTime: 2021-02-17T15:17:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -296,6 +290,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
+    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
+    publishedDateTime: 2021-02-19T04:20:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
     excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
     publishedDateTime: 2021-02-19T04:43:00Z
@@ -329,6 +337,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "U9NMNO7rSccNBZl8K9WbX0DDT6wdye0+1xolchjro0oMNptabAmB2XtnZAaN9J3jjrfRMQjZ/CFfAkF3ZwEJUkqyt7H5c9S7Me1EFBFbIiHbAPeFpGdmqmndAl6oiTmWW9jsgQ1deLHY+YWN0L2ti46ci0f/UJW8slmxzHLLiRUzXgK7La5yddWXZUcyROGNiiyt52nrPZxhqNrPz8XNVNqQUKtnIeuut0+Wk9xEbz2V3K+3nuXGbSe/QiikwiazvGCtqEdT/FwdJHi/bWf3oIGIa219vpC7Kn2tIGogR5rowje3H4Q42rkqzugv0/HSWkws137oFxq0wqKycpfbvvIYoHhHr5Je0rSKg7D1lwU=;ts+OlWV8cB9khRBsaCb4Cg=="
+secured: "2rWQFqvvWC+a1GTXNlG2k/LYhqGC5TUXJll6n6TAnEo3J+6UqiaC/T051ZkGsifEAAK5FmldfdUMsv+SiEtGXmzNew36yWEo/m/o4taZtT/Nv+/aHWlt8jY4M5Ax+CaVwgMtvyO6z04ppvynmK/mNPO0y3752E8DspKyRc1wW0YSEA4WvZD6OR+Iz6+BiLqibcTGsU2Gco5TFKu2nw/zLKz6A6CE/Q0qcPyyNfXocX0/cFDTJxSaq0ORp/+t7c+Z9qnJ5K1B96BZvcwnd4zkatPiJobpSs7+h+KUI31oMIZZy9kEeqAgWsL2h1XCqdvv2oGvOfFC+hdQGMkgnJ8c9p1kMMGpL2JJqR3MJk2/z+k=;x/GblabjcNtgTmSLfYWLcw=="
 ---
 

@@ -156,20 +156,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-17T15:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -284,6 +270,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 31
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
     publishedDateTime: 2021-02-16T12:58:00Z
@@ -297,6 +292,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
+    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
+    publishedDateTime: 2021-02-19T04:20:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
     excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
