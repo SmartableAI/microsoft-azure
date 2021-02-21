@@ -38,34 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
-    publishedDateTime: 2021-02-18T20:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg?p=facebook"
-        width: 1106
-        height: 578
-        isCached: true
   - title: "IDology integrates its ExpectID solution with the Microsoft Azure Active Directory External Identities"
     excerpt: "IDology partners with Microsoft to integrate its ExpectID identity verification and anti-fraud solution with the Microsoft Azure AD External Identities."
     publishedDateTime: 2020-07-03T00:13:00Z

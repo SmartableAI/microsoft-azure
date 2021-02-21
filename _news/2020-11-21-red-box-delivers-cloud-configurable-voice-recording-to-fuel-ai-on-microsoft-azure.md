@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
-    excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
-    publishedDateTime: 2020-11-24T17:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
     excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
     publishedDateTime: 2020-11-24T17:22:00Z

@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
-excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
-publishedDateTime: 2021-02-15T20:17:00Z
-originalUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
-webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
-ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
+excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
+publishedDateTime: 2021-02-21T15:05:00Z
+originalUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
+webUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
+ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
+cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 95
+heat: 535
+published: true
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: PC World
+  domain: pcworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
+    width: 630
+    height: 473
     isCached: true
 
 related:
-  - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
-    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
-    publishedDateTime: 2021-02-21T15:05:00Z
-    webUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
-    ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 95
-    images:
-      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
     excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
     publishedDateTime: 2021-02-16T14:00:00Z
@@ -93,6 +81,22 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
+    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
+    publishedDateTime: 2021-02-15T20:17:00Z
+    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
     excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
@@ -328,6 +332,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "r7IwQxypxs1/Sg5BxaZS3UewRxdzYaaiPwBlHgGD3b1s4KdoVgd+wF/25Gojgx/6JluV/+fCY9l8aPNjW/1SshLf8Zi4F6Ro8VGBubriVrMOd943tFG1QfAc0IaApcbkM/Ly06lcDI/MNLEMsNthmuttmBr335r+RJxm5yjcmyHDu3i+mDTQo6DWRiQ06mSo1tGhJN560hTG6rfcuNcMMoq7hbpJH9d2JtPChzKiYGEARVTX7mbn+b/uB6Th6deGpb9XNagvIm49rNVkUnIq/vDrOS2e1tokv7EYcG3NGL62umyZBrjJ497cHclWlYq4tQ5E5dpcgvOamniKoHlBZLGVUgC1nlAuW2GwpEFJiA8=;gk6gV+fn5jW1A7RhFJbgFg=="
+secured: "8d0rLddkHeMBysvsq7LVecaM88HR2FwTggG7ChruOnu7ZQBlpi0jmwdzEHX0l+wTauzFqYkbCXmKXESdJT7Qszj7xSK0cZQhn+X9IVZw0YvXWXsAzV2xLlvJ6/mQ4ELZywLyaC3BlEB50pOpPuzCIZyyzu87IDjN/O5SWkVmFlJEpg9aga8Bv2ekB+HGHrcPm6ADu0tLN7eOA5j5nbPXR4jpioWxJFuAvHImngb8JR09qkoT/F4/NzbmwMJ4HR6ZZaOYSF/FvsZKmwQAy4+8PjbDQhCWL0v/Lg3t7N5ILbAjLI4VgwnkiwnmXyS+0Oz5NKRE4GYSAc4jR9vctgt7F6Z65jXQgGBDsl2Z/G6N7tU=;qS7wuTrJJenASWKNnZDdHA=="
 ---
 

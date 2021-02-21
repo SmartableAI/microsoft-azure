@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
 type: article
 quality: 92
-heat: 292
+heat: 272
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
-    excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
-    publishedDateTime: 2020-11-24T17:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
