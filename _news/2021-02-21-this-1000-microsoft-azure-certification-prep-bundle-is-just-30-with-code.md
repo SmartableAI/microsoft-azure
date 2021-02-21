@@ -204,7 +204,7 @@ related:
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
     type: article
     provider:
       name: Associated Press
@@ -332,6 +332,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "8d0rLddkHeMBysvsq7LVecaM88HR2FwTggG7ChruOnu7ZQBlpi0jmwdzEHX0l+wTauzFqYkbCXmKXESdJT7Qszj7xSK0cZQhn+X9IVZw0YvXWXsAzV2xLlvJ6/mQ4ELZywLyaC3BlEB50pOpPuzCIZyyzu87IDjN/O5SWkVmFlJEpg9aga8Bv2ekB+HGHrcPm6ADu0tLN7eOA5j5nbPXR4jpioWxJFuAvHImngb8JR09qkoT/F4/NzbmwMJ4HR6ZZaOYSF/FvsZKmwQAy4+8PjbDQhCWL0v/Lg3t7N5ILbAjLI4VgwnkiwnmXyS+0Oz5NKRE4GYSAc4jR9vctgt7F6Z65jXQgGBDsl2Z/G6N7tU=;qS7wuTrJJenASWKNnZDdHA=="
+secured: "a4g37cX3D+5pLFO/HjmIwdLEVr5MArHc84wk1A7ah35jA5+LgbNsDpxkqiIaI/xfhKuY5dGsMsEB6wnrGJeXQoWG0Zxb+uUXGNCX9Yoy+ngOytMRnKlcj5YYYlzBAIHji3+9jvWVDJJOoskijCpT/G2d+7fKg1JCo5gkSd2+idgazxUZbS6n/undspLAIWyxBr0XuFEpVPZSo1VmkpHa3Dhwzo/Msyct/WsK990UGJXcwE3ndzMTvhLRgj7bg0B63y5xZ5UovCt5HD3fo6sCY8UpcXYqZsYQ2x+psdTihgM0AIUihFS7WBSDB3Dd2igMS5GEhjNHaFsZb+zYOjhtyWHf7GD9ZzFgvuXRCm0TO+AXvpVUqFUHT4p5Inj7PNiU9lhlvHRmajwR6D0jui8ShDQWBN2ZhK7U2aHc9trIMgZwK0+E521jxJozSiQ6msvXQfmHnBBlKpJJXZE0Lysn8r7/OQu1FY/HstC2srpkVpXp0pVsbQWOEAwxyOAGK3DoD/7hZfh0/DU0JHMiaDMxTQ==;zcIzUXfzz0kpqPlofQCRlQ=="
 ---
 

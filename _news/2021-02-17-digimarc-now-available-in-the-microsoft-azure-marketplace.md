@@ -3,8 +3,8 @@ category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
 excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
 publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
 type: article
 quality: 37
 heat: -1
@@ -328,6 +328,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "3lgn9SNaIIoq02gDU9yff8PUGWRicnCjoASw7Fnflr1D0TiNQWCU12Bpxs+4E4v3o+2lCQ0xQDkDC3CyxXVkIoqVSniXP4ONOfjaiIaMovIF3yf89c8R9k2it9Okvxo8cJfgQlmsQIXERVaBPmpfm7bdO2OD3vBHJgRgqbnP6d0R9D7Mt6kG/0rAfvPzZuoSHhFXdShuMYK4LINzgvlVylscbgYgrx3OSJn6UQjVooeSHuRVPmGDUEQwVXN9gBdKY1hKtTdAm3/DrO3StfMpjZupgDv21+n01Z0LfwgDwpNez/rOwCnBxWgvjUzB17Hv14zm7saaM+ujJSKc3InuVzWsvbcvLgwvNaruZllEgOE=;BnQ+tIbPJfswvZcgutdD+A=="
+secured: "AeA+2i47CLJLT30yK+IcjXs5INWFHHr2Wg5zfiOGWU3JsM+w9CxX2zWT/pE0sD4dt2rfIhLPmo1+uVDpAx8A1aLGChO6vpOwmqmwwcBSybnmcwoJPdP7oNwTXXT+d3fuYF9QI1AuPOAhVKFpwN3AiuCOO9+udYoosLoa6gmIcLBhO1v8Z08EISxyzQpoOw3g7j6UpovP81iIsyky9olfkHzPEfxYdn04P8n95Zt9O+eRte8d7aVyYmj/zJPqOUPZq0YgqCuNo5gAvQjuh9QWMLl05mq2thEX5jAo8Lzk+/Oc8Fky7JUfJOJJ4v+eMnAggnfFTIpSbv3zSTU4dLIqO8Nv+DaffdMz/m1GZL9tAyg=;EzPsP8CdUO6Ha5oRBJHfBA=="
 ---
 
