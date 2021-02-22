@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
+    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
+    publishedDateTime: 2021-02-22T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "Public preview of Azure PostgreSQL backup with long term retention "
     excerpt: "Now you can retain backups for up to 10 years by defining your own backup and retention policy for individual databases on PostgreSQL servers."
     publishedDateTime: 2020-09-22T16:03:01Z

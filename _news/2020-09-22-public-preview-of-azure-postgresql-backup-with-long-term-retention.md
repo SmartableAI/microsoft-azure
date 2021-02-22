@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Database for PostgreSQL ending support for PostgreSQL version 9.6 on 11 November 2021 "
+    excerpt: "Community support for Azure Database PostgreSQL version 9.6 ends on 11 November 2021  "
+    publishedDateTime: 2021-02-22T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-ending-support-for-postgresql-version-96-on-11-november-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "Minimal TLS version setting is now available for Azure Database for PostgreSQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:39Z
