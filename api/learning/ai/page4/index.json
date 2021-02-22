@@ -4,6 +4,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-computer-vision-service.md",
+      "title": "Process images with the Computer Vision service",
+      "excerpt": "Use the Computer Vision API to analyze images for insights, extract text from images, and generate high-quality thumbnails.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-computer-vision-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-computer-vision-service-to-classify-images/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 1422,
+        "average": 4.649086
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
       "title": "Create an enrichment pipeline with Azure Cognitive Search",
       "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
@@ -537,8 +573,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
       "length": "PT53M",
       "ratings": {
-        "count": 684,
-        "average": 4.5540934
+        "count": 685,
+        "average": 4.5547447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -668,8 +704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 69,
-        "average": 4.768116
+        "count": 70,
+        "average": 4.757143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -799,8 +835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 78,
-        "average": 4.6282053
+        "count": 79,
+        "average": 4.632911
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,49 +1264,6 @@
       "ratings": {
         "count": 100,
         "average": 4.82
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-personalizer.md",
-      "title": "Introduction to Personalizer",
-      "excerpt": "Discover the Personalizer service that is part of the Azure Decision services offerings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-personalizer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-personalizer/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
