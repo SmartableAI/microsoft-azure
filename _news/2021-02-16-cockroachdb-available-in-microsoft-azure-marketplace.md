@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
+excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
 publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -156,6 +156,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+    publishedDateTime: 2021-02-17T15:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -172,6 +186,15 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -270,29 +293,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 31
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "First AWS, Now Microsoft Cloud, Who Is Next"
     excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
     publishedDateTime: 2021-02-19T04:20:00Z
@@ -340,6 +340,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "RmLhMZ/t8RiTGj/fDpw1ko7LiDaogoxue+rsaNVDuHWwHsau7RovWoKT7jnILu43su9XoTQLPMVt4bJWZy4SZtr5gPi9VnpiGnc4yuNPAwshjZka2CVGLszmnMop8A3pIdvyU33sCBDhhBPuMD29Ffvh62PpiAaA48HobVEd2W6x+sUgtEHfEkFgXxCpRAcdiLKh+sNQ1jdFOgXKKn+MMRdn7UGz8SnF41Utko52ulcQ4PHzaJwiVQLkCB/CpwWmVeEJbTDDE2hvfhP5TcNMfDDqq5QBTAzrRQ/7obsBK1l0vT96DUodf4S+dIh2JXVHaVaAUOaShtNXth6/x0bdsBFM7OitqwMPoL2hsZ6+Q4k=;wP6OwzvYUcIeunFx/SW3oA=="
+secured: "mFyXcenFHdAXZIW/bpB1qP4SB69Mj1oSJ3uA1vFl+OyxKlVvBrIlchhUg9GZ7uHvjpxKr0VPt6a5oUuS0iyEhQ7EU2ugsnwB2XjiqD9WuiXBLhML3L8Vi4lhBnIHLAJheyv6oJyDxFQg9Y1BN0BsC0Y9JD2XyJzzldrdYW60U1JjMoYPB+m7Lg+z0LpjSmLEB+ofIW/WD5Kbghc9iJqUOPD46bSu5inxNceQXKk9GqguAdxkWrWCLkOr/11W9DtZwHc81xTR+2FmN6ogo82mfTecwjWustL+MTcjpuNGXf0/0d+wjjWw28DSatCD3+uawRdY+4IOGfBJjEGw91cEckOUgepBIVSXDzIF25U3GmI=;Khy3MQt2twe5CmvfwP7ygw=="
 ---
 

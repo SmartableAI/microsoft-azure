@@ -1,22 +1,28 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+publishedDateTime: 2021-02-17T15:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Integration
+
+images:
+  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+    width: 1000
+    height: 524
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -35,17 +41,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-15T17:43:00Z
@@ -178,6 +173,15 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
+    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
+    publishedDateTime: 2021-02-16T12:58:00Z
+    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 44
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -191,6 +195,20 @@ related:
       - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "CockroachDB Available in Microsoft Azure Marketplace"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
+    publishedDateTime: 2021-02-16T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
@@ -276,20 +294,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-301228637.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "First AWS, Now Microsoft Cloud, Who Is Next"
     excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
     publishedDateTime: 2021-02-19T04:20:00Z
@@ -337,6 +341,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "DNVjo0TqmHf2bNBUW72T3SRKAc8syP2FchvDDkfPqTlDwqhKTgbtlgmpccI2Tnw2pDmqUh+5lMeqXfWq9HaD+A6dk/ufSY5Qszmm6L8pftpCKKUmaK2L+srwidAN2+SUwEPyFHhnJYNxuhTbqoOcEJYfN1x7p0gzmniu0Gh+88IP+YrON6Oo6lPsSu6DdoA32wAlvhXlJ1HlElMpwsC9Dvo2utkN7S76dHyW7CXZKks+ppGVDMMrFz+TwcOX9mnbchtPCu1hX7nB6Y7HMbOOGi4eBgSaX3ieO01BY1XtjkScXAZC1LuZB7N9N16l7TshY+KUar2EPF6SWXBWRs4tMwj7x1MMLCLTCriCZNAQ6yU=;AFqdNY/f7rYdhpbrOkc1Zw=="
+secured: "C1yDbj7mEQxSWZqjAvRCuigmQsN9B9krBUE56M0i24bJY+kj3z+MLH+8ROUPmbm2v/vAFD5/xrqx5qauAL50bp2FZ0Vx+8WqEuyT+uWJn6s9rAe1Ji+aq2FDlejhgz66B3mYdK5dSkATIfxOF018m/mS8JXZcKr8l8pfU9IQ2CibHhCvnlL2BZTYOChO1USkY2gvjd1b0DTAHs2aCNAPXPpoAm4qYbauNACDIfKqUEQBmtzR6MrsDPF4mNlnKrg4IHuP3ejdSc7VT0OA2Ww1rIZ+HwUFTuDG/nAnGBGTbGCS5b21/o72LD+AwCab+6h6nuTPdzSHtiCW5UfgQ4ZsNhwL+KDtBnbyblkfVXdw/Qg=;J14D3b6pPXSDE3Go4cNbDA=="
 ---
 
