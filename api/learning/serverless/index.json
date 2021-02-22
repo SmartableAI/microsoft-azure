@@ -4,6 +4,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1746,
+        "average": 4.285796
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 132,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -34,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 29826,
-            "average": 4.7855563
+            "count": 29878,
+            "average": 4.785595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 15820,
-            "average": 4.811062
+            "count": 15854,
+            "average": 4.8108993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 7473,
-            "average": 4.8030243
+            "count": 7483,
+            "average": 4.803154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 15820,
-        "average": 4.811062
+        "count": 15854,
+        "average": 4.8108993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -251,8 +289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 29826,
-            "average": 4.7855563
+            "count": 29878,
+            "average": 4.785595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 4261,
-            "average": 4.7718844
+            "count": 4265,
+            "average": 4.7716293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +374,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 3312,
-            "average": 4.7128625
+            "count": 3318,
+            "average": 4.7130804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 2925,
-            "average": 4.751111
+            "count": 2930,
+            "average": 4.751536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 2623,
-        "average": 4.7621045
+        "count": 2627,
+        "average": 4.762467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,8 +598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7726,
-            "average": 4.656614
+            "count": 7727,
+            "average": 4.6566586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -643,8 +681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3614,
-            "average": 4.5940785
+            "count": 3615,
+            "average": 4.594191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -680,8 +718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2011,
-            "average": 4.590254
+            "count": 2012,
+            "average": 4.5904574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -763,8 +801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 11954,
-            "average": 4.5847416
+            "count": 11956,
+            "average": 4.5847273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -805,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7726,
-            "average": 4.656614
+            "count": 7727,
+            "average": 4.6566586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -842,8 +880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 4137,
-            "average": 4.716703
+            "count": 4138,
+            "average": 4.7167716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +1001,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1895,
-            "average": 4.6712403
+            "count": 1896,
+            "average": 4.6714134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1006,8 +1044,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 40836,
-            "average": 4.716427
+            "count": 40838,
+            "average": 4.7164407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1626,8 +1664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 7726,
-        "average": 4.656614
+        "count": 7727,
+        "average": 4.6566586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1663,8 +1701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1593,
-        "average": 4.646579
+        "count": 1594,
+        "average": 4.6468005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1778,44 +1816,6 @@
         "Azure",
         "Serverless",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1746,
-        "average": 4.285796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
       ]
     },
     {
@@ -2068,8 +2068,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 358,
-        "average": 4.703911
+        "count": 359,
+        "average": 4.7047353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2157,8 +2157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4137,
-        "average": 4.716703
+        "count": 4138,
+        "average": 4.7167716
       },
       "provider": {
         "name": "Microsoft Learn",
