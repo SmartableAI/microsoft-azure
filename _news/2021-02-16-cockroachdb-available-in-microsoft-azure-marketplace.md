@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CockroachDB Available in Microsoft Azure Marketplace"
-excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
+excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
 publishedDateTime: 2021-02-16T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -210,18 +210,18 @@ related:
         height: 630
         isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+    excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
+    publishedDateTime: 2021-02-17T13:25:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/603435684b9e6.image.jpg?resize=824%2C630"
+        width: 824
+        height: 630
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
@@ -340,6 +340,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "4KWRfyq56/l0NoD7dXXzthmXgx+Zx8weSg7oaH63GQ2K5lOQ2kcwIVsJyQkAi8FIwUHGMMMv5zA5ZhnfXAJ8audQHfbjlBY9diJrqkLWzO2FiVGLnjgG5ZUgOFvKTKa1i2Zom8Y/UaRvDzGOUOt8dPsJhotlzv2vgETyUJYkPJtXD76TzrG+gIQeNR7asUwyfucPSRAxulmdsfTKyoflRIvrN7q+dxMLR5uj132MGw04FwVoMev3hycuYjJdOqDzeAwalPeOFrDiCYCFf3cPornnvxFpJ6ywctKAh4Ywlr6tlSfVKQpiMLSQSWHCwFF3pA5a9d5YLyEjfZYlI7WfAOA/3LgEv20qVTvLKicFTEA=;b/lRS/HDYVuEmPxd0FAvkg=="
+secured: "VcZoaswky8NMGE2jll7sWVBrAXpb8jk/7WilNnL3ZlJtPtOjEAF/Q1ASGQp4bez6M/fdGNJwj5RoPaPK8tEOiVJeyWzMrqxEjIdUtOrYOe/kcRMMxbXClFMlrqGvrvFQrEOAF+z1IhiGhYEV0ZU6k2NoPmWU6JnysYTZKnh4R0+yzBqFvtNe5AlSM3isK4Xz0MkiwkSPqkqXCzvSa2gia6MhcbvM9BpIJu82iAXTfhZoxY0PpeVxjty458CTQ7s3k6/sRzUoRT/dvoC1S5KO70W6wEUXBFoRksvu7H5H1zsFa4nSPzZok+liENiy1VN9bkPX9CxS9GrY65/7Pf6SCtQIhQPY5DS+j6rhN1TaFrg=;MdrWuTRFF8qS7S7jL4kBJw=="
 ---
 
