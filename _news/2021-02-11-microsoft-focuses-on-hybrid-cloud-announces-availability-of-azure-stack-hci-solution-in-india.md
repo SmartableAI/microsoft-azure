@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
+    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
+    publishedDateTime: 2021-02-22T15:05:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 32
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
     excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
     publishedDateTime: 2021-02-19T12:17:00Z

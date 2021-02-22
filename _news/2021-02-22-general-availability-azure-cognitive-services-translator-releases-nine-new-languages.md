@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insight in UAE Central & Japan West"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-02-03T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+title: "General availability: Azure Cognitive Services Translator releases nine new languages"
+excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
+publishedDateTime: 2021-02-22T15:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
 type: article
-quality: 52
+quality: 92
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - AI
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -63,15 +64,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
-  - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
-    excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
-    publishedDateTime: 2021-02-22T15:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 92
   - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
     excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
     publishedDateTime: 2021-02-03T17:00:01Z
@@ -181,6 +173,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "US Gov Virginia Availability Zones now generally available"
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z
@@ -200,6 +201,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "X0hk5tvZQ5YdN7bpoQ0tiAKJCWoD4Np8VenRpyxG/MUpNSBPGpqTp+fV/ddqVX4Ze3yi8RtmFz5tfIvcVQJAZ1Oq57KFQKN+vo4PdGVVFc+ROcq6HcBpKC21U0q9NBpyOqm42SOKLWcsfX2PUDPP8lsEeHdLDKZACH/x15sQOUvhH80CxZmoAfRgZ9Extze7PJuUdW+L76PmjbB6rSwycKl4OdAoYU16C86TOrRbtQdXsP4x2nbKs+E8nh1qpDDJZ5RBnwSfSQGCfjKBXFn/JGXvzzox2HsvIFnigV5QT94WQLCyBCLm0n+FHMsJErNLgzCngtiYRbQ+Zc4fl/7Ew4sQX8nbKnESRF4hJU/4yIM=;a9apL2ElN6f7II1SMNlBOQ=="
+secured: "qwES9/pfNEUmPrfZxLXbxCWx3IvbMnoExWSYIfOFTekEJfT5g/i2QGxf1DwcLsOBZXjuy9XZVkXtiCWn16bDbtoBQ8tj0RyEoT3DHaRBPb6mWcQUo3topog0ZYT60kP7dltx2PH1DoI70tkB3TjokFIkcZLN9Sk9h1BL2/o5cKUowv9FtPgk2tq1yrOTWJXuNkx83JbXeY6IRw12W/BUfqXYyWpRIGBqGYHvlGVq14/BrvbkXvQ9JqioeAFvEsRC37IePCRfNLYIfd4Flcezqs41RWMeCNW6JNp4O87Y7KWYXAFPgrM6S0lDGlmGmTXDk/BjqPLNbAM2OZDYXXhVffqDPMnsMknitjgZZgB6ias=;dIygtc5ZP8GDQxRK30Fwxw=="
 ---
 

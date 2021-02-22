@@ -65,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
+    excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
+    publishedDateTime: 2021-02-22T15:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -138,6 +147,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
+    excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
+    publishedDateTime: 2021-02-22T16:50:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "General Availability: Azure Kubernetes Service node image upgrade "
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z

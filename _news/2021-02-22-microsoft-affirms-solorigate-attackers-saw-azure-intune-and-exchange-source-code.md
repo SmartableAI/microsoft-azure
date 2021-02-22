@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
-excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
-publishedDateTime: 2021-02-19T12:17:00Z
-originalUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
-webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
+title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
+excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
+publishedDateTime: 2021-02-22T15:05:00Z
+originalUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
-    width: 1280
-    height: 733
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -56,21 +56,21 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
-    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
-    publishedDateTime: 2021-02-22T15:05:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+  - title: "Microsoft: Solorigate attackers grabbed Azure, Intune, Exchange component source code"
+    excerpt: "Microsoft says that the Solorigate attackers managed to download source code of some Azure, Intune and Exchange components."
+    publishedDateTime: 2021-02-19T12:17:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/19/microsoft-solorigate-attackers-grabbed-azure-intune-exchange-component-source-code/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 32
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 30
     images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
-        width: 647
-        height: 450
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2021/02/19130114/microsoft-hand.jpg"
+        width: 1280
+        height: 733
         isCached: true
 
-secured: "6dS7CjWQ0pKk4U/2x0B2vbVZYkAemm9rzbCPDieEBAxED/xQzlSiAPvxeLiVVaavBGSKBeTaSF+8WWa8tPb953fYVg8qvD4jI4pSZrSRWIwO2nOoElXIYzqH566/Sqv4OxTiBwgb50v2WAjEiHjRFKTJ/NLyrDRgq+B+/QXRqV98VQywVJGOs5vJquphCUU8ngttAJF+V7HFVZv97fG41Qk7KRfa1EOHiKcNz8XQIH8OSN4VIms4CUcyzuCeQ/vgsDhbcBxPg9g4/97E01nI2TXR01G2nPJz1hEUh6aMmqE81N65cbr/Y6udJl7CS05z4pRfe61d1guc0kHj32tDM4xzZWqyoKMTlzYnuxif/c7c61yptHvmUMfEsH9iAVeionWqhU+bqqyYOGvPOx7t+/2DGGcX3XlA9D0TfJ7p/dwLcaMWRfAhOLimamkprFdl+2C+9g31n2Om9OSh0Zz1omruSQEk9YMa67BIleCRN3Ah9Ki5hRhpzAYz6pDAsosKHJ7D+C4RMCOsZUqzL0RGzA==;lcUn17rSl7zOkPZNoO6mTQ=="
+secured: "Tqkbb3xqDEwgBzK2NsHBoEDYnHB9lvERzo/TaEFYKBWH1EIvJIQzzG4AHfNHIeCbS8a/EpVkyzoNvA/2+SBOMPhloAci0YKvpoaAcmh7EDDP9AwwW7F9ttlrTUYaz4ZxlBHCyrplKykUxljTHn1Q8w1aUi/GMx4Y6ybcsS+7gHwHmcDiJy1oTZ9QrR1JDNWoA+0Rs8NG57yGBHtbJnesFdKdbwkVj4v/j4KKglqs8m+AvXI/lF28ygqkfjpIaUpUWfkgWI8Nj+unprn3ecQw84w5c3QVmz93sS1+DlytUyFDiqILtJwKR5Vqytb72lGqhOgFK6A0fPcOmQKnyZ3sgsZgQUDZs0fCWRHR//WThSQ=;16RAlzaPN4oqUjWZFVYwoQ=="
 ---
 

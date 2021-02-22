@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 424
+heat: 464
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
+    excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
+    publishedDateTime: 2021-02-22T15:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
     excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
     publishedDateTime: 2021-02-03T17:00:01Z
@@ -138,6 +147,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
+    excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
+    publishedDateTime: 2021-02-22T16:50:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "General Availability: Azure Kubernetes Service node image upgrade "
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z

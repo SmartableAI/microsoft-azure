@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insight in UAE Central & Japan West"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-02-03T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
+excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
+publishedDateTime: 2021-02-22T16:50:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
 type: article
-quality: 52
+quality: 68
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Analytics
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -154,15 +155,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
-    excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
-    publishedDateTime: 2021-02-22T16:50:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 68
   - title: "General Availability: Azure Kubernetes Service node image upgrade "
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z
@@ -181,6 +173,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "US Gov Virginia Availability Zones now generally available"
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z
@@ -200,6 +201,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "X0hk5tvZQ5YdN7bpoQ0tiAKJCWoD4Np8VenRpyxG/MUpNSBPGpqTp+fV/ddqVX4Ze3yi8RtmFz5tfIvcVQJAZ1Oq57KFQKN+vo4PdGVVFc+ROcq6HcBpKC21U0q9NBpyOqm42SOKLWcsfX2PUDPP8lsEeHdLDKZACH/x15sQOUvhH80CxZmoAfRgZ9Extze7PJuUdW+L76PmjbB6rSwycKl4OdAoYU16C86TOrRbtQdXsP4x2nbKs+E8nh1qpDDJZ5RBnwSfSQGCfjKBXFn/JGXvzzox2HsvIFnigV5QT94WQLCyBCLm0n+FHMsJErNLgzCngtiYRbQ+Zc4fl/7Ew4sQX8nbKnESRF4hJU/4yIM=;a9apL2ElN6f7II1SMNlBOQ=="
+secured: "Ic3YDGc4DVL3fKVZpXjTQPXzQ6UJqPRK3crVJicWIYOOK+JByGugYcAAB6YAJq4TIDD3UOk+J7CJeuYOzC0tNM7hcCdcvZASnWIotDySHryfI43L5FSApMvdocueXOHQh2T0okV3c9wiMUXdZvvfH4PKUJIEZA9eiHONJGKEPVtBk/EVGUYzWpQke5e4EN75dvSDKYdJAL6rX/+iZb+BBG1TsF6PHh39CPMABCea7LGMFXu2rBoqxMhlu+mCmvPaEnNEUUKbH6aSt2Qi2HGOcAe6/BrBtjfqB0i0qq2ocopYIKrSY6YXyojs7MfCuEDPFokUBfPID/aRu8yRDS51A2ZnMmhwNRRU6Bym7qCmTaE=;zPMVSDGfuiQxoUZHmnegRw=="
 ---
 
