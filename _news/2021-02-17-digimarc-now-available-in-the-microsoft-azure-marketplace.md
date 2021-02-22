@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
+publishedDateTime: 2021-02-17T13:25:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/602edbb0b7092.image.jpg?resize=824%2C630"
+    width: 824
+    height: 630
     isCached: true
 
 related:
@@ -40,6 +40,17 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "CockroachDB Available in Microsoft Azure Marketplace"
+    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
+    publishedDateTime: 2021-02-16T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-15T17:43:00Z
@@ -209,20 +220,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cockroachdb-available-in-microsoft-azure-marketplace/article_4544d0fb-7b50-5e31-bcd6-d6a03ab951ab.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
     publishedDateTime: 2021-02-18T15:02:00Z
@@ -340,6 +337,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "AeA+2i47CLJLT30yK+IcjXs5INWFHHr2Wg5zfiOGWU3JsM+w9CxX2zWT/pE0sD4dt2rfIhLPmo1+uVDpAx8A1aLGChO6vpOwmqmwwcBSybnmcwoJPdP7oNwTXXT+d3fuYF9QI1AuPOAhVKFpwN3AiuCOO9+udYoosLoa6gmIcLBhO1v8Z08EISxyzQpoOw3g7j6UpovP81iIsyky9olfkHzPEfxYdn04P8n95Zt9O+eRte8d7aVyYmj/zJPqOUPZq0YgqCuNo5gAvQjuh9QWMLl05mq2thEX5jAo8Lzk+/Oc8Fky7JUfJOJJ4v+eMnAggnfFTIpSbv3zSTU4dLIqO8Nv+DaffdMz/m1GZL9tAyg=;EzPsP8CdUO6Ha5oRBJHfBA=="
+secured: "oEQKIBbbANp2J9V9yH8ng3m9EPSIVyltXdCS1e3I65nhlkECgIkIN7p3rH9J+4dggGXDO7/iCzUfBZZYDMJDlsCxTLBcF5hVV+GNzuOLwZs8R+2Lz4KCeD15HhSoEV8qY9EPO3CcACLJ98HZWjZJACrH/k6WUgXvnM4Rdt0xNmtUHrG1iHUOD3eZ5huj2uFBGpJKN4W2/cQo0W82PXvw0FaTgjmTbjDG4U9WBbKw9rYllKCxLc/bp3iN3F7Y3GR7cQO9zT/WzxZbY79oTVbum74OT0f8TdQz7ic7DDzWoTpu1BszTRdnE8t7TxoObyrIDNCLOzma5XBM3zBCYcQOGDnuXqNwiz+Q96DGiybXIe8=;qG4wTcgmMZt+JHYQNOZE0A=="
 ---
 
