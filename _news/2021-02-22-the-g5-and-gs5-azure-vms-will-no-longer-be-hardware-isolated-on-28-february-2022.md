@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/the-g5-and-gs5-azure-vms
 webUrl: "https://azure.microsoft.com/en-us/updates/the-g5-and-gs5-azure-vms-will-no-longer-be-hardwareisolated-on-28-february-2022/"
 type: article
 quality: 62
-heat: 102
+heat: 103
 published: true
 
 provider:

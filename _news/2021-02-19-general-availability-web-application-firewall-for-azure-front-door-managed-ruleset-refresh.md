@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall
 webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-for-azure-front-door-managed-ruleset-refresh/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
