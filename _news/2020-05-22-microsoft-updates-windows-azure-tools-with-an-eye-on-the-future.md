@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2897
+heat: 2917
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2016/04/14/52bab34b-a72d-46b5-81cb-0879006d68ee/resize/1200x/a9e189dac890bda1fd4365c9248748eb/awindowsazuredashboard.jpg"
         width: 1200
         height: 504
+        isCached: true
+  - title: "Why Microsoft Azure wins with enterprise customers"
+    excerpt: "In the cloud wars, Microsoft often comes off as second best to Amazon Web Services. But when it comes to established enterprises Azure wins more often than not. Here’s why."
+    publishedDateTime: 2021-02-22T03:00:00Z
+    webUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
     excerpt: "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network."

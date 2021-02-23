@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-publishedDateTime: 2021-02-19T04:43:00Z
-originalUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
+title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
+excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
+publishedDateTime: 2021-02-23T22:34:00Z
+originalUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
+webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
 type: article
-quality: 22
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Upwork
+  domain: upwork.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-    width: 300
-    height: 300
+  - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -262,20 +262,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
-    excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
-    publishedDateTime: 2021-02-23T22:34:00Z
-    webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
-    type: article
-    provider:
-      name: Upwork
-      domain: upwork.com
-    quality: 37
-    images:
-      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -318,6 +304,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
+    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
+    publishedDateTime: 2021-02-19T04:43:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 22
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
     publishedDateTime: 2021-02-17T14:24:00Z
@@ -355,6 +355,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "dB7RWJKbkZw+qVSXQy7m8UKF7s43zBVuF1x7GIpn1OizFiF7tNOkgT7icgb3Gl6ZrHMzvbM+Grworg/xt6soYukoxTrAqcdYIIlF7mn3fCpH3zIg3hY2JscH+AR2Is0f8t8wQHKR2Oh2R4hc/kaZf6Zydkihpc4PdHNtYOyT95fIUUCK2cutGvdbylO1CmW+FLi87MOVywgPXVRFTNYJk65c90MXOIykQMe+Dw0f781mu3o8o7V8+Dxh9C+W3rb8N5lXAhx1sCh/NSzI74iEpPWs2pco6Iqijkk8dv+5u0PZPB8ha3akZ6HVgpIMICo+l+ederrNUGprKiv/YWi+Sj4sccQ+oXx+yO3yyE+lbUs=;jYR89JyaezK9ozL81izpHw=="
+secured: "WGqRhijY3++d24CaeHC+PQYkOgLIH36IcUsBVhMLctlqauUUZ0BjK5Uf43fGEJbToOU1RYQuJ8Xx6JDBc2a5WR8AvEN+HxPuYruYc/vzIhLg8ocLNTu8TNolju5ASOwVoxyH9dN+V7eF/gWrVA8dWN/G2sKwERIig1Z8m6ktrQ7l4s8thWCDU3ieSxuZAFG/y5Kqy026ezPBw3eoYEd98u40esxTIyWb1n1qXBWHO8HgXrCM/XEmv44JObhHTKvbsThGR6WQRV0pZvHhwcnuoramzaN5HgMtCSqnte+2cB/kRkTsoo5jZm5Br5gvJlAhW9Wtm8T+YX3KX9t/jquDD0R2jBxI3Jh9sMMIDGfEQts=;0IHZhSaROVaBnb28klVNmA=="
 ---
 

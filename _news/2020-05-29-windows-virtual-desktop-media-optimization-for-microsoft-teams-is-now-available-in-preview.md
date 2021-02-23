@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 504
         isCached: true
+  - title: "Why Microsoft Azure wins with enterprise customers"
+    excerpt: "In the cloud wars, Microsoft often comes off as second best to Amazon Web Services. But when it comes to established enterprises Azure wins more often than not. Here’s why."
+    publishedDateTime: 2021-02-22T03:00:00Z
+    webUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
     excerpt: "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network."
     publishedDateTime: 2020-05-21T10:55:00Z

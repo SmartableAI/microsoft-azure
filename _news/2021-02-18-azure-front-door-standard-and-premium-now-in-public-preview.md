@@ -45,6 +45,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
+    excerpt: "Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection, application security, and additional security protections to the content ..."
+    publishedDateTime: 2021-02-19T19:56:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
+        width: 800
+        height: 412
+        isCached: true
 
 secured: "8lsBHzygOIoaIvcn+TOn548MEAYkWeTAJbwBmU4KZQ7zdpIhFGcXHFT8v9qU2o5Nt8G6AKt2Bsm874xBJIp+I+eXXTQwC6//Z7Jfh9FCAwrQGj7iN36W05GBUcPh/1lvWVTG7T7EXHHzmwXfE+cVqyqe0Uen4XvbwBbp32Repe2jbc6CeuN9IC9ZWKL79W4AXpHl0dnudFSJZKC93VZWfri0RNPbCTf6nK4u4+n+mF2mCIKRysgS2MPU8XA6oWkTVOPz1migumCQMJAuI+ZpBAy6Tdxzm3VwFz64yFX0FjlGPY4iZladeaCPqMJuZqq1rktFG64pKa1TDIeQVmeEYd3hNjIfb9hkRc4iHyp0cps=;ZoD0ZQVlAbjHCOQa/bYbcA=="
 ---

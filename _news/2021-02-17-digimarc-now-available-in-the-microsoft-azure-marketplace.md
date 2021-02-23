@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
-publishedDateTime: 2021-02-17T13:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
+excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+publishedDateTime: 2021-02-17T14:24:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/603488a41a259.image.jpg?resize=824%2C630"
-    width: 824
-    height: 630
-    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -262,6 +256,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
+    excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
+    publishedDateTime: 2021-02-23T22:34:00Z
+    webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 37
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -346,6 +354,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "3kaUpT7/NUhjdEWF40vaPtKQVpb4sx6zx+A70jy5rBlADtgocjQBjTcCuU/S28oHkPFA+VyGEa9SwgUdTxb873VDgHfpw3dHETUkwylSh5XCJMrGkhsnRr8ZNYEi6VUor+JsjpFuX7creQBg+N1Twg2802itvJOJ39qgBiXMcEPe0Aq6KYdCxqzHCNbVbFAH3ZWRCRU8CI/atBgIbLSgRP3o7/D5CsBVCAL6pXXC7FU4lEkqEFiFIpWOZLqowZmC6MtvARq1/eXJHXD/Q7g/rZV8D6IwDOiRhPfBnh868wzLr1cfpx95MmrNwNCaJb8jheTnWyMi9GK6ZLWUSbB5LQeviFYGz+c3Z6bGxjJ6zLqIAEoEvNzf5qMxE5FaXROwdN9rurEQBhiBVEF1bqvxsqo3zMZI8Okg1qgb4YHyE8mAymxvyUwEBY09VLWWGD12VAyGtZyCz1mEqXhHXZjBJk5ZSGxdt9c6Su3vqkFwrjJo6qWx+mh5T0KUTU5T0HH9NWJnpu+UuBx2OijhGn7Sgg==;/ZIbYJ41FjUgSAyVmGlOAA=="
+secured: "J3UP8jsyovbdcWHZU22vdA9hFcmSCQ4PowwWH11aXV4a6m7H2HtH/c1am3adoqWO8BnmhbH0XB7Ye2VayvPt5M9hCLu9+NFLVnj4X1G6Fr0g4f/MxmIi336kKozdig6l4KS2YdJa4JR0k8wU+Mg0N3gaw/kfto9TLJhm80gxTl1T//zNN3Y7rz94elbQYi94YWt7RpXqwZ8inwgHwMdgA7qIGvOr8LJZ8kt/iIMf8xaI/0zkRenItr7CsjeKFZBwVhzoH/ffYgvWv90CBrG1o5Llp9zPX3nchnU5cJvvwesdhECy3AjW9YRUFf2KONQbmQcjqAqeIGbG1LXkiBqBwDURiQeYCJNo/R7v+tqyIbg=;rUKYl6myQLe8xCWYc7gskA=="
 ---
 

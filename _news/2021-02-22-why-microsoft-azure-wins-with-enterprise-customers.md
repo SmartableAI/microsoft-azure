@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-11-29T21:00:00Z
-originalUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Why Microsoft Azure wins with enterprise customers"
+excerpt: "In the cloud wars, Microsoft often comes off as second best to Amazon Web Services. But when it comes to established enterprises Azure wins more often than not. Here’s why."
+publishedDateTime: 2021-02-22T03:00:00Z
+originalUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html"
+webUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html"
+ampWebUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-    width: 300
-    height: 300
+  - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -71,22 +77,6 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2016/04/14/52bab34b-a72d-46b5-81cb-0879006d68ee/resize/1200x/a9e189dac890bda1fd4365c9248748eb/awindowsazuredashboard.jpg"
         width: 1200
         height: 504
-        isCached: true
-  - title: "Why Microsoft Azure wins with enterprise customers"
-    excerpt: "In the cloud wars, Microsoft often comes off as second best to Amazon Web Services. But when it comes to established enterprises Azure wins more often than not. Here’s why."
-    publishedDateTime: 2021-02-22T03:00:00Z
-    webUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.html"
-    ampWebUrl: "https://www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607388/why-microsoft-azure-wins-with-enterprise-customers.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs"
     excerpt: "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network."
@@ -1412,6 +1402,20 @@ related:
         height: 450
         isCached: true
   - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-11-29T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
     excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
     publishedDateTime: 2020-11-30T18:55:00Z
     webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
@@ -2051,6 +2055,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "K4OAHLB8jg3yj2BLfFrck7Rz6hFGev6RjFBgs2ScRaJqhqOIEF1ifYa9ZBBa0aUBLgM3t99SoWobPTzHQJ6p+h50Ct65CYqJNsOak8lo5DPnfIOA83JNA55R1I2P7BjD4n36TytUl5gLF/D6YYp3lXW18TZtnFL+4+yfRl4qraYaoKkI4dH6KM28vyP7/dQPh/k4gpEF0xiVMwS2z+xnU6s1f9ObUJnw0nL8Wu5kfL5ZY9j6IZDwWqQvU9sLq/EghSrEvbm4+d7DPuenwW6VU16unHLBOo3pjeoDMHeS/AsXtuj5tV8sHsBkXXFLiezEt1MKAQBpepvsRCsqJZHgojQ+S1BQuVhFQ3DTtN5HVig=;NUMlQPnBYKke5rKdFrPkVA=="
+secured: "pyNxsJ4Y3RCnmH7Y76sG6lQXprpoKale2FTPNlYvbVNdpWyeIpA45VAIvXhvU85KFT0rq8Tck8zxoowX9QNBjQc/Z/HEGDIBxpG/8Q9fUQvBasit5XYYL0VBygaw64H5JZDt8SnV873//dkxvInd/55RwzPdHoFMPN8Zcj91SisV795UYem5/pmp6RE+PtswE3nUpcvX3soysZRo42x6EwRybzQuOIn8ZP0zCeqAC59bTpDQRaLjFr1ThvnEcFrFYb7IBjZaUQtIwXtqzxiEBu5WtqnJ0cu5syVo04+YFrf3hZAI3OOjDPccahtsfO8n/Q4SoB5wfdAAX7eM07J3tq/NdUanrHD0f3ysiRx83rE=;IExkaqemgSYjLQdTsQPvoQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-
 webUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-cloud-cdn-with-intelligent-threat-protection/"
 type: article
 quality: 101
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Microsoft Azure Front Door Gets a Security Upgrade"
+    excerpt: "Microsoft today is launching Azure Front Door Standard and Premium in preview with two new SKUs that add threat detection, application security, and additional security protections to the content ..."
+    publishedDateTime: 2021-02-19T19:56:00Z
+    webUrl: "https://www.darkreading.com/cloud/microsoft-azure-front-door-gets-a-security-upgrade/d/d-id/1340197?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://img.deusm.com/darkreading/Cartoon/Feb2021_DR_toon_sm.jpg"
+        width: 800
+        height: 412
+        isCached: true
 
 secured: "TrhMlO7I3Gw7kvFWTfGMpuU6CDRV7U6f9m4gthYWrc2Paf+0pTRBK9HRSjJ1FEDS6RXeSp5Z/Ka7AF8pEaV7pAkCtKRhTcaM+tb8t9HFk8whVkLne6Wg5YoCN9WbCxS3nsuvUhA2cjh7+xVlep6GGPBbxJuQQ/02ALSQLI1hBGGKRc4Q/x3j9chuOiUqPEOf1Zk/vqitPf6zpn94ELFje0/zJMUnKCVG4u5mXeAt/Fqe+Ajidp/cSsEG5pohGnYwP/GpO0KZ6CUKWTBiyHx20dzvMWo7ApmP/D7IAOujk1IB/+iCgzxj0x1/g5vHWDGzYyBal9Y6eKNi+jGti1nrin5gsLPHTVOp0b81dR/rzY0=;kEXaHBse00ZVog67G0KL1A=="
 ---

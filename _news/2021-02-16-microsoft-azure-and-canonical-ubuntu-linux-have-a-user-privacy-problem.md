@@ -209,20 +209,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
-    publishedDateTime: 2021-02-17T13:25:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/603488a41a259.image.jpg?resize=824%2C630"
-        width: 824
-        height: 630
-        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
     publishedDateTime: 2021-02-18T15:02:00Z
@@ -264,6 +250,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
+    excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
+    publishedDateTime: 2021-02-23T22:34:00Z
+    webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 37
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
@@ -321,6 +321,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z
