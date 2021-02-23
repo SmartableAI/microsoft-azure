@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
-excerpt: "Start using E64ds_v4 before 28 February 2022. "
-publishedDateTime: 2021-02-22T19:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
+excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
+publishedDateTime: 2021-02-23T19:00:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
 type: article
-quality: 58
+quality: 64
 heat: -1
 published: false
 
@@ -40,15 +40,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
-    excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
-    publishedDateTime: 2021-02-23T19:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 64
   - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
     excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
     publishedDateTime: 2021-02-22T19:00:03Z
@@ -85,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
+    excerpt: "Start using E64ds_v4 before 28 February 2022. "
+    publishedDateTime: 2021-02-22T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
     excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
     publishedDateTime: 2021-02-23T19:00:32Z
@@ -113,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "OwJFgxLkwrc9Eal+3Uxc5F+nBlcTNqUo1gsHf56DEJod8jdS99TKkaRKyA8f6eBgjuyg0glz+46oRyFu8lvQ2Az/xAYlDBfRpqJjG+zMuZhyv20fGi2XPkWO42Le4y60vHgDiBoidW4ilmnL00IhaPklfIum9uq0ZIaJfVp30x7LwZZF3n3u8LDNWo3WRvrdie+2nducuEx30dZAucIwIgkFFZfPySvsKb0pnykaGVEsc5kk7U0Bg3I+bMe/GYQ36nMmc3Uf2MsgnyKCyQD872Laej+Cvovg2kRL5Ad/oXDXbZbWSU4NLI5f9QPrhSaSOPpAjrlqkUSGKALpYYSctOi+Na/PUmq14x/Bw01Yl7c=;2HQBM4DU8eyS8PWnuEi9Bw=="
+secured: "ZTFR2oBgihUux5dsL9yH67byrVEogwGn/6QIIHRLwuIuPs9IAw3DtLm87aQuvsESclfwid9XSsZNpOeiyi0HiPz5cohmu1Vv9yV7Fs2nPoZKH/wvlktQ1VXGdxGD7lPuxKt6OalgOYfI8vmdhjq91IjLfHH1mGsoY/Xh1AhU0UczXYV2hkr5cNA0lm/A9oxwPvAGWC5ph+UvOlL1IroWmF9rLYbnoee7cjp+2L124gsFtbSalEr9sLndsrjbgSJKdmjxVGtZ3SwbhJQmLAlors8lwwNOTzq/1DUcg6NmchKwv/6ckS7otI2ki8Uxdh2E1HtOZ6twxKZMz7JdiBn08EUr+2JJ6aMnd/7aQDvsRsY=;xdpZhgppZ8HY2YgVAM3BAQ=="
 ---
 

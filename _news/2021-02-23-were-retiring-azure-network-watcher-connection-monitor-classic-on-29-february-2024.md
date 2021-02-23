@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
-excerpt: "Start using E64ds_v4 before 28 February 2022. "
-publishedDateTime: 2021-02-22T19:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+title: "We’re retiring Azure Network Watcher Connection Monitor (classic) on 29 February 2024"
+excerpt: "Transition to the new Connection Monitor in Azure Network Watcher."
+publishedDateTime: 2021-02-23T19:00:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-azure-network-watcher-connection-monitor-classic-on-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-azure-network-watcher-connection-monitor-classic-on-29-february-2024/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -76,15 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
-  - title: "We’re retiring Azure Network Watcher Connection Monitor (classic) on 29 February 2024"
-    excerpt: "Transition to the new Connection Monitor in Azure Network Watcher."
-    publishedDateTime: 2021-02-23T19:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-azure-network-watcher-connection-monitor-classic-on-29-february-2024/"
+  - title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
+    excerpt: "Start using E64ds_v4 before 28 February 2022. "
+    publishedDateTime: 2021-02-22T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 60
+    quality: 58
   - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
     excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
     publishedDateTime: 2021-02-23T19:00:32Z
@@ -113,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "OwJFgxLkwrc9Eal+3Uxc5F+nBlcTNqUo1gsHf56DEJod8jdS99TKkaRKyA8f6eBgjuyg0glz+46oRyFu8lvQ2Az/xAYlDBfRpqJjG+zMuZhyv20fGi2XPkWO42Le4y60vHgDiBoidW4ilmnL00IhaPklfIum9uq0ZIaJfVp30x7LwZZF3n3u8LDNWo3WRvrdie+2nducuEx30dZAucIwIgkFFZfPySvsKb0pnykaGVEsc5kk7U0Bg3I+bMe/GYQ36nMmc3Uf2MsgnyKCyQD872Laej+Cvovg2kRL5Ad/oXDXbZbWSU4NLI5f9QPrhSaSOPpAjrlqkUSGKALpYYSctOi+Na/PUmq14x/Bw01Yl7c=;2HQBM4DU8eyS8PWnuEi9Bw=="
+secured: "syzYZMu05HuLuNm3EPfA6a4YEwEFg0Hz+M/mi27U2NpE1AX+U9L6FqLue6y7hHHUi94tC0pvt9nP7vN3larcR9or2wVeavjcOLdvDzoqG4s7dhosyFW1jQToHcojKgn1meuDRJ5THAsgUjpoflxoRYgNvrJkqldHMa+FL4u9if4z1+HtI8yOnrQ0asmFMDZI4bmwuui94P/QHF8Q4CiNH3P8ACIfBiE+bvti3MmLzb+zuaSVaHUJagu/aC9GIEzYMjKZp9cHDAF/q+1H6sRaZoaJh5o1Rtzf/ixDayIOURYr46/OY07B9RqS1CEdkdWHlE8WQIEDdkhCIiKPmWMget7RZPoATK1mk41tc8l1ezc=;1JL2y13618oTBTjFcIa1RQ=="
 ---
 

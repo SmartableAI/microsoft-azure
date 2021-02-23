@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
-excerpt: "Start using E64ds_v4 before 28 February 2022. "
-publishedDateTime: 2021-02-22T19:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+title: "We’re retiring Classic Application Insights on 29 February 2024"
+excerpt: "Transition to workspace-based Application Insights."
+publishedDateTime: 2021-02-23T19:00:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-classic-application-insights-on-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-classic-application-insights-on-29-february-2024/"
 type: article
-quality: 58
+quality: 52
 heat: -1
 published: false
 
@@ -85,19 +85,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
-  - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
-    excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
-    publishedDateTime: 2021-02-23T19:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-scripts-to-use-az-powershell-modules-by-29-february-2024/"
+  - title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
+    excerpt: "Start using E64ds_v4 before 28 February 2022. "
+    publishedDateTime: 2021-02-22T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
-  - title: "We’re retiring Classic Application Insights on 29 February 2024"
-    excerpt: "Transition to workspace-based Application Insights."
-    publishedDateTime: 2021-02-23T19:00:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-classic-application-insights-on-29-february-2024/"
+    quality: 58
+  - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
+    excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
+    publishedDateTime: 2021-02-23T19:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-scripts-to-use-az-powershell-modules-by-29-february-2024/"
     type: article
     provider:
       name: Microsoft
@@ -113,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "OwJFgxLkwrc9Eal+3Uxc5F+nBlcTNqUo1gsHf56DEJod8jdS99TKkaRKyA8f6eBgjuyg0glz+46oRyFu8lvQ2Az/xAYlDBfRpqJjG+zMuZhyv20fGi2XPkWO42Le4y60vHgDiBoidW4ilmnL00IhaPklfIum9uq0ZIaJfVp30x7LwZZF3n3u8LDNWo3WRvrdie+2nducuEx30dZAucIwIgkFFZfPySvsKb0pnykaGVEsc5kk7U0Bg3I+bMe/GYQ36nMmc3Uf2MsgnyKCyQD872Laej+Cvovg2kRL5Ad/oXDXbZbWSU4NLI5f9QPrhSaSOPpAjrlqkUSGKALpYYSctOi+Na/PUmq14x/Bw01Yl7c=;2HQBM4DU8eyS8PWnuEi9Bw=="
+secured: "ayz44Jmw26Y2KRviULE00G+SwM7gN/apnr26iWs4H4EuuLjfAcY4A01gM2blU3wEbTc9FFnbD3GkYCPzAAXviySeXkCA5J+1knPBMKmXvgh520s/P8zQqA+xKErKsBr+f1VwjjyHQsZKtjNESGHLVxRNPnEk72jS2fYCOWd2ZjFbcYCpVK9/kBCgcds4HI/zTU1Snn/NlFdK2gwD4PbkJiPt1PxRLOf3qlq57sHaDzCQS+FbBJ8+VBudYlOR+j+hS82FgRR+I+TGfiUKUyTVIZ9qJBi96MIG5kTvdtHGjFmq2cs+4lgr6jFSSGwpIJ/Mel9Zn/srrxqYCQ8MUCa+zla1SJvxRJhcEQmS7WnB3QU=;/w/OM2o47PSenP8YD0ZvSw=="
 ---
 

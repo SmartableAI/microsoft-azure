@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Automation is now available in UAE Central"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2021-02-23T18:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-central-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: ".NET Core support for Analysis Services client libraries is generally available"
     excerpt: "Today, we are announcing general availability (GA) of Analysis Services client libraries for .NET Core, along with several enhancements."
     publishedDateTime: 2021-02-17T00:00:05Z

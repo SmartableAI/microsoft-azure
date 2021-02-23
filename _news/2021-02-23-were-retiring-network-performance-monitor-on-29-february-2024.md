@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
-excerpt: "Start using E64ds_v4 before 28 February 2022. "
-publishedDateTime: 2021-02-22T19:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+title: "We’re retiring Network Performance Monitor on 29 February 2024"
+excerpt: "Transition to the new Connection Monitor in Azure Network Watcher.  "
+publishedDateTime: 2021-02-23T19:00:30Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-network-performance-monitor-on-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-network-performance-monitor-on-29-february-2024/"
 type: article
-quality: 58
+quality: 52
 heat: -1
 published: false
 
@@ -85,6 +85,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
+    excerpt: "Start using E64ds_v4 before 28 February 2022. "
+    publishedDateTime: 2021-02-22T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
     excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
     publishedDateTime: 2021-02-23T19:00:32Z
@@ -103,16 +112,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "We’re retiring Network Performance Monitor on 29 February 2024"
-    excerpt: "Transition to the new Connection Monitor in Azure Network Watcher.  "
-    publishedDateTime: 2021-02-23T19:00:30Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-network-performance-monitor-on-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "OwJFgxLkwrc9Eal+3Uxc5F+nBlcTNqUo1gsHf56DEJod8jdS99TKkaRKyA8f6eBgjuyg0glz+46oRyFu8lvQ2Az/xAYlDBfRpqJjG+zMuZhyv20fGi2XPkWO42Le4y60vHgDiBoidW4ilmnL00IhaPklfIum9uq0ZIaJfVp30x7LwZZF3n3u8LDNWo3WRvrdie+2nducuEx30dZAucIwIgkFFZfPySvsKb0pnykaGVEsc5kk7U0Bg3I+bMe/GYQ36nMmc3Uf2MsgnyKCyQD872Laej+Cvovg2kRL5Ad/oXDXbZbWSU4NLI5f9QPrhSaSOPpAjrlqkUSGKALpYYSctOi+Na/PUmq14x/Bw01Yl7c=;2HQBM4DU8eyS8PWnuEi9Bw=="
+secured: "2su/Qo6v6FzF1kpmzlvXJKNXUhx3ZABUGPqJbBu1wWcU9sM5Rmef2xu6VI9Y+A05ZA4E4y2O9SFFXiUThfDG0ppXMDAbOAKR/GT1oXwYXfGoc/yq5cGLbpU9/4F/+EifJ0gW3JhAeOZtsUJdmwBs+s1GxZO7lGkFufP4UmFq8KHtrvuoSsQb9L6zobAIs4e+t2mc8AlPGlvI06j2rQ6qbsPoFZkqLdaVxqYLC8to0zm9TR+OfReJw95BsRuPnjeEqlc918XlylscAZgc98Z+3b5w04Qi1Ud8na123JEOuP6tL235s1H1Ee1Wxrj+8MqPm2SfXn8ODnBFh7lcb4lkuSdSBTjirT2rmcqA9jXuYbk=;eY6Ivt6WfcgCpSy6xrmiqw=="
 ---
 

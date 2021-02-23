@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Automation is now available in UAE Central"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2021-02-23T18:45:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-central-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure role-based access control (RBAC) for Azure Key Vault data plane authorization is now generally available"
     excerpt: "Achieve unified management and access control across Azure resources, Azure Key Vault and keys, certificates, and secrets."
     publishedDateTime: 2021-02-16T17:00:40Z

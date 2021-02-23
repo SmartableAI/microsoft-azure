@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Automation is now available in Japan West"
-excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-publishedDateTime: 2021-02-09T16:49:56Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+title: "Azure Automation is now available in UAE Central"
+excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+publishedDateTime: 2021-02-23T18:45:59Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-central-region/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-central-region/"
 type: article
 quality: 67
 heat: -1
@@ -40,19 +40,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
-  - title: "Azure Image Builder Service now generally available"
-    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
-    publishedDateTime: 2021-02-20T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available/"
+  - title: "Azure Automation is now available in Japan West"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
+    publishedDateTime: 2021-02-09T16:49:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Automation is now available in UAE Central"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-    publishedDateTime: 2021-02-23T18:45:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-central-region/"
+  - title: "Azure Image Builder Service now generally available"
+    excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
+    publishedDateTime: 2021-02-20T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -86,6 +86,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "blrJLTbAFCgWcQMGI0LA4jnEZW36XjRVlszQ+zFN7hFi9qeNKunh3ApOChnnK4sze0+t/dWR8U/2MZo2+i9q9R4rXkWYT95PlvOXE4l5gQL2jJ9MIdZsJnugE6W0eE2v7YvfOf8zj3gS5D5RhOr//RpMHhFgQRcS6sfFzlrITlWJg7Ydq9Q4yN1dQEGlYgWwRL8iY+qTaX+5uJrfFwR5eXSPw7mRYEYUX8Qq0ief0NSqKxMq/+0bSfIYbt3DQiFtUc8Jd/kZDSf4w54MCMQFWumUhyGz2p7UPWFSGWGcfxEXb1gFTq0AFhlnXdBCiJ5zZACRFeu1g6KBPHjafZ9NrkTvkg+t8++mFhbCEH2RolI=;wn4evH02E3Vb/6sLsYeWow=="
+secured: "CCBgGKFZ3YNDephpJfqlE6yFNBrs9r8hW0fW3LG7FpY4o9fd6q1k8F+eiVOtUXgJ1/OPXiIsydjDFi7aPLWFWZEQZAISrjVBNfwqkEHrHL9vxEe4jvGW9QlKLMh0dySHdF87vTeB41SyF1ZAQ7FulRI8Vt4hcuD0Pie+Msm+Fcpifr+iMgoj1uB/jTKcknCgm2Mj0w43vXZKGVLV0ys2HrbjlBOAfGSz4RH9qfgi9rurRwCPjYCGSjdjaEMH6IvW8u4mEFc/CIM2i58qE+bOK8v3ZrGnASy2rqB60/6aWne3/KYFjMmbpi6bg2DuadmJrp/SXjUo5t5VYB1YimnM+UuTsXPkHaSjl4e4/XY5t6M=;saaBmmBiPH3pQLSVBJWZjw=="
 ---
 

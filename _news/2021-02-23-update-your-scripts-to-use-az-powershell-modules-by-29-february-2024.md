@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
-excerpt: "Start using E64ds_v4 before 28 February 2022. "
-publishedDateTime: 2021-02-22T19:00:02Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
-webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
+title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
+excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
+publishedDateTime: 2021-02-23T19:00:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-scripts-to-use-az-powershell-modules-by-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/update-your-scripts-to-use-az-powershell-modules-by-29-february-2024/"
 type: article
-quality: 58
+quality: 52
 heat: -1
 published: false
 
@@ -85,15 +85,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
-  - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
-    excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
-    publishedDateTime: 2021-02-23T19:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-scripts-to-use-az-powershell-modules-by-29-february-2024/"
+  - title: "The GS5 Azure Virtual Machines will no longer be SAP HANA Certified on 28 February 2022  "
+    excerpt: "Start using E64ds_v4 before 28 February 2022. "
+    publishedDateTime: 2021-02-22T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/the-gs5-azure-virtual-machines-will-no-longer-be-sap-hana-certified-on-28-february-2022/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 58
   - title: "We’re retiring Classic Application Insights on 29 February 2024"
     excerpt: "Transition to workspace-based Application Insights."
     publishedDateTime: 2021-02-23T19:00:31Z
@@ -113,6 +113,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "OwJFgxLkwrc9Eal+3Uxc5F+nBlcTNqUo1gsHf56DEJod8jdS99TKkaRKyA8f6eBgjuyg0glz+46oRyFu8lvQ2Az/xAYlDBfRpqJjG+zMuZhyv20fGi2XPkWO42Le4y60vHgDiBoidW4ilmnL00IhaPklfIum9uq0ZIaJfVp30x7LwZZF3n3u8LDNWo3WRvrdie+2nducuEx30dZAucIwIgkFFZfPySvsKb0pnykaGVEsc5kk7U0Bg3I+bMe/GYQ36nMmc3Uf2MsgnyKCyQD872Laej+Cvovg2kRL5Ad/oXDXbZbWSU4NLI5f9QPrhSaSOPpAjrlqkUSGKALpYYSctOi+Na/PUmq14x/Bw01Yl7c=;2HQBM4DU8eyS8PWnuEi9Bw=="
+secured: "LKRs4sWw8nEB9G/CkSIuQxrzyXFhC8kKC5BhS6FWcdxHrBWiiZjhX7ORZxD8IIE8oAcNhDIRAg3bMZf4jZTC3qHTzQzyRVpIOPyJtQloFS4+qsnwlQI+41CZtUnk32R5pK0RUcJ83Kh7VqQ0a5kinQ5yqSvlFRKZJE7DnHrwBkqnQ5PBxtQvRMsVF98MoBZTi3b2zhYFoh1Rw2BMfVHOzgiKnY755FOQmguR2tru7iEpuQUNCMAA85A5eADOLvRGc5k7uagjBrl2OHzUkqDckaZxpS+5K3jqWbP9f6NT22sdxjWmGZE5SUCXgkErtceG3bgYxdQPpDWxqebXJLsATWHWBBQHyeiCD2fVeuN3Uxg=;D+R/99pulS/fChbOLw+9fg=="
 ---
 
