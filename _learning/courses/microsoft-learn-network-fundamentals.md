@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 4598
   average: 4.7155285
-heat: 61
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Networking
 
-secured: "1G7396EdsOVhKGiJEVhvmVPQL/Oy0gnUetavQODM6o//ijTL+Bto3xOAjVFmgTUUKFo4GiFFxC77LVSSKYENv0Q5Rhs6s8ip6dgCCPOohMZjZ9CcY722JPy9DGKYXQZLRkltYSadNz1hPA1Y2niDI71jrgEZFvXzxZpJwNlbDXwzkTkfhzpwYCskCWy5Lc7nRNdxQu32Isl3jyNRuvZPc4fTUbILF0+DwR9EKq+eaeVXdxZJHtX9gnAZ91PvYLWZyRwEmA6YPCI06PFyitwkg95aB4pc6HgAqZPd5e5IuwTlXl4N1FWSz42DnIY8BL9duGlFkq+G77eGylcuaXcbQXFcszAb/q7pLpmqquJx5aNLiHmVVjSVCyFCVMacHaV9OmwvyPuQi/o7zKK7TMG2JUV89ymVzMvnbPCLN2OD73o=;tnQE6pP7Us9/me/tMb5rTg=="
+secured: "C2KJvzzNqp/oS+E6vfRSuhQ7PCxH6zm7TH+78xAUDB5TrRctrt8fnJg3wCu+CePFN4Q2Nlz4hzSHILfQmcwUCkqPocwRJ5i1hYyZ4gHjbHxENd0NSImo3RqGHr2uZDvjv7vufF5Y1wEMqamC/glX3oxP9mfJ+1dVlGJRb02eOU5a8AsQCX9ydTD6NS4CkiaEm6sGu9nsMuIcTzWbpZOMklYEGcen6f1YtqAs37ReOQeJ68MWniv+NzpX+XAAS7WKvaDIfyTmgSHRIwi10TMzevth0xVPUxYoXgLM1Cj5gs5XYiiFIrmxdPx8iFhS6mt2Ifm1wjr6lXvDnvw8U7dKYzvqxM8NSd61CVRONZQA8U5XRYVc+F0WBZ+9cQrwF0m6WnkJCtcv3MJC79kb4dEzW2SEdU5ePzAaKFPGet4cjr8=;wV8FPadAFDXeWg+S3YBsjA=="
 ---
 
