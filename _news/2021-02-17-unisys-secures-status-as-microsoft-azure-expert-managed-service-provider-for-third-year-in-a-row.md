@@ -340,6 +340,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
+    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+    publishedDateTime: 2021-02-23T13:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "gqh7lW59Rr6G8F7BwsTS7E6YZPqciNvD0SpwVQnST0Sp91F8VogVRTQp9k4F+IoD8Bebtz9ZJQ228HgbSFwkMmigA8rqOoDix5OOcH+uHz6WPf3E1GaDh5PIIFZc9zP12GyLabx/TdSCcPKIuiEmw4gS8WEk2BSQ/YMiR7HoYdkKoNpnXEuKYR/T3g6dt7GlfhXKOVotf9gbWf6GPa0eCmz3A0A3xhVI2MSn6U0UX4Wu2uCM4bwpYZbCclaJ10HZJi5qTVxG4S03+Cn1pYOVy2PnCUuvrnZLAHvWTJvGhol4abgf6Kkd3KgiZfbMtwksuVauRCpZx6eCwJIPbPH40L5JSTkHkf7RoOTpFp5OYrM=;V7Hmm3AHSWqKDPIuF2KIsw=="
 ---

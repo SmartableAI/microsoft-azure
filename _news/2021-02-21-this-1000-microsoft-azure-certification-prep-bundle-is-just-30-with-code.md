@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-c
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
 quality: 95
-heat: 557
+heat: 577
 published: true
 
 provider:
@@ -339,6 +339,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 17
+  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
+    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+    publishedDateTime: 2021-02-23T13:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
 
 secured: "a4g37cX3D+5pLFO/HjmIwdLEVr5MArHc84wk1A7ah35jA5+LgbNsDpxkqiIaI/xfhKuY5dGsMsEB6wnrGJeXQoWG0Zxb+uUXGNCX9Yoy+ngOytMRnKlcj5YYYlzBAIHji3+9jvWVDJJOoskijCpT/G2d+7fKg1JCo5gkSd2+idgazxUZbS6n/undspLAIWyxBr0XuFEpVPZSo1VmkpHa3Dhwzo/Msyct/WsK990UGJXcwE3ndzMTvhLRgj7bg0B63y5xZ5UovCt5HD3fo6sCY8UpcXYqZsYQ2x+psdTihgM0AIUihFS7WBSDB3Dd2igMS5GEhjNHaFsZb+zYOjhtyWHf7GD9ZzFgvuXRCm0TO+AXvpVUqFUHT4p5Inj7PNiU9lhlvHRmajwR6D0jui8ShDQWBN2ZhK7U2aHc9trIMgZwK0+E521jxJozSiQ6msvXQfmHnBBlKpJJXZE0Lysn8r7/OQu1FY/HstC2srpkVpXp0pVsbQWOEAwxyOAGK3DoD/7hZfh0/DU0JHMiaDMxTQ==;zcIzUXfzz0kpqPlofQCRlQ=="

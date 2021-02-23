@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-publishedDateTime: 2021-02-17T09:47:00Z
-originalUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
+title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
+excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+publishedDateTime: 2021-02-23T13:07:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+  - IoT
+  - Integration
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -335,16 +337,16 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 17
-  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
-    publishedDateTime: 2021-02-23T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
+    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
+    publishedDateTime: 2021-02-17T09:47:00Z
+    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 17
 
-secured: "j3hXtwR4CcyFBz+50PsQNrin6UNCgoOoMuQfiSOM4hppLO02DKnZlpJ8knaXJKLm8xyrRWc9GG5TeqRe4iIhFnIL31jkJarKTF0eqid7dxYS37ZTbz1rF71aEDvX2J0DFtjuEewC5zSQoq/mLWmrlCqrNjJVxhW7yXPNikC1tCzreRdo2NHnV2bCYlDpP5T3Z9omUzGJdbFMRhoHwHLNp434QvFB64Hb2uoSXFfd/8iIDwtni9rzhia9fLys72EV/gRhdw0FIgfGjH565ykxe/4qesBqK1FJluOH29Z9UxAjo/cv5OaUEJyY5dsvitL31jkE2QuEt2oFfoC0FUO8MkLnUgVbyaA3RZva5BcrKU8=;gOaHHSD73NdCDQw18Z5a5w=="
+secured: "PUuEDVdMI61hhHDnmVq0z73bbbMkI2SFtB+ab+7OMUZCWmgM1JLRXxTo/1gwXZ9wwY4yEwUExZoOz1nM6kmGFN1zegmMy9ZX+Q2s7SynOnNpw95k5mHwV8zY8jQUyDuRBoaKHIzMxeymH9vPsQijsCCy6ZZ8jW/Zj/aLNR01XvwWYF4uXg2bIdblJldAE0lOuB/F4xaVNwuEuuIuvyNRYGVo0llwDdQxG3y0yCuPVqKbCXnDBxHoJw+hGfHWAruYL4iRvfKPZIf4Mhwi3WjEhKWexMjvXNoF5gLBZrLDzX+2jWrRX2oaErZsrffur0PDO78kVSzq8B4OBAEWkAvSwM5iMlXB3L009eAVmpynjVw=;sFO40xhVBEpbxOzaNiiWbw=="
 ---
 
