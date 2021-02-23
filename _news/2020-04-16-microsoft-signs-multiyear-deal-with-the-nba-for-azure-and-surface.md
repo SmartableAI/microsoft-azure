@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-n
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details"
 type: article
 quality: 97
-heat: 1157
+heat: 1177
 published: true
 
 provider:
@@ -404,6 +404,22 @@ related:
       - url: "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Learn the ins and outs of Microsoft Azure with these course bundles"
+    excerpt: "Microsoft Azure has been around for more than a decade, but it remains a vital tool to learn for anyone hoping to forge a career in cloud computing. The bundle of classes will get you up to speed ..."
+    publishedDateTime: 2021-02-20T13:24:00Z
+    webUrl: "https://www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/"
+    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Ex-20th Century Film CTO Hanno Basse Joins Microsoft’s Azure Cloud Division"
     excerpt: "Hanno Basse, former chief technology officer of 20th Century Fox Film, has landed at Microsoft’s Azure, where he’s the tech company’s liaison to the media and entertainment"

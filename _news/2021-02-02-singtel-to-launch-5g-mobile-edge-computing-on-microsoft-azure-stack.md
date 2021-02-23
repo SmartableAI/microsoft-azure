@@ -287,6 +287,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Move to Microsoft Azure today and position your business for success"
+    excerpt: "Microsoft Azure is the ultimate cloud computing solution, providing everything your business could possibly need to thrive. If you are looking to grow and modernise your business, it is important ..."
+    publishedDateTime: 2021-02-15T06:55:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 37
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
     excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
     publishedDateTime: 2021-02-09T15:00:00Z

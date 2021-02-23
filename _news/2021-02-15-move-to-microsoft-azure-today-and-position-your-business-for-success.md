@@ -1,35 +1,41 @@
 ---
 category: news
-title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
-excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue."
-publishedDateTime: 2021-02-08T06:40:00Z
-originalUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
-webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
-ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
+title: "Move to Microsoft Azure today and position your business for success"
+excerpt: "Microsoft Azure is the ultimate cloud computing solution, providing everything your business could possibly need to thrive. If you are looking to grow and modernise your business, it is important ..."
+publishedDateTime: 2021-02-15T06:55:00Z
+originalUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/"
+webUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/"
+ampWebUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
+cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
 type: article
-quality: 97
-heat: 677
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: businesstech.co.za
+  domain: businesstech.co.za
 
 topics:
   - Azure
 
-images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
-    width: 1200
-    height: 774
-    isCached: true
-
 related:
+  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue."
+    publishedDateTime: 2021-02-08T06:40:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020908a23fa064ebb2d90da%2F0x0.jpg"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "Microsoft and HPE team up to connect Azure cloud to International Space Station"
     excerpt: "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station."
     publishedDateTime: 2021-02-11T13:00:00Z
@@ -282,17 +288,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Move to Microsoft Azure today and position your business for success"
-    excerpt: "Microsoft Azure is the ultimate cloud computing solution, providing everything your business could possibly need to thrive. If you are looking to grow and modernise your business, it is important ..."
-    publishedDateTime: 2021-02-15T06:55:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/468102/move-to-microsoft-azure-today-and-position-your-business-for-success/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 37
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z
@@ -414,6 +409,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "hoJx2QUKv6xPi0WHWbYMzs9ol68iY4B0DDAIbUu2h3YBxf9ZbKDMM0lJRk3gibaDR8pFWyTW6TDmB+pwXhjEkiEQbTJrbegkvuefU6jJMVC9BvcDe7eXN2pTyo8LEahPJdTywLZJGaNl9vKe0JwfyfuNelYYv/vuShqN+G/YAHB9cX+roaqbENpi0jjjfZbCkgJOGhXXuYFypycCdt+XZyEfMExLNOO1wCShDjFMnkrtgyZdTltuid847P5962lKGH0+pyoFhBkSPGvXvnrsEv2Bw7cKtLdL0+1qxyHoDpzZQRiSQb+lXvrcIfY1OEXbO4UVIrqy8FAs80gsU4nRXoA7wo1ZjQznuSG5ko+tH555euGZepqfKzAqZ78ASztV7j2wiLYc/rw+ECO5Eo+jlUJihVoFp+9Qa8M0bGM8zqCgqLTfMpf6K3S6sEgtC8rZayyv3TerP963KSdx0DQKKz6NCud8SCHJS/EuBcbHGKCm7k4gFTcAJ1K326WoQb3R3ADyREVZ6LFIZ1Bl4ltXYA==;tYl8LvHGLXpnhsVY1e21Cg=="
+secured: "XIdy+RcjnFQn01HXK/abYfPY3NJyWCmxTciCAQRT/1+CU3Q0fEaYiRKu8McwLoE+cvoMh0hDpUIb+8Pg7k80KusHx8Gj2Bao/GozGXj+t8LEmZcZ1/MnUd7kypz71vxIdNKB6OE3T19lFltTjScbri50tpxjo7BtO/9c7WcjEUXo+ZoQLFlDyeY93cdlOxakR46zkjbO0CUNrdvaHMApWYf/yztFnoQUpgBocV22nl7HlxfDK+LIvrBgtERYjxzIP7iKQg3a+mjrsmj8xJ1XpDVVQu3+5b6RITNEfVpicKN7/JsKEohFsjxeAaLZb4OOey061njqavIC3mnhHeB0yZTyNAdDyXozRN/j4wVrB2Y=;7MbxMp9V7jR1bv8mYNx1iw=="
 ---
 
