@@ -1,24 +1,18 @@
 ---
 category: news
 title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-publishedDateTime: 2021-02-11T13:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
+excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+publishedDateTime: 2021-02-11T07:08:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
 type: article
-quality: 91
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -405,6 +399,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "MpCgfLzPt2o9JFpwk1iezjHpA6n59ba45GiMFsNH531r9K7DgCFkeSoW7+OI/5CA341CSdOnCJWzxczo8ZJhd6GWjgJjjwRBE+jgbeeTtDOiDGB+mFjFuydY62Z01nytzh/RNYjuct2ikkHCxiSbAjjYFoOuAYakEIvbxVPjBn3tmoiXul93Ir6Bu/A9MzfhIYhNuOPceituCPZgx816/C5KCAybTnmTJL8VWl0AKz6cgPPZf17KYPP3uLWn0VNFVikXU0xoGQvwcBzMqH4cafYXvTrzJGyXj36EpvBz2InP5VYGn2EFkj/0HyVZqdKTsnwWWA/aEy1Ki0zw9mBt+nhS6K47R2GfxPLeGlthRko=;cVQr5nfZnx+uim4xwtX4hA=="
+secured: "/JtfB98AMTo4+N98j8q9PdtjZ1PzhRquPxtsCA6gaZ/g1lFvI86avMD1m4qsSbtfwBqMNZ+6Quf1OCSjAqgEwvuVFLDnxjN/Q/OfvdyW1FWNC+3qHs8RJMoGrYZdAbavqpOs7lXz0Lv1mXPOtakkoHlpjvIeEoyCniFM0D8IZwtlD/Wf0mdAtNX25w6h07U3qr+SjePITSPTrgPEEzDdSjBB0SqsORNvXY4A6lDQpDeAmZ8foWB0WSeG4jBGpk6pyH8UkzzgosB6ZG+DzwNDNycJ1TCGxnd7DzEpRYq2Sa1pYiSlgMNcZ6hda/s9XZFmJ4XTlH4s2ZGUltkIi0A8TBj2GXHENYRrjv/ej5W6VZs=;tLK1t2gP1DLi3zIP590MMA=="
 ---
 

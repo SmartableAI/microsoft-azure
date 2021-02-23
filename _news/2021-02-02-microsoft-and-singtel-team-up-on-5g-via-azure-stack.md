@@ -68,17 +68,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "The adoption of Azure AD reached 425 million active users by the end of 2020 and last month Microsoft reported a 50 percent increase in Azure sales in its second fiscal quarter of 2021."
-    publishedDateTime: 2021-02-11T13:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad-1030072556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
   - title: "KLAS recognizes Microsoft's momentum in healthcare AI"
     excerpt: "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create"
     publishedDateTime: 2021-02-08T08:00:05Z
@@ -339,6 +328,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
+    excerpt: "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer,"
+    publishedDateTime: 2021-02-11T07:08:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210211ny77132/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 31
   - title: "General Dynamics Information Technology to sell Microsoft Azure to US agencies, AWS to Defense"
     excerpt: "General Dynamics Information Technology will offer Microsoft Azure to all of its federal customers, and make Amazon Web Services available to Defense agencies through the milCloud 2.0 contract. For more breaking data center news,"
     publishedDateTime: 2021-02-05T12:04:00Z
