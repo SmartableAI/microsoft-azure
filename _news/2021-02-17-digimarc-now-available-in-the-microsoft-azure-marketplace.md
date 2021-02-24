@@ -354,6 +354,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Introducing Microsoft Cloud for Manufacturing"
+    excerpt: "Filled with unimaginable change caused by the pandemic, the manufacturing industry witnessed a perfect storm: a significant disruption in terms of business continuity, operational visibility, remote work,"
+    publishedDateTime: 2021-02-24T21:05:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2021/introducing-microsoft-cloud-for-manufacturing"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 22
+    images:
+      - url: "https://www.automation.com/getmedia/a1c0ecbf-7fd4-4b04-a0c0-8aa585367c84/Microsoft-photo-feb-24-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z
