@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/de-ch/2020/09/17/one-year-microsoft-clo
 webUrl: "https://news.microsoft.com/de-ch/2020/09/17/one-year-microsoft-cloud-in-switzerland/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1024
     height: 560
     isCached: true
+
+related:
+  - title: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud"
+    excerpt: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud Bug Bounty Switzerland launches the first"
+    publishedDateTime: 2021-02-24T03:58:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/bug-bounty-switzerland-launches-the-first-swiss-ethical-hacking-platform-on-the-microsoft-cloud/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/bug-bounty-switzerland-launches-the-first-swiss-ethical-hacking-platform-on-the-microsoft-cloud/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/bug-bounty-switzerland-launches-the-first-swiss-ethical-hacking-platform-on-the-microsoft-cloud/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 30
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Bug-Bounty-Switzerland-launches-the-first-Swiss-ethical-hacking-platform.jpg"
+        width: 768
+        height: 416
+        isCached: true
 
 secured: "qHuPFGjBmewbNo5nzbJInhneCVCwfm5aCtaxVfDsyR5IT8JaZVPJwnGUk8l3mgmZHMDohQPHlHD+f6rhjICQn/9rXgZWq2dK+aunMox7pLEMaimxkJrPH4m6oh8SPqUF/dyR36hsEUXzYe7j9XVESEnvpcSZU6l0DckdIYIzI30ZbmFr9ALJXaadMyIAwlHV6IlHUVjjZIxDyjQ8kVPLfux8gbwbl2urQyHbHjz5TJx/vQ288QqFDrJqbkM6apm0gsCQ1hRLhnVjB5XdzQ2hysjAM7y5u8cFtZs2e0HWvDTmYE/o81Ht+VVLXlvLw4wbJMRzPQ15Vw1wRnB1pzuRXzcRnM4nghtR0IyqSO0ZJnk=;7DTfJALY0AteHKwRXsYzRg=="
 ---
