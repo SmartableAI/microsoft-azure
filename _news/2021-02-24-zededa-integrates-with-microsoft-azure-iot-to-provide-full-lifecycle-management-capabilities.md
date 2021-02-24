@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
+excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
+publishedDateTime: 2021-02-24T01:16:00Z
+originalUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
+webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
 type: article
-quality: 17
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
+  - IoT
+
+images:
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -200,20 +207,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
-    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
-    publishedDateTime: 2021-02-24T01:16:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -340,6 +333,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z
@@ -368,6 +370,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "QyAvI99XpNS/o9vOXA2ldOLIUgyPBCgt2pzVvgkn5ymdH162D9TR7WVPdGJ8Tb/2bR8kZqWdp3hsDYprNlKS/mz539lOS0+OfpOHS+ZyP5sPg74mCe4ae1Vk1c9AZyJFa2HUZLo+GSczT/22XcRjNNMWMnEGeCELhwEgLgDAB0HuwHF6mmDJZxCnrE5MKU27krfCcXGms0a0/faCf2fkVNZ5leJyyiJ4bxRM4rwx1FpW6udHaxhZwTM5q2M9C8t+Vwn8VTzSOwvj96xKVJx5MLFFmsAGkgWjfbPz5yQuugbOokEEp6j7MgXZhhfSEAPcb5MXmky60gFL9G7Ol7rHOe9OLfMmGdXtzXsPSSkCGgA=;qK2EfvVpMo80m5OYaDMcCA=="
+secured: "Lh/O2CzqUWV8vd8YbMddv4ev1+ie+IWDyKN8VahNA83JZhdici5l8810dt9kkadBTBxqBYPWvZM5EJ5OYLjnUsAOVGVY+vSIdz5a2e05djgaBkDPqsroogklStAxuetfzwYDgiTLxIC2PqWPO55w7Se8bXatvzekb+UdTu1Z3Zvwa8Rna4VhkVqcZsyI3Nzt3Mltpxlhq+Rq8dfsXqlyEiu3BiDnxR7klLX99UwbwZ3luZtiIsIfYl6OAdTUnAr5lQPL+MF0x685hginOKWsEo3yilXiPq7usVyFrHiRaCv31wCBwtVI9+qKAzBD8IjHSkO++C31SUMqHdGc/ebm8mitOnPZM+x47fUCUK/WZ4o=;hipHQIcnx8UWuOkwqHZJIw=="
 ---
 

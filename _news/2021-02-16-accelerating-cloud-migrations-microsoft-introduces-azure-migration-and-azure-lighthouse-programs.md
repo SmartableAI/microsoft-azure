@@ -207,6 +207,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
+    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
+    publishedDateTime: 2021-02-24T01:16:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
     publishedDateTime: 2021-02-18T15:02:00Z

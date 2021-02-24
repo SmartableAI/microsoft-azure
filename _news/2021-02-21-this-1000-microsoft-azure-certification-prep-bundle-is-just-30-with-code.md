@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-c
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
 quality: 95
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -196,6 +196,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
+    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
+    publishedDateTime: 2021-02-24T01:16:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
