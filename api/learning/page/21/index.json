@@ -4,49 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-app-registration.md",
-      "title": "Implement app registration",
-      "excerpt": "Implement app registration",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-app-registration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 5,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
       "title": "Implement CI/CD with Azure DevOps",
       "excerpt": "Implement CI/CD with Azure DevOps",
@@ -228,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2235,
-        "average": 4.659955
+        "count": 2236,
+        "average": 4.660107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -655,8 +612,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
       "length": "PT45M",
       "ratings": {
-        "count": 20,
-        "average": 4.95
+        "count": 22,
+        "average": 4.9545455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -785,8 +742,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-innersource-program-github/",
       "length": "PT50M",
       "ratings": {
-        "count": 199,
-        "average": 4.753769
+        "count": 200,
+        "average": 4.755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1040,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5544,
-        "average": 4.740981
+        "count": 5545,
+        "average": 4.741028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 373,
-        "average": 4.7587132
+        "count": 374,
+        "average": 4.7593584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,6 +1248,50 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming.md",
+      "title": "Process streaming data with Azure Databricks structured streaming",
+      "excerpt": "Process streaming data with Azure Databricks structured streaming",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-process-streaming-data-azure-databricks-structured-streaming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 95,
+        "average": 4.610526
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/process-streaming-data-azure-databricks-structured-streaming-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],

@@ -4,48 +4,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing.md",
-      "title": "Explore the key concepts of quantum computing by using Q#",
-      "excerpt": "Learn the fundamental concepts of quantum computing by using tools in Q# and the Quantum Development Kit.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-qsharp-explore-key-concepts-quantum-computing/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/qsharp-explore-key-concepts-quantum-computing/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 64,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/quantum/qsharp-explore-key-concepts-quantum-computing-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-query-azure-cosmos-db-with-apache-spark-for-azure-synapse-analytics.md",
       "title": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
       "excerpt": "Query Azure Cosmos DB with Apache Spark for Azure Synapse Analytics",
@@ -229,8 +187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 7,
-        "average": 4.428571
+        "count": 8,
+        "average": 4.375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1260,6 +1218,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/rust-error-handling-social.png",
           "width": 1280,
           "height": 640,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-rust-generic-types-traits.md",
+      "title": "Implement generic types and traits",
+      "excerpt": "Understand what generic types and traits are and how to use them in Rust.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-generic-types-traits/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-generic-types-traits/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-generic-types-traits-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

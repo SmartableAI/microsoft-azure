@@ -4,44 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-front-door-service-preview-azure-friday.md",
-      "title": "Azure Front Door Service (Preview) | Azure Friday",
-      "excerpt": "Sharad Agrawal joins Lara Rubbelke to discuss the recently announced Azure Front Door Service, which takes your application availability global and real-time while maximizing performance by connecting you to your users using Microsoft's massive global edge network. In this session, you'll learn how to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-front-door-service-preview-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-front-door-service-preview-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=3Di9H1V0zuc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Di9H1V0zuc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:55:56-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3Di9H1V0zuc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-reserved-vm-instances-ris-azure-friday.md",
       "title": "Azure Reserved VM Instances (RIs) | Azure Friday",
       "excerpt": "Yashesvi Sharma joins Scott Hanselman to discuss how to significantly reduce costs up to 72 percent compared to pay-as-you-go prices with one-year or three-year terms on Windows and Linux virtual machines (VMs). When you combine the cost savings gained from Azure RIs with the added value of the Azure",
@@ -1165,6 +1127,45 @@
         "Azure",
         "Management tools",
         "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday.md",
+      "title": "How to execute Azure Machine Learning service pipelines in Azure Data Factory | Azure Friday",
+      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show how you can run your Azure Machine Learning (AML) service pipelines as a step in your Azure Data Factory (ADF) pipelines. This enables you to run your machine learning models with data from multiple sources (85+ data connectors supported in ADF). This seamless",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-execute-azure-machine-learning-service-pipelines-in-azure-data-factory-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=9i8yJDpEKhQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9i8yJDpEKhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M35S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-10T16:23:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9i8yJDpEKhQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

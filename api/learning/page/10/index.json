@@ -4,6 +4,127 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
+      "title": "Explore data ingestion in Azure",
+      "excerpt": "Explore data ingestion in Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-data-ingestion-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 749,
+        "average": 4.751669
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-data-ingestion-azure-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
+      "title": "Get started with Azure DevOps",
+      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 7523,
+        "average": 4.7269707
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "DevOps",
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
+      "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
+      "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 850,
+        "average": 4.687059
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/improve-api-performance-with-apim-caching-policy-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-linux.md",
       "title": "Introduction to Linux on Azure",
       "excerpt": "Discover the unique benefits of running Linux on Azure, and how to run Linux-based applications and workloads in the cloud with Azure.",
@@ -11,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 1356,
-        "average": 4.738938
+        "count": 1358,
+        "average": 4.7393227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +216,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 864,
-        "average": 4.7395835
+        "count": 865,
+        "average": 4.7387285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -206,8 +327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6559,
-        "average": 4.7055955
+        "count": 6561,
+        "average": 4.705685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -322,8 +443,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3050,
-        "average": 4.6740985
+        "count": 3051,
+        "average": 4.6742053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,42 +470,6 @@
         "Compute",
         "Storage",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
-      "title": "Core Cloud Services - Manage services with the Azure portal",
-      "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tour-azure-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
-      "length": "PT1H13M",
-      "ratings": {
-        "count": 52894,
-        "average": 4.71078
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Management tools"
       ]
     },
     {
@@ -631,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 1437,
-        "average": 4.6764092
+        "count": 1438,
+        "average": 4.6766343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -752,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 9028,
-        "average": 4.66327
+        "count": 9029,
+        "average": 4.663307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -788,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3287,
-        "average": 4.573471
+        "count": 3288,
+        "average": 4.573601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -826,8 +911,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 686,
-        "average": 4.7740526
+        "count": 687,
+        "average": 4.774381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -940,8 +1025,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2230,
-        "average": 4.7017937
+        "count": 2232,
+        "average": 4.7020607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1061,8 +1146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 1380,
-        "average": 4.8166666
+        "count": 1385,
+        "average": 4.8166065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1088,83 +1173,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer.md",
-      "title": "Improve application scalability and resiliency by using Azure Load Balancer",
-      "excerpt": "In this module, you will learn how to use Azure Load Balancer to distribute traffic between multiple virtual servers or services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-app-scalability-resiliency-with-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 2597,
-        "average": 4.734694
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-app-scalability-resiliency-with-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-commercial-marketplace.md",
-      "title": "Introduction to the Microsoft commercial marketplace",
-      "excerpt": "Overview of the Microsoft commercial marketplace, including Microsoft AppSource, Azure Marketplace, offer types, and Marketplace Rewards",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-commercial-marketplace/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 1133,
-        "average": 4.7872906
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
