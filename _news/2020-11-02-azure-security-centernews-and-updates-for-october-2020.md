@@ -65,6 +65,20 @@ related:
         width: 1506
         height: 872
         isCached: true
+  - title: "Azure Cost Management and Billing updates – February 2021"
+    excerpt: "February brings two big releases for Azure Government—general availability support for Pay-As-You-Go subscriptions and the cost allocation preview. You'll also see informational insights and a new download experience in the cost analysis preview, new ways to save with Azure, learning videos, and documentation"
+    publishedDateTime: 2021-02-24T10:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 93
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11bf2f67-c65a-492a-bb2f-f0c9a29c4d6a.png"
+        width: 1786
+        height: 1027
+        isCached: true
   - title: "Azure Cost Management + Billing updates – July 2020"
     excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
     publishedDateTime: 2020-07-29T10:00:28Z

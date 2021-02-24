@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Cost Management and Billing updates – November 2020"
-excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
-publishedDateTime: 2020-11-30T10:00:06Z
-originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+title: "Azure Cost Management and Billing updates – February 2021"
+excerpt: "February brings two big releases for Azure Government—general availability support for Pay-As-You-Go subscriptions and the cost allocation preview. You'll also see informational insights and a new download experience in the cost analysis preview, new ways to save with Azure, learning videos, and documentation"
+publishedDateTime: 2021-02-24T10:00:14Z
+originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2021/"
+webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2021/"
 type: article
-quality: 99
+quality: 93
 heat: -1
 published: false
 
@@ -23,14 +23,11 @@ topics:
   - Storage
   - Management tools
   - Databases
-  - Compute
-  - Serverless
-  - Web
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
-    width: 2545
-    height: 1146
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11bf2f67-c65a-492a-bb2f-f0c9a29c4d6a.png"
+    width: 1786
+    height: 1027
     isCached: true
 
 related:
@@ -57,6 +54,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Cost Management and Billing updates – November 2020"
+    excerpt: "Get your budget emails in the language of your choice, enjoy a preview of new cost views optimized for resources and reservations, and take advantage of even more ways to save money! November is as action-packed as ever. And don't forget to check out new videos and documentation updates to help you be"
+    publishedDateTime: 2020-11-30T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1c05119-f726-4026-a91a-cb47b077522c.png"
+        width: 2545
+        height: 1146
+        isCached: true
   - title: "Azure Cost Management + Billing updates – April 2020"
     excerpt: "Whether you're a new student, thriving startup, or the largest enterprise, you have financial constraints and you need to know what you're spending, where, and how to plan for the future. Nobody wants a surprise when it comes to the bill, and this is where Azure Cost Management + Billing comes in.\r\n\r\nWe're"
     publishedDateTime: 2020-04-30T11:00:08Z
@@ -70,20 +81,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
         height: 872
-        isCached: true
-  - title: "Azure Cost Management and Billing updates – February 2021"
-    excerpt: "February brings two big releases for Azure Government—general availability support for Pay-As-You-Go subscriptions and the cost allocation preview. You'll also see informational insights and a new download experience in the cost analysis preview, new ways to save with Azure, learning videos, and documentation"
-    publishedDateTime: 2021-02-24T10:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-february-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11bf2f67-c65a-492a-bb2f-f0c9a29c4d6a.png"
-        width: 1786
-        height: 1027
         isCached: true
   - title: "Azure Cost Management + Billing updates – July 2020"
     excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
@@ -195,6 +192,6 @@ related:
       domain: microsoft.com
     quality: 68
 
-secured: "tIk9C71ZkPro3qKA6gg/Tv1LB1aaX2peG3Gp4tSWnAERc4tvw6vu1DtWlBr5juppzoZ8P3Wy5wGetg6iBgxPx8kUOiK1L86rgDznT2Rk0s67Gck4GKhYiDotwKMZ4ZPH5/B7jB1BCPZqLcXKE+BIkt6OLLtvlGmzGbhfSXSTVkiuIdvEEC4oDBbRqqRAkRpk1NCkiyIaPUpFZXhERk0C2EZdoyRBLgTWnK9S8uZAUW6cvjlXLnm5vcQ0dtHam7fkaMZIe/E9cRw3AX7QuRw10KRxwsMuJ4Ww92ahubZsHBRgZf264w/1gMEc/m/tSFUvBixqBwMRr41ZvWi2bDVwdnosxJxgZjq6V6ObTaP43D0=;Qwv6VxMTqtWULhVkePTgqQ=="
+secured: "Eh/wpMij/eC2M5kwGpUUnM9NowQFRx/+F7VJFBlt0TKvr9UcMp47CyVf2iyueMKBMBSWF62PDMESygwedcQiyA5R+G9MZPb8Tt5O2lgkWlRLK0ukJziYLRS542BYguH0srA6d6K/C3uIrcf5CW45Xexe5xsa/5JsPLKukV7dQSKwsHviXWVnYBZEv8VyA8rWkevDFE7EKi0dkthb7YEHwZxnxoO82johO9wdEEVezmONT4tYV1RQ+F6kKxNXvRHThqaOBAvFpt9mRbDD8VOD2lHypJ8OqxAuU3OctAz/JILdHyJlKwsCh9/z5dQ+S+JSvqPrEA+csR+xqD4G2WQW44DwivBhUgxYWL/oCltIWqQ=;B1c6HJyI/wfHp89Ge3vTgw=="
 ---
 
