@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 1591
-  average: 4.481458
-heat: 50
+  count: 1592
+  average: 4.481784
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Developer tools
 
-secured: "q2y8rqzco6rVzn1NSQ7ByEReJ1xHfrGLZmMgHXigNHnBbfEtr2sOb8vQEISHsf4oIsbkPZJoew2eD2WhyCYtpgxewUGWpAZqwHi2hjD7ejGzFrSIndkhh1jHWzNcim8BnCqxQxG+PqseeQBmYV9u4HRohhNErzduRh8V40tWPX31guXqboVzsvrsI2dIbQD0uFSd02O42X64IsFmy6JJoEBFfZqX8DH/4Fms+i5dfdnmXTPmNYTkwWu/3DFS8Boi+n7ZJBPWDPc877U7E6Ke8+MqH9WAPG2uZnPdnWZLXPcCGkHOjRPmkQCcNJiv0Rhqty6q8FCYytWCwKgIYsVY3Vdgv+IqHeYEFyOMs4iuOBtsnc223hC03PgkulsVO5PCENXHcZuPpsG868jDEBnYVR/JCC7Tkyldrre+uKsUJ0g=;2w3B2rV53/CdGdGAqd0MOQ=="
+secured: "E5Asyj3BXlonUVX7ykzijroZaMpy84b0SyG/9mKExWdDf+G4ugCjeppsYE0xfYzac7kksu9g0flB8jINcMwjNTgQQR9PKUOHxPWHq/X/f+NwY6yZr9p3g1HmJiN5LGSGz5pHXoMDk606+/oj+Syw9NtO8YaxHqYSGCqBoelBHGgv3geq69zOoh4MSkWIboOxsDdU3UeFWjUQP07LrI/02MKguqDKQAf6626oc993O3h3tWwadUQEfU7ageU4eucAWV52ryar2PWMjciqHw9jpOeswSlmu/LYit4Veh2ibGCRQyEVHDslmQPtaD7OMPrwo76JbI4LqII6tuciSw0ZlCOjZ5pn6S94nHjAmWxJWgY/ksuJau/EFpkLDE9TrfjkrcTEPCN1c0tksSGTAUxCxIxNYnc7Zd5Pg5SYs8iZZCI=;91cTWhmTN5ulmW6x7Zqrgg=="
 ---
 

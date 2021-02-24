@@ -8,7 +8,7 @@ length: PT35M
 ratings:
   count: 4166
   average: 4.649784
-heat: 55
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - Databases
 
-secured: "v4ktM2ch52vE0oMQpLSGXqAO97Q6K4uHNAnwkTepW1jBqqyVnRXT83H0+Dr/1P4pjNny76DEKoIeTogDviRko/vH/YpDfTM6785JkmUzooAUIw0ASpsEEj+RVWTTAfJye1EnErBZ3pseuuZktALgK+IAoBdLTRbRbjN91/J1vimaG7ZzKSGqGmvjXm/2lgm5GSmJGp1tSL2gH7klZyouJRJkX+Yk8h7mNBAZHBGniaJP8PyITPZk220gJXc36gUAYN5VIsxcABej5eXYbm+5gHqay6AIsHsuRBZGBqVfz5FXaA5GDoTxI1lQ8ZY7eD9mmFC8sap8cXp255s8LxfBADdnwq8wfujF2TV3yt5qu9LOwdkv+cDjXk2tP+c+WQbvgvf7hId0QvAKE+rk7d4ITLiDfYJYfrRpCJB+0CRBmbo=;PTeaaxGs30vwU2zG26dMuw=="
+secured: "KNsIAYV7G5EaBdyE+Pv6QjWabSChUeSdP9vWkW1qm1P4XY7V9di5PJSVtKhyVHmYRoGViSNwvyvTzObfjYeydDMgDaO507dU90MaqFfwQXaUAbMIoRmDn7V4An2n+LGMRUfEZtxmvfmUbjVo7hO7zAiQMAtSsCNQiHn8SmpOIYvhaMCCPx79OTygEansm7+2WOxm/6fvwd+wOekfdlCLfQhDcQR9ASC5vg9Lf3p6JLkFI3unFpIzGSHWjnAwUN97zuE9WKdjxV0ccR48oznYKiKp1qXmQEJ8OkvEcUC2bBvADK7zvd++6FaaHJf5QnW9qRQqEjXQweOM9z79t1akYf1KV/9Y40umucAoPNBPouG24buIXMyCV/DT3g5Omjn6HG/K+stl5tmUFvm1J9wSABsAlYFZdWXu4l39SLBpQj0=;caPuo2QTyacKUuwRYyviGQ=="
 ---
 

@@ -8,7 +8,7 @@ length: PT28M
 ratings:
   count: 1737
   average: 4.7196317
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Qjk9PVnViv1O8HNQwuEWx1HQmGnoG1mSZk4voVM115xgt0bF/likWXi3PIusq7kzgf29BuYbvwz1zR1OL0ayNiwCnQJx0zctbkhvsNsgXJ4aJq62a1HCoodz5ie3Tlv/9ykLz8ITL5ZKR5D7JErY7E3XenYI1zO8VgygRWHSVL5koF4vneaau4acXt3WFFUMoJRqORDa2ezl0VvQR/HD6I7vhRhGcSsi+NKk+o4oA1w0Y4HvKqj+WAI/zSDw4nWerNBpC0NYfI8LJoZaGibxsWbWdz4+Bkt7J4Frzz4bSXdA/eZklM+/q4vt+PGBIRXHu0ayRjdTEc8i0hzdozNPmTGXjZGxM6NtcdUlkGMRaQHLNnBOzUW0hgZ6EvYapq1W+UXXARCA3LZuKcQoVwR75B5O8vArqvizfyTcUc5zrHg=;St6ISyAeYchS8lHeljOviA=="
+secured: "B6eSlWdISnzfL/FR51463fGqZKhm3LrTPJYdKLxodfn63TkuRKkD5PHgQHOm8qxPigI1KlRXbLcwjtneC3LV04XT1Xb9Un+yvTd+aYGaqpsEl31MsXRLTmx3CJ5rThj8sKUHJAPoKfinaSlajn/Cb2vrtr0dystev2XaBDp+IVFsJqEiLQkXBb4Mm+8IbCPNmBE9sLQ0ZsZ/Qi3BfIXm5+dWs0iCKf4TPAQ49NHftZNkqUumiioFc6aN2snEEwaN/+2iz00oY1H5xxUx1NlwrRMqMAdak3EQJL1hpmOhc74T7OCdO85/M9FnLYXC/dCLOY2iS1O7fScoswg7PIkQdNQMsVKwJuDt+RBp85DLQ0fqWJdrLThwA6lVXbX4G2GmDSgcPju/lXW2yt4CKqeme6cV3xolV39NrUfCLSFce9E=;ohKBGy24i+iRfFv5OGDwdw=="
 ---
 
