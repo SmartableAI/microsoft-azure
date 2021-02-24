@@ -1411,6 +1411,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
+    excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
+    publishedDateTime: 2021-02-24T00:10:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10152_hero.png"
+        width: 2300
+        height: 1293
+        isCached: true
   - title: "Microsoft unveils Azure for Operators in most aggressive cloud telco pursuit to date"
     excerpt: "Microsoft has announced the launch of Azure for Operators to begin what the company calls 'a new chapter' in its telecoms industry collaboration."
     publishedDateTime: 2020-09-28T17:53:00Z

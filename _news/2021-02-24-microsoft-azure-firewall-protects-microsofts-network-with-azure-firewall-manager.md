@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
-excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
-publishedDateTime: 2021-01-28T23:36:00Z
-originalUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
-webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
+title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
+excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
+publishedDateTime: 2021-02-24T00:10:00Z
+originalUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
+webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
 type: article
-quality: 37
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
-    width: 647
-    height: 450
+  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10152_hero.png"
+    width: 2300
+    height: 1293
     isCached: true
 
 related:
@@ -1240,6 +1244,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
+    excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
+    publishedDateTime: 2021-01-28T23:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
     excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
     publishedDateTime: 2021-02-02T10:39:00Z
@@ -1396,20 +1414,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
-    excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
-    publishedDateTime: 2021-02-24T00:10:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 32
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10152_hero.png"
-        width: 2300
-        height: 1293
         isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
@@ -1770,6 +1774,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PaEv033L3HYaYN6WcSkxRIMsDP3IbL7RgrIz27B5FdsdntYzTREc1eOzGwLg+PhC59bRCL2no7jEUp+kjKf1OoycbYecN9KrdHZ/bdmgTgpH2ts7wXNkJku2LmmxGZKr39VLZNMZZUIozJjmk7Kw6LYWH7zxgvrX+/hbKIDZ+KVx337MkzP37GwqMredvzxao2CLAg5nbZbFQXGMJL9PoyFixk7nLpBxxkfZPA0uz38KJj0sljG7rBJJ8A6gLu9VHHq5qmJ+BDZzDQwRHPblUSTDFLgZOAtqqeU+Fv69CjoMpWYZez2mgBU8K5C4zG2fe7DGW/Ocy88bF+4XAmT9DBHgHW1dV0MyP29jOWFhw7Ko1ngPznFjlX6+y20oSFDdZgQYlFt7ZwEbdlWWMV9CPtbwFUMWeXcPtP2B0ZRK5AQavQcvvfayDGZTODHnt4UYwhmrGlEg95Qb5AucqQcGjd3lPF4+QLV/a7R93L06pjGCPRXvGcnKAgBGWdZF4GwTikdiK/5EInQD7IdDO7YhcQ==;SwAYYpR3DELmL7oLuqBMfg=="
+secured: "+PYhXVhNt728Gv2dPhD7RS+j0svgTyvNYPNYDSuF1DP020ipqILmXzSM89ZBp2lDCxflgQWnxmiN/XXl7wCf/sCGnLLmkqmYyBSbaP1V5EDDnSs0oVY0GLUsDyprmj5Oyliarn3UMy7FeMehgIgGRah3cIyMorCjxyzAE6pQjllBSpCGt6+BQP1c7vlzoUiCQ0lAtRjpO477pXlSTDFjluALbmj0LfSojVCm93MB3/RAW16pVBGRQrbQabe+eypj2iDlf+cc/ftaethc6sPOvEeVP5Rlx4zew+ffhDRLb3k5ADxzdnrxk2SxH0I43nTtG9dtnGflnx8zyxR/ZA/T8YcfJVUBiA4zRA5YfHbbfEM=;uEQ+TeGSQ6B4XYzCgEAseQ=="
 ---
 

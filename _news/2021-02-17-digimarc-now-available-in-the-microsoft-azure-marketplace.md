@@ -3,8 +3,8 @@ category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
 excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
 publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5/gallery/45032971d4ac596d360268beb2cd783c"
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
 type: article
 quality: 17
 heat: -1
@@ -354,6 +354,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "J3UP8jsyovbdcWHZU22vdA9hFcmSCQ4PowwWH11aXV4a6m7H2HtH/c1am3adoqWO8BnmhbH0XB7Ye2VayvPt5M9hCLu9+NFLVnj4X1G6Fr0g4f/MxmIi336kKozdig6l4KS2YdJa4JR0k8wU+Mg0N3gaw/kfto9TLJhm80gxTl1T//zNN3Y7rz94elbQYi94YWt7RpXqwZ8inwgHwMdgA7qIGvOr8LJZ8kt/iIMf8xaI/0zkRenItr7CsjeKFZBwVhzoH/ffYgvWv90CBrG1o5Llp9zPX3nchnU5cJvvwesdhECy3AjW9YRUFf2KONQbmQcjqAqeIGbG1LXkiBqBwDURiQeYCJNo/R7v+tqyIbg=;rUKYl6myQLe8xCWYc7gskA=="
+secured: "QyAvI99XpNS/o9vOXA2ldOLIUgyPBCgt2pzVvgkn5ymdH162D9TR7WVPdGJ8Tb/2bR8kZqWdp3hsDYprNlKS/mz539lOS0+OfpOHS+ZyP5sPg74mCe4ae1Vk1c9AZyJFa2HUZLo+GSczT/22XcRjNNMWMnEGeCELhwEgLgDAB0HuwHF6mmDJZxCnrE5MKU27krfCcXGms0a0/faCf2fkVNZ5leJyyiJ4bxRM4rwx1FpW6udHaxhZwTM5q2M9C8t+Vwn8VTzSOwvj96xKVJx5MLFFmsAGkgWjfbPz5yQuugbOokEEp6j7MgXZhhfSEAPcb5MXmky60gFL9G7Ol7rHOe9OLfMmGdXtzXsPSSkCGgA=;qK2EfvVpMo80m5OYaDMcCA=="
 ---
 

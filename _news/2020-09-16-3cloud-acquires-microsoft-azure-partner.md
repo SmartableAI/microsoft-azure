@@ -1405,6 +1405,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
+    excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
+    publishedDateTime: 2021-02-24T00:10:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 32
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10152_hero.png"
+        width: 2300
+        height: 1293
+        isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
     publishedDateTime: 2020-09-22T23:54:00Z
