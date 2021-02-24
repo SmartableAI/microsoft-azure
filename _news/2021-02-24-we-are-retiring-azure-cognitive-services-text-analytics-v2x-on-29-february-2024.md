@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
-excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
-publishedDateTime: 2021-02-23T19:00:32Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
+title: "We are retiring Azure Cognitive Services Text Analytics v2.x on 29 February 2024 "
+excerpt: "Transition to Azure Cognitive Services Text Analytics v3."
+publishedDateTime: 2021-02-24T19:00:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/we-are-retiring-azure-cognitive-services-text-analytics-v2x-on-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/we-are-retiring-azure-cognitive-services-text-analytics-v2x-on-29-february-2024/"
 type: article
-quality: 64
+quality: 96
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - AI
+  - Analytics
 
 related:
   - title: "AKS legacy Azure AD integration will be retired on 29 February 2024"
@@ -40,15 +42,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 100
-  - title: "We are retiring Azure Cognitive Services Text Analytics v2.x on 29 February 2024 "
-    excerpt: "Transition to Azure Cognitive Services Text Analytics v3."
-    publishedDateTime: 2021-02-24T19:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/we-are-retiring-azure-cognitive-services-text-analytics-v2x-on-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 96
   - title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
     excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
     publishedDateTime: 2021-02-23T19:00:31Z
@@ -58,6 +51,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
+    excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
+    publishedDateTime: 2021-02-23T19:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
     excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
     publishedDateTime: 2021-02-22T19:00:03Z
@@ -167,6 +169,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "ZTFR2oBgihUux5dsL9yH67byrVEogwGn/6QIIHRLwuIuPs9IAw3DtLm87aQuvsESclfwid9XSsZNpOeiyi0HiPz5cohmu1Vv9yV7Fs2nPoZKH/wvlktQ1VXGdxGD7lPuxKt6OalgOYfI8vmdhjq91IjLfHH1mGsoY/Xh1AhU0UczXYV2hkr5cNA0lm/A9oxwPvAGWC5ph+UvOlL1IroWmF9rLYbnoee7cjp+2L124gsFtbSalEr9sLndsrjbgSJKdmjxVGtZ3SwbhJQmLAlors8lwwNOTzq/1DUcg6NmchKwv/6ckS7otI2ki8Uxdh2E1HtOZ6twxKZMz7JdiBn08EUr+2JJ6aMnd/7aQDvsRsY=;xdpZhgppZ8HY2YgVAM3BAQ=="
+secured: "Z+KHUSKCelT/wqdXzYuqhmGBED9FqFGCD/LnExH/yTSmh+/KIv2fk1YF1zvJJNAQlcmnykxwQtNPBrPTYciBlocsKavNpWo/bzBd9s7P316yc3m8hRsRD4FiI162SoGG+IxLxGOR3eL/xDuuYrDVMj5JXl0zKFuhUMnKIQKa/eeNtyTbpji1lqC+AhIcgvrrGD+O7Q6us2KhVIjWJgn53c1cm+GHuYbayE7K9uyrqC6eAsZIwdeXeIiLKEwLnYZbp/ddm5jezP8kTEJLBXJEDE91dcvoJudU5F9TKyOmb2HhZ3gGr6MWoCAZ2SBSXJKLLZ+ohE3/71/ICKbZhVNzuQxC2a/DS02DfSYBu3ZyNCU=;quZf9ectEDq8h1pC58hL8A=="
 ---
 

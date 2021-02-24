@@ -31,6 +31,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Azure Application Gateway analytics will be retired on 29 February 2024 "
+    excerpt: "Transition to Azure Monitor Network Insights workbook."
+    publishedDateTime: 2021-02-24T19:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-application-gateway-analytics-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+  - title: "We are retiring Azure Cognitive Services Text Analytics v2.x on 29 February 2024 "
+    excerpt: "Transition to Azure Cognitive Services Text Analytics v3."
+    publishedDateTime: 2021-02-24T19:00:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/we-are-retiring-azure-cognitive-services-text-analytics-v2x-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 96
   - title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
     excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
     publishedDateTime: 2021-02-23T19:00:31Z
@@ -53,6 +71,24 @@ related:
     excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
     publishedDateTime: 2021-02-22T19:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Azure Batch rendering VM images & licensing will be retired on 29 February 2024 "
+    excerpt: "Azure Batching rendering VM images & licensing are being retired."
+    publishedDateTime: 2021-02-24T19:00:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-rendering-vm-images-licensing-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
+  - title: "Please upgrade your Azure AD Connect sync to a newer version by 29 February 2024 "
+    excerpt: "We’re retiring older versions of Azure Active Directory Connect."
+    publishedDateTime: 2021-02-24T19:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/please-upgrade-your-azure-ad-connect-sync-to-a-newer-version-by-29-february-2024/"
     type: article
     provider:
       name: Microsoft
@@ -85,6 +121,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "Azure Batch Transcription and Customization Rest API v2 will be retired by 29 February 2024  "
+    excerpt: "Update your code that uses Azure Batch Transcription and Customization Rest API."
+    publishedDateTime: 2021-02-24T19:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-transcription-and-customization-rest-api-v2-will-be-retired-by-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
   - title: "Update your scripts to use Az PowerShell modules by 29 February 2024"
     excerpt: "We'll retire AzureRM PowerShell modules on 29 February 2024."
     publishedDateTime: 2021-02-23T19:00:32Z
@@ -107,6 +152,15 @@ related:
     excerpt: "Transition to the new Connection Monitor in Azure Network Watcher.  "
     publishedDateTime: 2021-02-23T19:00:30Z
     webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-network-performance-monitor-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "We’re retiring the standard version of Custom Voice on 29 February 2024"
+    excerpt: "Upgrade to Custom Neural Voice. "
+    publishedDateTime: 2021-02-24T19:00:44Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-the-standard-version-of-custom-voice-on-29-february-2024/"
     type: article
     provider:
       name: Microsoft

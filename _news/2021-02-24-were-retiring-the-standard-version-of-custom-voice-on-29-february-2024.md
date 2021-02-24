@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
-excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
-publishedDateTime: 2021-02-23T19:00:32Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
+title: "We’re retiring the standard version of Custom Voice on 29 February 2024"
+excerpt: "Upgrade to Custom Neural Voice. "
+publishedDateTime: 2021-02-24T19:00:44Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-the-standard-version-of-custom-voice-on-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-the-standard-version-of-custom-voice-on-29-february-2024/"
 type: article
-quality: 64
+quality: 52
 heat: -1
 published: false
 
@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
+    excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
+    publishedDateTime: 2021-02-23T19:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-your-azure-media-services-rest-api-and-sdks-to-v3-by-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
     excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
     publishedDateTime: 2021-02-22T19:00:03Z
@@ -157,16 +166,7 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "We’re retiring the standard version of Custom Voice on 29 February 2024"
-    excerpt: "Upgrade to Custom Neural Voice. "
-    publishedDateTime: 2021-02-24T19:00:44Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/we-re-retiring-the-standard-version-of-custom-voice-on-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
-secured: "ZTFR2oBgihUux5dsL9yH67byrVEogwGn/6QIIHRLwuIuPs9IAw3DtLm87aQuvsESclfwid9XSsZNpOeiyi0HiPz5cohmu1Vv9yV7Fs2nPoZKH/wvlktQ1VXGdxGD7lPuxKt6OalgOYfI8vmdhjq91IjLfHH1mGsoY/Xh1AhU0UczXYV2hkr5cNA0lm/A9oxwPvAGWC5ph+UvOlL1IroWmF9rLYbnoee7cjp+2L124gsFtbSalEr9sLndsrjbgSJKdmjxVGtZ3SwbhJQmLAlors8lwwNOTzq/1DUcg6NmchKwv/6ckS7otI2ki8Uxdh2E1HtOZ6twxKZMz7JdiBn08EUr+2JJ6aMnd/7aQDvsRsY=;xdpZhgppZ8HY2YgVAM3BAQ=="
+secured: "u8ztcJ3BAIDeqTvtl2udxS5HvKS0rA9Lwf4Hc8Dft3cxe92NWs58AWPoKAXy9a1MUEoxWXQxrz01kuMtJCtadYQJqXKvCxgstVvxcpPZmyqKWGCuWtbd77HC9nSRUKRtj6rE7NuDp442McKgkDuYoRykoxCiLuPac/wg5V/KXpNaD8TwbFb7EXQRv6DebC7bGPWr5jhT8lAdakzc0ZelXgraRk4iI1x5A4Pj7wLgIvuRihgiInGQ4Eb/NECL3mIq8dRotaw8Pcp+wpPe5bKDS6jX/EoHWuNKRBMv8Cfpjp/2IEDY86YkWqZ36Y6z9/dGngK1keJubjgf0ciVSr3HOqkluh9thW4jH/2D6kubqX4=;rJ+GiSfI9wedDnExnWfWDA=="
 ---
 
