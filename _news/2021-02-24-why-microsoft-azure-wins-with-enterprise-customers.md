@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Modern VDI Solutions with Microsoft Azure"
-excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
-publishedDateTime: 2020-11-30T18:55:00Z
-originalUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
-webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+title: "Why Microsoft Azure wins with enterprise customers"
+excerpt: "Microsoft often comes off as second best to AWS. But when it comes to established enterprises, Azure wins more often than not. Here’s why."
+publishedDateTime: 2021-02-24T07:10:00Z
+originalUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
+webUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CSOonline
-  domain: csoonline.com
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
-    width: 300
-    height: 300
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/satya_nadella_microsoft_15.jpg"
+    width: 800
+    height: 500
     isCached: true
 
 related:
@@ -1425,6 +1425,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Modern VDI Solutions with Microsoft Azure"
+    excerpt: "But there’s good news: Modern VDI Solutions with Microsoft Azure, focused on Windows Virtual Desktop (WVD). Join experts from Zones as they define VDI (a technology suite used to create a ..."
+    publishedDateTime: 2020-11-30T18:55:00Z
+    webUrl: "https://www.csoonline.com/resources/211308/modern-vdi-solutions-with-microsoft-azure"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/cso/CSO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Microsoft Azure and the Trends That Will Drive its Future"
     excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
     publishedDateTime: 2021-02-19T07:19:00Z
@@ -1438,20 +1452,6 @@ related:
       - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Why Microsoft Azure wins with enterprise customers"
-    excerpt: "Microsoft often comes off as second best to AWS. But when it comes to established enterprises, Azure wins more often than not. Here’s why."
-    publishedDateTime: 2021-02-24T07:10:00Z
-    webUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/satya_nadella_microsoft_15.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
@@ -2065,6 +2065,6 @@ related:
       domain: pr.com
     quality: 0
 
-secured: "7I15I1iWJZy4Q7BX9+QjvVwpzVsLLoqwD56WEsimy5HVQHwLr/Nl0mOKbZrCQZJ+bMB2D0jKwbKSn2heeCmdtM8TewWfRs/ZHm6YUERsmyjCnzz0PuVUuryVJc5Yx3yzzA5iullx/w91fFRxqoF4BYSqVpIbqzMYUjL4Q5aPe08VRmJp9GJQE7RqBfm1qOwilHC0rZl8iW5OJgzLj12bmS3+BGqZnzZbOzRgMZPRJAobBaFkaImiy8R5pPitTk3UTXq6OoRyvNmL/A51spvj/9JhXVVhzqveOZH9lnfoXIlATrBsWkXZ/LQ+/o8l1glJQUKDAms4f6sPaB3Jfd4T/3EBZUxOWbDOJJcDfftRalk=;SkFFH2lCpNHMcfUfmzk5Ag=="
+secured: "Z5ABA7dq493I/PDPvDKWy3YMIANFvJFu1JDAL5H7fHAZIXS+VLX/9U2W+O1o1s++6bYiTNyG6lJnelWHN7nxuvjqv3fOEr6O94owLifOgWkYLMSUljMLMgR1JXWAeFVlCxyB3oSn33Vqrtlfw48y4bcnHMRIk7vY8+0R0PZjoU/1wf5fh7/YS+FRSBkJOL1vY//L+2CTElrT1ki66zFAh8hG5n3AKP6/QfKU7+xpeI0H8QsSPGmSHhLRYEkz4/Xw2FnTXsqHwPttiohOd7+q0VP9B52N0LpJlfzGK4+sscnSpp1ugA3vWCb33i7ddvX+IS6/RPADOMYEjintpjK+BhnapqxYjgmpne9tH3IFufI=;C9fDMLEMJndWNq5frIC3DQ=="
 ---
 

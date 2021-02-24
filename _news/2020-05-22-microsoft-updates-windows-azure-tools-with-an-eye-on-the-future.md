@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/microsoft-updates-windows-azure-tools-wit
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=true"
 type: article
 quality: 97
-heat: 2917
+heat: 2937
 published: true
 
 provider:
@@ -1442,6 +1442,20 @@ related:
       - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Why Microsoft Azure wins with enterprise customers"
+    excerpt: "Microsoft often comes off as second best to AWS. But when it comes to established enterprises, Azure wins more often than not. Here’s why."
+    publishedDateTime: 2021-02-24T07:10:00Z
+    webUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/satya_nadella_microsoft_15.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
