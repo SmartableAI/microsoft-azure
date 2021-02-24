@@ -279,6 +279,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
+    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
+    publishedDateTime: 2021-02-24T12:47:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z

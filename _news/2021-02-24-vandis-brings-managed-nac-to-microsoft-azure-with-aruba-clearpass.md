@@ -1,35 +1,45 @@
 ---
 category: news
-title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
-excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
-publishedDateTime: 2021-02-21T15:05:00Z
-originalUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
-webUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
-ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
-cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
+title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
+excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
+publishedDateTime: 2021-02-24T12:47:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
+webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
 type: article
-quality: 95
-heat: 635
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: PC World
-  domain: pcworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-    width: 630
-    height: 473
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
+  - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
+    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
+    publishedDateTime: 2021-02-21T15:05:00Z
+    webUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
+    ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 95
+    images:
+      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
     excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
     publishedDateTime: 2021-02-16T14:00:00Z
@@ -280,20 +290,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
-    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
-    publishedDateTime: 2021-02-24T12:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -387,6 +383,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "a4g37cX3D+5pLFO/HjmIwdLEVr5MArHc84wk1A7ah35jA5+LgbNsDpxkqiIaI/xfhKuY5dGsMsEB6wnrGJeXQoWG0Zxb+uUXGNCX9Yoy+ngOytMRnKlcj5YYYlzBAIHji3+9jvWVDJJOoskijCpT/G2d+7fKg1JCo5gkSd2+idgazxUZbS6n/undspLAIWyxBr0XuFEpVPZSo1VmkpHa3Dhwzo/Msyct/WsK990UGJXcwE3ndzMTvhLRgj7bg0B63y5xZ5UovCt5HD3fo6sCY8UpcXYqZsYQ2x+psdTihgM0AIUihFS7WBSDB3Dd2igMS5GEhjNHaFsZb+zYOjhtyWHf7GD9ZzFgvuXRCm0TO+AXvpVUqFUHT4p5Inj7PNiU9lhlvHRmajwR6D0jui8ShDQWBN2ZhK7U2aHc9trIMgZwK0+E521jxJozSiQ6msvXQfmHnBBlKpJJXZE0Lysn8r7/OQu1FY/HstC2srpkVpXp0pVsbQWOEAwxyOAGK3DoD/7hZfh0/DU0JHMiaDMxTQ==;zcIzUXfzz0kpqPlofQCRlQ=="
+secured: "7VJEvvTyYoHAMeK7Dex/DJDsBfXEcMEVzFMl3Bu+jSFFipCFXppUdiE6WAbRlw95lv9dQKpAwFniPuGGOgmSW2VW+zTI1+EEOPxIWHWkKdBv8HxAW4WM4clR0hC45yRND5UK2lgwWe7jzVm70HW0FHOb0wXKCbZiIsq4t4ZyH+I/+2NoywDuMXVVUeAk1Es8dTcvd6+MHikYC01QsVHGy3qqa2nuF6ENpEBkwCe5yQ/jrlXhgQsl7A+g/mckLwr6Bf+JOYyIb1N8LWamd1eXlOVAnCWDCkKyf4iPzPHCIYQLCGpGYm3DxoYtioZG9xlq8GHmPyQIBRSBzhGqI/NebVu2jtVUUlKIJg7HUJjlryY=;nxoLQl18Gjn8iOKC6Clwyw=="
 ---
 
