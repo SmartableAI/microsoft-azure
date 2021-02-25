@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
-publishedDateTime: 2021-02-18T20:09:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
-webUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
+title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
+excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
+publishedDateTime: 2021-02-25T14:21:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg?p=facebook"
-    width: 1106
-    height: 578
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -248,6 +248,20 @@ related:
         width: 809
         height: 473
         isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
+    publishedDateTime: 2021-02-18T20:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg?p=facebook"
+        width: 1106
+        height: 578
+        isCached: true
   - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
     excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
     publishedDateTime: 2021-02-19T02:35:00Z
@@ -289,20 +303,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
-    excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
-    publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
@@ -411,6 +411,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "QfwA7EVm/QkLHguhdH7Uqj+6xwFDvszWLU3pZhOUhdnAr3zVBg98LTVFICOd9aUKLlMosqHL90LbZMswMn6XiMs8irl+b6acqFML2cW/ZDr+N9nXJtpafICTjXf2XTe9+PzXFnWjil+9QcXqFQXvE2z0L0gHmaMtAdpEsgtqk2MuXo4ICE71v9fkzHnmW4j8OC3lupogLmmROEaU703o/958JVZ43Qtivi2WdZ4kEfeMokIFIFkiFU+NOVoNMV1Zspkd8/N6slDwH7z/9jc7ICT+fsvZWEVBeHFHBFGpK3HlrDRjetBwpSxsmfLYX4oY46USB6jNjThY+yZDTaVJfnw1jpqfgI76yoVO95br/e8=;1SE2Mg0vu0xk3ZpJvnVnxw=="
+secured: "3CEe50cvd1pKry4uhmJzRmTwwKW9PjiqV64zhY7m+X54o+sxv/k6KP0iUKt47/zXE82iDEComZeIr1f/21DnsGQioHxg07qatpH3/21NkFXmLVfGirswFK1exwWqmX0KTGvxx0By1/PoxiXT+QtMfMH1mOhOEbOYj9Xagni3fM8Xa3AQ6JV7vHc5977O48D4CxP+cANIax3PgxR4kMZZG3Y8zzB/63+lTeI/IOt0AM+qxF57dclo9zB3dhonj9gW8brjJuDXGpya9VeSMoqbYPMtDHoe1+0lpmcCMWJD+w3blRNNG5HjQxhxXQavwNezb3VQ9BptMfepShjDYVmOMLzpPVlVCZfdBpT0tkNvCE4=;ni+xuvAVl7vK4TqzfIl0OA=="
 ---
 
