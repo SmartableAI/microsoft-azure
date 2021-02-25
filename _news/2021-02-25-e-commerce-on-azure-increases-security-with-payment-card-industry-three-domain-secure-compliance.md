@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Web Application Firewall Integration with Azure Front Door Standard and Premium SKU"
-excerpt: "Azure Front Door Premium SKU with built-in Web Application Firewall,  protects your public and private web applications, combines protection with application acceleration and content caching.\n"
-publishedDateTime: 2021-02-19T18:54:22Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-integration-with-azure-front-door-standard-and-premium-sku/"
-webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-integration-with-azure-front-door-standard-and-premium-sku/"
+title: "E-commerce on Azure increases security with Payment Card Industry Three-Domain Secure compliance"
+excerpt: "More customers than ever are shopping from home in the current health environment, and companies are responding by rapidly deploying cloud-based e-commerce solutions. "
+publishedDateTime: 2021-02-25T08:00:28Z
+originalUrl: "https://azure.microsoft.com/blog/e-commerce-on-azure-increases-security-with-payment-card-industry-three-domain-secure-compliance/"
+webUrl: "https://azure.microsoft.com/blog/e-commerce-on-azure-increases-security-with-payment-card-industry-three-domain-secure-compliance/"
 type: article
-quality: 78
+quality: 71
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Integration
+  - Security
 
 related:
   - title: "Azure Front Door enhances secure cloud CDN with intelligent threat protection"
@@ -37,15 +37,15 @@ related:
         width: 573
         height: 388
         isCached: true
-  - title: "E-commerce on Azure increases security with Payment Card Industry Three-Domain Secure compliance"
-    excerpt: "More customers than ever are shopping from home in the current health environment, and companies are responding by rapidly deploying cloud-based e-commerce solutions. "
-    publishedDateTime: 2021-02-25T08:00:28Z
-    webUrl: "https://azure.microsoft.com/blog/e-commerce-on-azure-increases-security-with-payment-card-industry-three-domain-secure-compliance/"
+  - title: "Web Application Firewall Integration with Azure Front Door Standard and Premium SKU"
+    excerpt: "Azure Front Door Premium SKU with built-in Web Application Firewall,  protects your public and private web applications, combines protection with application acceleration and content caching.\n"
+    publishedDateTime: 2021-02-19T18:54:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-integration-with-azure-front-door-standard-and-premium-sku/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 71
+    quality: 78
   - title: "Azure Front Door Standard and Premium now in public preview"
     excerpt: "Azure Front Door Standard and Premium, enables Azure customers to securely deliver and manage their global applications and content, migrate to cloud and modern microservice architectures and improve their users’ experience."
     publishedDateTime: 2021-02-18T17:00:06Z
@@ -70,6 +70,6 @@ related:
         height: 412
         isCached: true
 
-secured: "YvPxHb35Cn52z5WeKn4SMWc9Bzcf6eCZZbg2zVAT/WiSlmnsf3jGpjbooeeb1dlwMolqiUeBzEuZu5tkTzeBz/4ScNFhkKLD+u35o3XkQSUhBwZI1OYlTAXvMavf5CX9qhtrBGdqJBZZlUdGSvSFbPVq9xO/aSqg6/Nbh1KDIpGTbduDJSUZHuUA3WqyLeKX3frcLFb8puJBnSjjJE6Q0O8Mielvq1aIj3d2XvX49vGZvrdPIRFfhvOkb2pzeY2vyWQYlR9rpNObJgur84CbXjOe96Im+qY7MZiVk4/LndX1ZvwThgFZ2MVfnKsB6aUDUO+QJylebxW0FKnpivfOEI+ToBNIrsxXlnSzSXXiJBI=;+8SEe68+AaShb/FZzVbFHg=="
+secured: "jf3xkpTjuMyqm8DVnGNI+jOugA9KAdVBGScYmSRC3LnE2t8Y8NSDXCp5xzVvSdUUiXq/fQ4Tmmff06KPiS0LNEw2t8uiqrWjRQ4Trtg0TzYPI03IqZriHT6pdNUbTk8kgU3aZgG7tpIuFASG5aJZzglM07tPqwlfg/yCOfRz07hHbr+h57LzrzwMO5PYfLve/OnENEURJ9jSe2Rv4yAdDbOIg+VFE2ksD/nXGzpHv+ei9mK9Ms5U2yn8obrMeO6oRJYtAiVMiX6eZCRA/p2R7BBWgDaLrF9tLl4hGIbYG3a1C2GK0MAR0pLzZHJLKtyNzOiyraOOH2kPhmmjy4wP1TmMcb2VuQ9QFSSt8MBvv+I=;EHmmlEnU0MrfDIgfPo6wlA=="
 ---
 

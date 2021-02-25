@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "E-commerce on Azure increases security with Payment Card Industry Three-Domain Secure compliance"
+    excerpt: "More customers than ever are shopping from home in the current health environment, and companies are responding by rapidly deploying cloud-based e-commerce solutions. "
+    publishedDateTime: 2021-02-25T08:00:28Z
+    webUrl: "https://azure.microsoft.com/blog/e-commerce-on-azure-increases-security-with-payment-card-industry-three-domain-secure-compliance/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
   - title: "Azure Front Door Standard and Premium now in public preview"
     excerpt: "Azure Front Door Standard and Premium, enables Azure customers to securely deliver and manage their global applications and content, migrate to cloud and modern microservice architectures and improve their users’ experience."
     publishedDateTime: 2021-02-18T17:00:06Z

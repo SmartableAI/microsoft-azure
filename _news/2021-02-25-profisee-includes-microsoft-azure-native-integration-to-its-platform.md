@@ -1,27 +1,27 @@
 ---
 category: news
-title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
-excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
-publishedDateTime: 2021-02-24T01:16:00Z
-originalUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
-webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
+title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+publishedDateTime: 2021-02-25T15:19:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
 type: article
-quality: 43
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Help Net Security
-  domain: helpnetsecurity.com
+  name: dbta.com
+  domain: dbta.com
 
 topics:
   - Azure
-  - IoT
+  - Integration
 
 images:
-  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
 
 related:
@@ -108,20 +108,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-    publishedDateTime: 2021-02-25T15:19:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 54
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
     excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
@@ -221,6 +207,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
+    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
+    publishedDateTime: 2021-02-24T01:16:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -426,6 +426,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "Lh/O2CzqUWV8vd8YbMddv4ev1+ie+IWDyKN8VahNA83JZhdici5l8810dt9kkadBTBxqBYPWvZM5EJ5OYLjnUsAOVGVY+vSIdz5a2e05djgaBkDPqsroogklStAxuetfzwYDgiTLxIC2PqWPO55w7Se8bXatvzekb+UdTu1Z3Zvwa8Rna4VhkVqcZsyI3Nzt3Mltpxlhq+Rq8dfsXqlyEiu3BiDnxR7klLX99UwbwZ3luZtiIsIfYl6OAdTUnAr5lQPL+MF0x685hginOKWsEo3yilXiPq7usVyFrHiRaCv31wCBwtVI9+qKAzBD8IjHSkO++C31SUMqHdGc/ebm8mitOnPZM+x47fUCUK/WZ4o=;hipHQIcnx8UWuOkwqHZJIw=="
+secured: "VQY03TC/IfmqHhSVuDF1h+o2j0ErRnVd2qfXB0YVedh4NXrhd9b8aPn78UhJ8e4+g/3izFienq01ptov4e8D6zbt/r2x8afwLIfrS0relhY3jG3CeueXVuXCsdYG4rijTYfuUsD0E6G1FlG2/ztV7we23wygejkBvXXSc9TrxXZ6OWYZfkaER86EAO7uEXopCnv/waEY4RulMPvdiImi2D/D/dzjG6ne6aCLgUvH80hbNd111EgicPAyOMpS/Rcu5xBqNDqVBDGPs5rm7ddkzP9T2F5wN6QXrQJLuGfclZTZAmGJsWaZaEh9KkYwrPN8Y1khIJof/sIK0PX0Uttf8uQY9QIOqP2j8BkFK7tZpDo=;4pE4k/B/q3nNugZW64PB3Q=="
 ---
 
