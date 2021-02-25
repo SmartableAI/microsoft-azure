@@ -66,6 +66,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
+    publishedDateTime: 2021-02-17T13:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
+        width: 400
+        height: 306
+        isCached: true
   - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
     excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
     publishedDateTime: 2020-11-24T17:00:00Z
@@ -392,15 +406,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z

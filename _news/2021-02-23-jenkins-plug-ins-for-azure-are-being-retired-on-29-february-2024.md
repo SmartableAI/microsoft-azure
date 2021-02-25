@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Update the Azure Cosmos DB Java SDK by 29 February 2024"
+    excerpt: "We’ll be retiring version Sync 2.x of the Azure Cosmos DB Java SDK. "
+    publishedDateTime: 2021-02-25T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/update-the-azure-cosmos-db-java-sdk-by-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Azure Application Gateway analytics will be retired on 29 February 2024 "
     excerpt: "Transition to Azure Monitor Network Insights workbook."
     publishedDateTime: 2021-02-24T19:00:14Z
@@ -49,6 +58,33 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 96
+  - title: "We are retiring Classic Azure Migrate on 29 February 2024"
+    excerpt: "Transition to Azure Migrate by 29 February 2024."
+    publishedDateTime: 2021-02-25T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/we-are-retiring-classic-azure-migrate-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Action required: Switch to Azure Data Lake Storage Gen2 by 29 February 2024 "
+    excerpt: "Migrate to Azure Data Lake Storage Gen2."
+    publishedDateTime: 2021-02-25T19:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-switch-to-azure-data-lake-storage-gen2-by-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 81
+  - title: "Azure Stack Edge Pro FPGA is retiring on 29 February 2024"
+    excerpt: "Upgrade to the new Azure Stack Edge Pro GPU devices. "
+    publishedDateTime: 2021-02-25T19:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-fpga-is-retiring-on-28-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
     excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
     publishedDateTime: 2021-02-23T19:00:32Z

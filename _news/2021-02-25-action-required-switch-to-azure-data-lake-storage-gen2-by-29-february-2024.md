@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
-excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
-publishedDateTime: 2021-02-22T19:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+title: "Action required: Switch to Azure Data Lake Storage Gen2 by 29 February 2024 "
+excerpt: "Migrate to Azure Data Lake Storage Gen2."
+publishedDateTime: 2021-02-25T19:00:02Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/action-required-switch-to-azure-data-lake-storage-gen2-by-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/action-required-switch-to-azure-data-lake-storage-gen2-by-29-february-2024/"
 type: article
-quality: 62
+quality: 81
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "AKS legacy Azure AD integration will be retired on 29 February 2024"
@@ -67,15 +68,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Action required: Switch to Azure Data Lake Storage Gen2 by 29 February 2024 "
-    excerpt: "Migrate to Azure Data Lake Storage Gen2."
-    publishedDateTime: 2021-02-25T19:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/action-required-switch-to-azure-data-lake-storage-gen2-by-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
   - title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
     excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
     publishedDateTime: 2021-02-23T19:00:31Z
@@ -103,6 +95,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
+    excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
+    publishedDateTime: 2021-02-22T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "The G5 and GS5 Azure VMs will no longer be hardware-isolated on 28 February 2022 "
     excerpt: "G5 and GS5 Azure Virtual Machines will no longer be isolated."
     publishedDateTime: 2021-02-22T19:00:02Z
@@ -203,6 +204,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "Cy9UI5xlla4u9yu7XX2l4yWLyIBfYdqOSAFFD2pjTIumwmiOObhvg+BmsZ2eLSFbqHbSOEDgHq6lHU32/99NIfsZl6F/jkk6M1VUad2XsTQpNZwjy84IPVDK3JCc1TDZYB785z6J5d+MlzuAUqIerVjIQqSTkSR2/uNeAvyZXilDNI5UDl+45rsPzHghKFMSaEd9KGt+qOnViKy0nRLYhYpWsz3os3c4pQLPp5Fi/YiJwcSqc1rD11O/qXlD7z5igGCpL4DVMIQpPhX1JVNmokPov7MRAcQ8Q1lxhYm2SLwqS+67t9Qt6hzeutLoidyZgG5X+B7FUgG5uILB9PCKcY80+RdBnja+Rg4jVPyrS0U=;SiH55IVlOb0shJPIk6Z3NA=="
+secured: "A+69YWlBz+wzjXv3D8B0aqyhs01b9Sicccjz793hFvs1TC7ZaT9lLJ8tE+TWFYv1Z9ABOTxdchBi0svB92xkIbKDmPS9Agg9ZhFXWlbU814+F15TzTYZWFN3cdcKdNK5HMkqIEBIaC26uht/dXXr0jNc14XPr20yiWCS9Kd64T8JzJVZhYge9P/U+KIDx9xZW8G2NtkDbKAkira7isBKnmWgO2Uzz5fr8u0LrAZ77ZxgyY2pqM7C6Gd9e/1N1N6mCle6C4egm0EI6jgfMsrjp6To63ejfcRnUDFvaDjTCgfeD1gnyHKKF+eGPlz2Hc03KZbg2lJO6NoE3XLJctip+ePIQGZDo1o3Now2wooT3pM=;gpMApsHGI1hsDLnT4o6eyg=="
 ---
 

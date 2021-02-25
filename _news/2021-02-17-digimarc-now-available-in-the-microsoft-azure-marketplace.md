@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
+publishedDateTime: 2021-02-17T13:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
+webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
 type: article
-quality: 17
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
+    width: 400
+    height: 306
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -424,6 +434,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "QyAvI99XpNS/o9vOXA2ldOLIUgyPBCgt2pzVvgkn5ymdH162D9TR7WVPdGJ8Tb/2bR8kZqWdp3hsDYprNlKS/mz539lOS0+OfpOHS+ZyP5sPg74mCe4ae1Vk1c9AZyJFa2HUZLo+GSczT/22XcRjNNMWMnEGeCELhwEgLgDAB0HuwHF6mmDJZxCnrE5MKU27krfCcXGms0a0/faCf2fkVNZ5leJyyiJ4bxRM4rwx1FpW6udHaxhZwTM5q2M9C8t+Vwn8VTzSOwvj96xKVJx5MLFFmsAGkgWjfbPz5yQuugbOokEEp6j7MgXZhhfSEAPcb5MXmky60gFL9G7Ol7rHOe9OLfMmGdXtzXsPSSkCGgA=;qK2EfvVpMo80m5OYaDMcCA=="
+secured: "Gx7CtQE5X5060XwJzlwFUKxxWYkQGs04wEtwT0C5voKURcEz3iAodtSEXGl3O2YjqGLxovVemjxXg8XV+DSxaycY3jeLZsRPlr6S4pkNJfpWpFPgzyoPESNug1n8LVPvnjXiL8YQBr/K02ofIeZu5UBW0XE6cj61ep1eIP3zXMZwTCG1b73WZ0MEYdQBd9fXzNCClfNhQXq4GUuqSEq6e68CiXpB0opI7MWiLfWAAEqDQy3YaropWbgOqzZJjK4IDAfamUrIsr5f3nOmPQu5Gem9OsxuzE7Swb5J0Y/G4SULTBoQPHx2prNcs9DLwGXDlZElG/VPtvrNvnNP9QcN3oO/dQMPuUNY9lqL2zEVRcs=;5zE9q7fgqyFhya4RKUCW9Q=="
 ---
 

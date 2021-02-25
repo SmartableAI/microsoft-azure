@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
-excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
-publishedDateTime: 2021-02-22T19:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+title: "Update the Azure Cosmos DB Java SDK by 29 February 2024"
+excerpt: "We’ll be retiring version Sync 2.x of the Azure Cosmos DB Java SDK. "
+publishedDateTime: 2021-02-25T19:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/update-the-azure-cosmos-db-java-sdk-by-29-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/update-the-azure-cosmos-db-java-sdk-by-29-february-2024/"
 type: article
-quality: 62
+quality: 101
 heat: -1
 published: false
 
@@ -20,21 +20,14 @@ provider:
 
 topics:
   - Azure
+  - Databases
+  - Developer tools
 
 related:
   - title: "AKS legacy Azure AD integration will be retired on 29 February 2024"
     excerpt: "Transition to AKS Managed Azure AD by 29 February 2024."
     publishedDateTime: 2021-02-23T19:00:31Z
     webUrl: "https://azure.microsoft.com/en-us/updates/aks-legacy-azure-ad-integration-will-be-retired-on-29-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
-  - title: "Update the Azure Cosmos DB Java SDK by 29 February 2024"
-    excerpt: "We’ll be retiring version Sync 2.x of the Azure Cosmos DB Java SDK. "
-    publishedDateTime: 2021-02-25T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/update-the-azure-cosmos-db-java-sdk-by-29-february-2024/"
     type: article
     provider:
       name: Microsoft
@@ -103,6 +96,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
+    excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
+    publishedDateTime: 2021-02-22T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "The G5 and GS5 Azure VMs will no longer be hardware-isolated on 28 February 2022 "
     excerpt: "G5 and GS5 Azure Virtual Machines will no longer be isolated."
     publishedDateTime: 2021-02-22T19:00:02Z
@@ -203,6 +205,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "Cy9UI5xlla4u9yu7XX2l4yWLyIBfYdqOSAFFD2pjTIumwmiOObhvg+BmsZ2eLSFbqHbSOEDgHq6lHU32/99NIfsZl6F/jkk6M1VUad2XsTQpNZwjy84IPVDK3JCc1TDZYB785z6J5d+MlzuAUqIerVjIQqSTkSR2/uNeAvyZXilDNI5UDl+45rsPzHghKFMSaEd9KGt+qOnViKy0nRLYhYpWsz3os3c4pQLPp5Fi/YiJwcSqc1rD11O/qXlD7z5igGCpL4DVMIQpPhX1JVNmokPov7MRAcQ8Q1lxhYm2SLwqS+67t9Qt6hzeutLoidyZgG5X+B7FUgG5uILB9PCKcY80+RdBnja+Rg4jVPyrS0U=;SiH55IVlOb0shJPIk6Z3NA=="
+secured: "e/JoSu8TQAn9DVeXIvOxeh9ymhPoun8nlc42g2eioGDX6FZ+7DzeNPMbfpAJ1PhLESBrOkm6QcpQYqROkDTAFc6VtbDra5i62mx/DlRZStYjT0HHMverMRrbYXnYwEqVafrLPgxwy2VUWVpBN9BkioCNsljZDZ1MfXVNR1nuLdSg/Vp4R1AGu9/8JVIbUzrvrWYRm/N9WOupFeREd1c+evo5clUyw93zX2JKIkySe6VLSbDAV7Iysa6TYA/HGSkMFA7ca1vWV+6+t6iz6bk1vjStim+O7A80ct/wqEGyUN9FEmi7BHLCmlWZybCNxrBn1HVyj9x/zOcJlJpLAMUaqSsNeNm2acfmX5eSXkyZDGo=;8LVBEiMfjEnXsVJ73xNMBQ=="
 ---
 

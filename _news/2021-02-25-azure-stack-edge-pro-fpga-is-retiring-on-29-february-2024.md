@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
-excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
-publishedDateTime: 2021-02-22T19:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+title: "Azure Stack Edge Pro FPGA is retiring on 29 February 2024"
+excerpt: "Upgrade to the new Azure Stack Edge Pro GPU devices. "
+publishedDateTime: 2021-02-25T19:00:01Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-fpga-is-retiring-on-28-february-2024/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-fpga-is-retiring-on-28-february-2024/"
 type: article
-quality: 62
+quality: 67
 heat: -1
 published: false
 
@@ -85,15 +85,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Stack Edge Pro FPGA is retiring on 29 February 2024"
-    excerpt: "Upgrade to the new Azure Stack Edge Pro GPU devices. "
-    publishedDateTime: 2021-02-25T19:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-pro-fpga-is-retiring-on-28-february-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Update your Azure Media Services REST API and SDKs to v3 by 29 February 2024"
     excerpt: "We’ll be retiring version 2 of the Azure Media Services API and the associated client SDKs on 29 February 2024. "
     publishedDateTime: 2021-02-23T19:00:32Z
@@ -103,6 +94,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Azure Batch ‘CloudServiceConfiguration’ pools will be retired on 29 February 2024"
+    excerpt: "Transition to Azure Batch Virtual Machine pool configuration by 29 February 2024. "
+    publishedDateTime: 2021-02-22T19:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-cloudserviceconfiguration-pools-will-be-retired-on-29-february-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 62
   - title: "The G5 and GS5 Azure VMs will no longer be hardware-isolated on 28 February 2022 "
     excerpt: "G5 and GS5 Azure Virtual Machines will no longer be isolated."
     publishedDateTime: 2021-02-22T19:00:02Z
@@ -203,6 +203,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "Cy9UI5xlla4u9yu7XX2l4yWLyIBfYdqOSAFFD2pjTIumwmiOObhvg+BmsZ2eLSFbqHbSOEDgHq6lHU32/99NIfsZl6F/jkk6M1VUad2XsTQpNZwjy84IPVDK3JCc1TDZYB785z6J5d+MlzuAUqIerVjIQqSTkSR2/uNeAvyZXilDNI5UDl+45rsPzHghKFMSaEd9KGt+qOnViKy0nRLYhYpWsz3os3c4pQLPp5Fi/YiJwcSqc1rD11O/qXlD7z5igGCpL4DVMIQpPhX1JVNmokPov7MRAcQ8Q1lxhYm2SLwqS+67t9Qt6hzeutLoidyZgG5X+B7FUgG5uILB9PCKcY80+RdBnja+Rg4jVPyrS0U=;SiH55IVlOb0shJPIk6Z3NA=="
+secured: "VY4dctlopSYxH/5/jevOb8g7nh52eX6EZXY+N5yDngJfC6aCbHVfqDQJYMC73X4cCLaAZxMFOsMTWhtnyfd+GaTW9dl32OtW2Ii73u6lkpBoc++/qD1Zs+tBvz75EYlZ2CRHvEGvPCWsCIJBC3LOFrAKIB+4KGvFZNHrfrUOTub06GGjUQ6tXkVTlSIDopYIIuGsFqEhyVMiPt8UUnIiOl9RIAnLFa1nKnSLkL6QkZJidA9c0nMMQTiIV/NpuHgesnqmZmrwJ1Iv2sUYPDDHyx8pKLL164pNrPcv/zzGssGd5Fr27dMuJOgnfTUrQK/fTpJ5251AL9qPWy4+DmhTTHLrpz6SVlPhQVyMc43k1kg=;7mQp/DvEatXzfI9Aypv36w=="
 ---
 
