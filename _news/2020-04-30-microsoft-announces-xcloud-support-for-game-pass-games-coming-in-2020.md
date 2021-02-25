@@ -124,6 +124,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "IT Insight: Come together with cloud computing by Microsoft Azure"
+    excerpt: "The biggest challenge we face, is the lack of our ability to come together. Because of this, the technology industry has seen a major shift toward cloud computing. Defined as a web-based computing model, cloud computing allows users to share information ..."
+    publishedDateTime: 2021-02-25T22:24:00Z
+    webUrl: "https://www.seacoastonline.com/story/business/2021/02/25/insight-come-together-cloud-computing-microsoft-a/6816675002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/6816675002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6816675002"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/28/NPOH/3354161f-97e1-4198-a216-0615d5a393d8-New_JoAnn_Hodgdon.jpg?auto=webp&crop=2057,1158,x0,y242&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft explains what they are doing to keep Azure up and running during the COVID-19 crisis"
     excerpt: "Microsoft says their efforts focus on two key areas of action: Help Microsoft customers address their most urgent needs. Ensure Microsoft Azure continues to scale to meet new demand. Helping Microsoft customers address their most urgent needs Microsoft notes use cases such as Remote work, distance learning, real-time insights, and analytics ..."
     publishedDateTime: 2020-04-24T20:03:00Z
