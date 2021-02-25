@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 30872,
-            "average": 4.7854366
+            "count": 30906,
+            "average": 4.785155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 6750,
-            "average": 4.7186666
+            "count": 6754,
+            "average": 4.7188334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 5809,
-            "average": 4.758478
+            "count": 5813,
+            "average": 4.7586446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4585,
-            "average": 4.7563796
+            "count": 4589,
+            "average": 4.756374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-microservices-aspnet-core.md",
+      "title": "Create and deploy a cloud-native ASP.NET Core microservice",
+      "excerpt": "This module guides you through containerizing an ASP.NET Core microservice and deploying it to Azure Kubernetes Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microservices-aspnet-core/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microservices-aspnet-core/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 230,
+        "average": 4.5826087
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnetcore/microservices-aspnet-core-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -236,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 5809,
-        "average": 4.758478
+        "count": 5813,
+        "average": 4.7586446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -304,8 +347,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2907,
-            "average": 4.716546
+            "count": 2911,
+            "average": 4.7169356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -347,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17309,
-            "average": 4.697094
+            "count": 17310,
+            "average": 4.6971116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4627,
-            "average": 4.716663
+            "count": 4628,
+            "average": 4.7167244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -499,8 +542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 2907,
-            "average": 4.716546
+            "count": 2911,
+            "average": 4.7169356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -542,8 +585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17309,
-            "average": 4.697094
+            "count": 17310,
+            "average": 4.6971116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -577,8 +620,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4627,
-            "average": 4.716663
+            "count": 4628,
+            "average": 4.7167244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -811,8 +854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14600,
-            "average": 4.717055
+            "count": 14602,
+            "average": 4.7170935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -970,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 1912,
-            "average": 4.6741633
+            "count": 1913,
+            "average": 4.6743336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1215,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14600,
-            "average": 4.717055
+            "count": 14602,
+            "average": 4.7170935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1374,8 +1417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4105,
-            "average": 4.651157
+            "count": 4106,
+            "average": 4.6512423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1572,8 +1615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4105,
-            "average": 4.651157
+            "count": 4106,
+            "average": 4.6512423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1607,8 +1650,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3065,
-            "average": 4.6140294
+            "count": 3066,
+            "average": 4.6141553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1746,8 +1789,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3065,
-            "average": 4.6140294
+            "count": 3066,
+            "average": 4.6141553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1851,8 +1894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5782,
-            "average": 4.6169147
+            "count": 5783,
+            "average": 4.616981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1901,8 +1944,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 4105,
-        "average": 4.651157
+        "count": 4106,
+        "average": 4.6512423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3228,56 +3271,6 @@
       "topics": [
         "Azure",
         "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 691,
-        "average": 4.723589
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],
