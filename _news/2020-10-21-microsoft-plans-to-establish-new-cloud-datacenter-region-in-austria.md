@@ -40,6 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft plans to establish first datacenter region in Indonesia"
+    excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
+    publishedDateTime: 2021-02-25T03:30:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-first-datacenter-region-in-indonesia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft will establish its next U.S. datacenter region in Georgia’s Fulton and Douglas Counties"
     excerpt: "Datacenters are part of today’s critical infrastructure—providing reliable and scalable compute power for online transactions, conference calls, virtual classrooms, supply chain and inventory management, internet searches, and much more around the world."
     publishedDateTime: 2021-02-11T06:00:18Z

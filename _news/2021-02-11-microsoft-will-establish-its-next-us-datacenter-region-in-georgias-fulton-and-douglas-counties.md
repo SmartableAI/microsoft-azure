@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft plans to establish first datacenter region in Indonesia"
+    excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
+    publishedDateTime: 2021-02-25T03:30:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-first-datacenter-region-in-indonesia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "ML6di5hSdf8/zPyOYx4JO8RhnR1Dr/IeL9wi7fVdUuxQhjyyVFIg1YXPMYHPkxnhn0SkfzcQbsJt1oprHH/uXCrJDKRfIniQao35yAa84LdCzC9jK1SaJb4RojZEZPtQRjvz6btbOvSOB9Tk4OqR7c4IEdZC1F4zq4KLOKTjFiYUqKk1KMh65Zwy2/In6dfiPKshd+cbbaTSO+UC9qTWx+znh3vbhAU9NEPkAr+SZDOLjF0/SazuN49XPI9pey9lnoc/vDvM6d8bfOfdQ3wx7/MNkuiOUEdteDDE+mt8sMOUv4K2usCP07t18V8Na2ObOAFt2135Zs18p2Krt4FDuvDbxWSCtBdpywZo2Mm/gWI=;hlqNNZxD76jPigY0mas6rw=="
 ---

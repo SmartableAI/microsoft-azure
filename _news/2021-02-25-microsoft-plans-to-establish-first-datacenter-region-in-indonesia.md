@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Microsoft to establish new datacenter region in Denmark"
-excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-publishedDateTime: 2020-12-07T18:05:27Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+title: "Microsoft plans to establish first datacenter region in Indonesia"
+excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
+publishedDateTime: 2021-02-25T03:30:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-first-datacenter-region-in-indonesia/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-first-datacenter-region-in-indonesia/"
 type: article
 quality: 52
 heat: -1
@@ -40,10 +40,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft plans to establish first datacenter region in Indonesia"
-    excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
-    publishedDateTime: 2021-02-25T03:30:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-first-datacenter-region-in-indonesia/"
+  - title: "Microsoft to establish new datacenter region in Denmark"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-12-07T18:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
     type: article
     provider:
       name: Microsoft
@@ -59,6 +59,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "cBe3BhTnE8snvX9+mhu3G51hENvDj5rhvmMyHZZj3IL1rY5fK1hTP61rIFLzKMiIPYfUOayv8bBInccUFwzHgCWp8d8at0Vvq84+3YF/QsbhXZPqjnS2nx8EZC9vstzaUpObu07wBWK695u5aFa1XfeGGj7nBWXcYomofrLcNQJnoMwPOY4EOfg+sIqw5BP6k/NszEH2WiTnEGC4rqndoDX1mnThbFEjYhxuk0mCDLZ5ltHS07RVQ3max0EtekRZszi3JE8gb1wI9EBfhSsDQsCiTs5zNM3BGqoAnWfQQcih6CtwxgyUzscGLH/oxeIyB9DspCo23wlkgto0v+3TUnu/F+iPhgL5uSNUijDg5Aw=;E7TMcik5fnY/Y9FHSD+ZVw=="
+secured: "vB4DZa+JNphghsiIdnO+YO7AQL+DJmiY15iGxEhiCl2sq0UOcxbLqYLPD6FocWLnMeMkEPcDpk2UgfPLnvLFSEMFpL5Tb0PgWVQ8dM/4cdrtj9jDs2waGLTHWTj6Ykv6IXcSSPqs68y+LF7vXIWgxtMKbN6ustri2upYmjiSZUv5scEb3PkguBPJV5hOw5S5UniF1IlRxahOXsYba/qPmzek2F4u+/jakKjqxCjRQw4/NBxDWFzdcDpUeNFksWkFKmLSyaK67zgUOlB7rfs2VPhOJzehboqi5mR+7x43a0rK7slwlBBXbJgYhFAPYmTyzy/6Gh+PXs2nQ0D4vjRQQka/TjYdz+aHSSgNUZE7yvE=;RqoUx+c6IgCuAVDVH8WoBA=="
 ---
 
