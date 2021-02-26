@@ -4,6 +4,42 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-azure-resources-with-rbac.md",
+      "title": "Secure your Azure resources with role-based access control (RBAC)",
+      "excerpt": "Learn how to use Azure’s role-based access control to effectively manage your team’s access to Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-resources-with-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 5952,
+        "average": 4.6686826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-tour-azure-portal-features.md",
       "title": "Core Cloud Services - Manage services with the Azure portal",
       "excerpt": "Get acquainted with the Azure cloud platform through the Azure portal, where you create and manage all of your Azure resources.",
@@ -11,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 52908,
-        "average": 4.7107997
+        "count": 52909,
+        "average": 4.7108054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -86,8 +122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2826,
-        "average": 4.569356
+        "count": 2827,
+        "average": 4.569508
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -165,8 +201,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3636,
-        "average": 4.5951595
+        "count": 3637,
+        "average": 4.594996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -202,8 +238,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/",
       "length": "PT34M",
       "ratings": {
-        "count": 5131,
-        "average": 4.7602806
+        "count": 5132,
+        "average": 4.7603273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2728,
-        "average": 4.709677
+        "count": 2729,
+        "average": 4.709784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -316,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 644,
-        "average": 4.7034163
+        "count": 645,
+        "average": 4.703876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -445,8 +481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 3998,
-        "average": 4.62006
+        "count": 3999,
+        "average": 4.620155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -488,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 2394,
-        "average": 4.8191314
+        "count": 2395,
+        "average": 4.818789
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6577,
-        "average": 4.705945
+        "count": 6578,
+        "average": 4.70599
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -605,8 +641,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2441,
-        "average": 4.7177386
+        "count": 2443,
+        "average": 4.71797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 4215,
-        "average": 4.68707
+        "count": 4217,
+        "average": 4.687218
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,8 +1008,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 1005,
-        "average": 4.7800994
+        "count": 1006,
+        "average": 4.7803183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1056,8 +1092,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 1688,
-        "average": 4.6356635
+        "count": 1692,
+        "average": 4.6365247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,42 +1211,6 @@
         "Azure",
         "AI",
         "Developer Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 6395,
-        "average": 4.7135262
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
       ]
     }
   ],
