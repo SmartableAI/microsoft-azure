@@ -4,204 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-implement-microsoft-identity-associate.md",
-      "title": "Implement Microsoft identity – Associate",
-      "excerpt": "The Microsoft identity platform is an evolution of the Azure Active Directory (Azure AD) developer platform. It allows developers to build applications that sign in users, and access resources in both external applications such as Microsoft Office 365, the Azure portal, and thousands of other SaaS applications and internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. Learn how to utilize Microsoft identity in your custom applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-microsoft-identity-associate/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-microsoft-identity-associate/",
-      "length": "PT5H42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-getting-started-identity.md",
-          "title": "Getting Started with Microsoft Identity",
-          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-getting-started-identity/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 268,
-            "average": 4.6679106
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-application-types.md",
-          "title": "Application types in Microsoft identity",
-          "excerpt": "Learn how developers can leverage Microsoft identity in different types of applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-application-types/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 152,
-            "average": 4.5921054
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
-          "title": "Permissions and Consent Framework",
-          "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
-          "length": "PT1H6M",
-          "ratings": {
-            "count": 123,
-            "average": 4.7479672
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identity-secure-custom-api.md",
-          "title": "Secure custom APIs with Microsoft Identity",
-          "excerpt": "Learn how to secure a web API with Microsoft identity and how to call it from another application.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-secure-custom-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
-          "length": "PT1H23M",
-          "ratings": {
-            "count": 109,
-            "average": 4.669725
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/identity-application-types-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-windows-server-hybrid-cloud-management-monitoring-and-security.md",
       "title": "Implement Windows Server hybrid cloud management, monitoring, and security",
       "excerpt": "This learning path addresses problems related to managing, monitoring, and securing a hybrid environment. After completing the learning path, you’ll be able to manage and maintain hybrid Azure and on-premises workloads.",
@@ -3117,8 +2919,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
           "length": "PT37M",
           "ratings": {
-            "count": 1513,
-            "average": 4.666226
+            "count": 1514,
+            "average": 4.6664467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3153,8 +2955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-insights-from-videos-with-video-indexer-service/",
           "length": "PT27M",
           "ratings": {
-            "count": 75,
-            "average": 4.7466664
+            "count": 76,
+            "average": 4.7236843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3874,8 +3676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
           "length": "PT51M",
           "ratings": {
-            "count": 5,
-            "average": 5.0
+            "count": 6,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3916,8 +3718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
           "length": "PT57M",
           "ratings": {
-            "count": 4,
-            "average": 5.0
+            "count": 5,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3959,8 +3761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/",
           "length": "PT35M",
           "ratings": {
-            "count": 3,
-            "average": 5.0
+            "count": 4,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4935,8 +4737,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
           "length": "PT53M",
           "ratings": {
-            "count": 42,
-            "average": 4.7380953
+            "count": 43,
+            "average": 4.72093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6398,6 +6200,180 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot.md",
+      "title": "Working with Connected Field Service for Dynamics 365 and Azure IoT",
+      "excerpt": "This learning path introduces you to connected Field Service and Azure IoT. Included in this learning path is identifying exceptions, register and manage devices, remotely monitor and service equipment, and using IoT central with connected Field Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-working-with-connected-field-service-for-dynamics-365-and-azure-iot/",
+      "length": "PT6H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
+          "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
+          "length": "PT1H6M",
+          "ratings": {
+            "count": 83,
+            "average": 4.7108436
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment.md",
+          "title": "Remotely monitor and service equipment with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Configure IoT devices to remotely monitor customer equipment.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-remotely-monitor-and-service-customer-equipment/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-and-service-customer-equipment/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 76,
+            "average": 4.6973686
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service.md",
+          "title": "Register and manage devices with Connected Field Service for Dynamics 365 and Azure IoT",
+          "excerpt": "Register and Manage Customer Devices with Connected Field Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-manage-customer-devices-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-manage-customer-devices-with-connected-field-service/",
+          "length": "PT1H26M",
+          "ratings": {
+            "count": 56,
+            "average": 4.696429
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-using-iot-central-with-connected-field-service.md",
+          "title": "Using IoT Central with Connected Field Service for Dynamics 365",
+          "excerpt": "This module will focus on using IoT Central with Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through building an IoT Central application and escalating the alerts into Dynamics 365.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-using-iot-central-with-connected-field-service/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/using-iot-central-with-connected-field-service/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 56,
+            "average": 4.660714
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "IoT"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
       ]
     }
   ],
