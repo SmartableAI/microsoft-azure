@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Power BI Connector for Azure Databricks is now generally available"
+    excerpt: "Announcing the general availability of the Power BI connector for Azure Databricks, for Power BI Service and Power BI Desktop 2.85.681.0. "
+    publishedDateTime: 2021-02-26T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-connector-for-azure-databricks-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z

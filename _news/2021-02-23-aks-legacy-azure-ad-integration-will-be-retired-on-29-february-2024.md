@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/aks-legacy-azure-ad-inte
 webUrl: "https://azure.microsoft.com/en-us/updates/aks-legacy-azure-ad-integration-will-be-retired-on-29-february-2024/"
 type: article
 quality: 101
-heat: 501
+heat: 521
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Site Recovery update rollup 54 is now generally available - February 2021"
+    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated replication support, and download links for Site Recovery components."
+    publishedDateTime: 2021-02-26T18:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-54-february-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
     excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
     publishedDateTime: 2021-02-23T19:00:31Z

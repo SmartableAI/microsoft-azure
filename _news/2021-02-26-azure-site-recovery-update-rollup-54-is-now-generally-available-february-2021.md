@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
-excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
-publishedDateTime: 2021-02-23T19:00:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/jenkins-plugins-for-azure-are-being-retired-on-29-february-2024/"
-webUrl: "https://azure.microsoft.com/en-us/updates/jenkins-plugins-for-azure-are-being-retired-on-29-february-2024/"
+title: "Azure Site Recovery update rollup 54 is now generally available - February 2021"
+excerpt: "The latest Azure Site Recovery update provides provides fixes, updated replication support, and download links for Site Recovery components."
+publishedDateTime: 2021-02-26T18:00:10Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-54-february-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-54-february-2021/"
 type: article
-quality: 67
+quality: 80
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "AKS legacy Azure AD integration will be retired on 29 February 2024"
@@ -76,15 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
-  - title: "Azure Site Recovery update rollup 54 is now generally available - February 2021"
-    excerpt: "The latest Azure Site Recovery update provides provides fixes, updated replication support, and download links for Site Recovery components."
-    publishedDateTime: 2021-02-26T18:00:10Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-54-february-2021/"
+  - title: "Jenkins plug-ins for Azure are being retired on 29 February 2024"
+    excerpt: "Start using Azure CLI for a better experience integrating with Azure service."
+    publishedDateTime: 2021-02-23T19:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/jenkins-plugins-for-azure-are-being-retired-on-29-february-2024/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 80
+    quality: 67
   - title: "Azure Stack Edge Pro FPGA is retiring on 29 February 2024"
     excerpt: "Upgrade to the new Azure Stack Edge Pro GPU devices. "
     publishedDateTime: 2021-02-25T19:00:01Z
@@ -212,6 +213,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "cu/+BK/RVlmM2LP2F3s/nKC2OCTbfmUzOmn50rqOxxe5jo/HR3EN2ugniMlQV++gTG73l3JuqQrGIh+istVJAPgM+ibooZRhkPeQXiNyH5KB1P4Mwoueg5kan+QzKNQZRLKG8ubUBPEqQls2a8PKSD24JR/m4b1v9Qi2FIyJcnCqw9hqKfbhauQt+Xzx1XfUjuh/4/JjmLXjZ4XjZWUh28uZI1FLo7i89KpJF1epXy8Co7ey/ZvwzwOtp/G9hdRJ3v9SScaqs8dib4B9CmGtxRSdHGAq3GPUtM/oVo6vqhLZHJVBtrI/2ut0aVt1Yc1rNDiCuZZvY7sPoLWiJ32QxY4hhi42lceHj3lCqGdqXK0=;1S8snXgPbyiZkNt1nZpDig=="
+secured: "D/VZP1o9DBLZQumV0syg92abx/QDXEcO16j8jwnAIykhk0mKU6COOX7rH/PSaPNtUSBBgLXbEk7t5f3NZxZnobCQNALKNq0tdlBfCCYzijKnbJIScjXD4nn2Tad6gQs4tbkVThy9UD7rucX3DVtoj0YqxRV6ZG6N65rzYsOd13CFXjYSS9wvNvrOWvQ3G3vY05NW1j3o/X9KbzQZd7VWYIN/VYoGrWB8CdzWBi9YrtsuIhhEXG4QCejvcZf5RpuSFcPok5RkMgLiFO8j+mj86jQjQXWC40eCHkYaNpzBIwUid+5V0mEPmX53d68OZcw6mreeGvn/17FzxUQIzHH/gTGXkyDFiGUztAJvAAijeKY=;dksrUIoCo/ibBICNMam1jg=="
 ---
 
