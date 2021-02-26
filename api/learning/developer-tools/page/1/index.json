@@ -175,7 +175,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/optimize-basketball-player-rest-breaks-social.png",
@@ -296,8 +296,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cosmos-db-app-with-vscode/",
       "length": "PT54M",
       "ratings": {
-        "count": 1596,
-        "average": 4.482456
+        "count": 1597,
+        "average": 4.48278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,49 +325,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-github-vs-code.md",
-      "title": "Introduction to GitHub in Visual Studio Code",
-      "excerpt": "Learn to use the GitHub integration in Visual Studio Code, including authentication, publishing repos and viewing your repo timeline",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github-vs-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 53,
-        "average": 4.792453
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
       "title": "Publish a web app to Azure with Visual Studio",
       "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
@@ -375,8 +332,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
       "length": "PT48M",
       "ratings": {
-        "count": 3238,
-        "average": 4.673564
+        "count": 3239,
+        "average": 4.6736646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -490,8 +447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 2208,
-        "average": 4.60779
+        "count": 2209,
+        "average": 4.6079674
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -524,6 +481,49 @@
         "Azure",
         "Compute",
         "Serverless",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-github-vs-code.md",
+      "title": "Introduction to GitHub in Visual Studio Code",
+      "excerpt": "Learn to use the GitHub integration in Visual Studio Code, including authentication, publishing repos and viewing your repo timeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github-vs-code/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github-visual-studio-code/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 53,
+        "average": 4.792453
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Developer tools"
       ]
     },
