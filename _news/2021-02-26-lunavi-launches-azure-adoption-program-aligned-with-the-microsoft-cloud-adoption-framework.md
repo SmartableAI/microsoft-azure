@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
-excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
-publishedDateTime: 2021-02-24T12:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
-webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
+title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
+excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
+publishedDateTime: 2021-02-26T00:50:00Z
+originalUrl: "https://www.helpnetsecurity.com/2021/02/26/lunavi-azure-adoption-program/"
+webUrl: "https://www.helpnetsecurity.com/2021/02/26/lunavi-azure-adoption-program/"
 type: article
-quality: 37
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -318,6 +318,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
+    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
+    publishedDateTime: 2021-02-24T12:47:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
@@ -359,20 +373,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
-    excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
-    publishedDateTime: 2021-02-26T00:50:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/26/lunavi-azure-adoption-program/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 27
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "First AWS, Now Microsoft Cloud, Who Is Next"
     excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
@@ -444,6 +444,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "7VJEvvTyYoHAMeK7Dex/DJDsBfXEcMEVzFMl3Bu+jSFFipCFXppUdiE6WAbRlw95lv9dQKpAwFniPuGGOgmSW2VW+zTI1+EEOPxIWHWkKdBv8HxAW4WM4clR0hC45yRND5UK2lgwWe7jzVm70HW0FHOb0wXKCbZiIsq4t4ZyH+I/+2NoywDuMXVVUeAk1Es8dTcvd6+MHikYC01QsVHGy3qqa2nuF6ENpEBkwCe5yQ/jrlXhgQsl7A+g/mckLwr6Bf+JOYyIb1N8LWamd1eXlOVAnCWDCkKyf4iPzPHCIYQLCGpGYm3DxoYtioZG9xlq8GHmPyQIBRSBzhGqI/NebVu2jtVUUlKIJg7HUJjlryY=;nxoLQl18Gjn8iOKC6Clwyw=="
+secured: "NS+Ys5uO0ncg87ijNNm2XPmSFJ8resJjfynXbUNdsmogAJlES1akUFQ7aa/++2w/gBvxnVhUnCtOnfdXPzOZDZsKr5bLRWhd1X1EgfNEVk9QuJ/gIFBT15Fo74TcTfmj0gRvXZuuMbCD+sY2F0RT81OZLBTXG6pB5cca/Io2cpNGN4yJeouapVaPK7/rw5J+6BVYsub++JNw93q9hSpkdJdBjqaoIxVNHgX7WpMgOjH14R8J1XUEqlpuQqIlm6gVhnJQNlSwfgSp4URlm+7NVjk6z8D+Mu5/qwdXzFVR6FRls4K5P01ID81IRpH/uoLPRRSgWJLaQ5JuLxwu1XRBLf6r1zXr1roAY4cfIax5D6I=;EdKA+0PiIMPeQubCMF8M5A=="
 ---
 

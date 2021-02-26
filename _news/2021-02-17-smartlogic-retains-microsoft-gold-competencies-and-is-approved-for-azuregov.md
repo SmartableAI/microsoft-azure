@@ -360,6 +360,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
+    excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
+    publishedDateTime: 2021-02-26T00:50:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/26/lunavi-azure-adoption-program/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 27
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "First AWS, Now Microsoft Cloud, Who Is Next"
     excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
     publishedDateTime: 2021-02-19T04:20:00Z
