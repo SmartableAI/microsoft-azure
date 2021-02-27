@@ -237,6 +237,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
+    excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
+    publishedDateTime: 2021-02-25T16:25:00Z
+    webUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 42
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z

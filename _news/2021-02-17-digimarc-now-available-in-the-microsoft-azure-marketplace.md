@@ -238,6 +238,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
+    excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
+    publishedDateTime: 2021-02-25T16:25:00Z
+    webUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 42
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -448,6 +464,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "CrCT8hzEvrV0mt35maIl3yd3f3lw3SaV16ikSJoj8Ac7RFyujIdcGk6OsyN4xWkGfzxKf/ABRkXaC/I1qHzgJRDJV3699wGyRj/XiCC6/ehqyzfetiqiUnvkYkxrNtf7SHTS/I7t77vnkn0HYMEeIVSR27pB06LoO4H9SC+aItBoWm0IefhhJ69zKssKaPzwCXLwIEIU8WRwbuYenOje+0ef/YbExuDJXEQ7gKq3ce9w0Dp/VGnI7md8tJOuNlPL4ZqBLyLPFxuCKuVLTxsQg/PRsZ3AcVMlhGcJ4kJKDxQxZ1Cg/Lrsf5GqsgTriKzvUyfyjLI6Kc0/4PJD464axsdT/eT0h03/6PvTUw6IYYM=;e5w7wASLaOs/yTmou9IBHQ=="
+secured: "VfnjNTvN0Dw3P2A2hPCradwQnPNOLPQ9saZSIE1F+fP8JMFS0KWAQha1uxY85fKW3ZS5l8uoG+UQM5Bhu1e2d0mnry3dr0l8RgwATbLx6ABfppFJrZ9DLIyCMJHScwLPFvBKB3Is+bDhMWnZPFRyoVZzr7akuqDLGF84s0uIcNeKFdbSw2sC0cSzmDof141eaC1z1qDbMDTw0pNpzD3URF9Smov9vQevIQcqwcB0H4xcTQQvF49RveuKFPBoNm+bsYfS567rdc5aeydpN6iHzVoBJFl2kcGXqcIIYfy1/wOFd5UuwGyAHaMRwbqBMVwGabqY6IjAlwXqwn/WtU4bPCtk7zsFxT40GZB1WF8rJOM=;WZahHyqXtgUcIjSe8/bAmQ=="
 ---
 

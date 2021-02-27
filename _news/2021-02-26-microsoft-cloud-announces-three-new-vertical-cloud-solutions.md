@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-publishedDateTime: 2021-02-17T09:47:00Z
-originalUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
+title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
+excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
+publishedDateTime: 2021-02-25T16:25:00Z
+originalUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
+webUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
+ampWebUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
+cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
 type: article
-quality: 17
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: winbuzzer.com
+  domain: winbuzzer.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -242,22 +250,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
-    excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
-    publishedDateTime: 2021-02-25T16:25:00Z
-    webUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 42
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
     publishedDateTime: 2021-02-15T23:59:00Z
@@ -449,6 +441,15 @@ related:
       name: Linux Today
       domain: linuxtoday.com
     quality: 17
+  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
+    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
+    publishedDateTime: 2021-02-17T09:47:00Z
+    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
     excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
     publishedDateTime: 2021-02-23T13:07:00Z
@@ -459,6 +460,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "j3hXtwR4CcyFBz+50PsQNrin6UNCgoOoMuQfiSOM4hppLO02DKnZlpJ8knaXJKLm8xyrRWc9GG5TeqRe4iIhFnIL31jkJarKTF0eqid7dxYS37ZTbz1rF71aEDvX2J0DFtjuEewC5zSQoq/mLWmrlCqrNjJVxhW7yXPNikC1tCzreRdo2NHnV2bCYlDpP5T3Z9omUzGJdbFMRhoHwHLNp434QvFB64Hb2uoSXFfd/8iIDwtni9rzhia9fLys72EV/gRhdw0FIgfGjH565ykxe/4qesBqK1FJluOH29Z9UxAjo/cv5OaUEJyY5dsvitL31jkE2QuEt2oFfoC0FUO8MkLnUgVbyaA3RZva5BcrKU8=;gOaHHSD73NdCDQw18Z5a5w=="
+secured: "LjTlf+utFel2yxR1zzBP70gaJ22QStQijzw5XkOJZtPh5xx5wSCXZIrOJOGRkxXVAyDcCqQLb2WQc8BYGt0ndzdmxrCFMTT5R4VJjFPgLd6qW/hAEIVCXgUK73ev5rm8i45W+YwPAbktlIGB6N5DqBvu95tWT+zeUT8yKkPcnCXzqPd3hR+vskw5E/D/sQVn6E9WlUQTewftBiyxA/J7tlk9ocRkWeCFeahYAeqZu8TBE7rYD0LOIjqxW2HetbxTFZ57QmNCy43n9zAYZCklkppCbdQ5pp0tZ8/T17rmGENUe2UGE+EFfHM8BLJgP2W1M5o4F12dkMxfsAajYwp9IZ90MA/Ey/9a48SYXaJW1q0=;WqZNWAnj6lPqbwPl8g1M/w=="
 ---
 
