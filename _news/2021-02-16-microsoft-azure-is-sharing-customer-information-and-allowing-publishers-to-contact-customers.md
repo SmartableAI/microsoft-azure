@@ -321,7 +321,7 @@ related:
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
     type: article
     provider:
       name: Associated Press
