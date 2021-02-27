@@ -282,6 +282,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Microsoft Antimalware for Azure Cloud Services and Virtual Machines"
+    excerpt: "Microsoft Antimalware for Azure is a free real-time protection that helps identify and remove viruses, spyware, and other malicious software. It generates alerts when known malicious or unwanted software tries to install itself or run on your Azure systems."
+    publishedDateTime: 2021-02-05T00:00:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/security/fundamentals/antimalware"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "HPE plans second Spaceborne computer, will be linked to Microsoft Azure"
     excerpt: "HPE will follow up its Spaceborne computer with a more powerful successor. The first system was sent to the International Space Station in August 2017, coming down aboard a SpaceX Dragon capsule some 615 days later."
     publishedDateTime: 2021-02-12T10:50:00Z

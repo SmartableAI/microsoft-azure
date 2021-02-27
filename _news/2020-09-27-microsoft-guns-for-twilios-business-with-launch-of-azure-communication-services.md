@@ -1253,6 +1253,20 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Microsoft Updates Java for Azure Spring Cloud"
+    excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
+    publishedDateTime: 2021-02-25T16:27:00Z
+    webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 37
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

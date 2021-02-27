@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/08/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/amp/"
 type: article
 quality: 97
-heat: 677
+heat: 697
 published: true
 
 provider:
@@ -267,6 +267,20 @@ related:
       - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
         width: 772
         height: 594
+        isCached: true
+  - title: "Microsoft Antimalware for Azure Cloud Services and Virtual Machines"
+    excerpt: "Microsoft Antimalware for Azure is a free real-time protection that helps identify and remove viruses, spyware, and other malicious software. It generates alerts when known malicious or unwanted software tries to install itself or run on your Azure systems."
+    publishedDateTime: 2021-02-05T00:00:00Z
+    webUrl: "https://docs.microsoft.com/en-us/azure/security/fundamentals/antimalware"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
         isCached: true
   - title: "How auto-scaling SAP on Microsoft Azure is benefitting Microsoft"
     excerpt: "Discover how a team at Microsoft used auto-scaling SAP on Microsoft Azure to optimize and reduce the company’s internal cloud costs."

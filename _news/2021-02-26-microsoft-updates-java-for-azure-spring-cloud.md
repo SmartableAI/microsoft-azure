@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft announces Azure cloud for top secret government data"
-excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
-publishedDateTime: 2020-12-07T15:30:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+title: "Microsoft Updates Java for Azure Spring Cloud"
+excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
+publishedDateTime: 2021-02-25T16:27:00Z
+originalUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
+webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: adtmag.com
+  domain: adtmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
-    width: 1600
-    height: 813
+  - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
+    width: 1665
+    height: 1158
     isCached: true
 
 related:
@@ -613,6 +611,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2020/09/Microsoft-Logo-DG-AH-2020.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft announces Azure cloud for top secret government data"
+    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
+    publishedDateTime: 2020-12-07T15:30:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 57
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
+        width: 1600
+        height: 813
         isCached: true
   - title: "Microsoft launches Azure cloud service for classified data"
     excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
@@ -1254,20 +1268,6 @@ related:
         width: 1013
         height: 675
         isCached: true
-  - title: "Microsoft Updates Java for Azure Spring Cloud"
-    excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
-    publishedDateTime: 2021-02-25T16:27:00Z
-    webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 37
-    images:
-      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1784,6 +1784,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Eyu/CB1fhzIW3Vgp+t/vS7NQcJkLEXoYvLqDgpRm9VqM9sfEeyJDISJZP7FymcBnx96I1QcO93qTO2IKTi1NX5ore6YbZmVLBWsJEdMOiXeJmRKZC4ERShdDxV6DbcXzl2E64gb5YG3p/IzAlZClD8+3peLpB9EVQQU0l8MafUYWnC7FLVbC/FLZ9ndvBaEPhvmX+AQfYQE7dgMm+NixPYUEynVrepnncEeZaAtT0Fr9RZeOGUTaWGCB6zvzdkcbJypHXpq9xfnOtQHDococdjKRnutd3NkSGuqG+j9irsBbZBcTrUUMAFoqNow9uk6FmtqKuetcdtWcH2NeJeV8MQz6eepkGKqoKEyI0jWDS2Tw6iXc5HJmwKRVyzMsgEf1E/MkgTQtFkE+ba2wxFfPm1v0cgdqeyyJxgfaZnHrH+rmTX6B5TaMUPK3NZV9jxnR1lZBa5ro3HHfybWDiW0j14HsxGGv2f57Fh4Dc6ASzmuaGpNYf2X44sGvSdZP4dddJmqQJwcgFO3oA/rYowOY9w==;ynuPASkI24LpaNJvHMjPwQ=="
+secured: "s7JT0Cr5epsvC4LIJ28FEWXHtLWq8lJfJA8z0gal+50gu6aszDfI/ryWQUDUpdoCMPJuElG5lJjYTkURggWKNN1VMDPbRDy/7b35CqjBzOE4uPggXJQTGLmIZxnhMYmQ1JrpEPurMLWpdnJ2fWn4SzacvSjGVQuLExoOcMV/ao8ha2jgMKzLH7MoLzdTvB3Hbe/q+MIW9ROVxfUV5Ppcer4sc7bFl45gYXqmfLM/Ailu080GS0Fe9ku/GHGlL7mg1Niz/chd/EwFuOC+t98321s2qnS4FpIYiGKrxUuH0F5r+FIh+8kqozuZ8dwYHJ6z4/ohfsf3wFn/4RPY0vwZrlA/jfx1oFUGxVIFJrpZWzw=;QAS2kWFG2a7oA1E9JNKt2w=="
 ---
 
