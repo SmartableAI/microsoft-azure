@@ -66,6 +66,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -185,20 +194,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 51
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-17T15:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -464,6 +459,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "VfnjNTvN0Dw3P2A2hPCradwQnPNOLPQ9saZSIE1F+fP8JMFS0KWAQha1uxY85fKW3ZS5l8uoG+UQM5Bhu1e2d0mnry3dr0l8RgwATbLx6ABfppFJrZ9DLIyCMJHScwLPFvBKB3Is+bDhMWnZPFRyoVZzr7akuqDLGF84s0uIcNeKFdbSw2sC0cSzmDof141eaC1z1qDbMDTw0pNpzD3URF9Smov9vQevIQcqwcB0H4xcTQQvF49RveuKFPBoNm+bsYfS567rdc5aeydpN6iHzVoBJFl2kcGXqcIIYfy1/wOFd5UuwGyAHaMRwbqBMVwGabqY6IjAlwXqwn/WtU4bPCtk7zsFxT40GZB1WF8rJOM=;WZahHyqXtgUcIjSe8/bAmQ=="
+secured: "xSZVnkBrgZT2+tSNYHsfYbLlRJc/Abp9RWbSczVQ8qhKCxmsO062d+eEl0HRBBSbCvR38Mqlnb5HX4j8DBmmy+GgGhLiif/QdpaodnmNZLCGI1EKtmTKnc217sgH529QTSH+Rr545llouNlNFu4LsNAgmY3uZwON8Lb7O3xYqkU9XwYBXOHdRJmop7pxYtxEveJixenDOWof8PJJImnkZ0w2ZG5ZWEOzNUa0XjT0FCSCVT9aT+0MD9Y2mmxHB5GAue2cyLfH4ThaYP7VeIe4fMaA8rqXVNVzCVf/tQ/34tnW2M8bqRAXwvMKgvP5+3T0dZ8l+t9uSqcYg3MFn91zW97B/c9bxyDn0U2QhGYHM0g=;KxUApd3TwqRqkNjCO4wHNA=="
 ---
 

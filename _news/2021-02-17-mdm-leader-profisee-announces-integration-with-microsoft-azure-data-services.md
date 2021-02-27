@@ -1,28 +1,26 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-publishedDateTime: 2021-02-17T15:20:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new native integration with Microsoft Azure data services."
+publishedDateTime: 2021-02-17T15:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
 type: article
-quality: 51
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -461,6 +459,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "C1yDbj7mEQxSWZqjAvRCuigmQsN9B9krBUE56M0i24bJY+kj3z+MLH+8ROUPmbm2v/vAFD5/xrqx5qauAL50bp2FZ0Vx+8WqEuyT+uWJn6s9rAe1Ji+aq2FDlejhgz66B3mYdK5dSkATIfxOF018m/mS8JXZcKr8l8pfU9IQ2CibHhCvnlL2BZTYOChO1USkY2gvjd1b0DTAHs2aCNAPXPpoAm4qYbauNACDIfKqUEQBmtzR6MrsDPF4mNlnKrg4IHuP3ejdSc7VT0OA2Ww1rIZ+HwUFTuDG/nAnGBGTbGCS5b21/o72LD+AwCab+6h6nuTPdzSHtiCW5UfgQ4ZsNhwL+KDtBnbyblkfVXdw/Qg=;J14D3b6pPXSDE3Go4cNbDA=="
+secured: "BU2eiJH9aUUOqYRLS9iL4b9TlWolZ1+pqqqMKeyL56P8GLsDxjiaGrbAR7+1efS+WMS7KX9VKZB9k8CwYfN5pQQzXut37p/03y2QmkQr+JLJIRhc26FQy0SbMCIFaTSGYtjlUlQGkmqswQ9gzj84HemazJ0KYdqEVmLNYB6lHJEYmaIJHBoKb6tS8YY2dPTrL64Qj8kqIPrCP+pssKquDpqxLoHrH7taJd7hgY3F75IzaaZlFHy10nDxrPEvaf6jMLsIxuNmy0bKC/b9B0Bj+i7NmhTBpNz1dGCmOI2gOjnPqnDVK2y3SGucjD4oAzFHbhivYXgOkNpJf22cJYQ6QrcTz+NllD5ozMMaOkvLFqg=;IaQEdsCbC6Ru44oczusSUA=="
 ---
 
