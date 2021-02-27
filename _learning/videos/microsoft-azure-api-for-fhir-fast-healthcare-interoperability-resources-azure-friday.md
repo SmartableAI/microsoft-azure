@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M11S
 publishedDateTime: 2019-07-25T22:21:34Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vS7Iq9vpXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NxXZYiUzEdcjy7YAqyG9hEyDDkaxRFeHh2cfgiYgtrSCUdtq9lGWUf+Dn1ldZ3M7yp0EuEIptchV3GPYx+JMDpRdGJzx9Nc80b0F979b4YNBoM0A+wI5/F70v79qNQ7uQXuOKGMhvbLIEKqftr5S1e/YwprtA7K98ztvCzGS7xBpMuR7ycSTPAabPG+Mq2ZtmpU/3xXU30CI3pqkNHDnaFAaMlYaRA2w3w+WNK3N5/MNDIzKr6Igbc8Lp5Dlij6SpbVb34AMVyjqgpPCq/u1sqXFm7T5TEuqzPJLhLIz0chvGAaG9mQ1QdXFr5Lmie26TchvOldV3MXskwEDnOx4TRgWd5736Q0d/pIi5LpuPD+unDKGJ87DIxRBFUWe7YAV5oL29RTVrYT2ljb9jxVsbXn9VKlcvPQhu4IHGyP7ju8=;8qTJUct6a/90npq8OtyX/w=="
+secured: "BMI+vSRraiKpLOaYCDZXux7B3lLePxe1EfRpiM21y3YUMoSYslOAKQKeVL+3vhqkQywhrvr9/FpCGbVUvj8PPwNLNOLiTd9eQ+y2fY/LIwhXRY4e/xj7ZDuyOdmNPTiGmPeK1sD2IofpOY9G8cMXE3Cac3bGiN22XvSfULpKf3QDaq8lShBUx0DLMe4y/s4VpAz+UteSTtkB1E/LKo7S3JZy3Y8c3ygCKAExLPOmURn5oGlGDXic1rl+atdZ/BBEOyU6ijVzaO2cAA6/q2uEDFtCi7TplyETB+274mY+/mRWj+X341UWJTWl2//aIVZgvqOWNAYIgpqYpHtAw1zBbQK1F7bL3Q5skN8OqL2BB1T+yEBG6Lr4h2IhwjuKSsagmD/bXpNFqtQEagCdrG8TZXbEar/YasFqr7iE7Ho4AU8=;IP6Dgzg4D0k3l86LA41GGw=="
 ---
 
