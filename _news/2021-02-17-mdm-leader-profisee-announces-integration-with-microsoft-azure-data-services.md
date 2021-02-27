@@ -1,26 +1,28 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new native integration with Microsoft Azure data services."
+excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
 publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
-webUrl: "https://markets.businessinsider.com/news/stocks/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-1030093116"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Integration
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -61,20 +63,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
-    publishedDateTime: 2021-02-17T13:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
-        width: 400
-        height: 306
-        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -336,7 +324,7 @@ related:
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
     type: article
     provider:
       name: Associated Press
@@ -431,6 +419,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z
@@ -459,6 +456,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "BU2eiJH9aUUOqYRLS9iL4b9TlWolZ1+pqqqMKeyL56P8GLsDxjiaGrbAR7+1efS+WMS7KX9VKZB9k8CwYfN5pQQzXut37p/03y2QmkQr+JLJIRhc26FQy0SbMCIFaTSGYtjlUlQGkmqswQ9gzj84HemazJ0KYdqEVmLNYB6lHJEYmaIJHBoKb6tS8YY2dPTrL64Qj8kqIPrCP+pssKquDpqxLoHrH7taJd7hgY3F75IzaaZlFHy10nDxrPEvaf6jMLsIxuNmy0bKC/b9B0Bj+i7NmhTBpNz1dGCmOI2gOjnPqnDVK2y3SGucjD4oAzFHbhivYXgOkNpJf22cJYQ6QrcTz+NllD5ozMMaOkvLFqg=;IaQEdsCbC6Ru44oczusSUA=="
+secured: "2hozDejTtsICP47FlxV+e1ho8+LIYIjxPDVu+R/3f5/4CZcQsEAQ3dt1LzjcOuhTGMlzLbra5MNlmJuxY5Z3CJ+gIqTVEPB8rdKRtFS6ubIt8RWSydvzvA9EsDh1JjK2I2Ph5h1rp7YDMOk5tJ/EzY7HDI7CxHBt9dG8P2ly5mGBw9BQK7tiJb9b2P1kdxFpdiQuQZDX3V/AQc37gq7kl17g41+TBTM7s+eLnbkqCp+XIhjtP6zQf2bWcdDmdvCC+/cA81PFIeh0x/jfHAGjnUvVg0GGX8lFOkphC0uiPcKrxB1++76/8V7KaX5uI5TcRxInqt3BfNRsBvx3h/mejXhsNodgkm3blt739zAtGqw=;WMqkpC8glBxy8ltutCD/xQ=="
 ---
 
