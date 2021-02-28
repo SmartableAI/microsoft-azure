@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-pre
 webUrl: "https://azure.microsoft.com/blog/azure-firewall-premium-now-in-preview-2/"
 type: article
 quality: 87
-heat: 147
+heat: 149
 published: true
 
 provider:
