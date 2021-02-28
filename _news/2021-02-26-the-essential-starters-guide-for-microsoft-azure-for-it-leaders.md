@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
-publishedDateTime: 2020-12-11T13:40:00Z
-originalUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
-webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
+excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
+publishedDateTime: 2021-02-25T18:16:00Z
+originalUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
+webUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
-    width: 640
-    height: 427
-    isCached: true
 
 related:
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
@@ -395,6 +389,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
+    publishedDateTime: 2020-12-11T13:40:00Z
+    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AttackIQ integrates Security Optimization Platform with Microsoft Azure Sentinel cloud-native SIEM platform"
     excerpt: "AttackIQ announced integration between Microsoft Azure Sentinel cloud-native SIEM platform and the AttackIQ Security Optimization Platform."
     publishedDateTime: 2020-10-28T03:00:00Z
@@ -476,15 +484,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
-    excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
-    publishedDateTime: 2021-02-25T18:16:00Z
-    webUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
     publishedDateTime: 2020-11-03T06:29:00Z
@@ -527,6 +526,6 @@ related:
         height: 293
         isCached: true
 
-secured: "feSMzGCBj6fg+HaYmZ2ntgMEl5vxKws+kqrbtcsfmIZQwKrcNziwFfGq+OOreiTx3Cm/dET9C+58tMXAws39XDk1POx4JpyIOD/27PRSa5YDBOhezuiUSuUmnH8O+EXcqg76b3/qiW0U95StW4lWGSX4C5Kfq4gsSnNfXX5TUgxTNemsUQFAxYb0Kvdf/vKo7GwLa8i5SEXMTtTG045gWl5sdxT1vYgTjtjNuLERaF73Z9yxLjFrsoDXgnegSiX/8kZgW+39p22ZiQ1/9lvDxMdwJqLqzFSDbgHoj3c1ZkciN+ypFQtJJjrMy6eTIeSquNg0iXm7/3GMY1BCYIDZmL5ynXYEilv1kPvaW6liRgVXTTaCZDXuKad5LY6PKCTCehaOvUofqOlZfJbZsoQhNCxJuKYUZCCFyyKsLAKTQTahciPyHvhsD7JzbP2i4mGywBnEY//rws4XMmPHJlnZPvFj+a/Cn+FSwZjXXMQOJpn+0co6wocT8Sd+WX93wfDpbPVsaT2uMTX185CFWyrtdg==;TENiU/7e4pwuxxV5BC5UmA=="
+secured: "uGljB69WQhm7hD13rjbNK/l/HtMfWcTw4UlxffKT72krEE0WJnLTZYSjzRU4vpnm5bPVGfhqA3tuQgo1WYkUQkfwLE1oK0B5thnOQddNALZ/RY9qqwTlb6gyjtOfPNx09mUn+j8mdOme/ve+ETxev2+hVML0NLTehvcGw9sHCwmw6dTmSRXX8pZW80ysoDSY995WOt/j9Z0tZuyDEE25Eqd29SF9kM+z93wJtANr3oIEATITEuG4JhMPhOGBJ0WQNqR6a59uXzd0ssm2oM9YBtfSxcMEsy5IaEHU5JAZn3v36ZbOSU0nNIIsXK65pziHde/DpNZ/WyrnzJJk0Ca8Ebz+VYrL0SOazp7g54F5Jl4=;9/3uFi8x7f5voAPSQ6U2ew=="
 ---
 
