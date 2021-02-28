@@ -3,8 +3,8 @@ category: news
 title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
 excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
 publishedDateTime: 2021-02-25T14:21:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
 type: article
 quality: 37
 heat: -1
@@ -62,20 +62,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
-    publishedDateTime: 2021-02-17T13:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
-        width: 400
-        height: 306
-        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -196,18 +182,18 @@ related:
       domain: itp.net
     quality: 51
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-17T15:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
+    publishedDateTime: 2021-02-17T15:17:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 51
     images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
@@ -277,6 +263,20 @@ related:
       - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2021-02-17T14:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
@@ -460,6 +460,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "ZxGmAg+PI/fdSNkFyrf/2t0Org1ltAQTWo5AmKUok0fxtyw2uZUTkxXqltVJkPoHvphTqelU0jknQL15rjEFltETt206Mqx4BtZqsiVmIa3NOIXnvBzO54ji5xCWJ7uWTU2a35Zxcg6C86CUGYwtrhPDBwdLKUGU+MGL5EcYKOy93AOdV0vVqCQABfDjKyvvnqcWLePsbYKCA7ZBPFp4hCl5eXjjfsZWHWvW3S8V9FTOnMxVooz+vl+UzjKuxWt7WXLkfLeW2sR1Hln5TK371y7svG0DrVIhUuFmMg3FsxP/gpdaBlsYw0mnj6MPM4ENNT/yPAGB0GiwIAGGYHFNO5XWMilP7J963p2FNucEsWA=;Ifzg743mLhJZOmQLMKp6oQ=="
+secured: "L/aeCFwgG8LD9PU24W+Qmh828/MtdpPiKqaMrDboo8kd3p6diaCn7nc9Oxkgx19KEi2mZJ0jJFizHTbKRF2Th1/YqdGF5iUF0rde90G18FmD0TInT8IFMIlKRvIPPr+8f34XTLeFYYpshiM1VOMtzMdRhygvmYqtz2N1HFxBwLOw5h4rA1RnxykNBqIe6QWRIE94TsuvSQptuqNFdzsABRGNkpGTWJbTN+HXvE6Aujlc9F5QpUZIT/pG5OK9UPjuBPVxWV3etKCAP5VysZ4821Vk7Qa14ViQn0fhwLxVwiwml5rxZLC+JfWJd4UN8hJt2i7exUZ49Y2ITSZrvrD12/Hvu1GiQD5n2wHUXOf3n18=;ynyTZD+8yFW1Gq33lCyyeQ=="
 ---
 
