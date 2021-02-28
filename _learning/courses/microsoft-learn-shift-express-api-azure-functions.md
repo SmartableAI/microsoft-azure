@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 98
   average: 4.785714
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Serverless
 
-secured: "ZXU0TFjKXhcARqu+PMELOZt0ARwiROy3AO005NYH4TrCej7eFrRHo6LNsuO8Zofl9qRoN15J/uaBwzkSvw52nkF+97GwBhCvm/qfFZ5X+X+qNdZDl7HOCkQr+k4Y4n6w4C6KrkpTujOV0q0Y8gAPy0YWjimsP0PeJNzAv7M+Wlb4/DQcL38tw3JmlgS34dSWYgpkkmEsOPkAhn5aPU3+JtW6OMbqS9TywgwmrD1nI1Ow4bu9TyvyJQgc8fgGjrDsiiuUqHJvNmSHJ80UxDqBSN4Jclwt84X4/qqEXwNRfE8nV6R93/DGk90Ek61ogER1YocHriBlE+LE/1m4+oECK/x4uqXUuhOf1rOAqiOGE7rh8dBH16QIpUwgY1v6PXBZ8h1Qk4gCJ4zdsTF+3QHONOTF3LS479smtj+jOVc08BA=;NNufbsE/+wbqmkj24pXAxQ=="
+secured: "yn66kVcvFW/LDdNrv2XFsWPruvG6X7f0R5DESUm73fhu9at0lCD3lWyX+7lWswfVMQmxNmyLuU2P2vOrj+T6zp90Ikjfl8HEBgQJwbiewWYHCB+EHq+MyC1LBKKDN320hwItWk8c3NRhkhRrddvgG4U9FnVDx1HHca4j14AAZheFGZqPcz5ialaLQCIHCWa2VPBfVVJ74qDkj8El38an3ezISNZP9AeReeQMdpJxSVKKzbTH1xb13f4pl5fC4vE2mjgp4pnlocqoQrY5FbVjD3PCs/1Dz0oMFAAo23yy8DhVAR1BD8rTnrW8okI4z/yO8VmNm9HC2YNHCpbFU//JrLl2b/Bl+r7m2hW6hzLXQCnIfFbrp+8shkAQk1xEVIsF3eevvH7wuq26LCopA76SQQ90xDjYXEGN6WEACQDN8WE=;lX9412VCm2+2opqaolXXwg=="
 ---
 

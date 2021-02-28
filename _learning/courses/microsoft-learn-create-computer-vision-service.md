@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT32M
 ratings:
-  count: 1427
-  average: 4.6503153
+  count: 1428
+  average: 4.6505604
 heat: 51
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Management Tools
   - AI
 
-secured: "iNQzTFb/XAE6dJKrng6dYijiZ64oI0vXinPG20jRO+htmvh6pUOdpS63RmZlsYJ1H8XFRbI+LQD8XAmLdtqR5a7AaagSgwywRnAzshffHPSkySo41tUjQI3OOSGFXIujhK+nR8FdXtESSr7cqID0ecaEAp1AFXYKON6KMnDRyQqyFGgHLH12MyxpdI8souuVbMU1wzCxP4/cSYqBFCEh8OUwrvpICeLzPFlUqts5on+sXgVC7mq0Meualq3qBcW96g7ry2yNFgqnYak/1PeLonFqdSYVpHfVZWutn0f++kgl8mrXiD1Gytj3SX4r23U7U0ax9v8X5sa83uVAtO3J5E/fR0pgC+og15VOcK1dVXqxnGJ+XuiwMzIBdzMGKOkh+1WdjD4QtReHDm+tp6+5Mc7IZ9aMYnx5QDjo0RJbQ64=;At4W3xWRPorkfxYEPHxh+Q=="
+secured: "a/A8EMvPw5g7o5OngJgzA0nB3vpFMn7Cgrp7MaTgTgDpgVVBhfaPU2bIl4bfpSF3diDOjZPllpZlvOcZs3tphY5apM1s4ECTowzgkq1ei+K67TvG1EG/qPPMwlcoU2caYtd6s2rBoET977wrWNRMzT0Aw35kg7gsph1hxefr+7sGi5grkgC6yLSXgK0pSEbF8jBdvixVjfq2LWsChJnMVfCcmchkVoMmwLDIuEON07VsM8J2pwZ2mAtPlSwhAGPhx5uhyw9thtb79iOw+VF9IpsPPMqynZbHWgLiRH0xc5/XDXx1IHPy6wzWNKkyE4CzkdvwcaG4EzeCImkJgZbCgY2yLjczK53pZZnhpAasqKVx3KfF4DNkPLjsvtcGh+xvfG1WQfFoPspJ3310lC/9o7lEzSEypK8Ij+xYoW56MAU=;4StVcefwgzF9Cpir1Z9gDg=="
 ---
 
