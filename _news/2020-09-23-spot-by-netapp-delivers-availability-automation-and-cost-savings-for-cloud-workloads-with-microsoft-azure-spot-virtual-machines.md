@@ -1271,7 +1271,7 @@ related:
   - title: "Microsoft Updates Java for Azure Spring Cloud"
     excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
     publishedDateTime: 2021-02-25T16:27:00Z
-    webUrl: "https://adtmag.com/articles/2021/02/25/microsoft-updates-java-for-azure-spring-cloud.aspx"
+    webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
     type: article
     provider:
       name: adtmag.com
