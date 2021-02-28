@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-p
 webUrl: "https://azure.microsoft.com/en-us/updates/copy-blob-support-over-private-endpoints/"
 type: article
 quality: 95
-heat: 215
+heat: 216
 published: true
 
 provider:

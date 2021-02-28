@@ -1,27 +1,27 @@
 ---
 category: news
 title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-publishedDateTime: 2021-02-17T15:17:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+publishedDateTime: 2021-02-17T15:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Integration
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+    width: 1000
+    height: 524
     isCached: true
 
 related:
@@ -63,6 +63,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
+    publishedDateTime: 2021-02-17T13:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
+        width: 400
+        height: 306
+        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -251,20 +265,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
     publishedDateTime: 2021-02-18T15:02:00Z
@@ -338,7 +338,7 @@ related:
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
     type: article
     provider:
       name: Associated Press
@@ -461,6 +461,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "+vEswjuyaMMqwcbLuRX2KTPytyiVAGkZyI+qu7PtWBf4R7y5sIHQLaCWhyYgeI4+QLG60X55lj/cd/5yx8ab8BYK6NhU27rxeyueVVO/UROVfR0DLGsq0/5Hx+tokoQKk2b9sID2OMlhD7QKVGgFkVyWHpbO7s/IxIyHarVa+Zhl673ssch71YrMz0JvY7pFhNLS1wMyfo6lEY1jQpl5HJBommU8ZcMtYs4KwcpwKzn6+EfBnFMY2Xc16oRJ3uALrzGHdfAWM4xBl+KQiPVPfIgW5/SkC33iiqHvgAcpgkoB5qcZHJOixijfi1fYzhUGvzH3Ucbgr2oieBHl4fClPdPf97mIY+kYiXz4AWQ+DAY=;yUo16d4X8opnBlbptZi0lg=="
+secured: "szA0OitNbOalGoRLemy0GjzzYYZPAALZRuV0fUKpKRJNZPgRQ901ot/f6O3fkO2C+SK5HRLe2LKiXh7FewPQtcKbIkuDtYnXRCK4Naxe+frekw8IftK2I1yG+leg9t9FBsnW5PaJfiHXCS83JLNkGBx5yJkBwXxFNxz8H9DPW14iHCzAvIALFQJaOv9ZIrCGB6sfluiC0zqW02/kgSMvnlFjP4814OCjrZDmkOymAKcTeJKrlvz0lASqgrAqLhluG13oKa4ospaQlJha3n7e25/jptl3rqOgj3N3HAU3GPeP6lozhQC3EKN0XCdDwFftIqht19nX2eAvCQouWeIrTxBypdQIbYWBLaKpjdtGJ5g=;EQhUn9vXkrMCc3wjA9HrfQ=="
 ---
 
