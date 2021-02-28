@@ -352,6 +352,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Company-X recruits five-time Microsoft MVP and Azure expert"
+    excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
+    publishedDateTime: 2021-02-28T20:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen.jpg"
+        width: 800
+        height: 540
+        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -464,6 +478,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "CSQzKGlrONpBms13Q2fXFRH020g+31yZQk5s76xIbjsrLmjkdg/FKd/aIgjXiWpPExUo761YWm5Ng01/DfslUGnWhHOKGi7X/Mh7ngRRqaVJaBIpT/3rEz03pMNpNTDyx/DIK9C5IbGoWvvlbzVYKaEDtQLq9LswV9W+V3jZDj8QG+RKm6M70eQqp7KW64B8EY+O/RbRXkkTC1BrBD9yN2/JswreZLr1MEUpldaMztzODNKxQHVrtLuloe6yNu2ef59EPm6Cag/075MjDXcTfajaucnQaiFX47QDlpdZVyllOWFZBS3tY9Z59k9fJWvBf4ASRoQtNIB+9Y8xP1X4ogr/L81GJO44Vs/bFHMFa4Y=;lZUQ/zNqPabEkjFJv+rEeQ=="
+secured: "qRwD5w544rDio7EKQEm/GYELHgqi6QnxFhgXxJwrTGPGIqyTRKDG1fB4aGqzYoHb/AdVnC9h+NP9e7rahcda2BrcXqEh2WZQdi3W0d14fk9rdM/6qTc0YnPfvbz+M99CiRfJgJmk8UaRa1dcphb0MGvrrGva0eBppto+9TDIgTu/XjfmTqBKCkwx6Y54X2lxOqTPF34+1DVd3bpHb4uG5nwwShMV5ynKAvcjGrAi/LJ1+JCBQ2A5mrSf53gfXYLzTMuGkXmtZOXBW1Y3k2GBvYKBj7U3bwB4IRQMsYrgWbraZbuQt3eZ6xcGqnSi1uZujTEgptqxpoYuEGHg5QbPBPgGC0RDgUrv0voIPTzxFuA=;PXxOcpyqo9CJcTUTRzCMGQ=="
 ---
 

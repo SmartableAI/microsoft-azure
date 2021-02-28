@@ -362,6 +362,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Company-X recruits five-time Microsoft MVP and Azure expert"
+    excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
+    publishedDateTime: 2021-02-28T20:57:00Z
+    webUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen.jpg"
+        width: 800
+        height: 540
+        isCached: true
   - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
     excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
     publishedDateTime: 2021-02-17T12:05:00Z

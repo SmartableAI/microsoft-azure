@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
-excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-publishedDateTime: 2021-02-16T22:06:00Z
-originalUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
-webUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
+title: "Company-X recruits five-time Microsoft MVP and Azure expert"
+excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
+publishedDateTime: 2021-02-28T20:57:00Z
+originalUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
+webUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Linux Today
-  domain: linuxtoday.com
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Azure
+
+images:
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen.jpg"
+    width: 800
+    height: 540
+    isCached: true
 
 related:
   - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
@@ -356,20 +362,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Company-X recruits five-time Microsoft MVP and Azure expert"
-    excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
-    publishedDateTime: 2021-02-28T20:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen.jpg"
-        width: 800
-        height: 540
-        isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
     publishedDateTime: 2021-02-18T00:00:00Z
@@ -454,6 +446,15 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
+    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
+    publishedDateTime: 2021-02-16T22:06:00Z
+    webUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
+    type: article
+    provider:
+      name: Linux Today
+      domain: linuxtoday.com
+    quality: 17
   - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
     excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
     publishedDateTime: 2021-02-17T09:47:00Z
@@ -473,6 +474,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "UobwkIWC1bevsyiV3tOmMlz5Hki2oeRvaVIxGoUUeVmU48N4KouDqKpmxkosEALiC1ZESt5mQn2gSjXyqoDnplch4R+StyMuzorPO8AA7MJtDRI+Rm93lT17RCKBEGmYcTT7xAJgrjGw9I9FYqODPG01CVrm0z3QITIXfmtk0X+NALaxb/jRDxHqUnt2hcOExiaeT92btGhw9HPtaSRsrhrD/aDHepHe5hJMyuykAM9TvLdnOi4SsbJRi9FY9yPudODNnZcn8gRENGn6LPWrHfcwp7b4+uoMfslS6kEjwoCXHrp2XZPv4ODkdmEvevxx2Ak2rcjY8b7sWx3Y7RcuSANQJt5J/Az/phd95afB3/o=;SI466SDdZAoCn3+YbkC8lQ=="
+secured: "2Nmau2AQ/wJJpM2CuD9V2H/yXYnYxLw9WML7/Ie5+IJ243gYiLOzvdpXDWkyBR7HZAqo/Q9frT/IR49EX8gPR2wK0tKy5kLj62263P66h0t5iFM7w94QDaG0NYSQTSNUBqyiEA2xR70ljyfauEwplcXRHQGSP2RuvxrruBLiEtpAQ7uSVUgU5vBur7MovTzqLWWxHSTjx6yeojIxdpOIdUgB1vpJEZbmG6dELZBpWB81Rmp+xXHKBh+fxq9vcNKRD8nAy7xnXN2hyvUUgleCbV2AOcvFp92fjrJ5rLTntlpFxK4i992+/2aKX4k6B9xhQXCAjEbCw/yUg9645J09qnL5bH6iG+TzuzpykFmiKE8=;VJBg6fUXCdkYzLbkvwXI2g=="
 ---
 
