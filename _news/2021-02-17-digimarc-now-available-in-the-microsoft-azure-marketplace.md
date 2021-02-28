@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
+publishedDateTime: 2021-02-17T13:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
+webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
+    width: 400
+    height: 306
     isCached: true
 
 related:
@@ -182,18 +186,18 @@ related:
       domain: itp.net
     quality: 51
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
+    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+    publishedDateTime: 2021-02-17T15:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
         isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
@@ -337,7 +341,7 @@ related:
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
     type: article
     provider:
       name: Associated Press
@@ -460,6 +464,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "XdbQhbTBE4WSh+yLYrNP5K0IVzGIY8RLRFC5lY9TgPB7NtxItDtJTUeriwgvtlLnWNGz7nmuesxQ4+duwp0zK+7FrCUyJ4bITmVRoNn9KKEbj8SRECXhV3sdmPrhbwH1MXwgFG26oBmxOrgCqbBxyZ9q4u2hcd1HgZbGaDx3xfPayAmAE+CblYNzi6EBC4I4FLga7sfgnzQjVfJdHEbB7ZNX2dK2AkAQBjqIFhH+nJNl2x3BGiaD0Cvtk9lcVMvsI+vp06O5Jwet0FrBkMxWItts1MOJMLOeejiUd4T3jOmD1jBJHPgANIi/e78zLq2zzeUvuSXfMUAGjUTtQciHzOaJaKUo6NydJBtAo3PoNKg=;9bWRsrW4eCHqLDGfSXCgmg=="
+secured: "4HmdBMeJ/YW+PpBosmdgv8h80mG4qMUkFylyA0AKWmgI0PH4AXVvBGoBMzadL/j0qmF8ojz5V+/qAkJJzXCTZBISmPeTNHK/dLXUow4k3nu7fhCOkj6Z+tWkeK90iLFIfMwJdWhIBbuNmKuhvooFgl6SORO4yBIOBJ3DHwnHAkC6MgTODV7S6Ec9Qbzuqm1fj7kW1m/g4DTolEtHfNctzOL3m2uWxtFWF0Q82KvoAgb93eldOBFFgCgvFgkxpknaJabXW5oH1Xo+2ct0EyaQRckpfeJ2t0ydBPYqkCVfQetA5ur3y0aCJBUMKHb82onvxfq2sB1alm87IL3hH5ovgBgGVbOz44WSKDUh3mGXEY8=;qAmE/sAq80bA/uerol3DEg=="
 ---
 
