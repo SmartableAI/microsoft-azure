@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-23-hybrid-and-multicloud-strategies-for-financial-services-organizations.md",
+      "title": "Hybrid and multicloud strategies for financial services organizations",
+      "excerpt": "The financial services industry is a dynamic space that is constantly testing and pushing novel use cases of information technology. Many of its members must balance immense demands—from the pressures to unlock continuous innovation in a landscape with cloud-native entrants, to responding to unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/",
+      "originalUrl": "https://azure.microsoft.com/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e29be114-20fd-4726-b1e3-7a68d2bf2fb4.png",
+          "width": 1024,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T01:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-guest-health-feature-in-azure-monitor-for-virtual-machines.md",
       "title": "Guest health feature in Azure Monitor for virtual machines",
       "excerpt": "We are announcing the preview of Azure Monitor for virtual machines guest health feature that monitors the health of your virtual machines and fires an alert when any parameter being monitored is outside the acceptable range. ",
@@ -1120,58 +1171,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-reduce-costs-with-new-memory-optimized-azure-virtual-machines-certified-for-sap-hana.md",
-      "title": "Reduce costs with new memory-optimized Azure Virtual Machines certified for SAP HANA",
-      "excerpt": "In June 2020, we announced general availability of Azure general purpose and memory optimized Virtual Machines based on the 2nd generation Intel Xeon Platinum 8272CL (Cascade Lake) deliver up to roughly 20 percent CPU performance improvement compared to their predecessors, the Dv3 and Ev3 VM, depending",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptimized-azure-virtual-machines-certified-for-sap-hana/",
-      "originalUrl": "https://azure.microsoft.com/blog/reduce-costs-with-new-memoryoptimized-azure-virtual-machines-certified-for-sap-hana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/205c555b-e53e-4405-9073-c8a5f6ecd959.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T01:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],
