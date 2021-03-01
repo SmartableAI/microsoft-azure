@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/demystifying-cloud-economics/"
 webUrl: "https://azure.microsoft.com/blog/demystifying-cloud-economics/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

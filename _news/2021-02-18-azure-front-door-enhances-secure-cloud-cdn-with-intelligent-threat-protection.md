@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-
 webUrl: "https://azure.microsoft.com/blog/azure-front-door-enhances-secure-cloud-cdn-with-intelligent-threat-protection/"
 type: article
 quality: 101
-heat: 182
+heat: 183
 published: true
 
 provider:
