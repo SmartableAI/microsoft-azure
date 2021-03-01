@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Backup for SAP HANA: Incremental backup is now generally available"
+    excerpt: "Create cost-effective, faster backup policies with weekly full and daily HANA incremental and protect even large HANA databases."
+    publishedDateTime: 2021-03-01T17:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-incremental-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Azure HDInsight --Autoscale for Interactive Query with HDInsight 4.0 is now generally available"
     excerpt: "Enable HDInsight Autoscale to drive higher utilization of your clusters. "
     publishedDateTime: 2020-09-29T16:39:04Z

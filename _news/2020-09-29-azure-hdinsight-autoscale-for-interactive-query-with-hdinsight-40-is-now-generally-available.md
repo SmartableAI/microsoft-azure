@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Backup for SAP HANA: Incremental backup is now generally available"
+    excerpt: "Create cost-effective, faster backup policies with weekly full and daily HANA incremental and protect even large HANA databases."
+    publishedDateTime: 2021-03-01T17:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-incremental-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "512 Sector Size support on Azure Ultra Disks is now available"
     excerpt: "Azure Ultra Disks now support 512 sector sizes."
     publishedDateTime: 2020-09-22T16:05:21Z

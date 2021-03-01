@@ -51,6 +51,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 100
+  - title: "Azure Security Center: General availability updates for February 2021"
+    excerpt: "New enhancements and updates released for general availability in Azure Security Center in February 2021."
+    publishedDateTime: 2021-03-01T17:28:54Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-february2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Security Center: Public preview updates for February 2021"
+    excerpt: "Preview enhancements and updates released for Azure Security Center in February 2021."
+    publishedDateTime: 2021-03-01T17:28:58Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-february2021-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "We are retiring Classic Azure Migrate on 29 February 2024"
     excerpt: "Transition to Azure Migrate by 29 February 2024."
     publishedDateTime: 2021-02-25T19:00:02Z
