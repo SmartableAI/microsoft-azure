@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
-excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
-publishedDateTime: 2021-02-02T21:10:00Z
-originalUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
-webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
+title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
+publishedDateTime: 2021-02-26T00:00:00Z
+originalUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Enterprise Irregulars
+  domain: enterpriseirregulars.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
-    width: 647
-    height: 450
+  - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
+    width: 600
+    height: 400
     isCached: true
 
 related:
@@ -331,20 +331,6 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 37
-  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
-    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
-    publishedDateTime: 2021-02-26T00:00:00Z
-    webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 37
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Singtel to launch 5G mobile edge computing on Microsoft Azure Stack"
     excerpt: "Singtel said it's launching 5G edge compute infrastructure for enterprises, with Microsoft Azure Stack as one of the options to deliver 5G applications. Enterprises will be able to use Singtel's Multi-access Edge Compute (MEC) infrastructure to process applications like autonomous guided vehicles,"
     publishedDateTime: 2021-02-02T09:41:00Z
@@ -410,6 +396,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Outlines Azure AD Best Practices and Rolls Out Conditional Access and Sync Improvements"
+    excerpt: "Microsoft recently announced some Azure Active Directory improvements, including conditional access policy management enhancements and synchronization service additions."
+    publishedDateTime: 2021-02-02T21:10:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/02/azure-ad-best-practices.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 24
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_F2Hello.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "What Small Businesses Should Know About Microsoft Cloud"
     excerpt: "Microsoft announced its latest innovation — Microsoft Cloud for Retail. Whether it is clothing, technology or food, any business will be able to integrate this new platform into their workplace. Microsoft Cloud Retail bundles several apps and utilities from the company,"
     publishedDateTime: 2021-02-04T14:43:00Z
@@ -443,6 +443,6 @@ related:
       domain: pr.com
     quality: 11
 
-secured: "QH5m1Qw0aDrLpZPe3oNQz4ENangHYAQzqGrqeP7IvRK6eVfiVT52k1Zgv3KD4AqAozsuxtLEp1u8HhPO6lSZbltXDD5aVHCFjoHdUsTqz1GKeTh7X4y3iqaxrD7/NFNGNHZy+FffkOSYMcDN3uJEciOdTyPGD9P6A8ljnMrow9gTMpuOxhGqieeAi0XBquUn0y/n9FAzGHCBvjXJ/bZVAAELKdYnaurlPbwWAEtD3ad/Jua/O12mGDJBwd1qERKkjsN0BbriNkMni+06TBCtXczf0vtHB1T6HV18PjXCymLJZy1G1s3LDjCT1pP1QDnuhg9hYQ5xjzJ6ggGn94PQSxkN1pEB5OYT2Ch9GWk+/ZzP8UUS6g9OWHwUDL0ZZm8CzAN952Tih3XYWCswpwBDGILUECvGprCza6VlCUysqYStCFpp6+KVnZBrVgaPYGJXFhZ0epj4XkdK+dC1TJVQ6ur/R4KNtm7OKaUwSnnylCFN7iGc3GTqBqwgEUNWOClQYwDuYrHOJDvUvvCRR0/9vg==;HfCxG9kH9DcCqDw573KJWA=="
+secured: "d0MO64WHGiFBLItmgD3WGMFLhoQMT7JeM2AtWAfBoE9Z2kC3G07a24OMtS6zLMvyZYkQd44HRjnDy5lcIFql9/rcseb/V7JicIimuVhIuCNcw5/2GImPnDqjzKCCWa2gDPAwucZLFgOpg/3JZxV5Htsi8H0himM+PfnfHQmmG1mp2doSAqW97NF07STuokQXH1dLf09frbMvTyo/MlApILLudg/HN90HR1Rsvpafal9gxtEzC3aA83pfMBq3EdZDk2+L8dkUjzwwAN8aKjkMdBNI/PefUNmqsfzymhNqA2RcJoHUgbXFk+ON53GJNIxy7geJ0mAh+vBdDGvbiZ2kqpH9Vm8evAaveyq3dfnttb8=;okEMTkXDPBr9mnegL9fkjw=="
 ---
 

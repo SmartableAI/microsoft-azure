@@ -487,11 +487,11 @@ related:
   - title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
     excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
     publishedDateTime: 2021-02-25T18:16:00Z
-    webUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
+    webUrl: "https://www.cio.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: CIO
+      domain: cio.com
     quality: 17
   - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
     excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"

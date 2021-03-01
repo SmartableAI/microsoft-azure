@@ -3,16 +3,16 @@ category: news
 title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
 excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
 publishedDateTime: 2021-02-25T18:16:00Z
-originalUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
-webUrl: "https://www.computerworld.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
+originalUrl: "https://www.cio.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
+webUrl: "https://www.cio.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
@@ -526,6 +526,6 @@ related:
         height: 293
         isCached: true
 
-secured: "uGljB69WQhm7hD13rjbNK/l/HtMfWcTw4UlxffKT72krEE0WJnLTZYSjzRU4vpnm5bPVGfhqA3tuQgo1WYkUQkfwLE1oK0B5thnOQddNALZ/RY9qqwTlb6gyjtOfPNx09mUn+j8mdOme/ve+ETxev2+hVML0NLTehvcGw9sHCwmw6dTmSRXX8pZW80ysoDSY995WOt/j9Z0tZuyDEE25Eqd29SF9kM+z93wJtANr3oIEATITEuG4JhMPhOGBJ0WQNqR6a59uXzd0ssm2oM9YBtfSxcMEsy5IaEHU5JAZn3v36ZbOSU0nNIIsXK65pziHde/DpNZ/WyrnzJJk0Ca8Ebz+VYrL0SOazp7g54F5Jl4=;9/3uFi8x7f5voAPSQ6U2ew=="
+secured: "iOs8P1QN3hogET90YVQcncgFDVYNTNvvxz0aguPSCJbxhseQ9PzPCkzCSx62V0OcWowWq8NnLGUeqqrcQVHtKfARwmWpynkrgF5xP+xkYk17gvvWn3pMt+cjo4ginzZ+tY3xjNlYyGVVMGMNbqxhj75MXEzf51A6T5IjNW82Q6//DdQAPq11Fmv9W03o2LcGlgMoqWcAHdbbInkWewe73UnaMHHPlGcJe4PVtrU5wrySh8pVS0YYBQFpHNU0LaXfU9Xqxom0FHFYUHWzcF34ztTvJl5agNDH84G5hxAgq8DI/Iw0YP+xqDWn0GJ+DdwsW8z5KOTXPmJ8mHAZ9q5IFoIUFssrJzQFS1ygRy7SpPQ=;pF9JsFOzq51R/ENoHOCz8g=="
 ---
 

@@ -326,6 +326,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 37
+  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
+    publishedDateTime: 2021-02-26T00:00:00Z
+    webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+    type: article
+    provider:
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 37
+    images:
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Silk Announces That It's the IP Co-Sell Incentivized Partner to Microsoft Azure"
     excerpt: "Silk today announced that it is now an IP co-sell incentivized partner to Microsoft Azure, bringing a high performing, supercharger solution to customers'"
     publishedDateTime: 2021-02-09T15:00:00Z
