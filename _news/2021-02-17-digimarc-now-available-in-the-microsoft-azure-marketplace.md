@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-excerpt: "Digimarc Corporation (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply Chain, in the Microsoft Azure Marketplace,"
-publishedDateTime: 2021-02-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-corporate-news-products-and-services-new-products-and-services-media-and-entertainment-industry-aa2db1b7fb4cdf8bfa97b793bb678aa5"
+excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
+publishedDateTime: 2021-02-17T13:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
+webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
+    width: 400
+    height: 306
     isCached: true
 
 related:
@@ -195,6 +199,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+    publishedDateTime: 2021-02-23T14:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -337,7 +355,7 @@ related:
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
     publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-3388f5576646a846a572dc08e35eaad3"
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
     type: article
     provider:
       name: Associated Press
@@ -474,6 +492,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "5sU5lvSMn6eHOWu/tIIp0DyHGTA6bJPXnWh7ZvxAqGMGgEmPrD9zvf5FW8RhJ2us9b9ZDpZbxoqmCnKdl6/A9D8N71UbgVXTuHblToRXpRr4pOn4qfDWZfKIQYvfyHv0ft1LZIv3AQ9I4NoLpB59jmQiy/mEhfQ20kxiTgL9QbdmL4PX3uvsid8bxgwy8pu7PG3X/i0GgreStxDBjKAIV2dhyS2IUzWC/RpTfiPdqUIgNWysLij/aBjNWrH6OW4JpJUd68dXoS9n3bJ4zPBujFtPlPC3uUwjv1bK/U8AIJh9/tUXPX19T4dVXqqLcfpwVe4OSt2X9vSF78jr8hyiruwgomvGnWi9JMG84Mw0mo4=;ZJlPXFiZRvd4xLLt2YYddA=="
+secured: "z+DaACczRHLxalSbwsIvDlZDXqP+XzRn21RxJEjUUNVxHUpvEVa3VgbuOmA+UT7Xv8KMSOia9MopddAkaV1kATqUQQSCV8ZSfEwuYbtuHZc0aSlGNiGk3DDCY3gLL8/pe8TGNR9sbk5vtz57GaujQBaqJUDtJIa7hoRMlGtBwvLCGEXb4S4Gk1Rq2KJ2/Fy8a3QKMBCbKpITYA97itrqrCGlKRpk15QtbvrLHTo+P7aS7/POfrnG6JmteEysFGOhRD9lagm80nS+1xhCKUrx/IyP0AEMKxcFoRupJuM69mX9tKUOhZQeFfmk3i6ea/OHgce49nOUXZan6DNC/lTIquGebHvPL2MXFL1RzKXqoiY=;YhZ+PyjqiE6/O4Fhn7FyBA=="
 ---
 

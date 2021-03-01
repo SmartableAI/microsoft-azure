@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
-excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
-publishedDateTime: 2021-02-23T22:34:00Z
-originalUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
-webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
+title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+publishedDateTime: 2021-02-23T14:23:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
 type: article
-quality: 37
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Upwork
-  domain: upwork.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+  - Integration
 
 images:
-  - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+    width: 1000
+    height: 524
     isCached: true
 
 related:
@@ -209,20 +210,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-23T14:23:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -333,6 +320,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
+    excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
+    publishedDateTime: 2021-02-23T22:34:00Z
+    webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 37
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
     excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
@@ -488,6 +489,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "WGqRhijY3++d24CaeHC+PQYkOgLIH36IcUsBVhMLctlqauUUZ0BjK5Uf43fGEJbToOU1RYQuJ8Xx6JDBc2a5WR8AvEN+HxPuYruYc/vzIhLg8ocLNTu8TNolju5ASOwVoxyH9dN+V7eF/gWrVA8dWN/G2sKwERIig1Z8m6ktrQ7l4s8thWCDU3ieSxuZAFG/y5Kqy026ezPBw3eoYEd98u40esxTIyWb1n1qXBWHO8HgXrCM/XEmv44JObhHTKvbsThGR6WQRV0pZvHhwcnuoramzaN5HgMtCSqnte+2cB/kRkTsoo5jZm5Br5gvJlAhW9Wtm8T+YX3KX9t/jquDD0R2jBxI3Jh9sMMIDGfEQts=;0IHZhSaROVaBnb28klVNmA=="
+secured: "pDBfBnXpaXpMEYNPdmzwCiiFDlzATay6/FHeBQ2zigk2Q/Y2W0D+m70zn2kgqx10EVdYIVeyFJCvKF6+eHHNCEv5OPAWb1VxuksAVH7DZVjnMUmscZQfPHX6NJ9m7wQodjeiV/C83oGPlaKn2vtNVnAZsNH1al0PBOavmcXq7oFf2PMtTQ+B4n+eMV4dTZtQzqzuiujDvjRxa1F0Q9l+bR5lETfPLQk6jvnaLQ8B37vqgq+Yem3rrwH92RPRGdEY3VR5Z6nRq114K8edWPiIpuYFaR2n6aHD+6tLaKEu5IEjBAKXC/6L9awbSgVOA5IuLpw0bfNAFCGBJ44rf3Nd9rP9qt8xhFbdLRFBGGWHW2I=;izfSg8ROLUuGNgGiWT1gCw=="
 ---
 
