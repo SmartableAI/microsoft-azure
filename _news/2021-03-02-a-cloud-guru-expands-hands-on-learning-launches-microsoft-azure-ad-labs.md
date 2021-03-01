@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Updates Java for Azure Spring Cloud"
-excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
-publishedDateTime: 2021-02-25T16:27:00Z
-originalUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
-webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
+title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
+excerpt: "Now offering over 1,600 risk-free environments for building practical skills across cloud platforms & open source technologiesAUSTIN, Texas, March 01, 2021 (GLOBE NEWSWIRE) -- A Cloud"
+publishedDateTime: 2021-03-01T16:53:00Z
+originalUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
+webUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
 type: article
-quality: 37
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: adtmag.com
-  domain: adtmag.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
-    width: 1665
-    height: 1158
+  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -1268,6 +1268,20 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Microsoft Updates Java for Azure Spring Cloud"
+    excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
+    publishedDateTime: 2021-02-25T16:27:00Z
+    webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 37
+    images:
+      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z
@@ -1295,20 +1309,6 @@ related:
       - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
-    excerpt: "Now offering over 1,600 risk-free environments for building practical skills across cloud platforms & open source technologiesAUSTIN, Texas, March 01, 2021 (GLOBE NEWSWIRE) -- A Cloud"
-    publishedDateTime: 2021-03-01T16:53:00Z
-    webUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 36
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
@@ -1798,6 +1798,6 @@ related:
         height: 450
         isCached: true
 
-secured: "iyRB7d5zX7JpHplZS6Oc76TLcumzYUdbF4OL70ILwxUa79qGL2Fypb+jg641QsRGM5MCgf+ps3N3slUPgo4xg8smDDum+Fpm9Ds9mXaQEGZt0787t421gpBX04OgMTn8QkOlNkxwo/OAcKBMS6WM8wwRKhi11bsZjJCcwsVT2Goru5tXlNQDoJlW+2zLzno/23RmEYGugk6TKhada3gfoQiy53cvc/kSW3xfl384MsnYPhBeatPAeEZoV9zKPyPd/PFSr62CdM/SjgdZ/R3U4Axlkuqu1nQeBC7iafrT/ahEvhWzwT3jepHWHPUNRCTcQXMkxaQJQZONTcjxKHsgUYCDDA1L8TQmOGc7eU4laXF3WdUfKyw37YErZf09SbWYO5DXKW/RuP519y6YcE6ascGkmC1eVAH465VZCoVkDGuu3ymxY8OnbFlC2mErmVbZCK6XC7Q00XV696cGmlrXdoswuc+Z0S+YPHuK3DGi+CqrAbFjb89dlJI4p0A44ViZlRISi9Gc397pwlINY441lA==;6KeQeb3pZZPVyTPnVP7zfg=="
+secured: "RrJqtsAWejvDDfrDgYo+5cbrRCZUkBnBcBNzZzmyj/PacW5+NxLfd89JcNG60jWvv74BEgZiT6RAaLzWR3vjWQrUzvcwgYLpGt9vzVQIO03UvE1H0FTumHV9vrySdfOjgauBEU5lps9/70N2+to49mtkv12W3Bu4EdphdRtKSH0rieDFDIf46NiE0J84TilBZgY600oxTtG9VCRpw+gPmeQGVjwSJOI463g7MKE554H/rLRwQ1ApMPmzzrVYCR+jqCnoFv21e3H88hNwFgDlE5205PXBw33St/B2L2rhspxA2SgOQf10dcGKWtZCjf/KJWT0GWn4QGKZSwqeVUXB2VhEvdlCM9/OAuRKYePfTTM=;Lq2wo/egLvViIEtT5JEBdg=="
 ---
 

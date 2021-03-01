@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
 type: article
 quality: 114
-heat: 2734
+heat: 2754
 published: true
 
 provider:
@@ -1300,6 +1300,20 @@ related:
       - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
+    excerpt: "Now offering over 1,600 risk-free environments for building practical skills across cloud platforms & open source technologiesAUSTIN, Texas, March 01, 2021 (GLOBE NEWSWIRE) -- A Cloud"
+    publishedDateTime: 2021-03-01T16:53:00Z
+    webUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 36
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."

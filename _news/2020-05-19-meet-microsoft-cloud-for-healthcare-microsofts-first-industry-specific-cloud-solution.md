@@ -1312,6 +1312,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
+    excerpt: "Now offering over 1,600 risk-free environments for building practical skills across cloud platforms & open source technologiesAUSTIN, Texas, March 01, 2021 (GLOBE NEWSWIRE) -- A Cloud"
+    publishedDateTime: 2021-03-01T16:53:00Z
+    webUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 36
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "NCR brings its IoT management software to Microsoft Azure"
     excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
     publishedDateTime: 2020-09-16T20:34:00Z
