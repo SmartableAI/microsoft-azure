@@ -4,7 +4,7 @@ excerpt: "Data integration at scale with Azure Data Factory or Azure Synapse Pip
 type: collection
 price: Free
 length: PT5H11M
-heat: 61
+heat: 64
 
 provider:
   name: Microsoft Learn
