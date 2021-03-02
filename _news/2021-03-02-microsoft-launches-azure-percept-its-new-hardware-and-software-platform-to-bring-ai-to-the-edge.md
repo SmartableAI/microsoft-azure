@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Mesh brings mixed-reality apps to Azure"
+    excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
+    publishedDateTime: 2021-03-02T20:37:00Z
+    webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Azure Percept in public preview"
     excerpt: "Announcing preview of Microsoft Azure Percept, a comprehensive, easy-to-use platform with added security for creating edge artificial intelligence (AI) solutions."
     publishedDateTime: 2021-03-02T17:00:22Z

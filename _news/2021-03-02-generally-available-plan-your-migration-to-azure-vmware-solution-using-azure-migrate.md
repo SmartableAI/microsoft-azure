@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
-excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
-publishedDateTime: 2021-03-01T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
+excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
+publishedDateTime: 2021-03-02T20:00:04Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
 type: article
-quality: 61
+quality: 92
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
@@ -31,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
-  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
-    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
-    publishedDateTime: 2021-03-02T20:00:04Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 92
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z
@@ -67,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 66
+  - title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
+    excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
+    publishedDateTime: 2021-03-01T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "Backup Center is now generally available"
     excerpt: "Backup Center enables centralized backup management allowing you to monitor, operate, govern, and optimize data protection at scale. \n"
     publishedDateTime: 2021-03-02T17:00:06Z
@@ -86,6 +87,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "SKxCWHdhbgZQNJU8OHuSHqV/FxeKXZFsR7fEuCJhlPzaF7/da2F8AclxmunsGg4eFtKnGsfsum9B3xAIbwlQH1OHK6G8gOz+ZeHLJr8V8uOXzrMroeuNO/gFXGI7I5zyaJ8oFPr5ZnlKmZAchVhc5PqRJlF1GSIu0tiYOChdmAZW6FI9L6mbG2/vZbUawDgPbn1/N5vf8JeYJmpuhYOlwX5OgKCRYknjxWkTa/kUd3SYDYmz5zn3jFFSnO9GaXa8f7uJLq86BiLbYLv1QcS9yPDbeVPjSrAPj2jbKxXWoQrsuaBZ9OdfFlFzMH365hbgX2B7Qd2pgGOX8wwcBSEZnozuVedrM1H0hMMiSzomn4s=;5r4YEFyzk3fUhRpBt2Nh9g=="
+secured: "d7TGvP+F6P+jOLuniQEsFMugS1rwZr6Y7aP4jS0XnU8iimjPFFqErugF/roxYWeKYv7kJSg2koCHXmx8926W6A2yfB2XM2WzRc9hwUZ88JDO2DAHsfJB9zXMFENddBWDFtPxK9ZC511oUVk1DG463dUhR8E6ma/igr6mIVieXXRuH2nhYJKQ7D8qk7pYd1d0BSZjhQb7VBVF3mJsDJAyOnDX4kI1Pt1cxbckcspV2bZhgQkuN7eYGUlJ2MH36BgFW1Wq+d6MJePPd0ff84n5gJKh0FD4ZA7ZZLrdK8U0IpOetne7DyWSvXH2jkn1VsJ5Sm9yKiY0QnmcL6gZzF87NTGy1JdjyuT1m1SIxfTCmI8=;omMdxOCO7318cdRKijrA6g=="
 ---
 

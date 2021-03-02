@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
+    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
+    publishedDateTime: 2021-03-02T20:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
+    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
+    publishedDateTime: 2021-03-02T20:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z
