@@ -235,18 +235,18 @@ related:
         height: 630
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
-    excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
-    publishedDateTime: 2021-02-18T15:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
+    excerpt: "NEW YORK, Feb. 18, 2021 /PRNewswire/ -- Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Microsoft Azure Expert Managed ..."
+    publishedDateTime: 2021-02-18T10:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/logicalis-renews-microsoft-azure-expert-managed-service-provider-status-301231049.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
+      - url: "https://mma.prnewswire.com/media/656452/Logicalis_Logo.jpg?p=facebook"
         width: 809
-        height: 473
+        height: 424
         isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."

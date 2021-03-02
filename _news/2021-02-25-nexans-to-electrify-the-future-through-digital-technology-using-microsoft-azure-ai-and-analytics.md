@@ -1,28 +1,23 @@
 ---
 category: news
-title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-publishedDateTime: 2021-02-23T14:23:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
+excerpt: "Nexans will now be able to bring both speed and scale to the digital development process. The speed comes from the implementation of Microsoft Azure platform for services such as AI, analytics, cloud computing, storage and networking. This will put Nexans ..."
+publishedDateTime: 2021-02-24T19:19:00Z
+originalUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
 type: article
-quality: 51
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Newswire Today
+  domain: newswiretoday.com
 
 topics:
   - Azure
-  - Integration
-
-images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
+  - AI
+  - Analytics
 
 related:
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
@@ -237,6 +232,20 @@ related:
         width: 1242
         height: 641
         isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+    publishedDateTime: 2021-02-23T14:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
+        isCached: true
   - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
     excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
     publishedDateTime: 2021-03-02T14:05:00Z
@@ -267,15 +276,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
-    excerpt: "Nexans will now be able to bring both speed and scale to the digital development process. The speed comes from the implementation of Microsoft Azure platform for services such as AI, analytics, cloud computing, storage and networking. This will put Nexans ..."
-    publishedDateTime: 2021-02-24T19:19:00Z
-    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 38
   - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
     excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
     publishedDateTime: 2021-02-23T22:34:00Z
@@ -472,6 +472,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "pDBfBnXpaXpMEYNPdmzwCiiFDlzATay6/FHeBQ2zigk2Q/Y2W0D+m70zn2kgqx10EVdYIVeyFJCvKF6+eHHNCEv5OPAWb1VxuksAVH7DZVjnMUmscZQfPHX6NJ9m7wQodjeiV/C83oGPlaKn2vtNVnAZsNH1al0PBOavmcXq7oFf2PMtTQ+B4n+eMV4dTZtQzqzuiujDvjRxa1F0Q9l+bR5lETfPLQk6jvnaLQ8B37vqgq+Yem3rrwH92RPRGdEY3VR5Z6nRq114K8edWPiIpuYFaR2n6aHD+6tLaKEu5IEjBAKXC/6L9awbSgVOA5IuLpw0bfNAFCGBJ44rf3Nd9rP9qt8xhFbdLRFBGGWHW2I=;izfSg8ROLUuGNgGiWT1gCw=="
+secured: "wLSaCWtlIyY42kCvyed749ghLrnwruclS25Uqf0JH+Lt+6Aa2TAS7IRfmz2B0JxWf5Ym5jq+S0XmqkaryEVJWFFmYq+7n6mmYGHlLQiL+8eCbc9rUrE7p4AkOaLtRs7mHBJ/5DBGeimdn/qSQwlF65F5OTWelNkpeLDwDsrwnPSY7OzZQdH+mfNLodqduUoSJnIvhz7BvcKGsctzhMzXHa8QI7K5Rq+jN+5tchw9GxQIE185xHM4zXc0KGP/83FlkK24n277FCDMHoYWNVJtfQYc0pE5roywaftNij1LuNnv8u0BqBi1Z+lKSIGGTHbyONOJnR+/okSROuccAgiSsoPxUfoaMyYs2L9GiETcFA0=;vo7d6V1Fqop/Yw2JwfewTQ=="
 ---
 

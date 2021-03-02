@@ -21,6 +21,22 @@ provider:
 topics:
   - Azure
 
+related:
+  - title: "Microsoft Azure Plans New China Data Centers in Asia Cloud Expansion"
+    excerpt: "China North 3 will be the first Azure availability region in China to feature multiple zones for high-availability applications."
+    publishedDateTime: 2021-03-02T22:34:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-azure-plans-new-china-data-centers-asia-cloud-expansion"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20data%20center%20worker%20racking.png"
+        width: 1899
+        height: 993
+        isCached: true
+
 secured: "fTWHwR+Y9C8QiSExiItRcrlcyAnwTC2xfSrlNieu3hWpOxQs8Cmf+GkOMSzRliEprcILlxmbWpnUYPRlRkN9dcgWtIKCXlBFpbMwI+C2wnxiAlkQrS051rhZYyG+HvgwDWOTpL0Cejy6SNss1qXUaZWBrXZ0GxvE28/1K3IIfBPrnz3TBm+JN/STNFexSuTKZgHFAcs1gy37+CJEM+DLvgd40vjH1SHC5snA0r1vac6Re2VCZcaktkA/PS19EcHu9PnCp59eubPKmknedtcUx13U1zcTz4GvjqD/OYmo570anKYBTSt8O3qV1S8p5vwE+shtHpl/FXjC4PCsbihG+YQzQ8o7AFTb8TttAwZFxt8=;x8lFew02QE/sADs9EyECcw=="
 ---
 

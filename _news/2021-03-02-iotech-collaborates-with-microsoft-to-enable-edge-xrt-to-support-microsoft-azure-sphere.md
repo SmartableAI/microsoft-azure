@@ -161,6 +161,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to"
+    publishedDateTime: 2021-03-02T21:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Public preview: Azure Communication Services interoperability with Microsoft Teams "
     excerpt: " Azure Communication Services is now interoperable with Microsoft Teams in preview, enabling you to leverage a unified offering for both internal and external communication experiences."
     publishedDateTime: 2021-03-02T17:00:13Z
@@ -256,6 +270,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
+    excerpt: "Nexans will now be able to bring both speed and scale to the digital development process. The speed comes from the implementation of Microsoft Azure platform for services such as AI, analytics, cloud computing, storage and networking. This will put Nexans ..."
+    publishedDateTime: 2021-02-24T19:19:00Z
+    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 38
   - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
     excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
     publishedDateTime: 2021-02-23T22:34:00Z

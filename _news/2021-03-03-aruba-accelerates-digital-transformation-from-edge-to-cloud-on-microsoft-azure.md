@@ -1,27 +1,30 @@
 ---
 category: news
-title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-publishedDateTime: 2021-02-23T14:23:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to"
+publishedDateTime: 2021-03-02T21:56:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
+webUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
 type: article
-quality: 51
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Integration
 
 images:
-  - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-    width: 1000
-    height: 524
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -158,20 +161,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to"
-    publishedDateTime: 2021-03-02T21:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
     excerpt: "IOTech, the edge software company, today"
     publishedDateTime: 2021-03-02T14:17:00Z
@@ -236,6 +225,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
         width: 1242
         height: 641
+        isCached: true
+  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
+    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
+    publishedDateTime: 2021-02-23T14:23:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
+        width: 1000
+        height: 524
         isCached: true
   - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
     excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
@@ -472,6 +475,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "pDBfBnXpaXpMEYNPdmzwCiiFDlzATay6/FHeBQ2zigk2Q/Y2W0D+m70zn2kgqx10EVdYIVeyFJCvKF6+eHHNCEv5OPAWb1VxuksAVH7DZVjnMUmscZQfPHX6NJ9m7wQodjeiV/C83oGPlaKn2vtNVnAZsNH1al0PBOavmcXq7oFf2PMtTQ+B4n+eMV4dTZtQzqzuiujDvjRxa1F0Q9l+bR5lETfPLQk6jvnaLQ8B37vqgq+Yem3rrwH92RPRGdEY3VR5Z6nRq114K8edWPiIpuYFaR2n6aHD+6tLaKEu5IEjBAKXC/6L9awbSgVOA5IuLpw0bfNAFCGBJ44rf3Nd9rP9qt8xhFbdLRFBGGWHW2I=;izfSg8ROLUuGNgGiWT1gCw=="
+secured: "JGq5qBMLPI/AfKNEE3TT739K04A5Vcs8bzjM67ML2wCAGXT79sptXskt8NfStHAyiNTFen49rGFMQiJRVrTeBJYgxHv8JnG7RdQJzj6O7uKdk23DQ+lhmdo5cdYyiPyOvie1hbvka+icwHT+1xQ4X0au9ck9SDY5xqCmWawa7dWuylRGdnDY+8B/9AarYf++YmNIGIK+1t0U/4Sx35f1769YOVTSiRPL5Ku5dETptnLxm6jf5Q/0ipCsHG6xuQT99mjfj44vW7lccURB6dBqUKxhZLne5AVCthM00oEiyQIAC8j1d+upKD0DAfclzK4WnhldN1Qtm0z+thrXHEoRnFaySeeWT70lthV8H82st6k=;HnAIv3sqb8zILQOvKWOcAQ=="
 ---
 

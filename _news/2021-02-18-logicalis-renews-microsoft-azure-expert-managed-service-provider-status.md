@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
-excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
-publishedDateTime: 2021-02-18T15:02:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
+excerpt: "NEW YORK, Feb. 18, 2021 /PRNewswire/ -- Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Microsoft Azure Expert Managed ..."
+publishedDateTime: 2021-02-18T10:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/logicalis-renews-microsoft-azure-expert-managed-service-provider-status-301231049.html"
+webUrl: "https://www.prnewswire.com/news-releases/logicalis-renews-microsoft-azure-expert-managed-service-provider-status-301231049.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
+  - url: "https://mma.prnewswire.com/media/656452/Logicalis_Logo.jpg?p=facebook"
     width: 809
-    height: 473
+    height: 424
     isCached: true
 
 related:
@@ -365,6 +365,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "HtYuwl/wJzleTseiNbCloY3Ht4FeI59pZKry5tfaupg0NO8ZKqEu7BrzdDUJYjJVDWXROPFWO8kWMsTqJFMHNT/oECzAO+XVup6qIeaa3d64L14+Zp1HjN7pVOXk10oItR4HmA01lH5YLd6V231WKkd4oJkEeFO9VfGDdR03/6fpPtPAO6yuPt4mChgaPwccXFoKSdUMqwXfKQMt1xJlaS89kiDc+11+TjklGwt/whlOBEs9x6359vTS3UgezHmF1PG4R1eMDQ7QRHzr6qJo6bi40+pjbEDMUjitrn8rtafZfa+rySFP33grntVwAO4skGEq4IV4kj3Q9S4AucX31YB9C54stji3WeCIDI7+yduDkHoinO0slatjp26wLkAPb++8CwnMNHjW4pVODFbv0KbtHjPJ7NbSFmBDZzSeG472OVyAO5sQ2zEywEsEOTE/ZxGBt7pdfCtxWL0caJuqtB3Qu7P3DlyzV2wlzG2F1WYZgEbjl4JMrP9DQspqkflDcSeyOdjX1kgoAg/G4ArS7Q==;p3Zs0nQCThS+rYQ4+kA5FQ=="
+secured: "zQ05rXSWPP/Z3fOLjbNVVDG8wz8xSVmkBVPrET3cfPNwzYqnAg5fjyQKIlgd0t9BilAMK5Db1qc2+erHMFtSEgPKkNcGWZ+G1QMcbu7TWP4CBJEwt5+wBIm7V3nYSvOKxsNMM6OuRmwxvAza0XEGX9uY9dtnh3v6f9735IoikNcRDYr/2f0ZT+MGANs5jXkiGSoDfXidpLTrUOVAeTc59A5JELpRiYnpJFanTzR0WSdDEPUZ9yuy8L8Bkc/EkB8xBMQZM9m/5awq5UoTW+/o+dxmylua0KRDztLKWEXY2bY5JDe/XE0oNCqBo0/XOFin7Uf1LElEexZzS3U6etQ6ZgQIkbQN1SaWfguHhOCiulg=;ITqQiENNv+x9fmKII4B4rg=="
 ---
 
