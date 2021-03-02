@@ -58,20 +58,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digimarc customers can now take advantage of the scalability, high availability and security of Azure, with streamlined deployment and management. Microsoft Azure customers now gain access to ..."
-    publishedDateTime: 2021-02-17T13:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/digimarc-now-available-in-the-microsoft-azure-marketplace-1030092155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg"
-        width: 400
-        height: 306
-        isCached: true
   - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
     excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
     publishedDateTime: 2021-02-16T16:22:00Z
@@ -286,6 +272,20 @@ related:
     images:
       - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
         width: 1200
+        height: 630
+        isCached: true
+  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
+    excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
+    publishedDateTime: 2021-02-17T13:25:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/603653a7a6b55.image.jpg?resize=824%2C630"
+        width: 824
         height: 630
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"

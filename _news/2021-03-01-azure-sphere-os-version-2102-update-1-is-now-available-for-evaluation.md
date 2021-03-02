@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 20.12 is now available for evaluation"
-excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
-publishedDateTime: 2020-12-02T22:22:08Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 21.02 Update 1 is now available for evaluation"
+excerpt: "This update to the evaluation release of 21.02 includes a security fix. "
+publishedDateTime: 2021-03-01T23:29:22Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2102-update-1-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2102-update-1-is-now-available-for-evaluation/"
 type: article
 quality: 67
 heat: -1
@@ -35,6 +35,15 @@ related:
     excerpt: "The Azure Sphere 20.08 OS quality release is now available in the Retail feed. This update includes enhancements and bug fixes in the Azure Sphere OS including a security update that represents a critical update to the OS. "
     publishedDateTime: 2020-08-20T20:00:07Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2008-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere OS version 20.12 is now available for evaluation"
+    excerpt: "The 20.12 release includes enhancements and bug fixes in the Azure Sphere OS. It does not include an updated SDK."
+    publishedDateTime: 2020-12-02T22:22:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
@@ -94,15 +103,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS version 21.02 Update 1 is now available for evaluation"
-    excerpt: "This update to the evaluation release of 21.02 includes a security fix. "
-    publishedDateTime: 2021-03-01T23:29:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2102-update-1-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
@@ -122,6 +122,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "75+lbeO5Pgz1jqT4ocMw6VS3UCnqIJMmbvmoKiPnJ72ZxkPp9GFtkpzUtp4RWlNGJcL/T8ucfrhPcHFqKXaUYv7sN4oeZjlq9chqf6SkwcfTGp5/juiiNBy2o2Gcrn/5cJ8C1/UYK5qS4meRc5YN/ZLKIowf22+xRVH500Se606ZsQU36uiToujTVY1xdS64irILjnXxd/eZDv8862UTyPG3rAGe6OpZ6YdISheoaR8GKPPDCiMTpoEN/KDMFwb+lHWIdMpbrv+Nx59ec5U36UK28wi2vbcSnJBcxgUGri7yjcyBQpGg88dPWkNl8ayZ6uQ1wiKKdtn+c8R2hmOMV8r2D4xiqgbOmwdrUk2qIg4=;G8Xefk+onW2k5Ah4ZQB2ag=="
+secured: "l8737Bo2Pict/lKBiptpFeG00tGdDEJlym/6o1M1a6GDq2x3MwZAnDj+aogD9x7kogokUHmdF+smb8bDIboMWGGUX+3NQXjqoTpdBkc23B3T+ToICV6ThAUIDv7uG4XiBjtHBFgIjj9B0fToM80W4EzNm2pymUHqVSwDpsvf43FEe98Veb0KQ09zKD412Si8TULgGMgX/thQErxRH37IN4EyGTPE6trpF7X3IK9GtKlGuKBvckcjIKiwh54Tqx3e6vJ3vfcMQ273NAyf8GdpjqL60XJdZbxyhh92JXzqhNtUJ7Df8snZsokHuXYmC20lsNFemgEkKeh7ENAnorZXUEMqyu3CmevVmj1DVyF74mk=;cf0kugEt9TLo/jDJHtrXew=="
 ---
 
