@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
 type: article
 quality: 112
-heat: 612
+heat: 632
 published: true
 
 provider:
@@ -320,6 +320,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
         width: 501
         height: 375
+        isCached: true
+  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
+    excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
+    publishedDateTime: 2021-03-02T16:45:00Z
+    webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
     excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."

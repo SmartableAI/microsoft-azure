@@ -1,30 +1,26 @@
 ---
 category: news
 title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
-excerpt: "IOTech, the edge software company, today"
-publishedDateTime: 2021-03-02T14:17:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-03-02/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere"
-webUrl: "https://www.bloomberg.com/press-releases/2021-03-02/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere"
+excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
+publishedDateTime: 2021-03-02T16:45:00Z
+originalUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
+webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
 type: article
-quality: 69
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automation
+  domain: automation.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
     isCached: true
 
 related:
@@ -121,6 +117,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
+    excerpt: "IOTech, the edge software company, today"
+    publishedDateTime: 2021-03-02T14:17:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-03-02/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
     excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
@@ -320,20 +330,6 @@ related:
         width: 501
         height: 375
         isCached: true
-  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
-    excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
-    publishedDateTime: 2021-03-02T16:45:00Z
-    webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 29
-    images:
-      - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
     excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
     publishedDateTime: 2021-02-26T00:50:00Z
@@ -390,6 +386,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "jenIhizEAS5M7Wrz/wwOrgpaDevwlnXyuMiNb0c2BNRWCG+/lh/DgTZb3KXKTrHbrWaCH9QjM7MzrjbL7LYH+W/zKyunrWRVYH8NbxsGO2aD3hQ/xWwtM8nfRdRImUlS2qo7neDTy1m9eGFxMtu/wTlvv7uL8Cdn6XC3TImHCrsQCjoJar+9L8quLtdPubhTn3lbeqi87QdSoBf68e0CVArm9ordARpVD28WijeNxR2FOICFBMOMVQ8m85MZCwIt6vnl5wtbiTfxiCbO2d4+7pQGXcPApb0f/LqIB6E7LO4F24dr+73OoYoaEBIU8+hVnQ0aYv1GBPJeB6s5kA7pjpArMB4/OS0BoVxqY8PlS0A=;xQClXkawUyb0hAq5oj47Rw=="
+secured: "gRKlRbXOUiHpH0b7FLyeI3V4NQvcde3t5RnQYOyzcU3HnAAVnoADHOQS74vmGzGwulawPz7Kt1yXK2tBSHQJ12TNE7iCuwgHr9SDro74RNXOPl2kyGtFJPQJ4L8qjSn12t9ZfYHuROT1G8JAYrDfDbZdNPhmYMYrC9P8j9Lwv9UZaVAgKMSRyq9glH9wr2bWA3t1SD8guBA1CNx/Pap9TQVpTA8L0E19+w+usVSXNaHmhrVfvHu+32sGwmPaHhwZ5zfN83EDGnt9IoKI1a3lzgMBT6Ovc1/5Ns3JHMnz/qy31J/R3MZJTmUJ6A2QSYUNPzJq0lCXzss+xG54MjVk1Mj94S1/en75YBb6P9HjZqk=;w84LYR4DxwWrQG7Dfg4N0A=="
 ---
 

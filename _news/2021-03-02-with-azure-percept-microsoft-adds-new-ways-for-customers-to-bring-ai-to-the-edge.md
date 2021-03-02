@@ -321,6 +321,20 @@ related:
         width: 501
         height: 375
         isCached: true
+  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
+    excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
+    publishedDateTime: 2021-03-02T16:45:00Z
+    webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 29
+    images:
+      - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
     excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
     publishedDateTime: 2021-02-26T00:50:00Z
@@ -377,6 +391,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "/gNi7hA/PPzQVomNBbagVrLUwJtIhYYsJL8A4ZIKGUTkITq3vOS+/pthiCspDw4880JZCQP6/oxfM85H16xtvsZFs4gN1i4ySTa4m1rF1ahbHbbxVl49Rfz7mYJlZpfxaIzsc6rZS7379PMYcvo6AD43KKuPIO24pXHVgJh8LYDdnadHHBbbMLcl726exYOWtCRNBxZ5cuykKNh2YeOAN+IlB9pyvWXfoGJ5vCEOv99JXwaoXRqLpqw/ob/VuoBC40BzOuBwBU9/4eif/62n8u9thQ4DyGF1x2ynuLm2h1PoVUHtu1QK1V73333a8QsArLPaD5MlxunlJ3n18SvUgbjOeM2QhyHpcGqXcbPSV4k=;lkLtKEBusBFjzMEmVrEiYw=="
+secured: "8fUVbl1dQpuJp7T4KGhoAamgBiw6wM7g2Lcs/7n54yZE7Eq96gFzSKApShezMaIaMQewabgOo0iDNDWSX4GVMoRbVenAFcBuPuvVhw9bEXwRDTsacOUSkYnKg+VRerEd359Gb9TqIRkclw3iNlsQyQwqQqTF4B37FeDc3C0b48vb6wzMvQsN+ijrL8FutmCwU/a7MJIyP5V++OLfii6M2TPL0rNRF5a9dmeZCOQi/kjj1a/pqRETfrgp7qYIY5DKeZ8ZXyRB1XQpxIRmaMvSjsGH5Ulm/WyFd3KlX0h/95u8tbibcZCRUTRFIfMcsrZB+xSO4AzrDpIeKcg4fx8nNTzm/o23WafpCFJKbR/qZGrXL99HJ3C5wEOz2ZRIiXxupXGriSVQJSbU/3dss9RFlVCaV4RmVsW+MgpWHM5prFe1Mj/nOo8rAAHEp2qdU2l/P3xj72eg78239zMotCthP7/4XwO9cHWWZ7uE9/6osAujumUV1ns0S5txfFBgLqBLX30MSwW4z3TGVqXVvpRL6w==;gNAVGABxu+oBQHOBbb0ssg=="
 ---
 

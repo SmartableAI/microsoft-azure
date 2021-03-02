@@ -79,6 +79,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
+  - title: "General availability: Announcing private Azure Marketplace"
+    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
+    publishedDateTime: 2021-03-02T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
     excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
     publishedDateTime: 2020-05-13T12:33:00Z
