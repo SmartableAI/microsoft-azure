@@ -38,6 +38,15 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
+    excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
+    publishedDateTime: 2021-03-02T05:44:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "bTgdz50A4ek9cjYeFJ52m7aFrCCb0flhrWrBrRzheioynCv5G8VenW2QVsw/auxJUM+AGgskgs7mubzz4G/s5KO+YBlZAjhc56CI3+u9lNOiOVrz10ALgvR7ymxTX0NOXvuGp7YgiJqVPPmc7fslCesByts9CnB6Fl74Lm4mBk5Rm3Uv5vUewcTBYYygCIUy1VsUnSUK2FRTNeTjnvRsd7syMvzCD9LZTMCZPjvnjQzWRSE0MGEr6b4A4FD1hAS5kLJ4PhgSTVFc1EVQhl7DNg2jqt/L9XbfwTRqHXqmXC5E1PvmjPaxly+hvvuPMNnqpT/0z47CnJBwT3qFcjY7PRyQQuOgeqv4j81ryVzCDHA=;V9QNSso6BqDZqBo945UCcA=="
 ---

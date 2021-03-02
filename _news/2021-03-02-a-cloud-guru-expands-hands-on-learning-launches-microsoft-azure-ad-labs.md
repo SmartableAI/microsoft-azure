@@ -1,27 +1,21 @@
 ---
 category: news
 title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
-excerpt: "Now offering over 1,600 risk-free environments for building practical skills across cloud platforms & open source technologiesAUSTIN, Texas, March 01, 2021 (GLOBE NEWSWIRE) -- A Cloud"
-publishedDateTime: 2021-03-01T16:53:00Z
-originalUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
-webUrl: "https://www.wicz.com/story/43425552/a-cloud-guru-expands-hands-on-learning-launches-microsoft-azure-ad-labs"
+excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
+publishedDateTime: 2021-03-02T05:36:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
@@ -1798,6 +1792,6 @@ related:
         height: 450
         isCached: true
 
-secured: "RrJqtsAWejvDDfrDgYo+5cbrRCZUkBnBcBNzZzmyj/PacW5+NxLfd89JcNG60jWvv74BEgZiT6RAaLzWR3vjWQrUzvcwgYLpGt9vzVQIO03UvE1H0FTumHV9vrySdfOjgauBEU5lps9/70N2+to49mtkv12W3Bu4EdphdRtKSH0rieDFDIf46NiE0J84TilBZgY600oxTtG9VCRpw+gPmeQGVjwSJOI463g7MKE554H/rLRwQ1ApMPmzzrVYCR+jqCnoFv21e3H88hNwFgDlE5205PXBw33St/B2L2rhspxA2SgOQf10dcGKWtZCjf/KJWT0GWn4QGKZSwqeVUXB2VhEvdlCM9/OAuRKYePfTTM=;Lq2wo/egLvViIEtT5JEBdg=="
+secured: "/ZHYLdj6we74EqoWWZVNc3M7qIsZJr0RQwY6yE0qlegZ8utqFdPLD2reFCdGBAYaaEnjr/X/WAszHzlIko/b922OsLoAvTRaU2Kom6I37V+yFtBbJLrJEh9eyrLHdhUHay/a1X9+IxSaBwaXosAp0xrbTUhXv1hNjnj47ooPMYfN2Q3vzBhpX6/Iw0CKPXH+nvh7hwuuIKkSILPebcQy/8Y1A5MLYuNFTQuM6AqYNwsHBWFZ7Obv2NcRDwKyXK4Mr9i1onITmfDuJx5fK4cRICTwiEXEkpS0D2pqnUF2ZPBpZPNtNzUj9j0YRt4SOfD06poilr/fchd9DntaNVVkq7lJSoBVQqgdALoax1y9VBA=;RRwxQ+2Ubt4u3bMu+DHErw=="
 ---
 
