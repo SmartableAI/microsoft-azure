@@ -4,6 +4,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+      "title": "Create serverless logic with Azure Functions",
+      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 7817,
+        "average": 4.6563897
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 64,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-users-and-groups-in-azure-active-directory.md",
       "title": "Create Azure users and groups in Azure Active Directory",
       "excerpt": "Learn how to create Azure users and groups in Azure Active Directory.",
@@ -11,8 +48,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 4197,
-        "average": 4.7224207
+        "count": 4200,
+        "average": 4.722619
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -323,8 +360,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5815,
-            "average": 4.617197
+            "count": 5816,
+            "average": 4.617263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -360,8 +397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3241,
-            "average": 4.6738663
+            "count": 3242,
+            "average": 4.673967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -767,8 +804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1991,
-            "average": 4.723757
+            "count": 1992,
+            "average": 4.7238955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -872,8 +909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4153,
-            "average": 4.6522994
+            "count": 4155,
+            "average": 4.6519856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1070,8 +1107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 5719,
-            "average": 4.764644
+            "count": 5721,
+            "average": 4.7647266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1113,8 +1150,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 3516,
-            "average": 4.7591014
+            "count": 3519,
+            "average": 4.7593064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1156,8 +1193,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 3360,
-            "average": 4.7714286
+            "count": 3362,
+            "average": 4.771267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1199,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 2337,
-            "average": 4.7736416
+            "count": 2338,
+            "average": 4.7737384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1664,8 +1701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3499,
-        "average": 4.739354
+        "count": 3501,
+        "average": 4.739503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1708,8 +1745,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 685,
-        "average": 4.748905
+        "count": 687,
+        "average": 4.7481804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2367,8 +2404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5154,
-            "average": 4.7456346
+            "count": 5155,
+            "average": 4.7456837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2471,7 +2508,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
@@ -2584,8 +2621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
           "length": "PT22M",
           "ratings": {
-            "count": 1991,
-            "average": 4.723757
+            "count": 1992,
+            "average": 4.7238955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3577,7 +3614,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
@@ -3663,7 +3700,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
@@ -3774,8 +3811,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9365,
-            "average": 4.697384
+            "count": 9367,
+            "average": 4.6974483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3816,8 +3853,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6183,
-            "average": 4.735242
+            "count": 6184,
+            "average": 4.735285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3983,8 +4020,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 306,
-            "average": 4.745098
+            "count": 307,
+            "average": 4.7459283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4018,8 +4055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
           "length": "PT31M",
           "ratings": {
-            "count": 13,
-            "average": 4.6923075
+            "count": 14,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4061,8 +4098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 11,
-            "average": 4.3636365
+            "count": 12,
+            "average": 4.4166665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4207,7 +4244,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
@@ -4293,7 +4330,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
@@ -4482,8 +4519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2824,
-            "average": 4.6469545
+            "count": 2825,
+            "average": 4.6470795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4571,49 +4608,6 @@
         "Azure",
         "Databases",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
-      "title": "Detect and analyze faces with the Face service",
-      "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 659,
-        "average": 4.7526555
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],
