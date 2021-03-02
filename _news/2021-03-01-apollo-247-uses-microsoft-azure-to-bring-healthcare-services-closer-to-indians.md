@@ -38,6 +38,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Releases Azure Attestation into General Availability"
+    excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
+    publishedDateTime: 2021-03-02T12:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
     excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
     publishedDateTime: 2021-03-02T05:44:00Z

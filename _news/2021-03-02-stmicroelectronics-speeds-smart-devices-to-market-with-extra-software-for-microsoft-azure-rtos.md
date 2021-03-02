@@ -32,6 +32,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft Releases Azure Attestation into General Availability"
+    excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
+    publishedDateTime: 2021-03-02T12:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
     publishedDateTime: 2021-03-01T08:24:00Z
