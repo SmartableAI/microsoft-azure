@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-m
 webUrl: "https://azure.microsoft.com/en-us/updates/additional-support-for-managed-identity-and-new-features-in-azure-stream-analytics/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,15 +23,60 @@ topics:
   - Analytics
 
 related:
-  - title: "Azure Data Factory data flow connectors now generally available for CDM and Delta Lake."
-    excerpt: "Azure Data Factory (ADF) has make data flow connectors for ETL data loading, transforming, and landing in Common Data Model (CDM) and Delta Lake formats."
-    publishedDateTime: 2020-12-10T17:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-data-flow-connectors-now-generally-available-for-cdm-and-delta-lake/"
+  - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
+    excerpt: "Auditing for Azure SQL Database and Azure Synapse Analytics to Log Analytics and Event Hub are now generally available, allowing the centralization of SQL audit logs into a single go-to-location."
+    publishedDateTime: 2021-03-02T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
+    quality: 98
+  - title: "Log Analytics Agent for Windows August 2020 release is now available"
+    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
+    publishedDateTime: 2020-09-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
+    excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
+    publishedDateTime: 2020-08-27T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
+    excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
+    publishedDateTime: 2021-03-01T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-for-disconnected-scenarios-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
+  - title: "Backup Center is now generally available"
+    excerpt: "Backup Center enables centralized backup management allowing you to monitor, operate, govern, and optimize data protection at scale. \n"
+    publishedDateTime: 2021-03-02T17:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/backup-center-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Azure Private Link for Azure SQL Database and Azure Synapse Analytics is now available in all US government regions"
+    excerpt: ""
+    publishedDateTime: 2020-05-14T12:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/private-link-sqldb-usgov/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 0
 
 secured: "KRZWz9e7LDQbiw4NfNKNkSjtllHBF9k/mmlylLhkoSgWmzgOXpjc9EK85K57KSjGfdnLoGAm7FKK5vDbWaYAUi9/d5UOGcjUSMbBHHGGk8/o/zA5S/QwpMvTan4WrFlD3aU09ACpNlNSHJ9SNmNkWNI6bHU9lKSDzMoyxhrDrTeK3CzYzWPX2p0eZsxj20VVblej46HYJECvxPyCCQa2tS4KRBo64pX4MUBtcqK+zv+EZomX1pI+Yng0rRApSIpHEuDAbWVI1myPH4miUfAIKiH9eVQjM3c68znXc4mEAAnhSNfyor0DR3u/xRPf2mcEZuT2NEdtVTlOvUizzNVDZxaHRb07D15r98mR+TG2TsQ=;IU5Dhyz3KKbcVeXe3Z8w9g=="
 ---

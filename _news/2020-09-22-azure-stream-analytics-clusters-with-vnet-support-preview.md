@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Azure Cosmos DB API for MongoDB supports version 4.0"
+    excerpt: "Azure Cosmos DB API for MongoDB 4.0 (general availability) adds several new features, including multi-document transactions, making it easier to model complex transactional business logic."
+    publishedDateTime: 2021-03-02T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-api-for-mongodb-supports-version-40/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Apache Spark for Azure Synapse In-cluster Caching and Shuffle Service (Preview)"
     excerpt: "Optimize performance on caching and shuffle with new services from Apache Spark for Azure Synapse"
     publishedDateTime: 2020-09-22T16:03:33Z

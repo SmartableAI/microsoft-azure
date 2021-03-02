@@ -47,6 +47,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Device Update for IoT Hub in public preview"
+    excerpt: "Streamline device management with Device Update for IoT Hub, now in public preview"
+    publishedDateTime: 2021-03-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/device-update-for-iot-hub-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "emTUSegS7ky0eVOSqNx4SKlk+4JFa5iONkjRbHypEbxbZ2osKKaRyy68oZMAFxSG2jYYuxsErwaCK18hOnZAU6wTtOhcWKvr7yqasIN8MlTFIQ0FjWxJJIrAI3UEFsvhH+hzcxAlNSoRhJjXvYb8H/LH4AQpZ43DQ3hyXtJPgWtc3r1fjDkdapKEKncMJxbvx2N1PlOy0Eg1Z1A3fb/YEItsX85dSjif/XD3I+AcGNejGVQ0MEUfsG51wf4vp6qBKGftOz8B8nNT7UnV+kzYXNwxlySWu7f9JVrqTHjoltfUnkQ/ZouNoJa5xDWmaOOJw5br5HnAeTbMNW6aVAlRVcIDqZnR9pu0y9oQwkC7cRg=;AbyKGnbZYJfY2/c5/m5dKw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-the-general-availabili
 webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
 type: article
 quality: 104
-heat: 324
+heat: 304
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 73
-  - title: "General availability: Announcing private Azure Marketplace"
-    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
-    publishedDateTime: 2021-03-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
     excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
     publishedDateTime: 2020-09-09T11:11:00Z

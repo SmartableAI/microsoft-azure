@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-ava
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-switzerland-north/"
 type: article
 quality: 67
-heat: 147
+heat: 107
 published: true
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Automation is now available in Switzerland West"
-    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
-    publishedDateTime: 2021-01-21T17:02:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-switzerland-west-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Power BI Connector for Azure Databricks is now generally available"
     excerpt: "Announcing the general availability of the Power BI connector for Azure Databricks, for Power BI Service and Power BI Desktop 2.85.681.0. "
     publishedDateTime: 2021-02-26T17:00:09Z
@@ -40,15 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Media Services is now available in Switzerland and Germany"
-    excerpt: ""
-    publishedDateTime: 2020-05-20T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Azure DevTest Labs is now available in Switzerland regions"
     excerpt: ""
     publishedDateTime: 2020-05-27T16:00:01Z

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-serv
 webUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/"
 type: article
 quality: 100
-heat: 220
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -29,65 +29,133 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle WebLogic Server on Azure Virtual Machines major release now available"
-    excerpt: "Enable lift-and-shift migration of mission critical enterprise Java workloads with a major release for solutions to run Oracle WebLogic Server (WLS) on Azure Linux virtual machines."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/oracle-weblogic-server-on-azure-virtual-machines-major-release-now-available/"
+  - title: "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images"
+    excerpt: "You can now deploy Oracle WebLogic Server (WLS) domains to Azure in a Kubernetes native fashion using custom Docker images and Azure Container Registry (ACR)."
+    publishedDateTime: 2021-03-02T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 105
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/65fd37e2-21da-4600-b18e-d37e5dd29e2c.jpg"
+        width: 777
+        height: 855
+        isCached: true
+  - title: "General availability: Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "You can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-02-24T16:57:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ea760aca-529e-4fbf-94cc-c914cde06f02.jpg"
+        width: 669
+        height: 737
+        isCached: true
+  - title: "General availability: Conditional Access feature integration with AKS"
+    excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
+    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c4750600-1743-43b4-8659-86b6d1be799f.png"
-        width: 941
-        height: 777
-        isCached: true
-  - title: "SQL Server Analysis Services Virtual Machine images now available"
-    excerpt: "SQL Server Analysis Services Virtual Machine images (in general availability) can help make your workloads more efficient, enable an easier onboarding experience, and helps viewing your different virtual machine workloads and managing them."
-    publishedDateTime: 2020-11-10T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-analysis-services-virtual-machine-images-now-available/"
+  - title: "General availability: Assessments for migration to Azure VMware Solution "
+    excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
+    publishedDateTime: 2021-03-02T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-assessments-for-migration-to-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
+  - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
+    excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-proximity-placement-groups/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
+    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
+    publishedDateTime: 2021-01-21T17:01:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "General availability: App Gateway ingress controller add-on for AKS"
+    excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-gateway-ingress-controller-addon-for-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: ".NET 5 now available in App Service"
-    excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+  - title: "General availability: Encrypted customer managed keys policy for AKS"
+    excerpt: "Setup policy to audit usage of customer managed keys on OS and data disks."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encrypted-customer-managed-keys-policy-for-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "SQL Server Reporting Services Virtual Machine images now available"
-    excerpt: "Migrate SQL Server Reporting Services workloads into Azure using pre-configured VM images to enable easier workload management, more efficient onboarding to the cloud, and leverage benefits by selecting preconfigured images."
-    publishedDateTime: 2020-11-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
+  - title: "General availability: Just-In-Time Access support in AKS "
+    excerpt: "Improve security by implementing Just-In-Time (JIT) access rules for tasks that require elevated permissions."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Empowering developer velocity and efficiency with Kubernetes"
-    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
-    publishedDateTime: 2020-11-17T09:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+  - title: "General availability: Public IP per node capability in AKS"
+    excerpt: "Access AKS nodes directly via a public IP instead of a load balancer."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-per-node-capability-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Service Fabric release 7.2 is now available"
-    excerpt: "This release brings new features, bug fixes, and performance enhancements."
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/service-fabric-release-72-is-now-available/"
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 67
+  - title: "General availability: Announcing private Azure Marketplace"
+    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
+    publishedDateTime: 2021-03-02T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "MNItheBpH4uxbxmQKuFPaVB5fWe936h1zAlQiZw7BMQJq5lLMhUG7zbDaxLHcf3n0FzuR1u3uLqYGKQ5coFhdd2sb75Ws3D9wveN7oTdYqmy/umFz0kOBly0DdtPBlrGQ6oEUQxydFIffkRLvNTMFeCfg+cDDshHs79QjOIO1KFUKIz+ycgJwI7hMAOmUSNR0ynnaKscl6Fq+DXMUZjpWoEbXYhIf29lyRh4/0ekqmDqmCCwtYSKckiTSqXNH6ceDmouEcAADFYgmmxH0lHP/wHL4zsVj1378ZhGyzmmtMQ2Czklkeq3QSiJIzOUz8ciFRMZnp/ro5fHT3ku5mmzwuxWhmmqfWEhpQnw5aef+RE=;fofIyWpbf5ACZadw2ng7jQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
 type: article
 quality: 112
-heat: 632
+heat: 712
 published: true
 
 provider:
@@ -79,6 +79,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Azure Percept in public preview"
+    excerpt: "Announcing preview of Microsoft Azure Percept, a comprehensive, easy-to-use platform with added security for creating edge artificial intelligence (AI) solutions."
+    publishedDateTime: 2021-03-02T17:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-percept-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5f792abf-717b-4540-b536-057d0765859c.gif"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Azure SQL auditing of Microsoft operations is now in general availability"
+    excerpt: "Azure SQL auditing of Microsoft operations for Azure SQL Database, Azure Synapse Analytics and Azure SQL Managed Instance is now generally available, enabling more transparency into your workforce."
+    publishedDateTime: 2021-03-02T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-of-microsoft-operations-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Connecting customers and businesses with Azure Communication Services and Microsoft Teams"
     excerpt: "Last year, we launched Azure Communication Services to help businesses reach customers—enabled by voice, video, text chat, and connections into short message service (SMS) and public switched telephone network (PSTN)—across applications, websites, and mobile platforms."
     publishedDateTime: 2021-03-02T06:00:02Z
@@ -123,6 +146,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Public preview: Azure Communication Services interoperability with Microsoft Teams "
+    excerpt: " Azure Communication Services is now interoperable with Microsoft Teams in preview, enabling you to leverage a unified offering for both internal and external communication experiences."
+    publishedDateTime: 2021-03-02T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-communication-services-interoperability-with-microsoft-teams/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
     excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
     publishedDateTime: 2021-02-25T15:40:00Z
@@ -321,6 +353,20 @@ related:
         width: 501
         height: 375
         isCached: true
+  - title: "Microsoft announces new Azure China data center region in Hebei"
+    excerpt: "Microsoft has announced a new Azure data center region in Northern China. Quietly announced during its Ignite conference this week, the China North 3 region will be located in Hebei and be the company’s fifth in the country."
+    publishedDateTime: 2021-03-02T17:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-new-azure-china-data-center-region-hebei/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/China.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
     excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
     publishedDateTime: 2021-03-02T16:45:00Z
@@ -391,6 +437,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "6VDPWV2beXGcp/cV84BPhMd7TfMyZNyxNe9iTk71LnP8m6T0xF4kktbYE4G1fPPozpyaeYjRKLCy2J2NsYWFpEfif7NB0QjTDSRneYlwSPN9ZT9SbQj261VCa8/FTGfvUTtQqkRRO3lfT1eialgTGyZheG7Sq9ToH7lPPgHGb23di3ITWqxrT3S2mM4zjlKbwW1GupchB+4ymRz0rATUKD3hPWG7KdmhWV2+mSMGIkf8fJr43rN68R22vwCfwWtHZCSMOUdECre6hAeC/1v1TPp96KxKNXCoG9F1q87ncG7Y3XxNbw2lOxIivnNBcnu/GkSXk0kX1l/TzVEJxJ2hJXoDGP2Id/eH6A5l4m6CZZM=;RPyAmRRZC8Q+XbUM69ww6w=="
+secured: "JXD2b1vMZkrQ4U/CW7IBpn1qVUtIvIEVvcjga51x1YtbUhb+8eiT2472Bh/JJGKwK/LZnHosVsWi8gi1bprc7R+ao9nhmyoa8bLfKW04QrmCuPwzRRu6GKURlI670c2z5Jwx6GTd0bT0hnBh7Yq1nTm3nFRctYEiZ7P6LUk69Do6j/PDjK10qgRIxuepORH/k9jEY3fNfoo8GEnyuHLbw/uyMpJQGiI2kckodkjharphtjC51KAQ28263K1WDRQ7m+FJxNEuGAJGvodcI+i1qQw+Q+5Q2+VcxKYPaHx500cVM5RtdXy03W8v+U7jBVGSZFer1IbzS/mVQGrSN4u6f0Ax6gyAv7TP8YlkQbnOG5wZG5Z7ew+pouLQwyo5p5Jt+xX62nXneWohhYh90lvhWU0wcwfOjTY+rT24tU3NBu2jhENJvFMkPm6Pt+mC1pFBsZ33N8ulG4QnNfQ5bHuIiqzfjuPEKQe0sgdIOL778zGPL5Crj8fXhCepWR3ppD13G/GzY2sw95H4PLihB+CHKQ==;CyjwPxOXVBLqKhJW3ehhOg=="
 ---
 

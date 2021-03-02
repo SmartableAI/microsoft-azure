@@ -82,15 +82,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
-  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
-    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
-    publishedDateTime: 2020-10-28T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
     excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
     publishedDateTime: 2021-02-12T20:14:41Z
@@ -105,15 +96,6 @@ related:
         width: 2206
         height: 1096
         isCached: true
-  - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
-    excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
-    publishedDateTime: 2020-10-28T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-proximity-placement-groups/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
   - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
     excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
     publishedDateTime: 2021-02-09T18:00:05Z
@@ -155,15 +137,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 68
-  - title: "General Availability: Azure Kubernetes Service node image upgrade "
-    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
-    publishedDateTime: 2020-08-17T22:59:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z

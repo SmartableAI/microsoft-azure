@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization.md",
+      "title": "Public preview: Containerize and migrate apps to Azure Kubernetes Service with Azure Migrate: App Containerization ",
+      "excerpt": "The new app containerization feature will allow you to migrate your applications to containers on AKS. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-containerize-and-migrate-apps-to-azure-kubernetes-service-with-azure-migrate-app-containerization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks.md",
+      "title": "Public preview: Dynamic IP allocation & enhanced subnet support in AKS ",
+      "excerpt": "You can now dynamically allocate IPs and define subnets for agent nodes and pods.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images.md",
+      "title": "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images",
+      "excerpt": "You can now deploy Oracle WebLogic Server (WLS) domains to Azure in a Kubernetes native fashion using custom Docker images and Azure Container Registry (ACR).",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/65fd37e2-21da-4600-b18e-d37e5dd29e2c.jpg",
+          "width": 777,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-aks-legacy-azure-ad-integration-will-be-retired-on-29-february-2024.md",
       "title": "AKS legacy Azure AD integration will be retired on 29 February 2024",
       "excerpt": "Transition to AKS Managed Azure AD by 29 February 2024.",
@@ -54,7 +193,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 237,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -217,58 +356,6 @@
       "topics": [
         "Azure",
         "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-support-for-oracle-weblogic-server-on-azure-kubernetes-service-is-now-available.md",
-      "title": "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available",
-      "excerpt": "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png",
-          "width": 798,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T09:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
         "Containers"
       ]
     },
@@ -473,7 +560,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/confidential-containers-platform-now-supported-on-azure-kubernetes-service-aks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 489,
+      "heat": 509,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -612,7 +699,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 286,
+      "heat": 306,
       "tags": null,
       "images": [
         {

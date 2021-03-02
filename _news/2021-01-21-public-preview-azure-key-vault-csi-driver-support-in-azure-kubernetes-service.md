@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-key
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/"
 type: article
 quality: 97
-heat: 257
+heat: 237
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
-  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
-    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
-    publishedDateTime: 2021-01-21T17:01:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "Public preview: Automatic Cluster Upgrades in AKS"
     excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
     publishedDateTime: 2021-01-21T17:03:14Z

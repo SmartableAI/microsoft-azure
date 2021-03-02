@@ -50,6 +50,15 @@ related:
         width: 1024
         height: 862
         isCached: true
+  - title: "Azure Monitor Alerts for Azure Backup is in public preview"
+    excerpt: "Manage your backup-related alert lifecycles in a manner that is consistent with native Azure management principles"
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-alerts-for-azure-backup-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "NFS 4.1 support for Azure Files is now in preview"
     excerpt: "Azure Files is a distributed cloud file system serving Server Messaging Block (SMB) and REST protocols. Azure Files enables customers to easily lift and shift their legacy workloads to the cloud without any modifications or changes in technology. SMB works on both Windows and UNIX operating systems for"
     publishedDateTime: 2020-09-15T13:00:18Z

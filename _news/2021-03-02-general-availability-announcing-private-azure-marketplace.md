@@ -22,135 +22,138 @@ topics:
   - Azure
 
 related:
-  - title: "Announcing the general availability of Azure Spot Virtual Machines"
-    excerpt: "Today we’re announcing the general availability of Azure Spot Virtual Machines (VMs). Azure Spot VMs provide access to unused Azure compute capacity at deep discounts. Spot pricing is available on single VMs in addition to VM scale sets (VMSS). This enables you to deploy a broader variety of workloads"
-    publishedDateTime: 2020-05-12T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-spot-virtual-machines/"
+  - title: "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images"
+    excerpt: "You can now deploy Oracle WebLogic Server (WLS) domains to Azure in a Kubernetes native fashion using custom Docker images and Azure Container Registry (ACR)."
+    publishedDateTime: 2021-03-02T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 105
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/333076bc-4f9e-4461-9ba7-810752e19173.jpg"
-        width: 800
-        height: 468
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/65fd37e2-21da-4600-b18e-d37e5dd29e2c.jpg"
+        width: 777
+        height: 855
         isCached: true
-  - title: "Azure Virtual Machine Scale Sets now provide simpler management during scale-in"
-    excerpt: "We recently announced the general availability of three features for Azure Virtual Machine Scale Sets. Instance protection, custom scale-in policy, and terminate notification provide new capabilities to simplify management of virtual machine instances during scale-in.\r\n\r\nAzure Virtual Machine Scale Sets"
-    publishedDateTime: 2020-05-11T12:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/azure-virtual-machine-scale-sets-now-provide-simpler-management-during-scalein/"
+  - title: "General availability: Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "You can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-02-24T16:57:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ea760aca-529e-4fbf-94cc-c914cde06f02.jpg"
+        width: 669
+        height: 737
+        isCached: true
+  - title: "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available"
+    excerpt: "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure."
+    publishedDateTime: 2020-11-11T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 100
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/985df91e-de4d-4c27-a28b-f3ec9be164e3.jpg"
-        width: 1024
-        height: 696
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png"
+        width: 798
+        height: 449
         isCached: true
-  - title: "Azure Pipelines announces the general availability of scale-set agents"
-    excerpt: "In the last two months, we improved the reliability in performing various scale-set operations. We have updated the guidance on how to improve the performance of provisioning new virtual machines."
-    publishedDateTime: 2020-09-11T21:13:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-pipelines-announce-the-general-availability-of-scaleset-agents/"
+  - title: "General availability: Conditional Access feature integration with AKS"
+    excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
+    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Announcing Azure SQL Edge now in general availability"
-    excerpt: "You can reduce cost, drive innovation, and improve operational efficiencies by using Azure SQL Edge to stream, store, and analyze IoT data."
-    publishedDateTime: 2020-09-22T16:05:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-azure-sql-edge-now-in-general-availability/"
+  - title: "General availability: Assessments for migration to Azure VMware Solution "
+    excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
+    publishedDateTime: 2021-03-02T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-assessments-for-migration-to-azure-vmware-solution/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Announcing the general availability of Azure shared disks and new Azure Disk Storage enhancements"
-    excerpt: "Today, we’re announcing the general availability of—enabling you to migrate your existing on-premises Windows and Linux-based clustered environments to Azure. We’re also announcing important new disk enhancements to provide you with more availability, security, and flexibility on Azure."
-    publishedDateTime: 2020-07-16T09:00:39Z
-    webUrl: "https://azure.microsoft.com/blog/announcing-the-general-availability-of-azure-shared-disks-and-new-azure-disk-storage-enhancements/"
+    quality: 83
+  - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
+    excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-proximity-placement-groups/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 73
-  - title: "Microsoft Announces the General Availability of Azure Spring Cloud"
-    excerpt: "Microsoft and VMWare both announced the general availability of Azure Spring Cloud, a fully-managed service for Spring Boot apps. The service allows enterprises to deploy JARs or code to it, and the service automates the process of wiring the apps to the Spring service runtime."
-    publishedDateTime: 2020-09-09T11:11:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/azure-spring-cloud-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2020/09/azure-spring-cloud-ga/en/headerimage/croppted-Azure+Spring+Cloud-1599509541685.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Finxact Announces General Availability of its Core-as-a-Service on Microsoft Azure"
-    excerpt: "Finxact is responding to growing market demand from its regional and super regional clients and prospects to support Azure. Finxact chose Microsoft based on its unique strength in accelerating ..."
-    publishedDateTime: 2020-05-13T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/finxact-announces-general-availability-of-its-core-as-a-service-on-microsoft-azure-301058085.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Qualys Delivers Vulnerability Management to Microsoft Azure Security Center for Virtual Machines and Containers"
-    excerpt: "Now, Microsoft Azure developers and customers have real-time visibility to secure and remediate cloud workloads at a click of a button with built-in orchestration as well.\" \"Security is in the DNA ..."
-    publishedDateTime: 2020-05-07T13:06:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qualys-delivers-vulnerability-management-to-microsoft-azure-security-center-for-virtual-machines-and-containers-301054791.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Virtual Network NAT now generally available in Azure Government and Azure China"
-    excerpt: ""
-    publishedDateTime: 2020-05-07T21:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/virtualnetworknatgovchinaga/"
+    quality: 77
+  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
+    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
+    publishedDateTime: 2021-01-21T17:01:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 13
-  - title: "Microsoft Announces the General Availability of Windows Server Containers, and More for AKS"
-    excerpt: "Microsoft launched a preview of Windows Server Containers in Azure Kubernetes Service (AKS). Now the company announced the general availability of Windows Server containers in AKS, including the support of private clusters and managed identities."
-    publishedDateTime: 2020-05-05T11:23:00Z
-    webUrl: "https://www.infoq.com/news/2020/05/windows-server-containers-aks-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 12
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Azure SQL Auditing to storage account behind Virtual Network and firewall now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-05-13T16:01:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-storage-account-behind-virtual-network-and-firewall-now-generally-available/"
+    quality: 76
+  - title: "General availability: App Gateway ingress controller add-on for AKS"
+    excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-gateway-ingress-controller-addon-for-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 4
+    quality: 69
+  - title: "General availability: Encrypted customer managed keys policy for AKS"
+    excerpt: "Setup policy to audit usage of customer managed keys on OS and data disks."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encrypted-customer-managed-keys-policy-for-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Just-In-Time Access support in AKS "
+    excerpt: "Improve security by implementing Just-In-Time (JIT) access rules for tasks that require elevated permissions."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Public IP per node capability in AKS"
+    excerpt: "Access AKS nodes directly via a public IP instead of a load balancer."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-per-node-capability-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "gmtz1218K3X9HGqmtc0XSbVpO9bshIQyRUg7fxY82i2NOSpXs9ctkUkgUtR5t/Zb4f4lJRL3CaXUcLvqMJ3vKwW72sVDleNLvISPUNabd1cIaltKSVuYHGX/D5smmW4bx8Hr4/UR0yiyaeqxu+9cS5GMNGfXFgikCpdea8I1sOxE0sP4QF4khLouQcqhpNG1Qd0TdHrrVUDkSUkZtXsC3jP3Q2+12Fiw1sbhkOYdFeNI6ou8IP/ACTL05CpNLD0wUy2u0RMPcR/061MRraDfiKE/fkP4hga0im5Q8zgNQ7yyMaAeeiMFyu9N040ZhG9rT4blqzljdpdARQhqGy75VUGpJZa/dcB/Jm3oKovWNaE=;F1yogO9q4ipkdupyr5B6FQ=="
 ---

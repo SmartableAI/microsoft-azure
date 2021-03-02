@@ -206,6 +206,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Azure Stream Analytics Dedicated now generally available"
+    excerpt: "Azure Stream Analytics Dedicated offers a single-tenant clustered deployment of Stream Analytics for complex and demanding streaming scenarios."
+    publishedDateTime: 2021-03-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-dedicated-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Line numbers in Log Analytics query editor"
     excerpt: "Log Analytics query editor now show line numbers when composing a query"
     publishedDateTime: 2020-08-13T16:00:06Z

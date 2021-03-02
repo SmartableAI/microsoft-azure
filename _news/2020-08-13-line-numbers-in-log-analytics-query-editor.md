@@ -207,6 +207,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
+  - title: "Azure Stream Analytics Dedicated now generally available"
+    excerpt: "Azure Stream Analytics Dedicated offers a single-tenant clustered deployment of Stream Analytics for complex and demanding streaming scenarios."
+    publishedDateTime: 2021-03-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-dedicated-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Log Analytics new System Center configuration blade"
     excerpt: "System center configuration now has it’s own dedicated blade in Log Analytics."
     publishedDateTime: 2020-08-13T16:00:06Z

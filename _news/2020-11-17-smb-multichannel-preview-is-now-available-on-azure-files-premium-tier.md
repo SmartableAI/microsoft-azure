@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: ".NET 5 now available in App Service"
+    excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
+    publishedDateTime: 2020-11-11T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Sphere 20.10 update is now available"
     excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
     publishedDateTime: 2020-11-10T00:00:18Z

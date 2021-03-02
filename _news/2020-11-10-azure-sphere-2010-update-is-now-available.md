@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: ".NET 5 now available in App Service"
+    excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
+    publishedDateTime: 2020-11-11T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "New recommendations from Azure Advisor are now available"
     excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
     publishedDateTime: 2020-11-11T17:00:00Z

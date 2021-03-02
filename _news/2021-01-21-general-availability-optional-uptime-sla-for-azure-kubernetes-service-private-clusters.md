@@ -23,78 +23,138 @@ topics:
   - Containers
 
 related:
-  - title: "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service"
-    excerpt: "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface"
-    publishedDateTime: 2021-01-21T17:01:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/"
+  - title: "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images"
+    excerpt: "You can now deploy Oracle WebLogic Server (WLS) domains to Azure in a Kubernetes native fashion using custom Docker images and Azure Container Registry (ACR)."
+    publishedDateTime: 2021-03-02T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-deploy-weblogic-on-azure-kubernetes-service-aks-using-custom-docker-images/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
-  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
-    publishedDateTime: 2021-01-21T17:03:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
+    quality: 105
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/65fd37e2-21da-4600-b18e-d37e5dd29e2c.jpg"
+        width: 777
+        height: 855
+        isCached: true
+  - title: "General availability: Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "You can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-02-24T16:57:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/ea760aca-529e-4fbf-94cc-c914cde06f02.jpg"
+        width: 669
+        height: 737
+        isCached: true
+  - title: "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available"
+    excerpt: "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure."
+    publishedDateTime: 2020-11-11T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 100
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png"
+        width: 798
+        height: 449
+        isCached: true
+  - title: "General availability: Conditional Access feature integration with AKS"
+    excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
+  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
+    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
-    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
-    publishedDateTime: 2021-01-28T23:43:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
+  - title: "General availability: Assessments for migration to Azure VMware Solution "
+    excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
+    publishedDateTime: 2021-03-02T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-assessments-for-migration-to-azure-vmware-solution/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
-  - title: "Public preview: Automatic Cluster Upgrades in AKS"
-    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
-    publishedDateTime: 2021-01-21T17:03:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+    quality: 83
+  - title: "General Availability: Azure Kubernetes Service support for proximity placement groups"
+    excerpt: "Co-locate agent nodes and minimize node-to-node latency with AKS support for proximity placement groups."
+    publishedDateTime: 2020-10-28T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-support-for-proximity-placement-groups/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 77
+  - title: "General availability: App Gateway ingress controller add-on for AKS"
+    excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-gateway-ingress-controller-addon-for-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
-    excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
-    publishedDateTime: 2021-01-20T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/"
+  - title: "General availability: Encrypted customer managed keys policy for AKS"
+    excerpt: "Setup policy to audit usage of customer managed keys on OS and data disks."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encrypted-customer-managed-keys-policy-for-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
-  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
-    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
-    publishedDateTime: 2020-08-17T23:02:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
+    quality: 69
+  - title: "General availability: Just-In-Time Access support in AKS "
+    excerpt: "Improve security by implementing Just-In-Time (JIT) access rules for tasks that require elevated permissions."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Public IP per node capability in AKS"
+    excerpt: "Access AKS nodes directly via a public IP instead of a load balancer."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-public-ip-per-node-capability-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General Availability: Azure Kubernetes Service node image upgrade "
+    excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
+    publishedDateTime: 2020-08-17T22:59:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New Azure Cloud Services deployment model in public preview"
-    excerpt: "Use Azure Cloud Services (extended support), now in public preview, to increase regional resiliency and gain access to new capabilities that the Azure Resource Manager-based deployment model provides. "
-    publishedDateTime: 2021-01-25T17:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-in-public-preview/"
+  - title: "General availability: Announcing private Azure Marketplace"
+    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
+    publishedDateTime: 2021-03-02T16:00:02Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Kubernetes resource view is in public preview"
-    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
-    publishedDateTime: 2020-08-05T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
 
 secured: "2v/gFONsNjJSwU2736qO6aHq/L/lFfuSHDt3PgHm5wspEqbUn4CEy16piK1/elyNxUBqkWffSDjv6fUc9T1Gdk5wFMZ7mqC+dA6KTc7ftiZx5ZM1djdgW8KwrSs1IQ6qNv8ceadiI9UYpUa6sXpT5lgZ+Xe3xQ1OLPwcsSDmJtcq/arjcs6FkL09y/MHw9Dj8drhjb1sHWqQCO04c2EDRwuyhJWqNCJLBnmLArmlPNoz8UMwTqYitAJ/y4bJA0EjYwWPQA0khSjUakXNXEGeK7O+y39tpmFvVEk4EI238rAypoY1Q/COue8ie1irOBa4sFLWYMc4LD16n6ay3/4RSgGYHc4M+eJWwePtowN4TbE=;H/QoVBKu+UDUHx8Wyd3/+Q=="
 ---

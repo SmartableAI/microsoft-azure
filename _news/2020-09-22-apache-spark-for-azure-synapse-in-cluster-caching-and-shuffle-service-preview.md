@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Cosmos DB API for MongoDB supports version 4.0"
+    excerpt: "Azure Cosmos DB API for MongoDB 4.0 (general availability) adds several new features, including multi-document transactions, making it easier to model complex transactional business logic."
+    publishedDateTime: 2021-03-02T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cosmos-db-api-for-mongodb-supports-version-40/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "uL4duGnEApfYl5k5R1B7ixniv+1KChnTxs+qDvZRwMPV28Wf+gNCffhTBkH2RYzMuVyRjeqrVUsNeIxcckm4kSR5C3vttQEW4gfpJG15nQQsQyTXSwaNDZPcPEmF3DOzFAl9qSu0uNw3/nHmhgDSJv1JN/sAEzC+U4XS0rkvPlHkfrlWkQVarQJtPTWp4xhs9hOOEUui15TURhtMeEsRphUmvPmKnw3BC92ASKwRsOTDAm8gyStnXP7OCYc73tUQZG7l5lwdw0B/MZz07WgWqI2o8s6PlCe1whGrz4vuUOZLYycnhSBgDi1QZ3xTPGnfiZptb3OpDKbkdzhmyIXhlCgAUGfXzUwBhQPqvMyvnUM=;yPEmitg5QTy5q/HIcNjcrg=="
 ---

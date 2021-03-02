@@ -126,6 +126,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Remote Rendering is now generally available "
+    excerpt: "Build immersive mixed reality experiences with Azure Remote Rendering, now generally available. Use it to enable high fidelity 3D visualization of objects and view models with a billion or more polygons without decimation. "
+    publishedDateTime: 2021-03-02T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azureremoterenderingga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z
@@ -139,6 +148,15 @@ related:
     excerpt: "A new release of Durable Functions is out now. This release includes new functionality including long running timers, logging, and state management improvements."
     publishedDateTime: 2020-09-02T16:00:04Z
     webUrl: "https://azure.microsoft.com/en-us/updates/durable-functions-v23-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Backup Reports is now generally available"
+    excerpt: "Gain visibility into backup job statistics, consumption trends and optimization opportunities across your Recovery Services vaults."
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

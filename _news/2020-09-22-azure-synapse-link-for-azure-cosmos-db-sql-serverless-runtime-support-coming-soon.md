@@ -43,6 +43,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Azure Synapse Link for Azure Cosmos DB: Azure Synapse serverless SQL pool support in general availability"
+    excerpt: "Run familiar analytical T-SQL queries over data in Azure Cosmos DB in place and build rich near-time business intelligence with Synapse serverless SQL pools for Azure Synapse Link. "
+    publishedDateTime: 2021-03-02T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-azure-synapse-serverless-sql-pool-support-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Three ways serverless APIs can accelerate enterprise innovation"
     excerpt: "With the wrong architecture, application programming interface (APIs) can be a bottleneck to not only your applications, but to your entire business. Bottlenecks such as downtime, low performance, or high application complexity, can result in exaggerated infrastructure and organizational costs as well"
     publishedDateTime: 2020-10-07T10:00:15Z

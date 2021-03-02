@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
-  - title: "General availability: Optional Uptime SLA for Azure Kubernetes Service private clusters"
-    excerpt: "Financially backed uptime SLA for AKS private clusters is now available."
-    publishedDateTime: 2021-01-21T17:01:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-optional-uptime-sla-for-azure-kubernetes-service-private-clusters/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
     excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
     publishedDateTime: 2021-01-20T17:00:17Z

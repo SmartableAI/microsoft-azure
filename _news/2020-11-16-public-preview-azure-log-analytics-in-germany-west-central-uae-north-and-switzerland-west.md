@@ -23,24 +23,6 @@ topics:
   - Analytics
 
 related:
-  - title: "Public preview: Azure Log Analytics in Australia Central 2 "
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Machine Learning - Responsible ML updates"
-    excerpt: "Azure Machine Learning Enhanced Responsible ML Dashboard updates now in public review"
-    publishedDateTime: 2021-02-03T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-responsible-ml-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Public Preview: Azure Log Analytics in Brazil Southeast and Norway East "
     excerpt: "Brazil Southeast and Norway East are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
     publishedDateTime: 2020-10-28T16:45:59Z
@@ -50,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "Public Preview: Application Insight in Australia Central, Brazil Southeast and Norway East "
     excerpt: "Australia Central, Brazil Southeast, and Norway East  are now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
     publishedDateTime: 2020-10-29T15:58:03Z

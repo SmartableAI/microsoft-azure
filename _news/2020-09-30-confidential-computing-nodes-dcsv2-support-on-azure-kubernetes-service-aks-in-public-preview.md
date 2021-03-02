@@ -64,6 +64,15 @@ related:
         width: 980
         height: 516
         isCached: true
+  - title: "Confidential computing nodes (DCSv2) on Azure Kubernetes Service (AKS) is generally available"
+    excerpt: "Confidential computing capability now available on AKS for your container workloads. \n\n"
+    publishedDateTime: 2021-03-02T18:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/confidential-computing-nodes-aks-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 88
   - title: "Azure Kubernetes Service on Azure Stack HCI now in public preview"
     excerpt: "Azure Kubernetes Services (AKS) on Azure Stack HCI enables developers and admins to deploy and manage containerized apps on Azure Stack HCI. "
     publishedDateTime: 2020-09-22T16:05:22Z

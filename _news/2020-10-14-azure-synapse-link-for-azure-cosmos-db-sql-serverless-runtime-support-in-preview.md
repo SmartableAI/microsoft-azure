@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/"
 type: article
 quality: 113
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
     excerpt: "A new consumption-based offer that complements the existing range of provisioned throughput options is now in preview for all Azure Cosmos DB APIs."
     publishedDateTime: 2020-11-11T17:00:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-in-preview-on-all-apis/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Azure Synapse Link for Azure Cosmos DB: Azure Synapse serverless SQL pool support in general availability"
+    excerpt: "Run familiar analytical T-SQL queries over data in Azure Cosmos DB in place and build rich near-time business intelligence with Synapse serverless SQL pools for Azure Synapse Link. "
+    publishedDateTime: 2021-03-02T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-azure-synapse-serverless-sql-pool-support-in-general-availability/"
     type: article
     provider:
       name: Microsoft

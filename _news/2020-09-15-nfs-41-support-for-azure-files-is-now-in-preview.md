@@ -56,6 +56,15 @@ related:
         width: 1024
         height: 862
         isCached: true
+  - title: "Azure Monitor Alerts for Azure Backup is in public preview"
+    excerpt: "Manage your backup-related alert lifecycles in a manner that is consistent with native Azure management principles"
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-alerts-for-azure-backup-is-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Datadog integration with Azure: Public Preview"
     excerpt: "Datadog and Microsoft Azure have worked together to create an integrated Datadog SaaS solution.  Built on Azure and available via the Azure Marketplace, this solution provides a seamless and first party like experience for Datadog’s cloud monitoring solution. Azure is the first cloud platform to offer"
     publishedDateTime: 2020-09-18T18:34:38Z

@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "Azure Synapse Link for Azure Cosmos DB: Azure Synapse serverless SQL pool support in general availability"
+    excerpt: "Run familiar analytical T-SQL queries over data in Azure Cosmos DB in place and build rich near-time business intelligence with Synapse serverless SQL pools for Azure Synapse Link. "
+    publishedDateTime: 2021-03-02T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-azure-synapse-serverless-sql-pool-support-in-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Serverless offer for Azure Cosmos DB now in preview "
     excerpt: "A new consumption-based offer that requires no capacity management is now available"
     publishedDateTime: 2020-08-19T16:00:01Z

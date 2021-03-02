@@ -2,6 +2,706 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-10-azure-synapse-sql-on-demand-now-enforces-tls-12-on-outbound-connections.md",
+      "title": "Azure Synapse SQL on-demand now enforces TLS 1.2 on outbound connections",
+      "excerpt": "Azure Synapse SQL on-demand is now enforcing TLS 1.2 for outbound connections used by all SQL client applications.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondemand-now-enforces-tls-12-on-outbound-connections/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondemand-now-enforces-tls-12-on-outbound-connections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-10T10:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-azure-blob-storage-object-replication-is-now-generally-available.md",
+      "title": "Azure Blob storage object replication is now generally available",
+      "excerpt": "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 499,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T13:05:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-the-azure-monitor-logs-page-now-links-to-the-community-github-repo.md",
+      "title": "The Azure Monitor Logs page now links to the community GitHub repo",
+      "excerpt": "Writing queries can be challenging. The Azure Monitor Logs page now links to hundreds of community-shared examples, so you don't need to start from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/logspagelinkstothegitrepo/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/logspagelinkstothegitrepo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T11:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-azure-files-smb-multichannel-provides-improved-performance-for-clients.md",
+      "title": "Azure Files SMB Multichannel provides improved performance for clients",
+      "excerpt": " Today, we are announcing the preview of Azure Files SMB Multichannel on premium tier. With this release, Azure Files clients can now take advantage of this technology with premium file shares in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-files-smb-multichannel-provides-improved-performance-for-clients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96ef0aa8-fa88-4ffa-a245-0b342947e4ff.png",
+          "width": 1024,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T09:06:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_news/2020-09-09-deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle.md",
+      "title": "Deal alert: Learn AWS, Azure, and Google Cloud with this $50 cloud training bundle",
+      "excerpt": "The convenience of the cloud is hard to beat. You've almost certainly experienced it first hand, whether it is saving your photos to the cloud so you always have access to them or pulling up an important document while on the go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
+      "originalUrl": "https://www.zdnet.com/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/07/26/09ba5e62-aece-4d9c-9dbf-3c421822783d/cloud-computing-lifestyle.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deal-alert-learn-aws-azure-and-google-cloud-with-this-50-cloud-training-bundle/",
+      "publishedDateTime": "2020-09-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-azure-monitor-for-containers-agent-ciprod08072020-update.md",
+      "title": "Azure Monitor for containers agent (ciprod08072020) update",
+      "excerpt": "Azure monitor for containers new agent (ciprod08072020) will support new features & fixes such as monitoring support of deployments & Horizontal Pod Autoscaler(HPAs), displaying correct node status & health(tab) access through limited preview program.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/ci-aug-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1f644ecd-b44f-4a18-b689-92551c059b62.jpg",
+          "width": 958,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T11:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-08-view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension.md",
+      "title": "View your Azure Cache for Redis data in new Visual Studio Code extension",
+      "excerpt": "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
+      "originalUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-08T01:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
+      ]
+    },
+    {
+      "path": "_news/2020-09-07-descartes-selects-microsoft-azure-to-deliver-cloud-solutions.md",
+      "title": "Descartes Selects Microsoft Azure to Deliver Cloud Solutions",
+      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-06T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-09-03-azure-api-management-will-retire-5-legacy-metrics-in-azure-monitor-on-31-august-2023.md",
+      "title": "Azure API Management will retire 5 legacy metrics in Azure Monitor on 31 August 2023",
+      "excerpt": "Start using the new Requests metric in Azure Monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-api-management-will-retire-5-legacy-metrics-in-azure-monitor-on-31-august-2023/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-api-management-will-retire-5-legacy-metrics-in-azure-monitor-on-31-august-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-03T09:57:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-azure-security-centernews-and-updates-for-august-2020.md",
+      "title": "Azure Security Center—News and updates for August 2020",
+      "excerpt": "New enhancements and updates that were made to Azure Security Center in August 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/asc-august2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/asc-august2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T14:00:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-improvements-to-azure-monitor-metric-alerts.md",
+      "title": "Improvements to Azure Monitor Metric Alerts",
+      "excerpt": "Several new features and improvements in Azure metric alerts are now available.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-monitor-metric-alerts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T09:00:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-new-regions-in-brazil-southeast-for-azure-database-for-mysql.md",
+      "title": "New regions in Brazil Southeast for Azure Database for MySQL",
+      "excerpt": "Receive the best in class experience for managed open source database offerings in the Brazil Southeast region. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T09:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-azure-monitor-agent-and-data-collection-rules-public-preview.md",
+      "title": "Azure Monitor Agent and Data Collection Rules Public Preview",
+      "excerpt": "Azure Monitor is introducing a new concept for data collection configuration and a new, unified agent for Azure Monitor in Public Preview.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T09:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2020-09-02-azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available.md",
+      "title": "Azure Spring Cloud: a fully managed service for Spring Boot apps is now generally available",
+      "excerpt": "Azure Spring Cloud is a fully managed service for Spring Boot apps, that lets you focus on building the apps that run your business without the hassle of managing infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-spring-cloud-a-fully-managed-service-for-spring-boot-apps-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/816ab479-5c10-48ba-8084-c7816d2b6f1b.jpg",
+          "width": 1024,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-09-01-azure-kubernetes-service-node-disk-dos-by-writing-to-container-etchosts-cve-2020-8557.md",
+      "title": "Azure Kubernetes Service: Node disk DOS by writing to container /etc/hosts (CVE-2020-8557)",
+      "excerpt": "If a pod writes a large amount of data to the etc/hosts file within Azure Kubernetes Service, it can potentially cause the node to fail. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-node-disk-dos-by-writing-to-container-etchosts-cve20208557/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-node-disk-dos-by-writing-to-container-etchosts-cve20208557/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-01T14:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-09-01-azure-dns-introducing-automatic-child-zone-delegation.md",
       "title": "Azure DNS: Introducing automatic child zone delegation",
       "excerpt": "A new Azure DNS update released to general availability in all clouds makes it easier for our customers to create child zones which are easily attached to parent zones.  ",
@@ -419,704 +1119,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-28T08:49:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-27-tiktok-could-become-one-of-the-largest-microsoft-azure-customers.md",
-      "title": "TikTok could become one of the largest Microsoft Azure customers",
-      "excerpt": "Microsoft is just one of the many companies considering acquiring the social media app TikTok from its parent company ByteDance following President Trump's executive order that the service needs to be sold to a US company to continue operating in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers",
-      "originalUrl": "https://www.techradar.com/au/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 417,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DjEsP5aRA3jcWVJjU6gtzH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/tiktok-could-become-one-of-the-largest-microsoft-azure-customers",
-      "publishedDateTime": "2020-08-27T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-azure-data-explorer-create-a-table-with-the-new-1-click-experience.md",
-      "title": "Azure Data Explorer: Create a table with the new 1-click experience",
-      "excerpt": "Create a table easily and quickly using an intuitive 1-click wizard experience. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-data-explorer-create-a-table-with-the-1click-experience/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-data-explorer-create-a-table-with-the-1click-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/86abf539-f86f-4e9c-9679-828df2e6ae4d.jpeg",
-          "width": 1505,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T11:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-26-prepare-and-certify-your-devices-for-iot-plug-and-play.md",
-      "title": "Prepare and certify your devices for IoT Plug and Play",
-      "excerpt": "Developing solutions with Azure IoT has never been faster, easier, or more secure. However, the tight coupling and integration between IoT device software and the software that matches it in the cloud can make it challenging to add different devices without spending hours writing device code. IoT Plug",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/prepare-and-certify-your-devices-for-iot-plug-and-play/",
-      "originalUrl": "https://azure.microsoft.com/blog/prepare-and-certify-your-devices-for-iot-plug-and-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ca80f579-880e-4625-98d0-91e84c923820.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-26T01:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-microsoft-cloud-vets-raise-26m-for-drug-prescription-data-platform-prescryptive-health.md",
-      "title": "Microsoft cloud vets raise $26M for drug prescription data platform Prescryptive Health",
-      "excerpt": "Seattle startup Prescryptive Health raised $26 million for its prescription data platform software. Founded in 2017 by Microsoft commercial cloud vets Chris Blackley and Kevin",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/",
-      "originalUrl": "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/08/Chris-Blackley-headshot-scaled-1-840x1260.jpg",
-          "width": 840,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-cloud-vets-raise-26m-drug-prescription-data-platform-prescryptive-health/amp/",
-      "publishedDateTime": "2020-08-25T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-wasabi-tripling-as-it-siphons-customers-from-aws-azure-in.md",
-      "title": "Wasabi Tripling As It Siphons Customers From AWS, Azure In",
-      "excerpt": "AWS is growing more slowly than the industry. It doesn't help that storage cloud rival, Wasabi. charges 20% of AWS's price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F459933144%2F0x0.jpg",
-          "width": 1200,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/08/25/wasabi-tripling-as-it-siphons-customers-from-aws-azure-in/amp/",
-      "publishedDateTime": "2020-08-25T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-25-empowering-remote-learning-with-azure-cognitive-services.md",
-      "title": "Empowering remote learning with Azure Cognitive Services",
-      "excerpt": "Announcing the general availability of Immersive Reader and other enhancements to improve learning engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/empowering-remote-learning-with-azure-cognitive-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/empowering-remote-learning-with-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-25T01:00:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-24-power-mission-critical-applications-with-azure-database-for-postgresql.md",
-      "title": "Power mission-critical applications with Azure Database for PostgreSQL",
-      "excerpt": "In our current environment, organizations are increasingly looking towards digital solutions to engage their customers and remain competitive. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/",
-      "originalUrl": "https://azure.microsoft.com/blog/power-missioncritical-applications-with-azure-database-for-postgresql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 281,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-24T03:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-08-20-typescript-40-is-generally-available.md",
-      "title": "TypeScript 4.0 is generally available",
-      "excerpt": "TypeScript 4 is the latest major version of the TypeScript programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/typescript-40-is-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-20T09:00:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance.md",
-      "title": "Microsoft has a plan to try to improve Azure outage assistance",
-      "excerpt": "Cloud outages are bad. Poor communication during and after outages make them even worse. Microsoft officials know this all too well, and have a plan to try to improve the way the company handles communication around Azure outages. I've been noticing for a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 917,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/08/19/1c3ed497-d8d2-4f60-877a-4592d3251668/azureoutages.jpg",
-          "width": 884,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-has-a-plan-to-try-to-improve-azure-outage-assistance/",
-      "publishedDateTime": "2020-08-19T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-19-bringing-ai-supercomputing-to-customers.md",
-      "title": "Bringing AI supercomputing to customers",
-      "excerpt": "The trend toward the use of massive AI models to power a large number of tasks is changing how AI is built and applied to enable powerful new capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/",
-      "originalUrl": "https://azure.microsoft.com/blog/bringing-ai-supercomputing-to-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-19T01:00:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-azure-devops-artifacts-storage-exploration.md",
-      "title": "Azure DevOps Artifacts storage exploration ",
-      "excerpt": "More granular breakdowns and analyses into artifact storage. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azuredevops-artifacts-storage-exploration/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-17T12:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-14-azure-virtual-machines-dcsv2-series-is-now-available-in-west-us-2.md",
-      "title": "Azure Virtual Machines DCsv2-series is now available in West US 2",
-      "excerpt": "Confidential computing DCsv2-series virtual machines (VMs) are now available in East US, Canada Central, UK South, West Europe, and West US 2.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-west-us2/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T20:11:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-13-azure-sphere-os-update-2008-is-now-available-for-compatibility-testing.md",
-      "title": "Azure Sphere OS update 20.08 is now available for compatibility testing",
-      "excerpt": "The Azure Sphere 20.08 OS quality update is now available for evaluation via the Retail Eval feed. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-sphere-os-update-2008-is-now-available-for-compatibility-testing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-13T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-azure-data-box-disk-is-now-generally-available-in-south-africa-and-china.md",
-      "title": "Azure Data Box Disk is now generally available in South Africa and China",
-      "excerpt": "Data Box Disk is GA in South Africa and China",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-generally-available-in-south-africa-and-china/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T12:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-improvements-to-azure-vm-backups-are-now-available.md",
-      "title": "Improvements to Azure VM backups are now available",
-      "excerpt": "Azure Backup now supports restoring unmanaged VMs/Disks as Managed Disks, backup for Virtual Machine Scale Sets, and allows replacing existing disks for VMs with Managed Service Identity",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/improvements-to-azure-vm-backups-are-now-available-2/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/55214874-ff7e-4517-9cab-f38d0d53a8d3.jpg",
-          "width": 521,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T11:00:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -39,6 +39,15 @@ related:
         width: 999
         height: 468
         isCached: true
+  - title: "Device Update for IoT Hub in public preview"
+    excerpt: "Streamline device management with Device Update for IoT Hub, now in public preview"
+    publishedDateTime: 2021-03-02T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/device-update-for-iot-hub-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Public preview: Service Fabric managed clusters"
     excerpt: "Service Fabric managed clusters reduce complexity and issues associated with managing a cluster made up of multiple resources."
     publishedDateTime: 2020-10-14T16:00:14Z

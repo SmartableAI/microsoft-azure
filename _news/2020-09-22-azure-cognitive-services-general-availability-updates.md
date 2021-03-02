@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Enterprise and Enterprise Flash tiers for Azure Cache for Redis now generally available"
+    excerpt: "The Enterprise and Enterprise Flash tiers for Azure Cache for Redis offer powerful new features, including Active Geo-Replication, higher availability, and Redis Module support. "
+    publishedDateTime: 2021-03-02T17:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-enterprise-and-enterprise-flash-tiers-for-azure-cache-for-redis-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "General Availability of the New Azure VMware Solution"
     excerpt: "Microsoft announces general availability (GA) of the Azure VMware Solution service. The new Azure VMware Solutions is a first party Microsoft Azure Compute services that is directly operated, delivered, and supported by Microsoft. "
     publishedDateTime: 2020-09-22T16:05:17Z

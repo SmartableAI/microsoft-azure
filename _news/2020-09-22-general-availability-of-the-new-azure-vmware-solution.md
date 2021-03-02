@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Enterprise and Enterprise Flash tiers for Azure Cache for Redis now generally available"
+    excerpt: "The Enterprise and Enterprise Flash tiers for Azure Cache for Redis offer powerful new features, including Active Geo-Replication, higher availability, and Redis Module support. "
+    publishedDateTime: 2021-03-02T17:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-enterprise-and-enterprise-flash-tiers-for-azure-cache-for-redis-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
   - title: "General Availability: Application Insight in UK West"
     excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2020-09-29T15:23:28Z

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-brazil-south-east-and-norway-east/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Microsoft
@@ -23,24 +23,15 @@ topics:
   - Analytics
 
 related:
-  - title: "Public preview: Azure Log Analytics in Australia Central 2 "
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
+  - title: "General availability: Azure Log Analytics in Brazil Southeast and Norway East "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyze their services for health and usage in Brazil Southeast and Norway East. "
+    publishedDateTime: 2020-11-16T19:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-brazil-southeast-and-norway-east/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Machine Learning - Responsible ML updates"
-    excerpt: "Azure Machine Learning Enhanced Responsible ML Dashboard updates now in public review"
-    publishedDateTime: 2021-02-03T17:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-responsible-ml-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+    quality: 80
   - title: "Public preview: Azure Log Analytics in Germany West Central, UAE North, and Switzerland West "
     excerpt: "Germany West Central, UAE North, and Switzerland West  are now in public preview for customers to start collecting telemetry and analyze their services for health and usage using Azure Log Analytics."
     publishedDateTime: 2020-11-16T19:07:42Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
     excerpt: "Azure Stack Edge includes a managed Kubernetes environment so you can deploy your containerized apps to the edge with the click of a button."
     publishedDateTime: 2020-12-09T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-edge-kubernetes-system/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Arc enabled Kubernetes is now generally available"
+    excerpt: "Now you can on-board all your Kubernetes clusters in production and manage them centrally from Azure with the help of Azure Arc which is generally available today."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

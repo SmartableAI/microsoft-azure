@@ -23,70 +23,42 @@ topics:
   - Compute
 
 related:
-  - title: "Support for Oracle WebLogic Server on Azure Kubernetes Service is now available"
-    excerpt: "This initial release of solutions jointly developed between Microsoft and Oracle enables you to bring your WebLogic workloads to a managed Kubernetes service on Azure."
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/run-oracle-weblogic-server-on-azure-kubernetes-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 100
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c222c232-b3ab-44c0-b5be-0d9bc5d38917.png"
-        width: 798
-        height: 449
-        isCached: true
-  - title: "Oracle WebLogic Server on Azure Virtual Machines major release now available"
-    excerpt: "Enable lift-and-shift migration of mission critical enterprise Java workloads with a major release for solutions to run Oracle WebLogic Server (WLS) on Azure Linux virtual machines."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/oracle-weblogic-server-on-azure-virtual-machines-major-release-now-available/"
+  - title: "Node.js 14 for Azure Functions is now available in public preview"
+    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
+    publishedDateTime: 2020-11-12T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/c4750600-1743-43b4-8659-86b6d1be799f.png"
-        width: 941
-        height: 777
-        isCached: true
-  - title: "SQL Server Analysis Services Virtual Machine images now available"
-    excerpt: "SQL Server Analysis Services Virtual Machine images (in general availability) can help make your workloads more efficient, enable an easier onboarding experience, and helps viewing your different virtual machine workloads and managing them."
-    publishedDateTime: 2020-11-10T18:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-analysis-services-virtual-machine-images-now-available/"
+  - title: "Azure Sphere 20.10 update is now available"
+    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
+    publishedDateTime: 2020-11-10T00:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "SQL Server Reporting Services Virtual Machine images now available"
-    excerpt: "Migrate SQL Server Reporting Services workloads into Azure using pre-configured VM images to enable easier workload management, more efficient onboarding to the cloud, and leverage benefits by selecting preconfigured images."
-    publishedDateTime: 2020-11-11T17:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/sql-server-reporting-services-virtual-machine-images-now-available/"
+    quality: 67
+  - title: "New recommendations from Azure Advisor are now available"
+    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Empowering developer velocity and efficiency with Kubernetes"
-    excerpt: "Welcome to KubeCon North America. It seems only yesterday that we were together in San Diego. Though we’re farther apart physically this year, the Kubernetes community continues to go strong."
-    publishedDateTime: 2020-11-17T09:00:19Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-developer-velocity-and-efficiency-with-kubernetes/"
+    quality: 67
+  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
+    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
+    publishedDateTime: 2020-11-17T21:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Service Fabric release 7.2 is now available"
-    excerpt: "This release brings new features, bug fixes, and performance enhancements."
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/service-fabric-release-72-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+    quality: 67
 
 secured: "+etonCQ/kPjTEmZsuD5tcPNQB94kD3UoTNhv4v7B8jDEo9Wwz1vuXNQXWdozF8nwZCkkvwAJ6RIAWNlYi71rhsTlUeSe81ihzRADqAGPEPjY4vTyK55EiuqvTntZHDpnyvZsUqFufVsAqHoW0hs+c//us+e46bchSHhKth51ojWSyIF2snkQbEkqjNfmCilfP/1MDtZOLSDvYNVNXMknCpYLGy94ChvlnkTgcIkVOsoWoQIaDHJI8e6JZg1a91Nfd3C0/H5ZXl8uthjdCGT8cZ7E5b2xIgf79aw617Kv4U8Dr/xrG5k0lRwwyXngHGGYTWoodPA2IEH1MskAKCGhaZ0EZjOo4MmTtr+POAP4q3I=;yb3A8o5uD2ewbUbXB3io6Q=="
 ---

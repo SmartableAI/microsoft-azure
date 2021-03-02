@@ -22,37 +22,28 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Databricks Now Available in Switzerland North"
-    excerpt: "Azure Databricks is now available in the Swiss Azure datacenters which marks another milestone on the way to digitize Switzerland"
-    publishedDateTime: 2020-10-28T20:52:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-available-in-switzerland-north/"
+  - title: "General availability: Azure Log Analytics in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Germany West Central, UAE North, & Switzerland West  . "
+    publishedDateTime: 2021-01-21T17:02:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Power BI Connector for Azure Databricks is now generally available"
-    excerpt: "Announcing the general availability of the Power BI connector for Azure Databricks, for Power BI Service and Power BI Desktop 2.85.681.0. "
-    publishedDateTime: 2021-02-26T17:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-connector-for-azure-databricks-is-now-generally-available/"
+    quality: 70
+  - title: "General availability: Application Insight in Germany West Central, UAE North, & Switzerland West  "
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Germany West Central, UAE North, & Switzerland West   regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-01-21T17:02:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-germany-west-central-uae-north-switzerland-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 38
   - title: "Azure Media Services is now available in Switzerland and Germany"
     excerpt: ""
     publishedDateTime: 2020-05-20T16:00:28Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-is-now-available-in-switzerland-and-germany/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
-  - title: "Azure DevTest Labs is now available in Switzerland regions"
-    excerpt: ""
-    publishedDateTime: 2020-05-27T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-devtest-labs-is-now-available-in-switzerland-regions/"
     type: article
     provider:
       name: Microsoft

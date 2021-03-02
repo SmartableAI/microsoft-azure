@@ -82,6 +82,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Azure Percept in public preview"
+    excerpt: "Announcing preview of Microsoft Azure Percept, a comprehensive, easy-to-use platform with added security for creating edge artificial intelligence (AI) solutions."
+    publishedDateTime: 2021-03-02T17:00:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-percept-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/5f792abf-717b-4540-b536-057d0765859c.gif"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Azure SQL auditing of Microsoft operations is now in general availability"
+    excerpt: "Azure SQL auditing of Microsoft operations for Azure SQL Database, Azure Synapse Analytics and Azure SQL Managed Instance is now generally available, enabling more transparency into your workforce."
+    publishedDateTime: 2021-03-02T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-of-microsoft-operations-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Connecting customers and businesses with Azure Communication Services and Microsoft Teams"
     excerpt: "Last year, we launched Azure Communication Services to help businesses reach customers—enabled by voice, video, text chat, and connections into short message service (SMS) and public switched telephone network (PSTN)—across applications, websites, and mobile platforms."
     publishedDateTime: 2021-03-02T06:00:02Z
@@ -126,6 +149,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Public preview: Azure Communication Services interoperability with Microsoft Teams "
+    excerpt: " Azure Communication Services is now interoperable with Microsoft Teams in preview, enabling you to leverage a unified offering for both internal and external communication experiences."
+    publishedDateTime: 2021-03-02T17:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-communication-services-interoperability-with-microsoft-teams/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
     excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
     publishedDateTime: 2021-02-25T15:40:00Z
@@ -323,6 +355,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
         width: 501
         height: 375
+        isCached: true
+  - title: "Microsoft announces new Azure China data center region in Hebei"
+    excerpt: "Microsoft has announced a new Azure data center region in Northern China. Quietly announced during its Ignite conference this week, the China North 3 region will be located in Hebei and be the company’s fifth in the country."
+    publishedDateTime: 2021-03-02T17:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-new-azure-china-data-center-region-hebei/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/China.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
     excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
