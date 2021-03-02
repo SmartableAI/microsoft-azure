@@ -1282,6 +1282,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "DPR connects with Six Degrees on Microsoft Azure"
+    excerpt: "UK-based banking software provider, DPR, has announced its latest technical partnership with Six Degrees as it continues to expand its Microsoft Azure integration."
+    publishedDateTime: 2021-03-02T13:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86396/dpr-connects-with-six-degrees-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T21:38:00Z

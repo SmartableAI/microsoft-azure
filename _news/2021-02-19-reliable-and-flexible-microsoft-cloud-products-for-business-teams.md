@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-    publishedDateTime: 2021-02-25T15:19:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 54
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
     excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
     publishedDateTime: 2021-02-15T20:38:00Z
@@ -195,20 +181,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
-    publishedDateTime: 2021-02-23T14:23:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services-301230079.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/798683/Profisee_Brands_Logo.jpg?p=facebook"
-        width: 1000
-        height: 524
-        isCached: true
   - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
     excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
     publishedDateTime: 2021-02-16T14:21:00Z
@@ -247,22 +219,6 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
-    excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
-    publishedDateTime: 2021-02-25T16:25:00Z
-    webUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/25/microsoft-cloud-for-financial-services-microsoft-cloud-for-manufacturing-and-microsoft-cloud-for-nonprofit-are-vertical-cloud-solutions-launching-soon-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 42
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/Microsoft-Clouds-Pixels-Reuse.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
     excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
@@ -334,20 +290,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
-    excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
-    publishedDateTime: 2021-02-23T22:34:00Z
-    webUrl: "https://www.upwork.com/freelance-jobs/au/windows-azure-in-oatlands-nsw/"
-    type: article
-    provider:
-      name: Upwork
-      domain: upwork.com
-    quality: 37
-    images:
-      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
     excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
     publishedDateTime: 2021-02-24T12:47:00Z
@@ -361,34 +303,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
-    excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
-    publishedDateTime: 2021-02-25T14:21:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-cloud-computing-32b700eb75c66e06ea5123104fe0a2f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Company-X recruits five-time Microsoft MVP and Azure expert"
-    excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
-    publishedDateTime: 2021-02-28T20:57:00Z
-    webUrl: "https://www.reseller.co.nz/article/686584/company-x-recruits-five-time-microsoft-mvp-azure-expert/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/jiadong_chen.jpg"
-        width: 800
-        height: 540
         isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
@@ -418,20 +332,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
-    excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
-    publishedDateTime: 2021-02-26T00:50:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/26/lunavi-azure-adoption-program/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 27
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "First AWS, Now Microsoft Cloud, Who Is Next"
     excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
     publishedDateTime: 2021-02-19T04:20:00Z
@@ -445,20 +345,6 @@ related:
       - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Introducing Microsoft Cloud for Manufacturing"
-    excerpt: "Filled with unimaginable change caused by the pandemic, the manufacturing industry witnessed a perfect storm: a significant disruption in terms of business continuity, operational visibility, remote work,"
-    publishedDateTime: 2021-02-24T21:05:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2021/introducing-microsoft-cloud-for-manufacturing"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 22
-    images:
-      - url: "https://www.automation.com/getmedia/a1c0ecbf-7fd4-4b04-a0c0-8aa585367c84/Microsoft-photo-feb-24-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
@@ -477,15 +363,6 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 17
-  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
-    publishedDateTime: 2021-02-23T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
     quality: 17
 
 secured: "dB7RWJKbkZw+qVSXQy7m8UKF7s43zBVuF1x7GIpn1OizFiF7tNOkgT7icgb3Gl6ZrHMzvbM+Grworg/xt6soYukoxTrAqcdYIIlF7mn3fCpH3zIg3hY2JscH+AR2Is0f8t8wQHKR2Oh2R4hc/kaZf6Zydkihpc4PdHNtYOyT95fIUUCK2cutGvdbylO1CmW+FLi87MOVywgPXVRFTNYJk65c90MXOIykQMe+Dw0f781mu3o8o7V8+Dxh9C+W3rb8N5lXAhx1sCh/NSzI74iEpPWs2pco6Iqijkk8dv+5u0PZPB8ha3akZ6HVgpIMICo+l+ederrNUGprKiv/YWi+Sj4sccQ+oXx+yO3yyE+lbUs=;jYR89JyaezK9ozL81izpHw=="

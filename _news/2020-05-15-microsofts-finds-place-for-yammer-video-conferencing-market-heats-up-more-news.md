@@ -1455,20 +1455,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Why Microsoft Azure wins with enterprise customers"
-    excerpt: "Microsoft often comes off as second best to AWS. But when it comes to established enterprises, Azure wins more often than not. Here’s why."
-    publishedDateTime: 2021-02-24T07:10:00Z
-    webUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/satya_nadella_microsoft_15.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "MADISON, WI (May 21, 2020) – RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions, in addition ..."
     publishedDateTime: 2020-05-21T23:34:00Z

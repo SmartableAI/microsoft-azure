@@ -24,89 +24,127 @@ images:
     isCached: true
 
 related:
-  - title: "This $1,000 Microsoft Azure Certification prep bundle is just $30 with code"
-    excerpt: "Covering everything from laptops to smartphones, from Windows 10 to productivity software, PCWorld delivers the information and expert advice you need to get the job done."
-    publishedDateTime: 2021-02-21T15:05:00Z
-    webUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.html"
-    ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
+  - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
+    excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 95
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 112
     images:
-      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-        width: 630
-        height: 473
+      - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure. The availability of CockroachDB will enable Azure users to build resilient,"
-    publishedDateTime: 2021-02-16T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cockroachdb-available-in-microsoft-azure-marketplace-1030087639"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a user privacy problem"
-    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-    publishedDateTime: 2021-02-15T17:43:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem/"
+  - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
+    excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,"
-    publishedDateTime: 2021-02-16T16:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16"
+    quality: 108
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
+        width: 1040
+        height: 809
+        isCached: true
+  - title: "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads"
+    excerpt: "With Azure Arc, Microsoft offers a service that allows its customers to run Azure in any Kubernetes environment, no matter where that container cluster is hosted. From Day One, Arc supported a wide range of use cases,"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 108
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
+    excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Connecting customers and businesses with Azure Communication Services and Microsoft Teams"
+    excerpt: "Last year, we launched Azure Communication Services to help businesses reach customers—enabled by voice, video, text chat, and connections into short message service (SMS) and public switched telephone network (PSTN)—across applications, websites, and mobile platforms."
+    publishedDateTime: 2021-03-02T06:00:02Z
+    webUrl: "https://azure.microsoft.com/blog/connecting-customers-and-businesses-with-azure-communication-services-and-microsoft-teams/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7b905db1-3c26-4a5f-9581-27ee21f0c50f.png"
+        width: 1024
+        height: 574
+        isCached: true
+  - title: "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure"
+    excerpt: "During Microsoft Ignite 2021, Microsoft unveiled new Azure AI and Cognitive Services aimed at solving enterprise-scale challenges."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/"
+    ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
+    excerpt: "IOTech, the edge software company, today"
+    publishedDateTime: 2021-03-02T14:17:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-03-02/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
-    excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
-    publishedDateTime: 2020-11-24T17:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
+  - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
+    excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
+    publishedDateTime: 2021-02-25T15:40:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/25/azure-active-directory-b2c-sla.aspx"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
+      name: Redmond Magazine
+      domain: redmondmag.com
     quality: 54
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
-    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
-    publishedDateTime: 2021-02-15T20:17:00Z
-    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 54
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
-        width: 1200
-        height: 675
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Upgrade2.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
     excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
@@ -122,78 +160,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
-    excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
-    publishedDateTime: 2021-02-15T20:38:00Z
-    webUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/"
-    ampWebUrl: "https://www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/linux/microsoft-azure-and-canonical-ubuntu-linux-have-a-privacy-concern-for-the-user/amp/"
+  - title: "Microsoft debuts its edge AI service Azure Percept at Ignite"
+    excerpt: "Microsoft Corp. is stepping up its artificial intelligence capabilities within its Azure Cloud platform with the launch of a new service called Azure Percept that’s designed to enable a wealth of new AI capabilities for devices at the network edge."
+    publishedDateTime: 2021-03-02T14:44:00Z
+    webUrl: "https://siliconangle.com/2021/03/02/microsoft-brings-ai-edge-azure-percept/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 53
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-and-Canonical-Ubuntu-Linux-have-a-privacy-concern.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "SolarWinds Hackers Stole Some Source Code for Microsoft Azure, Exchange, Intune"
-    excerpt: "Microsoft, on Thursday, said it concluded its probe into the SolarWinds hack, finding that the attackers stole some source code but confirmed there's no evidence that they abused its internal systems to target other companies or gained access to production services or customer data."
-    publishedDateTime: 2021-02-19T07:27:00Z
-    webUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html"
-    ampWebUrl: "https://thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/02/solarwinds-hackers-stole-some-source.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 53
-    images:
-      - url: "https://thehackernews.com/images/-c5NzoKqPoJk/YC9n7qavPOI/AAAAAAAAB0Y/96i0fUBlWn4xXZnE7h-mI-ykAYERF3jCQCLcBGAsYHQ/s0/microsoft.jpg"
-        width: 728
-        height: 380
-        isCached: true
-  - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-02-19T11:15:00Z
-    webUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
-    ampWebUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 52
-    images:
-      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
-    excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
-    publishedDateTime: 2021-02-15T08:51:00Z
-    webUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad"
-    ampWebUrl: "https://www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/security/96059-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 51
-  - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
-    excerpt: "Profisee, a pioneer in master data management (MDM) solutions, today announced that its recently released platform-as-service (PaaS) multi-domain MDM solution now includes new"
-    publishedDateTime: 2021-02-17T15:17:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/mdm-leader-profisee-announces-integration-with-microsoft-azure-data-services/article_1b1394f6-690c-59c9-a51d-bc975bd34545.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
+        width: 1242
+        height: 641
         isCached: true
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
     excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
@@ -209,44 +188,19 @@ related:
         width: 1000
         height: 524
         isCached: true
-  - title: "Microsoft Azure is Sharing Customer Information and Allowing Publishers to Contact Customers"
-    excerpt: "A researcher was contacted by a Canonical sales rep hours after spinning Ubuntu Linux in Microsoft Azure, opening a privacy can of worms."
-    publishedDateTime: 2021-02-16T14:21:00Z
-    webUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/16/microsoft-azure-is-sharing-customer-information-and-allowing-publishers-to-contact-customers-xcxwbn/?amp"
+  - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
+    excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
+    publishedDateTime: 2021-03-02T14:05:00Z
+    webUrl: "https://blogs.microsoft.com/ai/with-azure-percept-microsoft-adds-new-ways-for-customers-to-bring-ai-to-the-edge/"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 46
+      name: Microsoft
+      domain: microsoft.com
+    quality: 49
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2016/04/privacy-policy-bluediamondgallery-reuse.jpg"
-        width: 1200
-        height: 780
-        isCached: true
-  - title: "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row"
-    excerpt: "Unisys Corporation today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider. \"By again passing the Azure Expert MSP criteria, Unisys has proven that it can consistently and securely design,"
-    publishedDateTime: 2021-02-16T12:58:00Z
-    webUrl: "https://www.nasdaq.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
-  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
-    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
-    publishedDateTime: 2021-02-24T01:16:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/03/Azure-Percept-platform-1-1024x360.jpg"
+        width: 1024
+        height: 360
         isCached: true
   - title: "Microsoft Cloud Announces Three New Vertical Cloud Solutions"
     excerpt: "Microsoft is boosting its industry-cloud solutions with the announcement of three new programs. To help get these new Azure offerings off the ground, the company has worked directly with partners. On Wednesday,"
@@ -264,76 +218,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Accelerating Cloud Migrations, Microsoft Introduces Azure Migration and Azure Lighthouse Programs"
-    excerpt: "Domain-specific languages let domain experts participate in the software development process. Few DSLs however withstand the test of time. Key success factors for longstanding DSLs seem to be user ..."
-    publishedDateTime: 2021-02-15T23:59:00Z
-    webUrl: "https://www.infoq.com/news/2019/07/Microsoft-Azure-Lighthouse/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 41
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
-    publishedDateTime: 2021-02-17T13:25:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/digimarc-now-available-in-the-microsoft-azure-marketplace/article_5d288c72-b929-5e63-9118-3e310f64262c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/41/d41516e9-ec8e-59d3-b3ee-96b5d5db6ba7/603653a7a6b55.image.jpg?resize=824%2C630"
-        width: 824
-        height: 630
-        isCached: true
-  - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
-    excerpt: "Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Azure Expert Managed"
-    publishedDateTime: 2021-02-18T15:02:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/logicalis-renews-microsoft-azure-expert-managed-service-provider-status/article_9b5b823a-4b01-5a8c-af99-d279a5ed8139.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/d5/ad52d158-4964-56c2-a743-f8e27a9a5f85/602e9c52c3b5a.image.jpg?resize=809%2C473"
-        width: 809
-        height: 473
-        isCached: true
-  - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
-    excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
-    publishedDateTime: 2021-02-18T20:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/digimarc-now-available-in-the-microsoft-azure-marketplace-301229431.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1439331/Digimarc_Corporation_Microsoft.jpg?p=facebook"
-        width: 1106
-        height: 578
-        isCached: true
-  - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
-    excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
-    publishedDateTime: 2021-02-19T02:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/still-running-your-erp-on-premise-microsoft-azure-to-the-rescue-nid-26480-cid-96.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft Windows Azure Jobs in Oatlands, NSW"
     excerpt: "Apply now for Microsoft Windows Azure jobs in Oatlands, NSW. Now filling talent for Looking for experienced DevOps-Architect part-time for #tech4good, MS Dynamics 365 Trainer needed,"
     publishedDateTime: 2021-02-23T22:34:00Z
@@ -348,19 +232,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
-    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
-    publishedDateTime: 2021-02-24T12:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
+  - title: "Why Microsoft Azure wins with enterprise customers"
+    excerpt: "Microsoft often comes off as second best to AWS. But when it comes to established enterprises, Azure wins more often than not. Here’s why."
+    publishedDateTime: 2021-02-24T07:10:00Z
+    webUrl: "https://www.arnnet.com.au/article/686435/why-microsoft-azure-wins-enterprise-customers/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: ARN
+      domain: arnnet.com.au
     quality: 37
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/satya_nadella_microsoft_15.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Smile CDR Now Available Worldwide in the Microsoft Azure Marketplace"
     excerpt: "Smile CDR, an enterprise-class FHIR-based data platform that solves persistent healthcare data collection and sharing challenges, today announced the availability of its solution on Microsoft Marketplace,"
@@ -376,33 +260,61 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
-    excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."
-    publishedDateTime: 2021-02-18T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/18/azure-front-door-and-azure-firewall.aspx"
+  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
+    publishedDateTime: 2021-02-26T00:00:00Z
+    webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 36
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/140710REDMackieAzureMachine.jpg"
-        width: 647
-        height: 450
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Smartlogic Retains Microsoft Gold Competencies and is Approved for Azure.gov"
-    excerpt: "Smartlogic, the leader in Semantic AI platforms, today announced it has retained Microsoft Gold Partner Competencies in Application Development and Cloud Platform,"
-    publishedDateTime: 2021-02-17T12:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/smartlogic-retains-microsoft-gold-competencies-and-is-approved-for-azure-gov/article_523e618f-1eae-568f-ad44-5803a711f922.html"
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
+    publishedDateTime: 2021-03-02T14:15:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
+        width: 845
+        height: 475
+        isCached: true
+  - title: "Microsoft Releases Azure Attestation into General Availability"
+    excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
+    publishedDateTime: 2021-03-02T12:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
+    excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
+    publishedDateTime: 2021-03-02T14:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
+        width: 501
+        height: 375
         isCached: true
   - title: "Lunavi launches Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework"
     excerpt: "Lunavi announces the launch of its new Azure Adoption Program aligned with the Microsoft Cloud Adoption Framework (CAF)."
@@ -418,34 +330,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
-    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-    publishedDateTime: 2021-02-19T04:20:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Introducing Microsoft Cloud for Manufacturing"
     excerpt: "Filled with unimaginable change caused by the pandemic, the manufacturing industry witnessed a perfect storm: a significant disruption in terms of business continuity, operational visibility, remote work,"
     publishedDateTime: 2021-02-24T21:05:00Z
@@ -460,24 +344,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
-    excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
-    publishedDateTime: 2021-02-16T22:06:00Z
-    webUrl: "https://www.linuxtoday.com/developer/microsoft-azure-and-canonical-ubuntu-linux-have-a-user-privacy-problem-210215100505.html"
-    type: article
-    provider:
-      name: Linux Today
-      domain: linuxtoday.com
-    quality: 17
-  - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
-    excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
-    publishedDateTime: 2021-02-17T09:47:00Z
-    webUrl: "https://www.telecompaper.com/news/swisscom-becomes-microsoft-azure-expert-msp-after-audit--1372749"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
   - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
     excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
     publishedDateTime: 2021-02-23T13:07:00Z
@@ -487,6 +353,24 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
+    excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
+    publishedDateTime: 2021-02-25T18:16:00Z
+    webUrl: "https://www.cio.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
+  - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
+    excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
+    publishedDateTime: 2021-03-02T05:44:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "2Nmau2AQ/wJJpM2CuD9V2H/yXYnYxLw9WML7/Ie5+IJ243gYiLOzvdpXDWkyBR7HZAqo/Q9frT/IR49EX8gPR2wK0tKy5kLj62263P66h0t5iFM7w94QDaG0NYSQTSNUBqyiEA2xR70ljyfauEwplcXRHQGSP2RuvxrruBLiEtpAQ7uSVUgU5vBur7MovTzqLWWxHSTjx6yeojIxdpOIdUgB1vpJEZbmG6dELZBpWB81Rmp+xXHKBh+fxq9vcNKRD8nAy7xnXN2hyvUUgleCbV2AOcvFp92fjrJ5rLTntlpFxK4i992+/2aKX4k6B9xhQXCAjEbCw/yUg9645J09qnL5bH6iG+TzuzpykFmiKE8=;VJBg6fUXCdkYzLbkvwXI2g=="
 ---

@@ -1282,6 +1282,20 @@ related:
         width: 1665
         height: 1158
         isCached: true
+  - title: "DPR connects with Six Degrees on Microsoft Azure"
+    excerpt: "UK-based banking software provider, DPR, has announced its latest technical partnership with Six Degrees as it continues to expand its Microsoft Azure integration."
+    publishedDateTime: 2021-03-02T13:04:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86396/dpr-connects-with-six-degrees-on-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
     excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
     publishedDateTime: 2020-10-04T14:09:00Z

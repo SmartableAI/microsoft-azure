@@ -31,20 +31,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Bring innovation anywhere with Azure’s multi-cloud, multi-edge hybrid capabilities"
-    excerpt: "As businesses shift priorities to enable remote work, take advantage of cloud innovation, and maximize their existing on-premises investments, relying on an effective multi-cloud, multi-edge hybrid approach is even more important than it has ever been."
-    publishedDateTime: 2020-09-22T08:00:09Z
-    webUrl: "https://azure.microsoft.com/blog/bring-innovation-anywhere-with-azures-multicloud-multiedge-hybrid-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 81
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8e3ef0e6-813a-49cd-8632-d1338f7add22.png"
-        width: 624
-        height: 316
-        isCached: true
   - title: "Gain IT efficiency for Windows Server with new Azure innovation"
     excerpt: "Today, we're sharing new capabilities that continue to make Azure the best place to run Windows Server apps."
     publishedDateTime: 2020-09-23T08:00:12Z

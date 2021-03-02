@@ -490,15 +490,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The Essential Starters Guide for Microsoft Azure for IT Leaders"
-    excerpt: "The essential guide to cloud adoption in Microsoft Azure for those new to public cloud and those with some Azure services already in place. Cloud consumption is on the rise as enterprise ..."
-    publishedDateTime: 2021-02-25T18:16:00Z
-    webUrl: "https://www.cio.com/resources/214918/the-essential-starters-guide-for-microsoft-azure-for-it-leaders"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
   - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
     excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
     publishedDateTime: 2020-11-03T06:29:00Z

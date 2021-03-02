@@ -2,6 +2,151 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-08-10-azure-cloud-shell-can-now-run-in-an-isolated-virtual-network-public-preview.md",
+      "title": "Azure Cloud Shell can now run in an isolated virtual network (public preview)",
+      "excerpt": "Cloud Shell now supports virtual networks.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/cloudshell-vnet/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-10T10:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-08-07-microsoft-azure-a-cheat-sheet.md",
+      "title": "Microsoft Azure: A cheat sheet",
+      "excerpt": "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1077,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/",
+      "publishedDateTime": "2020-08-06T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_news/2020-08-06-prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration.md",
+      "title": "Prioritize datacenter discovery and readiness assessments to accelerate cloud migration",
+      "excerpt": "Cloud migrations are an effective way to drive operational efficiencies and to flip capital expenses to operational.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/",
+      "originalUrl": "https://azure.microsoft.com/blog/prioritize-datacenter-discovery-and-readiness-assessments-to-accelerate-cloud-migration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fcfb71e7-01bf-4430-86c5-80a5d02c167f.png",
+          "width": 1144,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-06T02:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
       "path": "_news/2020-08-05-announcing-preview-of-java-message-service-20-over-amqp-on-azure-service-bus.md",
       "title": "Announcing preview of Java Message Service 2.0 over AMQP on Azure Service Bus",
       "excerpt": "Azure Service Bus simplifies enterprise messaging scenarios by leveraging familiar queue and topic subscription semantics over the industry driven AMQP protocol.",
@@ -1097,163 +1242,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-azure-time-series-insights-gen2-leading-the-next-generation-of-industrial-iot-analytics-platforms.md",
-      "title": "Azure Time Series Insights Gen2: Leading the next generation of industrial IoT analytics platforms",
-      "excerpt": "Azure Time Series Insights Gen2—a fully managed IoT analytics platform is now generally available today. With Azure Time Series Insights Gen2, you can explore and analyze billions of contextualized events across millions of sensors.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-time-series-insights-gen-2-leading-the-next-generation-of-industrial-iot-analytics-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5f45b0b1-c717-4967-b855-55833068b919.png",
-          "width": 1024,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T05:00:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-microsoft-azure-iot-connector-for-fhir-now-in-preview.md",
-      "title": "Microsoft Azure IoT Connector for FHIR now in preview",
-      "excerpt": "The preview of Azure IoT Connector for FHIR—a fully managed and compliant feature of the Azure API for FHIR—is now available. The connector empowers health teams with the technology for a scalable end-to-end pipeline to ingest, transform, and manage Protected Health Information (PHI) data from devices",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-azure-iot-connector-for-fhir-now-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e5a083c8-5be0-4b4a-8878-bf65fbf877f9.png",
-          "width": 735,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T04:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-running-sd-wan-virtual-appliances-natively-in-azure-virtual-wan.md",
-      "title": "Running SD-WAN virtual appliances natively in Azure Virtual WAN",
-      "excerpt": "Today we’re announcing the preview of the new ability to deploy and run third-party Network Virtual Appliances such as SD-WAN natively within the Azure Virtual WAN hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
-      "originalUrl": "https://azure.microsoft.com/blog/running-sdwan-virtual-appliances-natively-in-azure-virtual-wan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/861ec5e7-1837-4e5f-b7ba-8721cc802554.png",
-          "width": 911,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T03:00:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     }
   ],

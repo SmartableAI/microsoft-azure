@@ -19,17 +19,6 @@ topics:
   - Azure
 
 related:
-  - title: "Cloud-based Database Market – Major Technology Giants in Buzz Again | Oracle, Microsoft Azure, IBM, Apache Cassandra"
-    excerpt: "AMA Research have added latest edition of survey study on Global Cloud based Database Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
-    publishedDateTime: 2020-06-06T19:22:00Z
-    webUrl: "https://www.openpr.com/news/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
-    ampWebUrl: "https://www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2068878/cloud-based-database-market-major-technology-giants-in-buzz"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
   - title: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications"
     excerpt: "New InterWork Alliance that includes IBM and Microsoft aims to standardize distributed applications - SiliconANGLE"
     publishedDateTime: 2020-06-03T03:11:00Z
