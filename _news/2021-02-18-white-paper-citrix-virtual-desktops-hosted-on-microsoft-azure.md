@@ -1,28 +1,26 @@
 ---
 category: news
-title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2021-02-19T11:15:00Z
-originalUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
-webUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
-ampWebUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
-cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
+title: "White paper: Citrix Virtual Desktops hosted on Microsoft Azure"
+excerpt: "Independent third-party scalability and performance testing of Citrix Virtual Apps and Desktops deployment with Microsoft Windows Virtual Desktop on Microsoft Azure revealed substantial enterprise ..."
+publishedDateTime: 2021-02-17T22:25:00Z
+originalUrl: "https://www.itweb.co.za/content/KBpdg7pzoyJqLEew"
+webUrl: "https://www.itweb.co.za/content/KBpdg7pzoyJqLEew"
 type: article
-quality: 52
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: ITWeb
+  domain: itweb.co.za
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
-    width: 630
-    height: 473
+  - url: "https://lh3.googleusercontent.com/GxE9aKeLckDYUskl878KyJJpOJO3FlqQeQibTaXRfcwzmrMl-fyJnwWdyodSzz1gOT_C4dYe8HUOdBrT5dQHkwdlnhPBB7BJiKyp=w816-h428"
+    width: 761
+    height: 428
     isCached: true
 
 related:
@@ -142,6 +140,22 @@ related:
         width: 728
         height: 380
         isCached: true
+  - title: "This $1,194 Microsoft Azure certification prep bundle is $30 for President’s Day"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-02-19T11:15:00Z
+    webUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.html"
+    ampWebUrl: "https://www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3607775/this-1-194-microsoft-azure-certification-prep-bundle-is-30-for-president-s-day.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://cdnp2.stackassets.com/dd2a99b3f7d21cd700c3d210798ff74322c011d5/store/f4313846701bed0b9cbd6b0a983722fdce21faef621975d07c3a90a79e55/sale_148067_primary_image.jpg"
+        width: 630
+        height: 473
+        isCached: true
   - title: "Vectra extends cloud identity detection capabilities with Microsoft Azure AD"
     excerpt: "Vectra AI has announced enhanced cloud identity detection capabilities using Azure AD within its Cognito Detect for Office 365. By integrating at the identity layer, Vectra gives complete cloud-to-ground security coverage over an organisation’s entire SaaS ecosystem."
     publishedDateTime: 2021-02-15T08:51:00Z
@@ -247,20 +261,6 @@ related:
       - url: "https://mma.prnewswire.com/media/656452/Logicalis_Logo.jpg?p=facebook"
         width: 809
         height: 424
-        isCached: true
-  - title: "White paper: Citrix Virtual Desktops hosted on Microsoft Azure"
-    excerpt: "Independent third-party scalability and performance testing of Citrix Virtual Apps and Desktops deployment with Microsoft Windows Virtual Desktop on Microsoft Azure revealed substantial enterprise ..."
-    publishedDateTime: 2021-02-17T22:25:00Z
-    webUrl: "https://www.itweb.co.za/content/KBpdg7pzoyJqLEew"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 37
-    images:
-      - url: "https://lh3.googleusercontent.com/GxE9aKeLckDYUskl878KyJJpOJO3FlqQeQibTaXRfcwzmrMl-fyJnwWdyodSzz1gOT_C4dYe8HUOdBrT5dQHkwdlnhPBB7BJiKyp=w816-h428"
-        width: 761
-        height: 428
         isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "\"We are excited to offer these brand protection and traceability solutions in the Microsoft Azure Marketplace to help drive digital transformation for organizations around the world,\" said Brian O ..."
@@ -379,6 +379,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "t61YEWdHEo72WEjqXEgyn/vlJ1StMMTOvAV+qJdBIGs9Qi4EkgEmfLA91UYOn+eW9TquxHfs4OgOCJA59o/9+GXWthVUpQ2W9nZt8zWACorwPMw97miQCGHrftE8B2LA0+YnSN2MqERsJ6OnjcfNqwAF84ilCFCRMj8O2efUnjI8ovawpyPNrYtHfD4JcLEbd6B3dvUCSH9d1PTU+5MoByEolMDWJVvQ9bv9yXzN//c7i0PVunbJoKf1D/P7Z+Mw8aBIMGRQ7UNtvinCkDhC2wpSVqB82CdymF2I319o6nWFBym4odIt7MjTj36N0HxdLWpBnMRHtzG90J9Vm1SnOzrlK9DmyDVF6pKIsRPenCEXuroRmuAbpfE+hybufztoqpNzcMgJSh/x7uuFa51MOAmkLH44b++Ff9H8UuTyPWifyVxoXmUvAgRr+vEI6tKVVJxiBV8lmByD1+UUFi9A5/TH7inyBVkKXYkygsSxr00AnVJjB2d8A9fV5wvi24Vuh8LDQPIFOk1abytWc381HQ==;aIfdiPz8o6ZyMIhZZ4VqUg=="
+secured: "Mg7mHJ7aJ5Eyn3u1KP8rsitoDqe0SYdXPfSohwR79teqaGl2kdPB02KniGsYW8jlSP42alAxzwCaZ7aQCsb01POdvnrWlLQKGcZIWk8OI8O8+uEyxfgIB/sJ7ZbygZ0SMyK4sCP1IBzaiGfuQW8Dx8dgQhjLUeHuPNfnIN7HqYVgGK8AXrem43DSk95qvQR7QxjIu1nDskkDL8r3JxC8dh2V6FPsL0tfNa/KmmMHoH3YNm+7CuJLqsFD4VP+kBjEoQVeMb1q7Mka+xdDpK0cgLioI8RCZRr4utM5UPjdfqdA1Wxfrka+hEGgfNu/N3CrLM3HJ/xQKT5Rqc5Zre91IXoomYER+Lz+W+61nPj7CiM=;cKOviVCZr+yRDxFIKpbRnw=="
 ---
 

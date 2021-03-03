@@ -262,6 +262,20 @@ related:
         width: 809
         height: 424
         isCached: true
+  - title: "White paper: Citrix Virtual Desktops hosted on Microsoft Azure"
+    excerpt: "Independent third-party scalability and performance testing of Citrix Virtual Apps and Desktops deployment with Microsoft Windows Virtual Desktop on Microsoft Azure revealed substantial enterprise ..."
+    publishedDateTime: 2021-02-17T22:25:00Z
+    webUrl: "https://www.itweb.co.za/content/KBpdg7pzoyJqLEew"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 37
+    images:
+      - url: "https://lh3.googleusercontent.com/GxE9aKeLckDYUskl878KyJJpOJO3FlqQeQibTaXRfcwzmrMl-fyJnwWdyodSzz1gOT_C4dYe8HUOdBrT5dQHkwdlnhPBB7BJiKyp=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Still Running your ERP on Premise? Microsoft Azure to the Rescue"
     excerpt: "Still Running your ERP on Premise? Microsoft Azure to the Rescue By Rodrigo Estrada, Architecture Services Director, NEORIS - The digital economy is transforming organizations in new ways we could not imagine a few years ago,"
     publishedDateTime: 2021-02-19T02:35:00Z
