@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
-excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to"
-publishedDateTime: 2021-03-02T21:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
-webUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
+excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+publishedDateTime: 2021-03-03T05:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
 type: article
-quality: 73
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -1233,6 +1229,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "JGq5qBMLPI/AfKNEE3TT739K04A5Vcs8bzjM67ML2wCAGXT79sptXskt8NfStHAyiNTFen49rGFMQiJRVrTeBJYgxHv8JnG7RdQJzj6O7uKdk23DQ+lhmdo5cdYyiPyOvie1hbvka+icwHT+1xQ4X0au9ck9SDY5xqCmWawa7dWuylRGdnDY+8B/9AarYf++YmNIGIK+1t0U/4Sx35f1769YOVTSiRPL5Ku5dETptnLxm6jf5Q/0ipCsHG6xuQT99mjfj44vW7lccURB6dBqUKxhZLne5AVCthM00oEiyQIAC8j1d+upKD0DAfclzK4WnhldN1Qtm0z+thrXHEoRnFaySeeWT70lthV8H82st6k=;HnAIv3sqb8zILQOvKWOcAQ=="
+secured: "jsnbIO9Mpxbm9pZRce7W8SHgUApgj72LKoyUpfnNtUGE1FqgLaHoxwz1RSib0gZkRZd8inNx5362aItINOxLFfHXCLDGCAKaHPirVNBkLCahhFPdDo03OHdmKCI8j7U+MCypZyd/n8Bvr4p5L/QKARrmLQCe39drYb2Dkd9YY0tnTOL7E2zGUCYwP4TyRnqLddAMnfyoDcD+7vMMqejMWwwkZ10FiBkPKpIJjREYVWYm7Y8QyYVnSxTdVEnhswuqMdtBZ1FAeBGBcvQk9UY8GtGaMRSm8QjKgAM90jtu+pLpxLXqHcewrvwWA1UUcsyfghU03bTM5r3RV7sVBwy/414MznQoShSgIsQ0GE2gqzM=;DVRxPiU71nw49EhnhfC/BQ=="
 ---
 

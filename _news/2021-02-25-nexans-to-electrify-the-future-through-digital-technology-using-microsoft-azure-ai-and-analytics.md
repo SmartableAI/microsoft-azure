@@ -381,20 +381,6 @@ related:
         width: 728
         height: 380
         isCached: true
-  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to"
-    publishedDateTime: 2021-03-02T21:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
     excerpt: "IOTech, the edge software company, today"
     publishedDateTime: 2021-03-02T14:17:00Z
@@ -1031,6 +1017,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 33
+  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-03T05:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
     excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
     publishedDateTime: 2021-02-24T00:10:00Z
