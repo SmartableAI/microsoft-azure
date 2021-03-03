@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise"
+    excerpt: "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,"
+    publishedDateTime: 2021-03-02T15:00:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 109
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z

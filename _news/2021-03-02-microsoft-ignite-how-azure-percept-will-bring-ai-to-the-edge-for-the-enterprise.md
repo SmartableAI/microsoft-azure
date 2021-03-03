@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
-excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
-publishedDateTime: 2021-03-02T14:02:00Z
-originalUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
-webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
-ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+title: "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise"
+excerpt: "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,"
+publishedDateTime: 2021-03-02T15:00:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+webUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
 type: article
-quality: 101
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: TechRepublic
+  domain: techrepublic.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
-    width: 1024
-    height: 576
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise"
-    excerpt: "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,"
-    publishedDateTime: 2021-03-02T15:00:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 109
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
@@ -94,6 +78,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
+    excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
@@ -492,6 +492,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "3Bm8VX257UZOHTo+hT5UU4OV55uJWVl4a64+XVDjNfhmr6GO00oop8wewsW5eA2mJyGXtE0sXioX3t7sQ1n/PGhwxGwJyxN2/6ugNVCa54Lg9eQMnuaEQbD/UVhXSockwYxTC4kYVLS0qXr4XKCNEf3xLV9FVxYuZq4akaOUBzjZGLT6jfeMFJ8R6AIHZTPs8I57vxl2IaOQBKNKd6tOxGD6ESeglE7oKk4JcY4DLnp9ty903rGcvg2ZUXdcS2F2HSSHritcNkUje2oAQ20762CdCQUscXinNpVQGSvL4gOHeh2LSmiPRfSOBLgKnoekgvdlgvHItBTlGwJsnQZCIvqVOj+NRENc1IcDb2Z5FCH7jFRuapSWVC8vID+jLmy/Cw9blwrvTQUUim4cYwARkFZK0eYjlq2pT5RmlkzwsxTUhGpRefepEYX4ClyE7Py8nRQ6iB9v8UCeoFZYkmM4Lnm+4VOBCLhOA2NwTWoIZ52fvXzLPO0BPvJg5kjgVnZ5N3gGVv9UCGTvOF52eA2pWg==;SivC+A+eDyf1kUGxgCmzmg=="
+secured: "FMQ6wpdkKDcQgIQVWBofzWZwBN8eqMHU72pNTUwTPDSo07YUdRfC3n4Dh/0GmyseuxWgxLehO7yIsf8Bs+1ibjYPqJGIjfeQLH62pmz6K1KwxHSmWdCYoa2KNNYDGxPxyFggtPnZKtFv4SVp7V+yJhjvHOKnMDwioMbgNn83Dp6O/X68en3xda4R5dC/5zvTZs6oj9rNG/XTUSkZywt6/ATfyaIhBqWPR2F5/VmYOysiijZd0fTfaIqbXratdVbBOmTwye+X5L8JmqYmwv0YJ+7Pwpm/P3WZFPviVJpJu9S90mgaKaCUnJq+jsaXARYRbdSLl1Ot+wPpOTGOA9hnJJvD9XRZonVpKDAKCPH30DE=;PT366GobXDN3bVFhTY2yrQ=="
 ---
 
