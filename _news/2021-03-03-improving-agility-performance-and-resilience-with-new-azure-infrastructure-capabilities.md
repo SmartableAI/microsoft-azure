@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Customers unify hybrid and multicloud IT operations with Azure Arc"
-excerpt: "Businesses today are building and running applications across various ecosystems: on-premises, in multiple clouds, and on edge. To maintain agility and ensure compliance, it’s critical to an organization’s success to effectively manage servers, applications, and data at scale—regardless of where they"
-publishedDateTime: 2021-02-17T08:00:16Z
-originalUrl: "https://azure.microsoft.com/blog/customers-unify-hybrid-and-multicloud-it-operations-with-azure-arc/"
-webUrl: "https://azure.microsoft.com/blog/customers-unify-hybrid-and-multicloud-it-operations-with-azure-arc/"
+title: "Improving agility, performance, and resilience with new Azure infrastructure capabilities"
+excerpt: "As our customers move beyond immediate crisis needs, such as enabling remote work, many are accelerating cloud adoption to increase competitive advantage and stay more digitally resilient."
+publishedDateTime: 2021-03-03T08:00:15Z
+originalUrl: "https://azure.microsoft.com/blog/improving-agility-performance-and-resilience-with-new-azure-infrastructure-capabilities/"
+webUrl: "https://azure.microsoft.com/blog/improving-agility-performance-and-resilience-with-new-azure-infrastructure-capabilities/"
 type: article
-quality: 67
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Compute
 
 related:
   - title: "Innovate across hybrid and multicloud with new Azure Arc capabilities"
@@ -64,16 +65,16 @@ related:
         width: 1024
         height: 511
         isCached: true
-  - title: "Improving agility, performance, and resilience with new Azure infrastructure capabilities"
-    excerpt: "As our customers move beyond immediate crisis needs, such as enabling remote work, many are accelerating cloud adoption to increase competitive advantage and stay more digitally resilient."
-    publishedDateTime: 2021-03-03T08:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/improving-agility-performance-and-resilience-with-new-azure-infrastructure-capabilities/"
+  - title: "Customers unify hybrid and multicloud IT operations with Azure Arc"
+    excerpt: "Businesses today are building and running applications across various ecosystems: on-premises, in multiple clouds, and on edge. To maintain agility and ensure compliance, it’s critical to an organization’s success to effectively manage servers, applications, and data at scale—regardless of where they"
+    publishedDateTime: 2021-02-17T08:00:16Z
+    webUrl: "https://azure.microsoft.com/blog/customers-unify-hybrid-and-multicloud-it-operations-with-azure-arc/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 60
+    quality: 67
 
-secured: "5STxb1cX2nbJIL2FgiWJ88DW3IvAQ8bDUoLSubHl3Ml9MqGRXOWHdIMK9ET2Rv4NtDGMwXEN8QIpkuXACStJFrP7fvOir6AHu8CvZ5ehfp+Kx8YvPdDKyVUdx8FXqEEbn9+UopVpt/jP4ExAhv4fPuNKuMog1UAQULNYDR5Qi22N5Gn3MUrh6Qn5kdRkEkLhp4EkEZZaGJdYSKnsCL4vTn+9nBhuLljAPNlifmpR528iqJkRbcktju+zE85ZgFwKi0pyBJz46KBIuxjV8be+44YWOk3fDFmrr5t7uIw6OAyuW3vK66n2y526qDnmALZBM7xOZEPa4lICcWrDKuHcIEbhMXn8tql/iWC+dgb1YFw=;XIit7ZtnUJn2Z1T3rlWsOw=="
+secured: "Dppy2dOf3RzGvGSvSX9fhvkv/mVbLjsPnJTVvK6kK6MYl6EulCRcaBocwvSnERXi/K9NmXvH0BdiN3CkVq/qABHTuJhk7qsv34gGhJ2cBspnYlmMGFSvezTMrnEdz4/axtpaklamPvEJFmQh+lMMvM3NgMvxRAslc+pgwMtOWtuy5vBaEyxO3jE00mzoIl2oY9eZ/rFjPFtbTbCZG5ErijP9t0I1pj0MFVLgPNhSoPSKpWLBESazOqhHFzCCB9iWwoGzmydOBXOrjzhVGQAjJTjrf8SM6TuVbks6z5kOppzttBfwvKMqd9XmX75g31FYSx0rJzNI1y1lG8nTKdfw5/XR/YO0KjQz1h+5HZBLDnw=;MlEajHfdqB5okLQivCsF3A=="
 ---
 

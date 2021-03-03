@@ -65,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Improving agility, performance, and resilience with new Azure infrastructure capabilities"
+    excerpt: "As our customers move beyond immediate crisis needs, such as enabling remote work, many are accelerating cloud adoption to increase competitive advantage and stay more digitally resilient."
+    publishedDateTime: 2021-03-03T08:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/improving-agility-performance-and-resilience-with-new-azure-infrastructure-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
 
 secured: "AtwDleWFqZXVQqr5g3hz6Y3a/LPzgskbSwSRlB3S3OnuQ7chdKuFd7szrenmS4uM9LrutRIc+0DdmvLhkpKdqQ+2cxEXoU3VsrbcAF8p3BPjpyM23njO0iGugwoKY3o5gCquSubjid5KAQ2BNNzAhviuwc56SAr5l8w61/dxbf9J/HHF/n3qQl6xgkE5tZE1x+UM3RBKAD3STfU6MTjZMTwwvXwJcg26fMoHQrq1MwrVT4h+a/xDnE1BhR2OQFP9LRjZV0+cmXbVM7PzL8yO+sLkIKXtVUkwHV7H/26EA4D3lJMqXyujL9oeGfSjpT7PfjFs23zTTYV0KxSzbivQe5qnx1H3J5K4nFNYaTIusWc=;uEoilQIRxBRXoJv47BiY9g=="
 ---

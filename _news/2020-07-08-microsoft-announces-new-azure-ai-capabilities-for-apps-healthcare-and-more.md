@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apply AI to your most critical business needs with new Azure AI capabilities"
+    excerpt: "Tens of thousands of customers, such as Pepsi, Amway, Airbus, BBC, and Progressive Insurance are using Azure AI to deliver immersive customer experiences, identify new business opportunities, and drive impact."
+    publishedDateTime: 2021-03-03T08:30:16Z
+    webUrl: "https://azure.microsoft.com/blog/apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4dd7bc4a-3d76-4af3-9816-0f0b51fd01e1.png"
+        width: 1024
+        height: 573
+        isCached: true
   - title: "Microsoft continues to build out its Azure Cognitive Services API family"
     excerpt: "Microsoft is adding a new healthcare-focused text analytics interface to its family of AI programming interfaces, and it's making generally available Custom Commands and Form Recognizer APIs, as well."
     publishedDateTime: 2020-07-08T15:01:00Z

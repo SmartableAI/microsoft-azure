@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/innovate-across-hybrid-and-multic
 webUrl: "https://azure.microsoft.com/blog/innovate-across-hybrid-and-multicloud-with-new-azure-arc-capabilities/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Improving agility, performance, and resilience with new Azure infrastructure capabilities"
+    excerpt: "As our customers move beyond immediate crisis needs, such as enabling remote work, many are accelerating cloud adoption to increase competitive advantage and stay more digitally resilient."
+    publishedDateTime: 2021-03-03T08:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/improving-agility-performance-and-resilience-with-new-azure-infrastructure-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
 
 secured: "GBYIky3ibU6ov5UdB8QxwpcdsmD70QiC41p0Wvi0nWSt2WbA7qc8bCfK+m271mjVNceK+KzIGZTvoZtF9b0vO8V9PGdIuEy5BUJBFLEQ39b4nZMQwCgjG3Sa8tn/MnSDrL9If1npJCB2MydEaRqjvrf/KAD7WTmPoQmLx+n47MNeDyIT1ZxKorysn1FMzTMEn9iC/TkWcPrYXGZqM6PbEBlfmd415eZtnb+kYMhBcvjieElXBpMEePbHBOF3Y0wTh+pQQVcXgqkiHLfcWAaBCaXqXuMMBkmJRs2XQ9fjunY+A6Bxf8wOzW1rV4w+BmiGcOmIKbBl1kyGKsyTEO8pce11cISp/jue7HcuKDHvowE=;SQQzGx9q/lomcqLlJxvKGw=="
 ---
