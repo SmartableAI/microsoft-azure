@@ -4,7 +4,7 @@ excerpt: "SC-200 part 4: Create queries for Azure Sentinel using Kusto Query Lan
 type: collection
 price: Free
 length: PT2H3M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
