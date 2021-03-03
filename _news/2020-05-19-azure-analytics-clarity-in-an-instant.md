@@ -300,20 +300,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft launches Azure analytics and data services"
-    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-    publishedDateTime: 2020-12-03T16:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Tamr joins Microsoft, other leading technology companies as a Azure Synapse Analytics launch partner"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced it's selection by Microsoft as a launch partner for"
     publishedDateTime: 2020-12-03T18:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-az
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365/"
 type: article
 quality: 97
-heat: 337
+heat: 317
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/AzureModularBig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Microsoft Azure Space uses SpaceX to take on Amazon"
-    excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
-    publishedDateTime: 2020-10-22T08:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 37
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Touting Azure for Operators, Microsoft Joins SDN Standards Group"
     excerpt: "As part of its Azure for Operators program, Microsoft this week joined a nonprofit standards association that focuses on software-defined networking (SDN) technologies used by enterprises and ..."

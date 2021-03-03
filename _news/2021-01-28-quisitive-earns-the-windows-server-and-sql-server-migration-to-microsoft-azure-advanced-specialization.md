@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/quisitive-earns-the-win
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/quisitive-earns-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-1030015174"
 type: article
 quality: 78
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
+    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
+    publishedDateTime: 2020-09-15T10:23:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
         isCached: true
   - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
     excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"

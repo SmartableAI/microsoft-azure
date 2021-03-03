@@ -485,6 +485,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
+    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
+    publishedDateTime: 2020-07-30T05:06:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
     publishedDateTime: 2020-07-31T08:07:00Z

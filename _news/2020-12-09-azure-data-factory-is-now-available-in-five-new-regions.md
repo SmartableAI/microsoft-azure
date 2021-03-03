@@ -22,97 +22,51 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Digital Twins now generally available: Create IoT solutions that model the real world"
-    excerpt: "Today, organizations are showing a growing appetite for solutions that provide a deeper understanding of not just assets, but also the complex interactions across environments."
-    publishedDateTime: 2020-12-08T06:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 94
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7fa28c36-d3ea-412f-b703-58a5450128fe.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Azure Functions custom handlers are now generally available"
-    excerpt: "You can develop Azure Functions using languages and runtimes that do not currently have first-class support."
-    publishedDateTime: 2020-12-09T17:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-custom-handlers-are-now-generally-available/"
+  - title: "Azure Container Registry now available in several new regions"
+    excerpt: "Azure Container Registry is now generally available in US Gov Texas, Germany West Central, and Brazil Southeast regions bringing the number of Azure regions that it’s available in to 38."
+    publishedDateTime: 2020-09-28T16:40:52Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Java Azure Functions support on Linux is now generally available "
-    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
-    publishedDateTime: 2020-12-09T16:43:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+  - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
+    excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
+    publishedDateTime: 2020-09-30T16:00:19Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/shared-disks-on-azure-disk-storage-is-now-available-in-broader-set-of-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Infrastructure Encryption for Azure Monitor dedicated clusters now generally available"
-    excerpt: "Customers using Azure Monitor dedicated cluster get high level of assurance that their data is secure with additional 256-bit AES encryption at the Azure Storage infrastructure level."
-    publishedDateTime: 2020-12-09T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-encryption-for-azure-monitor-dedicated-clusters-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Azure Databricks now generally available in the Azure China region"
-    excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
-    publishedDateTime: 2020-12-10T17:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+    quality: 81
+  - title: "Azure Container Registry now available in Switzerland West region"
+    excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
+    publishedDateTime: 2020-08-31T18:46:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-switzerland-west-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Stack HCI is now generally available"
-    excerpt: "Flexible HCI delivered as an Azure Hybrid Service"
-    publishedDateTime: 2020-12-10T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-stack-hci-is-now-generally-available/"
+  - title: "Azure Container Registry now available in UAE Central region"
+    excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
+    publishedDateTime: 2020-08-31T18:48:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Event hubs on Azure Stack Hub is now generally available"
-    excerpt: "The GA version of Event Hubs is now available on Azure Stack Hub. This will allow you to realize cloud and on-premises scenarios that use streaming and event-based architectures."
-    publishedDateTime: 2020-12-11T18:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/event-hubs-on-azure-stack-hub-is-now-generally-available/"
+  - title: "Azure Container Registry diagnostic logs now generally available"
+    excerpt: ""
+    publishedDateTime: 2020-05-19T16:05:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-diagnostic-logs-now-generally-available/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Private Link support for Azure Automation is now generally available"
-    excerpt: "Ensure a secure channel to connect to your Automation Accounts resources with the help of Private Links in Automation."
-    publishedDateTime: 2020-12-11T22:19:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-private-link/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Microsoft (MSFT) Makes Azure Digital Twins Generally Available"
-    excerpt: "Azure Digital Twins modeling platform is in general release and is being integrated with an offering from Johnson Controls (JCI)."
-    publishedDateTime: 2020-12-09T16:02:00Z
-    webUrl: "https://www.investopedia.com/microsoft-makes-azure-digital-twins-generally-available-5090654"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 37
-    images:
-      - url: "https://www.investopedia.com/thmb/gCCXHPyDiwd9l0cbPqW68Iyk2Vo=/6000x4001/filters:fill(auto,1)/hand-holding-tablet-with-wifi-icon-on-city-and-network-connection-concept--bangkok-smart-city-and-wireless-communication-network--abstract-image-visual--internet-of-things--627698790-593f28255f9b58d58add7427.jpg"
-        width: 6000
-        height: 4001
-        isCached: true
+    quality: 17
 
 secured: "PTRrGk1BYysYroUTJelVYjoARV0V3AbPKbpbTGILmy1xkDXfjU1fPgD2WcS2f9lSiq7NNbltIgWV9X+Qk6U+tRcQC3O1XJhjCZZ59kEua8+NBDcpDMiznuclZXAddg4p4X/azAVB8B741GNDBRI0cb4ODywuNwUVOgRKuqQheOXMCo0vd+2R8NfW5yW1qC8nKUPyQ3DqoI+LvYhFqFMJN0BymiUTnMtwD8htLuUqeiqpIzThOLgmBlBZrFznPWdVLBEC/ELJ2kecNzOUyIRyvHrZWWdSASU8YoO/n8SDc4sIdq08sZhn3Jy4DWzIUzv1rv8ImQUBp+eviG1VUkm/AJJ1nY5J9Av0nij6glF2/5Q=;da1dPVyNUe17hGfMy20v+Q=="
 ---

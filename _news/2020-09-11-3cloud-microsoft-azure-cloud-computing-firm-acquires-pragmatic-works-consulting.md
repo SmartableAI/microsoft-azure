@@ -20,21 +20,35 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft and bp partner up on Azure, advancing sustainability"
-    excerpt: "The collaboration will be focusing on developing innovative tech solutions that help the companies meet their sustainability goals. bp will also be utilizing Microsoft's Azure services."
-    publishedDateTime: 2020-09-15T18:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+  - title: "Descartes Selects Microsoft Azure to Deliver Cloud Solutions"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-09-07T00:52:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-03-25/descartes-selects-microsoft-azure-to-deliver-cloud-solutions"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 77
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019630_microsoft_logo_red_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Flight Simulator 2020 finally realizes the true next-generation potential of Azure cloud computing in PC gaming"
+    excerpt: "The core of Microsoft Flight Simulator lies within Microsoft Azure. From its hyper realistic flight handling to gorgeous visuals, Microsoft’s cloud computing elevates the game into a technical ..."
+    publishedDateTime: 2020-09-04T18:45:00Z
+    webUrl: "https://www.techradar.com/in/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-flight-simulator-2020-finally-realizes-the-true-next-generation-potential-of-azure-cloud-computing-in-pc-gaming"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 72
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jEgL3aGV7nLJiHjAPJYXYU-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nutanix Announces Partnership with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "“We are excited about what the partnership between Nutanix and Microsoft will bring, with Nutanix Clusters for Azure and beyond. I envision this hybrid cloud solution will accelerate our teams ..."
@@ -49,20 +63,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft’s newest sustainable datacenter region coming to Arizona in 2021"
-    excerpt: "On our journey to become Carbon negative by 2030, Microsoft is continually innovating and advancing the efficiency and sustainability of our cloud infrastructure, with a commitment to use 100 percent renewable energy in all of our datacenters and facilities by 2025."
-    publishedDateTime: 2020-09-21T08:00:03Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-s-newest-sustainable-datacenter-region-coming-to-arizona-in-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 70
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f3db9223-8822-4d87-bf2b-0d47246c4d7e.png"
-        width: 650
-        height: 430
         isCached: true
   - title: "Nutanix joins Microsoft Azure for seamless Hybrid Cloud experience"
     excerpt: "Microsoft and Nutanix will offer customers seamless sales and support experiences. Microsoft Azure customers will be able to use their existing Azure credits, as part of Microsoft Azure ..."
@@ -79,22 +79,6 @@ related:
       - url: "https://www.sify.com/uploads/nutanix_ujikoBjihaieg.jpeg"
         width: 800
         height: 420
-        isCached: true
-  - title: "Nutanix .NEXT 2020: HCI Clusters Are Now Available on Microsoft Azure"
-    excerpt: "What if you could have all of Nutanix running inside Azure?” said Nutanix CEO Dheeraj Pandey, announcing the news during his keynote address at the Global .NEXT Digital Experience, which runs through Sept."
-    publishedDateTime: 2020-09-08T21:39:00Z
-    webUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure"
-    ampWebUrl: "https://biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/09/nutanix-next-2020-hci-clusters-are-now-available-microsoft-azure?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202009/Nutanix-Keynote.jpg?itok=e9WjDTpM"
-        width: 1440
-        height: 500
         isCached: true
   - title: "Why Jim Cramer Is a 'Huge Believer' In Microsoft's Azure Cloud"
     excerpt: "Jim Cramer weighs in on the JEDI contract and Microsoft's victory."
@@ -128,22 +112,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
-    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
-    publishedDateTime: 2020-09-15T10:23:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 57
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Experian’s CrossCore® Is Now Available on Microsoft Azure Active Directory"
     excerpt: "Customers using Experian’ s digital identity and fraud risk platform, CrossCore ®, can now seamlessly connect with Microsoft Azure Active Directory External Identities. “Businesses need to be able to provide varying levels of authentication based on the level of risk,"
     publishedDateTime: 2020-09-13T04:16:00Z
@@ -153,36 +121,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
-  - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
-    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
-    publishedDateTime: 2020-09-15T07:16:00Z
-    webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
-    ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 54
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
-        width: 816
-        height: 459
-        isCached: true
-  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
-    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
-    publishedDateTime: 2021-02-11T21:51:00Z
-    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Nutanix Announces Microsoft Azure Partnership To Drive Seamless Hybrid Cloud Experience"
     excerpt: "Nutanix has announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application, data, and license mobility as well as unified management across on-premises and Azure environments,"
     publishedDateTime: 2020-09-09T01:46:00Z
@@ -212,6 +150,20 @@ related:
       - url: "https://i.insider.com/5f581847e6ff30001d4e7a42?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "Content Moderation Solutions Market 2020 Is Booming Worldwide | Leading Key Players – Cogito, Microsoft Azure, Clarifai, Cognizant, Accenture"
+    excerpt: "The report provides a detailed assessment of the 'Global Content Moderation Solutions Market’. This includes enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape,"
+    publishedDateTime: 2020-09-08T02:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/content-moderation-solutions-market-2020-is-booming-worldwide-leading-key-players-cogito-microsoft-azure-clarifai-cognizant-accenture-2020-09-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft Azure."
@@ -255,34 +207,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "Cooling loss causes outage at Microsoft Azure's UK South region"
-    excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
-    publishedDateTime: 2020-09-15T14:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Gorilla Guide to…Express Edition: IT Resilience with Microsoft Azure"
-    excerpt: "Facing challenges of navigating disparate technologies or outdated backup? It’s time for IT Resilience in the cloud with Zerto and Microsoft Azure. With powerful continuous data protection, super simple application mobility and cloud agility capabilities ..."
-    publishedDateTime: 2020-09-14T21:21:00Z
-    webUrl: "https://mcpmag.com/whitepapers/2020/09/zerto-the-gorilla-guide-to-express-edition-it-resilience-with-microsoft-azure.aspx?tc=page0"
-    type: article
-    provider:
-      name: MCPmag
-      domain: mcpmag.com
-    quality: 36
-    images:
-      - url: "https://mcpmag.com/~/media/ECG/mcpmag/MCPlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
     excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
     publishedDateTime: 2020-09-10T14:02:00Z
@@ -325,6 +249,20 @@ related:
         width: 576
         height: 583
         isCached: true
+  - title: "dunnhumby Speeds Time-to-Insight for Data Scientists with New Tool on Microsoft Azure"
+    excerpt: "Microsoft Azure, enabling data scientists to deliver customer insights faster. dunnhumby Model Lab is designed to solve complex retail challenges, such as understanding customer churn and predicting propensity to purchase and in what channel,"
+    publishedDateTime: 2020-09-04T11:07:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dunnhumby-Speeds-Time-to-Insight-for-Data-Scientists-with-New-Tool--on-Microsoft-Azure-142651.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 30
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Migrating and managing Oracle applications and database platforms on Microsoft Azure"
     excerpt: "Data Intensity announced the launch of Safe-Switch, a life-cycle approach to migrating and managing Oracle applications and database platforms on Microsoft Azure. In response to the Oracle and ..."
     publishedDateTime: 2020-09-10T23:07:00Z
@@ -353,19 +291,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Qatar Financial Centre Regulatory Authority moves to Microsoft Cloud"
-    excerpt: "As part of its cloud journey, the QFCRA will deploy its existing, as well as new critical workloads and business applications to Microsoft Azure"
-    publishedDateTime: 2020-09-14T14:14:00Z
-    webUrl: "https://gulf-times.com/story/672845/Qatar-Financial-Centre-Regulatory-Authority-moves-to-Microsoft-Cloud"
+  - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
+    excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"
+    publishedDateTime: 2020-09-10T12:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/edgeconnex-brings-private-cloud-connectivity-solutions-to-phoenix-with-microsoft-azure-expressroute-301126697.html"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 22
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/9202014171346106183686.jpg"
-        width: 620
-        height: 355
+      - url: "https://mma.prnewswire.com/media/810989/EdgeConneX_Logo.jpg?p=facebook"
+        width: 619
+        height: 327
         isCached: true
   - title: "Nutanix Partners with Microsoft Azure for a Seamless Hybrid Experience"
     excerpt: "SAN JOSE –– Nutanix (NASDAQ: NTNX), a leader in enterprise cloud computing, today announced a new partnership with Microsoft that will enable both companies to deliver a hybrid solution with seamless application,"
@@ -394,6 +332,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 11
+  - title: "dunnhumby Reduces Time to Action for Data Scientists via New Tool on Microsoft Azure"
+    excerpt: "The launch of dunnhumby Model Lab, hosted on Azure opens customer data science to retailers, brands and businesses dunnhumby, the global leader in customer data science, has launched its new web-based application on Microsoft Azure, enabling data ..."
+    publishedDateTime: 2020-09-04T14:42:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/09/02/dunnhumby-reduces-time-to-action-for-data-scientists-via-new-tool-on-microsoft"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 10
 
 secured: "Yoyrmk6Rx0qkVHDX4JFFpqqVR7fpYoxnhd7U7j3zZGfZ5KmgICOLVkQCZyzqzZSh7nYlO1rYMjMWccDD48Obw7snPA4bNSdjgxSNEl39cN+bTE1NHrpjeCsWl8no/nHl1J7eBlmgiLDHGF9k5LQGExxFBmOUUolPCNmSXSUxm3FqFGXFGFR7le8bZlvLwLDbsVrRroRSyyMVkTTaCrxI63ru5UnwCWsDteIP8iZ6qH5RgZsgHg5OAAznjndyMOXGnoqj1AEZqmBKXf9kQo53b/in+XU1jBv507rl1ve4L88RPIHv+vjjibo0dbtwuzkWf548Au5uX9kkI0ekmP2E9aopOGWYpGVE+reJq39TFrQ=;7c+ENLYo9yYQ5fxL6IsuvQ=="
 ---

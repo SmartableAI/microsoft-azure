@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Java Azure Functions support on Linux is now generally available "
+    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
+    publishedDateTime: 2020-12-09T16:43:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Shared Image Gallery--New features are now generally available"
     excerpt: "Shared Image Gallery introduces new features to copy image versions, use disks or VMs to create image versions, and export a managed from an image version."
     publishedDateTime: 2020-11-20T16:00:06Z

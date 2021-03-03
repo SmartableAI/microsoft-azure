@@ -72,20 +72,6 @@ related:
         width: 450
         height: 230
         isCached: true
-  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-    publishedDateTime: 2020-12-11T14:47:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-        width: 2300
-        height: 1293
-        isCached: true
 
 secured: "xmmbZXg3VvT1r1iU3+3wpTRjcOMFn214km8xxkrN+UYAx/MJXjFD1Ru/g72JhvBMVsOjjnGfiDgp0MHvwvxmcZudYU954TobssmcTZWYCtK8UZnpLYFbGdxU5VadQeEDnulNVmF1spZJUagzdgrLaERuDTKkSm0nKKQ8I8iPlpnGDnMFTh2uFcPDKdgopZpEQLQbJS+LWzE6AGBC1nYQS2cOm6vWcZAAwH5IAf2rkXUb5UTJDn2qJkpPy+vUaazZVMzH8W+TmgiEPxID3fBt7U0pbIKSoj3pmIXkOSvdfM1ZoGh0xDd2nBQqwUEzrI/VjVlXXgFAv64BbQaVJdLn2+tGiixkVq6ND06sygPaOdCmKcLlIcHQxAVFurGPhZkP1UScfq2f8YzO5CdKVuDHEolzzMVA51FBclgwm2RS31w8h5mRB5UH9AH5S0+bpaCWtguyookad8doL6+GZzy/mn4ha6b9iM96H84fQ3kTo4Kum2jUdw7xsVsoSrIrsPNJshQXkFs7RRePJBddGOUUTg==;1SNB9+FhbIEvHJMbcot5Tw=="
 ---

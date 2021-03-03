@@ -186,6 +186,20 @@ related:
         width: 700
         height: 526
         isCached: true
+  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
+    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
+    publishedDateTime: 2020-09-02T18:11:00Z
+    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Swisscom starts to offer Microsoft Azure to small and mid-sized firms"
     excerpt: "Microsoft Azure also responds to customer demand in the areas of IoT and machine learning. The product is being sold through local Swisscom partners, who act as intermediaries between Swisscom and Microsoft and the"
     publishedDateTime: 2020-08-31T09:16:00Z

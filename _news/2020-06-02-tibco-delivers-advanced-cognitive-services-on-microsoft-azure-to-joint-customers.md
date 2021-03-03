@@ -142,6 +142,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
   - title: "ScientiaMobile’s WURFL Microservice Now Available in the Microsoft Azure Marketplace"
     excerpt: "ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. Developers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2020-06-01T12:18:00Z
@@ -315,6 +324,20 @@ related:
       - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
         width: 680
         height: 440
+        isCached: true
+  - title: "Microsoft Cloud App Security"
+    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
+    publishedDateTime: 2020-07-02T17:13:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 22
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Top three ways to get the most out of Microsoft Teams for your small business"
     excerpt: "From its chat-based interface, integrations with other Microsoft apps, or other services here are the top three ways you can get the most out of Teams for your small business. Use Microsoft Teams to manage your files with the Files experience."

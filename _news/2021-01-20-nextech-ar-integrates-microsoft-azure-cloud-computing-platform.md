@@ -331,20 +331,6 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "Zixi Announces Deployment Of Services On Microsoft Azure"
-    excerpt: "In addition, Azure customers who use Zixi to deliver streams of high-demand live events can leverage Zixi’s NVIDIA based GPU transcoding to deliver video to any device anywhere"
-    publishedDateTime: 2020-06-16T12:14:00Z
-    webUrl: "https://apnews.com/PR Newswire/ab6d9c039a55f7954e8ee80de8337fba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft revealed how it’s scaling Azure during a pandemic"
     excerpt: "Microsoft has outlined some of the major changes it had to make to Azure to deal with the increased demand caused by the Covid-19 pandemic."
     publishedDateTime: 2020-06-17T12:45:00Z
@@ -358,6 +344,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/ms.png"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
+    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
+    publishedDateTime: 2020-06-18T21:49:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
     excerpt: "... Software Inc. for an undisclosed amount and incorporating the entire team into its Microsoft Azure global engineering business. ADRM is a maker of data models for various industries ..."
@@ -470,6 +470,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
         width: 985
         height: 634
+        isCached: true
+  - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
+    excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
+    publishedDateTime: 2020-11-26T14:36:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 37
+    images:
+      - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
+        width: 780
+        height: 442
         isCached: true
   - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
     excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."

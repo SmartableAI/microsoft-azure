@@ -166,22 +166,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Forget Amazon, Microsoft Is a Better Cloud Computing Stock"
-    excerpt: "That's driving increased demand for cloud services, boding well for the likes of Amazon (NASDAQ:AMZN), through its Amazon Web Services, and Microsoft (NASDAQ:MSFT), through its Azure services. Amazon is the overall leader in this sector, but Microsoft is a scrappy second-place player. It's been chipping away at AWS' lead, and with demand ..."
-    publishedDateTime: 2020-04-20T20:54:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
-        width: 1200
-        height: 480
-        isCached: true
   - title: "Microsoft 365 is now available worldwide"
     excerpt: "(The free, web-based version of Microsoft 365 is only compatible on desktop.) The Personal and Family tiers come with one terabyte of cloud storage per user and one hour per month of Skype calls to mobile phones and landlines. Along with the change in name, Microsoft Editor -- an AI tool which helps users write clearer sentences -- is expanding ..."
     publishedDateTime: 2020-04-21T16:54:00Z
@@ -305,6 +289,20 @@ related:
       - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91-n.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
+    excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
+    publishedDateTime: 2020-04-16T18:20:00Z
+    webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
+    images:
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."

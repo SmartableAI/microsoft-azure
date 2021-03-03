@@ -38,6 +38,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
+  - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
+    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
+    publishedDateTime: 2020-09-15T10:23:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
     excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"
     publishedDateTime: 2020-11-23T14:00:00Z

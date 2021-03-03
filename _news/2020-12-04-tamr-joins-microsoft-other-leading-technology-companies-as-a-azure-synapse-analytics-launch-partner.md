@@ -297,20 +297,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Microsoft launches Azure analytics and data services"
-    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
-    publishedDateTime: 2020-12-03T16:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Microsoft Azure Synapse Link brings operational database services and analytics together in real-time"
     excerpt: "To solve this issue, Microsoft is today announcing Azure Synapse Link which brings operational database services and analytics together in real-time with a single click. Using this, customers can get insights from their real-time transactional data stored in their operational databases with a single click,"
     publishedDateTime: 2020-05-19T15:01:00Z

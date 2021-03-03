@@ -492,6 +492,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
+  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
+    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
+    publishedDateTime: 2020-07-30T05:06:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
   - title: "3Cloud Acquires Microsoft Azure Partner Applied Cloud Systems"
     excerpt: "Microsoft Azure services partner 3Cloud has acquired Applied Cloud Systems, a Microsoft consultancy from Pittsburgh, Pennsylvania. Financial terms of the deal were not disclosed. This is M&A deal 312 that ChannelE2E has covered so far in 2020. See the full ..."
     publishedDateTime: 2020-08-02T14:19:00Z

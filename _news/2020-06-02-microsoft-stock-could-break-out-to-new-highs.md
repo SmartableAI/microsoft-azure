@@ -145,6 +145,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
   - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
     excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA"
     publishedDateTime: 2020-06-02T12:19:00Z
@@ -313,6 +322,20 @@ related:
       - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/07a7b3af-aa2a-11e9-bc6a-93daea8853a2.png"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Cloud App Security"
+    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
+    publishedDateTime: 2020-07-02T17:13:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 22
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Top three ways to get the most out of Microsoft Teams for your small business"
     excerpt: "From its chat-based interface, integrations with other Microsoft apps, or other services here are the top three ways you can get the most out of Teams for your small business. Use Microsoft Teams to manage your files with the Files experience."

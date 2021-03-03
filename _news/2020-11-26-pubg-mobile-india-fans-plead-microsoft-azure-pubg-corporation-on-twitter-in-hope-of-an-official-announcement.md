@@ -21,6 +21,20 @@ topics:
   - Mobile
 
 related:
+  - title: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud"
+    excerpt: "Beabloo Promotes Interaction Care: the Solution that Reduces the Risk of COVID-19 Infection, via the Microsoft Azure Cloud By 1 - The retail tech companys solution uses real-time alerts to avoid high-risk interactions and boost security in public"
+    publishedDateTime: 2020-12-03T07:48:00Z
+    webUrl: "https://www.cioreview.com/news/beabloo-promotes-interaction-care-the-solution-that-reduces-the-risk-of-covid19-infection-via-the-microsoft-azure-cloud-pnid-423-cid-15.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 11
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/z4fcv.30035015151.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
     excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
     publishedDateTime: 2020-12-01T08:35:00Z

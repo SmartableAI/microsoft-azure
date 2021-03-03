@@ -59,6 +59,38 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
+    excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
+    publishedDateTime: 2020-09-29T11:52:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 43
+    images:
+      - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Datadog Stock Spikes Because Microsoft Cloud Deal Could Help Sales"
+    excerpt: "Datadog shares spiked on Wednesday after the cloud security software company announced a new strategic partnership with Microsoft ’s public cloud service.  Datad"
+    publishedDateTime: 2020-09-30T15:38:00Z
+    webUrl: "https://www.barrons.com/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
+    ampWebUrl: "https://www.barrons.com/amp/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 42
+    images:
+      - url: "https://images.barrons.com/im-238738/social"
+        width: 1279
+        height: 640
+        isCached: true
 
 secured: "ML6di5hSdf8/zPyOYx4JO8RhnR1Dr/IeL9wi7fVdUuxQhjyyVFIg1YXPMYHPkxnhn0SkfzcQbsJt1oprHH/uXCrJDKRfIniQao35yAa84LdCzC9jK1SaJb4RojZEZPtQRjvz6btbOvSOB9Tk4OqR7c4IEdZC1F4zq4KLOKTjFiYUqKk1KMh65Zwy2/In6dfiPKshd+cbbaTSO+UC9qTWx+znh3vbhAU9NEPkAr+SZDOLjF0/SazuN49XPI9pey9lnoc/vDvM6d8bfOfdQ3wx7/MNkuiOUEdteDDE+mt8sMOUv4K2usCP07t18V8Na2ObOAFt2135Zs18p2Krt4FDuvDbxWSCtBdpywZo2Mm/gWI=;hlqNNZxD76jPigY0mas6rw=="
 ---

@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "HCL Technologies earns ‘SAP on Microsoft Azure Advanced Specialization’"
+    excerpt: "HCL Technologies (HCL), a leading global technology company, today announced it has earned SAP on Microsoft Azure Advanced Specialization, a validation of a Microsoft service partner’s deep ..."
+    publishedDateTime: 2020-09-15T10:23:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/hcl-technologies-earns-‘sap-on-microsoft-azure-advanced-specialization’-120091500685_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/hcl-technologies-earns-%E2%80%98sap-on-microsoft-azure-advanced-specialization%E2%80%99-120091500685_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 57
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z

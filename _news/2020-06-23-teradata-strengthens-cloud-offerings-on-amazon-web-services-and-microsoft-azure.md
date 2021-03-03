@@ -481,6 +481,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
+    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
+    publishedDateTime: 2020-09-30T15:25:00Z
+    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Alaska Communications brings locally hosted Microsoft Azure Services to Alaska"
     excerpt: "Alaska Communications will bring locally hosted Microsoft Azure Stack Hub cloud services to Alaska. Alaska Communications used Azure Stack Hub to enhance computing by offering greater flexibility and reliability."
     publishedDateTime: 2020-07-02T08:04:00Z

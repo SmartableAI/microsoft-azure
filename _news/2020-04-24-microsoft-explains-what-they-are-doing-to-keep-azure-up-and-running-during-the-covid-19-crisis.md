@@ -136,22 +136,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "IT Insight: Come together with cloud computing by Microsoft Azure"
-    excerpt: "The biggest challenge we face, is the lack of our ability to come together. Because of this, the technology industry has seen a major shift toward cloud computing. Defined as a web-based computing model, cloud computing allows users to share information ..."
-    publishedDateTime: 2021-02-25T22:24:00Z
-    webUrl: "https://www.seacoastonline.com/story/business/2021/02/25/insight-come-together-cloud-computing-microsoft-a/6816675002/"
-    ampWebUrl: "https://amp.seacoastonline.com/amp/6816675002"
-    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6816675002"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/28/NPOH/3354161f-97e1-4198-a216-0615d5a393d8-New_JoAnn_Hodgdon.jpg?auto=webp&crop=2057,1158,x0,y242&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft to invest $1 billion in Poland cloud"
     excerpt: "Microsoft on Tuesday announced it would invest one billion dollars in Poland to expand its operations, including the creation of a new regional cloud-computing data hub. The US tech giant said it had signed an agreement with Poland's state-backed National Cloud Operator to provide \"cloud solutions for all industries and companies in Poland ..."
     publishedDateTime: 2020-05-06T02:04:00Z

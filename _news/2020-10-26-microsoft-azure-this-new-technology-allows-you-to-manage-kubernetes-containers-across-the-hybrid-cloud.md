@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/"
 type: article
 quality: 113
-heat: 853
+heat: 833
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/2020/10/27/f2859367-767a-4846-80ad-7c79912555ab/msft-commercial-cloud-q1-2021.png"
         width: 863
         height: 491
-        isCached: true
-  - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
-    excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
-    publishedDateTime: 2021-03-02T16:48:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 91
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Microsoft partners with SpaceX to connect Azure cloud to Musk's Starlink satellite internet"
     excerpt: "Microsoft is partnering with SpaceX to connect the tech giant's Azure cloud computing network to the growing Starlink satellite internet."

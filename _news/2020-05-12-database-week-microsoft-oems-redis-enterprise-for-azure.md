@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/database-week-microsoft-oem
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/database-week-microsoft-oems-redis-enterprise-for-azure/"
 type: article
 quality: 97
-heat: 1297
+heat: 1317
 published: true
 
 provider:
@@ -821,6 +821,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 22
+  - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
+    excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
+    publishedDateTime: 2020-05-11T12:17:00Z
+    webUrl: "https://www.telecompaper.com/news/oracle-launches-microsoft-azure-cloud-interconnect-location-in-tokyo--1338011"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Azure Cache for Redis—Enterprise features coming soon"
     excerpt: ""
     publishedDateTime: 2020-05-12T13:00:09Z

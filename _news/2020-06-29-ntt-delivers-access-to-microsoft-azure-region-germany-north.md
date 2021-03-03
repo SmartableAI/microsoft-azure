@@ -472,6 +472,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
+    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
+    publishedDateTime: 2020-09-30T15:25:00Z
+    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
   - title: "Teradata Strengthens Cloud Offerings on Amazon Web Services and Microsoft Azure"
     excerpt: "... announced a myriad of enhancements to its as-a-service offerings for Teradata Vantage on public cloud providers Amazon Web Services (AWS) and Microsoft Azure. The improvements will also apply to Vantage on Google Cloud Platform (GCP), which will begin ..."
     publishedDateTime: 2020-06-23T14:31:00Z

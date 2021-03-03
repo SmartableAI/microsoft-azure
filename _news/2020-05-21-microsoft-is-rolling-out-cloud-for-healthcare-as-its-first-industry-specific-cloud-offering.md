@@ -284,22 +284,6 @@ related:
         width: 1200
         height: 953
         isCached: true
-  - title: "Microsoft launches new tools for building fairer machine learning models"
-    excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
-    publishedDateTime: 2020-05-19T15:14:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft's Cloud for Healthcare is an elaborate suite of telehealth tools"
     excerpt: "Microsoft Cloud for Healthcare is now available in a public preview and as a free six-month trial. Microsoft’s service is also designed to make it easier for care teams to work across the many parts of America’s dizzying healthcare infrastructure."
     publishedDateTime: 2020-05-19T15:05:00Z
@@ -379,22 +363,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
-    excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
-    publishedDateTime: 2020-05-19T15:13:00Z
-    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
-    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
-        width: 1024
-        height: 696
         isCached: true
   - title: "How Hackers Are Impersonating Google And Microsoft To Catch Out Remote Workers"
     excerpt: "Google file sharing and storage websites such as storage.googleapis.com, docs.google.com, storage.cloud.google.com and drive.google.com were used in 65,000 attacks on remote workers. Hackers have also used Microsoft links to do the same."
@@ -707,6 +675,22 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "Microsoft updates Azure Stack HCI"
+    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
+    publishedDateTime: 2020-12-29T11:07:00Z
+    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
+    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "RateLinx completes migration to Microsoft Azure to better serve customers"
     excerpt: "RateLinx announced today the completion of the migration to the Microsoft Azure cloud computing platform. The migration will enable more capabilities within the RateLinx suite of cloud-based logistics solutions,"
     publishedDateTime: 2020-05-22T00:21:00Z
@@ -775,20 +759,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2020/05/PnP-case-study.jpg"
         width: 816
         height: 459
-        isCached: true
-  - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
-    excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
-    publishedDateTime: 2020-05-27T14:00:04Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-and-docker-collaborate-on-new-ways-to-deploy-containers-on-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c2dfbf4e-3ca4-42c1-acec-cd89fd674efb.gif"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft, Workday Announce Strategic Partnership to Accelerate Planning for Today's World"
     excerpt: "Microsoft (NASDAQ: MSFT) and Workday Inc. (NASDAQ: WDAY) today announced a strategic partnership prioritizing enterprise planning in the cloud and expanding the business solutions"
@@ -1473,20 +1443,6 @@ related:
         width: 600
         height: 201
         isCached: true
-  - title: "Docker and Microsoft join forces to simplify container projects on Azure"
-    excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
-    publishedDateTime: 2020-05-27T20:23:00Z
-    webUrl: "https://siliconangle.com/2020/05/27/docker-microsoft-join-forces-simplify-container-projects-azure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "New Microsoft Azure AD Sign-In Page Spoofed in Numerous Phishing Campaigns"
     excerpt: "Microsoft discovered numerous phishing campaigns in which malicious actors attempted to spoof its new Azure AD sign-in page."
     publishedDateTime: 2020-05-20T13:36:00Z
@@ -1575,20 +1531,6 @@ related:
         width: 1181
         height: 665
         isCached: true
-  - title: "Microsoft Updates Azure Stack Hub with New Management Features, Container Support and More"
-    excerpt: "During this year's digital Build conference, Microsoft announced several new incremental updates to its private and hybrid computing offering Azure Stack Hub. The public cloud vendor will add various significant features on Azure Stack Hub in private previews such as an Azure Kubernetes Service (AKS) Resource Provider,"
-    publishedDateTime: 2020-06-02T11:16:00Z
-    webUrl: "https://www.infoq.com/news/2020/06/azure-stack-hub-updates/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 27
-    images:
-      - url: "https://cdn.infoq.com/statics_s2_20200602-0333/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft doubles down on the telco cloud with Metaswitch acquisition"
     excerpt: "Don’t say you weren’t warned, telecoms industry. The tech big guns are trained on your home turf and they’re not afraid to splash the cash."
     publishedDateTime: 2020-05-15T10:06:00Z
@@ -1669,6 +1611,20 @@ related:
       - url: "http://iansphoto.in/web/photoimages_new/400/2019/06/01/930096c3b2d40cf654dbb586ba9d5962.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
+    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
+    publishedDateTime: 2020-05-20T10:03:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 22
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft's 1st industry-specific cloud product is for healthcare"
     excerpt: "Tom McGuinness, the company's corporate VP of healthcare, said expanding to payers, pharma and life sciences is part of the tech giant's plan."

@@ -828,6 +828,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 22
+  - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
+    excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
+    publishedDateTime: 2020-05-11T12:17:00Z
+    webUrl: "https://www.telecompaper.com/news/oracle-launches-microsoft-azure-cloud-interconnect-location-in-tokyo--1338011"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "DataVisor Now Available in the Microsoft Azure Marketplace"
     excerpt: "DataVisor, the leading fraud detection company with solutions powered by transformational AI technology, today announced the availability of dVector a"
     publishedDateTime: 2020-05-19T12:37:00Z

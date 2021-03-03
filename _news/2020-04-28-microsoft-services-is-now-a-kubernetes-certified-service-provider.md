@@ -320,41 +320,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Amazon, IBM and Microsoft race to bring global access to quantum computing"
-    excerpt: "Quantum computing could help companies without billion-dollar budgets design superbatteries, create complex chemicals and understand the universe."
-    publishedDateTime: 2020-04-29T18:06:00Z
-    webUrl: "https://www.cnet.com/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 80
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "IBM, Amazon and Microsoft race to bring global access to quantum computing"
-    excerpt: "Quantum computing services could help companies without billion-dollar computing budgets design superbatteries, create complex chemicals and understand the universe."
-    publishedDateTime: 2020-04-29T09:03:00Z
-    webUrl: "https://www.cnet.com/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 80
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
-        width: 756
-        height: 567
-        isCached: true
-      - url: "https://cnet2.cbsistatic.com/img/WunrgBOXXPZb0gsP9EJBgF_hlr4=/756x567/2020/04/29/03ad6c96-bd20-45b4-8d4b-f7282eb4a570/martin-ibm-50-qubit-quantum-computer-7486.jpg"
-        width: 756
-        height: 567
   - title: "This is how viewing a GIF in Microsoft Teams triggered account hijacking bug"
     excerpt: "Microsoft has resolved security problems in Microsoft Teams that could have been used in an attack chain to take over user accounts -- all with the help of a .GIF file.  On Monday, cybersecurity researchers from CyberArk said a subdomain takeover vulnerability,"
     publishedDateTime: 2020-04-27T04:01:00Z

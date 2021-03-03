@@ -56,6 +56,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "New Azure VMware Solution is now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-05-04T18:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-vmware-solution-is-now-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
 
 secured: "n6sfGivR+9SVIkGjnuVHYm7u9pdcV1zwWtT6AUpekeroF4yA0mGkhCv9Ti4gTKNB9QI5cd1EmVw8gjyGfAogVf6kpVjFWYthZ/nHySIpeQlBh4MJajnLD0tqaUxQctzwomivl3DPSrx7nVWSzX1h7RrfI/XaDm97AJ55EPDEeph9qxZOytto2h7BcjLWBewbX15GwpMUhAu/ZDtCpiu/JKWfmWArFJa+kW+tPPWMV5qRuZAyirWRLY5IspqO7zZR+BQPdW4lrSeCZhsW6D2YzynHZ2T6wVpnUiXK9bhRiMtwubQFE0Km8WWa65LpKUf/;q666HpGBFdmWr6KUIumrfQ=="
 ---

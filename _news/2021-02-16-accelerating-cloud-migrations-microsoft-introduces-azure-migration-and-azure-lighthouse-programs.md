@@ -207,20 +207,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
-  - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
-    excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
-    publishedDateTime: 2021-02-24T01:16:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/24/zededa-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 43
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Digimarc Now Available in the Microsoft Azure Marketplace"
     excerpt: "PRNewswire/ -- (Nasdaq: DMRC) today announced the availability of two of its offerings, Digimarc Barcode for Digital Images and Serialization for the Supply"
     publishedDateTime: 2021-02-17T13:25:00Z
@@ -290,20 +276,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/g9SLd8vD.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
-    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered"
-    publishedDateTime: 2021-02-24T12:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vandis-brings-managed-nac-to-microsoft-azure-with-aruba-clearpass-301234181.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Microsoft Previewing Improvements to Azure Front Door and Azure Firewall"
     excerpt: "Microsoft this week announced advancements in two Azure services that are used to add security for applications and content that touch the Internet."

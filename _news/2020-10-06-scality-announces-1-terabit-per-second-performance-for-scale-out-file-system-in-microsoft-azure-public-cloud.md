@@ -35,6 +35,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 73
+  - title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
+    excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 12
 
 secured: "OUp80K/79dOy3QTFZLAtuA0hnBXipwYDn9j4+17l8ORNgnouneLG9c8tg8JT86PKKO4HW82cL/9wH5qS2RNYRHQXn08JAaO5hTGpw41duJptuJgecxu3f0rNGWjEiTl64ipzF4kK1YPUucT2I/M9UpbW6DjycPjBxqPXcuvhTeDAz2IClM5XDDg21WbRummx7BRNvaujTpe0OxaufykQMF6j1QrJtHcXPXp75KLk5tj1QxrhhfdNgC3D2zp7/0cB3Z6vTEVvpOu1SuFA9+1kVqV5HJNtO3Zjb0RxHO1tWrgx7zFqbCqjc5dGK+4cbvuKjTf0j8KDcR7QbiKlYurwoS7FF7XuDFzVBpCqam7PAMg=;ZYUZ8vRA50HNffWfeqC0ow=="
 ---

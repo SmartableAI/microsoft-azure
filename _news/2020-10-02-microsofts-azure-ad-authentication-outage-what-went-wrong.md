@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-ad-authent
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-ad-authentication-outage-what-went-wrong/"
 type: article
 quality: 97
-heat: 477
+heat: 577
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Scaling Microsoft Kaizala on Azure"
+    excerpt: "Microsoft Kaizala is a secure work management and mobile messaging app for mobile-only users. Today, we’re sharing some of our learnings about managing and scaling an enterprise grade productivity app resulting from the increased usage related to working from home.\n\n"
+    publishedDateTime: 2020-09-30T10:00:20Z
+    webUrl: "https://azure.microsoft.com/blog/scaling-microsoft-kaizala-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Granulate Launches Real-time Continuous Optimization Solution On Microsoft Azure Marketplace"
     excerpt: "Granulate, the leading provider of real-time continuous optimization solutions for server workload performance, is proud to announce its availability in the Microsoft Azure Marketplace. Granulate's solution helps companies optimize workload performance and enables businesses to cut computing costs while improving performance with no code changes to their application."
     publishedDateTime: 2020-10-07T02:09:00Z
@@ -93,6 +102,34 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
+  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
+    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
+    publishedDateTime: 2020-09-30T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
+        width: 1447
+        height: 759
+        isCached: true
+  - title: "Ooredoo launches Cloud Connect enabling connectivity to Microsoft Azure"
+    excerpt: "Doha: Ooredoo, the region’s leading enabler of digital business innovation, announced yesterday the launch of Ooredoo Cloud Connect to Microsoft Azure, to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services ..."
+    publishedDateTime: 2020-10-05T06:04:00Z
+    webUrl: "https://www.thepeninsulaqatar.com/article/05/10/2020/Ooredoo-launches-Cloud-Connect-enabling-connectivity-to-Microsoft-Azure"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 37
+    images:
+      - url: "https://www.thepeninsulaqatar.com/uploads/2020/10/05/post_main_cover/bb97589385769d1a0f1eecb2c64067bd5e849e78.jpg"
+        width: 502
+        height: 355
+        isCached: true
   - title: "Microsoft pays over $370,000 for Azure Sphere bug reports"
     excerpt: "Microsoft awarded over $370,000 in bounties to security researchers for 16 bounty eligible reports of vulnerabilities submitted through the Azure Sphere Security Research Challenge (ASSRC) IoT-focused research program."
     publishedDateTime: 2020-10-06T16:00:00Z
@@ -145,6 +182,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201006005876/en/784885/23/Synoptek_full_logo.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
+    excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
+    publishedDateTime: 2020-10-04T14:09:00Z
+    webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 36
+    images:
+      - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Komprise is also selected as a co-sell ready partner for Microsoft Azure"
     excerpt: "PRNewswire/ -- Komprise, the leader in analytics-driven data management, today announced new capabilities for its Intelligent Data Management solution in Microsoft Azure. Customers can"
@@ -244,6 +295,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
+    excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
+    publishedDateTime: 2020-10-05T09:35:00Z
+    webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Braze Integrates With Microsoft Azure And Tealium"
     excerpt: "The arrangement with Tealium will help brands to purchase data based on attributes and other variables, the company says."
     publishedDateTime: 2020-10-06T21:21:00Z

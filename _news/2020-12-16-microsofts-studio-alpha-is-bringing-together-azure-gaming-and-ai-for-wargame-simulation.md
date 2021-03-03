@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsofts-studio-alpha-is-bringing-together-azure-gaming-and-ai-for-wargame-simulation/"
 type: article
 quality: 104
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/439/2020/12/SNC-postpal-1.jpg"
         width: 552
         height: 372
-        isCached: true
-  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-    publishedDateTime: 2020-12-11T14:47:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 34
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-        width: 2300
-        height: 1293
         isCached: true
 
 secured: "CRwSGB3e7PchSNn2Dkm+COsNX/b2l+Lq4ku8JL/gI08c1jf7D3X8xyDZzkyTiDqdvmm9+2e8+bi/ivIy4pndwtTyAUmuW7Ly+okYxa5H+3fn0BSVwR5oVnfSQ4uKqC9neygTE5ykgxsYEX4pfRrmMEXWIOIb7jWVS8w/ZoyQbWiv3JBZrAd9uykdTi4qmXHx2Yc/11X1v1GhzBEOgkGwpfiNa5HQKZUgGQG1paatNP1ebR5ILxeDljk/HdvWeDzCZGBaM2bE3maOlNgzurGh/iNiZs3MV18GW9AKF71iDVGf/eUZPQjCbmObzsolq0qYsFoYZIM/H2uPsA2t8dGpeLUviy36PFwiZEqMmoq279MX8vXE2axgcV71hW4VcCS0eoebgSofn4Uh5Vo85+WRE7URvCRcywJROag7fsZTjGLoufRA7Ul6Ak59kLvTBT165XZJfbHLBpRcirT3nvCRpMxZPFuqbWZWHn8UDbGt/Skck6QsUwC/nuVb62ZE5ipsJPFaf5Tg47m4oi9ivpH/fw==;ZB/nTVixJvjQcoVcZt8uIQ=="

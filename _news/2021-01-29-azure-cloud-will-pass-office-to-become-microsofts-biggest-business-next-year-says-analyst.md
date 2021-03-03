@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/28/microsoft-azure-will-pass-office-in-revenue-mid-2022-piper-sandler.html"
 type: article
 quality: 87
-heat: 467
+heat: 447
 published: true
 
 provider:
@@ -98,22 +98,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 77
-  - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
-    excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
-    publishedDateTime: 2021-01-27T15:02:00Z
-    webUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html"
-    ampWebUrl: "https://thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/01/new-docker-container-escape-bug-affects.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 74
-    images:
-      - url: "https://thehackernews.com/images/-sbzLMBDfu5M/YBGAQohNhDI/AAAAAAAABnA/GG4_PO0ix9Ifrc2nsKg_yJWrOeOAJrnsACLcBGAsYHQ/s0/azure-docker.jpg"
-        width: 728
-        height: 380
-        isCached: true
   - title: "Quorum to start deploying XSellerator dealerships on new cloud offering on Microsoft Azure"
     excerpt: "Quorum Information Technologies Inc. (TSX Venture: QIS) (Quorum) announced today that it is launching a Windows Virtual Desktop pilot built on Microsoft Azure. After the pilot, Quorum will be able to deploy its XSellerator Dealership Management System (DMS) to automotive dealership customers leveraging the Microsoft Azure cloud platform,"
     publishedDateTime: 2021-01-21T13:22:00Z

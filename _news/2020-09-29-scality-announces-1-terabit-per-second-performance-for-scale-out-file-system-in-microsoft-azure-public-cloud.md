@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
-    excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
-    publishedDateTime: 2020-09-24T05:26:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/microsoft-launches-azure-orbital-to-connect-satellites-to-its-cloud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 114
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Azure Orbital launches Microsoft into a cloud computing space race with Amazon"
     excerpt: "The world’s largest and most northerly commercial satellite ground station, KSAT’s Svalbard Station in Norway’s Arctic archipelago, will be part of Microsoft’s Azure Orbital network. (KSAT Photo) Call it the Clash of the Cloud Titans: Today ..."
     publishedDateTime: 2020-09-22T15:02:00Z
@@ -72,6 +56,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Microsoft and bp partner up on Azure, advancing sustainability"
+    excerpt: "The collaboration will be focusing on developing innovative tech solutions that help the companies meet their sustainability goals. bp will also be utilizing Microsoft's Azure services."
+    publishedDateTime: 2020-09-15T18:00:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-bp-partner-up-on-azure-advancing-sustainability"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-bp-partner-up-on-azure-advancing-sustainability/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019630_microsoft_logo_red_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft Azure launches new availability zones in Canada and Australia"
     excerpt: "Microsoft Azure offers developers access to more data center regions than its competitors, but it was late to the game of offering different availability zones in those regions for high-availability use cases."
     publishedDateTime: 2020-09-22T15:37:00Z
@@ -103,22 +103,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600717817_azure_at_ignite_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Daily Crunch: Microsoft launches Azure Communication Services"
-    excerpt: "Microsoft takes on Twilio, Google launches a work-tracking tool and Mirakl raises $300 million. This is your Daily Crunch for September 22, 2020. The big story: Microsoft launches Azure Communication Services Microsoft announced today that it’s ready to compete with Twilio by launching a set"
-    publishedDateTime: 2020-09-22T22:19:00Z
-    webUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/"
-    ampWebUrl: "https://techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/09/22/daily-crunch-microsoft-azure-communication-services/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1248409190.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft Azure for Operators is a cloud platform for telcos"
     excerpt: "Microsoft’s push into the telecoms market continues with the launch of a dedicated suite of cloud services called ‘Azure for Operators’, hoping to capitalise on increased demand from telcos ..."
@@ -168,22 +152,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft launches Azure Digital Twins in general availability"
-    excerpt: "Microsoft's Azure Digital Twins service, which launched in preivew in November 2018, is now generally available."
-    publishedDateTime: 2020-12-08T14:25:00Z
-    webUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/08/microsoft-launches-azure-digital-twins-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft challenges Twilio with the launch of Azure Communication Services"
     excerpt: "Microsoft today announced the launch of Azure Communication Services, a new set of features in its cloud that enable developers to add voice and video calling, chat and text messages to their apps, as well as old-school telephony."
     publishedDateTime: 2020-09-23T12:09:00Z
@@ -216,22 +184,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft launches Azure Government Top Secret cloud to handle classified data"
-    excerpt: "Microsoft is adding a new offering to its Azure cloud family for U.S. government customers: Azure Government Top Secret. It's also bringing more of its services to Azure Government Secret."
-    publishedDateTime: 2020-12-07T06:02:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-launches-azure-government-top-secret-cloud-to-handle-classified-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 93
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/12/07/ff03da69-484e-4b19-984c-f9a4b2332509/microsoftgovernmentclouds.jpg"
-        width: 1413
-        height: 794
-        isCached: true
   - title: "Viasat Real-Time Earth Ground Service Available via Microsoft Azure Orbital"
     excerpt: "22, 2020 /PRNewswire/ -- Viasat Inc. (NASDAQ: VSAT), a global communications company, today announced Viasat Real-Time Earth (RTE) is available as a managed services option for Microsoft Azure ..."
     publishedDateTime: 2020-09-22T15:06:00Z
@@ -262,36 +214,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Introducing Azure Orbital: Process satellite data at cloud-scale"
-    excerpt: "Data collected from space to observe Earth is instrumental in helping address global challenges such as climate change and furthering of scientific discovery and innovation."
-    publishedDateTime: 2020-09-22T08:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-azure-orbital-process-satellite-data-at-cloudscale/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c53722a4-6938-4dea-bb41-a2c639481af2.png"
-        width: 727
-        height: 345
-        isCached: true
-  - title: "Azure Arc - Extending Microsoft Cloud Services To Data Center And Mainstream Cloud Platforms"
-    excerpt: "Announced in November 2019 at the Ignite conference, Azure Arc has become the cornerstone of Microsoft’s hybrid and multi-cloud strategy. With Arc, customers can bring existing infrastructure ..."
-    publishedDateTime: 2020-09-27T17:09:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/09/27/azure-arcextending-microsoft-cloud-services-to-data-center-and-mainstream-cloud-platforms/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70a3ffa57da9a0b90ae74b%2F0x0.jpg"
-        width: 1000
-        height: 692
-        isCached: true
   - title: "Microsoft Downed 18 Azure Cloud applications Used By low-Budget Chinese Gadolinium Hacking Group"
     excerpt: "You probably didn’t hear it here first but the incredibly impressive thing about modern hacking groups is how darned cheap they are - in every sense of that word."
     publishedDateTime: 2020-09-25T17:12:00Z
@@ -308,21 +230,21 @@ related:
         width: 1200
         height: 686
         isCached: true
-  - title: "Microsoft Launches Cloud for Healthcare"
-    excerpt: "Microsoft's new cloud offering aims to improve patient engagement and enhance collaboration in the post-COVID-19 era."
-    publishedDateTime: 2020-05-19T17:40:00Z
-    webUrl: "https://www.fool.com/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/microsoft-launches-cloud-for-healthcare-first-of-i.aspx"
+  - title: "Forget Amazon, Microsoft Is a Better Cloud Computing Stock"
+    excerpt: "That's driving increased demand for cloud services, boding well for the likes of Amazon (NASDAQ:AMZN), through its Amazon Web Services, and Microsoft (NASDAQ:MSFT), through its Azure services. Amazon is the overall leader in this sector, but Microsoft is a scrappy second-place player. It's been chipping away at AWS' lead, and with demand ..."
+    publishedDateTime: 2020-04-20T20:54:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/20/forget-amazon-microsoft-better-cloud-computing.aspx"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
     quality: 82
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575083%2Fmicrosoft-healthcare-cloud-mf.jpg&w=1200&op=resize"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568510%2Fmicrosoft-better-cloud-mf.jpg&w=1200&op=resize"
         width: 1200
-        height: 800
+        height: 480
         isCached: true
   - title: "Microsoft Cloud for Healthcare will be generally available next month"
     excerpt: "The healthcare industry is experiencing an accelerated transformation. Microsoft Cloud for Healthcare, the company's first industry-specific cloud, will be available at the end of October."
@@ -340,33 +262,56 @@ related:
         width: 760
         height: 506
         isCached: true
-  - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
-    excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
-    publishedDateTime: 2020-04-16T18:20:00Z
-    webUrl: "https://www.infoworld.com/resources/201378/google-cloud-platform-vs-microsoft-azure"
+  - title: "Amazon, IBM and Microsoft race to bring global access to quantum computing"
+    excerpt: "Quantum computing could help companies without billion-dollar budgets design superbatteries, create complex chemicals and understand the universe."
+    publishedDateTime: 2020-04-29T18:06:00Z
+    webUrl: "https://www.cnet.com/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-ibm-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 77
+      name: CNET
+      domain: cnet.com
+    quality: 80
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
+        width: 756
+        height: 567
         isCached: true
-  - title: "Migrating to Microsoft Azure"
-    excerpt: "One of the first things cloud architect Bill Zack did after moving from Connecticut to Nashville in 2013 was to form a Microsoft Azure User Group. Launched with just four initial members ..."
-    publishedDateTime: 2020-06-06T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/migrating-to-microsoft-azure/"
+  - title: "IBM, Amazon and Microsoft race to bring global access to quantum computing"
+    excerpt: "Quantum computing services could help companies without billion-dollar computing budgets design superbatteries, create complex chemicals and understand the universe."
+    publishedDateTime: 2020-04-29T09:03:00Z
+    webUrl: "https://www.cnet.com/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-amazon-and-microsoft-race-to-bring-global-access-to-quantum-computing/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
+      name: CNET
+      domain: cnet.com
+    quality: 80
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2018/06/migration.jpg"
-        width: 660
-        height: 371
+      - url: "https://cnet4.cbsistatic.com/img/EPYaz_DlJY7PMJKlvlnwMTSlej0=/756x567/2020/04/28/63f9ebde-a7ac-489b-b5c7-7587c6ab3279/ibm-system-one-quantum-ces-2020.jpg"
+        width: 756
+        height: 567
+        isCached: true
+      - url: "https://cnet2.cbsistatic.com/img/WunrgBOXXPZb0gsP9EJBgF_hlr4=/756x567/2020/04/29/03ad6c96-bd20-45b4-8d4b-f7282eb4a570/martin-ibm-50-qubit-quantum-computer-7486.jpg"
+        width: 756
+        height: 567
+  - title: "Microsoft launches industry-specific cloud solutions, starting with healthcare"
+    excerpt: "Microsoft today announced the launch of the Microsoft Cloud for Healthcare, an industry-specific cloud solution for healthcare providers. This is the first in what is likely going to be a set of cloud offerings that target specific verticals and extends a trend we’ve seen among large cloud"
+    publishedDateTime: 2020-05-19T15:13:00Z
+    webUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/"
+    ampWebUrl: "https://techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-industry-specific-cloud-solutions-starting-with-healthcare/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-952061110.jpg?w=1024"
+        width: 1024
+        height: 696
         isCached: true
   - title: "Nokia simplifies Microsoft Azure integration"
     excerpt: "The announcement comes almost a year after Nokia and Microsoft made their first joint solutions public. In November 2019, the two companies announced a strategic collaboration aim"
@@ -479,19 +424,24 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 72
-  - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
-    excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
-    publishedDateTime: 2020-09-23T16:00:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/windows-iot-microsoft-edge-kiosk-mode-public-preview/"
+  - title: "Microsoft’s newest sustainable datacenter region coming to Arizona in 2021"
+    excerpt: "On our journey to become Carbon negative by 2030, Microsoft is continually innovating and advancing the efficiency and sustainability of our cloud infrastructure, with a commitment to use 100 percent renewable energy in all of our datacenters and facilities by 2025."
+    publishedDateTime: 2020-09-21T08:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-s-newest-sustainable-datacenter-region-coming-to-arizona-in-2021/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Scaling Microsoft Kaizala on Azure"
-    excerpt: "Microsoft Kaizala is a secure work management and mobile messaging app for mobile-only users. Today, we’re sharing some of our learnings about managing and scaling an enterprise grade productivity app resulting from the increased usage related to working from home.\n\n"
-    publishedDateTime: 2020-09-30T10:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/scaling-microsoft-kaizala-on-azure/"
+    quality: 70
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/f3db9223-8822-4d87-bf2b-0d47246c4d7e.png"
+        width: 650
+        height: 430
+        isCached: true
+  - title: "Windows IoT Microsoft Edge Kiosk Mode in public preview"
+    excerpt: "Microsoft Edge can now be run in Kiosk mode on Windows IoT "
+    publishedDateTime: 2020-09-23T16:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/windows-iot-microsoft-edge-kiosk-mode-public-preview/"
     type: article
     provider:
       name: Microsoft
@@ -525,31 +475,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft boosts UK cloud computing with Azure launches"
-    excerpt: "Microsoft has launched ten new cloud computing services for its UK Azure regions, the company has confirmed in a blog post. Among the services are three new cybersecurity tools which, according to Microsoft,"
-    publishedDateTime: 2020-05-26T11:30:00Z
-    webUrl: "https://www.itproportal.com/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/microsoft-boosts-uk-cloud-computing-with-azure-launches/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NUfXhUjRRSPW2qrdEjXt2V-1200-80.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-05-31T18:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 57
   - title: "Microsoft Azure and AWS' partnership model will make enterprise software companies dependent on cloud providers"
     excerpt: "Microsoft Azure and AWS are striking distribution deals with enterprise software providers, which may reshape the enterprise software ecosystem."
     publishedDateTime: 2020-09-21T14:58:00Z
@@ -612,54 +537,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft announces Azure cloud for top secret government data"
-    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
-    publishedDateTime: 2020-12-07T15:30:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 57
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
-        width: 1600
-        height: 813
-        isCached: true
-  - title: "Microsoft launches Azure cloud service for classified data"
-    excerpt: "Microsoft launched Azure Government Top Secret cloud, part of the Azure Government Secret portfolio; it will handle classified data."
-    publishedDateTime: 2020-12-08T10:26:00Z
-    webUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/"
-    ampWebUrl: "https://windowsreport.com/microsoft-azure-government-top-secret/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/microsoft-azure-government-top-secret/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 57
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/12/Azure-Government-Top-Secret.jpg"
-        width: 1400
-        height: 1280
-        isCached: true
-  - title: "Microsoft updates Azure Stack HCI"
-    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
-    publishedDateTime: 2020-12-29T11:07:00Z
-    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
-    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "TCS Quartz? suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz? suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
     publishedDateTime: 2020-09-21T07:04:00Z
@@ -691,6 +568,22 @@ related:
       - url: "https://www.twice.com/wp-content/uploads/2020/09/CobaltIron-DCIG_Azure_Cloud.jpg"
         width: 2000
         height: 2000
+        isCached: true
+  - title: "Nebula’s cloud expense solution now available on Microsoft Azure Marketplace"
+    excerpt: "OneView Cloud Expense Management, the latest module available in Nebula’s OneView Technology Expense Management platform, has launched in the Microsoft Azure Marketplace. Given the incredible growth of cloud-based SaaS solutions and the rise of self-serv ..."
+    publishedDateTime: 2020-09-15T07:16:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45va63yl7X9l8"
+    ampWebUrl: "https://amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/dgp45va63yl7X9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 54
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/09/Nebula-15-Sept.jpg"
+        width: 816
+        height: 459
         isCached: true
   - title: "Microsoft unveils Azure Orbital connecting satellites to its cloud"
     excerpt: "Microsoft CEO Sataya Nadella speaking at Microsoft Ignite 2020, the annual developer conference. SAN FRANCISCO – Microsoft unveiled Azure Orbital Sept. 22, a service to help customers move data ..."
@@ -742,6 +635,20 @@ related:
       name: Enterprise Storage Forum
       domain: enterprisestorageforum.com
     quality: 54
+  - title: "Microsoft Azure And HP Partner To Bring AI-Powered Computing To Space"
+    excerpt: "On February 20th, the HPE Spaceborne Computer-2 will launch to the ISS atop the 15th Northrop Grumman Resupply Mission to the Space Station."
+    publishedDateTime: 2021-02-11T21:51:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54251/content/microsoft-azure-and-hewlett-packard-partner-to-bring-ai-capabilities-to-space.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "Microsoft plans to establish new cloud datacenter region in Arizona "
     excerpt: "Today, we are taking a significant step toward that goal, revealing plans for our newest sustainable datacenter region in Arizona, which will become our West US 3 region."
     publishedDateTime: 2020-09-22T16:05:31Z
@@ -804,22 +711,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 48
-  - title: "Microsoft Azure partners with Sun Mobility to create EV batteries that connect to the cloud"
-    excerpt: "New Delhi, Microsoft on Tuesday said that electric vehicles solutions firm SUN Mobility is using its Azure Cloud as well as other solutions in developing Cloud-connected swappable batteries to put the country on the road to the future."
-    publishedDateTime: 2020-12-15T05:37:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/articleshow/79735859.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/microsoft-azure-partners-with-sun-mobility-to-create-ev-batteries-that-connect-to-the-cloud/amp_articleshow/79735859.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 47
-    images:
-      - url: "https://www.businessinsider.in/thumb/79735908.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "CORRECTING and REPLACING SES Becomes Microsoft Azure Orbital Founding Connectivity Partner"
     excerpt: "SES’s proven low-latency MEO managed services to be part of Microsoft’s new multi-orbit satellite connectivity integrated with Azure, promising optimized cloud application performance for O3b mPOWER customers SES today announced it has joined as the ..."
     publishedDateTime: 2020-09-23T15:00:00Z
@@ -848,22 +739,6 @@ related:
         width: 1070
         height: 580
         isCached: true
-  - title: "Sports IoT platform FanPlay moves to Microsoft Azure cloud, plans to augment engagement for Chennai Super Kings fans during IPL 2020"
-    excerpt: "FanPlay, Sports IoT platform has paired up with Microsoft to use the company's cloud platform Azure and provide a seamless experience for users."
-    publishedDateTime: 2020-09-29T11:52:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sports-iot-platform-fanplay-moves-to-microsoft-azure-cloud-plans-to-augment-engagement-for-chennai-super-kings-fans-during-ipl-2020/2094139/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 43
-    images:
-      - url: "https://images.financialexpress.com/2020/09/fanplay-iot-logo-edited.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Cloud Gaming Is As Good As Your Internet Connection"
     excerpt: "Mobile connection, Microsoft Cloud Gaming works like a charm. Shooters like Halo 5 stream without stutter. Fighters like Marvel vs. Capcom Ultimate are passable for casual play. If I switch to the spotty wireless shared by my entire household,"
     publishedDateTime: 2020-09-16T17:10:00Z
@@ -880,22 +755,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Datadog Stock Spikes Because Microsoft Cloud Deal Could Help Sales"
-    excerpt: "Datadog shares spiked on Wednesday after the cloud security software company announced a new strategic partnership with Microsoft ’s public cloud service.  Datad"
-    publishedDateTime: 2020-09-30T15:38:00Z
-    webUrl: "https://www.barrons.com/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
-    ampWebUrl: "https://www.barrons.com/amp/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/datadog-stock-spikes-microsoft-cloud-security-deal-could-help-sales-azure-51601483762"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 42
-    images:
-      - url: "https://images.barrons.com/im-238738/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "AMERGINT Collaborates with Microsoft on Microsoft Azure Orbital Satellite Ground Station Service"
     excerpt: "AMERGINT Technologies announced it is working with Microsoft on their new Microsoft Azure Orbital, a new cloud service for connecting users to their satellites. AMERGINT is supporting Azure ..."
     publishedDateTime: 2020-09-23T15:06:00Z
@@ -910,75 +769,19 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Intelemark's New Microsoft Azure Cloud-Based AI Proprietary Software Fuels International Expansion"
-    excerpt: "Intelemark, a national leader in the lead generation/appointment setting industry for more than 20 years, is pleased to announce the"
-    publishedDateTime: 2020-09-30T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/intelemarks-new-microsoft-azure-cloud-based-ai-proprietary-software-fuels-international-expansion-301141708.html"
+  - title: "Cooling loss causes outage at Microsoft Azure's UK South region"
+    excerpt: "On Monday, September 14, a Microsoft Azure data center experienced an extended outage due to a cooling incident. The UK South facility was brought offline when multiple chilled water pumps shut down for reasons unknown,"
+    publishedDateTime: 2020-09-15T14:14:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cooling-loss-causes-outage-microsoft-azures-uk-south-region/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1294546/Intelemark_Logo.jpg?p=facebook"
-        width: 1447
-        height: 759
-        isCached: true
-  - title: "MICROSOFT AZURE MEDIA PLAYER"
-    excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
-    publishedDateTime: 2020-04-21T05:22:00Z
-    webUrl: "https://docs.microsoft.com/en-us/azure/media-services/azure-media-player/azure-media-player-license"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 37
     images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Microsoft Security Moves Target Azure Cloud Services"
-    excerpt: "The moves to secure Azure cloud services range from providing greater visibility into third parties with access to an organization's applications and data to improving risk assessment with a Secure Score API."
-    publishedDateTime: 2020-05-26T19:21:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-security-moves-target-azure-cloud-services"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/cloud-secured-with-chains.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
-    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
-    publishedDateTime: 2020-06-18T21:49:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 37
-    images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Microsoft Azure launches medical data-mining tool"
-    excerpt: "Microsoft announced July 8 a new artificial intelligence tool for its cloud platform Azure that allows developers to analyze unstructured medical data, including clinical notes, clinical trial protocols and medical publications."
-    publishedDateTime: 2020-07-08T15:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/microsoft-azure-launches-medical-data-mining-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-        width: 400
-        height: 300
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tamr Data Mastering Platform Now Available on Microsoft Azure"
     excerpt: "PRNewswire/ -- Tamr, Inc., the provider of cloud-native data mastering solutions, today announced its cloud-native capabilities on Microsoft"
@@ -1004,20 +807,6 @@ related:
       - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Cisco SD-WAN ‘Turbocharges’ Microsoft Office, Azure Environments"
-    excerpt: "Cisco is deepening its existing relationship with Microsoft by extending Cisco SD-WAN within Microsoft Azure cloud and Microsoft Office 365 environments to improve user experiences, the vendors revealed this week at the Microsoft Ignite 2020 virtual conference."
-    publishedDateTime: 2020-09-23T15:10:00Z
-    webUrl: "https://www.crn.com/news/networking/cisco-sd-wan-turbocharges-microsoft-office-azure-environments"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0261-10703cbcf631-39d773bc06d8-1000/cisco-sdwan.jpg"
-        width: 609
-        height: 456
         isCached: true
   - title: "Microsoft Ignite: Azure Advances Across Five Frontiers"
     excerpt: "To kick off the Microsoft Ignite virtual conference, CEO Satya Nadella made a bold claim about the public cloud with the second-largest market share behind Amazon."
@@ -1170,131 +959,19 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "Q&A: How Microsoft Is Raising Azure Arc's Data Services Game"
-    excerpt: "Ignite 2020 saw the public preview of Azure Arc enabled data services, the latest step in Microsoft's bid to demystify multicloud. Principal program manager Travis Wright explains how it works."
-    publishedDateTime: 2020-09-29T21:22:00Z
-    webUrl: "https://redmondmag.com/articles/2020/09/29/azure-arc-data-services-qa.aspx"
+  - title: "Microsoft Azure Space uses SpaceX to take on Amazon"
+    excerpt: "Microsoft is extending its Azure cloud computing service, with Azure Space addressing the growing commercial opportunities around space connectivity. Back in July we reported that Amazon Web services were aiming for space business. It announced the ..."
+    publishedDateTime: 2020-10-22T08:12:00Z
+    webUrl: "https://www.electronicsweekly.com/news/microsoft-azure-space-uses-spacex-take-amazon-2020-10/"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: Electronics Weekly
+      domain: electronicsweekly.com
     quality: 37
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WordCloudLadderManBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
-  - title: "Ooredoo launches Cloud Connect enabling connectivity to Microsoft Azure"
-    excerpt: "Doha: Ooredoo, the region’s leading enabler of digital business innovation, announced yesterday the launch of Ooredoo Cloud Connect to Microsoft Azure, to provide Qatar’s organisations with secure, reliable, and affordable cloud connectivity services ..."
-    publishedDateTime: 2020-10-05T06:04:00Z
-    webUrl: "https://www.thepeninsulaqatar.com/article/05/10/2020/Ooredoo-launches-Cloud-Connect-enabling-connectivity-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 37
-    images:
-      - url: "https://www.thepeninsulaqatar.com/uploads/2020/10/05/post_main_cover/bb97589385769d1a0f1eecb2c64067bd5e849e78.jpg"
-        width: 502
-        height: 355
-        isCached: true
-  - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
-    excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
-    publishedDateTime: 2020-11-26T14:36:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 37
-    images:
-      - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
-        width: 780
-        height: 442
-        isCached: true
-  - title: "Microsoft Launches Azure Stack HCI"
-    excerpt: "Currently, Azure Stack HCI is available \"worldwide, in 18 languages.\" It uses \"the Azure Stack HCI service,\" which is currently available in \"East US, West Europe, and Southeast Asia, with more regions planned every few weeks going forward,"
-    publishedDateTime: 2020-12-14T15:32:00Z
-    webUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 37
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft Introduces Azure Health Bot"
-    excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
-    publishedDateTime: 2021-01-21T08:15:00Z
-    webUrl: "https://www.infoq.com/news/2021/01/azure-health-bot/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/01/azure-health-bot/en/headerimage/header%281%29-1611176663022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Discloses Top Non-Microsoft Apps Using the Azure AD Service"
-    excerpt: "Microsoft this week announced the top non-Microsoft applications used in 2020 that tapped the Azure Active Directory identity and access management service, based on entries in its Azure Marketplace online store."
-    publishedDateTime: 2021-01-28T23:36:00Z
-    webUrl: "https://redmondmag.com/articles/2021/01/28/top-non-microsoft-azure-ad-apps.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0414red_F2_Posey.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
-    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
-    publishedDateTime: 2021-02-02T10:39:00Z
-    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
-  - title: "Microsoft Updates Java for Azure Spring Cloud"
-    excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
-    publishedDateTime: 2021-02-25T16:27:00Z
-    webUrl: "https://adtmag.com/Articles/2021/02/25/Microsoft-Updates-Java-for-Azure-Spring-Cloud.aspx?p=1"
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 37
-    images:
-      - url: "https://adtmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/WindowsBuildingBlueBig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
-  - title: "DPR connects with Six Degrees on Microsoft Azure"
-    excerpt: "UK-based banking software provider, DPR, has announced its latest technical partnership with Six Degrees as it continues to expand its Microsoft Azure integration."
-    publishedDateTime: 2021-03-02T13:04:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86396/dpr-connects-with-six-degrees-on-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/10/21164052/Microsoft-Azure-Space.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "TCS Quartz suite becomes available on Microsoft Azure Blockchain Service"
     excerpt: "Tata Consultancy Services announced the general availability of its award winning Quartz suite of blockchain based solutions on Microsoft Azure Blockchain Service. The Quartz suite of products helps organizations set up truly connected ecosystems ..."
@@ -1309,20 +986,6 @@ related:
       - url: "https://www.indiainfoline.com/include/_mod/site/images/currentoffer_mobile.png"
         width: 600
         height: 277
-        isCached: true
-  - title: "Microsoft Innovates Its Azure Multi-Cloud, Multi-Edge Hybrid Capabilities"
-    excerpt: "During the recent Ignite virtual conference, Microsoft announced several updates for their Azure multi-cloud and edge hybrid offerings. These updates span from security innovations to new edge capabilities."
-    publishedDateTime: 2020-10-04T14:09:00Z
-    webUrl: "https://www.infoq.com/news/2020/10/azure-cloud-hybrid-edge/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 36
-    images:
-      - url: "https://res.infoq.com/news/2020/10/azure-cloud-hybrid-edge/en/headerimage/croppted-Multi+Cloud+Azure-1601662293451.jpeg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
     excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
@@ -1371,20 +1034,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/Microsoft-Azure-logo.jpg"
         width: 422
         height: 208
-        isCached: true
-  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
-    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
-    publishedDateTime: 2020-09-02T18:11:00Z
-    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "MAJiK Systems’ Visual Factory Now Available in the Microsoft Azure Marketplace"
     excerpt: "MAJiK Systems, provider of an IoT-centered software suite that allows manufacturers to drive operational excellence by natively connecting to PLCs and SCADA systems, today announced the availability of Visual Factory in the Microsoft Azure Marketplace,"
@@ -1438,20 +1087,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/33eccaa6-33be-4f9c-af26-ae497b69c520.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
-    excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
-    publishedDateTime: 2021-02-24T00:10:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-azure-firewall-protects-microsofts-network-with-azure-firewall-manager/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 32
-    images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/02/10152_hero.png"
-        width: 2300
-        height: 1293
         isCached: true
   - title: "Microsoft debuts Azure Orbital to power satellite downlinks for space sector clients"
     excerpt: "Microsoft Corp. is building a global network of antennas co-located with its cloud data centers that will enable satellite operators to download data from orbit more easily. The antennas, or ground stations,"
@@ -1509,20 +1144,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Jumio to Enable Biometric-Based Identity Proofing Services for Microsoft Azure Active Directory"
-    excerpt: "Jumio, a leading provider of AI-powered end-to-end identity verification and authentication solutions, today announced that its AI-powered identity ve"
-    publishedDateTime: 2020-09-22T22:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200922005002/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200922005002/en/820130/23/Microsoft-Azure-AD-B2C-Flowchart_%281%29.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "NCR taps Microsoft Azure to keep IoT edge devices at retail stores, restaurants and banks running"
     excerpt: "NCR Corporation (NYSE: NCR), a software and services leader for the retail, restaurant and banking industries, today announced a collaboration with Microsoft to power NCR Digital Connected Services (DCS)."
     publishedDateTime: 2020-09-18T06:52:00Z
@@ -1536,48 +1157,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Microsoft 365 for Consumers Launches Today"
-    excerpt: "Microsoft is officially launching Microsoft 365 for consumers today. The company officially introduced Microsoft 365 for consumers back in March, and it involves a major shift in strategy for Microsoft. The reason? Well, Microsoft 365 is replacing the Office 365 brand starting today. Paul has a very extensive article outlining the new changes ..."
-    publishedDateTime: 2020-04-21T14:32:00Z
-    webUrl: "https://www.thurrott.com/cloud/microsoft-365/235074/microsoft-365-for-consumers-launches-today"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 22
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/microsoft-365.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft launches Cloud for Healthcare, its first industry vertical"
-    excerpt: "Microsoft has launched 'Cloud for Healthcare,' a bundle of cloud services and tools for healthcare providers. The first in what is expected to be a slew of industry verticals, the cloud package is available in public preview and as a six month free trial."
-    publishedDateTime: 2020-05-20T10:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-cloud-healthcare-its-first-industry-vertical/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 22
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Cloud App Security"
-    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
-    publishedDateTime: 2020-07-02T17:13:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 22
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft cloud services suffer global outage"
     excerpt: "Microsoft suffered an outage yesterday which brought down a variety of its most popular cloud services – including Teams, Outlook, and Office 365."
@@ -1604,35 +1183,19 @@ related:
         width: 366
         height: 488
         isCached: true
-  - title: "Microsoft launches Microsoft Cloud for Healthcare"
-    excerpt: "Microsoft has launched Microsoft Cloud for Healthcare, an offering that provides healthcare organizations with digital tools for improved interoperability and data analysis. The offering was announced Oct."
-    publishedDateTime: 2020-11-04T14:59:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/microsoft-launches-microsoft-cloud-for-healthcare.html"
+  - title: "Happy birthday: One year of Microsoft Cloud in Switzerland, for Switzerland"
+    excerpt: "One year after the successful launch of the Microsoft Cloud in Switzerland, demand continues to be strong. In addition to large companies, startups and solution providers (ISVs), primarily Swiss SMEs and public sector organizations plan to increasingly ..."
+    publishedDateTime: 2020-09-17T13:44:00Z
+    webUrl: "https://news.microsoft.com/de-ch/2020/09/17/one-year-microsoft-cloud-in-switzerland/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 22
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
-  - title: "Digital Transformation: Qatar Financial Center Regulatory Authority to Migrate Online Services to Microsoft Cloud"
-    excerpt: "The Qatar Financial Center Regulatory Authority (QFCRA) recently revealed that it will be migrating its online services to the Microsoft Cloud in order to move forward with its digital transformation strategy."
-    publishedDateTime: 2020-09-19T00:43:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/09/166929-digital-transformation-qatar-financial-center-regulatory-authority-to-migrate-online-services-to-microsoft-cloud/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Doha-Doha-Qatar-elissar-haidar-unsplash-300x270.jpg"
-        width: 300
-        height: 270
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/418/2020/09/HBD-1024x560.jpg"
+        width: 1024
+        height: 560
         isCached: true
   - title: "Scality Announces 1 Terabit Per Second Performance for Scale-Out File System in Microsoft Azure Public Cloud"
     excerpt: "Scality, a leader in software solutions for distributed file and object storage, today announced the technical preview"
@@ -1648,24 +1211,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Oracle launches Microsoft Azure cloud interconnect location in Tokyo"
-    excerpt: "Oracle has expanded its cloud interoperability collaboration with Microsoft Azure into Asia with a new cloud interconnect location in Tokyo. This new Tokyo interconnection is expected to enable businesses to share data across applications running in Microsoft Azure and Oracle Cloud."
-    publishedDateTime: 2020-05-11T12:17:00Z
-    webUrl: "https://www.telecompaper.com/news/oracle-launches-microsoft-azure-cloud-interconnect-location-in-tokyo--1338011"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
-    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
-    publishedDateTime: 2020-07-30T05:06:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 17
   - title: "3Cloud Acquires Microsoft Azure Partner"
     excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
     publishedDateTime: 2020-09-15T21:33:00Z
@@ -1683,24 +1228,6 @@ related:
     provider:
       name: MediaPost
       domain: mediapost.com
-    quality: 17
-  - title: "TCS’ Blockchain Product Quartz™ is Now Available on Microsoft Azure"
-    excerpt: "Tata Consultancy Services’ Award-winning Smart Ledgers Suite that Helps Enterprises Quickly Build and Deploy Blockchain Solutions Now Brings Added Benefits of the Cloud’s Flexibility, Scalability and Efficiency MUMBAI,"
-    publishedDateTime: 2020-09-21T08:18:00Z
-    webUrl: "https://www.tcs.com/tcs-blockchain-product-quartz-available-microsoft-azure"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 17
-  - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
-    excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
-    publishedDateTime: 2020-09-22T16:57:00Z
-    webUrl: "https://seekingalpha.com/news/3616223-microsoft-azure-launches-services-compete-twilio-amazon"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
     quality: 17
   - title: "SES strengthens ties with Microsoft Azure in new multi-year deal"
     excerpt: "Satellite operator SES has extended its partnership with Microsoft under a new multi-year contract that will support cloud transformation for its customers, as well as across its internal business units."
@@ -1729,42 +1256,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Datadog pops 7.5% after Microsoft Azure strategic partnership"
-    excerpt: "Under the new strategic partnership, Datadog (NASDAQ:DDOG) will be available on Microsoft (NASDAQ:MSFT) Azure console as a first-class service, which means Datadog setup will be automatic.The integration works for Azure customer applications whether they're entirely on Azure or spread across hybrid or multi-cloud environments."
-    publishedDateTime: 2020-09-30T15:25:00Z
-    webUrl: "https://seekingalpha.com/news/3618476-datadog-pops-7_5-after-microsoft-azure-strategic-partnership"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
-  - title: "Unisys unveils ClearPath MCP Software Series for Microsoft Azure"
-    excerpt: "Unisys announced ClearPath MCP Software Series for Microsoft Azure − the first availability of its software environment in the public cloud."
-    publishedDateTime: 2020-10-01T01:23:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/unisys-clearpath-mcp-software-series-for-microsoft-azure/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 17
-  - title: "Ooredoo Qatar launches Cloud Connect to Microsoft Azure"
-    excerpt: "Ooredoo Qatar has announced the launch of Ooredoo Cloud Connect to Microsoft Azure, making Ooredoo a Microsoft Azure ExpressRoute connectivity provider in the country. It offers access to Microsoft Azure's private domain services in Europe,"
-    publishedDateTime: 2020-10-05T09:35:00Z
-    webUrl: "https://www.telecompaper.com/news/ooredoo-qatar-launches-cloud-connect-to-microsoft-azure--1356499"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
-    excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
-    publishedDateTime: 2021-03-02T05:36:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-cloud-computing-adde0cdfc9b8ded3a57ed797c5c170e8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
   - title: "Cobalt Iron Makes DCIG List of TOP 5 Microsoft Azure Cloud Backup Solutions"
     excerpt: "Cobalt Iron Inc., a leading provider of SaaS-based enterprise data protection, today announced that its industry-leading Compass® enterprise SaaS back"
     publishedDateTime: 2020-09-25T06:49:00Z
@@ -1783,15 +1274,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 14
-  - title: "odix joins MISA program and integrates its FileWall with Microsoft Azure Sentinel"
-    excerpt: "odix was nominated to MISA for integrating their recently launched product, FileWall, with Microsoft Azure Sentinel. FileWall is a security application for Microsoft 365 mailboxes and now includes reporting capabilities to Azure Sentinel. The Microsoft ..."
-    publishedDateTime: 2020-09-30T23:29:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/10/01/odix-microsoft/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 12
   - title: "Spot by NetApp Delivers Availability, Automation, and Cost Savings for Cloud Workloads With Microsoft Azure Spot Virtual Machines"
     excerpt: "NetApp (NASDAQ: NTAP), a global cloud-led, data-centric software company, today announced the availability of Elastigroup for Microsoft Azure Spot Virtual Machines (VMs). NetApp recently acquired Spot,"
     publishedDateTime: 2020-09-23T12:00:00Z

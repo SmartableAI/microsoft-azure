@@ -2,91 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-10-28-public-preview-up-to-10-read-replicas-for-mysql-flexible-server.md",
-      "title": "Public preview: Up to 10 read replicas for MySQL - Flexible Server",
-      "excerpt": "Azure Database for MySQL - Flexible Server enables read-heavy workloads to scale out and be balanced across replica servers according to preferences. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-flexible-server/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-flexible-server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:25:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today.md",
-      "title": "Register Your Azure SQL Virtual Machines with SQL Server IaaS Agent extension today",
-      "excerpt": "By simply checking a box, you can automatically register all existing and future SQL Server VMs in your subscription to access features designed to enable cost savings and increase manageability. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/register-your-azure-sql-virtual-machines-with-sql-server-iaas-agent-extension-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:00:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-preview-azure-monitor-for-containers-now-support-capacity-monitoring-of-persistent-volume-pv.md",
       "title": "Preview: Azure Monitor for containers now support capacity monitoring of Persistent Volume (PV)",
       "excerpt": "In this preview support you can monitor the capacity of the PVs. You can visualize, query and enable fast alert on the PV capacity & inventory metrics.",
@@ -516,7 +431,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-technology-allows-you-to-manage-kubernetes-containers-across-the-hybrid-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 853,
+      "heat": 833,
       "tags": null,
       "images": [
         {
@@ -568,7 +483,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-and-honeywell-collaborate-on-azure-and-dynamics-365",
       "featuredContent": null,
       "highlight": null,
-      "heat": 337,
+      "heat": 317,
       "tags": null,
       "images": [
         {
@@ -1122,7 +1037,7 @@
       "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1340,
+      "heat": 1200,
       "tags": null,
       "images": [
         {
@@ -1163,6 +1078,110 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-azure-iot-central-new-and-updated-featuresseptember-2020.md",
+      "title": "Azure IoT Central new and updated features—September 2020",
+      "excerpt": "September updates include the data export feature, more jobs improvements, offline commands, new dashboard formatting capabilities, new Power Automate templates, and documentation enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2e4f169b-104a-43ce-8e07-a8b1b6917d3a.png",
+          "width": 626,
+          "height": 223,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T08:22:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-new-alert-query-examples-topic-in-log-analytics.md",
+      "title": "New alert query examples topic in Log Analytics",
+      "excerpt": "The logs experience was recently updated with examples queries for common log alerts.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/alert-examples-in-logs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/e5d2dc9a-2689-438b-829d-6c5106b14d71.gif",
+          "width": 1907,
+          "height": 1019,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T13:34:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

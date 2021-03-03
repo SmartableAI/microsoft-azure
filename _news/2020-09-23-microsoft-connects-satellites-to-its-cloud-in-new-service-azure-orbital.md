@@ -93,33 +93,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
-    publishedDateTime: 2020-09-22T15:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/09/20/95073367-3a24-4e17-8461-3e833f4f66e3/azurestackhybridignite.jpg"
-        width: 980
-        height: 597
-        isCached: true
-  - title: "A closer look at Microsoft Azure Arc"
-    excerpt: "The promise of Azure Arc is providing the simplicity of the cloud control plane inside the data center. A year after announcement with the core platform now going GA, we thought it would be a good time for a deeper dive to see how Azure Arc actually works."
-    publishedDateTime: 2020-09-25T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Microsoft boots apps out of Azure used by China-sponsored hackers"
     excerpt: "Fortune 500 companies aren’t the only ones flocking to cloud services like Microsoft Azure. Increasingly, hackers working on behalf of the Chinese government are also hosting their tools in the cloud,"
     publishedDateTime: 2020-09-25T10:45:00Z
@@ -193,17 +166,6 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 75
-  - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
-    excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
-    publishedDateTime: 2020-09-22T21:24:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/?taid=5f6a69d582069f0001ab8999"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-devices-services-to-its-azure-stack-hybrid-line-up/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
     quality: 75
   - title: "Microsoft aims to grow Azure's footprint, resiliency with more availability zones and new services"
     excerpt: "Microsoft is bringing on board two more Azure Availability Zones, readying an Azure Resource Mover service aimed at those who care about data residency, and previewing its Azure Orbital service for satellite operators."
@@ -298,20 +260,6 @@ related:
       - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteCloudSmall.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft launches Azure for Operators to expand connectivity"
-    excerpt: "Microsoft announced intent to expand connectivity, including 5G, by working with network operators to launch Azure for Operators"
-    publishedDateTime: 2020-09-28T18:51:00Z
-    webUrl: "https://www.information-age.com/microsoft-launches-azure-for-operators-expand-connectivity-123491849/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 37
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/09/microsoft-launches-azure-for-operators-expand-connectivity.jpeg"
-        width: 1080
-        height: 675
         isCached: true
   - title: "Microsoft targets industrial IoT analytics with Azure Digital Twins update"
     excerpt: "Microsoft Corp. today added a set of new features to Azure Digital Twins, its cloud-based analytics service for industrial “internet of things” applications. A digital twin usually means a virtual replica of a connected system,"

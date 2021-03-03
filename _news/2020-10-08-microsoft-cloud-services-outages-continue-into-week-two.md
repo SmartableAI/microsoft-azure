@@ -152,22 +152,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Microsoft unveils updates across Azure Cognitive Services and Azure Machine Learning"
-    excerpt: "Microsoft rolled out updates across its AI and machine learning cloud portfolio during its Ignite 2020 virtual conference."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/"
-    ampWebUrl: "https://venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/09/22/microsoft-unveils-updates-across-azure-cognitive-services-and-azure-machine-learning/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
   - title: "Introducing the Microsoft Azure Modular Datacenter"
     excerpt: "The Microsoft Azure Modular Datacenter (MDC) is designed to support datacenter scale scenarios for humanitarian aid, disaster response, and other needs for high-intensity, secure cloud computing in challenging environments."
     publishedDateTime: 2020-10-20T06:00:20Z
@@ -223,20 +207,6 @@ related:
         width: 970
         height: 546
         isCached: true
-  - title: "Microsoft announces Azure Service Fabric"
-    excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for developers and ISVs to build scalable cloud services. According to a blog post from Microsoft Azure CTO Mark Russinovich ..."
-    publishedDateTime: 2020-04-20T00:00:00Z
-    webUrl: "https://sdtimes.com/azure/microsoft-announces-azure-service-fabric/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 77
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2015/04/0420.sdt-azure-service-fabric.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CES 2021 to be powered by the Microsoft cloud: Teams, Azure, and more"
     excerpt: "The CTA announced CES 2021 would be powered by Microsoft's Teams collaboration environment, the Azure cloud computing service, and the Microsoft Power Platform."
     publishedDateTime: 2020-10-19T18:05:00Z
@@ -263,22 +233,6 @@ related:
       - url: "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Researchers Find Vulnerabilities in Microsoft Azure Cloud Service"
-    excerpt: "Now according to the latest research, two security flaws in Microsoft's Azure App Services could have enabled a bad actor to carry out server-side request forgery (SSRF) attacks or execute arbitrary code and take over the administration server."
-    publishedDateTime: 2020-10-08T13:26:00Z
-    webUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html"
-    ampWebUrl: "https://thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/10/microsoft-azure-vulnerability.html?amp=1"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 57
-    images:
-      - url: "https://thehackernews.com/images/-eFgZSEAAMao/X38Suv_dbWI/AAAAAAAAA2w/q2hCefQPJhAMhdORNgkvmAUf_uj6W4r9QCLcBGAsYHQ/s0/microsoft-azure-cloud.jpg"
-        width: 728
-        height: 380
         isCached: true
   - title: "Saviynt integrates with Microsoft Azure AD to provide identity-centric, zero trust security service"
     excerpt: "Saviynt expands integration with Microsoft Azure AD to provide additional advanced governance scenarios for enterprise customers."
@@ -508,20 +462,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Azure Sentinel vs. Microsoft Defender"
-    excerpt: "Technologies for an awfully long time now, I heard people often wondering how (former) Microsoft Threat Protection and Azure Sentinel fit into a single product-strategy. At this year's first virtual Ignite,"
-    publishedDateTime: 2020-10-09T22:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/azure-sentinel-vs-microsoft-defender-jan-geisbauer"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH9y7itIBxOAw/article-cover_image-shrink_720_1280/0?e=1607558400&v=beta&t=PGLrlEMoc-C5aLKesHFmkfCSZACIteegl81FYzGbj8U"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "CDW recognized as Microsoft Azure expert service provider"
     excerpt: "CDW Corp., a leading computer solutions and services provider, has been recognized as a Microsoft Azure Expert Managed Service Provider, joining some of Microsoft's most recognized and capable global solutions partners."
     publishedDateTime: 2020-10-09T18:58:00Z
@@ -603,20 +543,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Microsoft launches Azure Space to power satellite projects"
-    excerpt: "Microsoft Corp. today debuted Azure Space, a new portfolio of cloud products that will address use cases such as simulating satellite constellations and providing internet connectivity to edge devices."
-    publishedDateTime: 2020-10-20T21:48:00Z
-    webUrl: "https://siliconangle.com/2020/10/20/microsoft-launches-azure-space-power-space-projects/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/10/Space_3-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft pushes Azure cloud services into new frontier: space"
     excerpt: "A Microsoft partnership with SpaceX's Starlink network of low-orbit satellites will be used to power a new line of modular cloud-data centers."
     publishedDateTime: 2020-10-21T11:20:00Z
@@ -627,17 +553,6 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 37
-  - title: "Microsoft takes Azure above the clouds"
-    excerpt: "Building on its Project Natick underwater datacentre research project, Microsoft is now heading above the atmosphere with Azure Space. In a blog post describing the company’s plans, Tom Keane ..."
-    publishedDateTime: 2020-10-21T08:17:00Z
-    webUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds"
-    ampWebUrl: "https://www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252490812/Microsoft-takes-Azure-above-the-clouds?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
     quality: 37
   - title: "Microsoft to build Azure Cloud region in Vienna, Austria"
     excerpt: "Microsoft is establishing its first cloud data center region in Vienna, Austria. Microsoft hopes to generate up to $2.1bn in revenue from its presence in Austria over the next four years. Microsoft President Brad Smith announced the news at the Austrian Federal Chancellery alongside Austrian Chancellor Sebastian Kurz,"
@@ -717,20 +632,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Dicker Data launches Microsoft Cloud unit"
-    excerpt: "Dicker Data has launched a new Microsoft Cloud business unit under the leadership of Sarah Loiterton as general manager."
-    publishedDateTime: 2020-10-14T05:35:00Z
-    webUrl: "https://www.arnnet.com.au/article/683708/dicker-data-launches-microsoft-cloud-unit/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 22
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/sarah_loiterton_1.jpg"
-        width: 797
-        height: 550
         isCached: true
   - title: "Dicker Data launches new Microsoft Cloud business unit"
     excerpt: "ASX-listed IT hardware, software and cloud distributor, Dicker Data has launched a new Microsoft Cloud business unit in a move the company says deepens its relationship with the global tech giant. Dicker Data (ASX:DDR) says the new unit will led by Sarah Loiterton as general manager and as part of"
