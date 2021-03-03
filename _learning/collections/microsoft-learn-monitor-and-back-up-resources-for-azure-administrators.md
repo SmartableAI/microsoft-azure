@@ -4,7 +4,7 @@ excerpt: "Learn how to monitor and back up Azure resources."
 type: collection
 price: Free
 length: PT6H27M
-heat: 68
+heat: 73
 
 provider:
   name: Microsoft Learn
