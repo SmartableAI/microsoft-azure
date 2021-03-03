@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
+    excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
+    publishedDateTime: 2021-03-03T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "Public preview: Planned maintenance windows in AKS"
     excerpt: "Minimize interruptions by specifying planned maintenance windows for your clusters in AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -94,6 +103,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Purview Resource Set configuration enhancements"
+    excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
+    publishedDateTime: 2021-03-03T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Managed Instance for Apache Cassandra service now in public preview"
     excerpt: "With Azure Managed Instance for Apache Cassandra (preview), scale on-premise Cassandra data to the cloud with automated deployment, scaling, and management operations for open source Apache Cassandra datacenters."
     publishedDateTime: 2021-03-02T17:00:13Z
@@ -112,6 +130,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Public preview: Register Azure subscriptions and Resource Groups with Azure Purview "
+    excerpt: "Manage your data with greater ease by using Azure Purview to register multiple sources at the same time. "
+    publishedDateTime: 2021-03-03T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-register-azure-subscriptions-and-resource-groups-with-azure-purview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
   - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
     excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
     publishedDateTime: 2021-03-02T17:00:10Z
@@ -121,6 +148,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "On-demand capacity reservations in public preview"
+    excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
+    publishedDateTime: 2021-03-03T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ondemand-capacity-reservations-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Public preview: Change performance tiers for Premium SSD managed disks with no downtime"
     excerpt: "Premium SSD managed disks now enables you change performance tiers without any downtime to your applications."
     publishedDateTime: 2021-03-02T17:00:12Z

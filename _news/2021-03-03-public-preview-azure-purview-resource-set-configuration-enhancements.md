@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
-excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+title: "Public preview: Azure Purview Resource Set configuration enhancements"
+excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
+publishedDateTime: 2021-03-03T17:00:18Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -104,15 +103,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Azure Purview Resource Set configuration enhancements"
-    excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
-    publishedDateTime: 2021-03-03T17:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Managed Instance for Apache Cassandra service now in public preview"
     excerpt: "With Azure Managed Instance for Apache Cassandra (preview), scale on-premise Cassandra data to the cloud with automated deployment, scaling, and management operations for open source Apache Cassandra datacenters."
     publishedDateTime: 2021-03-02T17:00:13Z
@@ -149,6 +139,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
+    excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "On-demand capacity reservations in public preview"
     excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
     publishedDateTime: 2021-03-03T17:00:16Z
@@ -168,6 +167,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "aSeU+PiW6wEKtgHBFz3hY4ofPzdFDCX9fTOezBsMXUdROUXEi/VLMGdj3KPuIcKYkusRINlqqKhvmrsJObsBcc3oEinSFcwgIFnlNVJ5/ybfwTkH+11ldnLIXt42HeiNCe+6OWFmDDFYB4l5dCdUcxf+WGSs2gYYPG322flqbL0dSINxhh1dsy3fkwqTAloNXaMMSnhB5m4YRyMi6UZKhDZWZ4vtzei6+r7v1e6ECZVao4jpu0ac7P9RLY2ck4ZNLOpH2w9eE+XKVD8j4OiL93ot1zNWvzTCBWW3Zr9t29cxoreiHOXvNvr+0Q0OOfg6lX8SzRiamg0BoVLiiKUvNy3RDu1vpC5AHa+kwmdz110=;Reyku4SxObRGWU91tmV47Q=="
+secured: "N7XyUcNRpvY2DNQytvzcmz4aeKpmvMuS1oL4aWpMFcYeM/fmjd/eYlNagd5tkppg1b5DpZeT1wA7HcYKhOjJgIlNT22UAtvbUd5Iko9JFzRYyNSR5SYI0cgTqAUyrlW+0bIEpWyQA7+5etfr4CvFiy0FpDUSagr/uaHgTV0U0nExXR6zHoGkkMWaafzgQLm39tLQQb5MkRH/WBzHO8fkmapjvCmKoYzPdn0u+iU1CkRHpbcJLpBfqg453nRqQyW+FsSrszkO181VGkl7LEKdeFdZXB7K4n2AEDA+3C9C837H8CqKROROdkBlMIRKzbMeCzy8XhMpQrPs07xQw4zaKInptwIR5u64pGn4qtp32HQ=;mW8sLs7HTrwlKNDQZXQfkg=="
 ---
 

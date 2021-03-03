@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
-excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
+excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
+publishedDateTime: 2021-03-03T17:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
 type: article
-quality: 59
+quality: 79
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Management tools
+  - Compute
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -68,15 +68,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
-    excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
-    publishedDateTime: 2021-03-03T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
   - title: "Public preview: Planned maintenance windows in AKS"
     excerpt: "Minimize interruptions by specifying planned maintenance windows for your clusters in AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -149,6 +140,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
+    excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "On-demand capacity reservations in public preview"
     excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
     publishedDateTime: 2021-03-03T17:00:16Z
@@ -168,6 +168,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "aSeU+PiW6wEKtgHBFz3hY4ofPzdFDCX9fTOezBsMXUdROUXEi/VLMGdj3KPuIcKYkusRINlqqKhvmrsJObsBcc3oEinSFcwgIFnlNVJ5/ybfwTkH+11ldnLIXt42HeiNCe+6OWFmDDFYB4l5dCdUcxf+WGSs2gYYPG322flqbL0dSINxhh1dsy3fkwqTAloNXaMMSnhB5m4YRyMi6UZKhDZWZ4vtzei6+r7v1e6ECZVao4jpu0ac7P9RLY2ck4ZNLOpH2w9eE+XKVD8j4OiL93ot1zNWvzTCBWW3Zr9t29cxoreiHOXvNvr+0Q0OOfg6lX8SzRiamg0BoVLiiKUvNy3RDu1vpC5AHa+kwmdz110=;Reyku4SxObRGWU91tmV47Q=="
+secured: "wclJi5obHrNoAyBq9MxH5w2Hv444eYpr/Ae5+jZ6Hns7rWL6zsoQ6+zQ/d7b+4NdX03r/zDLxtsdYXy7mwRJT48k9GusDAMUAxKGDM3DcZK2Jn5sJ4pf3X4JsZ3zFMKDfowgsi7K29aTH1t5UIl8O7XhA0xC69Ldx51KXFFuc00J74dNw4xZvVB1g/UXaK6A0y9IsOk4b7lVS6wT7Ro9eBlhQKIbCs6jvR11F2j9ON4sKSrJuU/KjW66Gss5SpjgOX/WKR+DnJmdThtMds6kv9/oxpqCFwI66/uxsXM+vcMpIqqiSkqMKmXvbdtgGfvxVH4iojJi4j0O+BFoqZalDHd9qMLszZMdy6dRFi1yQsw=;GYv0+tlKlz2LTz7/BXjO7Q=="
 ---
 

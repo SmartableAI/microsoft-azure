@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
-excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+title: "Public preview: Register Azure subscriptions and Resource Groups with Azure Purview "
+excerpt: "Manage your data with greater ease by using Azure Purview to register multiple sources at the same time. "
+publishedDateTime: 2021-03-03T17:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-register-azure-subscriptions-and-resource-groups-with-azure-purview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-register-azure-subscriptions-and-resource-groups-with-azure-purview/"
 type: article
-quality: 59
+quality: 60
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -140,15 +139,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "Public preview: Register Azure subscriptions and Resource Groups with Azure Purview "
-    excerpt: "Manage your data with greater ease by using Azure Purview to register multiple sources at the same time. "
-    publishedDateTime: 2021-03-03T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-register-azure-subscriptions-and-resource-groups-with-azure-purview/"
+  - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
+    excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 60
+    quality: 59
   - title: "On-demand capacity reservations in public preview"
     excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
     publishedDateTime: 2021-03-03T17:00:16Z
@@ -168,6 +167,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "aSeU+PiW6wEKtgHBFz3hY4ofPzdFDCX9fTOezBsMXUdROUXEi/VLMGdj3KPuIcKYkusRINlqqKhvmrsJObsBcc3oEinSFcwgIFnlNVJ5/ybfwTkH+11ldnLIXt42HeiNCe+6OWFmDDFYB4l5dCdUcxf+WGSs2gYYPG322flqbL0dSINxhh1dsy3fkwqTAloNXaMMSnhB5m4YRyMi6UZKhDZWZ4vtzei6+r7v1e6ECZVao4jpu0ac7P9RLY2ck4ZNLOpH2w9eE+XKVD8j4OiL93ot1zNWvzTCBWW3Zr9t29cxoreiHOXvNvr+0Q0OOfg6lX8SzRiamg0BoVLiiKUvNy3RDu1vpC5AHa+kwmdz110=;Reyku4SxObRGWU91tmV47Q=="
+secured: "hBqeZddlSriTmeJcI83BQMgvu9v1evp8tHUnyzGlhP8pmb31CrMKZYsWu8OlMUgQ/RL1sC7SDiKzNce5y5nIeI8rTBWy54IVBShi8fQBUqPODjNdNWDn2v3ZwVjrkoU1O3ZA8GQXOZ0DQnU69DZ/oJ456fvxb9RFsTnCrVCMSEhTDj0wIIQ3gSPiXKtjKUWsqcC/4qjSiuk/0T8V7AdhDeMI93oru43LRQAHlBeYZbLB6vlkUUpmYOTkj+3AEJkMdOkX+v3Ii3zH8JkB+z7KBH7AU4cbHuEFb+dKUo4+Jf1piJVIJLsM9xzxI/PQzNuib4pS8dvVHe1Aeb+6HmSXaF5fTDXaOdjHPrr+huFwC00=;XJuC7Sq1L4WX4DTgdfL1gg=="
 ---
 

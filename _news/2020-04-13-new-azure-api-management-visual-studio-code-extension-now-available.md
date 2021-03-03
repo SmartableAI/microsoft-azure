@@ -30,6 +30,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 111
+  - title: "Azure API Management extension for Visual Studio Code now generally available"
+    excerpt: "Perform common management operations on your Azure API Management service instances without switching away from Visual Studio Code."
+    publishedDateTime: 2021-03-03T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-api-management-extension-for-visual-studio-code-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Generate a new function app from an OpenAPI specification"
     excerpt: "Create a function app from an Open API Definition using VS Code"
     publishedDateTime: 2020-10-28T16:00:28Z

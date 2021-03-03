@@ -67,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
+    excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
+    publishedDateTime: 2021-03-03T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "Public preview: Planned maintenance windows in AKS"
     excerpt: "Minimize interruptions by specifying planned maintenance windows for your clusters in AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -89,6 +98,15 @@ related:
     excerpt: "The new Azure Route Server simplifies integration of network virtual appliance into your Azure virtual network."
     publishedDateTime: 2021-03-02T17:00:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-route-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Azure Purview Resource Set configuration enhancements"
+    excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
+    publishedDateTime: 2021-03-03T17:00:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
     type: article
     provider:
       name: Microsoft
@@ -121,6 +139,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "Public preview: Register Azure subscriptions and Resource Groups with Azure Purview "
+    excerpt: "Manage your data with greater ease by using Azure Purview to register multiple sources at the same time. "
+    publishedDateTime: 2021-03-03T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-register-azure-subscriptions-and-resource-groups-with-azure-purview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 60
   - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
     excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
     publishedDateTime: 2021-03-02T17:00:10Z
@@ -130,6 +157,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "On-demand capacity reservations in public preview"
+    excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
+    publishedDateTime: 2021-03-03T17:00:16Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ondemand-capacity-reservations-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "Z5WK0FWYW1j5fm0LvO5HtlLR5HOCTGI77CFruGEGfDZnj1D6P//zyCPYjyk76qmVtDRl6XIB2mcSNwAfRPYECQj/ETt7LfMeD8BMef8Abr6t5fO/2DybLARZz0NP+2o4CD851N8yspCW63ySamfqLhP799Gv6FBUBMaLhRyAhRIGmbKvyCudXwLmFC2Gv+g+eYphouPaVb/FzQSacEcTr/mQ0PB7Wz/0tQ0rTnZmAGksPoNrFvMMbBWjv+cFqWWbL87CIOW2COM9RpJmcGWOHRHS0r4SgucZn7NDoRpcAuM4ibN1kmRDKb3BCkYTA8h0l+fUFcMKFoWZzuNmDt7YQaVR7h75NC9UfxYJSMJ6zpI=;1IHFBywP5JrWLzUtduLwfQ=="
 ---

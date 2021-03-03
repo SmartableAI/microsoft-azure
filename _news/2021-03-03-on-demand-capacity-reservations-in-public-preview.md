@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
-excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+title: "On-demand capacity reservations in public preview"
+excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
+publishedDateTime: 2021-03-03T17:00:16Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/ondemand-capacity-reservations-in-public-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/ondemand-capacity-reservations-in-public-preview/"
 type: article
-quality: 59
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -149,15 +148,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
-  - title: "On-demand capacity reservations in public preview"
-    excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
-    publishedDateTime: 2021-03-03T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ondemand-capacity-reservations-in-public-preview/"
+  - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
+    excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 59
   - title: "Public preview: Change performance tiers for Premium SSD managed disks with no downtime"
     excerpt: "Premium SSD managed disks now enables you change performance tiers without any downtime to your applications."
     publishedDateTime: 2021-03-02T17:00:12Z
@@ -168,6 +167,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "aSeU+PiW6wEKtgHBFz3hY4ofPzdFDCX9fTOezBsMXUdROUXEi/VLMGdj3KPuIcKYkusRINlqqKhvmrsJObsBcc3oEinSFcwgIFnlNVJ5/ybfwTkH+11ldnLIXt42HeiNCe+6OWFmDDFYB4l5dCdUcxf+WGSs2gYYPG322flqbL0dSINxhh1dsy3fkwqTAloNXaMMSnhB5m4YRyMi6UZKhDZWZ4vtzei6+r7v1e6ECZVao4jpu0ac7P9RLY2ck4ZNLOpH2w9eE+XKVD8j4OiL93ot1zNWvzTCBWW3Zr9t29cxoreiHOXvNvr+0Q0OOfg6lX8SzRiamg0BoVLiiKUvNy3RDu1vpC5AHa+kwmdz110=;Reyku4SxObRGWU91tmV47Q=="
+secured: "BnPnmg6sQYH0Sbbw/KxyPzYishAtf25/VUtUMXJaW5EMp/FpSGBruVQoKBVq0e2AEJuCwSDyP28rWWeSF4/i7kbtyXbR+e/vtj21TXYoRW/il0HQKNC8Nj/CFuXw0UKgWNl9HDi0jj5xOtwDe7hk88fFvdC7p5y3zOCZSbKfOQ/UqL9+cDwpHSbeMgF60R0q6ZwmI6baE7re2MlyhGoO3q99umtU6opcnWtwtOO5SR9L0XHp2O9MWy+/lfYR7xzUsVG7JwpW4ksz5tzniK/JPeSp0N7X/rMbViQlso2URChElaqX18POPxk/PD8J+uhiJpyhanIZX91YvsiJeeCiyOXMHdOrcfwDruSb+eUPMwc=;GGsvG78eqR3v09NgA/++7g=="
 ---
 
