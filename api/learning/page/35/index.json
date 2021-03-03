@@ -4,6 +4,51 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security.md",
+      "title": "Implement Windows Server IaaS VM network security",
+      "excerpt": "Implement Windows Server IaaS VM network security",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-windows-server-iaas-vm-network-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 35,
+        "average": 4.6857142
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-windows-server-iaas-vm-network-security-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
       "title": "Import data into Azure Synapse Analytics by using PolyBase",
       "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase",
@@ -1111,8 +1156,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-mixed-reality/",
       "length": "PT41M",
       "ratings": {
-        "count": 114,
-        "average": 4.8157897
+        "count": 115,
+        "average": 4.8173914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1230,49 +1275,6 @@
       "topics": [
         "Azure",
         "Databases",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
-      "title": "Introduction to the Open source Analytics Offering",
-      "excerpt": "Introduction to the Open source Analytics Offering",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-analytics-offering/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 231,
-        "average": 4.623377
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-the-open-source-analytics-offering-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Analytics"
       ]
     }

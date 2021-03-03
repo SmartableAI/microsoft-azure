@@ -4,6 +4,48 @@
   "page": 40,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-rust-error-handling.md",
+      "title": "Handle errors in Rust",
+      "excerpt": "In this module, you'll learn about ways to handle errors in Rust.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-error-handling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-error-handling/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/rust-error-handling-social.png",
+          "width": 1280,
+          "height": 640,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-rust-generic-types-traits.md",
       "title": "Implement generic types and traits",
       "excerpt": "Understand what generic types and traits are and how to use them in Rust.",
@@ -222,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
       "length": "PT38M",
       "ratings": {
-        "count": 1946,
-        "average": 4.720966
+        "count": 1947,
+        "average": 4.7211094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,49 +1259,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-support-concurrency-blob-storage.md",
-      "title": "Support concurrency in Blob storage apps with ETags and blob leases",
-      "excerpt": "In this module you will learn how to implement application code to manage concurrency in blob storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-support-concurrency-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/support-concurrency-blob-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 58,
-        "average": 4.7413793
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/support-concurrency-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
