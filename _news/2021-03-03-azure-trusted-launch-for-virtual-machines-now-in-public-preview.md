@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
-excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+title: "Azure trusted launch for Virtual Machines now in public preview"
+excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
+publishedDateTime: 2021-03-03T20:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
+webUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -104,15 +103,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure trusted launch for Virtual Machines now in public preview"
-    excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
-    publishedDateTime: 2021-03-03T20:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public preview: Azure Purview Resource Set configuration enhancements"
     excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
     publishedDateTime: 2021-03-03T17:00:18Z
@@ -158,6 +148,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 60
+  - title: "Limited preview: Azure Backup now supports archive tier for backup of Azure Virtual Machines and SQL Server in Azure VMs "
+    excerpt: "Azure Backup, which is in limited preview, now supports long term retention of recovery points in low cost archive tier."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-now-supports-archive-tier-for-backup-of-azure-virtual-machines-and-sql-server-in-azure-vms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "On-demand capacity reservations in public preview"
     excerpt: "Reserve compute capacity and obtain a capacity SLA for Azure virtual machine deployments with on-demand capacity reservations. "
     publishedDateTime: 2021-03-03T17:00:16Z
@@ -177,6 +176,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "aSeU+PiW6wEKtgHBFz3hY4ofPzdFDCX9fTOezBsMXUdROUXEi/VLMGdj3KPuIcKYkusRINlqqKhvmrsJObsBcc3oEinSFcwgIFnlNVJ5/ybfwTkH+11ldnLIXt42HeiNCe+6OWFmDDFYB4l5dCdUcxf+WGSs2gYYPG322flqbL0dSINxhh1dsy3fkwqTAloNXaMMSnhB5m4YRyMi6UZKhDZWZ4vtzei6+r7v1e6ECZVao4jpu0ac7P9RLY2ck4ZNLOpH2w9eE+XKVD8j4OiL93ot1zNWvzTCBWW3Zr9t29cxoreiHOXvNvr+0Q0OOfg6lX8SzRiamg0BoVLiiKUvNy3RDu1vpC5AHa+kwmdz110=;Reyku4SxObRGWU91tmV47Q=="
+secured: "aaHQ626/VgN/RGekPb0Ei3v2LmXxvl0rTE2lmYCaYUAeEKpvU5VQ/OSc8tmJ8psaS5RDKTrDLg7bXf2WbFje8VkGh3jLDcPuDsc231N8W8MkPpwvXqwg4EODkN3HRWpbv0aS3g7UPU77J232UpgJtJFfbc1y3EvGfoc/hE4alcAHIwzVTcHLF9rqA0cVxfQBZtiLIsWhLpQMX3GwSSTrVGf/RhRzlzxm1tmV+2SKBPXzKXuBs9ZG+pnuYoJvnH2F5UxCM0E5bLYKSa3BktHgbl2p71IWHUdX47UFTsbUcR7mqcWtuwtBp5t67A02R4K/hh7ZSfiqMNUb0qRkRK63yjwujlTq1Q7AHhLJeVebya8=;Awz8UB5dPPBqyufFnQsllg=="
 ---
 

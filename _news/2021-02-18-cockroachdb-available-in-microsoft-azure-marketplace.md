@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
-excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
-publishedDateTime: 2021-02-15T20:17:00Z
-originalUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
-webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
-ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+title: "CockroachDB Available in Microsoft Azure Marketplace"
+excerpt: "NEW YORK, Feb. 16, 2021 /PRNewswire/ -- Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
+publishedDateTime: 2021-02-17T17:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
+webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
-    width: 1200
-    height: 675
+  - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
+    width: 2694
+    height: 1414
     isCached: true
 
 related:
@@ -107,6 +105,22 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
+    excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
+    publishedDateTime: 2021-02-15T20:17:00Z
+    webUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/"
+    ampWebUrl: "https://www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/microsoft-azure-extends-their-edge-into-space-with-the-spaceborne-computer-2/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 54
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-Azure-extends-their-Edge-into-space-with-the-Spaceborne.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user"
     excerpt: "Microsoft Azure and Canonical Ubuntu Linux have a privacy concern for the user . It was just another day for Luca Bongiorni, a security"
@@ -219,20 +233,6 @@ related:
       - url: "https://cdn.infoq.com/statics_s2_20210216-0237/styles/static/images/logo/logo-big.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "CockroachDB Available in Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, Feb. 16, 2021 /PRNewswire/ -- Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
-    publishedDateTime: 2021-02-17T17:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cockroachdb-available-in-microsoft-azure-marketplace-301227830.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1011993/CockroachLabs_Logo.jpg?p=facebook"
-        width: 2694
-        height: 1414
         isCached: true
   - title: "Logicalis Renews Microsoft Azure Expert Managed Service Provider Status"
     excerpt: "NEW YORK, Feb. 18, 2021 /PRNewswire/ -- Logicalis Group, an international IT solutions and managed services provider, today announced it has renewed its status as a Microsoft Azure Expert Managed ..."
@@ -365,6 +365,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "r7IwQxypxs1/Sg5BxaZS3UewRxdzYaaiPwBlHgGD3b1s4KdoVgd+wF/25Gojgx/6JluV/+fCY9l8aPNjW/1SshLf8Zi4F6Ro8VGBubriVrMOd943tFG1QfAc0IaApcbkM/Ly06lcDI/MNLEMsNthmuttmBr335r+RJxm5yjcmyHDu3i+mDTQo6DWRiQ06mSo1tGhJN560hTG6rfcuNcMMoq7hbpJH9d2JtPChzKiYGEARVTX7mbn+b/uB6Th6deGpb9XNagvIm49rNVkUnIq/vDrOS2e1tokv7EYcG3NGL62umyZBrjJ497cHclWlYq4tQ5E5dpcgvOamniKoHlBZLGVUgC1nlAuW2GwpEFJiA8=;gk6gV+fn5jW1A7RhFJbgFg=="
+secured: "J8sa1YhhfzqmWovgsyxsWBHgTBvb2WN6Brz57KB2cjw9BFFZcvxwmEssHK+Uouav1O/Yvth2bmsieMF7YXtSebfZsVxO8tOW4C4Oq9ZHfcq2vnJY/CBvUCajnQVxazKRUOhnj+kGxpggyIeuNflTV6pDG7hu3q6UtwqVUcb9/BFcIogWDIL9/3m5azWS/26NqrbjjIMxsq9mVursAyotdc+IEKF+X0Bjjh21VEM/NVYVEU1eqgnBPWU4purj5lX3F94WdrkDXWf8SEs8CydHrOeD1deDpQUCTc/BvzvC+/WpEFq3ibnFcP5Pn/gIML6t80BTu8MPgk2WjB2CJTkY7sMmIcDHVfNmgBsxBeuBEfE=;wgcIz1+K2oa1nTeeaplU8A=="
 ---
 

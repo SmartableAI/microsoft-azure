@@ -103,6 +103,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure trusted launch for Virtual Machines now in public preview"
+    excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
+    publishedDateTime: 2021-03-03T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Managed Instance for Apache Cassandra service now in public preview"
     excerpt: "With Azure Managed Instance for Apache Cassandra (preview), scale on-premise Cassandra data to the cloud with automated deployment, scaling, and management operations for open source Apache Cassandra datacenters."
     publishedDateTime: 2021-03-02T17:00:13Z

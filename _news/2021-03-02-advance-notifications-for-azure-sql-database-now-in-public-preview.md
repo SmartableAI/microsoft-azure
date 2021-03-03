@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/"
 type: article
 quality: 114
-heat: 434
+heat: 454
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
     excerpt: "The new Azure Route Server simplifies integration of network virtual appliance into your Azure virtual network."
     publishedDateTime: 2021-03-02T17:00:16Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-route-server/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure trusted launch for Virtual Machines now in public preview"
+    excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
+    publishedDateTime: 2021-03-03T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
     type: article
     provider:
       name: Microsoft

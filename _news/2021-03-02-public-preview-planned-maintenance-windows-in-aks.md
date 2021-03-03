@@ -95,6 +95,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure trusted launch for Virtual Machines now in public preview"
+    excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
+    publishedDateTime: 2021-03-03T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/trustedlaunch/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Azure Purview Resource Set configuration enhancements"
     excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
     publishedDateTime: 2021-03-03T17:00:18Z
