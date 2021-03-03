@@ -73,9 +73,9 @@ related:
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
@@ -166,6 +166,17 @@ related:
         width: 980
         height: 597
         isCached: true
+  - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
+    excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"
+    publishedDateTime: 2021-03-03T15:18:00Z
+    webUrl: "https://www.zdnet.com/article/vmware-offers-sd-wan-integration-with-microsoft-azure-virtual-wan-hub/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/vmware-offers-sd-wan-integration-with-microsoft-azure-virtual-wan-hub/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/vmware-offers-sd-wan-integration-with-microsoft-azure-virtual-wan-hub/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 94
   - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
     excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
     publishedDateTime: 2021-03-02T16:48:00Z
@@ -516,6 +527,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
         width: 1242
         height: 641
+        isCached: true
+  - title: "Microsoft adds new cloud instances and security features to Azure"
+    excerpt: "Microsoft Corp. today added a family of memory-optimized instances to its Azure public cloud, along with new features designed to help customers manage and secure their environments. The additions were announced at the company’s virtual Ignite event."
+    publishedDateTime: 2021-03-03T13:11:00Z
+    webUrl: "https://siliconangle.com/2021/03/03/microsoft-adds-new-cloud-instances-security-features-azure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft-iot.png"
+        width: 859
+        height: 484
         isCached: true
   - title: "Microsoft and Docker collaborate on new ways to deploy containers on Azure"
     excerpt: "Now more than ever, developers need agility to meet rapidly increasing demands from customers. Containerization is one key way to increase agility. Containerized applications are built in a more consistent and repeatable way, by way of defining desired infrastructure, dependencies, and configuration"
