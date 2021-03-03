@@ -118,6 +118,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
+    excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
+    ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
+        width: 1200
+        height: 422
+        isCached: true
   - title: "Azure Percept in public preview"
     excerpt: "Announcing preview of Microsoft Azure Percept, a comprehensive, easy-to-use platform with added security for creating edge artificial intelligence (AI) solutions."
     publishedDateTime: 2021-03-02T17:00:22Z

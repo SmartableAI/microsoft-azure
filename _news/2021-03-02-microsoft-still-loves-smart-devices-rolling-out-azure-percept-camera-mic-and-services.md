@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Microsoft Mesh brings mixed-reality apps to Azure"
-excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
-publishedDateTime: 2021-03-02T20:37:00Z
-originalUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
-webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
-ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
+excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
+publishedDateTime: 2021-03-02T14:00:00Z
+originalUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
+webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
+ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
 type: article
-quality: 97
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
+  name: PC World
+  domain: pcworld.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/pcworld.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
+  - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
     width: 1200
-    height: 800
+    height: 422
     isCached: true
 
 related:
@@ -110,21 +110,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
-    excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
-    publishedDateTime: 2021-03-02T14:00:00Z
-    webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
-    ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+  - title: "Microsoft Mesh brings mixed-reality apps to Azure"
+    excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
+    publishedDateTime: 2021-03-02T20:37:00Z
+    webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 89
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
     images:
-      - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
+      - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
         width: 1200
-        height: 422
+        height: 800
         isCached: true
   - title: "Azure Percept in public preview"
     excerpt: "Announcing preview of Microsoft Azure Percept, a comprehensive, easy-to-use platform with added security for creating edge artificial intelligence (AI) solutions."
@@ -507,6 +507,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "EQwUtzxLYmRE319TFzzpU0ZCRmoQmqnUHsJaA6FpgflkFalJS6ryCWRg7dk88yYNNK0Qu80nfotI7+oXPYervDOj91cM1z13OcWwacTJQAqdEi9/DDITu4+51J1OxxR8PjSKYhdLYlE1+p6+H0DDMXU23aj7JdsbOgtozFw1+cfMJ9Wp26qffndB4PR/vj4JGGGSFr0vYwkTI/vqaZfugrNndvEo6f2T+tL6NSTYZJ5s4IRbFdKY6m1uNIboLqkOTkA48Su5bIB/KlfXXaZ/FinHHmerJ4aYvi3hmyBCF/eCW+nNlwlfvqLWOmVOPQ53n6kqHvwcsBaNyN4quiNRch0IbOIsAOMWz9tQV4N1SJU=;zvINuy15PFRqjZiekgo81A=="
+secured: "FiTpA/e3wX6Dzf03ozildBbLcyr9yTmylNNXV3if9v4ijYe3kThUSAGFZH/I9WgEQDpMQjSXh908ZeuDpIwiiuLj4AH4lLe2uJvjqZxCpSAi3+7jHKwc8YYcJDJ9rP9im2EnMNBSJOUPRdtABjxwlT6uU3us0lOZKZpKB4dw4R9aRExa7ZGdYIt9LqLtotOqMtXgdfygK8FLi/Irfps6pRR/e9YP3GLcFYLXaTyPWUrtGDL+CDWb0d16x2PPeYWwU+jNP50CNnaVNMKf2qNB5F1SCt8S/MjHuWqqfKnby60552eJ/XMikfMlTgl8cZWpoY8feHQQ8JwzCbTkE8Az+0J6XW9oelr15Tgn1Gnlaig=;bYIBwTCYmlsJtVcmKYaobg=="
 ---
 
