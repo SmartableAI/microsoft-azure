@@ -142,6 +142,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Save 97% on this Microsoft Azure certification prep bundle"
+    excerpt: "TL;DR: The Complete 2021 Microsoft Azure Certification Prep Bundle is on sale for £27.52 as of Feb. 27, saving you 97% on list price. In the world of streaming services, it's Hulu versus Netflix."
+    publishedDateTime: 2021-02-27T05:31:00Z
+    webUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification/"
+    ampWebUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 97
+    images:
+      - url: "https://mondrian.mashable.com/2021%252F02%252F27%252F37%252F34d22d34d76c4fdebd70dacf8afe579a.14c2e.jpg%252F1200x630.jpg?signature=f8x70IAL-UlXzvdvnIaNAK_3ul4="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
     publishedDateTime: 2020-09-22T15:00:00Z

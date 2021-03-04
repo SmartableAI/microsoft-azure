@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure expands its NoSQL portfolio with Managed Instances for Apache Cassandra"
-excerpt: "At its Ignite conference today, Microsoft announced the launch of Azure Managed Instance for Apache Cassandra, its latest NoSQL database offering and a competitor to Cassandra-centric companies like Datastax."
-publishedDateTime: 2021-03-02T14:01:00Z
-originalUrl: "https://techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/"
-webUrl: "https://techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/"
-ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/amp/"
+title: "Save 97% on this Microsoft Azure certification prep bundle"
+excerpt: "TL;DR: The Complete 2021 Microsoft Azure Certification Prep Bundle is on sale for £27.52 as of Feb. 27, saving you 97% on list price. In the world of streaming services, it's Hulu versus Netflix."
+publishedDateTime: 2021-02-27T05:31:00Z
+originalUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification/"
+webUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification/"
+ampWebUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
 type: article
-quality: 89
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-952061110.jpg?w=1024"
-    width: 1024
-    height: 697
+  - url: "https://mondrian.mashable.com/2021%252F02%252F27%252F37%252F34d22d34d76c4fdebd70dacf8afe579a.14c2e.jpg%252F1200x630.jpg?signature=f8x70IAL-UlXzvdvnIaNAK_3ul4="
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -142,22 +138,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Save 97% on this Microsoft Azure certification prep bundle"
-    excerpt: "TL;DR: The Complete 2021 Microsoft Azure Certification Prep Bundle is on sale for £27.52 as of Feb. 27, saving you 97% on list price. In the world of streaming services, it's Hulu versus Netflix."
-    publishedDateTime: 2021-02-27T05:31:00Z
-    webUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification/"
-    ampWebUrl: "https://mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-27-microsoft-azure-certification.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://mondrian.mashable.com/2021%252F02%252F27%252F37%252F34d22d34d76c4fdebd70dacf8afe579a.14c2e.jpg%252F1200x630.jpg?signature=f8x70IAL-UlXzvdvnIaNAK_3ul4="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
     publishedDateTime: 2021-03-02T20:37:00Z
@@ -232,6 +212,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 573
+        isCached: true
+  - title: "Microsoft Azure expands its NoSQL portfolio with Managed Instances for Apache Cassandra"
+    excerpt: "At its Ignite conference today, Microsoft announced the launch of Azure Managed Instance for Apache Cassandra, its latest NoSQL database offering and a competitor to Cassandra-centric companies like Datastax."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-azure-expands-its-nosql-portfolio-with-managed-instances-for-apache-cassandra/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-952061110.jpg?w=1024"
+        width: 1024
+        height: 697
         isCached: true
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
@@ -1274,6 +1270,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "OFhIYsKcBp6d6DO9fLxZrSwl7ov1pNqGFwvCc2QDTwCuLcCyh6rWSdFOLgstaI6G+ohKsxDcgBMXV0oVsVbLjIlozeWERTj9Zz+oBOqmew04PegNVlyVsKKE0ZRTQxXby/QmW+chVPwjbhL0xDR3rH0qEUUyEExms2CqnKcUFBAnxB9QEHXqgxWtk7Q/GDxAYRD+/sT9ROXSpRArIJY6CZqf8aWZMoty0+tUjDqD6ZmuvHJvhffawDWMKlUe0DY/yuL84hskEaIOyR50AvrgvuFBdUu0GNOAmATE8xNjRcJBZaq5PouwK0VaOdzobsp6HzXWQFcfYCm0HMdcpOh/+2/gYsm4psrqGr2NNhI9v/tmTYc38us3Nq9y2sb0pqnhbSEzE8Fzz8uqnY+14Qs39711MJEkpeQx2Q6Hm6DILsAaNuPXzMAqQKrglywCNAz9ZMlYlAsi3WTDCl0PMcqdi9sBzVeaZeBliKz89NuwHdEhoH8ZgMTqz+VZrfSD6KajEzO1WueDvDy2Exl+irPdWg==;uQraPy9vwPFWBjEjvx6RKg=="
+secured: "XqXtTNfNRwD7m/SaYsjhLmmK04Ngwf7D/jbBr5kPdePmBBkHbZEucBv749VYmktejCP5WBCK5+81TL/MQ8vN0QJSyZv2E1MKyDO4Up9BVUpW3zGcrMD9yFcPTLenJ/gflKvYBRjVueMB/3AdfQZb2E79gYRNqmxeqrtfyk1rYQCqd044zJa4ZMyUH5C39kz8fC06gJKTqFMSRseroebOrA7+c2fD0tTxyZJKAa7PexKK2eOCumKfzP3o4xejq00GB6D5aIqwevJ0mTA/kNIP6JSCsl6e7usxq68msqDI7PVIlXRAlyFX2ayJA0LfYgyQKKEBKVFJXhU2paK61DzmqiwiRVzHazvc0AKuapZb4GY=;QS20UX5jnpmX3OcExrYuKQ=="
 ---
 
