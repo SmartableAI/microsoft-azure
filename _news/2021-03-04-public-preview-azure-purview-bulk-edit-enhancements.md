@@ -1,12 +1,12 @@
 ---
 category: news
-title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
-excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
-publishedDateTime: 2021-03-03T17:00:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
+title: "Public preview: Azure Purview Bulk Edit enhancements"
+excerpt: "Azure Purview's bulk editing capability for data assets now supports classifications and contacts along with glossary terms."
+publishedDateTime: 2021-03-04T20:48:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-bulk-edit-enhancements/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-bulk-edit-enhancements/"
 type: article
-quality: 79
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Compute
 
 related:
   - title: "Advance notifications for Azure SQL Database now in public preview"
@@ -68,6 +67,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New orchestration mode for Azure Virtual Machine Scale Sets now in public preview"
+    excerpt: "Increase the availability at scale of business-critical applications with new Azure Virtual Machine Scale Sets features. Simplify workload deployment, management, and scalability with Virtual Machine Scale Sets flexible orchestration mode, now in public preview."
+    publishedDateTime: 2021-03-03T17:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-orchestration-mode-for-azure-virtual-machine-scale-sets-now-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "Public preview: Planned maintenance windows in AKS"
     excerpt: "Minimize interruptions by specifying planned maintenance windows for your clusters in AKS."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -108,15 +116,6 @@ related:
     excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
     publishedDateTime: 2021-03-03T17:00:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Purview Bulk Edit enhancements"
-    excerpt: "Azure Purview's bulk editing capability for data assets now supports classifications and contacts along with glossary terms."
-    publishedDateTime: 2021-03-04T20:48:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-bulk-edit-enhancements/"
     type: article
     provider:
       name: Microsoft
@@ -186,6 +185,6 @@ related:
       domain: microsoft.com
     quality: 44
 
-secured: "wclJi5obHrNoAyBq9MxH5w2Hv444eYpr/Ae5+jZ6Hns7rWL6zsoQ6+zQ/d7b+4NdX03r/zDLxtsdYXy7mwRJT48k9GusDAMUAxKGDM3DcZK2Jn5sJ4pf3X4JsZ3zFMKDfowgsi7K29aTH1t5UIl8O7XhA0xC69Ldx51KXFFuc00J74dNw4xZvVB1g/UXaK6A0y9IsOk4b7lVS6wT7Ro9eBlhQKIbCs6jvR11F2j9ON4sKSrJuU/KjW66Gss5SpjgOX/WKR+DnJmdThtMds6kv9/oxpqCFwI66/uxsXM+vcMpIqqiSkqMKmXvbdtgGfvxVH4iojJi4j0O+BFoqZalDHd9qMLszZMdy6dRFi1yQsw=;GYv0+tlKlz2LTz7/BXjO7Q=="
+secured: "YyXpNxPjGAraaRxTO/spVo6Ab9+XRVUdtSXhbNLo8p4vlE/S6CuCv706TEH/17+47DOZGdkK9+gM1QMnOeH3hvfClb8uoDxa9NL2o0o6oM7c/lYoXNkSyjWP5mV4U7cuyesZskMFmiGWsHQ8QFZ8pYrgSQSKe5bEB7z81bUrW5ktFjiPHIweC5UxOr2SUUlcOA/LvGv5O3c27NiIjgY9eBPS+gxZYHUZaWRg2PVbIfPGbe1lDaju57IKnsW/ToHcc93Hm0Yo818s8/7A1pAxSFRixGairqDTJ2moMjilnlgCGrBMo1GqlX8X0gBtfffhS+GNoZpFN4W0J1ll9u6+f7vQHVLJNRkAgU0PMPSeKEo=;MfCGLJAJsCPdMQRSWPQaaQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/"
 type: article
 quality: 114
-heat: 454
+heat: 474
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
     excerpt: "You can now customize how Azure Purview Data Catalog assets are grouped into resource sets and are named as well. "
     publishedDateTime: 2021-03-03T17:00:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-resource-set-configuration-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Azure Purview Bulk Edit enhancements"
+    excerpt: "Azure Purview's bulk editing capability for data assets now supports classifications and contacts along with glossary terms."
+    publishedDateTime: 2021-03-04T20:48:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-bulk-edit-enhancements/"
     type: article
     provider:
       name: Microsoft

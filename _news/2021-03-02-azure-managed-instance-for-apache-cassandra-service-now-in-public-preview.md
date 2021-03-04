@@ -121,6 +121,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Purview Bulk Edit enhancements"
+    excerpt: "Azure Purview's bulk editing capability for data assets now supports classifications and contacts along with glossary terms."
+    publishedDateTime: 2021-03-04T20:48:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-bulk-edit-enhancements/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Public preview: Scan and classify Amazon AWS S3 data using Azure Purview"
     excerpt: "Extend your Azure Purview Data Map to include multicloud data sources - Azure and Amazon AWS with this feature, now in public preview. "
     publishedDateTime: 2021-03-02T17:00:20Z

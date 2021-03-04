@@ -103,6 +103,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.02 is now available "
+    excerpt: "The 21.02 release includes new features in the Azure Sphere CLI v2 and promotion from Beta to release."
+    publishedDateTime: 2021-03-04T21:03:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2102-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z

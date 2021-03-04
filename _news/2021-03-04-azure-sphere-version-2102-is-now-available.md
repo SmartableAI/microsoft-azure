@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere version 21.01 is now available"
-excerpt: "This release includes new memory and current control functions as well as new features in the SDK."
-publishedDateTime: 2021-01-28T23:36:55Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2101-is-now-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2101-is-now-available/"
+title: "Azure Sphere version 21.02 is now available "
+excerpt: "The 21.02 release includes new features in the Azure Sphere CLI v2 and promotion from Beta to release."
+publishedDateTime: 2021-03-04T21:03:24Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2102-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2102-is-now-available/"
 type: article
 quality: 67
 heat: -1
@@ -85,6 +85,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere version 21.01 is now available"
+    excerpt: "This release includes new memory and current control functions as well as new features in the SDK."
+    publishedDateTime: 2021-01-28T23:36:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2101-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere OS version 21.02 is now available for evaluation"
     excerpt: "This Azure Sphere quality update of the OS includes bug fixes as well as recent CVE mitigations. "
     publishedDateTime: 2021-02-18T21:50:10Z
@@ -98,15 +107,6 @@ related:
     excerpt: "This update to the evaluation release of 21.02 includes a security fix. "
     publishedDateTime: 2021-03-01T23:29:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2102-update-1-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Sphere version 21.02 is now available "
-    excerpt: "The 21.02 release includes new features in the Azure Sphere CLI v2 and promotion from Beta to release."
-    publishedDateTime: 2021-03-04T21:03:24Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2102-is-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -131,6 +131,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "puCWjTH1FzNQqDanYZEn9sCYKkHupXwKtWJBNLkSMRsLijdQFR07/62LvpI7ilo4dCzSuJNXXNV0r1/syoaDgCUrQO4XnHGitG6WIdTRXubmQbOsPx4fszMtBnB3NhSQLpdb3B3id4LWfBipSywd5ZE+FMr+00AT9V8TLnQ+Lr2ADIYRzyFVrJC89MR0axRCIDZzg+nUdzGFD6cg3UPlsINXjKzSkHIge1L+ZbAseuFMgcdCM2tJQkosqWBePD7X/LeYxFPgBmHp1Me7So4ShKnE3fiTWqGaKAg+YPw99gpfhccE8Cv6pspYGy3MHmixAemUU22sgOOfZYzN3vhddnTSIK+pQQtMGuZXizq7p4I=;Mg8RW8R+spmfDg8RTBZDuA=="
+secured: "0JXdNs8Um0XfRptS3Wnb1xxDPeoN9XL+2pkDtq/wYmOgDmlCWB6GlZz/nEboitL69+iAlyaSiCJf2NjLxY5z1NuXrH229UXWTVzuSeCiQ6uGLuZuqtFU4WeOSnncbB6lYNqbNY5j2wGCEiERUu4uldjq8FxlB5YKlcNOfvcpuHo369hNJblp1NBmkxObqBb89dMr1+Lkg+7rtwOQ6xUGwaeEvrcEoMH2A8wcxdGgGB7Cp1POub0WUl//temCEY7Ybjl8qKp/jwp7t+NMH5lFZq3eQTurcyMvEMtfdcv526PaFsjn6h+yD3aLgMCz5FvbDnX3No7vAKCXW1vPjSv/kh72QmtjXkHyujsbPE8SeqI=;sx1HdAi1u6n+ESmaLxQ3gA=="
 ---
 

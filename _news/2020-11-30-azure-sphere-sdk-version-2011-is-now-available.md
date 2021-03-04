@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2011-is-now-available/"
 type: article
 quality: 84
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
     excerpt: "This update to the evaluation release of 21.02 includes a security fix. "
     publishedDateTime: 2021-03-01T23:29:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2102-update-1-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere version 21.02 is now available "
+    excerpt: "The 21.02 release includes new features in the Azure Sphere CLI v2 and promotion from Beta to release."
+    publishedDateTime: 2021-03-04T21:03:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2102-is-now-available/"
     type: article
     provider:
       name: Microsoft
