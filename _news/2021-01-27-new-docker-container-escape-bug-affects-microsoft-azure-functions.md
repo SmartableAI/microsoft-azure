@@ -1036,18 +1036,18 @@ related:
         height: 1293
         isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
-    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
-    publishedDateTime: 2021-03-01T08:24:00Z
-    webUrl: "https://www.cxotoday.com/press-release/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
+    excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
+    publishedDateTime: 2021-03-01T08:43:00Z
+    webUrl: "https://news.microsoft.com/en-in/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 33
     images:
-      - url: "https://www.cxotoday.com/ashojoac/2018/09/azure-logo.jpeg"
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/03/telehealth-stock-image-768x512.jpg"
         width: 768
-        height: 432
+        height: 512
         isCached: true
   - title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
     excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
@@ -1102,19 +1102,19 @@ related:
         width: 768
         height: 416
         isCached: true
-  - title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
-    excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
-    publishedDateTime: 2021-03-02T16:45:00Z
-    webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
+  - title: "IOTech collaborates with Microsoft to enable Edge XRT to support Microsoft Azure Sphere"
+    excerpt: "Edinburgh, UK (March 2, 2021) – IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere. Designed and optimized for resource-constrained environments ..."
+    publishedDateTime: 2021-03-02T16:24:00Z
+    webUrl: "https://www.eejournal.com/industry_news/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
+      name: Electronic Engineering Journal
+      domain: eejournal.com
     quality: 29
     images:
-      - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Microsoft Updates Azure Stack Hub with New Management Features, Container Support and More"
     excerpt: "During this year's digital Build conference, Microsoft announced several new incremental updates to its private and hybrid computing offering Azure Stack Hub. The public cloud vendor will add various significant features on Azure Stack Hub in private previews such as an Azure Kubernetes Service (AKS) Resource Provider,"

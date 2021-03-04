@@ -1,26 +1,26 @@
 ---
 category: news
-title: "IOTech Collaborates with Microsoft to Enable Edge XRT to Support Microsoft Azure Sphere"
-excerpt: "IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
-publishedDateTime: 2021-03-02T16:45:00Z
-originalUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
-webUrl: "https://www.automation.com/en-us/products/march-2021/iotech-microsoft-edge-xrt-support-microsoft-azure"
+title: "IOTech collaborates with Microsoft to enable Edge XRT to support Microsoft Azure Sphere"
+excerpt: "Edinburgh, UK (March 2, 2021) – IOTech, the edge software company, today announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere. Designed and optimized for resource-constrained environments ..."
+publishedDateTime: 2021-03-02T16:24:00Z
+originalUrl: "https://www.eejournal.com/industry_news/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere/"
+webUrl: "https://www.eejournal.com/industry_news/iotech-collaborates-with-microsoft-to-enable-edge-xrt-to-support-microsoft-azure-sphere/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.automation.com/getmedia/9793150c-ba0e-4237-9497-1fe125da817f/Edge-intelligence-prod-March-2-2021-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -1049,18 +1049,18 @@ related:
         height: 1293
         isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
-    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
-    publishedDateTime: 2021-03-01T08:24:00Z
-    webUrl: "https://www.cxotoday.com/press-release/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
+    excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
+    publishedDateTime: 2021-03-01T08:43:00Z
+    webUrl: "https://news.microsoft.com/en-in/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
+      name: Microsoft
+      domain: microsoft.com
     quality: 33
     images:
-      - url: "https://www.cxotoday.com/ashojoac/2018/09/azure-logo.jpeg"
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/03/telehealth-stock-image-768x512.jpg"
         width: 768
-        height: 432
+        height: 512
         isCached: true
   - title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
     excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
@@ -1270,6 +1270,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "gRKlRbXOUiHpH0b7FLyeI3V4NQvcde3t5RnQYOyzcU3HnAAVnoADHOQS74vmGzGwulawPz7Kt1yXK2tBSHQJ12TNE7iCuwgHr9SDro74RNXOPl2kyGtFJPQJ4L8qjSn12t9ZfYHuROT1G8JAYrDfDbZdNPhmYMYrC9P8j9Lwv9UZaVAgKMSRyq9glH9wr2bWA3t1SD8guBA1CNx/Pap9TQVpTA8L0E19+w+usVSXNaHmhrVfvHu+32sGwmPaHhwZ5zfN83EDGnt9IoKI1a3lzgMBT6Ovc1/5Ns3JHMnz/qy31J/R3MZJTmUJ6A2QSYUNPzJq0lCXzss+xG54MjVk1Mj94S1/en75YBb6P9HjZqk=;w84LYR4DxwWrQG7Dfg4N0A=="
+secured: "aHJfrL8Im3ONszXpGMReMaggNsNTnUqb5w9MKnYw+9lzNbK1FixqPlPEnR5i1n3f/SVHLtP+fElMyb9XLcKfNyPVWLCM/I2+iUBtZ+pkTRGN/WAOr7NR/P2+VXSBwUR918ap95YTbaMTV7EFY64v+5ZEu3GqAe2p3j+3HdqGiCnWXMYiS1o4jq+GF94q1HwjfrphfcO+hhhPPQTvUeOnP5Ca6Wh5Hx3a5toIIjDCNxNZIjV2sMs/s2yMNM6Kgo7+WYRmSIR5QdKLf5QWjqx0oCm7ZFo8p2V+cv0pmeeQ0fRpn9bmJDwcXvOtjZ/cEHCo25/p3I1rmy2din7M5Wl4EP/wSH6vWxCmZnL6Gvl/FUg=;i7MjHdPtD2bc7aWaNTbp1w=="
 ---
 
