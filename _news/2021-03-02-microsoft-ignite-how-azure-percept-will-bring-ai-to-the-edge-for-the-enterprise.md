@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise"
 excerpt: "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,"
 publishedDateTime: 2021-03-02T15:00:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+originalUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+webUrl: "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
 type: article
 quality: 109
 heat: 129
@@ -46,6 +46,6 @@ related:
         height: 844
         isCached: true
 
-secured: "SyKpbTOdVzmcYLDBkYaZGj5X+Z5g/n+TpqNPYXHK37nSqPHyGvETFp/0AdaHUk/79CCirRmV8NH9ZGW4Lc1cQKlWL7W1VHZ/YEui50ojKv09PmvM4wA1mkHoLDKStUUOpzNwIhOSwIwUA0mKbmUfitXOTkRbKnTPbY5NLPlkQF0QhqWzh1wtE1MPyPzjInC1M8OFsfwjegM5cWnDngDl00o/Hxu+p3AdWJenKbCLq6ESJuw5fj/BCrAxYfutJ5c/hGnBg/Eptm5+mEIdTcFI1eNWVL6ysoUVi2iE6p5nF+M4AcTup/T49IbKaS/pFcL0iEIZR1YHPOm3uLFWxrnVOa1X0QSwmNUUOjGvl6ZSGo4=;HsV4PtNfumHJhG3Wdilsew=="
+secured: "jn1gMW5gy57vo+dXKDAcinf+pqmgP9bhX0huaAk9Mh3wNP74X0Dzy+3yr8IPR3g5VpKMkaeGv3tkaNpLwTSoYRk41tGy7awJ38eZI+epQ9ZmZvxbUTei0fnM4niXC5VagJi6lRK8v1ssOwbxvtdFHGD9CCLAl+32t0cdjxQnFRSFnlMG+iV+Lf3RYvtEu2DEAPE7+No5f1YYmmqCZH8Y3rwi8gjE2rNrq1cbmDIcWf1w8xMikF+Q4V1aprfap1CahSzBYxNuqIbKmXkvaDMnpJiuYGiFl9m/DgSJJXW9xg9XGeIagNsZT3zFEbagkfLrcL5eo24n1vQQtDR4/EBWVQuTXUxZRf+FJb6TUF5IX9s=;p1eDG5xJzZDXT9dJrwrLOw=="
 ---
 

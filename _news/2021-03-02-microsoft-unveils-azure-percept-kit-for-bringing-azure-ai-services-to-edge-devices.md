@@ -3,10 +3,10 @@ category: news
 title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
 excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
 publishedDateTime: 2021-03-02T14:02:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-webUrl: "https://www.zdnet.com/index.php/category/18502/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/18502/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+originalUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
 type: article
 quality: 108
 heat: -1
@@ -1275,6 +1275,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "/nY9VekUk9GyJfEbKoRiU7Qcmrtcdg/nWDg5oe/ctNjYiLKCnJt/HbS+qJWlOQ97BejeAU+U3/D+Czy8Pcl3bdAVscTsxP1s3G273HY1Z0zvRttAuClk54dxYMEu4bwpIChzPK7TxSe2DabT7yyEbSWVzJo2eGjed0NcJ8zUhlRKjyN3k960/l6GiEEqSmtZ53oU8r+DlL+8abD8uKX4zgyzTbm09L9l4B/zfCcAAuQpUJDb8FQCnKq4yfw6CizN2IBZuthvXsqu7FzINsFFAkzntPLf9Xosm4bSoj6hCbfKnA8LX0mXp5wcnvpGabvwXJEtL2muGbbMKWNKgNzPWpD3SekboW8hCbUv7NOiJU0=;o8JH77MKOVm7Uf2XNKJYfA=="
+secured: "/UKjftiCDyDPq11Ja5OQPnQMntTINk0hViO+IkmERuYXzKG6wVUjtTQuw9wtoyxVH+SghdDcokHiub1pZyZBeo2bNMVToXqMuG+zxyWUCG8XsvET/7Ma/MVHkpKAZ8Y08zc4m5QqtEH8bNzotjQtyU6k3IJtnqq7FDjhpupyIhHxBUzD2z4lvetINibGhDOisBL4a1fJFo8f5vXaN4QvP9xLRlohOffnUqDPPNasFenfNdZBAQgUVFy2Rk94bpxcpMTgcTh7knA49h5IJ1C5RiBvqQXxMe/vB/Zjcu//h0/D83PGhsciDy+x0OWYOELOrdndD90CZt7c+/H5JB2eTfdtsnQkiNia570pTBCWLTw=;t+aKo4isA25NfsfSStVJ0w=="
 ---
 
