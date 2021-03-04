@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Conditional Access feature integration with AKS"
-excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
-publishedDateTime: 2021-03-02T17:00:07Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
+title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
+excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
+publishedDateTime: 2021-03-04T20:09:25Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
 type: article
-quality: 86
+quality: 75
 heat: -1
 published: false
 
@@ -20,8 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Containers
-  - Integration
+  - Networking
 
 related:
   - title: "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images"
@@ -66,6 +65,15 @@ related:
         width: 798
         height: 449
         isCached: true
+  - title: "General availability: Conditional Access feature integration with AKS"
+    excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
+    publishedDateTime: 2021-03-02T17:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-conditional-access-feature-integration-with-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z
@@ -102,15 +110,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
-    excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
-    publishedDateTime: 2021-03-04T20:09:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "General availability: App Gateway ingress controller add-on for AKS"
     excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
     publishedDateTime: 2021-03-02T17:00:09Z
@@ -166,6 +165,6 @@ related:
       domain: microsoft.com
     quality: 67
 
-secured: "bziqTQW90iCQyCBgBHC8JloXuwFLHm93PGkHu3XNqMPVM3vfDHbEbd1QRwonn18p0LGaCGlv0zuquJ5yHFRjDyu5RPdvKNjkILtGD88WlurovOsGSW8YSm0YEnMe+2I17JmT+n87OBFmHcBoY6FfvwFSSPKWOEtEhx0NHsC3jKnFInR1rI5FHaRlOKGFdA/DY6OEQfkFApUWPLcozgDHwLhrZmNVJzjVpXa0WcdcTKBo3NN/oRETEpFHh/hE5fUiLwV5YMVybwUYjOaMxXkhQ9BwjMGh2KT09/+KD1lt16MsF0nKEAuFWGY8RflsmzhpFFJiCXkSR6ouyPM0bqiJSy8eMzqiyrsWA9kBXmC3Ov4=;PL2YlOoQMHrpJcScnl6xbg=="
+secured: "yesVVcoaa1JPxijC80piO9tamTLb6z/QnQcNASbIgLe6nbEDqwr1oaYLnK96vSF5Hv+OeMX9p/AeZsTmgeBVzfm1d/bp9ICUqDLNnLlXuRW3wAdigh//jiJKexnw0XL9iam4Y4ZOFeobrzzMpVDonudRBv+aUb71QmoG6+HJcBQJD+4G/zxL9l/Cj2+3UwqDqs0/W3u0/WL87ZmrQB8FxJsxbrN3qm8q2Qz4Q83j2inzO5SESJm6a67AXbMIbEDUwH/S31Vm2/Nl2Gv5h5PgNRE+6KFAhUM3Ws5Y/UyjtdDx9g9qNA79z8ZWchEE2v0Kz7gYj3rbFcTFgBb9iszXOYlpRkGznDwnxX4COu+TWeU=;ooZ7q7SY0rdmOTnT5p9axA=="
 ---
 

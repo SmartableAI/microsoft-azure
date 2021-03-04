@@ -109,6 +109,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
+    excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
+    publishedDateTime: 2021-03-04T20:09:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "General availability: App Gateway ingress controller add-on for AKS"
     excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
     publishedDateTime: 2021-03-02T17:00:09Z
