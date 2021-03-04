@@ -4,6 +4,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-read-text-computer-vision.md",
+      "title": "Read text with the Computer Vision service",
+      "excerpt": "Optical character recognition (OCR) enables artificial intelligence (AI) systems to read text in images, enabling applications to extract information from photographs, scanned documents, and other sources of digitized text.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-read-text-computer-vision/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 611,
+        "average": 4.7757773
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/read-text-computer-vision-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
       "title": "Align requirements with cloud types and service models in Azure",
       "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6773,
-        "average": 4.743098
+        "count": 6774,
+        "average": 4.7431355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5671,
-        "average": 4.629695
+        "count": 5672,
+        "average": 4.6297603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -512,8 +555,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4202,
-        "average": 4.7182293
+        "count": 4204,
+        "average": 4.718126
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +804,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 44,
-        "average": 4.840909
+        "count": 45,
+        "average": 4.8444443
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1027,8 +1070,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 5282,
-            "average": 4.6929193
+            "count": 5284,
+            "average": 4.6928463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1156,8 +1199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 152,
-            "average": 4.7960525
+            "count": 153,
+            "average": 4.7973857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 152,
-            "average": 4.7960525
+            "count": 153,
+            "average": 4.7973857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1391,8 +1434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 1488,
-        "average": 4.6801076
+        "count": 1490,
+        "average": 4.6805367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1434,8 +1477,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
       "length": "PT32M",
       "ratings": {
-        "count": 69,
-        "average": 4.8405795
+        "count": 71,
+        "average": 4.8450704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1467,48 +1510,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
-      "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
-      "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 5379,
-        "average": 4.718721
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

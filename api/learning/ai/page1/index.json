@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 33554,
-            "average": 4.784437
+            "count": 33587,
+            "average": 4.78447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7328,
-            "average": 4.7198415
+            "count": 7336,
+            "average": 4.720147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6374,
-            "average": 4.7580795
+            "count": 6378,
+            "average": 4.7582316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5035,
-            "average": 4.7561073
+            "count": 5039,
+            "average": 4.7561026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,15 +229,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-synthesize-text-input-speech.md",
-      "title": "Synthesize Text Input to Speech",
-      "excerpt": "Learn how to synthesize text to speech using the Speech-to-Text service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-synthesize-text-input-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/synthesize-text-input-speech/",
-      "length": "PT18M",
+      "path": "_learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning.md",
+      "title": "Deploy batch inference pipelines with Azure Machine Learning",
+      "excerpt": "Machine learning models are often used to generate predictions from large numbers of observations in a batch process. To accomplish this, you can use Azure Machine Learning to publish a batch inference pipeline.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-batch-inference-pipelines-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
+      "length": "PT44M",
       "ratings": {
-        "count": 372,
-        "average": 4.6344085
+        "count": 354,
+        "average": 4.680791
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,10 +254,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 135,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/synthesize-text-input-speech-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-batch-inference-pipelines-with-azure-machine-learning-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -268,6 +268,51 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 109,
+        "average": 4.550459
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "AI"
       ]
     },
@@ -279,8 +324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7328,
-        "average": 4.7198415
+        "count": 7336,
+        "average": 4.720147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +393,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 33554,
-            "average": 4.784437
+            "count": 33587,
+            "average": 4.78447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 4799,
-            "average": 4.776203
+            "count": 4804,
+            "average": 4.776228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 3714,
-            "average": 4.7167473
+            "count": 3715,
+            "average": 4.7168236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -476,8 +521,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 3280,
-            "average": 4.7564025
+            "count": 3281,
+            "average": 4.756477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -569,8 +614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 8264,
-            "average": 4.7665777
+            "count": 8265,
+            "average": 4.7666063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -631,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 8264,
-        "average": 4.7665777
+        "count": 8265,
+        "average": 4.7666063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -674,8 +719,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 4799,
-        "average": 4.776203
+        "count": 4804,
+        "average": 4.776228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -826,8 +871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 700,
-            "average": 4.75
+            "count": 701,
+            "average": 4.74893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1687,8 +1732,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 700,
-        "average": 4.75
+        "count": 701,
+        "average": 4.74893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3165,8 +3210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot/",
           "length": "PT31M",
           "ratings": {
-            "count": 514,
-            "average": 4.6984434
+            "count": 515,
+            "average": 4.699029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3208,8 +3253,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1598,
-            "average": 4.6639547
+            "count": 1600,
+            "average": 4.664375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4021,49 +4066,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-analyze-faces.md",
-      "title": "Detect and analyze faces with the Face service",
-      "excerpt": "Face detection, analysis, and recognition is an important capability for artificial intelligence (AI) solutions. The Face cognitive service in Azure makes it easy integrate these capabilities into your applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-analyze-faces/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 671,
-        "average": 4.7555885
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-analyze-faces-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
