@@ -63,6 +63,15 @@ related:
         width: 798
         height: 449
         isCached: true
+  - title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
+    excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
+    publishedDateTime: 2021-03-05T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azmon-livelogs-pods/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "General availability: Conditional Access feature integration with AKS"
     excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
     publishedDateTime: 2021-03-02T17:00:07Z

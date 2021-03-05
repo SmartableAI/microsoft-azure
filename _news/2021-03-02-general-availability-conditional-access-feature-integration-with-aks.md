@@ -66,6 +66,15 @@ related:
         width: 798
         height: 449
         isCached: true
+  - title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
+    excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
+    publishedDateTime: 2021-03-05T21:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azmon-livelogs-pods/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "General Availability: Azure Spot on Azure Kubernetes Service"
     excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
     publishedDateTime: 2020-10-28T16:00:28Z

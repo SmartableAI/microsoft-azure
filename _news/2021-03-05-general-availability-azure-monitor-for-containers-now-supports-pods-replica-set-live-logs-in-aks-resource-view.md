@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Just-In-Time Access support in AKS "
-excerpt: "Improve security by implementing Just-In-Time (JIT) access rules for tasks that require elevated permissions."
-publishedDateTime: 2021-03-02T17:00:09Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
+title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
+excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
+publishedDateTime: 2021-03-05T21:00:08Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azmon-livelogs-pods/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azmon-livelogs-pods/"
 type: article
-quality: 69
+quality: 95
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Containers
+  - DevOps
 
 related:
   - title: "General availability: Deploy WebLogic on Azure Kubernetes Service (AKS) using custom Docker images"
@@ -65,15 +66,6 @@ related:
         width: 798
         height: 449
         isCached: true
-  - title: "General availability: Azure monitor for containers now supports Pods & Replica set live logs in AKS resource view"
-    excerpt: "View live logs of your pods & replica-sets in Azure Kubernetes Service(AKS) resource view. Filter, search, and troubleshoot your pods and replica-sets."
-    publishedDateTime: 2021-03-05T21:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azmon-livelogs-pods/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 95
   - title: "General availability: Conditional Access feature integration with AKS"
     excerpt: "Azure Kubernetes Service(AKS) now supports the Azure Active Directory(AAD) Conditional Access feature."
     publishedDateTime: 2021-03-02T17:00:07Z
@@ -146,6 +138,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Just-In-Time Access support in AKS "
+    excerpt: "Improve security by implementing Just-In-Time (JIT) access rules for tasks that require elevated permissions."
+    publishedDateTime: 2021-03-02T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-justintime-access-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Public IP per node capability in AKS"
     excerpt: "Access AKS nodes directly via a public IP instead of a load balancer."
     publishedDateTime: 2021-03-02T17:00:07Z
@@ -174,6 +175,6 @@ related:
       domain: microsoft.com
     quality: 67
 
-secured: "wMj1H0zvw1iPdtnLptJQXyBr2mV/yMGiV54Op8cqJw5SLr48jppYdA0i9k+w4oIHIvWQuuFmDnPJhGb0jxSX2Yjm99Z4u8XqhTaYgIaiLK9ZmQdMWXYttl3awTMh1RUm8o7vopg4OBfZHzii4mJxrGmeVfMbpr5/mHCzB02DEkrepmyrPkIt1/wMZPiF+sl6HHBkoTs+0We4RilPdqpX+u2CdZ30xvffKtBkIo+iJnoFDvMoWbvgFOHD4aRElXrFBOS0gcMtzIFB2aErK0yO0YM0UXrxkyOwTS0OLoWBUD73UpAJVVk6m8yHtFHXbxwzPz0JHN6zEAGzTLD493qbNtTGkWrJCeEjc4sSMM6Zmyo=;OxBjh/B0BsopjN37bPdbNg=="
+secured: "G4EaqKdpU0PVH+Up7v3XP7EaeayNJLCBTSMdGGgbh3Vq+qoh2Qxf+8E2q81Gm4qR9vrjq/glqXPl22BnRv8NQ48hh+Fp0hev9+pf8HjJMuzzH2uPyLWcvvvkTm5L06VrLihgNA7TqW4jznj253woZGsqgQd6wKeIJkPH+KH8UfNGXKROZacoedq4NRQzH4FD+aqJ8LgRIe0cy5Hbe9asfzZb7XK0WCUS8NW6aI1NsEbxQefEBKi+Y7lAabRMrGkMWrFig+lienXMm+6Oyqt2akuPM1Fg/L4TSkfHcwmyFjOqYAN1pMe+fbUDPjbryuF1rRErTYOTv9WfZ2FVCfw9eMzTyC25kNhXaRLnKBN7EJg=;zY7zTdeHkYc6W9Q5NojjNA=="
 ---
 
