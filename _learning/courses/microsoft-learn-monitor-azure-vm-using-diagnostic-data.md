@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT43M
 ratings:
-  count: 1141
-  average: 4.6783524
+  count: 1142
+  average: 4.678634
 heat: 53
 
 provider:
@@ -24,6 +24,8 @@ levels:
 topics:
   - Azure
   - Compute
+  - DevOps
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png

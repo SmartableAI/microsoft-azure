@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 5831
-  average: 4.7331505
+  count: 5832
+  average: 4.7331963
 heat: 56
 
 provider:
@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - DevOps
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png
