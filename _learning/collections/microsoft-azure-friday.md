@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 108
+heat: 118
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-what-to-use-for-deploying-and-testing-your-applications-in-azure-azure-friday
   - videos/microsoft-troubleshoot-aks-cluster-issues-with-aks-diagnostics-and-aks-periscope-azure-friday
   - videos/microsoft-autoscale-applications-on-kubernetes-with-kubernetes-event-driven-autoscaling-keda-azure-friday
   - videos/microsoft-managing-azure-from-your-phone-with-the-azure-mobile-app-azure-friday
@@ -296,7 +297,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/E-XqYb88hUY/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/HxqyEn0A36g/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

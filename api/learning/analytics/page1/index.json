@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
+      "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
+      "title": "Use entity behavior analytics in Azure Sentinel",
+      "excerpt": "Use entity behavior analytics in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
+      "length": "PT27M",
       "ratings": {
-        "count": 103,
-        "average": 4.6019416
+        "count": 13,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,12 +27,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -43,8 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "IoT",
-        "Storage",
+        "Security",
         "Analytics"
       ]
     },
@@ -79,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 34186,
-            "average": 4.7835665
+            "count": 34215,
+            "average": 4.783545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7466,
-            "average": 4.719796
+            "count": 7475,
+            "average": 4.7198663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6493,
-            "average": 4.758201
+            "count": 6496,
+            "average": 4.7581587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -212,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5121,
-            "average": 4.7555165
+            "count": 5127,
+            "average": 4.7558026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -281,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7466,
-        "average": 4.719796
+        "count": 7475,
+        "average": 4.7198663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -351,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4446,
-            "average": 4.751237
+            "count": 4460,
+            "average": 4.750897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2144,
-            "average": 4.6054106
+            "count": 2145,
+            "average": 4.6055946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8877,
-            "average": 4.652923
+            "count": 8878,
+            "average": 4.652962
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -643,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3670,
-            "average": 4.5970025
+            "count": 3672,
+            "average": 4.59695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -680,8 +679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2033,
-            "average": 4.5937037
+            "count": 2034,
+            "average": 4.5939035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -763,8 +762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3670,
-            "average": 4.5970025
+            "count": 3672,
+            "average": 4.59695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -835,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2033,
-            "average": 4.5937037
+            "count": 2034,
+            "average": 4.5939035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -919,8 +918,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2134,
-        "average": 4.8397374
+        "count": 2135,
+        "average": 4.8398128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,8 +984,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7466,
-            "average": 4.719796
+            "count": 7475,
+            "average": 4.7198663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1233,8 +1232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 550,
-            "average": 4.661818
+            "count": 551,
+            "average": 4.6624317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 550,
-            "average": 4.661818
+            "count": 551,
+            "average": 4.6624317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1670,8 +1669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 118,
-            "average": 4.5423727
+            "count": 119,
+            "average": 4.537815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3610,8 +3609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 829,
-            "average": 4.761158
+            "count": 830,
+            "average": 4.761446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3652,8 +3651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 847,
-            "average": 4.700118
+            "count": 848,
+            "average": 4.700472
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3798,8 +3797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3670,
-        "average": 4.5970025
+        "count": 3672,
+        "average": 4.59695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3835,8 +3834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 684,
-        "average": 4.8055553
+        "count": 685,
+        "average": 4.8058395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4083,15 +4082,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-      "title": "Threat detection with Azure Sentinel analytics",
-      "excerpt": "Threat detection with Azure Sentinel analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-      "length": "PT1H10M",
+      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
+      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
+      "length": "PT30M",
       "ratings": {
-        "count": 59,
-        "average": 4.7118645
+        "count": 5,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4111,7 +4110,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
