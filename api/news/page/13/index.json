@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-28-monitoring-azure-arc-enabled-kubernetes-and-servers.md",
+      "title": "Monitoring Azure Arc enabled Kubernetes and servers",
+      "excerpt": "Azure Arc is a preview service that enables users to create and attach Kubernetes clusters both inside and outside of Azure. Azure Arc also enables the user to manage Windows and Linux machines outside of Azure the same way native Azure Virtual Machines are managed.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/",
+      "originalUrl": "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-28T04:00:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Containers"
+      ]
+    },
+    {
       "path": "_news/2020-07-28-eight-ways-to-optimize-costs-on-azure-sql.md",
       "title": "Eight ways to optimize costs on Azure SQL",
       "excerpt": "Across the globe, businesses are emerging into a new normal, eager to restart or rebuild, but still operating in uncertain times. Optimizing costs and redirecting the spend to where it matters most is as important as ever, and many companies see the cloud as a way to control costs, build resilience and",
@@ -1211,59 +1264,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage.md",
-      "title": "Azure Files support and new updates in advanced threat protection for Azure Storage",
-      "excerpt": "A year ago we announced the general availability of advanced threat protection for Azure Storage, to help our customers better protect their data in blob containers from the growing risk of cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/ee329ce4-7204-4fc5-86e0-c004e01b3f19.png",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T03:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Storage"
       ]
     }
   ],
