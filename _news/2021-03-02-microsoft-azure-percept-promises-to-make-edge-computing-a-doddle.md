@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Microsoft Azure Percept promises to make edge computing a doddle"
-excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
-publishedDateTime: 2021-03-02T14:15:00Z
-originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
+publishedDateTime: 2021-03-02T15:00:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-    width: 845
-    height: 475
+  - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+    width: 4800
+    height: 2700
     isCached: true
 
 related:
@@ -1270,6 +1276,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "1WUVwwfpzcKtMblXyySrHRPK9GVIj7G+3Anz6Xhs+H5bVVLmcxe8bRPo42LuIw91kdIPOWYDKYF3/n6rlGyeP5Az+vTv1F0Y4DVqhoU75luDoakTx8XlMFftOy2fGQZHKUT3N7MhKBlQ0ZUThAXfYpdQXddTAei4l+bKGkUaMPSVoKC4nIAa24CLsGFe8l6b4F9TSa1cNuwbHAYUQmn/jYyGE3g3KV+XwDvEvQSzmj8u+gjilspvbV1NTjZQ3c2Ib0xwu0OwDqDTfkq6dHuB1OyFGSNfqnC8OANBvHSy/9sIQni4RaUng0Iu5Ltwl6F3zjx6MKFwIEp2QQtomIFCtZBRUCoLDoFROYPYCJpFSCk=;f/YMbQb3YqteeLncRJUuyQ=="
+secured: "3hGnqE7Qd04r4TIyADdbZHJhEzt3vkp5HvSz65ZofCVv8PgaaVCVDpgRXFlHNDcJOyxphctydGfM6rZAVwPAijz3+WEdqYnMyN+VZPLTT068H8xNrmmW7wl27a/Z1PXpIbq/biVE5UPZn2tbtj25wIKWbtMIKSu2tB0rZ47LoPgya3pj8KAuxgBZXy4Xq0+GLDsvpBYIPjt+H9OkSOlCwOd+WppD1OcfXtvEZDij8kC1u6AYSpgYvJc48YvTb9qtk6UDoTiv20F+FCS86Qp4UKHHj8VTed2nVearZ/kN1g/LYora++jnXl1CNI8kIYUNfy8xmWvQODasTTvzt6jfBW+ELzCNKJMtg5PwP3zI41s=;Ib8LYOB+g4FFSBq0d2hc7g=="
 ---
 
