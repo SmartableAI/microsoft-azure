@@ -438,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
       "length": "PT54M",
       "ratings": {
-        "count": 196,
-        "average": 4.729592
+        "count": 197,
+        "average": 4.7309647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -764,8 +764,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
       "length": "PT50M",
       "ratings": {
-        "count": 400,
-        "average": 4.77
+        "count": 401,
+        "average": 4.7705736
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 266,
-        "average": 4.680451
+        "count": 267,
+        "average": 4.681648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,15 +1215,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-secure-vms-with-security-center.md",
-      "title": "Protect your servers and VMs from brute-force and malware attacks with Azure Security Center",
-      "excerpt": "Stop hackers from getting into your Windows and Linux servers. In this module, you’ll discover how to protect VMs and servers with Azure Security Center",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-vms-with-security-center/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
+      "title": "Secure your Azure SQL Database",
+      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
+      "length": "PT1H7M",
       "ratings": {
-        "count": 1116,
-        "average": 4.6666665
+        "count": 4447,
+        "average": 4.536991
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1241,20 +1241,13 @@
         "Intermediate"
       ],
       "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-vms-with-azure-security-center-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Security"
+        "Management Tools",
+        "Databases"
       ]
     }
   ],
