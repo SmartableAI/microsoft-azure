@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M22S
 publishedDateTime: 2018-08-14T21:02:54Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L9lBH1oXy3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "g3bpKgf1nNFvyY16lVt3RydgKiEtYDNGQcnq6ffEZRFY/qGhDjB6MI+jCPVD4GELqNBXX1uBVJ71TwtPBBO6O2NEFM8+167UAye5lsmJGXoSBOT/3KSMR3XyiHeJR4Yq+6yK3ldw2JV6EE05+nYSlPHm34B8tQxWyOcafXwFjtiFuuZhKfQZESIYO3Up5s5SMyuhMDydp1WrAVsvGYdIM5phy1effmCGBvCVyXQsiNSDUzDfHVMqm1Ib4tCfCKW1tGIYqzkMclxECC7zewW858qVkZuAxu8/79+vNfkLNob2WiLodnZaW7akGwRPkVBexapmnpN8U7mt0ZcAA9TJC7Z9PqF4m/6QivzPNI8Ml+aQ+0Nh/TcvQaOCDReF/AvyXYY45dYZPh8QuWMkTITfEJ+a3OA41okCGSCwniF0CHs=;PGUlFUlWezKnI8FJSMgGog=="
+secured: "ypyzIqPgzOS5oemNLabMorpiTVKmeDogclFc8ZKslzyMAnBFOchFWptll8SBFL7sh4RQd4J5kjwsl+1fGeQrsLx+0TSJeh+ZBRrBuFJyfC+Hfkx+P4NstOTqLqrjl/M0jZ09JSPBb/spG2FEYqorrZtcHBD0mJYPW8MZGpGXwR11WW1bYpxcRmN0fne55Mg+hZaL9h5i1cO0pjkQ5wV2XwHSR2WOfsu42jz0zIYiSakz12VLKJWBL1YO9RkJM/EwQYLdzWAjw/coVARBqhRnafUYQW4e3mpCdmawMCQku/5NZ/zLTdrZ1Gk06asnF2MZ/AdjpoPXJ4kh83fv9scd5yUfhGPZYx/FJh112MpwRKiotFfFksrlp7xE8JyccFkqwDKNe43fSI+uSPCbB+anKhh+NH70UG0Grnn/34qQPCE=;MFzcHYJ+74Vpre0/M9Ku2g=="
 ---
 

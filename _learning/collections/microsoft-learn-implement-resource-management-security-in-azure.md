@@ -4,7 +4,7 @@ excerpt: "Learn how to secure resources using policy, role-based access control,
 type: collection
 price: Free
 length: PT4H16M
-heat: 120
+heat: 116
 
 provider:
   name: Microsoft Learn
