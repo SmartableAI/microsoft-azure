@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics.md",
-      "title": "Understand data warehouse developer features of Azure Synapse Analytics",
-      "excerpt": "Understand data warehouse developer features of Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-data-warehouse-developer-features-of-azure-synapse-analytics/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+      "title": "Choose a messaging model in Azure to loosely connect your services",
+      "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+      "length": "PT45M",
       "ratings": {
-        "count": 12,
-        "average": 4.4166665
+        "count": 3672,
+        "average": 4.59695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,22 +27,16 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/understand-data-warehouse-developer-features-of-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 134,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Integration",
+        "IoT",
         "Analytics"
       ]
     },
@@ -77,8 +71,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 34240,
-            "average": 4.783499
+            "count": 34255,
+            "average": 4.7835937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7476,
-            "average": 4.71977
+            "count": 7479,
+            "average": 4.7198825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6500,
-            "average": 4.758154
+            "count": 6504,
+            "average": 4.7583027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5131,
-            "average": 4.755798
+            "count": 5133,
+            "average": 4.755893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -279,8 +273,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7476,
-        "average": 4.71977
+        "count": 7479,
+        "average": 4.7198825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4469,
-            "average": 4.750951
+            "count": 4473,
+            "average": 4.7509503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,8 +386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7154,
-            "average": 4.6638246
+            "count": 7155,
+            "average": 4.6638713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -427,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2145,
-            "average": 4.6055946
+            "count": 2146,
+            "average": 4.605778
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -470,8 +464,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8881,
-            "average": 4.652967
+            "count": 8882,
+            "average": 4.653006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -659,7 +653,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -678,8 +672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2034,
-            "average": 4.5939035
+            "count": 2035,
+            "average": 4.5941033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -707,7 +701,7 @@
         }
       ],
       "size": 8,
-      "heat": 64,
+      "heat": 75,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
@@ -779,7 +773,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 134,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -798,8 +792,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2484,
-            "average": 4.6260066
+            "count": 2485,
+            "average": 4.626157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2034,
-            "average": 4.5939035
+            "count": 2035,
+            "average": 4.5941033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -983,8 +977,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7476,
-            "average": 4.71977
+            "count": 7479,
+            "average": 4.7198825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1668,8 +1662,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 121,
-            "average": 4.5289254
+            "count": 122,
+            "average": 4.532787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3789,43 +3783,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-      "title": "Choose a messaging model in Azure to loosely connect your services",
-      "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 3672,
-        "average": 4.59695
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
       "title": "Analyze text with the Text Analytics service",
       "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
@@ -4121,6 +4078,50 @@
       "topics": [
         "Azure",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
+      "title": "Describe Azure Databricks Delta Lake architecture",
+      "excerpt": "Describe Azure Databricks Delta Lake architecture",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-delta-lake-architecture/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 128,
+        "average": 4.5546875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-delta-lake-architecture-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     }
   ],
