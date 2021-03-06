@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
-excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
-publishedDateTime: 2021-03-02T17:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
+title: "Microsoft to launch new Azure cloud region in China"
+excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
+publishedDateTime: 2021-03-06T10:36:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - Azure
+
+images:
+  - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
+    width: 280
+    height: 250
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -650,6 +652,15 @@ related:
         width: 1024
         height: 360
         isCached: true
+  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
+    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
+    publishedDateTime: 2021-03-02T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
   - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
     excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
     publishedDateTime: 2021-02-24T01:16:00Z
@@ -1045,20 +1056,6 @@ related:
         width: 1899
         height: 993
         isCached: true
-  - title: "Microsoft to launch new Azure cloud region in China"
-    excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
-    publishedDateTime: 2021-03-06T10:36:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1337,6 +1334,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "fTWHwR+Y9C8QiSExiItRcrlcyAnwTC2xfSrlNieu3hWpOxQs8Cmf+GkOMSzRliEprcILlxmbWpnUYPRlRkN9dcgWtIKCXlBFpbMwI+C2wnxiAlkQrS051rhZYyG+HvgwDWOTpL0Cejy6SNss1qXUaZWBrXZ0GxvE28/1K3IIfBPrnz3TBm+JN/STNFexSuTKZgHFAcs1gy37+CJEM+DLvgd40vjH1SHC5snA0r1vac6Re2VCZcaktkA/PS19EcHu9PnCp59eubPKmknedtcUx13U1zcTz4GvjqD/OYmo570anKYBTSt8O3qV1S8p5vwE+shtHpl/FXjC4PCsbihG+YQzQ8o7AFTb8TttAwZFxt8=;x8lFew02QE/sADs9EyECcw=="
+secured: "HSEgfRWmqkUdvjekYzHoK3Z/7j/J1X7RJJ3e7gzgRoVLjHBIcQ5UlET14H6nVHbyePEHuR8iHsr/EZu/kc6ApIQU1q/Mz9invVvHoGX2QPhgK8wFPgTIiPNX6bAo9LH+g9uzGYjDaXRICR9G1h417OPIbIuNIXq0JN9F1+V5GNnIY+FMnwsLUxlNlQKakpZWHBZpj/xiQZWWTgJ8JY1Mb3Eb4VPgt8hi6PiMWhwgcZ1Z6SUBy55aL1QWJ8BbizRiqFa4+aHHZVXQecuPBJQh4t4kYQT/5NAQtAFDbpBLgIl6IG/zFOBLD3EHb+sXwwISOPka/Zsxpt8HR5J9tT0rbwuFkOjWEmlr+f6teZiying=;O7NZ9kwN8fpJPIt5MqKx/w=="
 ---
 

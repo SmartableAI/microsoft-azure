@@ -616,6 +616,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Aruba expands IoT integration with Microsoft Azure"
+    excerpt: "Announced at Microsoft Ignite 2021, the first platform is Aruba IoT Transport for Azure, a service that enables IoT devices connected to Aruba access points (APs) and controllers to bi ..."
+    publishedDateTime: 2021-03-03T00:00:00Z
+    webUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 51
   - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
     excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
     publishedDateTime: 2021-03-02T14:05:00Z
@@ -1033,6 +1042,20 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20data%20center%20worker%20racking.png"
         width: 1899
         height: 993
+        isCached: true
+  - title: "Microsoft to launch new Azure cloud region in China"
+    excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
+    publishedDateTime: 2021-03-06T10:36:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

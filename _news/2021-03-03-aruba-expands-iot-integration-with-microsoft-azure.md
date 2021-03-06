@@ -1,25 +1,23 @@
 ---
 category: news
-title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
-excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
-publishedDateTime: 2021-03-02T17:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
-webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
+title: "Aruba expands IoT integration with Microsoft Azure"
+excerpt: "Announced at Microsoft Ignite 2021, the first platform is Aruba IoT Transport for Azure, a service that enables IoT devices connected to Aruba access points (APs) and controllers to bi ..."
+publishedDateTime: 2021-03-03T00:00:00Z
+originalUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
+webUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
 type: article
-quality: 44
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
+  - IoT
+  - Integration
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -627,15 +625,6 @@ related:
         width: 1000
         height: 524
         isCached: true
-  - title: "Aruba expands IoT integration with Microsoft Azure"
-    excerpt: "Announced at Microsoft Ignite 2021, the first platform is Aruba IoT Transport for Azure, a service that enables IoT devices connected to Aruba access points (APs) and controllers to bi ..."
-    publishedDateTime: 2021-03-03T00:00:00Z
-    webUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 51
   - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
     excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
     publishedDateTime: 2021-03-02T14:05:00Z
@@ -650,6 +639,15 @@ related:
         width: 1024
         height: 360
         isCached: true
+  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
+    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
+    publishedDateTime: 2021-03-02T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
   - title: "ZEDEDA integrates with Microsoft Azure IoT to provide full lifecycle management capabilities"
     excerpt: "ZEDEDA announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware, OS, Azure IoT Edge Runtime, Azure IoT Edge modules and additional apps), single-click bulk provisioning ..."
     publishedDateTime: 2021-02-24T01:16:00Z
@@ -1337,6 +1335,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "fTWHwR+Y9C8QiSExiItRcrlcyAnwTC2xfSrlNieu3hWpOxQs8Cmf+GkOMSzRliEprcILlxmbWpnUYPRlRkN9dcgWtIKCXlBFpbMwI+C2wnxiAlkQrS051rhZYyG+HvgwDWOTpL0Cejy6SNss1qXUaZWBrXZ0GxvE28/1K3IIfBPrnz3TBm+JN/STNFexSuTKZgHFAcs1gy37+CJEM+DLvgd40vjH1SHC5snA0r1vac6Re2VCZcaktkA/PS19EcHu9PnCp59eubPKmknedtcUx13U1zcTz4GvjqD/OYmo570anKYBTSt8O3qV1S8p5vwE+shtHpl/FXjC4PCsbihG+YQzQ8o7AFTb8TttAwZFxt8=;x8lFew02QE/sADs9EyECcw=="
+secured: "vbpsddas0sfmjXQWiel8IQp7vBDkAI5iZEnnKgS8oy2xH3Spq5CdM8uQQsg52HUHDUwcPVYOHwRzeNrjRcYCKtWxWBI44HzreHX8N1p4yEX2SodgG+5YjYmwFOebsmFHFvtltI0ZNLo7MObFjeuks5B46xDvR9KhUbJAelk8OF6kjz0OfXMjw0kK6l7MVBiVi9QtD9tCHwKvYkjuANecUIhXYpceXEsmluEg8XtzsUHvGoNbkOD6XCCcPMwDwxIjmDmx/46vJFg9hWOvvCdikV18I80RNQXLvYzaZiWEFquaiipkGBDE8mJEd/S/AUN/vjSy4Pa3Vbo4I0EesWN3n3ic243Uh45kwtr+ZxnmHqY=;qTM2Xqhx66mvj4OSGgmTwg=="
 ---
 
