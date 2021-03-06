@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Microsoft’s Azure Quantum platform is now in public preview"
-excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
-publishedDateTime: 2021-02-01T18:41:00Z
-originalUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
-webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
-ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+title: "A Python SDK for connecting devices to Microsoft Azure IoT services"
+excerpt: "This repository contains code for the Azure IoT SDKs for Python ... Learn more about using Linux containers for IoT edge on Windows devices. Features Status Description Authentication ️ Connect your device to IoT Hub securely with supported ..."
+publishedDateTime: 2021-02-17T00:00:00Z
+originalUrl: "https://github.com/Azure/azure-iot-sdk-python"
+webUrl: "https://github.com/Azure/azure-iot-sdk-python"
 type: article
-quality: 97
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: GitHub
+  domain: github.com
 
 topics:
   - Azure
+  - IoT
+  - Developer tools
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://avatars.githubusercontent.com/u/6844498?s=400&v=4"
+    width: 380
+    height: 380
     isCached: true
 
 related:
@@ -107,6 +103,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F5f230920-cae3-11ea-bfef-778d07aa6eb4&client=amp-blogside-v2&signature=38826b0409ecad8de954a4e01e40c23407387c1a"
         width: 600
         height: 350
+        isCached: true
+  - title: "Microsoft’s Azure Quantum platform is now in public preview"
+    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
+    publishedDateTime: 2021-02-01T18:41:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft Azure Quantum opens for public preview"
     excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
@@ -252,20 +264,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 74
-  - title: "A Python SDK for connecting devices to Microsoft Azure IoT services"
-    excerpt: "This repository contains code for the Azure IoT SDKs for Python ... Learn more about using Linux containers for IoT edge on Windows devices. Features Status Description Authentication ️ Connect your device to IoT Hub securely with supported ..."
-    publishedDateTime: 2021-02-17T00:00:00Z
-    webUrl: "https://github.com/Azure/azure-iot-sdk-python"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 71
-    images:
-      - url: "https://avatars.githubusercontent.com/u/6844498?s=400&v=4"
-        width: 380
-        height: 380
-        isCached: true
   - title: "New phishing scam uses IBM Cloud, Microsoft Azure to feign legitimacy"
     excerpt: "Once the victim types in a password that fits the criteria, they will be redirected to another fake page that appears to confirm the settings update, hosted on Microsoft Azure domain windows.net. By using reputable services from big name brands ..."
     publishedDateTime: 2020-07-20T12:02:00Z
@@ -858,6 +856,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "NS65ohiPy2o5/ZyITYDwhzQsIoscfypM1Z1zKbPgrGas/IfU5ZuFRTLQpqhfECJQ91kRomQBzpC/+B/ansdukeaWScmBWyYTaEunm17RWsJUuI+NKMzxDPQ6Zc05SydMpa7VyHAHS8auZSmU62Qyb8sO91CteZRBn9MNYsoQOlsJvgaMXN4+xE/DWpQqflbb/K0uoWPRpoCylqW0cJVa+RnFQDywpG7vT/JTaFyK0LLC1wcuGVrLJ785HAzdep14OFDLVN5AefPB6n7QgY9m0ebz0Fyz98uRoxuVzauQGw7VLKFaV0Q1vsxRLKsBBEkeb1WDKZVaNPwQGJQaADIbkksazb+/S5q/SyEQqeQsVIV0w4q2unsy2WytyWXazl+jfa6jUlbPveW113Lb4Xq64ya+ogZEQ0e+wr+Y75m1B/A9hN2O/qjuQjhjpQ+/EIYnR/avre/6loxdQvq23cKMZDqgAG8AMG3uvhHsgSwE3gjOKKMg3/fiJCpTzZXz9005GSXajNT57EBcVhCTXmbOMg==;I5zQsKWYsc1jYoIzy43sIg=="
+secured: "NkQIdY/v9bjn8O4e7TaYvRcRdfYDvoDtniH6n2JF+Oavi9UdGgdIO+7Kkf1faDJkEOTMXkUVHfnEbCtJfFkiI6a71tVlQVOW/wlxvoALdrB+Jm+dUgf/lQVhzHTHUuCpuE+eGzXuyiyGq/XO/QAMw4JEX+3rKkm9OzKeg72DOsDLSqd/i1C5DJjZEsNuWL9/cWnhtNeH1DjEUcHwuc/ZB0q5PKnYf3yMGLDi90i4yH9wiRKgXk9INM1zGjAW5Zy6JJ9mRViKv3LoyL/7R8s6W3raoxpAlfCXmlE13aRMeQnuxUCgsA+Lu7qLCXKL6oKudcbTsrh6HtpwMUxWk4U0F2tdAVHYJYm/1gU5vc3nWmk=;p8F9pjmjoeE6pJm01fS/9g=="
 ---
 

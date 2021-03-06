@@ -263,6 +263,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 74
+  - title: "A Python SDK for connecting devices to Microsoft Azure IoT services"
+    excerpt: "This repository contains code for the Azure IoT SDKs for Python ... Learn more about using Linux containers for IoT edge on Windows devices. Features Status Description Authentication ️ Connect your device to IoT Hub securely with supported ..."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://github.com/Azure/azure-iot-sdk-python"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://avatars.githubusercontent.com/u/6844498?s=400&v=4"
+        width: 380
+        height: 380
+        isCached: true
   - title: "Microsoft finally moving Minecraft from Amazon Web Services to Azure"
     excerpt: "Mojang and Microsoft are finally moving the Minecraft infrastructure from Amazon Web Services (AWS) to Microsoft Azure servers."
     publishedDateTime: 2020-07-21T03:20:00Z

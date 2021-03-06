@@ -263,6 +263,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 74
+  - title: "A Python SDK for connecting devices to Microsoft Azure IoT services"
+    excerpt: "This repository contains code for the Azure IoT SDKs for Python ... Learn more about using Linux containers for IoT edge on Windows devices. Features Status Description Authentication ️ Connect your device to IoT Hub securely with supported ..."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://github.com/Azure/azure-iot-sdk-python"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 71
+    images:
+      - url: "https://avatars.githubusercontent.com/u/6844498?s=400&v=4"
+        width: 380
+        height: 380
+        isCached: true
   - title: "New phishing scam uses IBM Cloud, Microsoft Azure to feign legitimacy"
     excerpt: "Once the victim types in a password that fits the criteria, they will be redirected to another fake page that appears to confirm the settings update, hosted on Microsoft Azure domain windows.net. By using reputable services from big name brands ..."
     publishedDateTime: 2020-07-20T12:02:00Z
