@@ -1,21 +1,29 @@
 ---
 category: news
-title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
-excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
-publishedDateTime: 2021-03-02T05:44:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+title: "Microsoft, VMware marry Azure Virtual WAN Hub with VMware SD-WAN"
+excerpt: "The integration of Microsoft's Virtual WAN Hub and VMware's SD-WAN is aimed at making it easier for customers to deploy widely distributed business applications."
+publishedDateTime: 2021-03-03T20:10:00Z
+originalUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.html"
+webUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.html"
+ampWebUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
+cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
 type: article
-quality: 3
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Network World
+  domain: networkworld.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://images.idgesg.net/images/article/2019/11/cloud_management_framework_services_by_metamorworks_gettyimages_thinkstock_2400x1600-100819153-large.jpg"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -508,22 +516,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/28/NPOH/3354161f-97e1-4198-a216-0615d5a393d8-New_JoAnn_Hodgdon.jpg?auto=webp&crop=2057,1158,x0,y242&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Microsoft, VMware marry Azure Virtual WAN Hub with VMware SD-WAN"
-    excerpt: "The integration of Microsoft's Virtual WAN Hub and VMware's SD-WAN is aimed at making it easier for customers to deploy widely distributed business applications."
-    publishedDateTime: 2021-03-03T20:10:00Z
-    webUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.html"
-    ampWebUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/cloud_management_framework_services_by_metamorworks_gettyimages_thinkstock_2400x1600-100819153-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
@@ -1309,7 +1301,16 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 13
+  - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
+    excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
+    publishedDateTime: 2021-03-02T05:44:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
-secured: "21pcenzCA+8po5r7iWvH6npF26uRThHpJDItIEKuAx7B3buYxqEtU7i+Xcwnq81SKh9amjahSJk3WhcRbH7d+/4i5HWSbKb7X0d+ZcBJ+OBaTWru8T+1HAHeVSVjzzjLfjJU9s1ayCGyNUq5wB8PQlOxsyoa4v2MJ/JbL2uOAzwwT+/BWPr4vwfVMxlXD45r77Ta2WIY92IMS2WUs1Xm8okbmq8EYpa/Gi8SSVpRMzHde7qas0XmDuUoFM1Mugh8BdDxRbo1U4uUz61ynxygsZY8DAS2m75fY++q/M7tysmJ7gRWt1p6QUETNIEGo1vBC8SSfICsRbWSLcP8iwQdVgQ4Zo5w9UhD3tK6z8t3VMk=;Jn3tHQOwPpUggKEchFn8fg=="
+secured: "/c0ib8ehSu4hQyWCgicoWNutD1bzEHjzNKM0CqtYf/B8/LymE6wpfw+bslm680lsICki4BTS8r25iRdAoWZDVBIOg7Q4C6JNp0EPq477mb3DhI2UUYAtPX7WITIi5gx6wPeY9rY3ILLNrrtig4jFt4BVaLzSOuiExLg8c+ZOJ4lkGjP9XVdWWzHrOhqVaXHRmB4p2FkxQZuQRccEFh6SdrKIZCPrWT8n67Ktl+vuli4adWucGhPVlITxxWY2lcQK08WdGeNE0agexjQwvGi8DGvIjIGJ5AyFBEu27XzM0HDZZ3nRdhobfNsInucCUe4KtH3xHx1VxelHi376BEWGU+Jh9aoFLZq6Og50iwSdyp8=;LTwEe41IKlHtWK/hHE80Ew=="
 ---
 

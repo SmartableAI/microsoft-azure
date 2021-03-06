@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/automating-quota-management-with-
 webUrl: "https://azure.microsoft.com/blog/automating-quota-management-with-azure-quota-rest-api/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

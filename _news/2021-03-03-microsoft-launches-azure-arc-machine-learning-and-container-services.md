@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 1949
+heat: 1989
 published: true
 
 provider:
@@ -506,6 +506,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft, VMware marry Azure Virtual WAN Hub with VMware SD-WAN"
+    excerpt: "The integration of Microsoft's Virtual WAN Hub and VMware's SD-WAN is aimed at making it easier for customers to deploy widely distributed business applications."
+    publishedDateTime: 2021-03-03T20:10:00Z
+    webUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.html"
+    ampWebUrl: "https://www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3609462/microsoft-vmware-marry-azure-virtual-wan-hub-with-vmware-sd-wan.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/11/cloud_management_framework_services_by_metamorworks_gettyimages_thinkstock_2400x1600-100819153-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z
@@ -665,6 +681,15 @@ related:
     provider:
       name: Newswire Today
       domain: newswiretoday.com
+    quality: 38
+  - title: "Silverfort Launches Unified Identity Protection Platform for Microsoft Azure Active Directory"
+    excerpt: "The Silverfort Unified Identity Protection platform allows customers to migrate all their hybrid assets, including non-web systems, into Azure AD."
+    publishedDateTime: 2021-03-02T19:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210302005735/en/Silverfort-Launches-Unified-Identity-Protection-Platform-for-Microsoft-Azure-Active-Directory"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 38
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."

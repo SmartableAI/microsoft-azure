@@ -1,21 +1,22 @@
 ---
 category: news
-title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
-excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
-publishedDateTime: 2021-03-02T05:44:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+title: "Silverfort Launches Unified Identity Protection Platform for Microsoft Azure Active Directory"
+excerpt: "The Silverfort Unified Identity Protection platform allows customers to migrate all their hybrid assets, including non-web systems, into Azure AD."
+publishedDateTime: 2021-03-02T19:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210302005735/en/Silverfort-Launches-Unified-Identity-Protection-Platform-for-Microsoft-Azure-Active-Directory"
+webUrl: "https://www.businesswire.com/news/home/20210302005735/en/Silverfort-Launches-Unified-Identity-Protection-Platform-for-Microsoft-Azure-Active-Directory"
 type: article
-quality: 3
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
+  - Identity
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -685,15 +686,6 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 38
-  - title: "Silverfort Launches Unified Identity Protection Platform for Microsoft Azure Active Directory"
-    excerpt: "The Silverfort Unified Identity Protection platform allows customers to migrate all their hybrid assets, including non-web systems, into Azure AD."
-    publishedDateTime: 2021-03-02T19:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210302005735/en/Silverfort-Launches-Unified-Identity-Protection-Platform-for-Microsoft-Azure-Active-Directory"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
   - title: "MICROSOFT AZURE MEDIA PLAYER"
     excerpt: "Section A: Microsoft is offering you a license to use the following components with Microsoft Azure Media Player (the \"Microsoft Program\"). The notices below are provided for informational purposes only and are not the license terms under which Microsoft distributes these files. The Microsoft Program may include the following third-party ..."
     publishedDateTime: 2020-04-21T05:22:00Z
@@ -1309,7 +1301,16 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 13
+  - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
+    excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
+    publishedDateTime: 2021-03-02T05:44:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-information-technology-2869ecde049be1386e2b1c7572aacd04"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
-secured: "21pcenzCA+8po5r7iWvH6npF26uRThHpJDItIEKuAx7B3buYxqEtU7i+Xcwnq81SKh9amjahSJk3WhcRbH7d+/4i5HWSbKb7X0d+ZcBJ+OBaTWru8T+1HAHeVSVjzzjLfjJU9s1ayCGyNUq5wB8PQlOxsyoa4v2MJ/JbL2uOAzwwT+/BWPr4vwfVMxlXD45r77Ta2WIY92IMS2WUs1Xm8okbmq8EYpa/Gi8SSVpRMzHde7qas0XmDuUoFM1Mugh8BdDxRbo1U4uUz61ynxygsZY8DAS2m75fY++q/M7tysmJ7gRWt1p6QUETNIEGo1vBC8SSfICsRbWSLcP8iwQdVgQ4Zo5w9UhD3tK6z8t3VMk=;Jn3tHQOwPpUggKEchFn8fg=="
+secured: "NdyqRvOa/uD+naXTI3sx4Mm4PiB4oCWnhq5vOyZMh0tU+9Et4Nb4Q8SymciSbniAGLZ0tlIpCPDtFLpgLF0+6o1YhwELS5bZY1rDchdA7MDrFNx7RdkM14mZozF3mRwz2tXBo9Gc9NH8XITAWSkvKT5eEbyrbmIdycv9Xxg5IslT4uduQAfYPDBX1ET7+pkFH+YpIuq8rntzxkmpT7COeiqbr9Fs9ZyAhUnHP2sFs3TpOHfyyqIcCPI59uESlDOF+oPvPKTKOe3ogOzaUkOzyTf86gllEdcjTQoAaJRGVqTMFrTNgt9OajuRbFyReP2EUIcyy5iXhggLUIftt130BSYlplVS6oDL+xCSs2/h//U=;e3c9FGXZqHYrnZ6Y+2Puqg=="
 ---
 
