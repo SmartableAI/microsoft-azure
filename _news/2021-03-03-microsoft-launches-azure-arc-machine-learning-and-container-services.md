@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2030
+heat: 2050
 published: true
 
 provider:
@@ -387,6 +387,17 @@ related:
     webUrl: "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-arc/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-arc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+  - title: "Microsoft is opening a new Azure cloud computing region in China"
+    excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
+    publishedDateTime: 2021-03-05T15:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     type: article
     provider:
       name: ZDNet

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-publishedDateTime: 2021-02-25T15:19:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+title: "Microsoft is opening a new Azure cloud computing region in China"
+excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
+publishedDateTime: 2021-03-05T15:19:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 type: article
-quality: 54
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Integration
-
-images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -402,17 +401,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Microsoft is opening a new Azure cloud computing region in China"
-    excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
-    publishedDateTime: 2021-03-05T15:19:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z
@@ -570,6 +558,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Upgrade2.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-25T15:19:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft debuts its edge AI service Azure Percept at Ignite"
     excerpt: "Microsoft Corp. is stepping up its artificial intelligence capabilities within its Azure Cloud platform with the launch of a new service called Azure Percept that’s designed to enable a wealth of new AI capabilities for devices at the network edge."
@@ -1346,6 +1348,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "VQY03TC/IfmqHhSVuDF1h+o2j0ErRnVd2qfXB0YVedh4NXrhd9b8aPn78UhJ8e4+g/3izFienq01ptov4e8D6zbt/r2x8afwLIfrS0relhY3jG3CeueXVuXCsdYG4rijTYfuUsD0E6G1FlG2/ztV7we23wygejkBvXXSc9TrxXZ6OWYZfkaER86EAO7uEXopCnv/waEY4RulMPvdiImi2D/D/dzjG6ne6aCLgUvH80hbNd111EgicPAyOMpS/Rcu5xBqNDqVBDGPs5rm7ddkzP9T2F5wN6QXrQJLuGfclZTZAmGJsWaZaEh9KkYwrPN8Y1khIJof/sIK0PX0Uttf8uQY9QIOqP2j8BkFK7tZpDo=;4pE4k/B/q3nNugZW64PB3Q=="
+secured: "gh513eeKvbk/lP+XV8WP2MT6o5wKupecdtPm8Qquflc8i5gOmQkNQAkPtHp8TN6dKXCaPi6UNH7rXxf72FIGiYp14xECTTHSefn5wNeuS84mph3k+I9Li+NvHehRJ1oVpxlf9lOo/2dSJ42vBHyECFRg5SMK9vb91R8r9lroTBezE1juTYQKgkfusuAFUwBtMdDIR1wuY8SYbzlHPjgw6H7G9WUpPjc5RBIDdcWJD7G5LmCfn8+UfLIEFasmKV5IdCH2KhTyAgfMYy85wWvRjjIINHhP3VBigUg9ViwP05ZHUHcf+zBRwmFINVn94leLCfip0/PZpkuQE/PfhwFPgDsGugF+bPJZgslZy5bSRlpPu7jfcI9lh2/7XN+56AbDysvyfeaGT42dWLnxMZPsVB3551VIZPrthXM2JEIN6E1vglGRIJVH8M1gIg7VnG4ZutfdVmRg6KlV3+yxt+Jzu53ncBNT+LbT40pb81HGI253Hj2qmDVhMniuRVWUeghQLGShqtryZTLaqZ2FAFSiXA==;1uc4zoPExtjb6jpRw/MRaQ=="
 ---
 

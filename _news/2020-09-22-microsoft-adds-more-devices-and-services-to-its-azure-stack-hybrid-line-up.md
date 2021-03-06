@@ -391,6 +391,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Microsoft is opening a new Azure cloud computing region in China"
+    excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
+    publishedDateTime: 2021-03-05T15:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z

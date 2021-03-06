@@ -401,6 +401,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Microsoft is opening a new Azure cloud computing region in China"
+    excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
+    publishedDateTime: 2021-03-05T15:19:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "New Docker Container Escape Bug Affects Microsoft Azure Functions"
     excerpt: "Cybersecurity researchers today disclosed an unpatched vulnerability in Microsoft Azure Functions that could be used by an attacker to escalate privileges and escape the Docker container used for hosting them."
     publishedDateTime: 2021-01-27T15:02:00Z
