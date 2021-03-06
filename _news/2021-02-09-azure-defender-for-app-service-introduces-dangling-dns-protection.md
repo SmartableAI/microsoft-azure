@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-app-service-in
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-app-service-introduces-dangling-dns-protection/"
 type: article
 quality: 123
-heat: 143
+heat: 144
 published: true
 
 provider:
