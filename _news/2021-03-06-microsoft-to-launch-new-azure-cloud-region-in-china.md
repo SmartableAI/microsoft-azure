@@ -2,25 +2,25 @@
 category: news
 title: "Microsoft to launch new Azure cloud region in China"
 excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
-publishedDateTime: 2021-03-06T10:36:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
+publishedDateTime: 2021-03-06T12:53:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-launch-new-azure-cloud-region-in-china.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-launch-new-azure-cloud-region-in-china.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Azure
 
 images:
-  - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-launch-new-azure-cloud-region-in-china-2021-03-06.jpg"
+    width: 1000
+    height: 800
     isCached: true
 
 related:
@@ -1334,6 +1334,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "HSEgfRWmqkUdvjekYzHoK3Z/7j/J1X7RJJ3e7gzgRoVLjHBIcQ5UlET14H6nVHbyePEHuR8iHsr/EZu/kc6ApIQU1q/Mz9invVvHoGX2QPhgK8wFPgTIiPNX6bAo9LH+g9uzGYjDaXRICR9G1h417OPIbIuNIXq0JN9F1+V5GNnIY+FMnwsLUxlNlQKakpZWHBZpj/xiQZWWTgJ8JY1Mb3Eb4VPgt8hi6PiMWhwgcZ1Z6SUBy55aL1QWJ8BbizRiqFa4+aHHZVXQecuPBJQh4t4kYQT/5NAQtAFDbpBLgIl6IG/zFOBLD3EHb+sXwwISOPka/Zsxpt8HR5J9tT0rbwuFkOjWEmlr+f6teZiying=;O7NZ9kwN8fpJPIt5MqKx/w=="
+secured: "VxCXORDtICXy7HmUjwaznS4qy4etjd3DeXiFR6noDBjt6hobI4zZ08kISqjEKj1BApudV/A9/NosTAhYtjqLW/GEnZj12eg1S+LDAgUW5YLsnSi0CaNVram4zklhMdcCi2d7oQ2l5ZVTEtwUXTf6TQS3EuPgJqJ0N/k4+qS6ORO8qSJj8RRnzU0UsZljcM4Vh6nZzT8rd11kJs5OZSUMY4eE4Z8VErNiUTLSMqGqivXrlItH5sucNQru6x2ErLqmR2rZJtmxSPe4NE73wCuGYw7dbeZUNkIDUgGYxO2l1wcRaxIiDdQ2YdRrQgaDv7RyVGQE1xHv+0kvmjDiilD6QTBeAuolFRYgptyVDvdld/E=;+xlebBoSWelHtF1tXeKDng=="
 ---
 

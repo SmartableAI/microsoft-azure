@@ -1049,17 +1049,17 @@ related:
         isCached: true
   - title: "Microsoft to launch new Azure cloud region in China"
     excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
-    publishedDateTime: 2021-03-06T10:36:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=808245"
+    publishedDateTime: 2021-03-06T12:53:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/microsoft-to-launch-new-azure-cloud-region-in-china.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 37
     images:
-      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-launch-new-azure-cloud-region-in-china-2021-03-06.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
