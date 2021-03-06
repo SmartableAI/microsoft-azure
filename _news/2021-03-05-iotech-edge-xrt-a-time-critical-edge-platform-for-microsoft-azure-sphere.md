@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-publishedDateTime: 2020-12-11T14:47:00Z
-originalUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
+excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
+publishedDateTime: 2021-03-05T01:33:00Z
+originalUrl: "https://www.helpnetsecurity.com/2021/03/05/iotech-edge-xrt-microsoft/"
+webUrl: "https://www.helpnetsecurity.com/2021/03/05/iotech-edge-xrt-microsoft/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-    width: 2300
-    height: 1293
+  - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -1040,19 +1036,19 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
-    excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
-    publishedDateTime: 2021-03-05T01:33:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/03/05/iotech-edge-xrt-microsoft/"
+  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 36
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+        width: 2300
+        height: 1293
         isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
@@ -1290,6 +1286,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "gR/S5j5aTVM3f7AZ5gfZDlm/29OX0WU0en9sAPQG1xEHuZ8zeGHa30a9Hws6bQpxnqfu8Cpco0pOJQ54G80d/HKlV6Cg4Wy+uUS9bucdxJJqia7dDqhYoX/hZ1DQehSJioPH135zfu+Z3TFpAG7YMH8G0y4FD7gtxMyrG+xxp9O6Ty2bHLb6eVjG92QGNBSQQgpiVIK4PK0AB1kbICODPZ5tCpfjVkKshCiv2CAMNg1DYQgrU1qcqSLHd2RHkgYvS/jMfnbIkeJAq6Yy6vpS6sZIP3CLfY/22CsoNYN/v+d469+xGHkz/PYe65ecizBia517wDRIbKamtmz5/nMHvLEEWwmJhD+JrE1v68A8o8H0PL+8s7r6focJ8HmY6AzexRLOu3XXJKMMRn/vpzfxtunZHycT6nDLTHOgaelB8ns6d1VqtnR8QrBeLV3Z1G/Qr++ZgesA9yt4UhZXsh520M82lEMrFn/sKZ2M0QqPgyOfc/X7jEaUTWFHXRL7IDhMTAT5CGdUL2r3iGbChZ4hEg==;i82dazGHRyEWjna671DNvw=="
+secured: "pW2Na4jrPfsKRH1fhXzLTGXq8pRk5GsOTMbU6qLteukW45r7qrMpc8VheDCEQAT+ITe9PM2PiMn3fDABPuI8rRWJ61N4XjPyq/mBtAD3WUg5Zs1t3/y3LKorQpMdV56Qz3acRTx664IdFG0JMLbI8L8iDlMwd4EDqC+jzV8maczAhQv2Zi6wQGyW/OjzG5p8PgDQBSPEBUqyIGb3n0IT87TPDtXOhVHIYy4fLhJO7F0DLsmMuuGWHCxDMEapPuTZMUkmenUpKUc2+nKvshp9Kw3G21HBCuC/zGJqVv94xltYd9NH0s6ijMWV5SpmwqfzBJ8SvgO5v3Mjpo8UgLmOxEn/zbkL8aqehH6lol68Mho=;1Yhm2/LjUPO0GwasXM/pTA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 1929
+heat: 1949
 published: true
 
 provider:
@@ -1026,6 +1026,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/Johnston-768x512.jpg"
         width: 768
         height: 512
+        isCached: true
+  - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
+    excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
+    publishedDateTime: 2021-03-05T01:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/05/iotech-edge-xrt-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 36
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
     excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
