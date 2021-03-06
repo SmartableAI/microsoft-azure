@@ -4,7 +4,7 @@ excerpt: "SC-900 part 4: Describe the capabilities of Microsoft compliance solut
 type: collection
 price: Free
 length: PT2H54M
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
