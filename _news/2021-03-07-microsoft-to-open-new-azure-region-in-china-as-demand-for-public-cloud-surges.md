@@ -1,22 +1,23 @@
 ---
 category: news
-title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
-excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
-publishedDateTime: 2021-03-01T15:56:00Z
-originalUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
-webUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
+title: "Microsoft to open new Azure region in China, as demand for public cloud surges"
+excerpt: "A recent study showed that China's cloud market will reach $46 billion by 2023, as businesses look to fast track their own digitalisation efforts"
+publishedDateTime: 2021-03-07T09:50:00Z
+originalUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges"
+webUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges"
+ampWebUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
-  - Databases
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1146,6 +1147,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
+    excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
+    publishedDateTime: 2021-03-01T15:56:00Z
+    webUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
   - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-03T05:32:00Z
@@ -1160,17 +1170,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft to open new Azure region in China, as demand for public cloud surges"
-    excerpt: "A recent study showed that China's cloud market will reach $46 billion by 2023, as businesses look to fast track their own digitalisation efforts"
-    publishedDateTime: 2021-03-07T09:50:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 33
   - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
     excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
     publishedDateTime: 2021-02-24T00:10:00Z
@@ -1384,6 +1383,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "W8QPBolHsKoodaJcyM0rLMQWHXKDTOViDmONiBkOVWxXL/QDgKvC2ivkj/RjDFh3/Ks/TOSPeTUQ734LptZ8hC00dKXnUfP/69Qmvs1NPREQh6UniPNyG2k8AdZCgJxhw2S7+ddY1H6ZTlhZMBsIW+7iTnGXNjE5/pKYYVKHIG5nHEDFIKNSsUAI5dcIYNs0HS4AxIYwfa6lu9H/z7uVkCLin+jlldtwY4hJHKBc0/ojAt0NdjU3dfjPxb0oN/VeHcK6ZnO+zGlkLO0/Yr6Pax/UV6aZuHYdFKEpdso3DMxv4iS0B/PIlo+xsLITJ0H0Vn7excTDHN4jzmWIYZblJmH2Wi1DLoLZ7bsXmi8AGhc=;yqkjgMvLXockKJTmD+jveA=="
+secured: "BcajbGPdG2+MHtSnLptSeUuaA55Av/F6HRP8iIuyJlXWDlFzO/2mU6N+iUHH6Rs49j7OxgD1aTxcjEjzSJpm2Zw4RYBBUDUsVoQKjRI5xTnUW87/hBg3bOuTmEqkBcwSWjBa2Tmw0tSpFe+3FHr7P7GMp6KMXNF55XY6GRovhpBp6HMcfdOZh1kg8ggPWF1ux4vXVtbU2TbPiAT4CciviokGG6xs3VQdGn2okLp7fZAxpVkB1n30Tup/Jf8k0SreSqY6zI/JyWr2VJ0kJJjJAq44wyPRlZDXOGTlV30EmSX53rQzS9AszZoJ54uUQu6US/T0oeByC+3BiSdpKmLz8NHbyqMMReMstNNMmIVUgMjHa2AhB9v4ox/7+33emqPVKQj9q5ozGcbzeaF80cUg776OUBsWfwJ+7orXitgvX98yJnp8bJ1DnaS6FYcSpJyidXYlV2b/DQnEnEhDraCtvaR0G2N+lO5Kzxdk02TDbGrEwgrt17rbj6WORovUVq5hpoe7t2/4Ff98tajz65j6Vg==;yT4iC2SgUW74K5SR0ClAcg=="
 ---
 

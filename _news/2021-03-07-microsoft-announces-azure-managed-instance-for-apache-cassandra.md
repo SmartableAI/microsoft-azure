@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
-excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
-publishedDateTime: 2021-03-01T15:56:00Z
-originalUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
-webUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
+title: "Microsoft Announces Azure Managed Instance for Apache Cassandra"
+excerpt: "At this year’s Ignite conference, Microsoft announced the public preview of Azure Managed Instance for Apache Cassandra, a NoSQL database product to manage Cassandra-based workloads into Azure cloud."
+publishedDateTime: 2021-03-07T09:06:00Z
+originalUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
+webUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: InfoQ
+  domain: infoq.com
 
 topics:
   - Azure
-  - Databases
+
+images:
+  - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1076,20 +1081,6 @@ related:
         width: 1000
         height: 800
         isCached: true
-  - title: "Microsoft Announces Azure Managed Instance for Apache Cassandra"
-    excerpt: "At this year’s Ignite conference, Microsoft announced the public preview of Azure Managed Instance for Apache Cassandra, a NoSQL database product to manage Cassandra-based workloads into Azure cloud."
-    publishedDateTime: 2021-03-07T09:06:00Z
-    webUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1146,6 +1137,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Cloudera data platform operational database comes to AWS, Microsoft Azure"
+    excerpt: "US-based enterprise data cloud specialis Cloudera has announced the availability of the Cloudera Data Platform (CDP) Operational Database on both Amazon Web Services (AWS) and Microsoft Azure."
+    publishedDateTime: 2021-03-01T15:56:00Z
+    webUrl: "https://www.telecompaper.com/news/cloudera-data-platform-operational-database-comes-to-aws-microsoft-azure--1374182"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 33
   - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-03T05:32:00Z
@@ -1384,6 +1384,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "W8QPBolHsKoodaJcyM0rLMQWHXKDTOViDmONiBkOVWxXL/QDgKvC2ivkj/RjDFh3/Ks/TOSPeTUQ734LptZ8hC00dKXnUfP/69Qmvs1NPREQh6UniPNyG2k8AdZCgJxhw2S7+ddY1H6ZTlhZMBsIW+7iTnGXNjE5/pKYYVKHIG5nHEDFIKNSsUAI5dcIYNs0HS4AxIYwfa6lu9H/z7uVkCLin+jlldtwY4hJHKBc0/ojAt0NdjU3dfjPxb0oN/VeHcK6ZnO+zGlkLO0/Yr6Pax/UV6aZuHYdFKEpdso3DMxv4iS0B/PIlo+xsLITJ0H0Vn7excTDHN4jzmWIYZblJmH2Wi1DLoLZ7bsXmi8AGhc=;yqkjgMvLXockKJTmD+jveA=="
+secured: "EXp1maj90ct2ZPamSAxTPfMsfOrClkFDTzn/S7zI/EJ1d1PAAm72lzAI4oc3XTV58FOrHqY9gntmT6tg4qjVrSPe86BhWrhSIMiPV9j//+RQCMHYHwEnNYJPp6aB8bAfN+GysaEO2qaOdjzU9Z2tYr1tfyTGS5u13pGq8WhjqUiWj4TgFrZrAWgp/enip7D6V8dJUOe/xvXBk/etbAkje+V4T0lw11Te/JspvHY8xfZiJLwpozG36pNNnx3WIiw1kC/tF1S6ZXxfWgQ6W0eKZ4Qa9iIE/Vo/ZeokUtSw3E/MxpiApownvTL5fatjpYfCv//z8ZieDVi/U9yVGBmigtATPRpTvsrWanRdgGOMeLM=;644T6n+NKki/vFYfmuDGTg=="
 ---
 

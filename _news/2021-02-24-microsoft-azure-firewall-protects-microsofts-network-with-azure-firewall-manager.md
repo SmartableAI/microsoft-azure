@@ -1085,6 +1085,20 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Microsoft Announces Azure Managed Instance for Apache Cassandra"
+    excerpt: "At this year’s Ignite conference, Microsoft announced the public preview of Azure Managed Instance for Apache Cassandra, a NoSQL database product to manage Cassandra-based workloads into Azure cloud."
+    publishedDateTime: 2021-03-07T09:06:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1164,6 +1178,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft to open new Azure region in China, as demand for public cloud surges"
+    excerpt: "A recent study showed that China's cloud market will reach $46 billion by 2023, as businesses look to fast track their own digitalisation efforts"
+    publishedDateTime: 2021-03-07T09:50:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96349-microsoft-to-open-new-azure-region-in-china-as-demand-for-public-cloud-surges?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
   - title: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud"
     excerpt: "Bug Bounty Switzerland launches the first Swiss ethical hacking platform on the Microsoft Cloud Bug Bounty Switzerland launches the first"
     publishedDateTime: 2021-02-24T03:58:00Z
