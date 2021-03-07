@@ -3,8 +3,8 @@ category: news
 title: "Microsoft is opening a new Azure cloud computing region in China"
 excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
 publishedDateTime: 2021-03-05T15:19:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
-webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+originalUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
+webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 type: article
@@ -1277,6 +1277,20 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Microsoft Cloud delivers for Dubai-based startup"
+    excerpt: "With support from Microsoft, Dubai-based startup Digiteam offers its sales digitisation and gamification mobile solution on the cloud and scales to new customers across different markets"
+    publishedDateTime: 2021-03-07T06:51:00Z
+    webUrl: "https://gulfbusiness.com/microsoft-cloud-delivers-for-dubai-based-startup/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 22
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/Digiteam.jpg"
+        width: 770
+        height: 591
+        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z
@@ -1348,6 +1362,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "gh513eeKvbk/lP+XV8WP2MT6o5wKupecdtPm8Qquflc8i5gOmQkNQAkPtHp8TN6dKXCaPi6UNH7rXxf72FIGiYp14xECTTHSefn5wNeuS84mph3k+I9Li+NvHehRJ1oVpxlf9lOo/2dSJ42vBHyECFRg5SMK9vb91R8r9lroTBezE1juTYQKgkfusuAFUwBtMdDIR1wuY8SYbzlHPjgw6H7G9WUpPjc5RBIDdcWJD7G5LmCfn8+UfLIEFasmKV5IdCH2KhTyAgfMYy85wWvRjjIINHhP3VBigUg9ViwP05ZHUHcf+zBRwmFINVn94leLCfip0/PZpkuQE/PfhwFPgDsGugF+bPJZgslZy5bSRlpPu7jfcI9lh2/7XN+56AbDysvyfeaGT42dWLnxMZPsVB3551VIZPrthXM2JEIN6E1vglGRIJVH8M1gIg7VnG4ZutfdVmRg6KlV3+yxt+Jzu53ncBNT+LbT40pb81HGI253Hj2qmDVhMniuRVWUeghQLGShqtryZTLaqZ2FAFSiXA==;1uc4zoPExtjb6jpRw/MRaQ=="
+secured: "QhIrGrmBqeIZ5MPC+1eZHjQeYTSuU0+H07wt3YJp7267BZCbZEgDxbOkR/4DlR3FOQ9LPB42ZHU8KDUoHePkS1//hLcsmNLkdaIz5HJ0KP9A6F0ObjH3r8bNEndvayHy9Dff+Q+5kSd8efz/vRaX4tOAk6klffNYaobm44/EmBFfSutxvMgQc6fMAxxO2CTAmqwOfsb9ZvFPGBgdJpFn7ZkMVYMDzNXNYWfVH/r1tL5x1RhKYUYeVGNNwfuoLZMUqGrVPtkEPt2KN32qvVK7Fz8szZPWI8ZWmvPVOy7jObLk1s8FYFbjF4tEdFoxuLbdgk3RHULzsji1YXGhBswE/c1uLMiTxbUKaHnse7cS3eAB4NXXtqG99xf9z+aHjOJoBEV8zR3zD4/5q75/EjAMLsn2lh9Ebt9mqW0ebSYBwNREX7c/l8u6Kc68z6znDPYraxV1OpAkYhYSZZGPzmbxfETCK04MPqY1ej4PexcHB34gSP4D2aSKo1Vdreq12iZEFPKNBDLtsKo4esMmursdpA==;wrpCogU12J0S+NphBFzyaw=="
 ---
 

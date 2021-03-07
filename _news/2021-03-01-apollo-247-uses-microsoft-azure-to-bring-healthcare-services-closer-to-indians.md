@@ -408,7 +408,7 @@ related:
   - title: "Microsoft is opening a new Azure cloud computing region in China"
     excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
     publishedDateTime: 2021-03-05T15:19:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     type: article
@@ -1277,6 +1277,20 @@ related:
       - url: "https://www.automation.com/getmedia/a1c0ecbf-7fd4-4b04-a0c0-8aa585367c84/Microsoft-photo-feb-24-2021-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Microsoft Cloud delivers for Dubai-based startup"
+    excerpt: "With support from Microsoft, Dubai-based startup Digiteam offers its sales digitisation and gamification mobile solution on the cloud and scales to new customers across different markets"
+    publishedDateTime: 2021-03-07T06:51:00Z
+    webUrl: "https://gulfbusiness.com/microsoft-cloud-delivers-for-dubai-based-startup/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 22
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/Digiteam.jpg"
+        width: 770
+        height: 591
         isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."

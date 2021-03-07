@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
-excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
-publishedDateTime: 2021-02-25T15:40:00Z
-originalUrl: "https://redmondmag.com/articles/2021/02/25/azure-active-directory-b2c-sla.aspx"
-webUrl: "https://redmondmag.com/articles/2021/02/25/azure-active-directory-b2c-sla.aspx"
+title: "Microsoft Cloud delivers for Dubai-based startup"
+excerpt: "With support from Microsoft, Dubai-based startup Digiteam offers its sales digitisation and gamification mobile solution on the cloud and scales to new customers across different markets"
+publishedDateTime: 2021-03-07T06:51:00Z
+originalUrl: "https://gulfbusiness.com/microsoft-cloud-delivers-for-dubai-based-startup/"
+webUrl: "https://gulfbusiness.com/microsoft-cloud-delivers-for-dubai-based-startup/"
 type: article
-quality: 54
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Redmond Magazine
-  domain: redmondmag.com
+  name: Gulf Business
+  domain: gulfbusiness.com
 
 topics:
   - Azure
-  - Identity
 
 images:
-  - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Upgrade2.jpg"
-    width: 647
-    height: 450
+  - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/Digiteam.jpg"
+    width: 770
+    height: 591
     isCached: true
 
 related:
@@ -556,6 +555,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
+    excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
+    publishedDateTime: 2021-02-25T15:40:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/25/azure-active-directory-b2c-sla.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Upgrade2.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
     excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
@@ -1275,20 +1288,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Microsoft Cloud delivers for Dubai-based startup"
-    excerpt: "With support from Microsoft, Dubai-based startup Digiteam offers its sales digitisation and gamification mobile solution on the cloud and scales to new customers across different markets"
-    publishedDateTime: 2021-03-07T06:51:00Z
-    webUrl: "https://gulfbusiness.com/microsoft-cloud-delivers-for-dubai-based-startup/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 22
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/03/Digiteam.jpg"
-        width: 770
-        height: 591
-        isCached: true
   - title: "Microsoft Azure launches services that compete with Twilio, Amazon"
     excerpt: "Microsoft (MSFT +1.2%) launches Azure Communication Services, which allows developers to add video, voice, chat, and text messaging across applications, websites, and mobile platforms.The tech giant says Communication Services can improve \"customer engagement with Azure AI translation and sentiment analysis for chat messages."
     publishedDateTime: 2020-09-22T16:57:00Z
@@ -1360,6 +1359,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "gaW6sQ3RyRZ1D90l8yctN+pVdkUypWZNmQGl2m6/CBIY5zuUsSUvLyDrlp6HvEv369aTp2JQsyiaKCfSxcuavd/ViORpM/OVbwpeTTBkzoe0r1HW73Prup/E/axf+8oex1+whZr7KXIyZ2Q5eO0Pima3Hn5Uy5wma8kQApj7IgrVF0m3fRWylC54/n/zuNQXbtRoFIrWoMtu1aeQDFdDChhO9h/LOrevJ8vaDhvdSX7nGo3w76OZOYmhuAu4wsrmf0HwsEfNaQ71hPT2jzaLi7QLoNBbkC0RF/K4XXXFzhImgrTilLTnnj5bswCO58VN2ANeVMB92vzPjRsM9ODHyctry/RqG+RBxCnA96rbw3QrsXy0eWb76S8muB22fvK4CZtiqpvqnyVuCuNwz+iQymJmaKaecadN1Myne6nyfLUJ2kR8GzlpWW3sBGhw6FEn2haxoeIc8QsSb1DkYNTKjZTufPcMKbmGfLYBafQa5lw3vlm2dKNuYTkqZNKdncOrEYSQLk6Tb8KtQQxAKBIMWQ==;cILMOBWOQ+a1whEtpqRmAQ=="
+secured: "dRU3Ujd6IQifShPDk2tl7m+cNB1weJJqK2z8apGa78Nceh7kQU5acuL40qHDNE3BmIxBJrxV19k6go2GABKNcUizCv7eDf9YSpp/4XBSDeeWODHbnxIxSfAKZXecB2HAEBB8k4z0EEGSv077s7zBH+L/7VeIoyuoIkAukBNrVlR6H7/rXdz4P1iB1cUb6ikpnC1L7Meypqpeqvdyhi47uE1EyeqcB2PG4mCKlb1PwOUSo649RTvn7IgHSaV5r1FFe5axQw5qI4FRTtRkhk0lTwecImyj5CKq75eoUDtDdcxXqD+G/TNSK37cTjXnmz7F/XWDB/NBIP791Vu0bktLyR5vSZryPBRi2EnRD9eMA9g=;/DYJLqHpKJFsHvtGG7tm0A=="
 ---
 
