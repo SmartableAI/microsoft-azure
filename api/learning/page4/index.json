@@ -4,6 +4,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-azure-storage-account.md",
+      "title": "Secure your Azure Storage account",
+      "excerpt": "Learn how Azure Storage provides multilayered security to protect your data with access keys, secure networks, and Advanced Threat Protection monitoring.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-azure-storage-account/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 8905,
+        "average": 4.65379
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
       "title": "Upload, download, and manage data with Azure Storage Explorer",
       "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2148,
-        "average": 4.6284914
+        "count": 2149,
+        "average": 4.6286645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -358,7 +401,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 54,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -401,7 +444,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -426,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 69,
-            "average": 4.826087
+            "count": 70,
+            "average": 4.8285713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -573,7 +616,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 54,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -616,7 +659,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -641,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 69,
-            "average": 4.826087
+            "count": 70,
+            "average": 4.8285713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -703,8 +746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
       "length": "PT39M",
       "ratings": {
-        "count": 140347,
-        "average": 4.701369
+        "count": 140348,
+        "average": 4.7013707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -738,8 +781,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 902,
-        "average": 4.7372503
+        "count": 904,
+        "average": 4.737832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -781,8 +824,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 806,
-        "average": 4.6898265
+        "count": 808,
+        "average": 4.690594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,8 +891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17509,
-            "average": 4.6973557
+            "count": 17510,
+            "average": 4.697373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1308,8 +1351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41019,
-            "average": 4.7167654
+            "count": 41020,
+            "average": 4.716772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1698,8 +1741,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 3134,
-            "average": 4.7967453
+            "count": 3136,
+            "average": 4.796875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1868,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17509,
-            "average": 4.6973557
+            "count": 17510,
+            "average": 4.697373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1982,8 +2025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
           "length": "PT42M",
           "ratings": {
-            "count": 2359,
-            "average": 4.5913525
+            "count": 2360,
+            "average": 4.5915256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2636,8 +2679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1984,
-            "average": 4.612399
+            "count": 1985,
+            "average": 4.6125946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2947,8 +2990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 894,
-            "average": 4.653244
+            "count": 895,
+            "average": 4.653631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3680,8 +3723,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 1984,
-            "average": 4.612399
+            "count": 1985,
+            "average": 4.6125946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3881,8 +3924,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 2330,
-        "average": 4.6991415
+        "count": 2332,
+        "average": 4.6993995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3925,8 +3968,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
       "length": "PT46M",
       "ratings": {
-        "count": 41019,
-        "average": 4.7167654
+        "count": 41020,
+        "average": 4.716772
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4045,8 +4088,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 17509,
-        "average": 4.6973557
+        "count": 17510,
+        "average": 4.697373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4080,8 +4123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 2628,
-        "average": 4.607306
+        "count": 2630,
+        "average": 4.6072245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4157,51 +4200,6 @@
         "Azure",
         "Management Tools",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer.md",
-      "title": "Troubleshoot inbound network connectivity for Azure Load Balancer",
-      "excerpt": "Learn how to troubleshoot inbound network connectivity for Azure Load Balancer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-inbound-network-connectivity-azure-load-balancer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
-      "length": "PT1H38M",
-      "ratings": {
-        "count": 693,
-        "average": 4.7099566
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/troubleshoot-inbound-connectivity-azure-load-balancer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Networking"
       ]
     }
   ],
