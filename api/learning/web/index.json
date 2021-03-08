@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services.md",
+      "title": "Create a Content Delivery Network for your Website with Azure CDN and Blob Services",
+      "excerpt": "This module looks at how to create and utilize a Content Delivery Network (CDN) within Azure to host commonly used assets, such as images in a website. The module covers Azure CDN rather than third-party integrations, and deals with using Blob Storage as an underlying storage model for stable or non-volatile data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 534,
+        "average": 4.7509365
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 34689,
-            "average": 4.7837067
+            "count": 34705,
+            "average": 4.7837486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7606,
-            "average": 4.720352
+            "count": 7610,
+            "average": 4.720368
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6621,
-            "average": 4.758496
+            "count": 6623,
+            "average": 4.7584176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5216,
-            "average": 4.756135
+            "count": 5219,
+            "average": 4.7560835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -259,8 +304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5510,
-            "average": 4.6127043
+            "count": 5516,
+            "average": 4.6131253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -295,8 +340,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2158,
-            "average": 4.7710843
+            "count": 2162,
+            "average": 4.7715077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -338,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3754,
-            "average": 4.729888
+            "count": 3757,
+            "average": 4.7293053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +491,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 6621,
-        "average": 4.758496
+        "count": 6623,
+        "average": 4.7584176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +643,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4332,
-            "average": 4.726916
+            "count": 4333,
+            "average": 4.726748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -773,8 +818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4243,
-            "average": 4.69597
+            "count": 4244,
+            "average": 4.6960416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41031,
-            "average": 4.7167993
+            "count": 41032,
+            "average": 4.7168064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1073,8 +1118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 593,
-            "average": 4.627319
+            "count": 594,
+            "average": 4.627946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,7 +1355,7 @@
           "length": "PT58M",
           "ratings": {
             "count": 5861,
-            "average": 4.618154
+            "average": 4.6179833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1602,8 +1647,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4594,
-            "average": 4.754027
+            "count": 4598,
+            "average": 4.754241
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1863,7 +1908,7 @@
           "length": "PT58M",
           "ratings": {
             "count": 5861,
-            "average": 4.618154
+            "average": 4.6179833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1899,8 +1944,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5224,
-            "average": 4.659265
+            "count": 5225,
+            "average": 4.6593304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2025,8 +2070,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3538,
-            "average": 4.7405314
+            "count": 3540,
+            "average": 4.740678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2266,7 +2311,7 @@
           "length": "PT58M",
           "ratings": {
             "count": 5861,
-            "average": 4.618154
+            "average": 4.6179833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2652,8 +2697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
           "length": "PT22M",
           "ratings": {
-            "count": 413,
-            "average": 4.7288136
+            "count": 414,
+            "average": 4.729469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3076,7 +3121,7 @@
       "length": "PT58M",
       "ratings": {
         "count": 5861,
-        "average": 4.618154
+        "average": 4.6179833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3427,51 +3472,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services.md",
-      "title": "Create a Content Delivery Network for your Website with Azure CDN and Blob Services",
-      "excerpt": "This module looks at how to create and utilize a Content Delivery Network (CDN) within Azure to host commonly used assets, such as images in a website. The module covers Azure CDN rather than third-party integrations, and deals with using Blob Storage as an underlying storage model for stable or non-volatile data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-content-delivery-network-azure-cdn-blob-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 534,
-        "average": 4.7509365
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-cdn-static-resources-blob-storage-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
       "title": "Design a geographically distributed application",
       "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
@@ -3561,8 +3561,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
       "length": "PT22M",
       "ratings": {
-        "count": 413,
-        "average": 4.7288136
+        "count": 414,
+        "average": 4.729469
       },
       "provider": {
         "name": "Microsoft Learn",
