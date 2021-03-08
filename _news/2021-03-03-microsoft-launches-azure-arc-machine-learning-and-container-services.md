@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2129
+heat: 2149
 published: true
 
 provider:
@@ -1085,6 +1085,20 @@ related:
       - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Paysafe preps move to the cloud with Microsoft Azure"
+    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services."
+    publishedDateTime: 2021-03-08T10:02:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86493/paysafe-preps-move-to-the-cloud-with-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

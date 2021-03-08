@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Microsoft Mesh brings mixed-reality apps to Azure"
-excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
-publishedDateTime: 2021-03-02T20:37:00Z
-originalUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
-webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
-ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+title: "Paysafe preps move to the cloud with Microsoft Azure"
+excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services."
+publishedDateTime: 2021-03-08T10:02:00Z
+originalUrl: "https://www.finextra.com/pressarticle/86493/paysafe-preps-move-to-the-cloud-with-microsoft-azure"
+webUrl: "https://www.finextra.com/pressarticle/86493/paysafe-preps-move-to-the-cloud-with-microsoft-azure"
 type: article
-quality: 97
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -173,6 +167,22 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
         width: 4800
         height: 2700
+        isCached: true
+  - title: "Microsoft Mesh brings mixed-reality apps to Azure"
+    excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
+    publishedDateTime: 2021-03-02T20:37:00Z
+    webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
@@ -1085,20 +1095,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paysafe preps move to the cloud with Microsoft Azure"
-    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services."
-    publishedDateTime: 2021-03-08T10:02:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86493/paysafe-preps-move-to-the-cloud-with-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1411,6 +1407,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "EQwUtzxLYmRE319TFzzpU0ZCRmoQmqnUHsJaA6FpgflkFalJS6ryCWRg7dk88yYNNK0Qu80nfotI7+oXPYervDOj91cM1z13OcWwacTJQAqdEi9/DDITu4+51J1OxxR8PjSKYhdLYlE1+p6+H0DDMXU23aj7JdsbOgtozFw1+cfMJ9Wp26qffndB4PR/vj4JGGGSFr0vYwkTI/vqaZfugrNndvEo6f2T+tL6NSTYZJ5s4IRbFdKY6m1uNIboLqkOTkA48Su5bIB/KlfXXaZ/FinHHmerJ4aYvi3hmyBCF/eCW+nNlwlfvqLWOmVOPQ53n6kqHvwcsBaNyN4quiNRch0IbOIsAOMWz9tQV4N1SJU=;zvINuy15PFRqjZiekgo81A=="
+secured: "EtDQt/AjLXjjU5UzEeO95P0f8Tws7AT3NmqdcsNisgbIDJJrNcmOdfFbw0jwc50T0h+5TVfQ9XgaPrLAGKgo5M58s7KxBZ8Svj4Qv7eiJ01dt3y+mHAQg+9cA3x+btdOaJn9ezVVHcCa9w+2jF+k/zV863kaOWN8w8sZ8pbh70vskng9dAGpq9SRnzGL5I7VMR3+CQA2Sbhg5/GRASIzbHiLSX5GZvCl25MOLHW5VUYNXDqQ7NVgCqVq49coPZkPa1E4pKFfxdbtrk1JSvPmvpnTAMkj7mcY0/to0G4gpZUIbmsqbEcv8BAXfhIgSPu19z/CGmwZ04PtRsTn9cLnJ1iMETlYUNFwXiXOOLyQBbk=;Da2K7qUdTn92gKJ/ezt7sg=="
 ---
 

@@ -1095,6 +1095,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Paysafe preps move to the cloud with Microsoft Azure"
+    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services."
+    publishedDateTime: 2021-03-08T10:02:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86493/paysafe-preps-move-to-the-cloud-with-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "IOTech Edge XRT: A time-critical edge platform for Microsoft Azure Sphere"
     excerpt: "IOTech announced the launch and availability of Edge XRT, its time-critical edge platform for Microsoft Azure Sphere."
     publishedDateTime: 2021-03-05T01:33:00Z
