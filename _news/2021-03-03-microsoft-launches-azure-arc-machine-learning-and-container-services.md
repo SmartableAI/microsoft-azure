@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2109
+heat: 2129
 published: true
 
 provider:
@@ -1378,6 +1378,15 @@ related:
     provider:
       name: Scoop
       domain: scoop.co.nz
+    quality: 13
+  - title: "Strata Identity Enables Organizations to Migrate Applications to the Cloud and Unify Identity Management with Microsoft Azure Active Directory"
+    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Strata, the distributed multi-cloud identity orchestration company, today announced at Microsoft Ignite that its Maverics Identity Orchestrator platform for ..."
+    publishedDateTime: 2021-03-04T14:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210304005187/en/Strata-Identity-Enables-Organizations-to-Migrate-Applications-to-the-Cloud-and-Unify-Identity-Management-with-Microsoft-Azure-Active-Directory"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 13
   - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
     excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"

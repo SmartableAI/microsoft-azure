@@ -1382,6 +1382,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 13
+  - title: "Strata Identity Enables Organizations to Migrate Applications to the Cloud and Unify Identity Management with Microsoft Azure Active Directory"
+    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Strata, the distributed multi-cloud identity orchestration company, today announced at Microsoft Ignite that its Maverics Identity Orchestrator platform for ..."
+    publishedDateTime: 2021-03-04T14:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210304005187/en/Strata-Identity-Enables-Organizations-to-Migrate-Applications-to-the-Cloud-and-Unify-Identity-Management-with-Microsoft-Azure-Active-Directory"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "21pcenzCA+8po5r7iWvH6npF26uRThHpJDItIEKuAx7B3buYxqEtU7i+Xcwnq81SKh9amjahSJk3WhcRbH7d+/4i5HWSbKb7X0d+ZcBJ+OBaTWru8T+1HAHeVSVjzzjLfjJU9s1ayCGyNUq5wB8PQlOxsyoa4v2MJ/JbL2uOAzwwT+/BWPr4vwfVMxlXD45r77Ta2WIY92IMS2WUs1Xm8okbmq8EYpa/Gi8SSVpRMzHde7qas0XmDuUoFM1Mugh8BdDxRbo1U4uUz61ynxygsZY8DAS2m75fY++q/M7tysmJ7gRWt1p6QUETNIEGo1vBC8SSfICsRbWSLcP8iwQdVgQ4Zo5w9UhD3tK6z8t3VMk=;Jn3tHQOwPpUggKEchFn8fg=="
 ---

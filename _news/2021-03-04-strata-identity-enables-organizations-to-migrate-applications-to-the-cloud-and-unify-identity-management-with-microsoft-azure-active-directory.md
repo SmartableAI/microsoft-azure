@@ -1,27 +1,22 @@
 ---
 category: news
-title: "Microsoft Launches Azure Stack HCI"
-excerpt: "Currently, Azure Stack HCI is available \"worldwide, in 18 languages.\" It uses \"the Azure Stack HCI service,\" which is currently available in \"East US, West Europe, and Southeast Asia, with more regions planned every few weeks going forward,"
-publishedDateTime: 2020-12-14T15:32:00Z
-originalUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
-webUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
+title: "Strata Identity Enables Organizations to Migrate Applications to the Cloud and Unify Identity Management with Microsoft Azure Active Directory"
+excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Strata, the distributed multi-cloud identity orchestration company, today announced at Microsoft Ignite that its Maverics Identity Orchestrator platform for ..."
+publishedDateTime: 2021-03-04T14:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210304005187/en/Strata-Identity-Enables-Organizations-to-Migrate-Applications-to-the-Cloud-and-Unify-Identity-Management-with-Microsoft-Azure-Active-Directory"
+webUrl: "https://www.businesswire.com/news/home/20210304005187/en/Strata-Identity-Enables-Organizations-to-Migrate-Applications-to-the-Cloud-and-Unify-Identity-Management-with-Microsoft-Azure-Active-Directory"
 type: article
-quality: 37
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Redmond Channel Partner
-  domain: rcpmag.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
-    width: 647
-    height: 450
-    isCached: true
+  - Identity
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -843,6 +838,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 37
+  - title: "Microsoft Launches Azure Stack HCI"
+    excerpt: "Currently, Azure Stack HCI is available \"worldwide, in 18 languages.\" It uses \"the Azure Stack HCI service,\" which is currently available in \"East US, West Europe, and Southeast Asia, with more regions planned every few weeks going forward,"
+    publishedDateTime: 2020-12-14T15:32:00Z
+    webUrl: "https://rcpmag.com/articles/2020/12/14/microsoft-launches-azure-stack-hci.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/RocksStackedSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Introduces Azure Health Bot"
     excerpt: "Microsoft recently introduced Azure Health Bot, an evolution of Microsoft Healthcare Bot that is becoming an Azure service with added functionalities. Built for developing virtual health care assistants,"
     publishedDateTime: 2021-01-21T08:15:00Z
@@ -1374,15 +1383,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 13
-  - title: "Strata Identity Enables Organizations to Migrate Applications to the Cloud and Unify Identity Management with Microsoft Azure Active Directory"
-    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Strata, the distributed multi-cloud identity orchestration company, today announced at Microsoft Ignite that its Maverics Identity Orchestrator platform for ..."
-    publishedDateTime: 2021-03-04T14:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210304005187/en/Strata-Identity-Enables-Organizations-to-Migrate-Applications-to-the-Cloud-and-Unify-Identity-Management-with-Microsoft-Azure-Active-Directory"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
   - title: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS ..."
     excerpt: "STMicroelectronics Speeds Smart Devices to Market with Extra Software for Microsoft® Azure RTOS Projects on STM32 MCUs. Fully integrated within STM32Cube ecosystem, software expa"
     publishedDateTime: 2021-03-02T05:44:00Z
@@ -1393,6 +1393,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "OMeDJV1ey77CAIlld+wqClgJhduUi6vYYm2nzXArRY77fUusy2XULHv93eRUneHZ7txMldMC6i6uLBRoi6pruCIYC9KFjawCzHPGNWUtJXpLbzTgthUH3ClVyaWrHTBZEgpuchUn0GbC1XA8Elj/I1YDr5WkR2cAE1WqK3uFBuQ/bQwsyxrhRBAYWjafVAatgZZONk+6FvHULvt9LMPmF0AjeTVcn9biRuTA90CHmcXKPyZl+hgETN5xvcs0CNlE4oTI6Ch4CgVWUxphtlS17yhgEnmKiCavJs6pY6cnthkqiWw0MJRVrpdTjdL/vfci3EiTP32/pm0vYQ7XzFj89wKz/oQnNht7A9yv4QRAafs=;jBSFwTlIEB603KkhEFFTfA=="
+secured: "H8k4Vdg5RMvWU5Rsqfl3C5S+KjlT6sKAcfEajQAfnUMJaShu1t/oS63HCZ0t2m16/+suKXbc0kpAnnIdOVd0rAJzL3lIg1jOskkTt/q1p+cY/AlCzrCDR4k4KERZ0pZ9GvYIcFmsNQYij4gHu8WlpiWrMqFEdgJ1674mZfSC7Cn25J+mrBjEk2Z6ToCTGGmpLlsbMP18qbrbNHM1/t3/4F0nNIcuP3nMMbys11qZbNcixB783iiLzLnSSGYh5STxLac8iUlb+7MJxrrF7AnnmG5mgcaFy3rXe/LAVxnF8U/WY9Jowln/eNNzKX7O3JbFiV0NPK3YddT3G9ITOyMIC6T9PiWu/CfSRsh8WF25qiY=;33iXe8abJGd29+4PtodpHg=="
 ---
 
