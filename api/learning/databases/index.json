@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-your-azure-sql-database.md",
-      "title": "Secure your Azure SQL Database",
-      "excerpt": "Secure an Azure SQL database to keep the information safe and diagnose potential security concerns as they happen.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-your-azure-sql-database/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
-      "length": "PT1H7M",
+      "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
+      "title": "Configure databases for performance",
+      "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
+      "length": "PT24M",
       "ratings": {
-        "count": 4456,
-        "average": 4.537029
+        "count": 573,
+        "average": 4.8010473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,13 +29,20 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 132,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
         "Databases"
       ]
     },
@@ -70,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 34670,
-            "average": 4.783617
+            "count": 34677,
+            "average": 4.783632
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -112,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7600,
-            "average": 4.7203946
+            "count": 7606,
+            "average": 4.720352
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -158,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6613,
-            "average": 4.7588086
+            "count": 6616,
+            "average": 4.758313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -203,8 +210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5214,
-            "average": 4.756233
+            "count": 5215,
+            "average": 4.75628
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -272,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7600,
-        "average": 4.7203946
+        "count": 7606,
+        "average": 4.720352
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4584,
-            "average": 4.7539268
+            "count": 4586,
+            "average": 4.753816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -385,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7162,
-            "average": 4.66406
+            "count": 7163,
+            "average": 4.6639676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -420,8 +427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2148,
-            "average": 4.6061454
+            "count": 2149,
+            "average": 4.605863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -463,8 +470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8923,
-            "average": 4.6542645
+            "count": 8926,
+            "average": 4.6543803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -630,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7879,
-            "average": 4.656936
+            "count": 7880,
+            "average": 4.6569796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -704,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3333,
-            "average": 4.5745573
+            "count": 3334,
+            "average": 4.574685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -765,8 +772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2156,
-        "average": 4.6289425
+        "count": 2159,
+        "average": 4.628532
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -832,8 +839,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4235,
-            "average": 4.6956315
+            "count": 4240,
+            "average": 4.6959906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,8 +1038,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12797,
-        "average": 4.6796904
+        "count": 12799,
+        "average": 4.6797404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,8 +1097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7600,
-            "average": 4.7203946
+            "count": 7606,
+            "average": 4.720352
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1374,8 +1381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1750,
-            "average": 4.592
+            "count": 1751,
+            "average": 4.592233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2321,8 +2328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4235,
-            "average": 4.6956315
+            "count": 4240,
+            "average": 4.6959906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3880,8 +3887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3333,
-        "average": 4.5745573
+        "count": 3334,
+        "average": 4.574685
       },
       "provider": {
         "name": "Microsoft Learn",
