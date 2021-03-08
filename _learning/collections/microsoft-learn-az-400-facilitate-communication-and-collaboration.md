@@ -4,7 +4,7 @@ excerpt: "Explore DevOps capabilities such as continuous planning and continuous
 type: collection
 price: Free
 length: PT2H13M
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft Learn

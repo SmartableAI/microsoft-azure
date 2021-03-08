@@ -8,7 +8,7 @@ length: PT1H9M
 ratings:
   count: 104
   average: 4.5865383
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -33,6 +33,6 @@ images:
     height: 320
     isCached: true
 
-secured: "zLfurYc8MkA4Rl0QTFGSz8svnAR5vv6W84p4Nlxia7+m3DCC4nJZ3RnnkAP8dwNK7+IIIPXeCHaZu09BNFOu/FYFgk3p5nPAREhDMTO9F3bYMikJo6Sx3+uUURTf9YEtbSfZhsrPdS0iDJDtSJFIKrq7BxMAPCBLm0ssnZEOt+f3gUIIol3WEy82jy/ukayMZl1+p0Yk8MU27DXXvY8mySS5euoSidAVpJWcJxj7o0socrP5cXRnYa+UguprWS0ID7UbTDGxkD/0WhgZx1kIufp+V3MvV7kHVCxPgIjHeyQ/wo/Vt+oAnQkZ7xNjfUPsc4oHpFC7umSrlVMrWUZb1RIlPy21fUqHh/zOwI1lw4CLbHgpaBg1Rd1V9OZvkz3Rl6AxFcx4mPcJtbWLt0EcR72P0wOwJkr19gZB+G6GFDg=;7GdrfoLF35E9oBzWS+pLZw=="
+secured: "6zFFDOR15Ak1zpQB0jTYaC4ZHT2c7o+CBpkYIY5NkyOQafOvdoxnZWk/ubhIcpn/9ix5qGLTgwEwDA5WDXDdWsdLitz+rSjAIu+3cexCCEmladJTwUf0YwpHHuuKkAxyBleakWCp4JXBjxB7VqByhNo8v7S4iZMi0NmoUqSsbhJJm1QXl3VX6MVegP7VvnTgbmL1Jjkv5j2zClNzd4wJoa/HR4PglHNxWpaUmnEwG4TjZM7Viou/rS04n4R23QOsPowq0gAfenF2rSBIbPxUtdg6LCcTyTbOwlxf/gNsU2+Q3VpFxE48EIaljj/TTiLYS4qBRWbqiO1SOaYm76yqOJoEDlCZkxuVj5GOxapeGekZbBaLvzmGVo3h9W0HMhuFG3jdvvpsiX1AcDCDETVERHzyRNOvudNOWqTbhFcz5II=;KkQgJL/bS78pXzyFYKMjNw=="
 ---
 

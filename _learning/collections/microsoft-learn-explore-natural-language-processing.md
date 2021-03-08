@@ -4,7 +4,7 @@ excerpt: "Natural language processing supports applications that can see, hear, 
 type: collection
 price: Free
 length: PT2H6M
-heat: 63
+heat: 66
 
 provider:
   name: Microsoft Learn

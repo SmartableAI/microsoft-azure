@@ -4,7 +4,7 @@ excerpt: "SC-300 part 3: Implement Access Management for Apps"
 type: collection
 price: Free
 length: PT2H7M
-heat: 54
+heat: 56
 
 provider:
   name: Microsoft Learn
