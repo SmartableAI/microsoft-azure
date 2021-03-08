@@ -409,7 +409,7 @@ related:
   - title: "Microsoft is opening a new Azure cloud computing region in China"
     excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
     publishedDateTime: 2021-03-05T15:19:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
+    webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
     type: article

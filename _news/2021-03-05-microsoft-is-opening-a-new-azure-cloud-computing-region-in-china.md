@@ -3,8 +3,8 @@ category: news
 title: "Microsoft is opening a new Azure cloud computing region in China"
 excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
 publishedDateTime: 2021-03-05T15:19:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
-webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/?via=indexdotco"
+originalUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
+webUrl: "https://www.zdnet.com/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-opening-a-new-azure-cloud-computing-region-in-china/"
 type: article
@@ -1387,6 +1387,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "QhIrGrmBqeIZ5MPC+1eZHjQeYTSuU0+H07wt3YJp7267BZCbZEgDxbOkR/4DlR3FOQ9LPB42ZHU8KDUoHePkS1//hLcsmNLkdaIz5HJ0KP9A6F0ObjH3r8bNEndvayHy9Dff+Q+5kSd8efz/vRaX4tOAk6klffNYaobm44/EmBFfSutxvMgQc6fMAxxO2CTAmqwOfsb9ZvFPGBgdJpFn7ZkMVYMDzNXNYWfVH/r1tL5x1RhKYUYeVGNNwfuoLZMUqGrVPtkEPt2KN32qvVK7Fz8szZPWI8ZWmvPVOy7jObLk1s8FYFbjF4tEdFoxuLbdgk3RHULzsji1YXGhBswE/c1uLMiTxbUKaHnse7cS3eAB4NXXtqG99xf9z+aHjOJoBEV8zR3zD4/5q75/EjAMLsn2lh9Ebt9mqW0ebSYBwNREX7c/l8u6Kc68z6znDPYraxV1OpAkYhYSZZGPzmbxfETCK04MPqY1ej4PexcHB34gSP4D2aSKo1Vdreq12iZEFPKNBDLtsKo4esMmursdpA==;wrpCogU12J0S+NphBFzyaw=="
+secured: "xJWngGR+WuEsNwJrTeVOvvfV6h71+w6vue9KUPu3ty1mMbxFsHiuxgY+NPVEMk202ziWWsHKKDm4FSJKylmLsfC3mAwh7ozr1CSdud736/B3XJxoA7d3DHsKEjW9HrCcVq/Bhl/Gn7Pq3sn7FXZ26zKzGrmpy5fX2VLk3VOfFP1wsoESo+03AV4jBvPE/VxOEfEarUlvW6pwm3FDOhf+SKKsC98b1U0OOoiW6mhwCi5fWrk78ryp4T+Ehigw/WSjIHoq0Wu5Lf19qJbMJoCMTidYLN7HD5nqVS9KvoFvvnaS+7LrVPH4uIeyXQFg7MhlJofhQbOpoCnfy2d7fIRTAzpcM/rukR2ACESmtehJnb1cHvchDDDIl+pRcGyMEcdxTzCcRUnkyHAyZU7S5yUxJYbpX1C6bTvB8bntYRTycUE1kS04VPwfVQ40geoF7wfCodhIcckqREWFn5AA75DD7sEiHoA3mifJh1zSoBzVHJG/gVypqsYv9TXPtSrzPO76xUmmMTE//WQmdGTQb4NN1g==;i9p/pKz+QKB8c1R+JT6uZg=="
 ---
 
