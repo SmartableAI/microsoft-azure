@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-g
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-generally-available-announcements-at-ignite-march-2021/"
 type: article
 quality: 93
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - Azure
   - AI
-
-related:
-  - title: "Azure Machine Learning - Public preview announcements Ignite, March 2021. "
-    excerpt: "Azure Machine Learning has new features in preview now."
-    publishedDateTime: 2021-03-02T17:00:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-machine-learning-preview-announcements-ignite-march-2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
 
 secured: "Di/Dkttrnar3aDU1OAU5b2E2obTyRrwx5dNG3oszI1KBjDZuYVxBgl5fCQo4fJq4aYGCXmkU7JyeQxGWdMmNKVUZjSdC9F2G5EkB27WWIBo2yRjFhAcjbPG248Dch6pEYnjm6GVGzRnivIgA3WEel+PN0rtIet9frXPfyKPOJX6QeFWWHv1iYPx5pnwQ85CEluWMlIKeVnjNdgIw+5aIigBEc6pPE/gbocDXkTjJSgflO4IHZFrGXrVLMpj869Z/Y1i3GDbDNZFczo97manl/zFvR0QIWQKar+qKOzyOa9J4Aec7tsktSv3PZZefrRc5Q3BWIEUevF2Zsd00LKpennY2x8r4YWdXB2LE1bnad4g=;2uYgwrLUasJWOpePwi7ibQ=="
 ---

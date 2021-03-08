@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-pur
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-powered-search-in-azure-synapse-analytics-workspaces/"
 type: article
 quality: 93
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Announcing new capabilities for Azure Automanage"
-    excerpt: "Announcing new enhancements to Azure Automanage for Windows Server and the expansion of Azure Automanage to Linux. "
-    publishedDateTime: 2021-03-02T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-new-capabilities-for-azure-automanage/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
     excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
     publishedDateTime: 2021-03-02T17:00:11Z
