@@ -1100,6 +1100,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "How it Works: Veeam Backup for Microsoft Azure v2"
+    excerpt: "Veeam introduced Veeam Backup for Microsoft Azure v2, now with the option to natively perform a backup of your Azure environments."
+    publishedDateTime: 2021-03-08T16:42:00Z
+    webUrl: "https://www.storagereview.com/review/how-it-works-veeam-backup-for-microsoft-azure-v2"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
+        width: 850
+        height: 385
+        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z

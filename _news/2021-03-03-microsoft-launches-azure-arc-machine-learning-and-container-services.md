@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2149
+heat: 2169
 published: true
 
 provider:
@@ -1099,6 +1099,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "How it Works: Veeam Backup for Microsoft Azure v2"
+    excerpt: "Veeam introduced Veeam Backup for Microsoft Azure v2, now with the option to natively perform a backup of your Azure environments."
+    publishedDateTime: 2021-03-08T16:42:00Z
+    webUrl: "https://www.storagereview.com/review/how-it-works-veeam-backup-for-microsoft-azure-v2"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
+        width: 850
+        height: 385
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

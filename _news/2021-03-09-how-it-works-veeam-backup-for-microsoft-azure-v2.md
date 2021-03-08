@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
-excerpt: "Nexans will now be able to bring both speed and scale to the digital development process. The speed comes from the implementation of Microsoft Azure platform for services such as AI, analytics, cloud computing, storage and networking. This will put Nexans ..."
-publishedDateTime: 2021-02-24T19:19:00Z
-originalUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
-webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+title: "How it Works: Veeam Backup for Microsoft Azure v2"
+excerpt: "Veeam introduced Veeam Backup for Microsoft Azure v2, now with the option to natively perform a backup of your Azure environments."
+publishedDateTime: 2021-03-08T16:42:00Z
+originalUrl: "https://www.storagereview.com/review/how-it-works-veeam-backup-for-microsoft-azure-v2"
+webUrl: "https://www.storagereview.com/review/how-it-works-veeam-backup-for-microsoft-azure-v2"
 type: article
-quality: 38
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Newswire Today
-  domain: newswiretoday.com
+  name: StorageReview
+  domain: storagereview.com
 
 topics:
   - Azure
-  - AI
-  - Analytics
+
+images:
+  - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
+    width: 850
+    height: 385
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -698,6 +702,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
+    excerpt: "Nexans will now be able to bring both speed and scale to the digital development process. The speed comes from the implementation of Microsoft Azure platform for services such as AI, analytics, cloud computing, storage and networking. This will put Nexans ..."
+    publishedDateTime: 2021-02-24T19:19:00Z
+    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 38
   - title: "Silverfort Launches Unified Identity Protection Platform for Microsoft Azure Active Directory"
     excerpt: "The Silverfort Unified Identity Protection platform allows customers to migrate all their hybrid assets, including non-web systems, into Azure AD."
     publishedDateTime: 2021-03-02T19:01:00Z
@@ -1096,20 +1109,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "How it Works: Veeam Backup for Microsoft Azure v2"
-    excerpt: "Veeam introduced Veeam Backup for Microsoft Azure v2, now with the option to natively perform a backup of your Azure environments."
-    publishedDateTime: 2021-03-08T16:42:00Z
-    webUrl: "https://www.storagereview.com/review/how-it-works-veeam-backup-for-microsoft-azure-v2"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
-        width: 850
-        height: 385
-        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1422,6 +1421,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "wLSaCWtlIyY42kCvyed749ghLrnwruclS25Uqf0JH+Lt+6Aa2TAS7IRfmz2B0JxWf5Ym5jq+S0XmqkaryEVJWFFmYq+7n6mmYGHlLQiL+8eCbc9rUrE7p4AkOaLtRs7mHBJ/5DBGeimdn/qSQwlF65F5OTWelNkpeLDwDsrwnPSY7OzZQdH+mfNLodqduUoSJnIvhz7BvcKGsctzhMzXHa8QI7K5Rq+jN+5tchw9GxQIE185xHM4zXc0KGP/83FlkK24n277FCDMHoYWNVJtfQYc0pE5roywaftNij1LuNnv8u0BqBi1Z+lKSIGGTHbyONOJnR+/okSROuccAgiSsoPxUfoaMyYs2L9GiETcFA0=;vo7d6V1Fqop/Yw2JwfewTQ=="
+secured: "j8I8q9mBS5/Se1DuMpkP54RbDMeqEA2nxgrJf7dj4Td6uIHcJHi+jbZBXo4i75dkaDAvhngvbmcVdLJ08Ets8/pk13JWv7LjT1smLzJ92Jed8FpsbjRsVvHoVuaxtZOv9ogIrultGSxetuGbiNjuULfRI8evHWzQ176sjYzNpzVaQz0rD0VHXgCXL6idUU3cirpP+KgltYDBBZ/2miESGAI3wKm4nSrybl/Lvv7AxtSlxLZZLm8GOD0WabCX8FGKFRBMkuy4exSfFhRVpiDu0xMSMCuT6FUIhWKKmg1uAD3bOwF65yeF4uryMAn7VFaG33Yib6Ux69K3lq2jYtoY9mW/+/pSAZn6la3b+OdsXRg=;FWzI6/1+wncnN1cdlPCbrw=="
 ---
 
