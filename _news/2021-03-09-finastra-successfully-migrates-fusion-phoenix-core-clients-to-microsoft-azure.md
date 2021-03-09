@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads"
-excerpt: "With Azure Arc, Microsoft offers a service that allows its customers to run Azure in any Kubernetes environment, no matter where that container cluster is hosted. From Day One, Arc supported a wide range of use cases,"
-publishedDateTime: 2021-03-02T14:01:00Z
-originalUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/"
-webUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/"
-ampWebUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
+excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62"
+publishedDateTime: 2021-03-09T14:03:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-802563146.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-802563146.html"
 type: article
-quality: 108
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
+    width: 1292
+    height: 676
     isCached: true
 
 related:
@@ -110,6 +103,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
         width: 1040
         height: 809
+        isCached: true
+  - title: "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads"
+    excerpt: "With Azure Arc, Microsoft offers a service that allows its customers to run Azure in any Kubernetes environment, no matter where that container cluster is hosted. From Day One, Arc supported a wide range of use cases,"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 108
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
     excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
@@ -1172,20 +1181,6 @@ related:
         width: 2300
         height: 1293
         isCached: true
-  - title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
-    excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62"
-    publishedDateTime: 2021-03-09T14:03:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-802563146.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
-        width: 1292
-        height: 676
-        isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
     publishedDateTime: 2021-03-01T08:43:00Z
@@ -1456,6 +1451,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "/oS2pv2GiujQkGFZ+2zIANHTWtmmbnp4JG/mjHjnsXsjKYG9fTl+xSuFrDeRYlcALd0gacfjjZvdYNKbBX1OtuHOedAZhz5qLbXSG3SCluvU4rEoUJAXw4MsYC6vLur35c3Gmy0X+WQMP2i81yO1gnBur8LqXGAMYcJU4NN3xbmF4rdRVnObQrozx6EES+NwaDArG6yjva4S8Dl4zfjVQ1ngcKATdNDhnukahXI9QAiecGaOdYs/9nfwfqegiD5RFWiKXR3V5CQ6RjIZmupYT3yfvjvWm4UY/bDIc2hUsS9TvVtjNiiuilP2S5pQFyz5KKKVaB7Cc2xMZN8d6+GYbIyMSkN16Cbr6iHcYfRu90zKe7mZeW3Cn7yWnaetk1/8OovFUIHgddsf6IKoa9LUPEbaDiTy1bwVPQBZFjGlRrHZXnHRsd3CWdXmsN6wTkj/6wlpya/tmA77QFKBx9WcQrRuFRiNy2SHorgJHnF6WVXBTu7aodRrnGw9VQ7JTHRwfJmIWeO8mw1upXRgpTNq/Q==;BW84el8UXB+1K8j39OVedw=="
+secured: "KVdUiO/LZ2QL0AIDaCZpVYMzAMbL8xey0GhoKRxWEpA+EuDKP4BrjVrpO6//eXvMBlEtihboKULd74/Lm36DQF7ksvee4/XFJ5Ig1O/TlT4YA6hms3yOIHAFrK2fxtOoz4VQdH+RPQcYrUDEygZRQQKzH3XGt+HgJbbbN4jFZQ28wXByObQepaazYSMxF8L2tWB7VJor+kt/QLVl5UsXwX7Sm0aRetIPkpSriaz0b0YJISmslLHaKyrTiUJPeJ7rsQ6cyaXu1fHDtGny+zSwio7FOlxzdr4g2/iIBP9/RI1yjk6CHPViCHwBcSyliPUY0B8CwY0lqYR3eNivRxWjcrnFamyujMXHaMhbXjEBSm8=;68EfdPWEVh6FZg4G/2VKfw=="
 ---
 
