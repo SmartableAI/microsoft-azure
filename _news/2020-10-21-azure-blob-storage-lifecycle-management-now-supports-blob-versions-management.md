@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Token lifecycle management is now in private preview"
+    excerpt: "With this sprint update, we're announcing Azure DevOps REST API support for personal access tokens that's available now in private preview."
+    publishedDateTime: 2021-03-09T19:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/token-lifecycle-management-is-now-in-private-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Azure Data Lake Storage lifecycle management is now generally available"
     excerpt: "Lifecycle management for Azure Data Lake Storage provides an automated solution for tiering down infrequently used data to cooler tiers, allowing you to easily optimize your data for both performance and cost.   "
     publishedDateTime: 2020-07-31T20:00:18Z

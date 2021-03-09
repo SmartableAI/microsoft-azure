@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Brazil Southeast region added to Azure HDInsight"
+    excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
+    publishedDateTime: 2021-03-09T20:18:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Updates to Azure HDInsight"
     excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
     publishedDateTime: 2020-07-21T16:02:26Z

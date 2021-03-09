@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 78
+  - title: "Token lifecycle management is now in private preview"
+    excerpt: "With this sprint update, we're announcing Azure DevOps REST API support for personal access tokens that's available now in private preview."
+    publishedDateTime: 2021-03-09T19:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/token-lifecycle-management-is-now-in-private-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Device Authority releases new version of IoT security platform with support for Microsoft Azure Sphere and security lifecycle management"
     excerpt: "Device Authority, a global leader in identity and access management (IAM) for the Internet of Things (IoT), today announced the latest version of its KeyScaler platform which includes enhanced device connectivity,"
     publishedDateTime: 2020-09-15T14:14:00Z

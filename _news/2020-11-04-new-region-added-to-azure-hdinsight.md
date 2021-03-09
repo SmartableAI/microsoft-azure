@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
 type: article
 quality: 84
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "HDInsight ID Broker (HIB) provides modern OAuth authentication and enables federated users to login to cluster without syncing on-premise password hashes to the cloud."
     publishedDateTime: 2020-11-09T17:00:09Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-id-broker-hib-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "New Brazil Southeast region added to Azure HDInsight"
+    excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
+    publishedDateTime: 2021-03-09T20:18:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
     type: article
     provider:
       name: Microsoft
