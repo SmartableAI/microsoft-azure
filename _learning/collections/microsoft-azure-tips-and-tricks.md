@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 66
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
   - videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks
   - videos/microsoft-how-to-automatically-manage-azure-blobs-lifecycles-azure-tips-and-tricks
@@ -164,7 +165,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/CEUov9wuZwY/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/0f3lo56h4tg/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

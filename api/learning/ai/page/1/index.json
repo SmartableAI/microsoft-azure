@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-      "title": "Secure Cognitive Services",
-      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning.md",
+      "title": "Explain machine learning models with Azure Machine Learning",
+      "excerpt": "Many decisions made by organizations and automated systems today are based on predictions made by machine learning models. It's increasingly important to be able to understand the factors that influence the predictions models make.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explain-machine-learning-models-with-azure-machine-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
+      "length": "PT47M",
       "ratings": {
-        "count": 26,
-        "average": 4.6538463
+        "count": 327,
+        "average": 4.7553515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 133,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/explain-machine-learning-models-with-azure-machine-learning-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -43,7 +43,50 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Identity",
+        "Management Tools",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
+      "title": "Track wild polar bears with AI",
+      "excerpt": "Detect and track polar bears through photos using AI, then use Power BI to show where polar bears are being spotted.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
+      "length": "PT1H20M",
+      "ratings": {
+        "count": 313,
+        "average": 4.677316
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "AI"
       ]
     },
@@ -78,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 35307,
-            "average": 4.7834706
+            "count": 35356,
+            "average": 4.7836013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7737,
-            "average": 4.7200465
+            "count": 7758,
+            "average": 4.719902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -166,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6738,
-            "average": 4.7580886
+            "count": 6747,
+            "average": 4.758411
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -211,8 +254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5317,
-            "average": 4.755313
+            "count": 5331,
+            "average": 4.7557683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,8 +346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 35307,
-            "average": 4.7834706
+            "count": 35356,
+            "average": 4.7836013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -345,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 5106,
-            "average": 4.7765374
+            "count": 5113,
+            "average": 4.776452
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -388,8 +431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 3944,
-            "average": 4.7175455
+            "count": 3948,
+            "average": 4.7175784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -431,8 +474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 3480,
-            "average": 4.7591953
+            "count": 3484,
+            "average": 4.759472
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -501,8 +544,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7737,
-        "average": 4.7200465
+        "count": 7758,
+        "average": 4.719902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -547,8 +590,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 5106,
-        "average": 4.7765374
+        "count": 5113,
+        "average": 4.776452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 8481,
-            "average": 4.7681875
+            "count": 8486,
+            "average": 4.768089
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -675,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 8481,
-        "average": 4.7681875
+        "count": 8486,
+        "average": 4.768089
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +1002,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
           "length": "PT40M",
           "ratings": {
-            "count": 1764,
-            "average": 4.6128116
+            "count": 1765,
+            "average": 4.6130314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1002,8 +1045,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 910,
-            "average": 4.654945
+            "count": 911,
+            "average": 4.655324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1037,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 777,
-            "average": 4.6615186
+            "count": 778,
+            "average": 4.661954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1158,8 +1201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 793,
-            "average": 4.7704916
+            "count": 794,
+            "average": 4.770781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1201,8 +1244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
           "length": "PT39M",
           "ratings": {
-            "count": 728,
-            "average": 4.745879
+            "count": 729,
+            "average": 4.744856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1244,8 +1287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
           "length": "PT24M",
           "ratings": {
-            "count": 692,
-            "average": 4.7543354
+            "count": 693,
+            "average": 4.7546897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 725,
-            "average": 4.831724
+            "count": 726,
+            "average": 4.831956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1575,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2446,8 +2489,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2489,8 +2532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
           "length": "PT51M",
           "ratings": {
-            "count": 611,
-            "average": 4.7626843
+            "count": 612,
+            "average": 4.759804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2661,8 +2704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2876,8 +2919,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3091,8 +3134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3306,8 +3349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3520,8 +3563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2682,
-            "average": 4.7039523
+            "count": 2683,
+            "average": 4.7040625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3649,8 +3692,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-education/",
           "length": "PT51M",
           "ratings": {
-            "count": 611,
-            "average": 4.7626843
+            "count": 612,
+            "average": 4.759804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3863,8 +3906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
           "length": "PT38M",
           "ratings": {
-            "count": 563,
-            "average": 4.703375
+            "count": 564,
+            "average": 4.7021275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4514,41 +4557,6 @@
       "ratings": {
         "count": 209,
         "average": 4.7177033
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer.md",
-      "title": "Create a Regression Model with Azure Machine Learning designer",
-      "excerpt": "Regression is a supervised machine learning technique used to predict numeric values. Learn how to create regression models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-regression-model-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 275,
-        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",
