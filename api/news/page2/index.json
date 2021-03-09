@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-start-using-new-alerts-in-azure-monitor-for-azure-china-21vianet.md",
+      "title": "Start using new alerts in Azure Monitor for Azure China 21Vianet ",
+      "excerpt": "Classic alerts in Azure Monitor will be retired on 29 February 2024. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/start-using-new-alerts-in-azure-monitor-for-azure-china-21vianet/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/start-using-new-alerts-in-azure-monitor-for-azure-china-21vianet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T11:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-demystifying-cloud-economics.md",
+      "title": "Demystifying cloud economics",
+      "excerpt": "Migrating to the cloud is an evolution, and it is important to think differently about how you consume resources. As you're building a business case in your organization, it is critical to step back and understand the cloud's key constructs and transform your mindset.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/demystifying-cloud-economics/",
+      "originalUrl": "https://azure.microsoft.com/blog/demystifying-cloud-economics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/b53c63f0-f210-440d-9e79-c37b0923baaf.png",
+          "width": 1024,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T01:00:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-automating-quota-management-with-azure-quota-rest-api.md",
       "title": "Automating quota management with Azure Quota REST API",
       "excerpt": "Enterprises are increasingly defined by the applications they use and build to run their core business processes, including the customer experiences they provide. Across all sectors, we see how companies like challenger banks, online healthcare providers, e-commerce providers, and other startups are",
@@ -1068,102 +1162,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used.md",
-      "title": "Hybrid cloud tales from the field: How is Azure Arc being used?",
-      "excerpt": "Cloud migration, enterprise systems consolidation, and agility are among the big reasons that early adopters are looking at hybrid cloud. But “doing hybrid right” requires different approaches to architecture and development because you are working with a mirror image of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
-      "originalUrl": "https://www.zdnet.com/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hybrid-cloud-tales-from-the-field-how-is-azure-arc-being-used/",
-      "publishedDateTime": "2021-02-09T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-azure-defender-for-app-service-introduces-dangling-dns-protection.md",
-      "title": "Azure Defender for App Service introduces dangling DNS protection",
-      "excerpt": "Resources hosted on Azure App Service are at the forefront as attackers are constantly on the lookout for vulnerabilities in web applications. Dormant domains are a permanent resident on the checklist of both opportunistic and target-oriented attackers.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-defender-for-app-service-introduces-dangling-dns-protection/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-defender-for-app-service-introduces-dangling-dns-protection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4220130a-232c-45f1-8354-5391ad537b92.png",
-          "width": 1024,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T01:00:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security",
-        "Compute",
-        "Networking"
       ]
     }
   ],
