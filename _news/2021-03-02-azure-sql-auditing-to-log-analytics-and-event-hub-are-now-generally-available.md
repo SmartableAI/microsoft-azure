@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-lo
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/"
 type: article
 quality: 98
-heat: 238
+heat: 258
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Routing Preference is now generally available "
+    excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
+    publishedDateTime: 2021-03-09T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

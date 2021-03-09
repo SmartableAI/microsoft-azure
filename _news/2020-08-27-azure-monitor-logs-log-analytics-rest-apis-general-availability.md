@@ -49,6 +49,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Azure Routing Preference is now generally available "
+    excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
+    publishedDateTime: 2021-03-09T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Support for reference data up to 5GB and new improvements in Azure Stream Analytics now generally available"
     excerpt: "The latest update of Azure Stream Analytics, now deployed in every supported region, provides support for larger reference data ( up to 5 GB), and add support for composite keys for blob output partitioning."
     publishedDateTime: 2020-12-17T17:00:08Z

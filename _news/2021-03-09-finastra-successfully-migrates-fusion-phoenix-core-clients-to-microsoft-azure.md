@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
-excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62"
-publishedDateTime: 2021-03-09T14:03:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-802563146.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-802563146.html"
+excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and"
+publishedDateTime: 2021-03-09T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure/article_5f936f97-78b1-5815-ad20-4ca032eb9d7e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure/article_5f936f97-78b1-5815-ad20-4ca032eb9d7e.html"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
-    width: 1292
-    height: 676
-    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1451,6 +1445,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "KVdUiO/LZ2QL0AIDaCZpVYMzAMbL8xey0GhoKRxWEpA+EuDKP4BrjVrpO6//eXvMBlEtihboKULd74/Lm36DQF7ksvee4/XFJ5Ig1O/TlT4YA6hms3yOIHAFrK2fxtOoz4VQdH+RPQcYrUDEygZRQQKzH3XGt+HgJbbbN4jFZQ28wXByObQepaazYSMxF8L2tWB7VJor+kt/QLVl5UsXwX7Sm0aRetIPkpSriaz0b0YJISmslLHaKyrTiUJPeJ7rsQ6cyaXu1fHDtGny+zSwio7FOlxzdr4g2/iIBP9/RI1yjk6CHPViCHwBcSyliPUY0B8CwY0lqYR3eNivRxWjcrnFamyujMXHaMhbXjEBSm8=;68EfdPWEVh6FZg4G/2VKfw=="
+secured: "1ifr22dwicCzjNPqxgN2qDvohMU4wHUHpSTHkBhkqVg2vPh+XF0zl6T0FTezPXauEAjcwUFv2LrnqLfcyRQt9cD7/MU2NOOJHrHJNQnCipZL5NYL6Nnw3Yym12WtQoXV3Ds/6eBJ2g8tdpEVPEIMAEGib1uhQP6i73ZFV6f1NVroLL4NzkRj7FUkCobt64WuShakKK+GSMPetcwfbZ/Xr7NfNbCTr4BW5+IwwrJfPiopc+IiX2XRI0gUvQdWSJ+PoAzgs6GNyOO3CvAJSF6BdwOsqapHstCm7RhH7G7+8DXqM3i8iN7JTeMtxMSZaNPhHtUVSAk2iBVnUI8H2Aqy3jqRIfi4HCXWts1+9uSYTQA=;P85XXkHWWsvwqtlTasSRQA=="
 ---
 

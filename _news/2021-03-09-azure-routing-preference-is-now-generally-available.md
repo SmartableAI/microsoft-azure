@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
-excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
-publishedDateTime: 2021-03-02T20:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+title: "Azure Routing Preference is now generally available "
+excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
+publishedDateTime: 2021-03-09T16:00:35Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
 type: article
-quality: 92
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Migration
 
 related:
   - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
@@ -32,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
+    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
+    publishedDateTime: 2021-03-02T20:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z
@@ -45,15 +53,6 @@ related:
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-log-analytics-rest-apis-general-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Routing Preference is now generally available "
-    excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
-    publishedDateTime: 2021-03-09T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft
@@ -96,6 +95,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "d7TGvP+F6P+jOLuniQEsFMugS1rwZr6Y7aP4jS0XnU8iimjPFFqErugF/roxYWeKYv7kJSg2koCHXmx8926W6A2yfB2XM2WzRc9hwUZ88JDO2DAHsfJB9zXMFENddBWDFtPxK9ZC511oUVk1DG463dUhR8E6ma/igr6mIVieXXRuH2nhYJKQ7D8qk7pYd1d0BSZjhQb7VBVF3mJsDJAyOnDX4kI1Pt1cxbckcspV2bZhgQkuN7eYGUlJ2MH36BgFW1Wq+d6MJePPd0ff84n5gJKh0FD4ZA7ZZLrdK8U0IpOetne7DyWSvXH2jkn1VsJ5Sm9yKiY0QnmcL6gZzF87NTGy1JdjyuT1m1SIxfTCmI8=;omMdxOCO7318cdRKijrA6g=="
+secured: "86yeaif0zNKhziSF1c+KpJCS83qas2UeBHXeLyiUGyYHBdrP4jnOvWbVusVH1UGQAYLpg5AIzZ9/yhxwBTplZiZ1sbDI8ISeqL5kWNtemqL94Ha4+OGnLjMW/KU3ssfH4hPEVdxJvqSXJ578Cc+e8xJ//lN0UQ3rp1o4ncs9W0A9+hQrl7QKD7Vt3iEyjdHqmbrdHc6wUwXKcL9IdWa7A3LHe2uIo+my8JVgu4wsAQocHazRjiNQ+KrmVt+ZSmx5KRURLu65C0Xl7NEJyD+M6GsABxh4+c/oH5syczZlK1lpKJay8VnDxMcqFea5c0CK7k+G99plf5EvPLW1hFqTnxjP2G066OryFhHJwKwJ+Ng=;K0Zww1c4s1Yx99Br4uv1uw=="
 ---
 

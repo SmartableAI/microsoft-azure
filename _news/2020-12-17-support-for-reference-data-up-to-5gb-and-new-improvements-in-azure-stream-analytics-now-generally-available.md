@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Routing Preference is now generally available "
+    excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
+    publishedDateTime: 2021-03-09T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-routing-preference-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Event Hubs on Azure Stack Hub for disconnected scenarios is now generally available"
     excerpt: "Supports streaming events via Event Hubs for disconnected scenarios on Azure Stack Hub. "
     publishedDateTime: 2021-03-01T17:00:04Z

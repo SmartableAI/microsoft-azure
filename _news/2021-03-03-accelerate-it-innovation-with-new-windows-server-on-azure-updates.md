@@ -22,15 +22,15 @@ topics:
   - Azure
 
 related:
-  - title: "Enable resilience and accelerate growth with your Azure migration"
-    excerpt: "In response to the global health and macroeconomic crisis that began last year, customers have been accelerating their digital transformation efforts at an unprecedented pace to help bolster organizational resilience. "
-    publishedDateTime: 2021-03-04T08:00:02Z
-    webUrl: "https://azure.microsoft.com/blog/enable-resilience-and-accelerate-growth-with-your-azure-migration/"
+  - title: "Empowering every developer to innovate with Azure"
+    excerpt: "As developers, we are the builders of our era, creating the ideas and writing the code that helps organizations digitally transform. We pioneer innovation that disrupts countless industries and help businesses endure tough times."
+    publishedDateTime: 2021-03-04T07:00:01Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-every-developer-to-innovate-with-azure/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 69
 
 secured: "Onls0d4mvpWMtriNSW7DKbgofyS5d20augaZx86TnVYGlu/CKGPfTA0fRUzOg7ZzICLwmB5jnQOWHagDwmasEpZaQMgy7p3I7uBk9+t6tQU5/ZUsgkScUv4n43dfk8a6oHlF4COlTSa68PutdGBdHnxW7HXeVmgU4UayU2wy8/CSHNB1Yqh/ZCBLrE6o+J+fvXCoPkQMV2EycftcgfOex1T0R88X9KdxPbK64LhLNz0x8q/egrKhndxZml14GNcBralRAY6JfvyvqrUptk6OlpXTOumm1nL6le9OTniGReOrm+5gEQDxm7WH/l8nOWSnn9BfeeJgEHpxnkooRllI2tMQXkpyNVNlRT2lpApEfWU=;dzHEXsZalsdu0icwxic8Mg=="
 ---
