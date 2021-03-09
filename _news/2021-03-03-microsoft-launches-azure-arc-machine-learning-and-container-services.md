@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2169
+heat: 2189
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-687795300.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft makes running a virtual machine on Azure safer - and free"
+    excerpt: "Microsoft has rolled out a new free Azure module that users can use to deploy virtual machines (VMs) with verified and signed bootloaders. The new module builds upon the Virtual Trusted Platform Module (vTPM) to ascertain the integrity of the bootloader."
+    publishedDateTime: 2021-03-09T11:29:00Z
+    webUrl: "https://www.techradar.com/sg/news/microsoft-makes-running-a-virtual-machine-on-azure-safer-and-free"
+    ampWebUrl: "https://www.techradar.com/sg/amp/news/microsoft-makes-running-a-virtual-machine-on-azure-safer-and-free"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/microsoft-makes-running-a-virtual-machine-on-azure-safer-and-free"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 114
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
     excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
