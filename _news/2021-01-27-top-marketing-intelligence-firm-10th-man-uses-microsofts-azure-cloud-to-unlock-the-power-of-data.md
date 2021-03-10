@@ -97,6 +97,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
+    excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+    publishedDateTime: 2021-03-10T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
 
 secured: "hGEDID17zJTEwOEHD1dUqrh0l1q7gmXEHVoEYEPjDCgPAW1ocQ1afiyV7fG0BQAEahVnhBmA7RKRBoIL9CXPyC4u6XrmDHIlqpXyDNQqt9n4KFu98/raDSITtCga8Vne/sSxe7j+AnNCuWCcZFLHs/UgpYVaPwd2iwGYCi1+ufTgvYkICm13PM1vyeKByw9a9kVa1OnsWSJQ1SvozA9YY0OYEbcWNK0OlWeipFvRLLHj+YCYYCxUTR3aURTtu6g9WOZhlQTA8VaMK+g/6jecWyVfNFE7HumXZwPdcMNtBVyJzl6uHjHbl2qK3YHlF5YfKVn3DwbNFp0FHly8f8pacNdCBtH119Ft8OWI06KBwlEgxEIuBvmDsY66lIPsatkLIhs7mAV8Gd/iM1LSnXB3DPLXynlzZ5Lv58OhdNhklFxbGRfNCtKWNKsOocFOvSPAfdmfuwS/L5a8jgm00SEdEeAL8SiD4VwJjnIfYk+dwbP5noO52VDJA/RLbpneZe1BMGUC8l+i4/cnFsc+kLkMWg==;z9VzqzUIjNUm2NzZCf102g=="
 ---

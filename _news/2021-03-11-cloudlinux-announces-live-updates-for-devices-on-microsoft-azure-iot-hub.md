@@ -1,28 +1,22 @@
 ---
 category: news
-title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
-publishedDateTime: 2021-03-10T12:46:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
+excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+publishedDateTime: 2021-03-10T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-  - Integration
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
+  - IoT
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -66,6 +60,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
+    publishedDateTime: 2021-03-10T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
     publishedDateTime: 2020-11-05T17:27:00Z
@@ -80,15 +88,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
-    excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
-    publishedDateTime: 2021-03-10T22:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -104,6 +103,6 @@ related:
         height: 512
         isCached: true
 
-secured: "CZH12JFGa+knnC0vviSF8ZmFqJUrj7Ay0N74r8j8+wwvr0lU75AAVg5YvDZwVAv1JYK2CI0KC7UEU6TIXUCywEIfFzCX011/yHDdlEVCThTZ2a59dbyruG21Gk6hqcmHF4Aq3q1Dq5Dd3RkNlVfRwK9gf0t2jrwQKzo4O386t/cOszJL494nuDwS9cB/BRwpcu07tcfQ4KQeJ1ryCnDCn++DdIUlmNGLxPGi/3J7pzo9vnG7MItNFctn9FFjjJX9NsODU0AIN5qidT3LbyRJXDIEfGNZK4XeleiI0uqPrrcBIctq4Mwa6Shmr+nLbzKkZgVzPEDmDIM1FzF/XFpgwuIAURRkVV44Yeyc8TnJjpM=;tfVMYPnG4cNFZVt5czJXjw=="
+secured: "wfLAO1UOFdUMhj11dUGsej0oWLmJmo23wf3g3ms/jekbIiE7FezZxvJkP1MFCFoW9SizYbXkvQHYG3tcHFg5XUrbMv8svwfxIPHMPgeZk9Y+pZBn/vj0x4Tkyto7NL0GjzUspfDYIapKkylwItsZnpxD9avydJA4PdJNu03OCQelxa1DaVShwsGLzLeEHSoI+05JapMF1JQBLB5BXr6MtyZbNjbdQBxG9tNru2MURN59CKMGPmqw/SA4vG3WMcXHbr858Nx8PqEhoQtNEOyyoLgqB57goRBGtE48wIzZ1TbVwPdD3WJU4AcrPLfpXNw2MzpnCfMGgpVGDee8wjtVTYhhOS/a7677M+wM2PHOkAg=;VnYzYNQ56P5iHv2Ml2X9Mg=="
 ---
 
