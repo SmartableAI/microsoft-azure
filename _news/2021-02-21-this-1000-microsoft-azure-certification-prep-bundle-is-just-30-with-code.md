@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-c
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
 quality: 95
-heat: 595
+heat: 596
 published: true
 
 provider:
