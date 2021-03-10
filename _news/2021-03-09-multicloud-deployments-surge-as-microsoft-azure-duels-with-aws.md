@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-publishedDateTime: 2021-02-25T15:19:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+title: "Multicloud deployments surge as Microsoft Azure duels with AWS"
+excerpt: "Read More Nearly all companies have a multicloud strategy but are wrestling to control costs, according to Flexera's 2021 State of Cloud Report. Meanwhile, Microsoft Azure continues to close the adoption gap with Amazon Web Services. The report highlights ..."
+publishedDateTime: 2021-03-09T14:00:00Z
+originalUrl: "https://www.zdnet.com/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+webUrl: "https://www.zdnet.com/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
 type: article
-quality: 54
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Integration
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://www.zdnet.com/a/hub/i/2021/03/05/99e36411-961a-4105-b72c-00fcc4f6867b/public-cloud-growth-2021-flexera.png"
+    width: 626
+    height: 386
     isCached: true
 
 related:
@@ -200,22 +205,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Multicloud deployments surge as Microsoft Azure duels with AWS"
-    excerpt: "Read More Nearly all companies have a multicloud strategy but are wrestling to control costs, according to Flexera's 2021 State of Cloud Report. Meanwhile, Microsoft Azure continues to close the adoption gap with Amazon Web Services. The report highlights ..."
-    publishedDateTime: 2021-03-09T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/05/99e36411-961a-4105-b72c-00fcc4f6867b/public-cloud-growth-2021-flexera.png"
-        width: 626
-        height: 386
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
@@ -602,6 +591,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Upgrade2.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-25T15:19:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft debuts its edge AI service Azure Percept at Ignite"
     excerpt: "Microsoft Corp. is stepping up its artificial intelligence capabilities within its Azure Cloud platform with the launch of a new service called Azure Percept that’s designed to enable a wealth of new AI capabilities for devices at the network edge."
@@ -1477,6 +1480,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "VQY03TC/IfmqHhSVuDF1h+o2j0ErRnVd2qfXB0YVedh4NXrhd9b8aPn78UhJ8e4+g/3izFienq01ptov4e8D6zbt/r2x8afwLIfrS0relhY3jG3CeueXVuXCsdYG4rijTYfuUsD0E6G1FlG2/ztV7we23wygejkBvXXSc9TrxXZ6OWYZfkaER86EAO7uEXopCnv/waEY4RulMPvdiImi2D/D/dzjG6ne6aCLgUvH80hbNd111EgicPAyOMpS/Rcu5xBqNDqVBDGPs5rm7ddkzP9T2F5wN6QXrQJLuGfclZTZAmGJsWaZaEh9KkYwrPN8Y1khIJof/sIK0PX0Uttf8uQY9QIOqP2j8BkFK7tZpDo=;4pE4k/B/q3nNugZW64PB3Q=="
+secured: "JaB18cl0BUg43QbWsnlnl1AzYO5ggodA+dyhSIqtahxs6StTu58gkk3SrbgwN2TiaUL4N3nDIJbwmimdc0Gh7M4udT7dnYiZBc1L5HxCfArVicIgaY02j6Lfu+DtrkXDQUWt2zusRgeKb6+2c37ZJ+/2z7eAXxR2noYNWKqmLCEB4fuLY8WvAdWsskOewPXh6KZC0tPcWjqgcaOUWbxzIvRr6Cl/7WJc/pHsMnAuVfwZz7NAiRe3Fl+GMP35NxKFE38boiHfVMmRJeqkinq8c+fWP5r+tX5Z2RvoXWB0ucLhY92x64zHQPnMw3p9yPkIcb5kkUsVIfvzCBBqtXwffbS6BBhGhcf7Fw4KdFuYNFo=;VtBXDgd0hPNCj+dr7HCphg=="
 ---
 

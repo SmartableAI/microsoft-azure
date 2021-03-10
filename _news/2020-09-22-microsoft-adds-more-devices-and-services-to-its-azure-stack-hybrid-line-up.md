@@ -206,6 +206,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Multicloud deployments surge as Microsoft Azure duels with AWS"
+    excerpt: "Read More Nearly all companies have a multicloud strategy but are wrestling to control costs, according to Flexera's 2021 State of Cloud Report. Meanwhile, Microsoft Azure continues to close the adoption gap with Amazon Web Services. The report highlights ..."
+    publishedDateTime: 2021-03-09T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/05/99e36411-961a-4105-b72c-00fcc4f6867b/public-cloud-growth-2021-flexera.png"
+        width: 626
+        height: 386
+        isCached: true
   - title: "VMware offers SD-WAN integration with Microsoft Azure Virtual WAN Hub"
     excerpt: "The integration is the latest piece of VMware's strong partnership with Microsoft, and it comes at a time when dispersed workforces are making WAN access more valuable"
     publishedDateTime: 2021-03-03T15:18:00Z

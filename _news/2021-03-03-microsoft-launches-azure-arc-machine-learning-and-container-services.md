@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2229
+heat: 2249
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Multicloud deployments surge as Microsoft Azure duels with AWS"
+    excerpt: "Read More Nearly all companies have a multicloud strategy but are wrestling to control costs, according to Flexera's 2021 State of Cloud Report. Meanwhile, Microsoft Azure continues to close the adoption gap with Amazon Web Services. The report highlights ..."
+    publishedDateTime: 2021-03-09T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/multicloud-deployments-surge-as-microsoft-azure-duels-with-aws/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/05/99e36411-961a-4105-b72c-00fcc4f6867b/public-cloud-growth-2021-flexera.png"
+        width: 626
+        height: 386
         isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft is adding three new edge-computing devices and moving ahead, with various Azure-branded services that are part of its hybrid-cloud family."
