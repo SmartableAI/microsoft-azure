@@ -1215,6 +1215,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
     excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
     publishedDateTime: 2021-02-24T00:10:00Z

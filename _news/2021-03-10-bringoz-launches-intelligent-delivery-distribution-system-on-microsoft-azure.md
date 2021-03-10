@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
-excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
-publishedDateTime: 2020-12-11T14:47:00Z
-originalUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
-webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+excerpt: "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform ..."
+publishedDateTime: 2021-03-09T16:06:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
+webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
 type: article
-quality: 34
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
-    width: 2300
-    height: 1293
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -1171,6 +1167,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Modernizing Microsoft consulting services with move to SAP on Microsoft Azure"
+    excerpt: "Reginald Albert worked as a field seller at Microsoft for over 20 years, where he had a front row seat to see how teams, customers, and partners use Microsoft technology to power their work. When looking for his next role at the company,"
+    publishedDateTime: 2020-12-11T14:47:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/modernizing-microsoft-consulting-services-with-move-to-sap-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 34
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/12/10096-wordpress-hero.jpg"
+        width: 2300
+        height: 1293
+        isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "New Delhi, March 1, 2021: Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services ..."
     publishedDateTime: 2021-03-01T08:43:00Z
@@ -1219,20 +1229,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
-    excerpt: "Bringoz, Complex Logistics Made Simple, announced today its intelligent delivery and distribution management system is now available on Microsoft Azure. Bringoz customers can now take advantage of the productive and trusted Azure cloud platform ..."
-    publishedDateTime: 2021-03-09T16:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure Firewall protects Microsoft’s network with Azure Firewall Manager"
     excerpt: "Find out why Microsoft Azure Firewall and its firewall managers are the superheroes keeping Microsoft’s corporate network safe."
     publishedDateTime: 2021-02-24T00:10:00Z
@@ -1464,6 +1460,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "gR/S5j5aTVM3f7AZ5gfZDlm/29OX0WU0en9sAPQG1xEHuZ8zeGHa30a9Hws6bQpxnqfu8Cpco0pOJQ54G80d/HKlV6Cg4Wy+uUS9bucdxJJqia7dDqhYoX/hZ1DQehSJioPH135zfu+Z3TFpAG7YMH8G0y4FD7gtxMyrG+xxp9O6Ty2bHLb6eVjG92QGNBSQQgpiVIK4PK0AB1kbICODPZ5tCpfjVkKshCiv2CAMNg1DYQgrU1qcqSLHd2RHkgYvS/jMfnbIkeJAq6Yy6vpS6sZIP3CLfY/22CsoNYN/v+d469+xGHkz/PYe65ecizBia517wDRIbKamtmz5/nMHvLEEWwmJhD+JrE1v68A8o8H0PL+8s7r6focJ8HmY6AzexRLOu3XXJKMMRn/vpzfxtunZHycT6nDLTHOgaelB8ns6d1VqtnR8QrBeLV3Z1G/Qr++ZgesA9yt4UhZXsh520M82lEMrFn/sKZ2M0QqPgyOfc/X7jEaUTWFHXRL7IDhMTAT5CGdUL2r3iGbChZ4hEg==;i82dazGHRyEWjna671DNvw=="
+secured: "s0sICSbRWpGqNDrTQJWXO8bhhTNeEb9AoidZToqgmf1zS1BUfexJePj/s99l922wQ+fnWrPFSZhnofssO0+EE6QXNGCd06rkKHkVdA3ZwgxifBDsDpj96k4c17+TN4F4Z8ThN1N8o05ULEjpFC+PXOuG7nE6Wlqw1Az4m6do6H0Bn3Mw8jU/bMxC23z0SyD+E1keAszikyuQ1a0zhyqam2lvtB08gEd/A+l2qu3gctT9yIitjngKEqLBDqebrTvtXl7xrHg3IQqzWZ6J8Jq8y1jE9y029uCE+ZGHhM1dSVcCUfpHwkisrn3bq6Zi6CCxqkT5U+NfBN/seOrStwSCRyR1jq3XYOjmJF9/jiUKN7k=;cKu9RvIbIMLj3fjaMBb9ww=="
 ---
 
