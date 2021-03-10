@@ -4,6 +4,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics.md",
+      "title": "Understand data warehouse developer features of Azure Synapse Analytics",
+      "excerpt": "Understand data warehouse developer features of Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-data-warehouse-developer-features-of-azure-synapse-analytics/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 15,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/understand-data-warehouse-developer-features-of-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-understand-normal-curve.md",
       "title": "Understand the normal curve",
       "excerpt": "Learn about the normal curve",
@@ -437,8 +480,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-azure-sap-workloads-reference-architecture/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 353,
-        "average": 4.779037
+        "count": 354,
+        "average": 4.7768364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -566,8 +609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 271,
-        "average": 4.6715865
+        "count": 272,
+        "average": 4.6691175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -742,8 +785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-user-defined-functions/",
       "length": "PT33M",
       "ratings": {
-        "count": 51,
-        "average": 4.529412
+        "count": 52,
+        "average": 4.519231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -786,8 +829,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
       "length": "PT28M",
       "ratings": {
-        "count": 1424,
-        "average": 4.775281
+        "count": 1425,
+        "average": 4.775439
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,45 +1253,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-accelerating-hpc-storage-with-the-azure-fxt-edge-filer-azure-friday.md",
-      "title": "Accelerating HPC Storage with the Azure FXT Edge Filer | Azure Friday",
-      "excerpt": "In high performance computing (HPC) workloads, access to storage matters. In this episode, Scott Hanselman and Ron Hogue discuss the new Azure FXT Edge Filer, a new appliance that creates a powerful cache on-premises connecting network attached storage (NAS) and Azure Blob.  Azure FXT Edge Filer overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-accelerating-hpc-storage-with-the-azure-fxt-edge-filer-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-accelerating-hpc-storage-with-the-azure-fxt-edge-filer-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=vGFJAmFlcHU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vGFJAmFlcHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M52S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-25T16:15:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vGFJAmFlcHU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],
