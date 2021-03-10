@@ -548,17 +548,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
-    excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
-    publishedDateTime: 2020-05-26T10:05:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
   - title: "Cloud-native Software Market Rising Trends and New Technologies with IBM, Nokia, Onica, Microsoft Azure"
     excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Cloud-native Software Market Insights, Forecast to 2025\" has abilities to raise as the most significant market worldwide as it has remained playing a remarkable role in establishing progressive impacts on the universal economy."
     publishedDateTime: 2020-05-20T07:04:00Z

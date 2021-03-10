@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-supp
 webUrl: "https://azure.microsoft.com/blog/atscale-migration-automation-support-with-azure-migrate-and-azure-powershell/"
 type: article
 quality: 96
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
+    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-27T12:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "g7oPTV/wcgb6fuZir9nTYRsMpkI/roxpzSlVFg1kmMrQ0O87EOoe9RTAvyHroXLaIJP5nj5YiDGunRySGFfaV4ZusC+A5Wo1+JxpuoNF13JhV4CmmJBp6QKNLtYCcEhpbTWVROlBlodMn0wj31ENGsuZ8Pe7eNFs6KcrALjTbLX4x60/CqU4drlAWS/jNIobFBiBJQuFl0dEqwRP28C2g7d9KyHbEcqqnb3mDWpsjH54bfhZLRtMD8KzYr7oc0dPFtqRLAVTX+EQvBJMQvWs+l01AZaDWz86saT+LFL+/F+iZLQWTHoC6wJkblY9BnDwEbS1xpzetsdrOZykRBdG0ei1AyOqNbpVceZwoJU5Ebg=;/eEFfUzpfu9M9d4g5SoVNw=="
 ---

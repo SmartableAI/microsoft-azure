@@ -36,29 +36,20 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Microsoft’s Most Sustainable Azure Region Datacenter to Open in Sweden in 2021"
-    excerpt: "A year after confirming Sweden will get a sustainable Azure Datacenter, Microsoft says the location will open in 2021."
-    publishedDateTime: 2020-11-26T13:48:00Z
-    webUrl: "https://winbuzzer.com/2020/11/25/microsoft-most-sustainable-azure-region-datacenter-to-open-in-sweden-in-2021-xcxwbn/"
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating ..."
+    publishedDateTime: 2020-11-24T14:23:00Z
+    webUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 33
+      name: Skagit Valley Herald
+      domain: goskagit.com
+    quality: 19
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/09/Satelitte-Cloud-Pixabay.jpg"
-        width: 960
-        height: 638
+      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
+        width: 1024
+        height: 500
         isCached: true
-  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
-    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
-    publishedDateTime: 2020-11-25T12:49:00Z
-    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
 secured: "rcpPkET2twAZdBrcZwKRPrh253MlzporlBOnH+mwdrLwlTHndaXFPd7jESiZzZGJbV55kbwdr+ffInzL4esRVns2ErAC1zsMvgkYdV9QEO6BFw0kHPoz4BNkVyWbqhYvJMLb3Wr/S8w+Hyz/+BcUKsyCVHk5MniUkJV4GvytEAA2BwmRzBnFn2afXC1KkD8C5Raij1/J59skbc6wbfPmFNR8VTEmdB7BDtCurQTil5pNIpScqcBh6R3G86mZsFOdptbkfWJgyDyFBALDOYty0PjgYKHF4AZfO8YeLg1+LPKUgDSf8somWx5guVpEz23YY4CwWWF9ant7+BQOFie9kZwQmS09CFHZFnLjlTFqXsc=;q3xDxnMc6UfYe0ptPtJ/nw=="
 ---

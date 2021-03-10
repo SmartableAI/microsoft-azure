@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 83
+  - title: "Python Durable Functions support in Azure Functions is now generally available "
+    excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions. "
+    publishedDateTime: 2021-03-10T17:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/python-durable-functions-support-in-azure-functions-is-now-generally-available-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 80
   - title: "512 Sector Size support on Azure Ultra Disks is now available"
     excerpt: "Azure Ultra Disks now support 512 sector sizes."
     publishedDateTime: 2020-09-22T16:05:21Z

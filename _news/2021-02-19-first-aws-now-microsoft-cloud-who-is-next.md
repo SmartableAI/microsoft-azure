@@ -332,20 +332,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft Azure and Canonical Ubuntu Linux Have a User Privacy Problem"
     excerpt: "A user spun up an Ubuntu Linux instance on Azure and was extremely annoyed to receive a sales message from a Canonical representative."
     publishedDateTime: 2021-02-16T22:06:00Z

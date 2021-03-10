@@ -40,6 +40,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 92
+  - title: "New AttackIQ Solution Integrates with Microsoft Azure Sentinel to Strengthen Cyber Threat Detection and Investigation for Security Customers"
+    excerpt: "Building on its announcement of the Preactive Security Exchange (PSE) recently, AttackIQ Ⓡ today announced its integration between the Microsoft Azure Sentinel cloud-native security information and event manager (SIEM) platform and the AttackIQ Security Optimization Platform."
+    publishedDateTime: 2020-10-27T12:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cybercrime-crime-4bbfcfa0841b4eccb3358b52cb46a4e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "X/8112P2WTTlPgqXHNU3mqhBLt7n2T98mFKUaIZFu32iifsZhClq6ozlSg9W7/902H7Xdrfhhfk2kv4qiSHUvPrBsTFBz4A66sgdXx0spFEJ9KrssHrX0nLTlM0A1NBLP+JKTyQoaaasLEgJB1d0XN1MNwDjj4b8IxawS3oxcwbcWbF9w7szJAuDTe8mDU0RW1D02eJt0t7T3Zrjg2RxMJTxEXWmhrSrSTCxPCnEqx+2HFb5tZOAJN0Bu66e5gufTkbLaIE7lyjteBYIB9553WhVI8IEtOSbggaHcCuACAkUGpO6fcaj8MJ4dO7jkEIbnbMDAabBKnw8q8ixs7pMoaQjQestJXgG2j90hNoOvn0=;8td/GU3zebz1a76jDDEVag=="
 ---

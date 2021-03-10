@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 404
+heat: 424
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
     excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
     publishedDateTime: 2021-02-03T17:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Azure Functions supports .NET 5 in production "
+    excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
+    publishedDateTime: 2021-03-10T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-functions-supports-net-5-in-production/"
     type: article
     provider:
       name: Microsoft

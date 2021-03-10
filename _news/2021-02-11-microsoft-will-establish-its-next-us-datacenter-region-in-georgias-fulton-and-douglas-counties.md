@@ -41,10 +41,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Microsoft to establish new datacenter region in Denmark"
+  - title: "Microsoft to establish its first datacenter region in Taiwan "
     excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
-    publishedDateTime: 2020-12-07T18:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+    publishedDateTime: 2020-10-27T16:05:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-its-first-datacenter-region-in-taiwan-as-a-part-of-its-reimagine-taiwan-initiative/"
     type: article
     provider:
       name: Microsoft
@@ -91,6 +91,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Around 15,000 servers needed for new Microsoft Azure datacenter in Taiwan"
+    excerpt: "An estimated 15,000 servers will be needed to support Microsoft's new Azure datacenter that will be unveiled in Taiwan by the end of 2021 at the earliest, according to industry sources."
+    publishedDateTime: 2020-11-03T06:29:00Z
+    webUrl: "https://www.digitimes.com/news/a20201103PD203.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 16
 
 secured: "ML6di5hSdf8/zPyOYx4JO8RhnR1Dr/IeL9wi7fVdUuxQhjyyVFIg1YXPMYHPkxnhn0SkfzcQbsJt1oprHH/uXCrJDKRfIniQao35yAa84LdCzC9jK1SaJb4RojZEZPtQRjvz6btbOvSOB9Tk4OqR7c4IEdZC1F4zq4KLOKTjFiYUqKk1KMh65Zwy2/In6dfiPKshd+cbbaTSO+UC9qTWx+znh3vbhAU9NEPkAr+SZDOLjF0/SazuN49XPI9pey9lnoc/vDvM6d8bfOfdQ3wx7/MNkuiOUEdteDDE+mt8sMOUv4K2usCP07t18V8Na2ObOAFt2135Zs18p2Krt4FDuvDbxWSCtBdpywZo2Mm/gWI=;hlqNNZxD76jPigY0mas6rw=="
 ---

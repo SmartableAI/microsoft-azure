@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-func
 webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
 type: article
 quality: 84
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Serverless
 
 related:
+  - title: "Node.js 14 in Azure Functions is now generally available "
+    excerpt: "Azure Functions support for the Node.js 14 runtime is now in general availability."
+    publishedDateTime: 2021-03-10T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: ".NET 5 now available in App Service"
     excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
     publishedDateTime: 2020-11-11T17:00:03Z

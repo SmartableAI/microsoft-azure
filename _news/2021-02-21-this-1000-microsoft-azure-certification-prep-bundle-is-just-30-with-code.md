@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/3607745/this-1-000-microsoft-azure-c
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3607745/this-1-000-microsoft-azure-certification-prep-bundle-is-just-30-with-code.amp.html"
 type: article
 quality: 95
-heat: 596
+heat: 576
 published: true
 
 provider:
@@ -333,20 +333,6 @@ related:
     quality: 22
     images:
       - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
         width: 300
         height: 300
         isCached: true

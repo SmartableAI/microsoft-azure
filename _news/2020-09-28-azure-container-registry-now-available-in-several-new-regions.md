@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
 type: article
 quality: 84
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
     excerpt: "Azure Container Registry is now generally available in the UAE Central region, bringing the total number of Azure regions that it's available in to 36. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:48:27Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-uae-central-region/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Azure Data Factory is now available in five new regions"
-    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
-    publishedDateTime: 2020-12-09T17:52:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
     type: article
     provider:
       name: Microsoft

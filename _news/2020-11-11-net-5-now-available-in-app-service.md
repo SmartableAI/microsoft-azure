@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Node.js 14 in Azure Functions is now generally available "
+    excerpt: "Azure Functions support for the Node.js 14 runtime is now in general availability."
+    publishedDateTime: 2021-03-10T17:00:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-in-azure-functions-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Sphere 20.10 update is now available"
     excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
     publishedDateTime: 2020-11-10T00:00:18Z

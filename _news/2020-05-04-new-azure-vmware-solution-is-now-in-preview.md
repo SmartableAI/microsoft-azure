@@ -21,15 +21,15 @@ topics:
   - Azure
 
 related:
-  - title: "Azure VMware Solution now generally available in the Southeast Asia region"
-    excerpt: "The new Azure VMware Solution has expanded availability to Southeast Asia (Singapore). This update is in addition to the existing availability in US East, US West, West Europe, Australia, Japan East,  UK South, Canada Central, North US, and North Europe (Dublin) regions. "
-    publishedDateTime: 2021-03-05T18:21:51Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-southeast-asia-region/"
+  - title: "Azure VMware Solution now available in UK South and Japan East Azure regions"
+    excerpt: "The new Azure VMware Solution has expanded availability to Japan East and UK South Azure regions in addition to the existing regions: US East, US West, West Europe and Australia. "
+    publishedDateTime: 2020-12-14T20:20:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 65
+    quality: 64
 
 secured: "65iB+eSS5uC9wz+wLMnIrl4u1v80uUnwWsT1iYC7JAvTg4qcet4XS/GfyzHJXx4KyxJ/W5GWz9lkpFvE/+qXEaKklmgfpJSYhsS9TPspqVloODLX+YEqVzxZIsGY0jeErhH+a8J2M3bQKQyYPw709Ni10zz+DdBEU+wMjwZ7/MBEDCQ3eJn5e6qg9UAFTBYqCEjhkVARTZ4j9pr0GKaN4SpBrdnydeKw64d3aViZTCono0ZpDLWPxlSo1K+zsbTyihUX091sV+7+uEm1p4YcAnJdvRJiPYYkRwsY6Syr3lF3ZW63ULMBYEj5CxxuN9vT5xldIebDxJoWGbb7JKp+Pg==;xwfvxB34EU6Z7uhcTqRUIQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
 type: article
 quality: 77
-heat: 397
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,33 +24,145 @@ topics:
   - Azure
 
 related:
-  - title: "How Microsoft Azure will play a crucial role in PUBG Mobile's India comeback"
-    excerpt: "Microsoft Azure will be helping PUBG Mobile win a one-way-ticket back to India. With secure server hosting, players won't have to worry about their user data security and a repeated PUBG Mobile ban. The inevitable return of PUBG Mobile in India has sparked a lot of commotion amongst the community,"
-    publishedDateTime: 2020-11-20T19:10:00Z
-    webUrl: "https://www.sportskeeda.com/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
-    ampWebUrl: "https://www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
-    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/esports/how-microsoft-azure-will-play-crucial-role-pubg-mobile-s-india-comeback"
+  - title: "Microsoft announces Az Predictor to improve usability of Azure PowerShell"
+    excerpt: "Microsoft has announced the preview availability of Az Predictor, a utility which serves as an \"intelligent command completion module\" for Azure PowerShell beginners and experts alike."
+    publishedDateTime: 2020-11-11T04:50:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-az-predictor-to-improve-usability-of-azure-powershell/"
     type: article
     provider:
-      name: Sportskeeda
-      domain: sportskeeda.com
-    quality: 71
+      name: Neowin
+      domain: neowin.net
+    quality: 96
     images:
-      - url: "https://staticg.sportskeeda.com/editor/2020/11/f918c-16058916804029-800.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/11/1605077715_capture_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+  - title: "Microsoft's Cloud PC: Leak reveals new details on upcoming Azure-powered remote desktop"
+    excerpt: "Microsoft's forthcoming Cloud PC remote Windows experience for Windows 10, macOS, iOS and Android takes shape."
+    publishedDateTime: 2020-11-05T11:23:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-cloud-pc-leak-reveals-new-details-on-upcoming-azure-powered-remote-desktop/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/09/16/8ba15096-7e97-4c9d-9c92-fdfb3223d8cf/thumbnail/1200x675/230c7f7fa964a74175d8fc0ef350a100/microsoft-365-formerly-office-365-vs-g-s-5f4e5f4871c30002b05d39e4-1-sep-16-2020-15-40-44-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PUBG Mobile could return to India on Microsoft's Azure cloud services"
+    excerpt: "With India's banning of various Chinese publishers in the country, PUBG Mobile has remained banned, but it could return to the country on Microsoft Azure's Cloud. As the political and military situation between India and China has remained intense ..."
+    publishedDateTime: 2020-11-09T20:58:00Z
+    webUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services"
+    ampWebUrl: "https://www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/121399/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 74
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/11/09/pubg-mobile-could-return-to-india-on-microsofts-azure-cloud-services_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nuventive Improvement Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The Nuventive Improvement Platform planning and improvement software now available in the Microsoft Azure Marketplace To help higher education institutions turn their plans into progress ..."
+    publishedDateTime: 2020-11-05T21:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nuventive-improvement-platform-now-available-in-the-microsoft-azure-marketplace-1029772568"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 73
+  - title: "PUBG Mobile Partners With Microsoft Azure Cloud Services; Comeback In India Likely"
+    excerpt: "Krafton, a South Korean conglomerate will now be working with Microsoft Azure for all PUBG PC, Mobile, and Console platforms. The press release by the company notes that the collaboration aims to ensure privacy rights are respected."
+    publishedDateTime: 2020-11-09T09:29:00Z
+    webUrl: "https://www.gizbot.com/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-070914.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
     quality: 68
+    images:
+      - url: "https://www.gizbot.com/img/2020/11/pubg-mobile-partners-with-microsoft-azure-cloud-services-comeback-in-india-likely-1604913970.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "PUBG, PUBG Mobile will run on Microsoft Azure, plays on Xbox Series X, Xbox Series S day one"
+    excerpt: "PUBG, a popular battle royale game, is officially making the transition to Microsoft Azure on all platforms, including its mobile variant. PUBG works on Xbox Series X|S day one, with smoother framerates."
+    publishedDateTime: 2020-11-10T15:24:00Z
+    webUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one"
+    ampWebUrl: "https://www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/pubg-pubg-mobile-will-run-microsoft-azure-plays-xbox-series-x-xbox-series-s-day-one?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 63
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/05/pubg_0.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "PUBG hints at India return with Microsoft Azure deal"
+    excerpt: "Azure is Microsoft’s cloud computing service that allows game creators to build and run their games on a global scale."
+    publishedDateTime: 2020-11-08T09:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/pubg-hints-at-india-return-with-microsoft-azure-deal/article33051804.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/lgkedg/article33051813.ece/ALTERNATES/LANDSCAPE_615/pubg-returnjpeg"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Why Microsoft is bringing an Azure cloud region to Taiwan"
+    excerpt: "US tech giant plans to establish its first cloud data center region in Taiwan, and to develop digital skills for 200,000"
+    publishedDateTime: 2020-11-11T02:52:00Z
+    webUrl: "https://techwireasia.com/2020/11/why-microsoft-is-bringing-an-azure-cloud-region-to-taiwan/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/11/why-microsoft-is-bringing-an-azure-cloud-region-to-taiwan/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/11/why-microsoft-is-bringing-an-azure-cloud-region-to-taiwan/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 57
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2020/11/shutterstock_1477417823-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Tech Mahindra recognized as a Microsoft Azure Expert Managed Service Provider"
+    excerpt: "This recognition signifies Tech Mahindra’s proven expertise as an Azure Expert MSP, including infrastructure and application migration."
+    publishedDateTime: 2020-11-12T06:58:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-recognized-as-a-microsoft-azure-expert-managed-service-provider-120111200496_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 54
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
     publishedDateTime: 2020-11-17T14:27:00Z
@@ -65,17 +177,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "DLT Solutions to Offer Microsoft Azure and Modern Workplace Solutions Through its U.S. Public Sector Partner Network"
-    excerpt: "DLT Solutions, LLC., a wholly owned subsidiary of Tech Data and a premier government technology solutions aggregator, has partnered with Microsoft to bring to market Azure and Modern Workplace solutions to the U."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dlt-solutions-to-offer-microsoft-azure-and-modern-workplace-solutions-through-its-u-s-public-sector-partner-network-1029816539"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "The ability to instantly activate Kepler through the Microsoft Azure Marketplace gives Business Users a way to automate AI across all functions and departments. AI projects can go into production ..."
     publishedDateTime: 2020-11-17T17:40:00Z
@@ -106,87 +207,89 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
-    publishedDateTime: 2020-11-19T14:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
+  - title: "Microsoft Cloud Service Aims for Support of Space and Satellite Ventures"
+    excerpt: "Azure Space hopes to achieve fast, secure satellite networking anywhere in the world. Azure Space combines the power of cloud and space technology. (Image courtesy of Microsoft.) Microsoft has brought together a team of space industry veterans and experts to work together with its in-house product engineers to develop cloud capabilities suited for the needs of space."
+    publishedDateTime: 2020-11-16T20:16:00Z
+    webUrl: "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20943/Microsoft-Cloud-Service-Aims-for-Support-of-Space-and-Satellite-Ventures.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20943.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20943.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 41
+    images:
+      - url: "https://www.engineering.com/portals/0/BlogFiles/Space_1.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "UiPath RPA Now Available in Microsoft Azure Marketplace"
+    excerpt: "Enterprise Robotic Process Automation (RPA) software company, UiPath, today announced the availability of the UiPath Automation Platform on the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-11T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 47
+    quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+      - url: "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg"
         width: 1200
         height: 627
         isCached: true
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-    publishedDateTime: 2020-11-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+    publishedDateTime: 2020-11-15T16:00:00Z
+    webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
+      name: Network World
+      domain: networkworld.com
+    quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-        width: 1200
-        height: 627
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Nerdio Exec On How To Build A Successful Cloud Practice With Microsoft Azure"
-    excerpt: "Nerdio CRO Joseph Landes outlines why it’s worth it for MSPs to think about moving to the cloud with Microsoft Azure. Also, MSP partner Digital Defense Founder and CEO Richard Harber talks about the benefits of teaming with Nerdio as he builds his Azure business."
-    publishedDateTime: 2020-11-21T00:45:00Z
-    webUrl: "https://www.crn.com/news/nerdio-exec-on-how-to-build-a-successful-cloud-practice-with-microsoft-azure"
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
     images:
-      - url: "https://www.crn.com/resources/0263-10e71eed4369-254ea3487df4-1000/nerdio_cro_on_3_ways_msps_can_make_money_with_microsoft_azure.jpeg"
-        width: 1280
-        height: 717
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
-    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
-    publishedDateTime: 2020-11-12T10:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
+  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
+    excerpt: "When it comes to cloud services, Microsoft Azure is a market leader and a favourite among enterprises – and is available in South Africa through leading ICT solutions provider Axiz. As a ..."
+    publishedDateTime: 2020-11-17T05:17:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating ..."
-    publishedDateTime: 2020-11-24T14:23:00Z
-    webUrl: "https://www.goskagit.com/news/state/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills/article_f4e126e8-72d9-5938-b634-bfc62e48a52e.html"
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 33
+  - title: "QuEST Global launches Center of Excellence for Microsoft Azure to develop innovative solutions for customers"
+    excerpt: "QuEST Global, a global product engineering and lifecycle services company, today announced it has signed an agreement with Microsoft to launch a dedicated Center for Excellence (CoE) for Microsoft Azure."
+    publishedDateTime: 2020-11-03T12:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-pune-products-and-services-f8ffb465162d071f3e77db0782e3abf3"
     type: article
     provider:
-      name: Skagit Valley Herald
-      domain: goskagit.com
-    quality: 19
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png"
-        width: 1024
-        height: 500
-        isCached: true
-  - title: "Cloud visibility, intelligence, and control from OpsCompass: Now available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to the Microsoft Cloud Adoption Framework-focused OpsCompass solution to take advantage of the scalability, reliability,"
-    publishedDateTime: 2020-11-23T14:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18488336/cloud-visibility-intelligence-and-control-from-opscompass-now-available-in-the-microsoft-azure-mar"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18488336"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488336"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
     publishedDateTime: 2020-11-11T14:48:00Z
@@ -196,38 +299,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "OpenText Brings Digital Investigation to the Cloud with Microsoft Azure"
-    excerpt: "OpenText™ announced OpenText™ EnCase Forensic and OpenText™ EnCase Endpoint Investigator are now certified on Microsoft Azure. With OpenText Encase solutions in the cloud, law enforcement and corporate investigators can more easily collaborate,"
-    publishedDateTime: 2020-11-11T18:19:00Z
-    webUrl: "https://www.newswiretoday.com/news/174111/OpenText-Brings-Digital-Investigation-to-the-Cloud-with-Microsoft-Azure/"
+  - title: "Self-driving car start-up Wayve deploys Microsoft Azure cloud technology"
+    excerpt: "Cambridge, UK-based Wayve, developer of AI software for self-driving cars, has signed a contract with Microsoft for use of the Azure cloud"
+    publishedDateTime: 2020-11-05T13:07:00Z
+    webUrl: "https://www.telecompaper.com/news/self-driving-car-start-up-wayve-deploys-microsoft-azure-cloud-technology--1360668"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 17
-  - title: "StoneFly Inc. Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to StoneFly cloud storage to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2020-11-20T08:03:00Z
-    webUrl: "https://www.pr.com/press-release/825650"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 17
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 16
 
 secured: "4J4n+cpxWJH8ii9RutSlVW23v7ZtbXbqsaUA7Z7RfBd1LAKHfZgBZyo+vc4iNP4gDeis4yJDAW+G75RqCbIiSmYpQ7J+xkSwSGxmHbRyWrGmrUqClIWnZ73IvTE3agRynRphktqzvT6i32RIDabHh0Gh20c93A9PulOtRyH93vxmEb49nl8wrDpWVmnP6Jkz5UNSBXaMWn8bI5ocFPkbToerEjDM8CTdoAjvsM2nm/KBei7x0RcUrWjAVPnKSPQNBDmnb78dexT9VZgkJJDRRDj+/rprxnQwb9eX1QHgtvQmqhjCDqWEOEVXlQg19FJZ0yhQIkfMWX4N2C352z9Hu2GmGSQlxkLTq++mIkPAIV0=;A5K0ONPUbGCdtpiEyAwUnQ=="
 ---

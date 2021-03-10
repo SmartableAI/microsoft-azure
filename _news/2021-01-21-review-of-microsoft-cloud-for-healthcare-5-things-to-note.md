@@ -26,108 +26,119 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
-    excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
-    publishedDateTime: 2021-01-13T10:03:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+  - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
+    excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
+    publishedDateTime: 2021-01-26T03:15:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 81
+    quality: 86
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
-        width: 1358
-        height: 827
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
+        width: 848
+        height: 493
         isCached: true
-  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
-    excerpt: "Microsoft is making available in preview form its second vertical cloud offering: The Microsoft Cloud for Retail. The Cloud for Retail follows the Microsoft Cloud for Healthcare -- which bundled ..."
-    publishedDateTime: 2021-01-14T13:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
+    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
+    publishedDateTime: 2021-01-26T22:16:00Z
+    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
+    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
-        width: 1358
-        height: 827
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+        width: 1200
+        height: 573
         isCached: true
-  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
-    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
-    publishedDateTime: 2021-01-11T16:23:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
+  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
+    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
+    publishedDateTime: 2021-01-21T15:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
+    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 36
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
+    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
+    publishedDateTime: 2021-01-27T15:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 77
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will now gain near real-time alerts when the login credentials of their employees are deemed to be at risk."
+    publishedDateTime: 2021-01-19T16:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-1029980823"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
+    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
+    publishedDateTime: 2021-01-21T21:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
+    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
+    publishedDateTime: 2021-01-26T11:24:00Z
+    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
+    type: article
+    provider:
+      name: Host Review
+      domain: hostreview.com
+    quality: 29
     images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
-    excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
-    publishedDateTime: 2021-01-13T14:15:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
+  - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
+    excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
+    publishedDateTime: 2021-01-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/digital-shadows-integrates-with-microsoft-azure-ad-enabling-rapid-response-to-exposed-company-credentials-301210340.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Microsoft cloud strength drives second quarter results"
+    excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
+    publishedDateTime: 2021-01-26T00:00:00Z
+    webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 35
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
-        width: 523
-        height: 404
-        isCached: true
-  - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
-    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
-    publishedDateTime: 2021-01-08T21:24:00Z
-    webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 22
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Insight selected to deliver £35m Microsoft cloud deal to Cheshire councils"
-    excerpt: "Six-year deal will see VAR support Cheshire East and Cheshire West & Chester Councils as they adopt Azure cloud services"
-    publishedDateTime: 2021-01-07T14:29:00Z
-    webUrl: "https://www.channelweb.co.uk/news/4025492/insight-selected-deliver-gbp35m-microsoft-cloud-deal-cheshire-councils"
-    type: article
-    provider:
-      name: CRN
-      domain: channelweb.co.uk
-    quality: 20
-    images:
-      - url: "https://www.channelweb.co.uk/api/v1/wps/554dc96/bec68c6c-e361-4cd2-8ef8-9e07c90fe328/2/warrington-borough-council-s-new-set-up-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "CISA Alert: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments"
-    excerpt: "Specifically, CISA has seen an APT actor using compromised applications in a victim’s Microsoft 365 (M365)/Azure environment. CISA has also seen this APT actor utilizing additional credentials and Application Programming Interface (API) access to cloud ..."
-    publishedDateTime: 2021-01-08T20:57:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-alert-detecting-post-compromise-threat-activity-in-microsoft-cloud-environments/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 15
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/clouds-4345883_1280.jpg"
-        width: 1280
-        height: 960
-        isCached: true
+    quality: 2
 
 secured: "4FVIMfWap4Dr4i/CoKDWESC810s0xXXlEJe6FrrlGKtFE6UjJC5pRKVD1Ya/kpSuX0jx9hZZ7pKONioKmpSXP9i59mYOionYT2J/zcTotJ0M0+xwvNmPJ2RxIXqpHeoJxbitsY9BsNmJeHpzFjwfzNzcDXCKhjBllUyF8udpiq/Ine1vQhuL94nNddFvMSPlRoZF0DLwHYC97IRTeWPuMRQV3uYoPOe8LzT+u5zBb3srReivN7dh8VKUul4oXMX7Bq/PXOCzvT2WzM2EZR8GiI1T1KrtQjaXW31g4UUXs4A39dqq+F3tYZSH+Tdmm7512P57In6ZgWK3rOY7dFN5133HoFTCyEh0PYAF3f2SPVU=;p6BCG/RkPUeW2ww/cIhQDQ=="
 ---

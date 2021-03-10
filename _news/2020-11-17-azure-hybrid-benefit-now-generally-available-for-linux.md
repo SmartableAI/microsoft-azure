@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generall
 webUrl: "https://azure.microsoft.com/blog/azure-hybrid-benefit-now-generally-available-for-linux/"
 type: article
 quality: 87
-heat: 287
+heat: 267
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
     excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
     publishedDateTime: 2020-11-20T16:45:06Z
     webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Java Azure Functions support on Linux is now generally available "
-    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
-    publishedDateTime: 2020-12-09T16:43:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -82,6 +82,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Functions supports .NET 5 in production "
+    excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
+    publishedDateTime: 2021-03-10T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-functions-supports-net-5-in-production/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
     excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
     publishedDateTime: 2021-02-12T20:14:41Z

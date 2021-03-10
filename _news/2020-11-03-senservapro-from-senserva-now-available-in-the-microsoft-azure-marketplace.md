@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-computer
 webUrl: "https://apnews.com/press-release/business-wire/technology-computer-and-data-security-computing-and-information-technology-5c20b698ea1b46ccb59ca08e0ae09ca4"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
+        isCached: true
   - title: "SenservaPro from Senserva Now Available in the Microsoft Azure Marketplace"
     excerpt: "Senserva, a leader in cloud security posture management, today announced the availability of SenservaPro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
     publishedDateTime: 2020-11-03T20:02:00Z

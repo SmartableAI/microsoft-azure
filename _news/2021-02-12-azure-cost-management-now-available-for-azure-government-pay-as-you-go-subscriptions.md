@@ -96,6 +96,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Functions supports .NET 5 in production "
+    excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
+    publishedDateTime: 2021-03-10T17:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-functions-supports-net-5-in-production/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
     excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
     publishedDateTime: 2021-02-09T18:00:05Z

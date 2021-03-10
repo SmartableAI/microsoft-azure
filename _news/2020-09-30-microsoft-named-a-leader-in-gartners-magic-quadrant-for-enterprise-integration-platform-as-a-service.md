@@ -45,19 +45,19 @@ related:
         width: 708
         height: 768
         isCached: true
-  - title: "Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Cloud DBMS Platforms"
-    excerpt: "We would like to share that Microsoft has been named a Leader in the 2020 Gartner Magic Quadrant for Cloud Database Management Systems."
-    publishedDateTime: 2020-12-02T10:00:10Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-cloud-dbms-platforms/"
+  - title: "Microsoft named a Leader in the Gartner 2020 Magic Quadrant for Industrial IoT Platforms"
+    excerpt: "Embracing digital transformation in Industrial IoT requires companies to rethink and shift business models and operations. Doing so, however, has become more difficult in the past six months due to production slowdowns, restrictions on employee movement with social distancing, and rapidly shifting market"
+    publishedDateTime: 2020-10-29T08:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-gartner-s-2020-magic-quadrant-for-industrial-iot-platforms/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
+    quality: 80
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/25604ede-d66b-4fb6-af9e-e68d3eab39ca.png"
-        width: 748
-        height: 768
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c87156e3-af18-49b3-93e6-799c89df2138.png"
+        width: 624
+        height: 638
         isCached: true
   - title: "Microsoft Azure Active Directory again a “Leader” in Gartner Magic Quadrant for Access Management"
     excerpt: "I’m proud to announce that for the fourth year in a row, Microsoft Azure Active Directory (Azure AD) has been recognized as a “Leader” in Gartner Magic Quadrant for Access Management, Worldwide. Earlier this year,"

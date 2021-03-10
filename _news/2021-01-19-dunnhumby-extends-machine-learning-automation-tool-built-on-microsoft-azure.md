@@ -33,6 +33,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Cloud solution partner Embee Software has been acquired by UK's Softline Group"
+    excerpt: "Kolkata-based Embee Software, a Microsoft Cloud solution partner and digital transformation provider, has been acquired by ITeS major Softline Group."
+    publishedDateTime: 2021-01-23T10:30:00Z
+    webUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group"
+    ampWebUrl: "https://yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/microsoft-cloud-solution-embee-software-acquired-softline-group/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 33
+    images:
+      - url: "https://images.yourstory.com/cs/1/6a7aa600e60111eaaabb5d5d8ddb0c93/httpsspecials-images-1600513397715.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Earth’s atmosphere has been modelled in Microsoft Azure as part of a project to tackle climate change caused by aviation"
     excerpt: "SATAVIA, which is based in Cambridge, uses artificial intelligence and data analytics to study and tackle aircraft contrail formation."
     publishedDateTime: 2021-01-20T12:10:00Z

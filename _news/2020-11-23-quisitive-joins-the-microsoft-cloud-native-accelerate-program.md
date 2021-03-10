@@ -65,6 +65,29 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Ooredoo provides managed services for Microsoft Azure"
+    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
+    publishedDateTime: 2021-01-23T15:22:00Z
+    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
+        width: 620
+        height: 355
+        isCached: true
+  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
+    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
+    publishedDateTime: 2021-01-28T07:38:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive ..."
     publishedDateTime: 2021-01-29T14:36:00Z

@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Data Factory is now available in five new regions"
-    excerpt: "Azure Data Factory is now available in five new regions: Switzerland North, Japan West, Canada East, Germany West Central, and UK West."
-    publishedDateTime: 2020-12-09T17:52:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-factory-is-now-available-in-six-new-regions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Container Registry diagnostic logs now generally available"
     excerpt: ""
     publishedDateTime: 2020-05-19T16:05:39Z

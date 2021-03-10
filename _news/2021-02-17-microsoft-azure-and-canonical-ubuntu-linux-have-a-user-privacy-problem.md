@@ -340,20 +340,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
-    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
-    publishedDateTime: 2021-02-19T04:43:00Z
-    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 22
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Swisscom becomes Microsoft Azure Expert MSP after audit"
     excerpt: "Swisscom said it is now a Microsoft Azure Expert MSP after passing an audit. The company had already received the status of Licensing Solution Provider (LSP) for Microsoft in January. Under the new status,"
     publishedDateTime: 2021-02-17T09:47:00Z

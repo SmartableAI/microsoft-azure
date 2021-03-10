@@ -79,6 +79,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Cloud Security in Banking Market is Booming Worldwide with Microsoft Azure, Trend Micro, Salesforce"
+    excerpt: "Global Cloud Security in Banking Market Report 2020 by Key Players Types Applications Countries Market Size Forecast to 2026 Based on 2020 COVID 19 Worldwide Spread is latest research study released by HTF MI evaluating the market highlighting opportunities risk"
+    publishedDateTime: 2021-01-28T20:08:00Z
+    webUrl: "https://www.openpr.com/news/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    ampWebUrl: "https://www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232764/cloud-security-in-banking-market-is-booming-worldwide-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 60
+    images:
+      - url: "https://cdn.openpr.com/U/1/U128385200_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Sell Cloud Stocks Salesforce.com and Workday, Analyst Says"
     excerpt: "Rosenblatt Securities’ Yun Kim sees the potential for slower-than-consensus revenue growth ahead, which he fears could trigger multiple compression for both stocks."
     publishedDateTime: 2020-05-05T14:15:00Z

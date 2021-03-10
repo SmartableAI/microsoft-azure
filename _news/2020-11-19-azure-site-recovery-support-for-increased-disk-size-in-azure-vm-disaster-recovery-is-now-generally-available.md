@@ -46,15 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Java Azure Functions support on Linux is now generally available "
-    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
-    publishedDateTime: 2020-12-09T16:43:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Hybrid Benefit -- Linux Preview"
     excerpt: "Azure Hybrid Benefit - Linux provides convenience and agility for customers who use Red Hat Enterprise Linux and SUSE Linux Enterprise Server with a valid subscription. Customers can use existing Linux subscriptions for easy cloud adoption without the need to reboot their production environment and enjoy"
     publishedDateTime: 2020-09-22T16:00:00Z
