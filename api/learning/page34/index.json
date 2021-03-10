@@ -4,41 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-connected-field-service.md",
-      "title": "Get started with Connected Field Service for Dynamics 365 and Azure IoT",
-      "excerpt": "This module will focus on the initial deployment of the Connected Field Service add-on for Dynamics 365 for Field Service.  The module will walk you through the installation and an understanding of the components installed as part of the out of the box template application.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-connected-field-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-connected-field-service/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 85,
-        "average": 4.717647
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
       "title": "Build and deploy applications to Azure by using GitHub Actions",
       "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
@@ -46,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
       "length": "PT54M",
       "ratings": {
-        "count": 199,
-        "average": 4.7336683
+        "count": 200,
+        "average": 4.735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -88,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
       "length": "PT55M",
       "ratings": {
-        "count": 235,
-        "average": 4.7234044
+        "count": 236,
+        "average": 4.7245765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -173,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-control-flow/",
       "length": "PT42M",
       "ratings": {
-        "count": 8,
-        "average": 4.75
+        "count": 9,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +595,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
       "length": "PT36M",
       "ratings": {
-        "count": 1469,
-        "average": 4.665759
+        "count": 1470,
+        "average": 4.665306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -673,8 +638,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 42,
-        "average": 4.714286
+        "count": 43,
+        "average": 4.72093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1242,6 +1207,49 @@
       "price": "Free",
       "topics": [
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data.md",
+      "title": "Implement compliance controls for sensitive data",
+      "excerpt": "Explore data classification capabilities and degrees of confidentiality. Explore and configure advanced threat protection options, including SQL Injection.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-compliance-controls-for-sensitive-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-compliance-controls-sensitive-data/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 917,
+        "average": 4.818975
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-compliance-controls-for-sensitive-data-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

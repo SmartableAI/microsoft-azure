@@ -4,234 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework.md",
-      "title": "Build great solutions with the Microsoft Azure Well-Architected Framework",
-      "excerpt": "Learn how to design and build secure, scalable, high-performing solutions in Azure using the pillars of the Microsoft Azure Well-Architected Framework.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-great-solutions-with-the-microsoft-azure-well-architected-framework/",
-      "length": "PT5H38M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-introduction.md",
-          "title": "Introduction to the Microsoft Azure Well-Architected Framework",
-          "excerpt": "Learn how using key principles throughout your cloud architecture can help you design and build a solid architectural foundation that you can continuously improve.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-introduction/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 1391,
-            "average": 4.74982
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-cost-optimization.md",
-          "title": "Microsoft Azure Well-Architected Framework - Cost optimization",
-          "excerpt": "Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-cost-optimization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 1330,
-            "average": 4.7293234
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-cost-optimization-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "DevOps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
-          "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-          "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 758,
-            "average": 4.733509
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-          "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-          "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 743,
-            "average": 4.733513
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Web",
-            "Compute",
-            "Databases",
-            "Serverless",
-            "Containers",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-introduction-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases",
-        "Management Tools",
-        "DevOps",
-        "Networking",
-        "Web",
-        "Identity",
-        "Compute",
-        "Migration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-introduction-to-azure-iot.md",
       "title": "Introduction to Azure IoT",
       "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
@@ -263,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9415,
-            "average": 4.6978226
+            "count": 9417,
+            "average": 4.6977806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -305,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6210,
-            "average": 4.7360706
+            "count": 6211,
+            "average": 4.7359524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -449,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 3124,
-        "average": 4.8457108
+        "count": 3126,
+        "average": 4.8458095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -491,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 2445,
-        "average": 4.82863
+        "count": 2446,
+        "average": 4.8287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +430,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 1956,
-        "average": 4.7116566
+        "count": 1957,
+        "average": 4.711804
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -764,8 +536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1308,
-            "average": 4.585627
+            "count": 1309,
+            "average": 4.5859437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3112,
-            "average": 4.6786633
+            "count": 3113,
+            "average": 4.6787663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -881,8 +653,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6075,
-            "average": 4.6717696
+            "count": 6080,
+            "average": 4.6717105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1337,8 +1109,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 938,
-            "average": 4.7356076
+            "count": 939,
+            "average": 4.7358894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1552,8 +1324,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4835,
-            "average": 4.755739
+            "count": 4841,
+            "average": 4.7554226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1595,8 +1367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2823,
-            "average": 4.6556854
+            "count": 2824,
+            "average": 4.6558075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1681,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1308,
-            "average": 4.585627
+            "count": 1309,
+            "average": 4.5859437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1833,8 +1605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 865,
-        "average": 4.6947975
+        "count": 867,
+        "average": 4.695502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1877,8 +1649,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 519,
-        "average": 4.7726398
+        "count": 521,
+        "average": 4.7735124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1910,50 +1682,6 @@
       "topics": [
         "Azure",
         "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
-      "title": "Upload, download, and manage data with Azure Storage Explorer",
-      "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 2207,
-        "average": 4.629814
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
       ]
     },
     {
@@ -2119,8 +1847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2031,
-            "average": 4.6558347
+            "count": 2032,
+            "average": 4.656004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2249,8 +1977,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4384,
-            "average": 4.72833
+            "count": 4386,
+            "average": 4.728454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2460,8 +2188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3311,
-            "average": 4.6892176
+            "count": 3312,
+            "average": 4.6893115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2599,8 +2327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5237,
-            "average": 4.697155
+            "count": 5239,
+            "average": 4.6970797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2652,7 +2380,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 139,
+          "heat": 59,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2671,8 +2399,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3259,
-            "average": 4.6750536
+            "count": 3260,
+            "average": 4.6751533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2706,8 +2434,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 2001,
-            "average": 4.5327334
+            "count": 2002,
+            "average": 4.532967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3087,8 +2815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 561,
-            "average": 4.757576
+            "count": 562,
+            "average": 4.758007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3130,8 +2858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 729,
-            "average": 4.828532
+            "count": 730,
+            "average": 4.8287673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3217,8 +2945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3311,
-            "average": 4.6892176
+            "count": 3312,
+            "average": 4.6893115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3478,8 +3206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
           "length": "PT21M",
           "ratings": {
-            "count": 35,
-            "average": 4.7714286
+            "count": 36,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3521,8 +3249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
           "length": "PT36M",
           "ratings": {
-            "count": 49,
-            "average": 4.755102
+            "count": 51,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3606,8 +3334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 367,
-            "average": 4.760218
+            "count": 368,
+            "average": 4.7608695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3641,8 +3369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
           "length": "PT31M",
           "ratings": {
-            "count": 51,
-            "average": 4.8039217
+            "count": 52,
+            "average": 4.8076925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3996,6 +3724,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 144,
+            "average": 4.5416665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 103,
+            "average": 4.5436893
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 76,
+            "average": 4.2894735
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 71,
+            "average": 4.3239436
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
       "title": "Work with NoSQL data in Azure Cosmos DB",
       "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
@@ -4062,8 +4000,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2376,
-            "average": 4.685606
+            "count": 2378,
+            "average": 4.68545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4105,8 +4043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2840,
-            "average": 4.647183
+            "count": 2841,
+            "average": 4.6469555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4194,6 +4132,42 @@
         "Azure",
         "Databases",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 9237,
+        "average": 4.6993613
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 63,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],

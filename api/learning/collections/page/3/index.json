@@ -70,8 +70,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3311,
-            "average": 4.6892176
+            "count": 3312,
+            "average": 4.6893115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -209,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5237,
-            "average": 4.697155
+            "count": 5239,
+            "average": 4.6970797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -262,7 +262,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 139,
+          "heat": 59,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -281,8 +281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
           "length": "PT48M",
           "ratings": {
-            "count": 3259,
-            "average": 4.6750536
+            "count": 3260,
+            "average": 4.6751533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -316,8 +316,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 2001,
-            "average": 4.5327334
+            "count": 2002,
+            "average": 4.532967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -697,8 +697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 561,
-            "average": 4.757576
+            "count": 562,
+            "average": 4.758007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -740,8 +740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 729,
-            "average": 4.828532
+            "count": 730,
+            "average": 4.8287673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
           "length": "PT25M",
           "ratings": {
-            "count": 3311,
-            "average": 4.6892176
+            "count": 3312,
+            "average": 4.6893115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,8 +1088,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
           "length": "PT21M",
           "ratings": {
-            "count": 35,
-            "average": 4.7714286
+            "count": 36,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
           "length": "PT36M",
           "ratings": {
-            "count": 49,
-            "average": 4.755102
+            "count": 51,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1216,8 +1216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
           "length": "PT29M",
           "ratings": {
-            "count": 367,
-            "average": 4.760218
+            "count": 368,
+            "average": 4.7608695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1251,8 +1251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-azure-sentinel-workspaces/",
           "length": "PT31M",
           "ratings": {
-            "count": 51,
-            "average": 4.8039217
+            "count": 52,
+            "average": 4.8076925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1606,6 +1606,216 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
+      "title": "Virtualization - Sharing cloud resources",
+      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
+      "length": "PT3H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
+          "title": "Share cloud resources",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 144,
+            "average": 4.5416665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
+          "title": "Understand virtualization",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 103,
+            "average": 4.5436893
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
+          "title": "Virtualize computing power",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 76,
+            "average": 4.2894735
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
+          "title": "Virtualize memory",
+          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 71,
+            "average": 4.3239436
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
+              "width": 1000,
+              "height": 500,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
+          "width": 1000,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-work-with-nosql-data-in-azure-cosmos-db.md",
       "title": "Work with NoSQL data in Azure Cosmos DB",
       "excerpt": "In this learning path, find out how to customize NoSQL data storage and distribution with the Azure portal, Cosmos DB extension, and Cosmos DB .NET Core SDK.",
@@ -1672,8 +1882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/",
           "length": "PT38M",
           "ratings": {
-            "count": 2376,
-            "average": 4.685606
+            "count": 2378,
+            "average": 4.68545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1715,8 +1925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2840,
-            "average": 4.647183
+            "count": 2841,
+            "average": 4.6469555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2028,8 +2238,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4213,
-            "average": 4.6532164
+            "count": 4214,
+            "average": 4.6532984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2063,8 +2273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3107,
-            "average": 4.616672
+            "count": 3108,
+            "average": 4.6167955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2203,8 +2413,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2418,8 +2628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2461,8 +2671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 904,
-            "average": 4.737832
+            "count": 905,
+            "average": 4.7381215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2633,8 +2843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2676,8 +2886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-government/",
           "length": "PT47M",
           "ratings": {
-            "count": 638,
-            "average": 4.73511
+            "count": 639,
+            "average": 4.735524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2848,8 +3058,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3063,8 +3273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3278,8 +3488,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2689,
-            "average": 4.704723
+            "count": 2690,
+            "average": 4.7048326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3710,8 +3920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7869,
-            "average": 4.720422
+            "count": 7875,
+            "average": 4.720381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3836,8 +4046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1318,
-            "average": 4.449924
+            "count": 1319,
+            "average": 4.448825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3914,8 +4124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3107,
-            "average": 4.616672
+            "count": 3108,
+            "average": 4.6167955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4037,7 +4247,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 139,
+          "heat": 59,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4178,8 +4388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 258,
-            "average": 4.7674417
+            "count": 259,
+            "average": 4.7683396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4350,8 +4560,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 558,
-            "average": 4.6648746
+            "count": 559,
+            "average": 4.665474
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4740,8 +4950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4336,
-            "average": 4.695572
+            "count": 4340,
+            "average": 4.6958528
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4826,8 +5036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
           "length": "PT31M",
           "ratings": {
-            "count": 214,
-            "average": 4.640187
+            "count": 215,
+            "average": 4.6418605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4868,8 +5078,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1318,
-            "average": 4.449924
+            "count": 1319,
+            "average": 4.448825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5005,7 +5215,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 139,
+          "heat": 59,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -5192,8 +5402,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
           "length": "PT33M",
           "ratings": {
-            "count": 558,
-            "average": 4.6648746
+            "count": 559,
+            "average": 4.665474
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5409,8 +5619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
           "length": "PT57M",
           "ratings": {
-            "count": 46,
-            "average": 4.869565
+            "count": 47,
+            "average": 4.87234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5794,8 +6004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/",
           "length": "PT27M",
           "ratings": {
-            "count": 483,
-            "average": 4.7349896
+            "count": 484,
+            "average": 4.735537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5838,8 +6048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 327,
-            "average": 4.7247705
+            "count": 328,
+            "average": 4.72561
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5882,8 +6092,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
           "length": "PT26M",
           "ratings": {
-            "count": 264,
-            "average": 4.7310605
+            "count": 265,
+            "average": 4.7320757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5918,8 +6128,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
           "length": "PT8M",
           "ratings": {
-            "count": 284,
-            "average": 4.732394
+            "count": 285,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5972,208 +6182,6 @@
         "Azure",
         "IoT",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-work-with-relational-data-in-azure.md",
-      "title": "Work with relational data in Azure",
-      "excerpt": "This learning path introduces you to Azure-supported SQL-based enterprise data solutions enabling you to store and retrieve your app's data in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-relational-data-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-relational-data-in-azure/",
-      "length": "PT5H34M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-provision-azure-sql-db.md",
-          "title": "Provision an Azure SQL database to store application data",
-          "excerpt": "Find out what makes Azure SQL Database a good choice for your relational database, how to create the database from the portal and connect with Azure Cloud Shell.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-provision-azure-sql-db/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 5232,
-            "average": 4.6597857
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
-          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
-          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 1318,
-            "average": 4.449924
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-          "title": "Introduction to Azure Database for PostgreSQL",
-          "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 2141,
-            "average": 4.640822
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-          "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-          "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 3791,
-            "average": 4.592192
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Management Tools"
       ]
     }
   ],

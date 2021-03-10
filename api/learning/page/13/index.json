@@ -4,41 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-started-with-devops.md",
-      "title": "Get started with Azure DevOps",
-      "excerpt": "Explore Azure DevOps capabilities and get started setting up your own organization knowing what separates elite performers from low performers.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-with-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 7600,
-        "average": 4.7282896
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-go-get-started.md",
       "title": "Get started with Go",
       "excerpt": "Take your first steps with Go.",
@@ -200,8 +165,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 1308,
-        "average": 4.585627
+        "count": 1309,
+        "average": 4.5859437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -243,8 +208,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3112,
-        "average": 4.6786633
+        "count": 3113,
+        "average": 4.6787663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1088,8 +1053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
           "length": "PT30M",
           "ratings": {
-            "count": 1967,
-            "average": 4.705135
+            "count": 1968,
+            "average": 4.7052846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1174,8 +1139,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9012,
-            "average": 4.6554594
+            "count": 9013,
+            "average": 4.6554976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1238,8 +1203,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
       "length": "PT58M",
       "ratings": {
-        "count": 2840,
-        "average": 4.647183
+        "count": 2841,
+        "average": 4.6469555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2689,
-        "average": 4.704723
+        "count": 2690,
+        "average": 4.7048326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1403,8 +1368,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
       "length": "PT54M",
       "ratings": {
-        "count": 758,
-        "average": 4.733509
+        "count": 759,
+        "average": 4.7338605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1435,6 +1400,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-multi-table-statements-kql.md",
+      "title": "Build multi-table statements using KQL",
+      "excerpt": "Build multi-table statements using KQL",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-multi-table-statements-kql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-multi-table-statements-kusto-query-language/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 36,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
       ]
     }
   ],

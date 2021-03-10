@@ -4,49 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
-      "title": "Discover how to foster an AI-ready culture in sales",
-      "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 565,
-        "average": 4.702655
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
       "title": "Automate development tasks by using GitHub Actions",
       "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
@@ -310,8 +267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/instrument-web-app-code-with-application-insights/",
       "length": "PT34M",
       "ratings": {
-        "count": 446,
-        "average": 4.544843
+        "count": 447,
+        "average": 4.5458612
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -687,8 +644,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
       "length": "PT25M",
       "ratings": {
-        "count": 1435,
-        "average": 4.6480837
+        "count": 1436,
+        "average": 4.648329
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +811,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
       "length": "PT48M",
       "ratings": {
-        "count": 55,
-        "average": 4.7818184
+        "count": 57,
+        "average": 4.7894735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1026,8 +983,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
       "length": "PT31M",
       "ratings": {
-        "count": 214,
-        "average": 4.640187
+        "count": 215,
+        "average": 4.6418605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1236,49 @@
         "Management Tools",
         "DevOps",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory.md",
+      "title": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/orchestrate-data-movement-transformation-azure-data-factory/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 44,
+        "average": 4.4545455
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/orchestrate-data-movement-transformation-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
       ]
     }
   ],

@@ -4,430 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-virtualization-sharing-cloud-resources.md",
-      "title": "Virtualization - Sharing cloud resources",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Dive deeper into how the cloud works by understanding virtualization. How are computing power, memory, input and output, networking, and storage virtualized?",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-virtualization-sharing-cloud-resources/",
-      "length": "PT3H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-share-cloud-resources.md",
-          "title": "Share cloud resources",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Get an introduction to virtualization, one of the many technologies that power the cloud. Learn what virtualization is, its benefits, and how cloud resources are shared.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-share-cloud-resources/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-share-cloud-resources/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 144,
-            "average": 4.5416665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualization.md",
-          "title": "Understand virtualization",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualization/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 103,
-            "average": 4.5436893
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
-          "title": "Virtualize computing power",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 76,
-            "average": 4.2894735
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-cmu-virtualize-memory.md",
-          "title": "Virtualize memory",
-          "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn how memory is virtualized to support cloud resources. Covers different types of memory mapping and related issues.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-memory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-memory/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 71,
-            "average": 4.3239436
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-memory-social.png",
-              "width": 1000,
-              "height": 500,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/share-cloud-resources-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-work-with-data-warehouses-using-azure-synapse-analytics.md",
-      "title": "Work with Data Warehouses using Azure Synapse Analytics",
-      "excerpt": "Work with Data Warehouses using Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-work-with-data-warehouses-using-azure-synapse-analytics/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-work-with-data-warehouses-using-azure-synapse-analytics/",
-      "length": "PT4H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics.md",
-          "title": "Design a Modern Data Warehouse using Azure Synapse Analytics",
-          "excerpt": "Learn how Azure Synapse Analytics enables you to build Data Warehouses using modern architecture patterns.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 40,
-            "average": 4.3
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-a-modern-data-warehouse-using-azure-synapse-analytics-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics.md",
-          "title": "Use data loading best practices in Azure Synapse Analytics",
-          "excerpt": "Use data loading best practices in Azure Synapse Analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-data-loading-best-practices-azure-synapse-analytics/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 22,
-            "average": 4.2272725
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-data-loading-best-practices-in-azure-synapse-analytics-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics.md",
-          "title": "Optimize data warehouse query performance in Azure Synapse Analytics",
-          "excerpt": "Optimize data warehouse query performance in Azure Synapse Analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-data-warehouse-query-performance-azure-synapse-analytics/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 19,
-            "average": 4.894737
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/optimize-data-warehouse-query-performance-in-azure-synapse-analytics-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-sql-apache-spark-pools-azure-synapse-analytics.md",
-          "title": "Integrate SQL and Apache Spark pools in Azure Synapse Analytics",
-          "excerpt": "Integrate SQL and Apache Spark pools in Azure Synapse Analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-sql-apache-spark-pools-azure-synapse-analytics/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-sql-apache-spark-pools-azure-synapse-analytics/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 18,
-            "average": 4.1666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-modern-data-warehouse-using-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-work-with-hybrid-transactional-and-analytical-processing-solutions-using-azure-synapse-analytics.md",
       "title": "Work with Hybrid Transactional and Analytical Processing Solutions using Azure Synapse Analytics",
       "excerpt": "Work with Hybrid Transactional and Analytical Processing Solutions using Azure Synapse Analytics",
@@ -997,8 +573,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1774,
-        "average": 4.826945
+        "count": 1775,
+        "average": 4.827042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1083,8 +659,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5859,
-        "average": 4.733743
+        "count": 5861,
+        "average": 4.733834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +703,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2009,
-        "average": 4.680438
+        "count": 2012,
+        "average": 4.6809144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1170,8 +746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2819,
-        "average": 4.714083
+        "count": 2820,
+        "average": 4.7141843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,8 +823,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2014,
-        "average": 4.614697
+        "count": 2015,
+        "average": 4.614888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,6 +904,43 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 5889,
+        "average": 4.6181016
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
       "title": "Introduction to Docker containers",
       "excerpt": "Introduction to Docker containers",
@@ -1335,8 +948,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
       "length": "PT32M",
       "ratings": {
-        "count": 4213,
-        "average": 4.6532164
+        "count": 4214,
+        "average": 4.6532984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1447,8 +1060,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
       "length": "PT59M",
       "ratings": {
-        "count": 1178,
-        "average": 4.549236
+        "count": 1180,
+        "average": 4.55
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1490,8 +1103,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4750,
-        "average": 4.7416844
+        "count": 4751,
+        "average": 4.741739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1536,8 +1149,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6837,
-        "average": 4.7433085
+        "count": 6839,
+        "average": 4.7433834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1765,8 +1378,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 390,
-        "average": 4.679487
+        "count": 392,
+        "average": 4.6811223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1884,6 +1497,50 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
+      "title": "Introduction to the Azure Machine Learning SDK",
+      "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-machine-learning-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 2615,
+        "average": 4.633652
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-machine-learning-service-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer tools"
       ]
     }
   ],
