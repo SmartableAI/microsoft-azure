@@ -4,6 +4,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-manage-external-identities.md",
+      "title": "Implement and manage external identities",
+      "excerpt": "Implement and manage external identities",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-manage-external-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 98,
+        "average": 4.744898
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-manage-hybrid-identity.md",
       "title": "Implement and manage hybrid identity",
       "excerpt": "Implement and manage hybrid identity",
@@ -140,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 507,
-        "average": 4.781065
+        "count": 508,
+        "average": 4.781496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -261,8 +304,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14747,
-        "average": 4.7183833
+        "count": 14748,
+        "average": 4.7184024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -304,8 +347,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4244,
-        "average": 4.7188973
+        "count": 4245,
+        "average": 4.7189636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,8 +384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 7595,
-        "average": 4.7282424
+        "count": 7596,
+        "average": 4.728278
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -463,8 +506,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 6061,
-        "average": 4.6711764
+        "count": 6063,
+        "average": 4.6712847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -578,7 +621,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/examine-components-of-modern-data-warehouse-social.png",
@@ -900,8 +943,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2751,
-            "average": 4.7099237
+            "count": 2752,
+            "average": 4.710029
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +1006,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2751,
-        "average": 4.7099237
+        "count": 2752,
+        "average": 4.710029
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1041,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9227,
-        "average": 4.699252
+        "count": 9229,
+        "average": 4.6993175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,8 +1371,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3517,
-        "average": 4.7190785
+        "count": 3518,
+        "average": 4.7191586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1452,8 +1495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7411,
-        "average": 4.7117796
+        "count": 7412,
+        "average": 4.7118187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1484,48 +1527,6 @@
       "price": "Free",
       "topics": [
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
-      "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-custom-roles-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2809,
-        "average": 4.713065
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],

@@ -4,6 +4,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso.md",
+      "title": "Implement and monitor the integration of enterprise apps for SSO",
+      "excerpt": "Implement and monitor the integration of enterprise apps for SSO",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 41,
+        "average": 4.780488
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3562,
-        "average": 4.719259
+        "count": 3563,
+        "average": 4.7193375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -335,8 +379,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 823,
-        "average": 4.7715673
+        "count": 824,
+        "average": 4.771845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -421,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 2056,
-        "average": 4.5948443
+        "count": 2057,
+        "average": 4.5950413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 186,
-        "average": 4.806452
+        "count": 187,
+        "average": 4.8074865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -716,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2241,
-        "average": 4.4547076
+        "count": 2242,
+        "average": 4.454951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -793,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 4060,
-        "average": 4.6224136
+        "count": 4061,
+        "average": 4.6225066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1180,49 +1224,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-register-and-deploy-model-with-amls.md",
-      "title": "Deploy real-time machine learning services with Azure Machine Learning",
-      "excerpt": "Learn how to register and deploy ML models as real-rim services with the Azure Machine Learning service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-deploy-model-with-amls/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1137,
-        "average": 4.6314864
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

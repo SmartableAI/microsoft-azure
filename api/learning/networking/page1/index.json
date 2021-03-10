@@ -4,6 +4,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 740,
+        "average": 4.7324324
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +84,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 35469,
-            "average": 4.783896
+            "count": 35492,
+            "average": 4.7839513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7789,
-            "average": 4.720118
+            "count": 7795,
+            "average": 4.7203336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6767,
-            "average": 4.758682
+            "count": 6771,
+            "average": 4.7588243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5351,
-            "average": 4.7559333
+            "count": 5354,
+            "average": 4.75607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -236,8 +286,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 5796,
-        "average": 4.61853
+        "count": 5805,
+        "average": 4.6184325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -295,8 +345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5796,
-            "average": 4.61853
+            "count": 5805,
+            "average": 4.6184325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -331,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2285,
-            "average": 4.7772427
+            "count": 2289,
+            "average": 4.777632
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -374,8 +424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3871,
-            "average": 4.731594
+            "count": 3875,
+            "average": 4.730839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -417,8 +467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7622,
-            "average": 4.6573076
+            "count": 7626,
+            "average": 4.657225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -504,8 +554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5796,
-            "average": 4.61853
+            "count": 5805,
+            "average": 4.6184325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -540,8 +590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2285,
-            "average": 4.7772427
+            "count": 2289,
+            "average": 4.777632
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3871,
-            "average": 4.731594
+            "count": 3875,
+            "average": 4.730839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7622,
-            "average": 4.6573076
+            "count": 7626,
+            "average": 4.657225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -715,8 +765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4089,
-            "average": 4.785522
+            "count": 4097,
+            "average": 4.785453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -757,8 +807,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5796,
-            "average": 4.61853
+            "count": 5805,
+            "average": 4.6184325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -793,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7622,
-            "average": 4.6573076
+            "count": 7626,
+            "average": 4.657225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -924,8 +974,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
           "length": "PT39M",
           "ratings": {
-            "count": 6521,
-            "average": 4.6160097
+            "count": 6522,
+            "average": 4.616069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -967,8 +1017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
           "length": "PT40M",
           "ratings": {
-            "count": 4456,
-            "average": 4.6941204
+            "count": 4457,
+            "average": 4.694189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1010,8 +1060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7622,
-            "average": 4.6573076
+            "count": 7626,
+            "average": 4.657225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1054,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3871,
-            "average": 4.731594
+            "count": 3875,
+            "average": 4.730839
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1116,8 +1166,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 5758,
-        "average": 4.6319904
+        "count": 5768,
+        "average": 4.6319346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1159,8 +1209,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 3871,
-        "average": 4.731594
+        "count": 3875,
+        "average": 4.730839
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,8 +1252,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 2285,
-        "average": 4.7772427
+        "count": 2289,
+        "average": 4.777632
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,8 +1318,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3560,
-            "average": 4.7255616
+            "count": 3569,
+            "average": 4.7259736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1346,8 +1396,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4763,
-            "average": 4.720974
+            "count": 4764,
+            "average": 4.7210326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1381,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3562,
-            "average": 4.719259
+            "count": 3563,
+            "average": 4.7193375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1463,8 +1513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3560,
-            "average": 4.7255616
+            "count": 3569,
+            "average": 4.7259736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1541,8 +1591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4763,
-            "average": 4.720974
+            "count": 4764,
+            "average": 4.7210326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1576,8 +1626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3562,
-            "average": 4.719259
+            "count": 3563,
+            "average": 4.7193375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1635,8 +1685,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 4456,
-        "average": 4.6941204
+        "count": 4457,
+        "average": 4.694189
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1678,8 +1728,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7622,
-        "average": 4.6573076
+        "count": 7626,
+        "average": 4.657225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1722,8 +1772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 2538,
-        "average": 4.6552405
+        "count": 2544,
+        "average": 4.6560535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1766,8 +1816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
       "length": "PT39M",
       "ratings": {
-        "count": 6521,
-        "average": 4.6160097
+        "count": 6522,
+        "average": 4.616069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1809,8 +1859,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 3009,
-        "average": 4.8245263
+        "count": 3012,
+        "average": 4.8247013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1852,8 +1902,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 2785,
-        "average": 4.7425494
+        "count": 2786,
+        "average": 4.742642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1940,8 +1990,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 2822,
-        "average": 4.5804396
+        "count": 2824,
+        "average": 4.5807366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2084,8 +2134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2001,
-            "average": 4.68016
+            "count": 2003,
+            "average": 4.6794806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2191,8 +2241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 2671,
-        "average": 4.610633
+        "count": 2673,
+        "average": 4.6109242
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2403,7 +2453,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
@@ -2602,8 +2652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6061,
-            "average": 4.6711764
+            "count": 6063,
+            "average": 4.6712847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2661,8 +2711,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 4763,
-        "average": 4.720974
+        "count": 4764,
+        "average": 4.7210326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2772,56 +2822,6 @@
       "topics": [
         "Azure",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 740,
-        "average": 4.7324324
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
       ]
     },
     {

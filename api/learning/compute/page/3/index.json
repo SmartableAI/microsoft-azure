@@ -4,15 +4,15 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
+      "title": "Create a long-running serverless workflow with Durable Functions",
+      "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
+      "length": "PT46M",
       "ratings": {
-        "count": 740,
-        "average": 4.7324324
+        "count": 3150,
+        "average": 4.493651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-create-long-running-serverless-workflow-with-durable-functions-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,14 +43,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "Web",
         "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
+        "Serverless"
       ]
     },
     {
@@ -151,8 +145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4746,
-        "average": 4.742309
+        "count": 4747,
+        "average": 4.7423635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -237,8 +231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2632,
-        "average": 4.674392
+        "count": 2633,
+        "average": 4.6745157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,8 +464,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4532,
-        "average": 4.6332746
+        "count": 4534,
+        "average": 4.633436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -760,8 +754,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2882,
-        "average": 4.571825
+        "count": 2883,
+        "average": 4.571974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -803,8 +797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 389,
-        "average": 4.4087405
+        "count": 390,
+        "average": 4.4102564
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-register-and-deploy-model-with-amls.md",
+      "title": "Deploy real-time machine learning services with Azure Machine Learning",
+      "excerpt": "Learn how to register and deploy ML models as real-rim services with the Azure Machine Learning service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-register-and-deploy-model-with-amls/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1137,
+        "average": 4.6314864
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/register-and-deploy-model-with-amls-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
       "title": "Store application data with Azure Blob storage",
       "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3634,
-        "average": 4.55421
+        "count": 3635,
+        "average": 4.5543327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -160,8 +203,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 779,
-        "average": 4.65982
+        "count": 780,
+        "average": 4.6602564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -238,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 911,
-        "average": 4.655324
+        "count": 912,
+        "average": 4.6557016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,8 +1014,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 8985,
-            "average": 4.655092
+            "count": 8987,
+            "average": 4.6551685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1112,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3149,
-        "average": 4.49349
+        "count": 3150,
+        "average": 4.493651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1145,56 +1188,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 740,
-        "average": 4.7324324
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
       ]
     },
     {
