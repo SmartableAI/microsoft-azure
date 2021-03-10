@@ -1,26 +1,30 @@
 ---
 category: news
-title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
-excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
-publishedDateTime: 2021-02-26T00:00:00Z
-originalUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
-webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+title: "Anitian Announces Collaboration with Microsoft Azure"
+excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
+publishedDateTime: 2021-03-04T12:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
+webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Enterprise Irregulars
-  domain: enterpriseirregulars.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
-    width: 600
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -433,20 +437,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Anitian Announces Collaboration with Microsoft Azure"
-    excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
-    publishedDateTime: 2021-03-04T12:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Microsoft is opening a new Azure cloud computing region in China"
     excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
     publishedDateTime: 2021-03-05T15:19:00Z
@@ -1001,6 +991,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "10 Charts That Will Change Your Perspective Of Microsoft Azure’s Growth"
+    excerpt: "Microsoft Azure revenue grew 50% year-over-year in fiscal Q2, 2021, contributing to a 26% increase in Server products and cloud services revenue. According to the latest earnings call, more than 1,000 Microsoft customers now use Azure Arc to simplify ..."
+    publishedDateTime: 2021-02-26T00:00:00Z
+    webUrl: "https://www.enterpriseirregulars.com/172465/10-charts-that-will-change-your-perspective-of-microsoft-azures-growth/"
+    type: article
+    provider:
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 37
+    images:
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Microsoft Updates Java for Azure Spring Cloud"
     excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
     publishedDateTime: 2021-02-25T16:27:00Z
@@ -1490,6 +1494,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "d0MO64WHGiFBLItmgD3WGMFLhoQMT7JeM2AtWAfBoE9Z2kC3G07a24OMtS6zLMvyZYkQd44HRjnDy5lcIFql9/rcseb/V7JicIimuVhIuCNcw5/2GImPnDqjzKCCWa2gDPAwucZLFgOpg/3JZxV5Htsi8H0himM+PfnfHQmmG1mp2doSAqW97NF07STuokQXH1dLf09frbMvTyo/MlApILLudg/HN90HR1Rsvpafal9gxtEzC3aA83pfMBq3EdZDk2+L8dkUjzwwAN8aKjkMdBNI/PefUNmqsfzymhNqA2RcJoHUgbXFk+ON53GJNIxy7geJ0mAh+vBdDGvbiZ2kqpH9Vm8evAaveyq3dfnttb8=;okEMTkXDPBr9mnegL9fkjw=="
+secured: "1M4TMuP1ka+ufPaaTpzJZIXEu1zBFaRU0gWA21d/yvcBfedu9w3g71OLPusXKuXCjOo2Lff3TixfsOOrjzrJtNt1wfE0V77EXHlE1q6C3C0dW01pr8W7rY45xYp3wl9tCezJJwkxS3ILJGhVWag59tGUqXnwwpV4kxXKvfCqH1AUN+zg6yfgVdbXOvO/VlxS0cjXaHm/ShUa6Gtj45sFS3O85TQdRDn1TXtSSmicWcW4lwOsRUknUcp+Vd7yHS2hImYnk+Z3xfMYM61l2LgktI22Gr+tsWhpIORlan300LNbmPAzohSXUTcATKw1P0Am2IkHICjOge1TnjcTij11/NPgkicWT8zdpbZTVYnmWyE=;qtD0Ms8UpiKPGwmiKnp6GQ=="
 ---
 

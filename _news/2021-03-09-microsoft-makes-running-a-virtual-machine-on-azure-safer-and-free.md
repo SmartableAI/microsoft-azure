@@ -424,6 +424,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Anitian Announces Collaboration with Microsoft Azure"
+    excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
+    publishedDateTime: 2021-03-04T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Microsoft is opening a new Azure cloud computing region in China"
     excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
     publishedDateTime: 2021-03-05T15:19:00Z

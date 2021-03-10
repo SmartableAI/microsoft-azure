@@ -433,6 +433,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Anitian Announces Collaboration with Microsoft Azure"
+    excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
+    publishedDateTime: 2021-03-04T12:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z
