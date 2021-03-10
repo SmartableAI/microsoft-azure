@@ -4,7 +4,7 @@ excerpt: "SC-300 part 2: Implement an Authentication and Access Management solut
 type: collection
 price: Free
 length: PT3H11M
-heat: 72
+heat: 68
 
 provider:
   name: Microsoft Learn

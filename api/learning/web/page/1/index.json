@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 35697,
-            "average": 4.7839313
+            "count": 35787,
+            "average": 4.783972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7852,
-            "average": 4.7208357
+            "count": 7869,
+            "average": 4.720422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6816,
-            "average": 4.7589498
+            "count": 6836,
+            "average": 4.759216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5387,
-            "average": 4.75478
+            "count": 5403,
+            "average": 4.755321
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,43 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
+      "title": "Host a web application with Azure App service",
+      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 5889,
+        "average": 4.6181016
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 139,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure and manage key Azure network capabilities.",
@@ -259,8 +296,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5874,
-            "average": 4.6201906
+            "count": 5905,
+            "average": 4.620491
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -295,8 +332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2326,
-            "average": 4.7768703
+            "count": 2336,
+            "average": 4.776969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -338,8 +375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 3918,
-            "average": 4.732517
+            "count": 3931,
+            "average": 4.7323837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +418,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7655,
-            "average": 4.657087
+            "count": 7665,
+            "average": 4.6572733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +483,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 6816,
-        "average": 4.7589498
+        "count": 6836,
+        "average": 4.759216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -484,6 +521,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64763,
+        "average": 4.7113013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 81,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -514,8 +592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4329,
-            "average": 4.695542
+            "count": 4336,
+            "average": 4.695572
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -575,7 +653,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
@@ -683,7 +761,7 @@
         }
       ],
       "size": 9,
-      "heat": 90,
+      "heat": 70,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
@@ -703,47 +781,6 @@
         "Migration",
         "Web",
         "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 64763,
-        "average": 4.7113013
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 81,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
       ]
     },
     {
@@ -820,8 +857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41070,
-            "average": 4.7167277
+            "count": 41075,
+            "average": 4.7167377
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -855,8 +892,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 598,
-            "average": 4.6270905
+            "count": 599,
+            "average": 4.6260433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -988,8 +1025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3569,
-            "average": 4.7416644
+            "count": 3571,
+            "average": 4.741529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1067,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2822,
-            "average": 4.6555634
+            "count": 2823,
+            "average": 4.6556854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1110,8 +1147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1755,
-            "average": 4.592023
+            "count": 1756,
+            "average": 4.592255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1193,8 +1230,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1390,
-            "average": 4.7496405
+            "count": 1391,
+            "average": 4.74982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1235,8 +1272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1329,
-            "average": 4.72912
+            "count": 1330,
+            "average": 4.7293234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1316,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 757,
-            "average": 4.733157
+            "count": 758,
+            "average": 4.733509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1321,8 +1358,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 742,
-            "average": 4.733154
+            "count": 743,
+            "average": 4.733513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1422,8 +1459,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4818,
-            "average": 4.7555003
+            "count": 4835,
+            "average": 4.755739
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1465,8 +1502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2822,
-            "average": 4.6555634
+            "count": 2823,
+            "average": 4.6556854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1684,8 +1721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 877,
-            "average": 4.685291
+            "count": 878,
+            "average": 4.6856494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1728,8 +1765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 898,
-            "average": 4.7271714
+            "count": 899,
+            "average": 4.727475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1772,8 +1809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2030,
-            "average": 4.655665
+            "count": 2031,
+            "average": 4.6558347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1859,8 +1896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2531,
-            "average": 4.694982
+            "count": 2534,
+            "average": 4.6953435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1902,8 +1939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4380,
-            "average": 4.728082
+            "count": 4384,
+            "average": 4.72833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2112,8 +2149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5888,
-            "average": 4.6180367
+            "count": 5889,
+            "average": 4.6181016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2130,7 +2167,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 139,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2184,8 +2221,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 2000,
-            "average": 4.5325
+            "count": 2001,
+            "average": 4.5327334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2271,8 +2308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3104,
-            "average": 4.6163015
+            "count": 3107,
+            "average": 4.616672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2305,8 +2342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6431,
-            "average": 4.7134194
+            "count": 6432,
+            "average": 4.713464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2376,8 +2413,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5888,
-            "average": 4.6180367
+            "count": 5889,
+            "average": 4.6181016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2394,7 +2431,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 139,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2491,8 +2528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5888,
-            "average": 4.6180367
+            "count": 5889,
+            "average": 4.6181016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2509,7 +2546,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 139,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2528,8 +2565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5231,
-            "average": 4.659721
+            "count": 5232,
+            "average": 4.6597857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2875,8 +2912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 57,
-            "average": 4.6842103
+            "count": 58,
+            "average": 4.6896553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3068,43 +3105,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-      "title": "Host a web application with Azure App service",
-      "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 5888,
-        "average": 4.6180367
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -3112,8 +3112,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4536,
-        "average": 4.6333776
+        "count": 4538,
+        "average": 4.633539
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3157,8 +3157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 742,
-        "average": 4.733154
+        "count": 743,
+        "average": 4.733513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3256,8 +3256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2030,
-        "average": 4.655665
+        "count": 2031,
+        "average": 4.6558347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3425,8 +3425,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
       "length": "PT43M",
       "ratings": {
-        "count": 898,
-        "average": 4.7271714
+        "count": 899,
+        "average": 4.727475
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3632,8 +3632,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1755,
-        "average": 4.592023
+        "count": 1756,
+        "average": 4.592255
       },
       "provider": {
         "name": "Microsoft Learn",
