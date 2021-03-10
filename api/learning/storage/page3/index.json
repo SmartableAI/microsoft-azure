@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage.md",
+      "title": "SAP HANA on Azure Compute, Network, and Storage",
+      "excerpt": "AP HANA on Azure (Large Instances) provides virtual machines for deploying and running SAP HANA. This module explores the SAP HANA on Azure (Large Instances) solution that builds on assigned, non -shared host/server bare -metal hardware.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-sap-hana-azure-compute-network-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/sap-hana-azure-compute-network-storage/",
+      "length": "PT52M",
+      "ratings": {
+        "count": 467,
+        "average": 4.770878
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/sap-hana-azure-compute-network-storage-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
       "title": "Introduction to securing data at rest on Azure",
       "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
@@ -441,50 +484,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-access-blob-storage-metrics-from-code.md",
-      "title": "Access Metrics from your Azure Blob Storage Containers Programmatically",
-      "excerpt": "Discover how to use Azure Monitor to gather performance metrics and then configure and access those metrics from .NET application code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-access-blob-storage-metrics-from-code/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-blob-storage-metrics-from-code/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 37,
-        "average": 4.675676
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/access-blob-storage-metrics-from-code-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-case-study-nosql-databases-object-storage.md",
       "title": "Case studies: NoSQL databases and cloud object storage",
       "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about two more types of storage - NoSQL databases and object storage - with case studies from industry.",
@@ -736,8 +735,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cdn-static-resources-blob-storage/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 536,
-        "average": 4.751866
+        "count": 537,
+        "average": 4.752328
       },
       "provider": {
         "name": "Microsoft Learn",

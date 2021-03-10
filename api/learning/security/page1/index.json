@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
+      "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
+      "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 29,
+        "average": 4.551724
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Web",
+        "Compute",
+        "Containers",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-resource-management-security-in-azure.md",
       "title": "Implement resource management security in Azure",
       "excerpt": "Learn how to secure resources using policy, role-based access control, and other Azure services",
@@ -35,8 +82,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4841,
-            "average": 4.7554226
+            "count": 4848,
+            "average": 4.755363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -78,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3610,
-            "average": 4.7235456
+            "count": 3612,
+            "average": 4.7236986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41076,
-            "average": 4.7167444
+            "count": 41077,
+            "average": 4.7167516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6080,
-            "average": 4.6717105
+            "count": 6081,
+            "average": 4.6717644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -235,8 +282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 35825,
-            "average": 4.784117
+            "count": 35860,
+            "average": 4.7841606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +324,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4841,
-            "average": 4.7554226
+            "count": 4848,
+            "average": 4.755363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -320,8 +367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4131,
-            "average": 4.7843137
+            "count": 4133,
+            "average": 4.7836924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +428,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 4841,
-        "average": 4.7554226
+        "count": 4848,
+        "average": 4.755363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -448,8 +495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4131,
-            "average": 4.7843137
+            "count": 4133,
+            "average": 4.7836924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 5918,
-            "average": 4.620311
+            "count": 5928,
+            "average": 4.620783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -526,8 +573,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7670,
-            "average": 4.657497
+            "count": 7672,
+            "average": 4.657586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -658,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4841,
-            "average": 4.7554226
+            "count": 4848,
+            "average": 4.755363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,8 +748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7183,
-            "average": 4.664346
+            "count": 7184,
+            "average": 4.664393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +783,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/",
           "length": "PT39M",
           "ratings": {
-            "count": 2156,
-            "average": 4.606215
+            "count": 2157,
+            "average": 4.6063976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -779,8 +826,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9013,
-            "average": 4.6554976
+            "count": 9016,
+            "average": 4.6556125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 7670,
-        "average": 4.657497
+        "count": 7672,
+        "average": 4.657586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +1118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14757,
-            "average": 4.7184386
+            "count": 14758,
+            "average": 4.7184577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1201,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41076,
-            "average": 4.7167444
+            "count": 41077,
+            "average": 4.7167516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1413,8 +1460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7183,
-            "average": 4.664346
+            "count": 7184,
+            "average": 4.664393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1691,8 +1738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6080,
-            "average": 4.6717105
+            "count": 6081,
+            "average": 4.6717644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1774,8 +1821,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4841,
-            "average": 4.7554226
+            "count": 4848,
+            "average": 4.755363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1992,8 +2039,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2534,
-            "average": 4.6953435
+            "count": 2535,
+            "average": 4.6954637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2035,8 +2082,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4386,
-            "average": 4.728454
+            "count": 4387,
+            "average": 4.728516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2120,8 +2167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/",
           "length": "PT29M",
           "ratings": {
-            "count": 2194,
-            "average": 4.620784
+            "count": 2195,
+            "average": 4.620957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2502,8 +2549,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 48,
-            "average": 4.6875
+            "count": 49,
+            "average": 4.6938777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2545,8 +2592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
           "length": "PT18M",
           "ratings": {
-            "count": 43,
-            "average": 4.7906976
+            "count": 44,
+            "average": 4.7954545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2630,8 +2677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
           "length": "PT51M",
           "ratings": {
-            "count": 37,
-            "average": 4.864865
+            "count": 38,
+            "average": 4.868421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2672,8 +2719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
           "length": "PT57M",
           "ratings": {
-            "count": 47,
-            "average": 4.87234
+            "count": 48,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3021,220 +3068,6 @@
       "topics": [
         "Azure",
         "IoT",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel.md",
-      "title": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
-      "excerpt": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/",
-      "length": "PT4H40M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
-          "title": "Threat detection with Azure Sentinel analytics",
-          "excerpt": "Threat detection with Azure Sentinel analytics",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
-          "length": "PT1H10M",
-          "ratings": {
-            "count": 61,
-            "average": 4.7213116
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-          "title": "Threat response with Azure Sentinel playbooks",
-          "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-          "length": "PT52M",
-          "ratings": {
-            "count": 34,
-            "average": 4.6764708
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
-          "title": "Security incident management in Azure Sentinel",
-          "excerpt": "Security incident management in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 49,
-            "average": 4.6938777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
-          "title": "Use entity behavior analytics in Azure Sentinel",
-          "excerpt": "Use entity behavior analytics in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 16,
-            "average": 4.8125
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Security"
       ]
     },
@@ -4147,6 +3980,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel.md",
+      "title": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
+      "excerpt": "SC-200 part 7: Create detections and perform investigations using Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-7-create-detections-and-perform-investigations-using-azure-sentinel/",
+      "length": "PT4H40M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
+          "title": "Threat detection with Azure Sentinel analytics",
+          "excerpt": "Threat detection with Azure Sentinel analytics",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 61,
+            "average": 4.7213116
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
+          "title": "Threat response with Azure Sentinel playbooks",
+          "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
+          "length": "PT52M",
+          "ratings": {
+            "count": 34,
+            "average": 4.6764708
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-incident-management-sentinel.md",
+          "title": "Security incident management in Azure Sentinel",
+          "excerpt": "Security incident management in Azure Sentinel",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-management-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-management-sentinel/",
+          "length": "PT1H5M",
+          "ratings": {
+            "count": 49,
+            "average": 4.6938777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel.md",
+          "title": "Use entity behavior analytics in Azure Sentinel",
+          "excerpt": "Use entity behavior analytics in Azure Sentinel",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-entity-behavior-analytics-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-entity-behavior-analytics-azure-sentinel/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 16,
+            "average": 4.8125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
       "title": "Design a holistic monitoring strategy on Azure",
       "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
@@ -4154,8 +4201,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2015,
-        "average": 4.614888
+        "count": 2018,
+        "average": 4.6149654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4234,8 +4281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 100,
-        "average": 4.81
+        "count": 101,
+        "average": 4.811881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4312,8 +4359,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7183,
-        "average": 4.664346
+        "count": 7184,
+        "average": 4.664393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4376,135 +4423,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity.md",
-      "title": "Describe the concepts of security, compliance, and identity",
-      "excerpt": "Describe the concepts of security, compliance, and identity",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-concepts-of-security-compliance-and-identity/",
-      "length": "PT42M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
-          "title": "Describe security concepts and methodologies",
-          "excerpt": "Describe security concepts and methodologies",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 190,
-            "average": 4.8105264
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
-          "title": "Describe Microsoft security and compliance principles",
-          "excerpt": "Describe Microsoft security and compliance principles",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 203,
-            "average": 4.82266
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security",
-        "Identity"
       ]
     }
   ],
