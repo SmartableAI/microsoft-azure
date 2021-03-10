@@ -4,6 +4,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
+      "title": "Integrate Azure Databricks with other Azure services",
+      "excerpt": "Integrate Azure Databricks with other Azure services",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 113,
+        "average": 4.5309734
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-azure-databricks-other-azure-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
+      "title": "Introduction to Content Moderator",
+      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-personalizer.md",
       "title": "Introduction to Personalizer",
       "excerpt": "Discover the Personalizer service that is part of the Azure Decision services offerings.",
@@ -98,8 +185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
       "length": "PT24M",
       "ratings": {
-        "count": 67,
-        "average": 4.7910447
+        "count": 68,
+        "average": 4.7941175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,8 +446,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-entities-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 104,
-        "average": 4.730769
+        "count": 105,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -611,8 +698,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-cognitive-services-iot-edge/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 43,
-        "average": 4.6744184
+        "count": 44,
+        "average": 4.681818
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,49 +1039,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-      "title": "Translate speech with the speech service",
-      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 414,
-        "average": 4.690821
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
       "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
       "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
@@ -1002,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 89,
-        "average": 4.741573
+        "count": 90,
+        "average": 4.7444444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,50 +1288,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-user-defined-functions.md",
-      "title": "Work with user-defined functions",
-      "excerpt": "Work with user-defined functions",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-user-defined-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-user-defined-functions/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 51,
-        "average": 4.529412
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-user-defined-functions-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

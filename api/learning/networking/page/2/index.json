@@ -4,16 +4,18 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
+      "path": "_learning/courses/microsoft-learn-hub-and-spoke-network-architecture.md",
+      "title": "Centralize your core services by using hub and spoke Azure virtual network architecture",
+      "excerpt": "Design a network architecture in Azure that allows for growth and flexibility, secure isolation of critical resources, low administrative overhead, and communication with on-premises network resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hub-and-spoke-network-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hub-and-spoke-network-architecture/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1467,
+        "average": 4.665985
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,22 +26,23 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/hub-and-spoke-network-architecture-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
         "Networking"
       ]
     },
@@ -91,8 +94,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 795,
-        "average": 4.727044
+        "count": 796,
+        "average": 4.727387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -176,14 +179,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-friday-azure-hybrid-networking-101.md",
-      "title": "Azure Friday | Azure Hybrid Networking 101",
-      "excerpt": "In this episode of Azure Friday, Olivier Martin joins Scott Hanselman for the first of a two-part series on hybrid networking in Azure, which is key to connecting existing customer infrastructure into an Azure Virtual Network (vNet). In this episode, Olivier covers the different connection options (VPN",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-hybrid-networking-101/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-hybrid-networking-101/",
-      "originalUrl": "https://youtube.com/watch?v=wystDyqyRXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wystDyqyRXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M49S",
+      "path": "_learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration.md",
+      "title": "Azure Friday | Azure CDN: Dynamic Site Acceleration",
+      "excerpt": "Richard Li joins Scott Hanselman to discuss the new Dynamic Site Acceleration (DSA) optimization for Azure CDN, and how it can be used in combination with standard CDN caching features to measurably improve the performance of web pages with dynamic content.   For more information, see:  Dynamic Site",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/",
+      "originalUrl": "https://youtube.com/watch?v=IOt_POy3k60",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IOt_POy3k60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -196,11 +199,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-31T12:17:48-07:00",
+      "publishedDateTime": "2017-11-20T10:16:18-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wystDyqyRXc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IOt_POy3k60/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -400,8 +403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
       "length": "PT34M",
       "ratings": {
-        "count": 735,
-        "average": 4.6761904
+        "count": 736,
+        "average": 4.6766305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -620,14 +623,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration.md",
-      "title": "Azure Friday | Azure CDN: Dynamic Site Acceleration",
-      "excerpt": "Richard Li joins Scott Hanselman to discuss the new Dynamic Site Acceleration (DSA) optimization for Azure CDN, and how it can be used in combination with standard CDN caching features to measurably improve the performance of web pages with dynamic content.   For more information, see:  Dynamic Site",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-cdn-dynamic-site-acceleration/",
-      "originalUrl": "https://youtube.com/watch?v=IOt_POy3k60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IOt_POy3k60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
+      "path": "_learning/videos/microsoft-azure-friday-azure-hybrid-networking-101.md",
+      "title": "Azure Friday | Azure Hybrid Networking 101",
+      "excerpt": "In this episode of Azure Friday, Olivier Martin joins Scott Hanselman for the first of a two-part series on hybrid networking in Azure, which is key to connecting existing customer infrastructure into an Azure Virtual Network (vNet). In this episode, Olivier covers the different connection options (VPN",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-hybrid-networking-101/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-hybrid-networking-101/",
+      "originalUrl": "https://youtube.com/watch?v=wystDyqyRXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wystDyqyRXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M49S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -640,11 +643,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-11-20T10:16:18-08:00",
+      "publishedDateTime": "2017-07-31T12:17:48-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IOt_POy3k60/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wystDyqyRXc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

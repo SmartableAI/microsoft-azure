@@ -4,6 +4,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-app-registration.md",
+      "title": "Implement app registration",
+      "excerpt": "Implement app registration",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-app-registration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 51,
+        "average": 4.7647057
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-manage-external-identities.md",
       "title": "Implement and manage external identities",
       "excerpt": "Implement and manage external identities",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 99,
-        "average": 4.7474747
+        "count": 100,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
       "length": "PT59M",
       "ratings": {
-        "count": 126,
-        "average": 4.8492064
+        "count": 127,
+        "average": 4.850394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -183,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 511,
-        "average": 4.778865
+        "count": 512,
+        "average": 4.7773438
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -219,84 +262,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday.md",
-      "title": "Introducing new Azure API Management capabilities | Azure Friday",
-      "excerpt": "Miao Jiang joins Scott Hanselman discuss the API economy and how companies must master the challenges inherent in building, maintaining, managing, and exposing APIs to participate. That's where Azure API Management can help. Azure API Management is a solution for publishing APIs to external and internal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=f7CJphbEmk4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7CJphbEmk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M42S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-27T16:56:20-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f7CJphbEmk4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero.md",
-      "title": "What can a managed identity be used for? | One Dev Question: Arturo Lucatero",
-      "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains what you can do with a managed identity.   For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources   Try Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero/",
-      "originalUrl": "https://youtube.com/watch?v=5lqayO_oeEo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lqayO_oeEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M17S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-26T11:06:52-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5lqayO_oeEo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-a-windows-vm-in-azure.md",
       "title": "Create a Windows virtual machine in Azure",
       "excerpt": "Learn to create an Azure virtual machine in minutes that can be used like a local physical desktop or server.",
@@ -304,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14750,
-        "average": 4.718373
+        "count": 14751,
+        "average": 4.718392
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4245,
-        "average": 4.7189636
+        "count": 4246,
+        "average": 4.71903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -384,8 +349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 7597,
-        "average": 4.728314
+        "count": 7599,
+        "average": 4.728254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -535,44 +500,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday.md",
-      "title": "Ingest, prepare & transform using Azure Databricks & Data Factory | Azure Friday",
-      "excerpt": "Today's business managers depend heavily on reliable data integration systems that run complex ETL/ELT workflows (extract, transform/load and load/transform data). Gaurav Malhotra joins Scott Hanselman to discuss how you can iteratively build, debug, deploy, and monitor your data integration workflows",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=CZQOxPY7UuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CZQOxPY7UuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-07T16:04:44-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CZQOxPY7UuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-modern-data-warehouse-analytics-in-azure.md",
       "title": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
       "excerpt": "Azure Data Fundamentals: Explore modern data warehouse analytics in Azure",
@@ -603,8 +530,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 1144,
-            "average": 4.7762237
+            "count": 1146,
+            "average": 4.7757416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -645,8 +572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 868,
-            "average": 4.7580647
+            "count": 869,
+            "average": 4.7583427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -687,8 +614,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 889,
-            "average": 4.7019124
+            "count": 890,
+            "average": 4.702247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5446,
-            "average": 4.720345
+            "count": 5447,
+            "average": 4.7203965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -943,8 +870,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2754,
-            "average": 4.7098765
+            "count": 2755,
+            "average": 4.7092557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1006,8 +933,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2754,
-        "average": 4.7098765
+        "count": 2755,
+        "average": 4.7092557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
       "length": "PT24M",
       "ratings": {
-        "count": 889,
-        "average": 4.7019124
+        "count": 890,
+        "average": 4.702247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,8 +1255,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 1823,
-        "average": 4.6500273
+        "count": 1824,
+        "average": 4.6502194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1371,8 +1298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3519,
-        "average": 4.7192383
+        "count": 3521,
+        "average": 4.719114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1449,14 +1376,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series.md",
-      "title": "How to create App Services in the Azure portal | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create web apps using the Azure App service in the Azure portal.   Try out these features in the Azure portal: https://portal.azure.com    Keep connected on Twitter: https://twitter.com/AzurePortal     And make sure to keep an eye",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-app-services-in-the-azure-portal-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=dHTzv-zY17I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dHTzv-zY17I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
+      "path": "_learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday.md",
+      "title": "How to choose which services to use in Azure | Azure Friday",
+      "excerpt": "In this video, Azure MVP Barry Luijbregts chats with Scott Hanselman about how he goes about choosing the right services in Azure to run his applications and store his data.   For more information, see:  • Overview of Azure services https://aka.ms/azfr/435/01  • Pluralsight course: Microsoft Azure for",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-choose-which-services-to-use-in-azure-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=ZpK_lv6HJkQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpK_lv6HJkQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M20S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1469,11 +1396,87 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-03T09:54:47-07:00",
+      "publishedDateTime": "2018-07-16T11:53:16-07:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dHTzv-zY17I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZpK_lv6HJkQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday.md",
+      "title": "How to use Azure Bastion to connect securely to your Azure VMs | Azure Friday",
+      "excerpt": "Using a bastion host can help limit threats such as port scanning and other types of malware targeting your VMs. Ashish Jain joins Scott Hanselman to show how Azure Bastion gives you secure and seamless RDP and SSH access to your virtual machines. Now you can securely access your VMs over SSL from the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-bastion-to-connect-securely-to-your-azure-vms-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=WElUQm02BTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WElUQm02BTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M40S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-17T22:50:45-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WElUQm02BTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday.md",
+      "title": "Introducing new Azure API Management capabilities | Azure Friday",
+      "excerpt": "Miao Jiang joins Scott Hanselman discuss the API economy and how companies must master the challenges inherent in building, maintaining, managing, and exposing APIs to participate. That's where Azure API Management can help. Azure API Management is a solution for publishing APIs to external and internal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-introducing-new-azure-api-management-capabilities-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=f7CJphbEmk4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7CJphbEmk4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M42S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:56:20-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f7CJphbEmk4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1484,7 +1487,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools"
+        "Integration"
       ]
     },
     {
@@ -1495,8 +1498,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7413,
-        "average": 4.7118573
+        "count": 7415,
+        "average": 4.711935
       },
       "provider": {
         "name": "Microsoft Learn",
