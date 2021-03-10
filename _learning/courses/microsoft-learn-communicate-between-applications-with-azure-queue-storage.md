@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT56M
 ratings:
-  count: 2058
-  average: 4.595238
+  count: 2059
+  average: 4.5944633
 heat: 55
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Storage
 
-secured: "1IF30wrQ71cYx469iIbuOqldJdvh6OOVy1XxhISEskya2+17gNaf/aA/S/mQJTGixK2SyZplHGqGFRMUPcsslLleUzsoghuPtvSRqHAe0HDwN0N+4srmZxxLrCaVKuwbRTrjuKaSw1OxeDERtzWIpWsJigWDvx2/KCP3bdp/JNa1UNplaAQIA7CxR0oampzvPfaW43BkI8XY8l9v0354NQgSSlF3j+mBO323rR6XYoib7fo1BWNtQcvdPtll2Xo/EGiat1p8j2V5jUOhWc76ijphAHwVQWg1KavBfZPouVugBrgF4QbAoD630LEwYsV2b8fRX9fABRmf5YhTFz5YuS5ZzY7E/ZUh08ORQARwRXRFtPBsMJyZX+G9iMA5OEeqCWNGfpnCR77FqBi9EymT0lIbAekEI/fnKPF3KvpDIbM=;2AIHHc+YjQEV0IUbxJFiaA=="
+secured: "mWk2waCwcBLduOd4+4Gso9T7CKJCM2lvgyE/eJg/CmDwG16PL9O1xe0dAi5XLURhbPE2nFoJZw+8m9hfVkMU9SAa8HgyiMKuMudb2/GXg2dVIXptVBj/81kA7lyHijdWBipnrxY9CNEJ1whzj3nEJVcgjMTStJpM5NbPgGmU10Va+woxXtt4Goe6XINYhuQo9Q1+2NkbfPJ09nG23KHh4HA9Gwj287kYNzOC28mkDS9wF7HSOj5vcF1CFgYa45HUA+m5JpcUZY0SuBD3j9Hi3jmn62a7R4vP1aPoIzMv9j70hIXy+CEzu/sQAT2LoHbAcTMRx1Jz1v+7ZOL51LVTeSE2XuhpO40yBgkfFb5uu7TPslbxH4+lphylwYPKQ9R15j/7r/VC9UP19m1dj6smQY1CqySVPVeo6ucfKoEG8cM=;+jFOws8d6KdEF3hiH8ALDg=="
 ---
 

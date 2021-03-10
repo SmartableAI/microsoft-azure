@@ -8,7 +8,7 @@ length: PT54M
 ratings:
   count: 1614
   average: 4.4820323
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Databases
   - Developer tools
 
-secured: "/5oeY0cTlda2j4Ijd7HIhtm3RZje1ON7ZA7Os2Bpb2WL/u/+97PtZnmNCVEwNy9kWqXuuomFN+fG3jXfRbLDiiU8fXFIQPl0g/TTbsEN/xIiLj0Rzw0vA2c+gSlCFVNPM5/o5s1d/1QnV3ZpQfRc86mWJK9I5R34TXjuAIioVyPLCiYZdce/KwXVtxw0jQB7THUDKJTjbCA16MxuX8gSMV95lTA8EgJkfGzNqooI8iWsts2MoHoy3awvdIWkVKfoCFW3dSWJcfj8OJVE2rt8Vzd2ttcWP0GZSKpnckFVI4DhYQPj2mTUU4L5XEheC+R5KDFWp4dyQOkFyGAW1TpYx8NWSvAXk1mVSNNtQv36f8rH3wGzN0pjJoBsKqZ7igN50902n6vKhMoeg30lzsl49XreLalWg8BHSVRQ93a1c8Q=;3qIVOwvx9xouINCSYATjaw=="
+secured: "CkHYgNkjW7wB1N5VoNTC1sfm6l3Q5E9Cid4b+buC15h939Hwz+iRfvTRTw1emS24qxyRxsPoMy0/0gh2t6mrnPu5YNMUP5YN7mvDd8nCHxtYqTMmpkOUu5oGaFLd8eBDLWr5WXkb0iO3CxJqN4jEal58h7ZzumTorW+YhVWCnbw8Xef4lGfs6igTjogQ7IuX8cN2Z8mkBIrvILi/jJKGTLhXXeu2GxmTT00KJeSnEDUgp4N+cmZJoyVpbxsdMhA6C6l3vqQTl4UAjZXf5E2JIwJpL3xzlQVpQ3RfOP32YExZT2Pfv0r3aGYJs1aGXiFmkfbATliqPc0NL+6EIS+nTYgrajneOduT9CcbWUFAazCLAddPndkn57QilhuviLUZG/1IRaceLJLhQRWVSyn0m6aAXbLL8UCvy6aLs5M0t34=;2lEWaFN39JqS1kIDWrKr7Q=="
 ---
 

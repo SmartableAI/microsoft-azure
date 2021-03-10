@@ -8,7 +8,7 @@ length: PT56M
 ratings:
   count: 2243
   average: 4.455194
-heat: 55
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Analytics
 
-secured: "KA2ohtqwkKzu7jUZ8rFhzSTcrKGHCQe3J7ytEFFrgMZqLy6zpQj6VG2jJvVEiN3I5UniolTA13/uPmk78cdSW9FDLuSJbufOqZJbet8IQs++G3xPyqzzcWMc6Mcj2GNqSGUTIYjXcFMl6yGkavo6PmIkmisXFH1eYdkyqZHuEYGay0Q+xj2lMhyzA4i5EOPA3tWWlkEdPvSXs1a5UjKdG4Dlm4I+KPZeR+BWJYMhcNGwg6iAUOxJhM6axUy+j//4T9j0j2YGJ/cgUAiYpQl4sOZRwUB6eM4E2m9abNmEU8uB5/LXDJLtGyO2V5zNAP8zK6P8dP/+zRt3dQnMkqVPgoEXMMnRH8gB8/EwYT6y+qXFrUAne9hyq1gUDnZCKTNyWtlm9CoKnhJioXpYKx+wiG4vjH1ClhHNEG7X64EQ+UE=;kDIjVywnBPV8zwfJ9nUR0w=="
+secured: "oULMHuBuLtEV7Wyr5Sa7UbbDYNoE9c4fNQ2TWhY0hY40tUr0I428BJhNnhLl9D8HP9yQxP3+67QosdE2DHGR2u6pHmkNkJpE5N7Q/G/34g2MUTJHE7i4tUsIfwC76XpRQTojLlmz73S05cbLcUbSXa7eyRWtFai26V/r8keMyarc8WZqQ7gglT4XMn1ycJqZGDng6eDE782mgx9imGd6N+2HAxckRt5ph8k19Cb6QgVRWwQsycZ9u+IsjDr5q4peFlIO1xjrhWFNBroyUEH6Pmnfepx3PQYiKvx3/OL7D3JJeZsIPMP6tsWfneZsQRXDumkaWpINfCWd1MTFlXq5bwjwys06vYxhBi9nvYRe5XGdNd1ULLlFHzBywrHzLoyUfTo58lnlyn0d9bpwmQhWfpL9OD6pOQFSzHuY+QDAU4k=;1RsJBY1mx6viyeryPKKDeQ=="
 ---
 
