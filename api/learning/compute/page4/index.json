@@ -4,45 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-app-service-managed-certificates-azure-tips-and-tricks.md",
-      "title": "How to use Azure App Service managed certificates | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to use Azure App Service managed certificates.   For more tips and tricks, visit: http://azuredev.tips   Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: http://azure.com/free",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-app-service-managed-certificates-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-app-service-managed-certificates-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=qPphhM2v3xU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPphhM2v3xU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M17S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-17T08:20:15-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qPphhM2v3xU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks.md",
       "title": "How to use Deployment Slots in Azure App Service for Containers | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Deployment Slots in Microsoft Azure App Service for Containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -194,8 +155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 953,
-            "average": 4.6610703
+            "count": 954,
+            "average": 4.6614256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +198,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 449,
-            "average": 4.4721603
+            "count": 450,
+            "average": 4.4733334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1077,8 +1038,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
       "length": "PT45M",
       "ratings": {
-        "count": 42,
-        "average": 4.714286
+        "count": 43,
+        "average": 4.6744184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1807,6 +1768,44 @@
         "Azure",
         "Databases",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 735,
+        "average": 4.6761904
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
       ]
     }
   ],

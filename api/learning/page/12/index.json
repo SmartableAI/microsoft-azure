@@ -4,41 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
-      "title": "Store application data with Azure Blob storage",
-      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 3636,
-        "average": 4.5544553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
       "title": "Top 5 security items to consider before pushing to production",
       "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
@@ -117,8 +82,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1766,
-        "average": 4.6132503
+        "count": 1767,
+        "average": 4.613469
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -160,8 +125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 782,
-        "average": 4.661125
+        "count": 783,
+        "average": 4.661558
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -188,49 +153,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel.md",
-      "title": "Utilize threat intelligence in Azure Sentinel",
-      "excerpt": "Utilize threat intelligence in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-threat-intelligence-azure-sentinel/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 61,
-        "average": 4.7704916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-work-with-data-in-aml.md",
       "title": "Work with Data in Azure Machine Learning",
       "excerpt": "Learn how to work with datastores and datasets in Azure Machine Learning.",
@@ -238,8 +160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 913,
-        "average": 4.656079
+        "count": 914,
+        "average": 4.656455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1205,8 +1127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1660,
-        "average": 4.6439757
+        "count": 1661,
+        "average": 4.643588
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1251,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 661,
-        "average": 4.649017
+        "count": 662,
+        "average": 4.6495466
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1445,6 +1367,85 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
+      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
+      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 3309,
+        "average": 4.689332
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
+      "title": "Introduction to open-source database migration on Azure",
+      "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 413,
+        "average": 4.7699757
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Migration"
       ]
     }
   ],

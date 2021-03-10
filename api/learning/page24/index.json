@@ -4,6 +4,84 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday.md",
+      "title": "Monitor Data Factory pipelines using Azure Monitor and Log Analytics | Azure Friday",
+      "excerpt": "NOTE  Throughout this episode there are multiple references to Operations Management Suite; however, this solution actually uses Azure Monitor and Log Analytics.  Gaurav Malhotra joins Scott Hanselman to discuss Azure Data Factory (ADF) integration with Azure Monitor, which enables you to route your",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-monitor-data-factory-pipelines-using-azure-monitor-and-log-analytics-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=B79cjl0BAfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B79cjl0BAfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:53:15-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B79cjl0BAfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-monitor-your-azure-data-factory-pipelines-proactively-with-alerts-azure-friday.md",
+      "title": "Monitor your Azure Data Factory pipelines proactively with alerts | Azure Friday",
+      "excerpt": "Data Integration is complex and helps organizations to combine data and complex business processes in hybrid data environments. The increase in volume, variety and velocity of data has led to delays in monitoring and reacting to issues. Organizations want to reduce the risk of data integration activity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-monitor-your-azure-data-factory-pipelines-proactively-with-alerts-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-monitor-your-azure-data-factory-pipelines-proactively-with-alerts-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=EfNP1dH5WM0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EfNP1dH5WM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T16:59:33-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EfNP1dH5WM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-opendev-102017-logging-security-and-analytics-on-azure-with-the-elastic-stack.md",
       "title": "OpenDev 10.2017 | Logging, security, and analytics on Azure with the Elastic Stack",
       "excerpt": "Christoph Wurm, Principal Solutions Architect at Elastic, speaks at the 2nd edition of Azure OpenDev, a live community-focused series of technical demonstrations centered around building open source solutions on Azure. This episode features DevOps, which increases business agility by delivering business",
@@ -1049,8 +1127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 953,
-            "average": 4.6610703
+            "count": 954,
+            "average": 4.6614256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1092,8 +1170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 449,
-            "average": 4.4721603
+            "count": 450,
+            "average": 4.4733334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3023,361 +3101,6 @@
         "Management Tools",
         "Compute",
         "Networking"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc.md",
-      "title": "Manage hybrid infrastructure with Azure Arc",
-      "excerpt": "Learn how to work with Azure Arc enabled servers and describe Azure Arc enabled Kubernetes.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-hybrid-infrastructure-with-azure-arc/",
-      "length": "PT1H51M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-arc.md",
-          "title": "Introduction to Azure Arc",
-          "excerpt": "Introduction to Azure Arc",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-arc/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 35,
-            "average": 4.857143
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-arc-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-arc-for-servers.md",
-          "title": "Introduction to Azure Arc enabled servers",
-          "excerpt": "This module introduces you to Azure Arc enabled servers and describes its characteristics, capabilities, and use cases.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-for-servers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-for-servers/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 12,
-            "average": 4.9166665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-for-servers-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes.md",
-          "title": "Introduction to Azure Arc enabled Kubernetes",
-          "excerpt": "Introduction to Azure Arc enabled Kubernetes",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-arc-enabled-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-arc-enabled-kubernetes/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 16,
-            "average": 4.875
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-arc-enabled-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-arc-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio.md",
-      "title": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "excerpt": "Migrate an ASP.NET web application to Azure with Visual Studio",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-an-aspnet-web-application-to-azure-with-visual-studio/",
-      "length": "PT1H17M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-configurationbuilder.md",
-          "title": "Externalize the configuration of an ASP.NET app by using an Azure key vault",
-          "excerpt": "Learn how to use ConfigurationBuilder to dynamically configure an ASP.NET web app to retrieve secrets from an Azure key vault.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-configurationbuilder/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-configurationbuilder/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 29,
-            "average": 4.551724
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-logging.md",
-          "title": "Implement logging in a .NET Framework ASP.NET web application",
-          "excerpt": "Learn how to implement logging in an ASP.NET web application so you can store log data in Azure Blob storage and incorporate log information into Azure Application Insights performance data.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-logging/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-logging/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 36,
-            "average": 4.611111
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aspnet-session.md",
-          "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
-          "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aspnet-session/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aspnet-session/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 33,
-            "average": 4.6060605
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/aspnet-session-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Web",
-            "Compute",
-            "Containers",
-            "Mobile",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/aspnet-configurationbuilder-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Security",
-        "Databases",
-        "Developer tools"
       ]
     }
   ],

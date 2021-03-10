@@ -4,6 +4,83 @@
   "page": 26,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analytics-engines-spark.md",
+      "title": "Distributed computing on the cloud: Spark",
+      "excerpt": "Carnegie Mellon University's cloud developer course. Spark is an open-source cluster-computing framework with different strengths than MapReduce has. Learn about how Spark works.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analytics-engines-spark/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-analytics-engines-spark/",
+      "length": "PT1H5M",
+      "ratings": {
+        "count": 31,
+        "average": 4.774194
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-data-in-sentinel.md",
+      "title": "Threat detection with Azure Sentinel analytics",
+      "excerpt": "Threat detection with Azure Sentinel analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-data-in-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/",
+      "length": "PT1H10M",
+      "ratings": {
+        "count": 60,
+        "average": 4.7166667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-data-in-sentinel-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-app-and-infra-migration-and-modernization.md",
       "title": "Applications and infrastructure migration and modernization",
       "excerpt": "Every modern business is powered by applications, such as internal procurement applications, Customer Relationship Management (CRM) systems, retail websites, and third-party products. As your business prepares for digital transformation, it’s important to begin modernizing and migrating your applications and infrastructure to the cloud. Azure is a key component of that process. You can choose to migrate, modernize, or build cloud native solutions depending on your business goals and how you assess your application portfolio. This is a strategic decision. You’ll be able to choose the path that’s right for your organization.",
@@ -365,8 +442,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/audit-security-of-windows-server-iaas-virtual-machines/",
       "length": "PT45M",
       "ratings": {
-        "count": 42,
-        "average": 4.714286
+        "count": 43,
+        "average": 4.6744184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -624,8 +701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-iot-devices-management-with-azure-iot-hub/",
       "length": "PT53M",
       "ratings": {
-        "count": 218,
-        "average": 4.674312
+        "count": 219,
+        "average": 4.675799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -703,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
       "length": "PT57M",
       "ratings": {
-        "count": 270,
-        "average": 4.633333
+        "count": 271,
+        "average": 4.6346865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 453,
-        "average": 4.719647
+        "count": 454,
+        "average": 4.7202644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,91 +1287,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-operational-excellence.md",
-      "title": "Microsoft Azure Well-Architected Framework - Operational excellence",
-      "excerpt": "Learn how to design an Azure architecture that uses modern practices and gives you full visibility into what's happening in your environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-operational-excellence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 757,
-        "average": 4.733157
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-operational-excellence-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
-      "title": "Back up and restore your Azure SQL database",
-      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 767,
-        "average": 4.619296
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
       ]
     }
   ],

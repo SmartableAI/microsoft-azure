@@ -4,6 +4,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm.md",
+      "title": "Implement scale and high availability with Windows Server VM",
+      "excerpt": "You'll learn how to implement scaling for virtual machine scale sets and load-balanced VMs. You'll also learn how to implement Azure Site Recovery.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-scale-high-availability-with-windows-server-vm/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-scale-high-availability-windows-server-virtual-machine/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 24,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-scale-and-high-availability-with-windows-server-vm-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-windows-server-iaas-vm-ip-addressing-routing.md",
       "title": "Implement Windows Server IaaS VM IP addressing and routing",
       "excerpt": "Implement Windows Server IaaS VM IP addressing and routing",
@@ -782,8 +826,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-sphere/",
       "length": "PT30M",
       "ratings": {
-        "count": 62,
-        "average": 4.693548
+        "count": 63,
+        "average": 4.698413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -867,8 +911,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-azure-functions-iot/",
       "length": "PT27M",
       "ratings": {
-        "count": 103,
-        "average": 4.6407766
+        "count": 105,
+        "average": 4.6476192
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -911,8 +955,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-mlops-iot-edge/",
       "length": "PT36M",
       "ratings": {
-        "count": 65,
-        "average": 4.5692306
+        "count": 66,
+        "average": 4.5757575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1039,8 +1083,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-arc/",
       "length": "PT37M",
       "ratings": {
-        "count": 35,
-        "average": 4.857143
+        "count": 36,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1232,49 +1276,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-content-moderator.md",
-      "title": "Introduction to Content Moderator",
-      "excerpt": "Discover how Content Moderator can evaluate text, images, and video, for appropriateness.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-content-moderator/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-content-moderator/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

@@ -4,95 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
-      "title": "React to state changes in your Azure services by using Event Grid",
-      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 440,
-        "average": 4.586364
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-recognize-synthesize-speech.md",
-      "title": "Recognize and synthesize speech",
-      "excerpt": "Learn how to recognize and synthesize speech by using Azure Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-synthesize-speech/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 654,
-        "average": 4.796636
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Developer Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-remediate-azure-defender-security-alerts.md",
       "title": "Remediate security alerts using Azure Defender",
       "excerpt": "Remediate security alerts using Azure Defender",
@@ -100,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
       "length": "PT52M",
       "ratings": {
-        "count": 50,
-        "average": 4.84
+        "count": 51,
+        "average": 4.8431373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -143,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4462,
-        "average": 4.537427
+        "count": 4463,
+        "average": 4.5370827
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,57 +83,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-what-is-azure-defender.md",
-      "title": "Plan for cloud workload protections using Azure Defender",
-      "excerpt": "Plan for cloud workload protections using Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-azure-defender/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
-      "length": "PT51M",
+      "path": "_learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel.md",
+      "title": "Utilize threat intelligence in Azure Sentinel",
+      "excerpt": "Utilize threat intelligence in Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-threat-intelligence-azure-sentinel/",
+      "length": "PT18M",
       "ratings": {
-        "count": 33,
-        "average": 4.848485
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
-      "title": "Work with data in Azure Sentinel using Kusto Query Language",
-      "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-data-kql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-kusto-query-language/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 46,
-        "average": 4.7391305
+        "count": 61,
+        "average": 4.7704916
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -995,6 +864,348 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-security-solutions.md",
+      "title": "Describe the capabilities of Microsoft security solutions",
+      "excerpt": "Describe the capabilities of Microsoft security solutions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-security-solutions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-security-solutions/",
+      "length": "PT2H12M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-basic-security-capabilities-azure.md",
+          "title": "Describe basic security capabilities in Azure",
+          "excerpt": "Describe basic security capabilities in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-basic-security-capabilities-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 34,
+            "average": 4.7647057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure.md",
+          "title": "Describe security management capabilities of Azure",
+          "excerpt": "Describe security management capabilities of Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 29,
+            "average": 4.7586207
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-management-capabilities-of-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-capabilities-of-azure-sentinel.md",
+          "title": "Describe security capabilities of Azure Sentinel",
+          "excerpt": "Describe security capabilities of Azure Sentinel",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-capabilities-of-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 32,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-capabilities-of-azure-sentinel-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-900-part-3-describe-the-capabilities-of-microsoft-security-solutions.md",
+      "title": "SC-900 part 3: Describe the capabilities of Microsoft security solutions",
+      "excerpt": "SC-900 part 3: Describe the capabilities of Microsoft security solutions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-900-part-3-describe-the-capabilities-of-microsoft-security-solutions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-900-part-3-describe-the-capabilities-of-microsoft-security-solutions/",
+      "length": "PT2H39M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-basic-security-capabilities-azure.md",
+          "title": "Describe basic security capabilities in Azure",
+          "excerpt": "Describe basic security capabilities in Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-basic-security-capabilities-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-basic-security-capabilities-azure/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 34,
+            "average": 4.7647057
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure.md",
+          "title": "Describe security management capabilities of Azure",
+          "excerpt": "Describe security management capabilities of Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-management-capabilities-of-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-management-capabilities-of-azure/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 29,
+            "average": 4.7586207
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-management-capabilities-of-azure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-capabilities-of-azure-sentinel.md",
+          "title": "Describe security capabilities of Azure Sentinel",
+          "excerpt": "Describe security capabilities of Azure Sentinel",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-capabilities-of-azure-sentinel/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 32,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-capabilities-of-azure-sentinel-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-basic-security-capabilities-in-azure-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
       "title": "Analyze costs and create budgets with Azure Cost Management",
       "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
@@ -1002,8 +1213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 1519,
-        "average": 4.6833444
+        "count": 1520,
+        "average": 4.6835527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1081,8 +1292,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5857,
-        "average": 4.733652
+        "count": 5858,
+        "average": 4.7336974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1125,8 +1336,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
       "length": "PT49M",
       "ratings": {
-        "count": 2549,
-        "average": 4.618282
+        "count": 2550,
+        "average": 4.6184316
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,6 +1399,49 @@
         "Compute",
         "Serverless",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode.md",
+      "title": "Build a web app with Blazor WebAssembly and Visual Studio Code",
+      "excerpt": "Learn how to set up your development environment and build your first WebAssembly app with Blazor, Visual Studio Code, and C#.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-web-app-blazor-webassembly-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-blazor-webassembly-visual-studio-code/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 1462,
+        "average": 4.7038302
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-a-web-app-with-blazor-webassembly-and-vs-code-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Developer tools"
       ]
     }
   ],
