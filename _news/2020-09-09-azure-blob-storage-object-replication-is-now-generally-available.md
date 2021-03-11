@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 499
+heat: 519
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "Azure storage strives to protect your business critial data from any accident or attack. We are excited to announce the general availability of  Azure Blob versioning. "
     publishedDateTime: 2020-08-31T20:00:37Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-versioning-is-now-general-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Storage — Routing Preferences now generally available "
+    excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
+    publishedDateTime: 2021-03-11T00:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-ga/"
     type: article
     provider:
       name: Microsoft

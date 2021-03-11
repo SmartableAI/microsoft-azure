@@ -1,10 +1,10 @@
 ---
 category: news
-title: "New Brazil Southeast region added to Azure HDInsight"
-excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
-publishedDateTime: 2021-03-09T20:18:47Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
-webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
+title: "New Norway East region added to Azure HDInsight"
+excerpt: "HDInsight is now generally available for Norway East customers."
+publishedDateTime: 2021-03-11T00:38:47Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
+webUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
 type: article
 quality: 84
 heat: -1
@@ -50,10 +50,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "New Norway East region added to Azure HDInsight"
-    excerpt: "HDInsight is now generally available for Norway East customers."
-    publishedDateTime: 2021-03-11T00:38:47Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
+  - title: "New Brazil Southeast region added to Azure HDInsight"
+    excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
+    publishedDateTime: 2021-03-09T20:18:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
     type: article
     provider:
       name: Microsoft
@@ -69,6 +69,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "3hexlDgt083M90SYksC3vkvfVQTUwKFRffDhaY/x6R3SIf+3j5ejPcR084B7xQKQ2vOCg4x1k8DCS9Oh2lxL/m/U5eDuxKKBdZtOtYi//uaWJi/BFkAeUg5B68WVmGph1ztISl/7kEBp7VFZlutbCl5hnm4vqILDcO6v/EQ6kDBGeKKRSl6NGMMjz/M6/QCE78X8zbQfqSyvElLUYEBmHZ9B32eRv9TxLwO76k409Hlar/P7WxjkFw96ElR9fJH3toxYcAI0l3G/zgUpUwHK/9hKbSkJ70Rs0l0yEmYY7BRUan92azzq/B0UKsQ525B58Nz6hinhlpm5eH1dwd6lbAdbteO7q1QwIqhKBQ0qB/c=;nPUKVvVKi+82AiJSWu7+pQ=="
+secured: "cz9eGvijvk5E0QrVWluFq57RYt02f9dZAIZPRgPuqU/FwnK6VzMztIgmb+DicfPmTrWUFCcbPHq/0tP0MRdxMiSxCLOUuV8lpeKDuZRBkb9GRFa0pFoGkICB5kdNljcKAMD8OhTF8fEV6boyxQQVDjoEIEmnmAA1t5mIYciLRpchOU2ZNjdFNSmO3lzmglRsUuK+Gda/W5ZBTUI6mWCI/GFGdvREWr5MfzCa3Zv6vOZSxtgqy5GfaDqRkE+z4weaLDt5lVC5hD7KyUWz19AH2BCGhSFyyCZysljbzxwYEXfJvZI5umVm+OOyQ4+fz16iX2w5gdhM0N4I9siQ97o00M1FZmjLFdG/HlpD/Ryy3DM=;J/QT2PruqaUss8Krl3arUw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-hdinsight-is-now-available-in-the-uae-central/"
 type: article
 quality: 84
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "HDInsight is now available for Brazil South customers requiring scenario-based in-country disaster recovery."
     publishedDateTime: 2021-03-09T20:18:47Z
     webUrl: "https://azure.microsoft.com/en-us/updates/new-brazil-southeast-region-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "New Norway East region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for Norway East customers."
+    publishedDateTime: 2021-03-11T00:38:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
     type: article
     provider:
       name: Microsoft

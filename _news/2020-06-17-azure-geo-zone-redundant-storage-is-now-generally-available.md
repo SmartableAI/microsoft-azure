@@ -57,6 +57,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Storage — Routing Preferences now generally available "
+    excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
+    publishedDateTime: 2021-03-11T00:00:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z

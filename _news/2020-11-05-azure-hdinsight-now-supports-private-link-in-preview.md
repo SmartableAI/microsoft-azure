@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "New Norway East region added to Azure HDInsight"
+    excerpt: "HDInsight is now generally available for Norway East customers."
+    publishedDateTime: 2021-03-11T00:38:47Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/new-norway-east-region-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Updates to Azure HDInsight"
     excerpt: "HDInsight now fully supports distributions of Apache analytics projects in-house. Plus, in the coming months, we’re launching the next generation of HDInsight with new and improved features."
     publishedDateTime: 2020-07-21T16:02:26Z
