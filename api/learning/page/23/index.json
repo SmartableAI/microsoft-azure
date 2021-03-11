@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5558,
-        "average": 4.741634
+        "count": 5559,
+        "average": 4.74168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -130,49 +130,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-      "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-      "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 73,
-        "average": 4.780822
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
       "title": "Monitor GitHub events by using a webhook with Azure Functions",
       "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
@@ -224,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
       "length": "PT37M",
       "ratings": {
-        "count": 46,
-        "average": 4.804348
+        "count": 47,
+        "average": 4.808511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
       "length": "PT58M",
       "ratings": {
-        "count": 88,
-        "average": 4.375
+        "count": 89,
+        "average": 4.3820224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -437,49 +394,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
-      "title": "Hunt for threats using notebooks in Azure Sentinel",
-      "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 11,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-plan-implement-entitlement-management.md",
       "title": "Plan and implement entitlement management",
       "excerpt": "Plan and implement entitlement management",
@@ -487,8 +401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
       "length": "PT49M",
       "ratings": {
-        "count": 38,
-        "average": 4.8157897
+        "count": 39,
+        "average": 4.820513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,8 +615,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
       "length": "PT54M",
       "ratings": {
-        "count": 1096,
-        "average": 4.6843066
+        "count": 1097,
+        "average": 4.684594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1288,6 +1202,94 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
+      "title": "Introduction to securing data at rest on Azure",
+      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 257,
+        "average": 4.688716
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
+      "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
+      "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 2003,
+        "average": 4.5332003
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
       ]
     }
   ],

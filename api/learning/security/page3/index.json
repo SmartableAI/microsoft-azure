@@ -386,6 +386,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors.md",
+      "title": "Connect data to Azure Sentinel using data connectors",
+      "excerpt": "Connect data to Azure Sentinel using data connectors",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-data-to-azure-sentinel-with-data-connectors/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 6,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-microsoft-defender-365-to-azure-sentinel.md",
       "title": "Connect Microsoft 365 Defender to Azure Sentinel",
       "excerpt": "Connect Microsoft 365 Defender to Azure Sentinel",
@@ -768,49 +811,6 @@
         "Identity",
         "DevOps",
         "Management Tools",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
-      "title": "Hunt for threats using notebooks in Azure Sentinel",
-      "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 11,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Security"
       ]
     },
@@ -1311,7 +1311,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1569,49 +1569,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors.md",
-      "title": "Connect data to Azure Sentinel using data connectors",
-      "excerpt": "Connect data to Azure Sentinel using data connectors",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-data-to-azure-sentinel-with-data-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-data-to-azure-sentinel-with-data-connectors/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 6,
-        "average": 4.8333335
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-syslog-data-sources-to-azure-sentinel.md",
       "title": "Connect syslog data sources to Azure Sentinel",
       "excerpt": "Connect syslog data sources to Azure Sentinel",
@@ -1829,6 +1786,50 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight.md",
+      "title": "Manage enterprise security in HDInsight",
+      "excerpt": "Manage enterprise security in HDInsight",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-enterprise-security-in-hdinsight/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-enterprise-security-hdinsight/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 64,
+        "average": 4.609375
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/manage-enterprise-security-in-hdinsight-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
         "Security"
       ]
     }

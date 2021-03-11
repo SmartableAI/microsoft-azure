@@ -4,49 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-manage-external-identities.md",
-      "title": "Implement and manage external identities",
-      "excerpt": "Implement and manage external identities",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-manage-external-identities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 107,
-        "average": 4.766355
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -557,8 +514,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 1064,
-            "average": 4.791353
+            "count": 1065,
+            "average": 4.791549
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -852,8 +809,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
       "length": "PT25M",
       "ratings": {
-        "count": 4065,
-        "average": 4.6221404
+        "count": 4066,
+        "average": 4.6222334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1008,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 448,
-        "average": 4.772321
+        "count": 449,
+        "average": 4.7706013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1052,8 +1009,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 1064,
-        "average": 4.791353
+        "count": 1065,
+        "average": 4.791549
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,8 +1261,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3153,
-        "average": 4.4934983
+        "count": 3154,
+        "average": 4.493342
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1381,6 +1338,49 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
+      "title": "Build a bot with QnA Maker and Azure Bot Service",
+      "excerpt": "Learn how to create a bot that answers frequently asked questions.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 2761,
+        "average": 4.7098875
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

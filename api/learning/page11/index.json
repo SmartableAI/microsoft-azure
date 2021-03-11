@@ -4,49 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service.md",
-      "title": "Build a bot with QnA Maker and Azure Bot Service",
-      "excerpt": "Learn how to create a bot that answers frequently asked questions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-faq-chatbot-qna-maker-azure-bot-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2761,
-        "average": 4.7098875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-faq-chatbot-qna-maker-azure-bot-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-classify-images-custom-vision.md",
       "title": "Classify images with the Custom Vision service",
       "excerpt": "Image classification is a common workload in artificial intelligence (AI) applications. It harnesses the predictive power of machine learning to enable AI systems to identify real-world items based on images.",
@@ -219,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 368,
-        "average": 4.7608695
+        "count": 369,
+        "average": 4.7615175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +211,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 310,
-        "average": 4.7354836
+        "count": 311,
+        "average": 4.733119
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -934,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 770,
-        "average": 4.620779
+        "count": 771,
+        "average": 4.618677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1054,8 +1011,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5710,
-        "average": 4.630823
+        "count": 5711,
+        "average": 4.630888
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1175,8 +1132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-get-started/",
       "length": "PT26M",
       "ratings": {
-        "count": 50,
-        "average": 4.9
+        "count": 51,
+        "average": 4.882353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,8 +1218,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 1460,
-        "average": 4.736986
+        "count": 1461,
+        "average": 4.7371664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1336,6 +1293,48 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-python.md",
+      "title": "Introduction to Python",
+      "excerpt": "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 5852,
+        "average": 4.7230005
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-python-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
