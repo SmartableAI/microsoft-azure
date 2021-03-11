@@ -4,7 +4,7 @@ excerpt: "Run Azure for SAP workloads"
 type: collection
 price: Free
 length: PT2H33M
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -21,6 +21,8 @@ items:
   - courses/microsoft-learn-implement-azure-vm-based-sap-solutions
   - courses/microsoft-learn-migrate-sap-workloads-azure
   - courses/microsoft-learn-maintain-azure-sap-workloads
+  - courses/microsoft-learn-implement-azure-backup-for-sap-workloads-azure-vms
+  - courses/microsoft-learn-implement-azure-monitoring-for-sap-workloads-azure-vms
 
 topics:
   - Azure
