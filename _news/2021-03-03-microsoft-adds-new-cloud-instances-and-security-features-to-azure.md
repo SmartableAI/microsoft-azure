@@ -459,6 +459,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Singtel offers 5G edge computing on Microsoft Azure"
+    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+    publishedDateTime: 2021-03-10T01:46:00Z
+    webUrl: "https://www.zdnet.com/video/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/02/04/29de07b6-7ebc-45d1-9301-f730eea2681f/thumbnail/770x578/4bb059862d8453407b2138ce7e50f60d/singtel-offers-5g-edge-computing-on-micr-601b66413b7e3e68c748bca7-1-feb-04-2021-4-19-09-poster.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z

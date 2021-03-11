@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Microsoft announces new Azure China data center region in Hebei"
-excerpt: "Microsoft has announced a new Azure data center region in Northern China. Quietly announced during its Ignite conference this week, the China North 3 region will be located in Hebei and be the company’s fifth in the country."
-publishedDateTime: 2021-03-02T17:39:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-new-azure-china-data-center-region-hebei/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-new-azure-china-data-center-region-hebei/"
+title: "Singtel offers 5G edge computing on Microsoft Azure"
+excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
+publishedDateTime: 2021-03-10T01:46:00Z
+originalUrl: "https://www.zdnet.com/video/singtel-offers-5g-edge-computing-on-microsoft-azure/"
+webUrl: "https://www.zdnet.com/video/singtel-offers-5g-edge-computing-on-microsoft-azure/"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/China.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.zdnet.com/a/hub/i/r/2021/02/04/29de07b6-7ebc-45d1-9301-f730eea2681f/thumbnail/770x578/4bb059862d8453407b2138ce7e50f60d/singtel-offers-5g-edge-computing-on-micr-601b66413b7e3e68c748bca7-1-feb-04-2021-4-19-09-poster.jpg"
+    width: 770
+    height: 578
     isCached: true
 
 related:
@@ -458,20 +462,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Singtel offers 5G edge computing on Microsoft Azure"
-    excerpt: "Singapore telco offers enterprise customers the option to run its Multi-access Edge Compute 5G platform, tapped to process applications such as drones and augmented reality, on Microsoft's Azure cloud network."
-    publishedDateTime: 2021-03-10T01:46:00Z
-    webUrl: "https://www.zdnet.com/video/singtel-offers-5g-edge-computing-on-microsoft-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/02/04/29de07b6-7ebc-45d1-9301-f730eea2681f/thumbnail/770x578/4bb059862d8453407b2138ce7e50f60d/singtel-offers-5g-edge-computing-on-micr-601b66413b7e3e68c748bca7-1-feb-04-2021-4-19-09-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Microsoft adds more devices and services to its Azure Stack hybrid line-up"
     excerpt: "Microsoft Ignite 2020: Mary Jo Foley on Project Cortex, Azure resiliency, Teams, and Edge on Linux Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players The ..."
     publishedDateTime: 2020-09-22T21:24:00Z
@@ -1108,6 +1098,20 @@ related:
         width: 501
         height: 375
         isCached: true
+  - title: "Microsoft announces new Azure China data center region in Hebei"
+    excerpt: "Microsoft has announced a new Azure data center region in Northern China. Quietly announced during its Ignite conference this week, the China North 3 region will be located in Hebei and be the company’s fifth in the country."
+    publishedDateTime: 2021-03-02T17:39:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-new-azure-china-data-center-region-hebei/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/China.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure Plans New China Data Centers in Asia Cloud Expansion"
     excerpt: "China North 3 will be the first Azure availability region in China to feature multiple zones for high-availability applications."
     publishedDateTime: 2021-03-02T22:34:00Z
@@ -1513,6 +1517,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "xEYnRjnrLy+Vovr9jYs+tKtMSFNBiaL2bg8kbdpDpTH0iL+XfFgcYZnK0wlQPmW+6moy7id2Jz5yHDUi9yim7IETJ1w9oqRifFgOwMi40ZV58EQz9nyC/mt2/TLpY2gYUrVQp0z6arzwDm1+kZ5vxcYA+n4ijxUfzC+RGBeX9XjgAOfwWoSjAtbz3Asm+Os1b/hi7pxxXoaJHzSuz3rLMacubFPo6WswMHYR3RcWW5IzfnjIXaaYUSPO2ARDTrNv5g2Fl5CDuN9MkQCSWcoHtVdNLsacd106D1PB/d3jNGpka/R8J9+zWqlF9D75IxF3ro7+SQ67KZhQQi4fgX0/AP8A1grMocMEd9DNjlgYfVHkw9yp47u4HW7EsDlt+8Q3OpAi8/ykL2k68Ml8QKlo/9NxWJPoCJbY0tzIjsQW8kU44VFlKcHIqiyf9Yri3oGLJ/bBM+nrojdi/fOXXAVV6OE7w8xK1s9yRwe8BEdbOVu+OBAck0jZLd7AAfElGTOo9T3myND6g5HwBQaY+P8btA==;CPc2giZu3fUtuDqVTZpHEA=="
+secured: "7EUGlfjAV/NFYMz4+KW1M7lhKfuIzyBGxKEAnGDxfiM/vwsp89lWzi/DieX88/1O3iinK3SZ7WGNLhIjEkzLxXDKXvm+lZ7ymYYIPNdQVVzyIpxGdoFY/D/khWesCDiFq3EUX9C2UijOquudVg00kn5Wj7BnskL+D+U7J6g/AnxPSrHxFTffudjTtVnV6zmyDyf2+SrJIRvIc2whWytSOFrVuxx7HiLPerKB58UoTyOG0YdS12mg3P+M//sSP5JFeuSlZzuuOg1s0K7L3qoZZBwXmYJ5jzdNg6G0rJdxWO8GUKFFR66S/vMWzPjNW7wV166SXl1APH4XhrSq+k0fhan6OQDNMBSBhQRNpaZJV2w=;NWLFO4PoM6bWwIyujn7jhw=="
 ---
 
