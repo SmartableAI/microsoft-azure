@@ -1,36 +1,43 @@
 ---
 category: news
-title: "Microsoft launches Azure Arc machine learning and container services"
-excerpt: "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads."
-publishedDateTime: 2021-03-02T22:00:00Z
-originalUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/"
-webUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/"
-ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
+title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
+publishedDateTime: 2021-03-09T15:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
+webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
 type: article
-quality: 129
-heat: 2289
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
+  - title: "Microsoft launches Azure Arc machine learning and container services"
+    excerpt: "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads."
+    publishedDateTime: 2021-03-02T22:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/"
+    ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 129
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft launches Azure Orbital to connect satellites to its cloud"
     excerpt: "Ignite conference, Microsoft today announced the launch of Azure Orbital, a new service that is meant to give satellite operators a complete platform to communicate with their satellites and process data from them — including the ground stations to receive those signals."
     publishedDateTime: 2020-09-24T05:26:00Z
@@ -579,15 +586,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
-    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
-    publishedDateTime: 2021-03-09T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z
@@ -1504,6 +1502,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "bmZdmTwm+L4w+QzN7lLipAoU5AQg8Bc+2FnzwQ4bNfB3z24X4YrptAQ6EJ0mGywbHSufhpW6sP0fPaGXs65cN7VTClguw2yDVnUyaj6P5U2o1GYOpgbRFAxwk3YUiEScWSvStR0luYI9vkORNh7ME+GFIWbPr3sLcYU5Mr3+QbI9knN/Fh1ebfIpPUEyhlifgbsjCAVLBiIF4igMQ5I4XvDPLEFsWijgUpaVdRWvfdcrSKnEg3y4w+Nqe+DQ2R/ZEQkSfjwogmPhmVoLG+9yWOuA6heUCCjuK8GZKBEALucjxhpyxKpkKMpd1GCpZ7ZdW47+m5bV6oZ2ZBBwiCpmL7mNZw054lzxKoowo6Fj+QBSIt0UtvYVVwK4FNqzDOqNehtx1TM3WIxkj+pnZyb7dz1WLg154BVGiCR7/P6eoilLmB1uRGCXZWJjG+89Cn3BZuQa37N3CMskHutOhQdUbo29WyBFPFjHZy5uc3aRSVLbhG5n3XHrON3ckH5B/w68U6BDhyuCcfkDJFnd5eK5tA==;uyFxY4XjiQ5JX52TAA447g=="
+secured: "Be6IKftmWdfgb0iG6poTk9xS5fbChiiyikJ8r/nsN70wnbPcYwBbXHhBaQRnfCdDvB5sLFH9WtawluNsQARFL4CyDhbur6Melv73FP0p+El7SafJMFBjRAC8YUAtD44ERmJwsXcMh9W680frO/5Fkqexv7MEv0QtqIYOcNCdGr5YxxrnMcTRPwnfb2dsvm5MVc2OU4UBuCfoxrMepDgoZD/I+sQ69Aa49kUli8sOBZ/zP3NtjcRSp6HM2fSorrJBWhjB4bwjqexOIPhcM8D/XSNjt508vmxBhgY5LglxVpFwrrkyRs0dDHuH2YHByfn+wAywvuZ5Gc38fLQltDqIgKF4qS5nRBw0NSuoQUEyPO4=;HD1sYPu3m/QjaY/UaPQMOA=="
 ---
 

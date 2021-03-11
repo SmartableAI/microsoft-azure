@@ -584,6 +584,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
+    publishedDateTime: 2021-03-09T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z

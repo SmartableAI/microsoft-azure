@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Azure Defender for Storage powered by Microsoft threat intelligence"
-excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
-publishedDateTime: 2021-03-10T09:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
-webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+publishedDateTime: 2021-03-11T08:22:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
 type: article
-quality: 108
-heat: 268
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Azure
-  - Storage
-  - Management tools
-  - Security
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
-    width: 713
-    height: 439
+  - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+    width: 450
+    height: 601
     isCached: true
 
 related:
+  - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
+    excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
+    publishedDateTime: 2021-03-10T09:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 108
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
+        width: 713
+        height: 439
+        isCached: true
   - title: "It's Past Time for Microsoft to Disclose Azure Details"
     excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
     publishedDateTime: 2020-11-03T15:03:00Z
@@ -71,22 +80,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-    publishedDateTime: 2021-03-11T08:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-        width: 450
-        height: 601
         isCached: true
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "KernelCare delivers a dedicated service for commercial IoT projects, including integration with Microsoft’s Azure IoT Hub. Pricing is customized and determined after a proof-of-concept project. For more information, visit kernelcare.com. About CloudLinux ..."
@@ -145,6 +138,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Ag3FtxjKx0lmC+tC0f8C0X9hl8g59tbHelesdhn7wBE1z0FWy6EBrclmsKwG2/SWKFzLrJMLCxTjbrM+h+L5PXpT6o4MTpd6rGkGq6azif9vWTdFtu4LHzM7ap573+aUzd7W8xrWEYazHoWN5O8SUG5zFLz0ofyHrXncAwHmo2tu1v8UObcsXQQU/vU5Ox+5DQ31HD5QMAdgKCs1U6hwNw0lhPjOtOXtWw62IzoO2zJ1acGsgimW4BlGlyqh4nm9agB7WQZ8y9QE1QuWavne7P7TeCMnPpgIjkZ7fWByWPyGtQ0/BA8/02ERzrGwmkxT74asdAn1DrbaKDz6pYD8Hd5fFXngNKTW1yOQziho2OM=;WHEtrYjOg3t69Et3DnIDKw=="
+secured: "QXes5x4gaOz7sGltyBuGUE7lVENgrft4trNO/xcyDdc6sz9lWEgS+M+GuhfbxxeFZzk/a2P7fut7Q4iPvT08y2z7BC7PyIgG7Z45mGS+wa6crWargR3z1sAg1FqqsHWlMS7+26Qb0nISoL23RtBZ7BSJ3w2QOqwMbUk942OfkKOhieRABGkRLeFfaAYwtLRueeQd6fn2Yzf6D+2RielG2L8panSXLELI7G2aAjcc+3a0oeBgZYbR2nyZXl49L1xOFPkWEiGG00oh78Jtg24oPn/uVN9VhtY/vgkxVgqDIUlO3E3+dy3o5bqc+NH5z3t9V1MAsvsVoMcoCcJcrpBeW5Iset89PfsuekK3pH5ekbQ=;DtD2iE9OE/P45ro7pzRmZg=="
 ---
 
