@@ -109,6 +109,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-03-11T06:29:00Z
@@ -137,6 +151,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "QXes5x4gaOz7sGltyBuGUE7lVENgrft4trNO/xcyDdc6sz9lWEgS+M+GuhfbxxeFZzk/a2P7fut7Q4iPvT08y2z7BC7PyIgG7Z45mGS+wa6crWargR3z1sAg1FqqsHWlMS7+26Qb0nISoL23RtBZ7BSJ3w2QOqwMbUk942OfkKOhieRABGkRLeFfaAYwtLRueeQd6fn2Yzf6D+2RielG2L8panSXLELI7G2aAjcc+3a0oeBgZYbR2nyZXl49L1xOFPkWEiGG00oh78Jtg24oPn/uVN9VhtY/vgkxVgqDIUlO3E3+dy3o5bqc+NH5z3t9V1MAsvsVoMcoCcJcrpBeW5Iset89PfsuekK3pH5ekbQ=;DtD2iE9OE/P45ro7pzRmZg=="
 ---

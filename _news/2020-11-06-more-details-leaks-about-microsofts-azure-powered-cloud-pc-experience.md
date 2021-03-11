@@ -109,6 +109,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-03-11T06:29:00Z
@@ -137,6 +151,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "jXiYr0OWN7sPNMwkRDziUdNy/2m3Bk2hsLSScQNcJiBos689k7o0qLE8MrcuRSOyrpFW5Sfqc9+DCK5/27q0WWaC/SyOCSYOzG4wQucBgXHnQtOeTA8yZ9GxXhfFVs2bN96XVXRlQcGgz0n9uy4I+TBgGMayu5SK/5GjG9bsB7uNZ4GPQ/6uphkdspr7B0WsTCebZn4kyS3f9QMdb+HOalmBHo/8XYexFKk2tuiHmcxj2F98oKdnT3/oTSQjszYyV7uZd0RBZ0/j+pAk170GPPudOc6TX22AezONYKYmyP9RG2ZUJ+INW2PJIfcbSKGCLkro7Jp+SOiO8glYy4xq4/5fk3aY1tGPPkF7SrBHzB3vFiWohR5DGspPU+doYyRAO5CKgfbx8W5pcMbf+zbj1knqM4QOWa5z9Xh6XetF5aOzp8M3L9bc85ErH/9mMmBzuvJHbKhf9iwOh39owziqhCGWt1jrk5/bCMRfLWFZdMSwIG3yoWdF/yP0FcCIEARujOJYR0fC447Cxg+pcY3yCg==;kAqTYPC3iJCNct5lFVrecg=="
 ---

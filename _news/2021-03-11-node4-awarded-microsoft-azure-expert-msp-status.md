@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-03-11T06:29:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+title: "Node4 awarded Microsoft Azure Expert MSP status"
+excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+publishedDateTime: 2021-03-11T10:30:00Z
+originalUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
 type: article
-quality: 25
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Telecompaper
+  domain: telecompaper.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -137,6 +131,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-03-11T06:29:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -151,16 +159,7 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Node4 awarded Microsoft Azure Expert MSP status"
-    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
-    publishedDateTime: 2021-03-11T10:30:00Z
-    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
 
-secured: "MOT8J+KnX7wQp+cr2MmpRYMROFm/9kMN0F9EvNpFjeovRrkSEp3PzvxnE4ZZhSomtRUc1+EolFvf+4MaxcrOdEHop1xDjd9VrlNZswqLUrkawuttcVuqzNKcf+n/BFmrzzthALOT0JytbFFf6QEqBJmvCdzbL7tXa/mE/ib+wmSCqOOPG5SJshynMX5HHAL6yf/B6CpKwvmyzVWid57jDGziTqGLNsmg3x3uHKZma6EaD0wax1xMtRv0Goot0IlVnMvY8S68sVr059eDo3K2zFb+wUk9E97M7vnRONTiJTgrt1F29qJXILMelXYfaWnEyV+tbr47Hg107eL6g040VQUn5cEgTVZUWzE9VlNhAbY=;j8d7nr5pFbZLk4KGlAX/Ag=="
+secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
 ---
 

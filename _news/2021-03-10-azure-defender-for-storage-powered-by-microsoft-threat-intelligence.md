@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 268
+heat: 308
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-03-11T06:29:00Z
@@ -144,6 +158,15 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "Ag3FtxjKx0lmC+tC0f8C0X9hl8g59tbHelesdhn7wBE1z0FWy6EBrclmsKwG2/SWKFzLrJMLCxTjbrM+h+L5PXpT6o4MTpd6rGkGq6azif9vWTdFtu4LHzM7ap573+aUzd7W8xrWEYazHoWN5O8SUG5zFLz0ofyHrXncAwHmo2tu1v8UObcsXQQU/vU5Ox+5DQ31HD5QMAdgKCs1U6hwNw0lhPjOtOXtWw62IzoO2zJ1acGsgimW4BlGlyqh4nm9agB7WQZ8y9QE1QuWavne7P7TeCMnPpgIjkZ7fWByWPyGtQ0/BA8/02ERzrGwmkxT74asdAn1DrbaKDz6pYD8Hd5fFXngNKTW1yOQziho2OM=;WHEtrYjOg3t69Et3DnIDKw=="
 ---

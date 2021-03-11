@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-03-11T06:29:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+publishedDateTime: 2021-03-11T10:48:00Z
+originalUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
 type: article
-quality: 25
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PCR
+  domain: pcr-online.biz
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+    width: 350
+    height: 350
     isCached: true
 
 related:
@@ -123,19 +123,19 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
-    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
-    publishedDateTime: 2021-03-11T10:48:00Z
-    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-03-11T06:29:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
     type: article
     provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
-        width: 350
-        height: 350
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
@@ -161,6 +161,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "MOT8J+KnX7wQp+cr2MmpRYMROFm/9kMN0F9EvNpFjeovRrkSEp3PzvxnE4ZZhSomtRUc1+EolFvf+4MaxcrOdEHop1xDjd9VrlNZswqLUrkawuttcVuqzNKcf+n/BFmrzzthALOT0JytbFFf6QEqBJmvCdzbL7tXa/mE/ib+wmSCqOOPG5SJshynMX5HHAL6yf/B6CpKwvmyzVWid57jDGziTqGLNsmg3x3uHKZma6EaD0wax1xMtRv0Goot0IlVnMvY8S68sVr059eDo3K2zFb+wUk9E97M7vnRONTiJTgrt1F29qJXILMelXYfaWnEyV+tbr47Hg107eL6g040VQUn5cEgTVZUWzE9VlNhAbY=;j8d7nr5pFbZLk4KGlAX/Ag=="
+secured: "8Tcdlk9wYLdBhIhgdAQhsnlhqi0YLqbjuWwlTnbpUdLYTJV0qh6/YJsQty6uKIedPrNplv+Uhuy22ymtOZllcdWN50VqMF1dIg+/TtHuyAUXrUd7ETGm1mqrAypRGCdi6Mx5nMhEVXx+elC41b2sX47+7kHiBtrNsQPZ+DABAgDawKbvKFmkhCcPaorZFBo7hRH2yCDIuhjhMGFXAmZGJfTEWxngAIZj9EPj3DEd1SeBz6lI4qlp1flQ1RIi9SBeqsBxd/tQs2ocqQ1lr2Do7+rqZs3HgACHfN3VXFjJstAIupaMPALk7JY/2M7JP2DBjMlOuWB/rLOuiggmeB2LcQpxaPR/xniRXy8WNrFzeC0=;/tiwKQqBVmOKxs1wbKEb0Q=="
 ---
 
