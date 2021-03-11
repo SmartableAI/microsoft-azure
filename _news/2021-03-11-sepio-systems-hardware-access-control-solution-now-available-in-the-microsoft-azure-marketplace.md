@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
-excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
-publishedDateTime: 2021-01-27T10:40:00Z
-originalUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
-webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
+title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-03-11T06:29:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
 type: article
-quality: 24
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
-    width: 768
-    height: 512
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -111,21 +107,21 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-03-11T06:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+  - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
+    excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
+    publishedDateTime: 2021-01-27T10:40:00Z
+    webUrl: "https://news.microsoft.com/en-gb/2021/01/27/top-marketing-intelligence-firm-10th-man-uses-microsofts-azure-cloud-to-unlock-the-power-of-data/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/05/MDC19_coldAisleLow_001-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
 
-secured: "hGEDID17zJTEwOEHD1dUqrh0l1q7gmXEHVoEYEPjDCgPAW1ocQ1afiyV7fG0BQAEahVnhBmA7RKRBoIL9CXPyC4u6XrmDHIlqpXyDNQqt9n4KFu98/raDSITtCga8Vne/sSxe7j+AnNCuWCcZFLHs/UgpYVaPwd2iwGYCi1+ufTgvYkICm13PM1vyeKByw9a9kVa1OnsWSJQ1SvozA9YY0OYEbcWNK0OlWeipFvRLLHj+YCYYCxUTR3aURTtu6g9WOZhlQTA8VaMK+g/6jecWyVfNFE7HumXZwPdcMNtBVyJzl6uHjHbl2qK3YHlF5YfKVn3DwbNFp0FHly8f8pacNdCBtH119Ft8OWI06KBwlEgxEIuBvmDsY66lIPsatkLIhs7mAV8Gd/iM1LSnXB3DPLXynlzZ5Lv58OhdNhklFxbGRfNCtKWNKsOocFOvSPAfdmfuwS/L5a8jgm00SEdEeAL8SiD4VwJjnIfYk+dwbP5noO52VDJA/RLbpneZe1BMGUC8l+i4/cnFsc+kLkMWg==;z9VzqzUIjNUm2NzZCf102g=="
+secured: "MOT8J+KnX7wQp+cr2MmpRYMROFm/9kMN0F9EvNpFjeovRrkSEp3PzvxnE4ZZhSomtRUc1+EolFvf+4MaxcrOdEHop1xDjd9VrlNZswqLUrkawuttcVuqzNKcf+n/BFmrzzthALOT0JytbFFf6QEqBJmvCdzbL7tXa/mE/ib+wmSCqOOPG5SJshynMX5HHAL6yf/B6CpKwvmyzVWid57jDGziTqGLNsmg3x3uHKZma6EaD0wax1xMtRv0Goot0IlVnMvY8S68sVr059eDo3K2zFb+wUk9E97M7vnRONTiJTgrt1F29qJXILMelXYfaWnEyV+tbr47Hg107eL6g040VQUn5cEgTVZUWzE9VlNhAbY=;j8d7nr5pFbZLk4KGlAX/Ag=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
-excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
-publishedDateTime: 2021-03-10T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
-webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+excerpt: "KernelCare delivers a dedicated service for commercial IoT projects, including integration with Microsoft’s Azure IoT Hub. Pricing is customized and determined after a proof-of-concept project. For more information, visit kernelcare.com. About CloudLinux ..."
+publishedDateTime: 2021-03-11T06:33:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-palo-alto-computer-and-data-security-california-e13c4f370a634b6ba3d5361fbd6d09f5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-palo-alto-computer-and-data-security-california-e13c4f370a634b6ba3d5361fbd6d09f5"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - IoT
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -88,6 +94,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-03-11T06:29:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -103,6 +123,6 @@ related:
         height: 512
         isCached: true
 
-secured: "wfLAO1UOFdUMhj11dUGsej0oWLmJmo23wf3g3ms/jekbIiE7FezZxvJkP1MFCFoW9SizYbXkvQHYG3tcHFg5XUrbMv8svwfxIPHMPgeZk9Y+pZBn/vj0x4Tkyto7NL0GjzUspfDYIapKkylwItsZnpxD9avydJA4PdJNu03OCQelxa1DaVShwsGLzLeEHSoI+05JapMF1JQBLB5BXr6MtyZbNjbdQBxG9tNru2MURN59CKMGPmqw/SA4vG3WMcXHbr858Nx8PqEhoQtNEOyyoLgqB57goRBGtE48wIzZ1TbVwPdD3WJU4AcrPLfpXNw2MzpnCfMGgpVGDee8wjtVTYhhOS/a7677M+wM2PHOkAg=;VnYzYNQ56P5iHv2Ml2X9Mg=="
+secured: "SvFeU8kC8KIFNckVXJVeLXHVkqqi7mS2yuI86/K1DK3mrH+5SRyv2Y1XNQ4HGtACyRosqVTINzUShYKUKhzJNEGXomwfQBAU86YZKKR4mq6+FQfB11eZcVuysCU5L3wbDh+ol83OrM60trh89ycPABeYif88aUtTatevcyzcRtLFVyEB4PxCS2tyShgGEgCO7tFhXN75UyXFr6tUrdWiV0UC5JqrpUtXqGkMNHMH8ypCY8+1S9eLQIgodTQhdj3Hj19mK7DXyWA7lUpjgywWSxmg3r818k3W/V0417Cev3XtIdHhStwppESGGZFJK/i5qSEgT6fWPIzj6Ckyt1vkE3FVhFSW5n/oRaIU2JSi/GU=;DwivosNynyPbvp3G6yBGGQ=="
 ---
 
