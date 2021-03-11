@@ -109,6 +109,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+    publishedDateTime: 2021-03-10T15:09:00Z
+    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 48
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+        width: 521
+        height: 313
+        isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
     publishedDateTime: 2020-11-05T17:27:00Z
@@ -136,6 +150,20 @@ related:
       - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
         width: 350
         height: 350
+        isCached: true
+  - title: "Microsoft To Build New $200M Data Center As Azure Sales Soar"
+    excerpt: "Microsoft data center investment continues with two new data centers in Chicago as demand for Microsoft Azure and cloud services surge."
+    publishedDateTime: 2021-03-11T18:17:00Z
+    webUrl: "https://www.crn.com/news/data-center/microsoft-to-build-new-200m-data-center-as-azure-sales-soar"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
+        width: 606
+        height: 454
         isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"

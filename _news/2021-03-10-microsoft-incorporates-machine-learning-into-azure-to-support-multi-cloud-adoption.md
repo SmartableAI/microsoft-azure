@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Node4 Achieves Microsoft Azure Expert MSP Status"
-excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
-publishedDateTime: 2021-03-11T10:48:00Z
-originalUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
-webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+publishedDateTime: 2021-03-10T15:09:00Z
+originalUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
+webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
 type: article
-quality: 37
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: PCR
-  domain: pcr-online.biz
+  name: SC Media
+  domain: scmagazine.com
 
 topics:
   - Azure
+  - AI
 
 images:
-  - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
-    width: 350
-    height: 350
+  - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+    width: 521
+    height: 313
     isCached: true
 
 related:
@@ -109,20 +110,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
-    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
-    publishedDateTime: 2021-03-10T15:09:00Z
-    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 48
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
-        width: 521
-        height: 313
-        isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
     publishedDateTime: 2020-11-05T17:27:00Z
@@ -136,6 +123,20 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
         isCached: true
   - title: "Microsoft To Build New $200M Data Center As Azure Sales Soar"
     excerpt: "Microsoft data center investment continues with two new data centers in Chicago as demand for Microsoft Azure and cloud services surge."
@@ -200,6 +201,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "8Tcdlk9wYLdBhIhgdAQhsnlhqi0YLqbjuWwlTnbpUdLYTJV0qh6/YJsQty6uKIedPrNplv+Uhuy22ymtOZllcdWN50VqMF1dIg+/TtHuyAUXrUd7ETGm1mqrAypRGCdi6Mx5nMhEVXx+elC41b2sX47+7kHiBtrNsQPZ+DABAgDawKbvKFmkhCcPaorZFBo7hRH2yCDIuhjhMGFXAmZGJfTEWxngAIZj9EPj3DEd1SeBz6lI4qlp1flQ1RIi9SBeqsBxd/tQs2ocqQ1lr2Do7+rqZs3HgACHfN3VXFjJstAIupaMPALk7JY/2M7JP2DBjMlOuWB/rLOuiggmeB2LcQpxaPR/xniRXy8WNrFzeC0=;/tiwKQqBVmOKxs1wbKEb0Q=="
+secured: "D+o7nIVZ9LkHqNapPynStRAceCry8szOdeNvg26+s+3jdDc0oB9o6Kjs7JngaUui4YxTkXB7X8JEvng47u1b3ApSJqlpx9VzS5KhAHT/FyBhoTxQaxOL8QQmQUqDHl2r/ErQAPn7OqiHUK54IWQUfWywo0k3c2knG9irv0uXR0FeRhJ+keJn6T2i4QP6fycPHH5Wxbbo71mtsW0pdIBuKwk+aHGUI0rel7Y6QVjMheOD8AapNY3OvWtvEqv5x7ZiSNcVZYUUtVcIkjQYeCYLKmZJoKNUrpH6BsUgn6oKmG9kn2yQ+CEgoOwokXsWZugfRBmc/vaK7lm5cazn/QCIPUx7aaEJY1Av14uI6+kQZ40=;0FZYjBBTpXW+mtjx8teYHw=="
 ---
 

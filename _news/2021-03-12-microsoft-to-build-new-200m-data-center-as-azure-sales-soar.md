@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Node4 Achieves Microsoft Azure Expert MSP Status"
-excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
-publishedDateTime: 2021-03-11T10:48:00Z
-originalUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
-webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+title: "Microsoft To Build New $200M Data Center As Azure Sales Soar"
+excerpt: "Microsoft data center investment continues with two new data centers in Chicago as demand for Microsoft Azure and cloud services surge."
+publishedDateTime: 2021-03-11T18:17:00Z
+originalUrl: "https://www.crn.com/news/data-center/microsoft-to-build-new-200m-data-center-as-azure-sales-soar"
+webUrl: "https://www.crn.com/news/data-center/microsoft-to-build-new-200m-data-center-as-azure-sales-soar"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: PCR
-  domain: pcr-online.biz
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
-    width: 350
-    height: 350
+  - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
+    width: 606
+    height: 454
     isCached: true
 
 related:
@@ -137,19 +137,19 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft To Build New $200M Data Center As Azure Sales Soar"
-    excerpt: "Microsoft data center investment continues with two new data centers in Chicago as demand for Microsoft Azure and cloud services surge."
-    publishedDateTime: 2021-03-11T18:17:00Z
-    webUrl: "https://www.crn.com/news/data-center/microsoft-to-build-new-200m-data-center-as-azure-sales-soar"
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
+      name: PCR
+      domain: pcr-online.biz
     quality: 37
     images:
-      - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
-        width: 606
-        height: 454
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
         isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
@@ -200,6 +200,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "8Tcdlk9wYLdBhIhgdAQhsnlhqi0YLqbjuWwlTnbpUdLYTJV0qh6/YJsQty6uKIedPrNplv+Uhuy22ymtOZllcdWN50VqMF1dIg+/TtHuyAUXrUd7ETGm1mqrAypRGCdi6Mx5nMhEVXx+elC41b2sX47+7kHiBtrNsQPZ+DABAgDawKbvKFmkhCcPaorZFBo7hRH2yCDIuhjhMGFXAmZGJfTEWxngAIZj9EPj3DEd1SeBz6lI4qlp1flQ1RIi9SBeqsBxd/tQs2ocqQ1lr2Do7+rqZs3HgACHfN3VXFjJstAIupaMPALk7JY/2M7JP2DBjMlOuWB/rLOuiggmeB2LcQpxaPR/xniRXy8WNrFzeC0=;/tiwKQqBVmOKxs1wbKEb0Q=="
+secured: "98b0vX/v/fW8puHzvQQBlqcm3XFjg13whHqDvKCtvk+HMfVd1J8SDKR2mYUgOZDXtI37DSHqshZrBrakdGV1LuN8+PV6+JhR5dFrCdNlK9GGL5u31d5zVHHfAIQJw7QCh+Qq5sYHCwD/RE3zLna/6K1XOk1muO8Y0rluXxrgcAJdLEHf3grCgDnR/DPz/PFBQeGovd/Dj/3ZZzJ+okMta4BlmaaIQVSozODohgfL1zyhm9NtypxSqp1j7qRppuL0Zt/Z97Bd6sHraJsJWZBvPNoWGGCpPydU3vrXp6HkOQssY3WSskeI8rJpUIOVM95/CEKxdEdsTiwEsVBBPOf8mmOlE/4rgun6yxlFTC7pV70=;Df6mokELxJqcqknGOJuxVw=="
 ---
 
