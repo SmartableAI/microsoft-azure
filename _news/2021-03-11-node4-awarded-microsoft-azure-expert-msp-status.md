@@ -159,6 +159,17 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
+    publishedDateTime: 2021-03-11T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
 ---

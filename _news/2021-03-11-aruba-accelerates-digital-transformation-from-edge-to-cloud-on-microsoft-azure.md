@@ -151,6 +151,17 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
+    publishedDateTime: 2021-03-11T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Node4 awarded Microsoft Azure Expert MSP status"
     excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
     publishedDateTime: 2021-03-11T10:30:00Z

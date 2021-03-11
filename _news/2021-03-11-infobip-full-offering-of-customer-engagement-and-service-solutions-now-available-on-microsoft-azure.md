@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Node4 Achieves Microsoft Azure Expert MSP Status"
-excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
-publishedDateTime: 2021-03-11T10:48:00Z
-originalUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
-webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
+excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
+publishedDateTime: 2021-03-11T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
 type: article
-quality: 37
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PCR
-  domain: pcr-online.biz
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
-    width: 350
-    height: 350
-    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -123,6 +119,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
+        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-03-11T06:29:00Z
@@ -151,17 +161,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
-    publishedDateTime: 2021-03-11T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "Node4 awarded Microsoft Azure Expert MSP status"
     excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
     publishedDateTime: 2021-03-11T10:30:00Z
@@ -172,6 +171,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "8Tcdlk9wYLdBhIhgdAQhsnlhqi0YLqbjuWwlTnbpUdLYTJV0qh6/YJsQty6uKIedPrNplv+Uhuy22ymtOZllcdWN50VqMF1dIg+/TtHuyAUXrUd7ETGm1mqrAypRGCdi6Mx5nMhEVXx+elC41b2sX47+7kHiBtrNsQPZ+DABAgDawKbvKFmkhCcPaorZFBo7hRH2yCDIuhjhMGFXAmZGJfTEWxngAIZj9EPj3DEd1SeBz6lI4qlp1flQ1RIi9SBeqsBxd/tQs2ocqQ1lr2Do7+rqZs3HgACHfN3VXFjJstAIupaMPALk7JY/2M7JP2DBjMlOuWB/rLOuiggmeB2LcQpxaPR/xniRXy8WNrFzeC0=;/tiwKQqBVmOKxs1wbKEb0Q=="
+secured: "9xXVukMoIB6Qg8fnKa44JL0wL2UdOKczOLNeiwobgDUinaqli38aNacEDMC39JWrIihcepOgKUZ3dFQ6bfpAxQxTwOQhR54GGPZEADJ7esDgvawgiDuHPG/59DVLrqlM1YJO0BI9y1JQCPw9Y5iApbsgZLqOI6Zq/Seu3G+OlkjXKL2J85mIhgiUY3BOqeMWNEbRk5ppRGE8kMR3R6OAEbORjSy2KV3XL54ubv0th2CXeaSxlUcParfg+PHMwqAwbCYZEs7FB/0WrLogu2fgCHUxH27AspN6Mq7sKO3EEih/h3nKZXL5Nv0oYghGs2GsE4K3ZapOvj0dTbFEGeZPdDcJbsDC8DqHdI/9KQk6YSw=;ORxTySMEcTRDRv2n8qHgrA=="
 ---
 
