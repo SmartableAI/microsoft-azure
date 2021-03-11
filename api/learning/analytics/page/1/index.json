@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 36063,
-            "average": 4.784183
+            "count": 36158,
+            "average": 4.784391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 195,
+          "heat": 197,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7926,
-            "average": 4.720288
+            "count": 7952,
+            "average": 4.719693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 6890,
-            "average": 4.758781
+            "count": 6917,
+            "average": 4.7589993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5450,
-            "average": 4.755046
+            "count": 5464,
+            "average": 4.7549415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
+      "title": "Introduction to Azure Synapse Analytics",
+      "excerpt": "Introduction to Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 64,
+        "average": 4.828125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 7926,
-        "average": 4.720288
+        "count": 7952,
+        "average": 4.719693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 4886,
-            "average": 4.7560377
+            "count": 4908,
+            "average": 4.756724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -427,8 +470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9026,
-            "average": 4.655883
+            "count": 9034,
+            "average": 4.6559663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7916,
-            "average": 4.656392
+            "count": 7917,
+            "average": 4.656309
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3691,
-            "average": 4.597941
+            "count": 3692,
+            "average": 4.5980496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2060,
-            "average": 4.5946603
+            "count": 2061,
+            "average": 4.5938864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -718,8 +761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3691,
-            "average": 4.597941
+            "count": 3692,
+            "average": 4.5980496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -790,8 +833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2060,
-            "average": 4.5946603
+            "count": 2061,
+            "average": 4.5938864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -825,8 +868,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2247,
-            "average": 4.456164
+            "count": 2248,
+            "average": 4.4564056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -874,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2199,
-        "average": 4.839927
+        "count": 2202,
+        "average": 4.840145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -940,8 +983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 7926,
-            "average": 4.720288
+            "count": 7952,
+            "average": 4.719693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +1029,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5233,
-            "average": 4.65966
+            "count": 5234,
+            "average": 4.659343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1406,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 249,
-            "average": 4.674699
+            "count": 250,
+            "average": 4.664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1406,8 +1449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 134,
-            "average": 4.567164
+            "count": 137,
+            "average": 4.5766425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1797,8 +1840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 1159,
-            "average": 4.774806
+            "count": 1162,
+            "average": 4.7753873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1839,8 +1882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 871,
-            "average": 4.758898
+            "count": 875,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1881,8 +1924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-storage-processing-azure/",
           "length": "PT24M",
           "ratings": {
-            "count": 896,
-            "average": 4.703125
+            "count": 902,
+            "average": 4.703991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2185,8 +2228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-open-source-analytics-offering/",
           "length": "PT31M",
           "ratings": {
-            "count": 232,
-            "average": 4.625
+            "count": 233,
+            "average": 4.6266093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2832,8 +2875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-big-data-engineering-with-apache-spark-azure-synapse-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 12,
-            "average": 4.4166665
+            "count": 13,
+            "average": 4.1538463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3064,7 +3107,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
@@ -3669,8 +3712,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 249,
-        "average": 4.674699
+        "count": 250,
+        "average": 4.664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3753,8 +3796,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3691,
-        "average": 4.597941
+        "count": 3692,
+        "average": 4.5980496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3913,8 +3956,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2247,
-        "average": 4.456164
+        "count": 2248,
+        "average": 4.4564056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3948,8 +3991,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
       "length": "PT43M",
       "ratings": {
-        "count": 134,
-        "average": 4.567164
+        "count": 137,
+        "average": 4.5766425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4058,8 +4101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
           "length": "PT25M",
           "ratings": {
-            "count": 1436,
-            "average": 4.648329
+            "count": 1437,
+            "average": 4.6485734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4101,8 +4144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
           "length": "PT49M",
           "ratings": {
-            "count": 1492,
-            "average": 4.566354
+            "count": 1493,
+            "average": 4.566644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4154,49 +4197,6 @@
         "Azure",
         "Management Tools",
         "Storage",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Analytics"
       ]
     }

@@ -4,7 +4,7 @@ excerpt: "Learn how to choose the best services from Azure to build and manage c
 type: collection
 price: Free
 length: PT2H54M
-heat: 120
+heat: 206
 
 provider:
   name: Microsoft Learn
