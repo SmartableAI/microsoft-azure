@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
-excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
-publishedDateTime: 2021-03-02T14:02:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+title: "How to install & setup WordPress on Microsoft Azure"
+excerpt: "You can replace these strings with your details. And this is it, now you have a fully functional virtual machine running on Microsoft Azure that is hosting your WordPress website. All you need to ..."
+publishedDateTime: 2021-03-09T00:00:00Z
+originalUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure"
+webUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure"
+ampWebUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
+cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
 type: article
-quality: 108
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TWCN Tech News
+  domain: thewindowsclub.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
-    width: 1040
-    height: 809
+  - url: "https://www.thewindowsclub.com/wp-content/uploads/2017/04/Hosts-File.jpg"
+    width: 800
+    height: 622
     isCached: true
 
 related:
@@ -94,6 +89,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
+    excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
+        width: 1040
+        height: 809
         isCached: true
   - title: "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads"
     excerpt: "With Azure Arc, Microsoft offers a service that allows its customers to run Azure in any Kubernetes environment, no matter where that container cluster is hosted. From Day One, Arc supported a wide range of use cases,"
@@ -592,22 +603,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/cloud_management_framework_services_by_metamorworks_gettyimages_thinkstock_2400x1600-100819153-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How to install & setup WordPress on Microsoft Azure"
-    excerpt: "You can replace these strings with your details. And this is it, now you have a fully functional virtual machine running on Microsoft Azure that is hosting your WordPress website. All you need to ..."
-    publishedDateTime: 2021-03-09T00:00:00Z
-    webUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure"
-    ampWebUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 57
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2017/04/Hosts-File.jpg"
-        width: 800
-        height: 622
         isCached: true
   - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
     excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
@@ -1534,6 +1529,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "GTLDjxpWWiZ9+XQjHcGzT2XrIqcJCPtQ4iT5r2p5ZoZbfi9+oQCfSA/ULd94iGdBF5cPKi7iRtUsOQJPHfoy/nGDhBqHp9U7Iz5j/DHgIvozk10rMVfyTNbVzRbUjOiIQ3ZpwP9BHe8y5JgJyUsAlKaHOe21aQAASjP6b3x+c9ZBryhvhuUl19d2d49Y2ZMdFbOmUnzKG0olThtwSLXzrJJ7vKNe52xTn92hxGary7Xjzl3WNYXyJY+IIoV/UUVlm7/uDpxS/61+Mk3HphCqebaW2gUJiWrz9zaON0vm/lQOe5sz5l1Ieg9nAeWkOA6vzKprNg4EARkGAzWVbShJqnIIK77SwpgtJ+URPLoIWuevWhYZug6s6Cc/jUjPIDwn7M5Q6PKTs0tcSraadN5ahxiayYMD/LTScONBxkPvnMEm0a5UR4YHLiUWJAd6jPFMDzqeCtVC2wcryH3WR86zdwZOQup7izDy/K0ibKLOfoRy7/hUiL3jO6U8UV8lkv6nms5psQ+rMC8DMNJXnnufWg==;I1Lx+9RL1jDQYwy+ZK6u/w=="
+secured: "EBs7Vnt3qt33dqjJY1+JNNK0I2KuYVKNcffOY02pHoXSN5jPK8WWAgI0ZpY3mFOEwBiGdW4D/FhcJ+auiZ03vJdv68T9YvjMzDoJLwA1o15yk+69rSlIBfGYHPkLJH9HlrcC4JZCfMJgrFUPSDX7EhTWLGvhYdbuANSSpg3+WUKppkDEv3O8OOeE6VpoyWTgOxIE4Z+5lCkHrI5GCXAmHUQdi8weakYy2OrQKseYRhla6axkLkWzMKLy4DqySvMeYmj36X4Kh70bHnj+HTssZFiGzHHY8Ncay0ytVZM4iU8SbEGlB1PlA6x1+8BfTBjU9wFnlyaH3FqhBk6riOeTMQtGRjyAS0qq/Fgjli2Zc30=;0sTFm2gtZllmk8iQ81GLvA=="
 ---
 

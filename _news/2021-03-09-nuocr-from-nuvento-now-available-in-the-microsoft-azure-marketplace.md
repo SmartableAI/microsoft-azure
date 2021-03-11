@@ -600,6 +600,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to install & setup WordPress on Microsoft Azure"
+    excerpt: "You can replace these strings with your details. And this is it, now you have a fully functional virtual machine running on Microsoft Azure that is hosting your WordPress website. All you need to ..."
+    publishedDateTime: 2021-03-09T00:00:00Z
+    webUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure"
+    ampWebUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 57
+    images:
+      - url: "https://www.thewindowsclub.com/wp-content/uploads/2017/04/Hosts-File.jpg"
+        width: 800
+        height: 622
+        isCached: true
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z

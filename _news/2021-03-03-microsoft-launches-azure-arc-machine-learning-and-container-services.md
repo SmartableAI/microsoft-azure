@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2309
+heat: 2329
 published: true
 
 provider:
@@ -592,6 +592,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/11/cloud_management_framework_services_by_metamorworks_gettyimages_thinkstock_2400x1600-100819153-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How to install & setup WordPress on Microsoft Azure"
+    excerpt: "You can replace these strings with your details. And this is it, now you have a fully functional virtual machine running on Microsoft Azure that is hosting your WordPress website. All you need to ..."
+    publishedDateTime: 2021-03-09T00:00:00Z
+    webUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure"
+    ampWebUrl: "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/set-install-wordpress-microsoft-azure?amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 57
+    images:
+      - url: "https://www.thewindowsclub.com/wp-content/uploads/2017/04/Hosts-File.jpg"
+        width: 800
+        height: 622
         isCached: true
   - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
     excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
