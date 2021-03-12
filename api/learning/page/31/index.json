@@ -4,6 +4,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-multi-stage-pipeline.md",
+      "title": "Create a multistage pipeline by using Azure Pipelines",
+      "excerpt": "Design and create a realistic release pipeline that promotes changes to various testing and staging environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-multi-stage-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 978,
+        "average": 4.754601
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-multi-stage-pipeline-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-open-source-program-github.md",
       "title": "Create an open-source program by using GitHub best practices",
       "excerpt": "Learn to create a successful open-source program by establishing contributor guidance, following proven processes, and leveraging community standards.",
@@ -53,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
       "length": "PT33M",
       "ratings": {
-        "count": 151,
-        "average": 4.549669
+        "count": 152,
+        "average": 4.5460525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -695,8 +738,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
       "length": "PT33M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 7,
+        "average": 4.571429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1242,48 +1285,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/deploy-templates-command-line-github-actions-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-wvd.md",
-      "title": "Deploy Windows Virtual Desktop in Microsoft Azure",
-      "excerpt": "Learn how to deploy Windows Virtual Desktop and customize the workspace for your users.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-wvd/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
-      "length": "PT34M",
-      "ratings": {
-        "count": 745,
-        "average": 4.7355704
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-windows-virtual-desktop-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],

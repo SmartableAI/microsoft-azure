@@ -147,8 +147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2383,
-        "average": 4.5933695
+        "count": 2384,
+        "average": 4.59354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/",
       "length": "PT45M",
       "ratings": {
-        "count": 796,
-        "average": 4.59799
+        "count": 798,
+        "average": 4.5989976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/collaborate-with-git/",
       "length": "PT55M",
       "ratings": {
-        "count": 400,
-        "average": 4.6725
+        "count": 401,
+        "average": 4.6733165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -518,8 +518,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/",
       "length": "PT44M",
       "ratings": {
-        "count": 40,
-        "average": 4.825
+        "count": 41,
+        "average": 4.8292685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -727,15 +727,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad.md",
-      "title": "Describe the identity protection and governance capabilities of Azure AD",
-      "excerpt": "Describe the identity protection and governance capabilities of Azure AD",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-protection-governance-capabilities-of-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-protection-governance-capabilities/",
-      "length": "PT29M",
+      "path": "_learning/courses/microsoft-learn-describe-identity-principles-concepts.md",
+      "title": "Describe identity principles and concepts",
+      "excerpt": "Describe identity principles and concepts",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-identity-principles-concepts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
+      "length": "PT20M",
       "ratings": {
-        "count": 65,
-        "average": 4.8461537
+        "count": 75,
+        "average": 4.8133335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,7 +755,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-protection-and-governance-capabilities-of-azure-ad-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/describe-identity-principles-and-concepts-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -891,6 +891,92 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad.md",
+      "title": "Explore the authentication capabilities of Azure AD",
+      "excerpt": "Explore the authentication capabilities of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-authentication-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 52,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-authentication-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad.md",
+      "title": "Explore the services and identity types of Azure AD",
+      "excerpt": "Explore the services and identity types of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-basic-services-identity-types-of-azure-active-directory-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 54,
+        "average": 4.814815
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-basic-services-identity-types-azure-active-directory-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-non-relational-data-stores-azure.md",
       "title": "Manage non-relational data stores in Azure",
       "excerpt": "Explore non-relational data stores in Azure",
@@ -898,8 +984,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 731,
-        "average": 4.708618
+        "count": 732,
+        "average": 4.7090163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -940,8 +1026,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 592,
-        "average": 4.7635136
+        "count": 593,
+        "average": 4.763912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -982,8 +1068,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-get-started/",
       "length": "PT26M",
       "ratings": {
-        "count": 55,
-        "average": 4.890909
+        "count": 56,
+        "average": 4.892857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-commercial-marketplace/",
       "length": "PT30M",
       "ratings": {
-        "count": 1203,
-        "average": 4.7863674
+        "count": 1204,
+        "average": 4.786545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,83 +1263,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-nodejs.md",
-      "title": "Introduction to Node.js",
-      "excerpt": "Learn about Node.js: what it is, how it works, and when to use it. Create Node.js applications using JavaScript/TypeScript using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-nodejs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-nodejs/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 734,
-        "average": 4.7833786
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-nodejs-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduce-foundation-pillars-devops.md",
-      "title": "Introduce the foundation pillars of DevOps: Culture and Lean Product",
-      "excerpt": "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users. Discover the first two foundation pillars of DevOps: Culture and Lean Product.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduce-foundation-pillars-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 3317,
-        "average": 4.689177
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

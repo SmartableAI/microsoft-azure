@@ -8,7 +8,7 @@ length: PT21M
 ratings:
   count: 103
   average: 4.5436893
-heat: 
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,12 @@ levels:
 topics:
   - Azure
 
-secured: "znaDh79T2SnkQ6ZZ9l9+rV9eyJEaZZFFwCnfqaLdzSI+RKHiPMNrxVt8iM3R0N5dB41L8yCkGqae4sA0G3tCzjNHF8x0KuDTUpaSlUGClMf4ebdnclXIdybqyvRiWR+jMKoFuJJ9+TG/ZBClXNb3X9ctTLr5biu0CCfO4oiDMj7PLxbid93qi7qpF8mU7qGKTID7d97suvZfjs3LbTK9IWctiYeRXJ5QlpVqUZ+IcImFpsZdfX4UFeBwxrkXEt7g5tXy2aARfyL/wXOYGHD+scGVI1+hX1KyMK6/k9Cq0szBjnbZ7LZgYKGHB5pcsStgBbCY9XCYKLeg1bsk/Rou/H1MFq0EWosq1IT3l8hZ3HVuoZBo/OK7mk1uJnnJOQSclGUDFoQcoqNJJ70BVGleVA==;AcbCswY08GOc5UnWDQurrg=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png
+    width: 1000
+    height: 500
+    isCached: true
+
+secured: "9E1Nxx+8Etqo5M5gb6feVjN9Nt3A0E/iX8HQ7fWLANMpxuNaj/n7syHp0ArWs8c5UOnVc9fD2wLXP7p4NqnYoA3edjpGy5tBRvJmpQ1QRxk4vGD1vfbki1rKhW9n14Qb4IgR3jZ+ObwFXVaBH/Hmzca98FIYmkEqD7g7vV1Qe4H4G20REU5B7pwjj5yfw9xdzce+My8iw373pjgX4CMT7lbyzL0tzJxqJk5lFCbYe9BTCgs660/xvoLL2455F/KIs+Jv21J5bR7vol39cJKAt3TvdSaa5HaAJNpkWe2wSG0F6oRZ6jDrPYJpOWOOTdF/eK/a6A/Gp/w5S/4vWYI9j0SCVKw76GIko4Y9qd9bmm2J41L4xQzKBvGSyQUBhBjH9+Z4vGShlieVrkAyC1GSzQ==;F3H3jVn6vaBiouMIDN2VLw=="
 ---
 

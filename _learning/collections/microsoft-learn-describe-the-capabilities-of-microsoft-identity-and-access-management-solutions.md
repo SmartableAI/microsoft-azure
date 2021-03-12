@@ -4,7 +4,7 @@ excerpt: "Describe the capabilities of Microsoft Identity and access management 
 type: collection
 price: Free
 length: PT2H3M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn
