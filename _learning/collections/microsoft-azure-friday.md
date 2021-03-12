@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday
   - videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday
   - videos/microsoft-what-to-use-for-deploying-and-testing-your-applications-in-azure-azure-friday
   - videos/microsoft-troubleshoot-aks-cluster-issues-with-aks-diagnostics-and-aks-periscope-azure-friday

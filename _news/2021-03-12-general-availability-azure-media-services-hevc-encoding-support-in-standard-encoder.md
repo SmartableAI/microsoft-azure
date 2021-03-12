@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insight in UAE Central & Japan West"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-02-03T17:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
+excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
+publishedDateTime: 2021-03-12T20:19:26Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
 type: article
-quality: 52
+quality: 59
 heat: -1
 published: false
 
@@ -163,15 +163,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
-    excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
-    publishedDateTime: 2021-03-12T20:19:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 59
+    quality: 52
   - title: "US Gov Virginia Availability Zones now generally available"
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z
@@ -200,6 +200,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "X0hk5tvZQ5YdN7bpoQ0tiAKJCWoD4Np8VenRpyxG/MUpNSBPGpqTp+fV/ddqVX4Ze3yi8RtmFz5tfIvcVQJAZ1Oq57KFQKN+vo4PdGVVFc+ROcq6HcBpKC21U0q9NBpyOqm42SOKLWcsfX2PUDPP8lsEeHdLDKZACH/x15sQOUvhH80CxZmoAfRgZ9Extze7PJuUdW+L76PmjbB6rSwycKl4OdAoYU16C86TOrRbtQdXsP4x2nbKs+E8nh1qpDDJZ5RBnwSfSQGCfjKBXFn/JGXvzzox2HsvIFnigV5QT94WQLCyBCLm0n+FHMsJErNLgzCngtiYRbQ+Zc4fl/7Ew4sQX8nbKnESRF4hJU/4yIM=;a9apL2ElN6f7II1SMNlBOQ=="
+secured: "8VuxO4ZzpiNCUz9G50i7m7bn53QLW/OLs4pEtQ8d1jrVo9YoQ5s99z6hJkLY8p18JgJHBvN8kL+Tg9eJyNrwiPLTmeetnKdxljDKELjD376VuvTFZVpKHyJo0Lpgiwqmwe2HI2PiMrXLMkMrZNZgw3Io/IydjQuwSGovFzg/HDOY8Qx+4DzEWYNSqNvbgFn2uLisHMcdEmBJ9ElmgqLLboNNilwTnOU4Lx1BfBnVAZ5SLCKJ1w4oUjmQnTzU9swXz0ZkKvoBUyydLyEwoTbdQ1YY62g0PtG/RWdkpm9JHFeBdEjiHMULNBWRKONXpDownGRQTtVld93kIvNgHMeXc/ZpLiSim1vj5tsndgiPJTk=;tqoepQycyzWsunZZhhxJIw=="
 ---
 
