@@ -1,28 +1,22 @@
 ---
 category: news
 title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
-excerpt: "KernelCare delivers a dedicated service for commercial IoT projects, including integration with Microsoft’s Azure IoT Hub. Pricing is customized and determined after a proof-of-concept project. For more information, visit kernelcare.com. About CloudLinux ..."
-publishedDateTime: 2021-03-11T06:33:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-palo-alto-computer-and-data-security-california-e13c4f370a634b6ba3d5361fbd6d09f5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-palo-alto-computer-and-data-security-california-e13c4f370a634b6ba3d5361fbd6d09f5"
+excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+publishedDateTime: 2021-03-10T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - IoT
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -201,6 +195,6 @@ related:
       domain: telecompaper.com
     quality: 17
 
-secured: "SvFeU8kC8KIFNckVXJVeLXHVkqqi7mS2yuI86/K1DK3mrH+5SRyv2Y1XNQ4HGtACyRosqVTINzUShYKUKhzJNEGXomwfQBAU86YZKKR4mq6+FQfB11eZcVuysCU5L3wbDh+ol83OrM60trh89ycPABeYif88aUtTatevcyzcRtLFVyEB4PxCS2tyShgGEgCO7tFhXN75UyXFr6tUrdWiV0UC5JqrpUtXqGkMNHMH8ypCY8+1S9eLQIgodTQhdj3Hj19mK7DXyWA7lUpjgywWSxmg3r818k3W/V0417Cev3XtIdHhStwppESGGZFJK/i5qSEgT6fWPIzj6Ckyt1vkE3FVhFSW5n/oRaIU2JSi/GU=;DwivosNynyPbvp3G6yBGGQ=="
+secured: "nKb0y5U4US0Br3VqW0hEwZ+Jv+tJur1F5xyIWMgF+hXpHH9d2d6f861Uo641JXhbwoW09nH27pqDJ0sLfTxcSkNg0O/kmBUDJBWyQARIlsHRE09WRoS+qedoRSNc8hE0cJI9k/ZJlCnijMMfHuhx13iMg+SFfPmE4jDPd61D3efMrhYCuwF1dk65yepjlFFCt22kPF6m3Yzzj7qkoqAZnAMmLJomV1EY/TDuEONtrhu51in7Yaa5tx6rXYbCpXX+Rnkd8y9FJ2EptBIW2IReYXYCLU4Pgo3GhO6YQ4xCo/IKu7qzPo+acyF1Dg9ClOPTKaqkhryFC5HVY6uNfoFeI/EOoKr+D2D7nr7eiQFJNJM=;S0L/wev/71bCftO/78Hogg=="
 ---
 

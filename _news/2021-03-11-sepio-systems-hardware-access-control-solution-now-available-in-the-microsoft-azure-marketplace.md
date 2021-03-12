@@ -95,20 +95,6 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
-    excerpt: "KernelCare delivers a dedicated service for commercial IoT projects, including integration with Microsoft’s Azure IoT Hub. Pricing is customized and determined after a proof-of-concept project. For more information, visit kernelcare.com. About CloudLinux ..."
-    publishedDateTime: 2021-03-11T06:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-palo-alto-computer-and-data-security-california-e13c4f370a634b6ba3d5361fbd6d09f5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 53
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
     publishedDateTime: 2021-03-10T15:09:00Z
@@ -165,6 +151,15 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
+    excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+    publishedDateTime: 2021-03-10T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
