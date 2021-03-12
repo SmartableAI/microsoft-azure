@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 424
+heat: 444
 published: true
 
 provider:
@@ -169,6 +169,15 @@ related:
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z
     webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General availability: Application Insight in Australia Central 2"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-03-12T16:45:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
     type: article
     provider:
       name: Microsoft

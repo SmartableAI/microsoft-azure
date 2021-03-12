@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-f
 webUrl: "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Analytics
 
 related:
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "App Service announces the general availability of Windows Container support"
     excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
     publishedDateTime: 2020-09-22T16:00:43Z

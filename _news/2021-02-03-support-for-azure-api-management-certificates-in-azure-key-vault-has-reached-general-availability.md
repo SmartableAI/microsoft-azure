@@ -174,6 +174,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in Australia Central 2"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-03-12T16:45:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
     excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
     publishedDateTime: 2021-02-03T17:00:04Z

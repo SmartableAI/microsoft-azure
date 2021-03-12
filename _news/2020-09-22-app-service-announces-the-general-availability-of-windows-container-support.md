@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "General availability: Azure Log Analytics in Australia Central 2"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2. "
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:14Z

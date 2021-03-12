@@ -181,6 +181,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in Australia Central 2"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-03-12T16:45:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "RA20iIE0TFtOdKcQlsqKI1x/hiGVs8C6NvablIlgQkqlvyVqeeN7CafeEp6knrWrada+GZobDW/uIdhD0wt1bJynQS+u3iocXOFE6qe1kIITqkXq5UEwRkbW2l5BSO2LfClM7066doanyyRqzjw2Ur2a9YTgek6YOdzmDXTQY5LH9dCpgnrDQtdVZXsnuRlbEJD3WK2iXtzM2DohldtH5PHGrRdfPg8Th5q5Vz2nhO/K7lEGT8yu1zgUzZyilpyPdGglKKNKAPwm9tAm+WrxFu+aLqyKAO1FekTcNp9mBfdVxPqbu9RMsRjNP8m9pAcJEyQii03oDz7nBa4x0q3DLkSba1s3TMzLRT1wK6eyEr0=;DSYLu8LnRDmsDu2zgvWIwg=="
 ---

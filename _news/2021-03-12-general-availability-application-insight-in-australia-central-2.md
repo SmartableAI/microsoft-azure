@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Log Analytics in UAE Central & Japan West"
-excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
-publishedDateTime: 2021-02-03T17:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
+title: "General availability: Application Insight in Australia Central 2"
+excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+publishedDateTime: 2021-03-12T16:45:33Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
 type: article
-quality: 84
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Analytics
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -82,6 +81,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 87
+  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
+    publishedDateTime: 2021-02-03T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure Functions supports .NET 5 in production "
     excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
     publishedDateTime: 2021-03-10T17:00:14Z
@@ -173,15 +181,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "General availability: Application Insight in Australia Central 2"
-    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2021-03-12T16:45:33Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
     excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
     publishedDateTime: 2021-02-03T17:00:04Z
@@ -192,6 +191,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "kGxwy8T5n4xuzhN97NbGjldY9FKL0rsRdAYQoDDm4qGDJEhbrOw492DzZblgRcO3JG02TcKpBbf94C9Wcw8cpDkLCDN92etSjt0Hx+GhT9LFHgfelCz5FhsrdeAbZvlYk9A2Gff1VTdFOzhXHRGPtkl+sXaGRQrXRpoitYX3IzBP3inW8k6JfZIw5l+pfKXXvYEUAKmusT56SIybKtHoZnz11kQj8cH27nNW3Qy3MSN6xOENp4EnqzMHH6KQ+ZafgWe/wvUrSOyzStOEtJY99z24XhY7OBr6OxbD4Vr+57dCa+6hFGOpHfvpe3GiSsPBK2folzduDdCd+hz/bvx74oM8eSr3suLr4QSWqovaReM=;HJJnekz+dP2TXQtAArLn7Q=="
+secured: "QrAoFWTqBy2tg6l1nRnV+kTi1qtrckD62sGDftisUkMgn3AATntKBofWb88Uu3qdq8/xuHZ/LEGJIJsZNnT7Dv91EperhGLGImMX3BsiN5DvRYIWGpwB+VC2TKAy6auO1HTaUVOSVamDyBWMiP5Rpj2UEJl7Ch7tBuzOG1ilgYDrDlD25WoKNTDwAzPiqOMETBT9HUnrJJ3FBBK1jqbxTXie7r8RB1TdPyfBTI+hLMrFSOyrfPhF0Tj13CfGPwg8XxzM9MmoAsp9vb+uuo+ttTU6PfCSuZkSDX6HvcUkPL7QfJxUmvuq81ZmTSUdrIUUIxTULDSJvvHIKpaVlSgVsn8tbhcWZQH14fidXD4LmFg=;gzUafRZOoKV7svL8SaNkaQ=="
 ---
 
