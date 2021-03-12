@@ -1,14 +1,14 @@
 ---
-title: "Virtualize resources in the cloud"
-excerpt: "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Discover virtualization and how it enables many technologies in the cloud, including virtual machines, containers and networks."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization/
+title: "Understand virtualization"
+excerpt: "Carnegie Mellon University's Cloud Developer course. Take a deep dive into virtualization by understanding its formal definition as well as the different types of virtual machines."
+webUrl: https://docs.microsoft.com/en-us/learn/modules/cmu-virtualization-developer/
 type: course
 price: Free
-length: PT50M
+length: PT21M
 ratings:
-  count: 116
-  average: 4.6896553
-heat: 
+  count: 103
+  average: 4.5436893
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,12 @@ levels:
 topics:
   - Azure
 
-secured: "3fYaRi7I2On82d6lULircBep0ex//5omvKRPF2mh7NKb48pQ2ktHYCCIp5dgPTjwnTIDVPWl/m9v+/ZzUzQJb+0VWOvsQ8TIaNba/fbLroMkELf4pDqYCSXr/wRRyr8SHpY0jOqwtfLeXE56vbZAjRK77/q43cItMqSoTlRogOFh+FcJVoATktmjUFebD8jQQuR3FTjacKalP/osmmF+I9XWrESE9kR8subihezYdPYUuGgqwr5IMoHChOe4Ilbr+3QVXkhaCp9mOT73XPwtPGZbjwKNzEDw4bGX8xwlDBx0VG7zGFgEyHp4JXf3qdDUIsVMrV5WOXqSabjeCN6M6fAU1LnpaKuv5aI7AAIO4rjlXsjqehb+pVk1Q2bRdd9D673MauF6n4dOUP1H1JIhug==;MSR/xG1CKQbg5S/LK+yujw=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/understand-virtualization-social.png
+    width: 1000
+    height: 500
+    isCached: true
+
+secured: "jCkd3y71EYeV9ZhBS/2j4A8ESV3+sEQYaQ26gP/FQXqrAFQNZ4z9893KWyvynLWW9siBDyKaKwlFtSTPW5r5ul+TM3unWTg8nCDvpA1lCoym5zhsCdLEW1YzVWXFz4iIrcbKK2xaywuaflnm9R8Nf+UPVw3ZockcPhU9girDpNlm5rt1IcY5kNnUHeUDMweZ5iebQti2hd1DPb0U2eArn5BDPtZw+0wHz0gKNBSMDovttElu6d/KClMCc9n7sIRaj5vjj/6RrU+3Pg/O+Rp6YfSNhHj7yJil8o0T7NZW22GpUH1GOSZg9YosZm1OXAAdzxQu/gS89aoHSc2FP7ZkoN5Ho42uvr6DHa0tmltjd4H46Xho6+xXNRup6NRVEAwfHFUG4A4aW89l2q0VQ5x16w==;IQOeE7roJdFeiYU6uNFENw=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT45M
 ratings:
-  count: 3693
-  average: 4.598159
+  count: 3694
+  average: 4.5982676
 heat: 53
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - IoT
   - Analytics
 
-secured: "0JtfkfIMsIKOEL0aS0QPdS0Ka5+ot+Ey9CS9+38UBLybrB+wiqWj/BViJTnlkR1bvVINCDbKEbGH5gfpPVopYVkxCZlMzYwCLbe23P3iD1+jeqC9I6xjxXcsPO5z5+AJH47B+i7pbipBYeBvYM8kGgma9bXcEigdXPsjWR/5SOk3d1Vd2bcnECsIrRKBuYvaRcChdqKvlwtdzJNbdp+sEy3VcjaQYkh6umh739GzvoiBWibPh63N9GjsCizRSbkqpel73h20fHkoJlLz8KYVAMtFDfL378qCvD/4I2Alwi/F57Fh1KbSrcVLKktGdJ8h1EfaGT4kUDneneShj7AjUdQ3Vmw2cltGBSR5hMJwroDCMtvxUSQylRlx2yce8LzVd0VDU0ebLr1JseC+gVhIdblDtyglmMGwHJFnkTOo20M=;jmCSsOG3TzyJpeoOPiH95Q=="
+secured: "mI2d2Wbjikm/93I2W0um/snaDzHK/X/a2MPE0REoyH0nr8nT/TITD9cl6Vqt7ESvbUd2CgLdKeTcL1rh0/Pa8Pgwa+lq2yJ2GvTL82ss0mDZklDzbo25j2cMMtQX/PDnHlA9nZ1e0dutYanST5v+UgC2l6ZnyIc42WO2F5qDkbV9Sf1jkhu3F+tHZJV6LjvRBn44a6GlOHV5v+5bw9B2jetY8S4x/QZmwGdC54ZRVqNucY6ILdSWrBza6fg286khxRN7F7IJ/wiiBSI8OZwEeE6+qbW6xgcSoyOfv/r5ET6gbI+aj4kvh/EgfQROZFhxTQN3kK/qQ2WaozvB9vj+cwDwZSv7huh+gpn6OYJIpWJEt6qAwZdLaMEgoDG9Xb5krp8L3H66ArASSYugiifFwzHBFC6op7FWWtbibTgHbF0=;cxqiFEmafJ2Y3WgHIl2Rvg=="
 ---
 
