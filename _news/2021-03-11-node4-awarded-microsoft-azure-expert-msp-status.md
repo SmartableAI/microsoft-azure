@@ -193,6 +193,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 368
+heat: 388
 published: true
 
 provider:
@@ -201,6 +201,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "Ag3FtxjKx0lmC+tC0f8C0X9hl8g59tbHelesdhn7wBE1z0FWy6EBrclmsKwG2/SWKFzLrJMLCxTjbrM+h+L5PXpT6o4MTpd6rGkGq6azif9vWTdFtu4LHzM7ap573+aUzd7W8xrWEYazHoWN5O8SUG5zFLz0ofyHrXncAwHmo2tu1v8UObcsXQQU/vU5Ox+5DQ31HD5QMAdgKCs1U6hwNw0lhPjOtOXtWw62IzoO2zJ1acGsgimW4BlGlyqh4nm9agB7WQZ8y9QE1QuWavne7P7TeCMnPpgIjkZ7fWByWPyGtQ0/BA8/02ERzrGwmkxT74asdAn1DrbaKDz6pYD8Hd5fFXngNKTW1yOQziho2OM=;WHEtrYjOg3t69Et3DnIDKw=="
 ---

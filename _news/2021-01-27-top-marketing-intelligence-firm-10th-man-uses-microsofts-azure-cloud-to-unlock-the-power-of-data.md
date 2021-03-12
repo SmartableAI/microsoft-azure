@@ -198,6 +198,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "hGEDID17zJTEwOEHD1dUqrh0l1q7gmXEHVoEYEPjDCgPAW1ocQ1afiyV7fG0BQAEahVnhBmA7RKRBoIL9CXPyC4u6XrmDHIlqpXyDNQqt9n4KFu98/raDSITtCga8Vne/sSxe7j+AnNCuWCcZFLHs/UgpYVaPwd2iwGYCi1+ufTgvYkICm13PM1vyeKByw9a9kVa1OnsWSJQ1SvozA9YY0OYEbcWNK0OlWeipFvRLLHj+YCYYCxUTR3aURTtu6g9WOZhlQTA8VaMK+g/6jecWyVfNFE7HumXZwPdcMNtBVyJzl6uHjHbl2qK3YHlF5YfKVn3DwbNFp0FHly8f8pacNdCBtH119Ft8OWI06KBwlEgxEIuBvmDsY66lIPsatkLIhs7mAV8Gd/iM1LSnXB3DPLXynlzZ5Lv58OhdNhklFxbGRfNCtKWNKsOocFOvSPAfdmfuwS/L5a8jgm00SEdEeAL8SiD4VwJjnIfYk+dwbP5noO52VDJA/RLbpneZe1BMGUC8l+i4/cnFsc+kLkMWg==;z9VzqzUIjNUm2NzZCf102g=="
 ---

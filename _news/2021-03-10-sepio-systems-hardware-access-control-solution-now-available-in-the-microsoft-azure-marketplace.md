@@ -1,22 +1,21 @@
 ---
 category: news
-title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
-excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
-publishedDateTime: 2021-03-10T22:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
-webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-03-10T14:20:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 33
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-  - IoT
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -146,6 +145,15 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
+    excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+    publishedDateTime: 2021-03-10T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
     publishedDateTime: 2021-03-11T06:29:00Z
@@ -194,16 +202,7 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-03-10T14:20:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 5
 
-secured: "nKb0y5U4US0Br3VqW0hEwZ+Jv+tJur1F5xyIWMgF+hXpHH9d2d6f861Uo641JXhbwoW09nH27pqDJ0sLfTxcSkNg0O/kmBUDJBWyQARIlsHRE09WRoS+qedoRSNc8hE0cJI9k/ZJlCnijMMfHuhx13iMg+SFfPmE4jDPd61D3efMrhYCuwF1dk65yepjlFFCt22kPF6m3Yzzj7qkoqAZnAMmLJomV1EY/TDuEONtrhu51in7Yaa5tx6rXYbCpXX+Rnkd8y9FJ2EptBIW2IReYXYCLU4Pgo3GhO6YQ4xCo/IKu7qzPo+acyF1Dg9ClOPTKaqkhryFC5HVY6uNfoFeI/EOoKr+D2D7nr7eiQFJNJM=;S0L/wev/71bCftO/78Hogg=="
+secured: "XLRUAOW/35isgMaVdhHFL0XVIwg6I7kdVq6qR+DJAj3tuDVQ126hc+UftAVLHllQdtBv/TOiangaJ/V9kdPKHJlAWA0Yz4+fQ8vrbGuNTSPZm5qMB4g53YgJU5UbOIjkcXRNbWPiAPTAM4XkZ8XB81t1CkaXNx6GQT9XkbUismIxNQjnwNsC8YrPb4rlBlt4Do149wDkSDT92CtbH40r9+T4jGSPtzf/mITOMHoM1A/zZKHh+JVNwLG7uFCuUcxskc+niHnRgq1TeaqILJDzbbIn9JIn1JtC7hu4xptOpetHDYtmsmPTRNa9mO6qJL2fCzJAur0YT+EdvAhNDoctLacLA4y0rfr/P6rSe6QGLnQ=;ywYccUGZbc0gp1xVskmgIA=="
 ---
 
