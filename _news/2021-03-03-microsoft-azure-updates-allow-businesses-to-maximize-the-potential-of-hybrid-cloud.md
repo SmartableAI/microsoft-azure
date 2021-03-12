@@ -1471,6 +1471,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
+  - title: "Paysafe Accelerates Delivery of Cloud Strategy Using Microsoft Azure"
+    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services. As part of the collaboration,"
+    publishedDateTime: 2021-03-08T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210308005197/en/Paysafe-Accelerates-Delivery-of-Cloud-Strategy-Using-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
     excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
     publishedDateTime: 2021-03-02T05:36:00Z

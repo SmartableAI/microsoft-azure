@@ -1,23 +1,21 @@
 ---
 category: news
-title: "Aruba expands IoT integration with Microsoft Azure"
-excerpt: "Announced at Microsoft Ignite 2021, the first platform is Aruba IoT Transport for Azure, a service that enables IoT devices connected to Aruba access points (APs) and controllers to bi ..."
-publishedDateTime: 2021-03-03T00:00:00Z
-originalUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
-webUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
+title: "Paysafe Accelerates Delivery of Cloud Strategy Using Microsoft Azure"
+excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services. As part of the collaboration,"
+publishedDateTime: 2021-03-08T14:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210308005197/en/Paysafe-Accelerates-Delivery-of-Cloud-Strategy-Using-Microsoft-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210308005197/en/Paysafe-Accelerates-Delivery-of-Cloud-Strategy-Using-Microsoft-Azure"
 type: article
-quality: 51
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-  - IoT
-  - Integration
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -721,6 +719,15 @@ related:
         width: 1000
         height: 524
         isCached: true
+  - title: "Aruba expands IoT integration with Microsoft Azure"
+    excerpt: "Announced at Microsoft Ignite 2021, the first platform is Aruba IoT Transport for Azure, a service that enables IoT devices connected to Aruba access points (APs) and controllers to bi ..."
+    publishedDateTime: 2021-03-03T00:00:00Z
+    webUrl: "https://www.telecompaper.com/news/aruba-expands-iot-integration-with-microsoft-azure--1374546"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 51
   - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
     excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
     publishedDateTime: 2021-03-02T14:05:00Z
@@ -1468,15 +1475,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "Paysafe Accelerates Delivery of Cloud Strategy Using Microsoft Azure"
-    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services. As part of the collaboration,"
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210308005197/en/Paysafe-Accelerates-Delivery-of-Cloud-Strategy-Using-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
   - title: "A Cloud Guru Expands Hands-On Learning; Launches Microsoft Azure AD Labs"
     excerpt: "A Cloud Guru (ACG), the leader in modern tech skills development, today announced the introduction of exclusive, hands-on labs for Microsoft Azure AD, a growing identity and access management (IAM) service."
     publishedDateTime: 2021-03-02T05:36:00Z
@@ -1539,6 +1537,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "vbpsddas0sfmjXQWiel8IQp7vBDkAI5iZEnnKgS8oy2xH3Spq5CdM8uQQsg52HUHDUwcPVYOHwRzeNrjRcYCKtWxWBI44HzreHX8N1p4yEX2SodgG+5YjYmwFOebsmFHFvtltI0ZNLo7MObFjeuks5B46xDvR9KhUbJAelk8OF6kjz0OfXMjw0kK6l7MVBiVi9QtD9tCHwKvYkjuANecUIhXYpceXEsmluEg8XtzsUHvGoNbkOD6XCCcPMwDwxIjmDmx/46vJFg9hWOvvCdikV18I80RNQXLvYzaZiWEFquaiipkGBDE8mJEd/S/AUN/vjSy4Pa3Vbo4I0EesWN3n3ic243Uh45kwtr+ZxnmHqY=;qTM2Xqhx66mvj4OSGgmTwg=="
+secured: "t7aoCT7FoGhGcx2osPI1wPFedKAie0/ae68m+NPq0WLwihZID0EL2xn4jZ5BMaFtVf5CHNliddhCCFoPJ58Nquz2GGu0iGwkI316uAPZz3Ntp1SDsqudglyciPU1AY7ikXeKe14v2xG7gO7dDmKtPhNRn0IX9v5RvLs+Lw+wEsBJfIAtHmPcLK7RXc1OL+jTSByugclJgwRWfPVxlOuRpQUuMyyT+QDQR57EWKEAEsf0OXV7U1zEQ/wRLWKsSfXmkoQn1neXzvFPJmhQ0pbkoQUGeFmnXzaT6EnnJ78Ia6J5guhwECQ88Sn/UlaKEgpF3p/2jyqiT69HvX88Eadovfs1yXigSeguPVSxjEGFDPs=;VZUdr82OtCF2K4FKMMGIMg=="
 ---
 

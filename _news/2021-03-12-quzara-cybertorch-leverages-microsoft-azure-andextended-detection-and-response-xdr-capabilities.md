@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-publishedDateTime: 2021-03-11T08:22:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
+excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
+publishedDateTime: 2021-03-12T13:10:00Z
+originalUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
+webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
 type: article
-quality: 53
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-    width: 450
-    height: 601
+  - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
+    width: 300
+    height: 350
     isCached: true
 
 related:
@@ -80,6 +78,22 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
@@ -174,20 +188,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
-    excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
-    publishedDateTime: 2021-03-12T13:10:00Z
-    webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-11T15:00:00Z
@@ -227,6 +227,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "QXes5x4gaOz7sGltyBuGUE7lVENgrft4trNO/xcyDdc6sz9lWEgS+M+GuhfbxxeFZzk/a2P7fut7Q4iPvT08y2z7BC7PyIgG7Z45mGS+wa6crWargR3z1sAg1FqqsHWlMS7+26Qb0nISoL23RtBZ7BSJ3w2QOqwMbUk942OfkKOhieRABGkRLeFfaAYwtLRueeQd6fn2Yzf6D+2RielG2L8panSXLELI7G2aAjcc+3a0oeBgZYbR2nyZXl49L1xOFPkWEiGG00oh78Jtg24oPn/uVN9VhtY/vgkxVgqDIUlO3E3+dy3o5bqc+NH5z3t9V1MAsvsVoMcoCcJcrpBeW5Iset89PfsuekK3pH5ekbQ=;DtD2iE9OE/P45ro7pzRmZg=="
+secured: "Tfjr3Go34RICnbdJl8P2cU8pOlmD34hLsydVxxOZ/j4R+6iZ4dcXWpYnU+WWXe8VNj4yykg8AUiHdI3ulL1OPJlg/MDuBuzJ1s/X6WqLCbhmpfOF0wURNHldF6z46L7zO1KyL4xDv6pLHxikXTdLOYAMw8XvP4MjgNbcyYQZ7QbxlkOa96y+26TgPyCvtQslXlFGeJOlWoThNxvdxwmiRksu8xZTMg+bBt71xRHVAy/ShwinZdPkymcHjaUO/uVA0fE0cTQJ38sfatzq/SXq3ss/JE8J1ReVhvcGpBdrAXOKLfaZ/CrknwYzkh7JqRKFp3YRPV2pJf/poCMYhd+mrJTivLKjlrj9PuseFkTKDSM=;oTHuNQ6Ng8eH/JpwgOkGxA=="
 ---
 

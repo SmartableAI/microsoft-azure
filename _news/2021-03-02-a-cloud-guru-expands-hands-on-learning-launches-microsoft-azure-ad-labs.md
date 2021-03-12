@@ -1475,6 +1475,15 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
+  - title: "Paysafe Accelerates Delivery of Cloud Strategy Using Microsoft Azure"
+    excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services. As part of the collaboration,"
+    publishedDateTime: 2021-03-08T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210308005197/en/Paysafe-Accelerates-Delivery-of-Cloud-Strategy-Using-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
   - title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
     excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and"
     publishedDateTime: 2021-03-09T14:00:00Z

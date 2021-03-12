@@ -174,6 +174,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
+    excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
+    publishedDateTime: 2021-03-12T13:10:00Z
+    webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-11T15:00:00Z
@@ -194,6 +208,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
+    excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
+    publishedDateTime: 2021-03-12T13:05:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
