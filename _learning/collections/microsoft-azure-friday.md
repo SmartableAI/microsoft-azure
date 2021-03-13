@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 184
+heat: 217
 
 provider:
   name: Microsoft
@@ -299,7 +299,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true

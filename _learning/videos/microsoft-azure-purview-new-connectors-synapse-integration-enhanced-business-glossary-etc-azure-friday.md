@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M19S
 publishedDateTime: 2021-03-12T17:14:47Z
-heat: 154
+heat: 181
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLl7g7RP8Bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,12 @@ topics:
   - Analytics
   - Integration
 
-secured: "IrIOm5nvVExQHj/dhyiW8CVoI9Fpnk2p9bo/2sAUZYcG0sLewO1PMw89XREirVPLiU3qZkSwTCYygrQiVRtVrEu0lbpc4h1yDYWgnd+sLdqigsMadUkUgbmDwBOCrkBGSGBM9GJcaxV5uWObWV6fB8VvbGWOvBskuW/Ab1krmk0Lb+k33HKqzyQkBJ0ztCgbmf+GOibveA7kGoBzzs3zBIgIvFGbAlJsKyzDfiBH0QUxfDb4YYhP8M6XqnCIaADYrvCwLW4byWb2NU67YseSEB2FqDE8Epzlt3Z93/pGpA+BtfoAqEbDpB7d6BhNkbIM89EJTjvDDCubx2ubW2bNHERTDBEZNU3yH2+Yfd5vrVDpm4nEq2APhxIdrU1DwtwUBE+BvYY5LuKrNB34vk7VBA==;tACld71QxOQaTu24HDIqLQ=="
+images:
+  - url: https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "yhJJDG7gUwrnbXY4TrX/Mveu/jOXtwt+4T72syfaY920Xqhr2eQSyz+XS/rvJiujoizKqDBIjWV543Y6tIBcdrFeKsmzxKMxVWqc79tZ/iw0u5FKgEWqdCKUKqc6psR6oZXEt9ZdJGCBkI2WtZ83XQAs+DZsLas85eqUQnCG032vLvhpHVxDAPYMaSEKr/WcCR5SqV1Jz5xthXof7wyPSsPcvPtw31zmPMmJLepDGpSv1T+O/HnLktFNQ+UU9/FUJFfz8r/wMxPdsXlyLIbgHxB4gkGBVPpr6XkAFvnPJS8sGGtr35LirdDGE/CjVZIORQR4ZLU+ndLWBoaWk3nUfJsnpq/TQM0x5xhFmGf35pgNa6r9Z9DufecRywIl8GplXEDzEe9j6VE3WSqGQr/7gTQ5PdeS3aGJkq89XwQJ3Tg=;p3ay49IkR95xnIdi0C31OA=="
 ---
 
