@@ -1,28 +1,21 @@
 ---
 category: news
-title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
-publishedDateTime: 2021-03-10T12:46:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
+excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
+publishedDateTime: 2021-03-12T14:11:00Z
+originalUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
+webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
 type: article
-quality: 53
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: ChannelE2E
+  domain: channele2e.com
 
 topics:
   - Azure
-  - Integration
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -66,6 +59,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
+    publishedDateTime: 2021-03-10T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -223,15 +230,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
-  - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
-    excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
-    publishedDateTime: 2021-03-12T14:11:00Z
-    webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
@@ -251,6 +249,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "CZH12JFGa+knnC0vviSF8ZmFqJUrj7Ay0N74r8j8+wwvr0lU75AAVg5YvDZwVAv1JYK2CI0KC7UEU6TIXUCywEIfFzCX011/yHDdlEVCThTZ2a59dbyruG21Gk6hqcmHF4Aq3q1Dq5Dd3RkNlVfRwK9gf0t2jrwQKzo4O386t/cOszJL494nuDwS9cB/BRwpcu07tcfQ4KQeJ1ryCnDCn++DdIUlmNGLxPGi/3J7pzo9vnG7MItNFctn9FFjjJX9NsODU0AIN5qidT3LbyRJXDIEfGNZK4XeleiI0uqPrrcBIctq4Mwa6Shmr+nLbzKkZgVzPEDmDIM1FzF/XFpgwuIAURRkVV44Yeyc8TnJjpM=;tfVMYPnG4cNFZVt5czJXjw=="
+secured: "kl9vQGkBIF1XHMTljmHQ6ZFDy5PWt5BR1TNRCGk/CmOkNfj176vOpsZJPid2PJVUHVZmHa/88naPXslHwLBcx+JFYikAoEi597a9Cp68NeI+4vSiggLIey4jxFyOPKvq8J1nTaWGiqfvSlnop2rXjThDjUio449QnsHnBttZKG2xb0TzOVwfutRCGVvLPzrNvjOueK1FpCDsMp3rR3opqbVH3SmUKQzRBlFFkjhqlnIJsOcuGB7IlC0lOsa2NcxusbZAUHs994mzbsrpoxfFyXYrdgUZFvFzGZoyBGUvlLyyt43/eb+1IfpeFkpdQiQA+BiamFr2FuyXdQiyjIAtuRGYgnGm2DGshPoeyYABOYQ=;eXGAyZW0yxaxJlE7AEpbcg=="
 ---
 

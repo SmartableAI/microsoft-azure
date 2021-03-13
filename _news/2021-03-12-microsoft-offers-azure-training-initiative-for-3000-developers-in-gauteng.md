@@ -230,6 +230,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
+    excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
+    publishedDateTime: 2021-03-12T14:11:00Z
+    webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
