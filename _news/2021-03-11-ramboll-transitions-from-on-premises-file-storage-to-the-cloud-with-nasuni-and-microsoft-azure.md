@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
-excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
-publishedDateTime: 2021-03-10T15:09:00Z
-originalUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
-webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
+title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+publishedDateTime: 2021-03-11T13:03:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
 type: article
-quality: 48
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: SC Media
-  domain: scmagazine.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - AI
+  - Storage
 
 images:
-  - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
-    width: 521
-    height: 313
+  - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+    width: 1497
+    height: 785
     isCached: true
 
 related:
@@ -96,19 +96,19 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-    publishedDateTime: 2021-03-11T13:03:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+    publishedDateTime: 2021-03-10T15:09:00Z
+    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 42
+      name: SC Media
+      domain: scmagazine.com
+    quality: 48
     images:
-      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-        width: 1497
-        height: 785
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+        width: 521
+        height: 313
         isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
@@ -242,6 +242,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "D+o7nIVZ9LkHqNapPynStRAceCry8szOdeNvg26+s+3jdDc0oB9o6Kjs7JngaUui4YxTkXB7X8JEvng47u1b3ApSJqlpx9VzS5KhAHT/FyBhoTxQaxOL8QQmQUqDHl2r/ErQAPn7OqiHUK54IWQUfWywo0k3c2knG9irv0uXR0FeRhJ+keJn6T2i4QP6fycPHH5Wxbbo71mtsW0pdIBuKwk+aHGUI0rel7Y6QVjMheOD8AapNY3OvWtvEqv5x7ZiSNcVZYUUtVcIkjQYeCYLKmZJoKNUrpH6BsUgn6oKmG9kn2yQ+CEgoOwokXsWZugfRBmc/vaK7lm5cazn/QCIPUx7aaEJY1Av14uI6+kQZ40=;0FZYjBBTpXW+mtjx8teYHw=="
+secured: "6CYOpo/MMgpTg48u0AXyegXGIggypdOnijiR/2kpEkKKPAS4saDSKu2Z+m294ASInWYl3W2CkOseDBwOMPYlon/KlbXu9kb5ENah+3AUkbk2DWcFXz1Qli6Xg7+hddp8XDOa2sMgw78NRWutDMXcDWu7LQtGg6MZDkLv66MM8B9pD/e7bEKsWQi70DdA+oNdtPXB66HrcwJxzd8Zy4dgSXnl3Jnlp6zcgO8t5dhEvXipJGx2iArBoAovty4GJ00GiduAZa9dbE8AnnWK9snYVIo8rsl1FcqpHlcSABrv4D74Gz4UxjW13uCaXIusby7P8ele4eMQ8Hpcx0O6nFZ22V6EeuaaZIJOCaBrT/IzlpE=;9zbncGANByN2oAod6AyDiw=="
 ---
 
