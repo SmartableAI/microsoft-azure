@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M19S
 publishedDateTime: 2021-03-12T09:36:57Z
-heat: 144
+heat: 222
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,12 @@ topics:
   - Azure
   - Serverless
 
-secured: "TwjRzjkkunu4LKNASRH/QRG17GZLeS2XW4DiYtvy/Cpr+yZfxxJUSyb/qBvv6Hk5INsrKIBvpU4TszxRkRBzFSaVO+ZMQnOFPUc3ALmJ8/KJJI9yHCzB+1198dDEBAYjs9NlDR8ZbkbGs+Xvc4mM3GCCmQV6N/KIhG+e3BjOffFxloFb51ic3kWVhu9EajmqOE3+EMd5qfirLO2U1Not5tDPuMUXHhYHarxlBUsDYY7BxlEpnO7yVWvBCrs6K50lwhu+OLbiqRaaBiHO0U2lwTg00I9nod4nizno5yfP5EeU54KytKskxaUSxAXC5Mg03Tl0AsWPMuduoGZpPWiV0Q1MUgjWwQvDGe1oAGeYzboGuu5vKcsSYkkTuwMiycYgpoJs1/P9NbXf5OtBFqb6Vg==;OHgNb1+CiLD4HWZ7WTKxxA=="
+images:
+  - url: https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "hMhnhqHqbQnHmjWT5ZPwLNVkkVyo509U80IEzsSvPd5xSF/j6M5zUm+QqvUesHoJ3jlmXLz3j6TQlnWWIT8Z0kYUDJZObROckfHzqjCEPCjryMXOH+PRp5+X1vy1wOlMCLocK0tPSyKO+2ThnM/YxbHE0WQ3Z00hBHszdhIpYerX0BBwvQFoFEP2heiAKhq7BBzwG3jXoFW8MHcenVEb648ei58xS/tsL+wPD+IfbEMYOqiWyYSSDJ2Zl8HSATd/OujSNGI57Ajalv5Q+nq52RtMKiKjk/LCn1VDBGGns4GduQ4+Lg9iMKVD02HYojaS91XFnFRqvEqrg79Sd/Drjz2I3u3VrgvFzYEhUETpvgueiBGqeIrIBQtC+EGFkmc1Q7vINzCwoFKdkY2vQyrO+OVQm94oaLJBzJBKC7Znkx4=;n2DWZh6D7fop0TK+/dqu+Q=="
 ---
 
