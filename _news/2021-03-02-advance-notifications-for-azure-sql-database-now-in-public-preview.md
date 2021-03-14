@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/"
 type: article
 quality: 114
-heat: 474
+heat: 475
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-z
 webUrl: "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview/"
 type: article
 quality: 80
-heat: 100
+heat: 101
 published: true
 
 provider:
