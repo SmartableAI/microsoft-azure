@@ -230,6 +230,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
+    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
+    publishedDateTime: 2021-03-14T11:32:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 20
   - title: "Node4 awarded Microsoft Azure Expert MSP status"
     excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
     publishedDateTime: 2021-03-11T10:30:00Z

@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Node4 awarded Microsoft Azure Expert MSP status"
-excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
-publishedDateTime: 2021-03-11T10:30:00Z
-originalUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
-webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
+excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
+publishedDateTime: 2021-03-14T11:32:00Z
+originalUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
 type: article
-quality: 17
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
@@ -237,17 +239,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
-    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
-    publishedDateTime: 2021-03-14T11:32:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 20
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
     excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
     publishedDateTime: 2021-03-12T14:11:00Z
@@ -276,6 +276,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
+secured: "1QNZ+fkbGUMSmhmCHUL45DDbCswtcKz9n3vp2rmhaeGQnJtcZ62PaU/9ZU5GX+6NpSVjlYxDVUw2IiTQk82CaWqzykGegh41i/0KeR3an8AglHcgYXM0oPhEIaVCUg7RE1ENEKFpmGwa53wVLB0tm4BAjAOPY3GRyz/IslT6kBO9I/3mUDYFa1K0dV/atqlu/JF6eUcYL61uZR2Ryctyj2cYR+JXR5NKpbRaJ2HeAXfcONSwZu+5Tc/g9NbjpAxwHIEVt7s9t1m85PlzAQodDSAWrjteQ61Kg6jqkHR7uwB4zdJYcamD/jq3tjHM+Cro3/MQ+h0HSkZTTCXdPwlEjT+XB4sxJTqez2EAploqcx4=;vmpkUKpLSabaz5IOdxpkEg=="
 ---
 
