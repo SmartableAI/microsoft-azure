@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-publishedDateTime: 2021-03-11T06:29:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-03-10T19:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
+webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -165,6 +165,22 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+    excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
+    publishedDateTime: 2021-03-14T07:56:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 34
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/03/14/--_1782fbbd881_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -250,6 +266,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "MOT8J+KnX7wQp+cr2MmpRYMROFm/9kMN0F9EvNpFjeovRrkSEp3PzvxnE4ZZhSomtRUc1+EolFvf+4MaxcrOdEHop1xDjd9VrlNZswqLUrkawuttcVuqzNKcf+n/BFmrzzthALOT0JytbFFf6QEqBJmvCdzbL7tXa/mE/ib+wmSCqOOPG5SJshynMX5HHAL6yf/B6CpKwvmyzVWid57jDGziTqGLNsmg3x3uHKZma6EaD0wax1xMtRv0Goot0IlVnMvY8S68sVr059eDo3K2zFb+wUk9E97M7vnRONTiJTgrt1F29qJXILMelXYfaWnEyV+tbr47Hg107eL6g040VQUn5cEgTVZUWzE9VlNhAbY=;j8d7nr5pFbZLk4KGlAX/Ag=="
+secured: "h6pwy+gdph18xFoPPVAPeHKJleSrWCc/dqBMUO5dUwBExZWO6qyRoNbROvu0LLKY2pco9QRJlzzy3Sj92xzyrFhxi09qPp0GG9NtHsrly4jrYWhbRaSOMbwPMs/eCHbo44mUM4RyIfJGo1uSSKEg/fgdE3VKGE4hQ0RmDS9gsT1cUHkxUqT073dps91VJ4gxz0XCef5P5nCWTCxR3M9kWUpk5858w1NmdvVUXtQYD5INJVdFSyxbVHrbT5+b/oFmfolRN7SJQFY/c2u84viMN8vr3juXlowqrysbv2NIXx4tuAKZhtUJ11jPo/0hlKdCLuHhWw9/3m7gnLAdTvprlUDJWxL7Rk5fU7bw9qlwAS8=;FMXAyIllheHTGiM06fteyQ=="
 ---
 

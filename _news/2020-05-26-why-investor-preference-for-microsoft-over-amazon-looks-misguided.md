@@ -153,6 +153,22 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+    excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
+    publishedDateTime: 2021-03-14T07:56:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 34
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/03/14/--_1782fbbd881_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -163,18 +179,18 @@ related:
       domain: businesswire.com
     quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-03-11T06:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T19:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"

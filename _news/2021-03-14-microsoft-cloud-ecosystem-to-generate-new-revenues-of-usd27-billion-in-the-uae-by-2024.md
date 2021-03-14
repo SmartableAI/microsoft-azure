@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-publishedDateTime: 2021-03-11T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
-webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
+publishedDateTime: 2021-03-14T07:56:00Z
+originalUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+webUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+ampWebUrl: "https://gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
 type: article
-quality: 42
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-    width: 1497
-    height: 785
+  - url: "https://imagevars.gulfnews.com/2021/03/14/--_1782fbbd881_large.jpg"
+    width: 750
+    height: 563
     isCached: true
 
 related:
@@ -110,6 +111,20 @@ related:
         width: 521
         height: 313
         isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-11T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
+        isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
     publishedDateTime: 2020-11-05T17:27:00Z
@@ -151,22 +166,6 @@ related:
       - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
         width: 606
         height: 454
-        isCached: true
-  - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
-    excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
-    publishedDateTime: 2021-03-14T07:56:00Z
-    webUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
-    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 34
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/03/14/--_1782fbbd881_large.jpg"
-        width: 750
-        height: 563
         isCached: true
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
@@ -267,6 +266,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "6CYOpo/MMgpTg48u0AXyegXGIggypdOnijiR/2kpEkKKPAS4saDSKu2Z+m294ASInWYl3W2CkOseDBwOMPYlon/KlbXu9kb5ENah+3AUkbk2DWcFXz1Qli6Xg7+hddp8XDOa2sMgw78NRWutDMXcDWu7LQtGg6MZDkLv66MM8B9pD/e7bEKsWQi70DdA+oNdtPXB66HrcwJxzd8Zy4dgSXnl3Jnlp6zcgO8t5dhEvXipJGx2iArBoAovty4GJ00GiduAZa9dbE8AnnWK9snYVIo8rsl1FcqpHlcSABrv4D74Gz4UxjW13uCaXIusby7P8ele4eMQ8Hpcx0O6nFZ22V6EeuaaZIJOCaBrT/IzlpE=;9zbncGANByN2oAod6AyDiw=="
+secured: "q17x+4eXGo0OmRIqDf/OfSmaCfgtB6ZpmGTFolDrjnBtmxITjwKtpN7OWrKfIazQYHi/4a+VuC4BRftOY1DCzbZ4rsDT+71pXFfabw2g9AHBzpm13hX8dvv8yQGQIndFyG4GrxZq1Uce1b8EeGBixXhsI4PfJVNMvyAu8t2MNLDS70UxIwGF+btQFEL1aiMgrWQnLLdhiktJMJhHzFJ6uEA7ebhPA3cLN9pdGkyAeASM4ec3FzGs7G5q4DU7D1grAdEu+YAlAAv6u7o3ZKnfsfFluZrHXShwq1l8YbgPp1nwIJfVmAV2ii/KScUebK48lJphtjE74XnayF2mNhiChoZWULbRGKSbIEIDfc4Sc9o=;KCpzUjv0EByuWwA9t+14qw=="
 ---
 
