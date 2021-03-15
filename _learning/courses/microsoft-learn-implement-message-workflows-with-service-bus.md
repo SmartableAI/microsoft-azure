@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT54M
 ratings:
-  count: 2522
-  average: 4.628866
-heat: 52
+  count: 2523
+  average: 4.629013
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Integration
 
-secured: "kW3A9MBcchj3pQU/mqtr/sPzipAAoCcJIfz22C0LmYY+ijSNgOiRCsz9+itLrmXo1fII/p1q959lVv/3B34Z/21jl03fOkwuDo7H7/BqrRAUWhlboFf3Y/4rkM4lv43GUAhh3Ykq61FULkgcE7rPwEbGtUWl1G/tudnSYT1c2RMal8zFXJ4xKw3IQXB3XlYNaLT25IaxWBKKA4s9wArhxodQWe+vGTRX1PaIu3FOVRQKAae24u5bOmEjZFqsBnUx8/6TkaVcvThpOxkdfmwMpHcuRBzXrc53G+m9bRVu7J4GGzfEy6v8Z8ZOutibIbjLzwCycsCUrzEp1nQcbZ+b2KE7PMaM2zlL1hBzI/pKTy5GZBvkRrDZDD/fden+Zff1vcDhsMEwp0HXtDkxh1EyPk5n+S+GUpnLB4wQGAuwXHM=;HBM4kOJKz8uUFcYrLDTr1A=="
+secured: "sUm5M1bjLAnn25r2Z0zOWLOZNglcx1DGdBqyYNEul4TnG13mf5dbmMTedwtaYtMbdM/Q/875TaMLleIi/Vy6RzY0c5H/HLHwIqNFooGejkSvFrOrhD52ddlqCMHwfNRYMeEDCEbekziT89mjZ5k+SkEGUNH+jtiUL7TF9J/Ok+8isTTY9+QNkHXHhwRaLVH60l4bARVGfzxRMVxFczcxuqn+WHrNphcXYXqtGvfWZ2ndC+mlKrcukVw4e56BBictpgW6b2/V4F4ogRvDti2HEJXVaFkdEgzxPyRUGuf8z91Qz6f5LumlT0h+vzSCyB+dzJuD1X6/88bWG7K7QRi5IZPRE8fp6zjXzOV21NuKh8NQVhOMCULLORQBMijh147JIQ1JfgKCYHE4kKeLjZFI8M97WyFHZPZ2tnnJm57ZJiQ=;/DF04C51/xHsiM/QLhKNbw=="
 ---
 
