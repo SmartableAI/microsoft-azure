@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-03-10T19:19:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
-webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
+excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+publishedDateTime: 2021-03-11T06:29:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -313,6 +313,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "lnegsOwwK7EqTer2VF7i10f8wRJm1eGbmNAzwiVl+sTk2v435kmriwB4I7AXzt6Hk1aQ4C9T/6sNAqbCf2Wxa93q9FcbOOHs27C/LZbNqt936ExHRsR2D0956n26Ovl1eOAQ/DvAOojAcAONtv9eUDi1navCxBfMnECINNyhv3hsFLJYpdTh7XsRV54Gw3HqeMoUelMnIHOXXTJekKW2ocU3mdxGa7GoM6GaDN2vqNGdFppPuFTGD4/MnuPMqd2Ywfb59DPetInG6dlRJtRysb0l723tyhajq+FVmTu33sEJ1ZfrJwoG0f5wsviHse0BYGXOKhS5GMF7t2sX13abJjAzDDcyCACLekpx3ZusuXw=;m64S04ba0IkdAOikUsgIag=="
+secured: "ev5LpgAp17otTf1WfdGRBSay7aZT0PPiDpeLAJsirdDmr8LodH+/C8M2D6s85AETdOYidgqLrh1FV2gtZvN2MJTehzclXfPtmR5EjeZPblAEGuAvSvGu3WgvrSpVK1VWuK3Ifpd3+OcPPdnL4LLA/8d5FbWhgWR8tUeX7KFLxBNAFK8E0lFgS+ETDyN7t4sm+hKWGo31QwZxmVFc0qHGbpZeL5t7+p/cbfKi1zv5T0YBv3IJc+4dnAX+y3pjDmm4zSmhcoD1s2l9PeNwi4RjHwMwSGU3h3R73G3++ItPLzT3R+xy5ZXGkgBz/cs6uycjVYbsL7qY9PGeCxJxtbJ2krB4lURI43zdRBs4i7HPyAo=;c+zGQbId0lP/W45mCw2JFw=="
 ---
 

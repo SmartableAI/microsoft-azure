@@ -231,18 +231,18 @@ related:
       domain: itp.net
     quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-03-10T19:19:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
+    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
+    publishedDateTime: 2021-03-11T06:29:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 25
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
     excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
