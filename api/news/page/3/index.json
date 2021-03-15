@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-09-general-availability-azure-mobile-app-now-supports-azure-government.md",
+      "title": "General availability: Azure mobile app now supports Azure Government",
+      "excerpt": "You can now manage and monitor you Azure Government subscriptions with the Azure mobile app.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 464,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/9fe2977f-67c6-4eb0-b476-6ffaff1f7e7f.png",
+          "width": 467,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T15:45:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Mobile"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-ocr-support-for-73-languages-in-the-cognitive-services-computer-vision-public-preview.md",
       "title": "OCR support for 73 languages in the Cognitive Services Computer Vision public preview",
       "excerpt": "Computer Vision Read 3.2 API for Optical Character Recognition (OCR), part of Cognitive Services, announces its public preview with support for Simplified Chinese, Traditional Chinese, Japanese, and Korean, and several Latin languages, with option to use the cloud service or deploy the Docker container",
@@ -1136,49 +1188,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available.md",
-      "title": "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available",
-      "excerpt": "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:01:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],
