@@ -4,7 +4,7 @@ excerpt: "SC-200 part 5: Configure your Azure Sentinel environment"
 type: collection
 price: Free
 length: PT1H54M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn
