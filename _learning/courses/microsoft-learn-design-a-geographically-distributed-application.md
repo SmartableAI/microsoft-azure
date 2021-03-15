@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT34M
 ratings:
-  count: 744
-  average: 4.6787634
+  count: 746
+  average: 4.6756034
 heat: 52
 
 provider:
@@ -28,6 +28,6 @@ topics:
   - Compute
   - Databases
 
-secured: "8p/PmMZeswC0aZ78mv+N4zPREa+NaBnPknwKDQ9LqLfGBFXJM2NN6NT+ZwZdyCuH+Ssh5nbqQAE2MBCiev7meChAzCvvpMZ3mRCPuBQgatnmixhdElLj84YSLPnipJA2judpfDFXoHTYvJ+E8nzZaYJqjOs7bkeL9rusyAntbGjq3+oZKmiepaZW5iXm1TQwj3hZVjJuTV4enlAhUc7400QGvTnk0aXTTl5rlxfTSCSTwymSh4Dfp2U4Br1Eg9425F+L7ay6MuiwSf4QWnndB5tHtM3/htsSdOHHPAFvLFttS5nIun/Vheah+qMYJ+bYwhE2IuIU3xijlL8I74zJG24+LanbxLVWEoDfBWehG+PvW2Vbpxop8xJt2FpBNj9NqXK59Ac71qN3uTRaMp3P2qYciKoUL/fCAF/tQ/B7M3I=;ou+hRjZg8ngCG/KpbO+dtQ=="
+secured: "dp1O4zJS62WuC7Fh38kXoCHZ155Z2i25xCgq8DwCpKWPciWd6gPuhi0261GYNIaDg4D6u0SYlYRpwktnXz0pKwRiM5usSNb5LT+5/B8WKw2oiKRPbhB71y98FZVKDSGSo5Veaw7vawbf4PGMk7OMQVGBbsPmPSCj9PHX3iR+brTRk3wqndDHcHX/wjxYrY7QuJwDXU2ypezWxS4TkfINGa+omZJ9V9jLhseayptJanBAXDebfXXv0WmZWm0QcZ3CWVQDLQBqyTyHIv1tWZtvpiTIIXC2/GJce37WKz6qe2M8RrknEoZpG4rOux4gFvWzoUUsi1rBm6UNsK/jRA6VxijZZ9VM3c3i/iOtLAT+lvYn4Bl8E9Ja4DW9cW7kH5vdTXyStZhexkD9h06g2Wzf9+2PbKR1BGk9krxWHHstXbA=;c0SBE26Iw44ypjkJveYvpA=="
 ---
 
