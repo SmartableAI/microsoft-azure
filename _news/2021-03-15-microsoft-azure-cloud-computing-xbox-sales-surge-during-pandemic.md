@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-03-10T14:20:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
+excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
+publishedDateTime: 2021-03-15T06:40:00Z
+originalUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
 type: article
-quality: 5
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
+    width: 490
+    height: 360
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -175,20 +181,6 @@ related:
         width: 606
         height: 454
         isCached: true
-  - title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
-    excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
-    publishedDateTime: 2021-03-15T06:40:00Z
-    webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
-        width: 490
-        height: 360
-        isCached: true
   - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
     excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
     publishedDateTime: 2021-03-14T07:56:00Z
@@ -305,7 +297,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
-secured: "XLRUAOW/35isgMaVdhHFL0XVIwg6I7kdVq6qR+DJAj3tuDVQ126hc+UftAVLHllQdtBv/TOiangaJ/V9kdPKHJlAWA0Yz4+fQ8vrbGuNTSPZm5qMB4g53YgJU5UbOIjkcXRNbWPiAPTAM4XkZ8XB81t1CkaXNx6GQT9XkbUismIxNQjnwNsC8YrPb4rlBlt4Do149wDkSDT92CtbH40r9+T4jGSPtzf/mITOMHoM1A/zZKHh+JVNwLG7uFCuUcxskc+niHnRgq1TeaqILJDzbbIn9JIn1JtC7hu4xptOpetHDYtmsmPTRNa9mO6qJL2fCzJAur0YT+EdvAhNDoctLacLA4y0rfr/P6rSe6QGLnQ=;ywYccUGZbc0gp1xVskmgIA=="
+secured: "t5WVkh9EIXznRr7jOBHsQIrbnAfM/6Tw/VLG/rvVrl3jJepWzrqKU7XNWfzcx3KjOnKh4eLA8FRUUMTJJ8Q6zw5vmaZMYdLIKzpj+PrOlY9iwx3ISzUiSRU3imf0wQqNcSvdmKkrMTreDB9NCUV+cgYXG7z0FGk40m5D1jRHWadAmZUuIG8rBfIE9uNKAp7kN5whOkGQZa/9sXRs4LcYvHeZ9CsZlWRoWlfjj1qE0JgX0CIuVUFIFOs7hXURJkZjqSFs5KKbUGJ3yiovmiw0WRi2Yu05TJ7D85o04cWTNiOri7I7AP25gNjdqiwQge2zzyIdu6lnQr9qQ25DWZg1qH1GnCEWaJsrNhZ2JELfUGs=;FQxRLuUTqvQYN/2lWP5+sw=="
 ---
 
