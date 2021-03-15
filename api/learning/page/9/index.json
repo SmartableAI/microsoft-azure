@@ -4,6 +4,42 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
+      "title": "Connect an app to Azure Storage",
+      "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-app-to-azure-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 5741,
+        "average": 4.6309004
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
       "title": "Create a Clustering Model with Azure Machine Learning designer",
       "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
@@ -81,8 +117,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 1198,
-        "average": 4.7762938
+        "count": 1199,
+        "average": 4.77648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -123,8 +159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
       "length": "PT59M",
       "ratings": {
-        "count": 176,
-        "average": 4.8295455
+        "count": 177,
+        "average": 4.8305087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 554,
-        "average": 4.776173
+        "count": 555,
+        "average": 4.7765765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -297,8 +333,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 945,
-        "average": 4.6539683
+        "count": 946,
+        "average": 4.654334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,14 +361,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series.md",
-      "title": "How to create an Azure SQL database | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create an Azure SQL Database in the Azure Portal and how you can be more productive in Azure.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=p7X8lH_XMtI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p7X8lH_XMtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
+      "path": "_learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks.md",
+      "title": "How to get started with Azure API Management | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to get started with Azure API Management, a service that helps protect and manage your APIs.   For more tips and tricks, visit: http://azuredev.tips     Get started with 12 months of free services and $200 USD in credit. Create your free account today",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-get-started-with-azure-api-management-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=gA2yxwKo0M0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gA2yxwKo0M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M9S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -345,11 +381,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-08T09:00:08-07:00",
+      "publishedDateTime": "2019-04-23T08:40:24-07:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/p7X8lH_XMtI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gA2yxwKo0M0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -360,8 +396,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
-        "Databases"
+        "Integration"
       ]
     },
     {
@@ -395,8 +430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 1198,
-            "average": 4.7762938
+            "count": 1199,
+            "average": 4.77648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -437,8 +472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 899,
-            "average": 4.7619576
+            "count": 901,
+            "average": 4.762486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -564,8 +599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 215,
-            "average": 4.8046513
+            "count": 216,
+            "average": 4.8055553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -607,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 231,
-            "average": 4.8008657
+            "count": 232,
+            "average": 4.801724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -693,8 +728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 215,
-            "average": 4.8046513
+            "count": 216,
+            "average": 4.8055553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +771,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 231,
-            "average": 4.8008657
+            "count": 232,
+            "average": 4.801724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 6871,
-        "average": 4.7434144
+        "count": 6873,
+        "average": 4.7433434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -833,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 960,
-        "average": 4.733333
+        "count": 961,
+        "average": 4.7336106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -919,8 +954,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 215,
-        "average": 4.8046513
+        "count": 216,
+        "average": 4.8055553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,6 +986,51 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 2043,
+        "average": 4.617719
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
         "Security"
       ]
     },
@@ -1005,8 +1085,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 5920,
-        "average": 4.6197634
+        "count": 5921,
+        "average": 4.6198277
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1077,8 +1157,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1816,
-        "average": 4.8270926
+        "count": 1817,
+        "average": 4.8271875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1120,8 +1200,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 490,
-        "average": 4.7836733
+        "count": 491,
+        "average": 4.784114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,8 +1244,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 336,
-        "average": 4.7440476
+        "count": 338,
+        "average": 4.745562
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1208,8 +1288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 6110,
-        "average": 4.672504
+        "count": 6112,
+        "average": 4.672611
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1244,8 +1324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1800,
-        "average": 4.6116667
+        "count": 1801,
+        "average": 4.611882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1287,8 +1367,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 810,
-        "average": 4.6567903
+        "count": 812,
+        "average": 4.6576357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,14 +1395,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series.md",
-      "title": "How to create a storage account and upload a blob | Azure Portal Series",
-      "excerpt": "UPDATED TO FULL SCREEN  The Azure Portal allows you to create and manage storage accounts and upload a blob. In this video of the Azure Portal “How To” Series, learn how to easily create a storage account, upload a blob, and manage the storage account within Storage Explorer (preview).     Try out these",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-storage-account-and-upload-a-blob-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=UJG6viKU_A8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UJG6viKU_A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M2S",
+      "path": "_learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series.md",
+      "title": "How to create an Azure SQL database | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to create an Azure SQL Database in the Azure Portal and how you can be more productive in Azure.    Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-an-azure-sql-database-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=p7X8lH_XMtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p7X8lH_XMtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -1335,11 +1415,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-08-14T15:16:00-07:00",
+      "publishedDateTime": "2019-05-08T09:00:08-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UJG6viKU_A8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/p7X8lH_XMtI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1351,7 +1431,7 @@
       "topics": [
         "Azure",
         "Management tools",
-        "Storage"
+        "Databases"
       ]
     },
     {
@@ -1406,8 +1486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3600,
-        "average": 4.7430553
+        "count": 3601,
+        "average": 4.743127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1440,84 +1520,6 @@
         "Azure",
         "Identity",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
-      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
-      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 2033,
-        "average": 4.6837187
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer.md",
-      "title": "Create a classification model with Azure Machine Learning designer",
-      "excerpt": "Classification is a supervised machine learning technique used to predict categories or classes. Learn how to create classification models using Azure Machine Learning designer.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-classification-model-with-azure-machine-learning-designer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 187,
-        "average": 4.7967916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

@@ -84,7 +84,7 @@
             ]
           },
           "publishedDateTime": "2021-03-12T01:36:57-08:00",
-          "heat": 183,
+          "heat": 151,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
@@ -161,7 +161,7 @@
             ]
           },
           "publishedDateTime": "2021-02-26T12:07:57-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/E-XqYb88hUY/maxresdefault.jpg",
@@ -180,7 +180,7 @@
         }
       ],
       "size": 281,
-      "heat": 196,
+      "heat": 181,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg",
@@ -196,45 +196,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday.md",
-      "title": "Durable functions in Python for Azure Functions | Azure Friday",
-      "excerpt": "David Justo joins Scott Hanselman to discuss durable functions in Python, which is an extension of Azure Functions for writing stateful functions in a serverless compute environment. The extension is already available for C# and JavaScript and is now available for Python.  0:00 – Introduction 1:38 –",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=HZgjmb9Y_IM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M19S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-12T01:36:57-08:00",
-      "heat": 183,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
       "title": "Introduction to Azure fundamentals",
       "excerpt": "This module introduces you to the basics of Azure.",
@@ -242,8 +203,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 37177,
-        "average": 4.7857547
+        "count": 37201,
+        "average": 4.785732
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -317,6 +278,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday.md",
+      "title": "Durable functions in Python for Azure Functions | Azure Friday",
+      "excerpt": "David Justo joins Scott Hanselman to discuss durable functions in Python, which is an extension of Azure Functions for writing stateful functions in a serverless compute environment. The extension is already available for C# and JavaScript and is now available for Python.  0:00 – Introduction 1:38 –",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=HZgjmb9Y_IM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HZgjmb9Y_IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-12T01:36:57-08:00",
+      "heat": 151,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HZgjmb9Y_IM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Serverless"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -347,8 +347,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -389,8 +389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 20123,
-            "average": 4.8133974
+            "count": 20140,
+            "average": 4.813406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 9341,
-            "average": 4.8052673
+            "count": 9347,
+            "average": 4.805178
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -497,8 +497,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 20123,
-        "average": 4.8133974
+        "count": 20140,
+        "average": 4.813406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -569,51 +569,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 2043,
-        "average": 4.617719
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks.md",
       "title": "How to start and stop clusters with Azure Kubernetes Service | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, learn how to start and stop clusters with Microsoft Azure Kubernetes Service   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
@@ -635,7 +590,7 @@
         ]
       },
       "publishedDateTime": "2021-03-09T08:01:17-08:00",
-      "heat": 136,
+      "heat": 138,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0f3lo56h4tg/maxresdefault.jpg",
@@ -683,8 +638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -725,8 +680,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 8235,
-            "average": 4.720097
+            "count": 8240,
+            "average": 4.720267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 7199,
-            "average": 4.760939
+            "count": 7202,
+            "average": 4.760761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -816,8 +771,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5687,
-            "average": 4.755759
+            "count": 5689,
+            "average": 4.7558446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,15 +833,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-dsvm.md",
-      "title": "Introduction to the Azure Data Science Virtual Machine",
-      "excerpt": "Azure provides some pre-configured virtual machine images specifically designed for data science.  Learn how you can use these to get a jump start on your data science work.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-dsvm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dsvm/",
-      "length": "25 mins",
+      "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
+      "title": "Back up and restore databases",
+      "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-databases/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/",
+      "length": "PT31M",
       "ratings": {
-        "count": 963,
-        "average": 4.593977
+        "count": 128,
+        "average": 4.6640625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -901,15 +856,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/intro-to-azure-dsvm-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Introduction to the Azure Data Science Virtual Machine",
+          "url": "https://docs.microsoft.com/learn/achievements/backup-and-restore-databases-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -917,19 +871,20 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Databases"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps.md",
-      "title": "Publish a web app to Azure by using the Maven Plugin for Azure App Service",
-      "excerpt": "Use the Maven plugin for Azure App Service to develop a Java web app and deploy the app to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-web-app-with-maven-plugin-for-azure-app-service/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-foster-ai-culture-sales.md",
+      "title": "Discover how to foster an AI-ready culture in sales",
+      "excerpt": "Learn the necessary cultural changes for enterprise sales organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-sales/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-sales/",
+      "length": "PT38M",
       "ratings": {
-        "count": 19,
-        "average": 4.6842103
+        "count": 566,
+        "average": 4.7014136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,12 +899,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-app-with-maven-plugin-for-azure-web-apps-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-sales-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -960,8 +915,49 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Web"
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure.md",
+      "title": "Prepare to migrate SAP workloads to Azure",
+      "excerpt": "This module provides details on the important steps prior to deploying SAP workloads to Azure: project preparation and planning, pilot, non-production, production preparation, go live, and post production.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-preparing-migrate-sap-workloads-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-migrate-sap-workloads/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 325,
+        "average": 4.7753844
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/preparing-migrate-sap-workloads-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -995,8 +991,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1037,8 +1033,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 5457,
-            "average": 4.7778997
+            "count": 5461,
+            "average": 4.7778797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1080,8 +1076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4224,
-            "average": 4.71875
+            "count": 4228,
+            "average": 4.7187796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1123,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 3723,
-            "average": 4.7596025
+            "count": 3728,
+            "average": 4.75912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1193,8 +1189,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 6281,
-        "average": 4.626811
+        "count": 6286,
+        "average": 4.627108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,8 +1225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 8235,
-        "average": 4.720097
+        "count": 8240,
+        "average": 4.720267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1268,216 +1264,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
-      "title": "Architect infrastructure operations in Azure",
-      "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure/",
-      "length": "PT3H58M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-control-and-organize-with-resource-manager.md",
-          "title": "Control and organize Azure resources with Azure Resource Manager",
-          "excerpt": "Use Azure Resource Manager to organize resources, enforce standards, and protect critical assets from deletion.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-control-and-organize-with-resource-manager/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 41137,
-            "average": 4.7170672
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 62,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-cloud-governance-strategy-azure.md",
-          "title": "Build a cloud governance strategy on Azure",
-          "excerpt": "Learn how to access policies, resource locks, and tags, as well as how Azure services such as Azure Policy and Azure Blueprints can help you build a comprehensive cloud governance strategy.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-cloud-governance-strategy-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 3808,
-            "average": 4.72479
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 91,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-          "title": "Design a holistic monitoring strategy on Azure",
-          "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-          "length": "PT57M",
-          "ratings": {
-            "count": 2043,
-            "average": 4.617719
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 137,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-incident-response-with-alerting-on-azure.md",
-          "title": "Improve incident response with alerting on Azure",
-          "excerpt": "Respond to incidents and activities in your infrastructure through alerting capabilities in Azure Monitor.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-incident-response-with-alerting-on-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 2321,
-            "average": 4.663938
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/incident-response-with-alerting-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "DevOps",
-            "Management Tools"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 109,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-5-describe-identity-governance-privacy-and-compliance-features.md",
       "title": "Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features",
       "excerpt": "Learn how Azure can help you secure access to cloud resources, what it means to build a cloud governance strategy, and how Azure adheres to common regulatory and compliance standards.",
@@ -1508,8 +1294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1550,8 +1336,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 3373,
-            "average": 4.783279
+            "count": 3375,
+            "average": 4.783111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1593,8 +1379,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3808,
-            "average": 4.72479
+            "count": 3813,
+            "average": 4.7248883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1636,8 +1422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 3305,
-            "average": 4.739788
+            "count": 3308,
+            "average": 4.739722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1722,8 +1508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5145,
-            "average": 4.7605443
+            "count": 5150,
+            "average": 4.7605824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1765,8 +1551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 3808,
-            "average": 4.72479
+            "count": 3813,
+            "average": 4.7248883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1808,8 +1594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41137,
-            "average": 4.7170672
+            "count": 41138,
+            "average": 4.7170744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1843,8 +1629,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6110,
-            "average": 4.672504
+            "count": 6112,
+            "average": 4.672611
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1899,8 +1685,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 7199,
-        "average": 4.760939
+        "count": 7202,
+        "average": 4.760761
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2119,8 +1905,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 9341,
-        "average": 4.8052673
+        "count": 9347,
+        "average": 4.805178
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2162,8 +1948,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 5457,
-        "average": 4.7778997
+        "count": 5461,
+        "average": 4.7778797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2205,8 +1991,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 6155,
-        "average": 4.6341186
+        "count": 6159,
+        "average": 4.634356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2271,8 +2057,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2313,8 +2099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5145,
-            "average": 4.7605443
+            "count": 5150,
+            "average": 4.7605824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2356,8 +2142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4292,
-            "average": 4.783085
+            "count": 4294,
+            "average": 4.783186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2417,8 +2203,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 5145,
-        "average": 4.7605443
+        "count": 5150,
+        "average": 4.7605824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2460,8 +2246,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 5687,
-        "average": 4.755759
+        "count": 5689,
+        "average": 4.7558446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2527,8 +2313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4292,
-            "average": 4.783085
+            "count": 4294,
+            "average": 4.783186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2569,8 +2355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6281,
-            "average": 4.626811
+            "count": 6286,
+            "average": 4.627108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2605,8 +2391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7791,
-            "average": 4.658452
+            "count": 7794,
+            "average": 4.6585836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2649,8 +2435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 998,
-            "average": 4.6012025
+            "count": 999,
+            "average": 4.6016016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2736,8 +2522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6281,
-            "average": 4.626811
+            "count": 6286,
+            "average": 4.627108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2772,8 +2558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2523,
-            "average": 4.7784386
+            "count": 2524,
+            "average": 4.7785263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2815,8 +2601,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4111,
-            "average": 4.7372904
+            "count": 4115,
+            "average": 4.7375455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2858,8 +2644,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7791,
-            "average": 4.658452
+            "count": 7794,
+            "average": 4.6585836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2945,8 +2731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6281,
-            "average": 4.626811
+            "count": 6286,
+            "average": 4.627108
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2981,8 +2767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2523,
-            "average": 4.7784386
+            "count": 2524,
+            "average": 4.7785263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3024,8 +2810,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4111,
-            "average": 4.7372904
+            "count": 4115,
+            "average": 4.7375455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3067,8 +2853,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7791,
-            "average": 4.658452
+            "count": 7794,
+            "average": 4.6585836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3155,8 +2941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 8754,
-            "average": 4.7692485
+            "count": 8761,
+            "average": 4.7694325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3203,6 +2989,49 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-ai-fundamentals.md",
+      "title": "Get started with AI on Azure",
+      "excerpt": "With AI, we can build solutions that seemed like science fiction a short time ago; enabling incredible advances in health care, financial management, environmental protection, and other areas to make a better world for everyone.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-ai-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 8761,
+        "average": 4.7694325
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 94,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-ai-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",

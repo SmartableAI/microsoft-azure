@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 37177,
-            "average": 4.7857547
+            "count": 37201,
+            "average": 4.785732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 8235,
-            "average": 4.720097
+            "count": 8240,
+            "average": 4.720267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 7199,
-            "average": 4.760939
+            "count": 7202,
+            "average": 4.760761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5687,
-            "average": 4.755759
+            "count": 5689,
+            "average": 4.7558446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
+      "title": "Back up and restore databases",
+      "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-databases/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 128,
+        "average": 4.6640625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/backup-and-restore-databases-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 8235,
-        "average": 4.720097
+        "count": 8240,
+        "average": 4.720267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5145,
-            "average": 4.7605443
+            "count": 5150,
+            "average": 4.7605824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7202,
-            "average": 4.6646767
+            "count": 7203,
+            "average": 4.664723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -427,8 +470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9115,
-            "average": 4.6573777
+            "count": 9118,
+            "average": 4.657381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -552,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 12279,
-            "average": 4.5858784
+            "count": 12282,
+            "average": 4.5859795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -594,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7947,
-            "average": 4.6566
+            "count": 7950,
+            "average": 4.6567297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3365,
-            "average": 4.57474
+            "count": 3366,
+            "average": 4.5748663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -752,8 +795,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4458,
-            "average": 4.6994166
+            "count": 4461,
+            "average": 4.699619
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1017,8 +1060,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6225,
-            "average": 4.736225
+            "count": 6226,
+            "average": 4.736267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1146,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1194,
-            "average": 4.6892796
+            "count": 1195,
+            "average": 4.688703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1184,8 +1227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 8235,
-            "average": 4.720097
+            "count": 8240,
+            "average": 4.720267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1266,8 +1309,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3800,
-            "average": 4.5921054
+            "count": 3801,
+            "average": 4.5922127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,8 +1353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1325,
-            "average": 4.446038
+            "count": 1326,
+            "average": 4.4464555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1388,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1317,
-            "average": 4.584662
+            "count": 1318,
+            "average": 4.5842185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,8 +1511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1761,
-            "average": 4.591141
+            "count": 1762,
+            "average": 4.590806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1505,8 +1548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6110,
-            "average": 4.672504
+            "count": 6112,
+            "average": 4.672611
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1587,8 +1630,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4458,
-            "average": 4.6994166
+            "count": 4461,
+            "average": 4.699619
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1715,8 +1758,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1325,
-            "average": 4.446038
+            "count": 1326,
+            "average": 4.4464555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1834,8 +1877,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 5920,
-            "average": 4.6197634
+            "count": 5921,
+            "average": 4.6198277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2031,8 +2074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1325,
-            "average": 4.446038
+            "count": 1326,
+            "average": 4.4464555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2110,8 +2153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3800,
-            "average": 4.5921054
+            "count": 3801,
+            "average": 4.5922127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3081,8 +3124,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1194,
-            "average": 4.6892796
+            "count": 1195,
+            "average": 4.688703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3408,8 +3451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
           "length": "PT42M",
           "ratings": {
-            "count": 1624,
-            "average": 4.6477833
+            "count": 1625,
+            "average": 4.648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3471,8 +3514,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2268,
-        "average": 4.631834
+        "count": 2269,
+        "average": 4.6315556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3515,8 +3558,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 12909,
-        "average": 4.68123
+        "count": 12911,
+        "average": 4.6812797
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3565,7 +3608,7 @@
         ]
       },
       "publishedDateTime": "2019-05-08T09:00:08-07:00",
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/p7X8lH_XMtI/maxresdefault.jpg",
@@ -3591,8 +3634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 803,
-        "average": 4.8094645
+        "count": 804,
+        "average": 4.8097014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3677,8 +3720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3365,
-        "average": 4.57474
+        "count": 3366,
+        "average": 4.5748663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3787,6 +3830,177 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment.md",
+      "title": "Plan and implement a high availability and disaster recovery environment",
+      "excerpt": "Data must be available when needed. Configure, test and manage a solution for high availability and disaster recovery using Azure tools and SQL Server tools.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-and-implement-a-high-availability-and-disaster-recovery-environment/",
+      "length": "PT2H13M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
+          "title": "Describe high availability and disaster recovery strategies",
+          "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
+          "length": "PT59M",
+          "ratings": {
+            "count": 91,
+            "average": 4.824176
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr.md",
+          "title": "Explore IaaS and PaaS platform tools for high availability and disaster recovery",
+          "excerpt": "Deploy Windows Server Failover Cluster and AGs in Azure and hybrid environments. Configure temporal tables, geo-replication and auto failover groups.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-iaas-paas-platform-tools-for-ha-dr/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-iaas-paas-platform-tools-for-high-availability-disaster-recovery/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 77,
+            "average": 4.844156
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-iaas-and-paas-platform-tools-for-ha-dr-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-backup-restore-databases.md",
+          "title": "Back up and restore databases",
+          "excerpt": "Plan and implement policy for recovering data in case of user error or failure of technology. Explore various options for how and where to backup and restore databases.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-databases/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 128,
+            "average": 4.6640625
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 131,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/backup-and-restore-databases-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
       "title": "Putting it all together with Azure SQL",
       "excerpt": "Putting it all together with Azure SQL",
@@ -3837,8 +4051,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 778,
-        "average": 4.6208224
+        "count": 779,
+        "average": 4.6213093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3861,93 +4075,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
-      "title": "Introduction to Azure Database for PostgreSQL",
-      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 2150,
-        "average": 4.6404653
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies.md",
-      "title": "Describe high availability and disaster recovery strategies",
-      "excerpt": "Plan appropriate HA/DR strategy based on RTO and RPO. Choose best solution for IaaS or PaaS deployments or hybrid workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-high-availability-disaster-recovery-strategies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-high-availability-disaster-recovery-strategies/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 91,
-        "average": 4.824176
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-high-availability-and-disaster-recovery-strategies-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],
