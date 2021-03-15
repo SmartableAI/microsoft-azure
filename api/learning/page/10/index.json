@@ -4,6 +4,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
+      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 5886,
+        "average": 4.7344546
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
       "title": "Microsoft Azure Well-Architected Framework - Security",
       "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3601,
-        "average": 4.743127
+        "count": 3602,
+        "average": 4.7431984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2038,
-        "average": 4.6844945
+        "count": 2039,
+        "average": 4.684159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -133,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9276,
-        "average": 4.699116
+        "count": 9277,
+        "average": 4.6990404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,8 +256,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 711,
-        "average": 4.7538676
+        "count": 714,
+        "average": 4.754902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -340,8 +384,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 2561,
-        "average": 4.695041
+        "count": 2562,
+        "average": 4.69477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 949,
-        "average": 4.7460485
+        "count": 951,
+        "average": 4.7465825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
       "length": "PT45M",
       "ratings": {
-        "count": 129,
-        "average": 4.860465
+        "count": 130,
+        "average": 4.8615384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -468,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 4806,
-        "average": 4.719517
+        "count": 4807,
+        "average": 4.7195754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -503,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3552,
-        "average": 4.7198763
+        "count": 3553,
+        "average": 4.719955
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -545,8 +589,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 650,
-        "average": 4.770769
+        "count": 652,
+        "average": 4.7714725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -939,8 +983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 948,
-            "average": 4.7985234
+            "count": 949,
+            "average": 4.7987356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -981,8 +1025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 805,
-            "average": 4.809938
+            "count": 806,
+            "average": 4.8101735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,8 +1128,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 2702,
-        "average": 4.7057734
+        "count": 2703,
+        "average": 4.7058825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 844,
-        "average": 4.7760663
+        "count": 846,
+        "average": 4.7765956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 6088,
-        "average": 4.723226
+        "count": 6090,
+        "average": 4.723317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 819,
-        "average": 4.7704515
+        "count": 823,
+        "average": 4.7715673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,8 +1327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2845,
-        "average": 4.7142353
+        "count": 2848,
+        "average": 4.7145367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1360,8 +1404,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2046,
-        "average": 4.6177907
+        "count": 2047,
+        "average": 4.617489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1405,8 +1449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4272,
-        "average": 4.718633
+        "count": 4274,
+        "average": 4.7185307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1432,48 +1476,6 @@
         "Compute",
         "Serverless",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure.md",
-      "title": "Explore provisioning and deploying non-relational data services in Azure",
-      "excerpt": "Explore provisioning and deploying non-relational data services in Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-provision-deploy-non-relational-data-services-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-non-relational-data-services-azure/",
-      "length": "PT1H2M",
-      "ratings": {
-        "count": 603,
-        "average": 4.766169
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-provision-deploy-non-relational-data-services-azure-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
