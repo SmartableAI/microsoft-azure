@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 508
+heat: 509
 published: true
 
 provider:
