@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 569
+heat: 609
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Microsoft outage affects Teams, Azure and Xbox Live"
+    excerpt: "The bad news is that the list of services affected is long — including not just Teams, but also Office, Exchange Online and Yammer. Xbox Live is also mentioned as one of the services experiencing issues,"
+    publishedDateTime: 2021-03-15T21:33:00Z
+    webUrl: "https://www.engadget.com/microsoft-teams-down-azure-xbox-213224646.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
+        width: 2000
+        height: 1330
+        isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
     publishedDateTime: 2021-03-15T06:56:00Z
@@ -83,6 +99,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
+    excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -220,18 +252,18 @@ related:
       domain: itp.net
     quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-    excerpt: "Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store that provides applications and services for use on Azure."
-    publishedDateTime: 2021-03-11T06:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-0223a828f0af04affe3af4e0ee394856"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T19:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"

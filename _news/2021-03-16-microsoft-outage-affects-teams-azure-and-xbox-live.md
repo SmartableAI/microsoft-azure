@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
-excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
-publishedDateTime: 2021-03-15T06:40:00Z
-originalUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
-webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+title: "Microsoft outage affects Teams, Azure and Xbox Live"
+excerpt: "The bad news is that the list of services affected is long — including not just Teams, but also Office, Exchange Online and Yammer. Xbox Live is also mentioned as one of the services experiencing issues,"
+publishedDateTime: 2021-03-15T21:33:00Z
+originalUrl: "https://www.engadget.com/microsoft-teams-down-azure-xbox-213224646.html"
+webUrl: "https://www.engadget.com/microsoft-teams-down-azure-xbox-213224646.html"
+ampWebUrl: "https://www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
-    width: 490
-    height: 360
+  - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
+    width: 2000
+    height: 1330
     isCached: true
 
 related:
@@ -53,22 +59,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Microsoft outage affects Teams, Azure and Xbox Live"
-    excerpt: "The bad news is that the list of services affected is long — including not just Teams, but also Office, Exchange Online and Yammer. Xbox Live is also mentioned as one of the services experiencing issues,"
-    publishedDateTime: 2021-03-15T21:33:00Z
-    webUrl: "https://www.engadget.com/microsoft-teams-down-azure-xbox-213224646.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 97
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
-        width: 2000
-        height: 1330
         isCached: true
   - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
     excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
@@ -208,6 +198,20 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
+    excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
+    publishedDateTime: 2021-03-15T06:40:00Z
+    webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
+        width: 490
+        height: 360
+        isCached: true
   - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
     excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
     publishedDateTime: 2021-03-14T07:56:00Z
@@ -345,6 +349,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "EXMfS8qotDOPe4YyXIpddP04AaAX9NjvBFqNBPJH8Yq/u8+eEtR54itK2jutIprzOXkdcjRsrKfDakUTX8MGZ86+Je4NWhkvVJsQeJ/kJSYGCd23ddu9gvn83mSwXN9tsTzuu4SJFTQ0psZe6S8nv0JkIhm3rtK9Y6+c5MgP7DEhgKw4kglbu+XHewSiR39TcoH6uHMSCF42VGYO7CWe/cXIk12Kn7Rb5z3hKRwAlgpErE3LvDh0toGSKX2mt2+b4WcMHfp2Ayvwq/FAUThqNhGrqDQfwB7PmK/EBJF3qoFp68rukhnyWUB5UxxdL4HC6QzVpz4fKLj9rTunJfQ8MGovdsAcqAORE3I4+rBm3KPSKSvLM/0Ec5e7iQ1vR+IOzeZ5bM1loCIa7Z53Iv37HYztEyNqeoL2C0jLRPYFESilv8l4l0+GGQL9zSysKHnSKXSdyxoeWLR8WBIeiXGBLxyn1QFjTuC1QwOylCRaqbP8BeNloju91nx6Swka1uMScIJRzibAXPuON0uAvBX/vw==;vbhit9XwlGpyy69K2rY+OQ=="
+secured: "pzxYoAY8nAU6iXAXS3LPBo/m9laiMCkMjcfTLZEcugv6L8ocUwRLqfmMiSLT3K70HW1sbXQQ19Dad+m7gvOf177IdXD/sxhO9ROZsNWe9KL3cRcAdxKfZ1++DV4RshsO7cad3GriSWsxCTOUeVF2wQCtJFNDL5p9e9bJ4E7L/47QTeZI4rtJksdNmyji0FklVezSU01J/xe3MGJuzV4FxvL2BhE1GkT4NcrsAvXYqvuCeH9+FnHE8h6+PE9aD2pitcbK+CJcDjU5F9UoRX1qfm6pPJ4yzPtC+iSZaMjcyE6RjJ5oeyEmhR9qUSSMA13Hpo1YWfl9zW/A9s6Vxv111SW4MXya49kuD0o7hVq9IFE=;44wYGBJX2QUGT3tvtYc2tg=="
 ---
 

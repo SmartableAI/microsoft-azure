@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
-excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
-publishedDateTime: 2021-03-15T06:40:00Z
-originalUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
-webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
+excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
+publishedDateTime: 2021-03-15T21:35:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
-    width: 490
-    height: 360
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -106,22 +108,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
-    excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -207,6 +193,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
         width: 606
         height: 454
+        isCached: true
+  - title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
+    excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
+    publishedDateTime: 2021-03-15T06:40:00Z
+    webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
+        width: 490
+        height: 360
         isCached: true
   - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
     excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
@@ -345,6 +345,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "EXMfS8qotDOPe4YyXIpddP04AaAX9NjvBFqNBPJH8Yq/u8+eEtR54itK2jutIprzOXkdcjRsrKfDakUTX8MGZ86+Je4NWhkvVJsQeJ/kJSYGCd23ddu9gvn83mSwXN9tsTzuu4SJFTQ0psZe6S8nv0JkIhm3rtK9Y6+c5MgP7DEhgKw4kglbu+XHewSiR39TcoH6uHMSCF42VGYO7CWe/cXIk12Kn7Rb5z3hKRwAlgpErE3LvDh0toGSKX2mt2+b4WcMHfp2Ayvwq/FAUThqNhGrqDQfwB7PmK/EBJF3qoFp68rukhnyWUB5UxxdL4HC6QzVpz4fKLj9rTunJfQ8MGovdsAcqAORE3I4+rBm3KPSKSvLM/0Ec5e7iQ1vR+IOzeZ5bM1loCIa7Z53Iv37HYztEyNqeoL2C0jLRPYFESilv8l4l0+GGQL9zSysKHnSKXSdyxoeWLR8WBIeiXGBLxyn1QFjTuC1QwOylCRaqbP8BeNloju91nx6Swka1uMScIJRzibAXPuON0uAvBX/vw==;vbhit9XwlGpyy69K2rY+OQ=="
+secured: "+ReeFdO5y2aTVB8Mp6F8m5TtCQU6oTVkv9HhhRw1vEemmQF2OF5IJjCL48Mybboprp0aJ+x78yanfL53NW0MKrAe1FxUMwNExu1aNugC8QXvAHixnlD3IgnKzvg6w1VTad0uL2ObavUL5FiU5cnsREsHj56U6toMFxNMFp6e+i9li7bhT0exvs06kyn4aEKJsZZc5blfl1Wr8VIcKtXSP6pfqHH2lhBVu/VGNgig+4gjQZTILcJm9cIpc9QoHOVMmuXhQD9xi3dl/xR90K6LntDcQ2h3zWxWXW/fsYbZyUPfaKwhzCjhjibYrUJnxmbbNCwzVkKE1z1iiCYoAGcOyjT0NMtfA+5i2YX7BHZvs5w=;baXPGbqrpm5MUw+S7WvmUg=="
 ---
 
