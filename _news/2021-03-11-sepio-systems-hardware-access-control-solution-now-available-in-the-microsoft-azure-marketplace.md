@@ -277,6 +277,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "b20yYQAHowUgJs5xrYRuS/ofZ3J4InsfljxDZfwfe7Po+6EfMi7YzoambQqcz6i5b3pcEZqFTGXvqf3fu0Fb5zapenfu8cUeQXZ93KsJ/IBrDcAufLJPQ5ktrm/tJY0FPhdQ985bn0OBq9K8lqnJs4EKS6zzKcrW9JKWjutcBkIIS4RI4mya9Y59yjGb2My2ph4s7pyu486XCmExCc2NtuwhP6D9krbpXjEXDc3NJ3KVdt8HsukfjrFZQyPJXrLSRJDqru3jms66JyxS7P7nF2AoMSgiLT6CzH/1/Lc/GmVdU2W/PZRFN9+j2B6rvOd+Bpv8MSuk3+Mi99gJRntjv5VhZLY+LBxGqs4zoWbOnOI=;EdwfQm24L2ZHWkS0wRdbyg=="
+secured: "ktV1BCVZ4MI4VKFpeCW7gE/NxDLiAOPcOcFi812RfY7tP4km7RNaxJJg7EHMonRml8GO/2H0V/mAvEG12R/bltK90zKigjBuQOk484XTLktwfsu+7UZkWjZNWmxW3njlkdtaY6zQAZt/e59qFBn+km0adw+V9q0SK/tbJIXL1Rt93xprmwWAa/YC4M+UfAUlnDeOU2YkNm5CRCSgeHKD+ssTWOBkQ0t58KlSPfZk+qDz/EkejB36wLv02jjeMZ8pxUl3Oavd/vN0Od+BPUlfmDw++ifCwAL3Z1/v7xl79syD8ZsJKwaeXyaNBDb5X2sAOuCHcVpJjHsFrWgOEJ1lQGt3U9vpP64ZekGiXQWSMuU=;mi6uKrW0swcvMNhtrdfRPA=="
 ---
 
