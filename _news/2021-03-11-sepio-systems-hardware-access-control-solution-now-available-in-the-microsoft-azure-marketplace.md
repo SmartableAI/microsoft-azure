@@ -70,6 +70,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "\"Telecom operators will be able to use Microsoft Azure and RADCOM ACE to simplify 5G rollouts and deliver high-quality services that can be managed automatically in real-time. We believe that our ..."
+    publishedDateTime: 2021-03-10T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-1030168234"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
     excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
     publishedDateTime: 2020-05-26T10:05:00Z
@@ -81,20 +90,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
-    publishedDateTime: 2021-03-10T12:46:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -220,6 +215,17 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 33
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
+    publishedDateTime: 2021-03-11T17:38:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
   - title: "Top marketing intelligence firm 10th Man uses Microsoft’s Azure cloud to unlock the power of data"
     excerpt: "Man, a leading UK marketing intelligence company and data-driven innovator, is using Microsoft’s data tools to provide fast and accurate information to some of the world’s biggest brands. Headquartered in London,"
     publishedDateTime: 2021-01-27T10:40:00Z
@@ -307,6 +313,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "v1gikO+YBtxtaA7JDrNvlICRrS9jzCUbJ+YSerauJWsbt/QNJqfqrpaT7Nt4fagfPDh1S4eqhrtaobo/X1Nm/7fYzmJpr6WShBcWWyXrKfnwe0V+m2BxxHhkE/+w04ci180E6w+xvSnyYz6FQfaBYMkShthqR/08f9V1wUGmSpp+MXH/6mqdsovWRck6SSSzLfXXoVfSlQgz/27wjYHdCGAn0IU+9uihQvY+0P/8okiON67qYMuOyqEKshL9HumUjJttnN2YqSkPhVpPAgoNYlnuVtlMkf7LQZYfTaWeD9Yef9QTnFpNvtfdoxD+7KnidE6xhLxCxbm1tB6kQG+IVYvjWFfNBJNXeCzCmOsnS1A=;yc0uZO65bb6ueQqgwy0rWA=="
+secured: "RWSdjR7pojgY6D2AvQLwZySAnKJH98xujGpcpGtUzjvdeltfhUgFAUT0EvDRgpwpMIj2pPEX/Y1Bg8dYJan45PWtv28pqm/oTESzNE2JFqQ3KWQMLhEwl6II9K4PcE7r4s6Kp1IfQWGfpTx9Ys1Iksx+zgZgJpApW/fk2XxmrY1iK5UF0fiS8Z1cxVGLSRcwTRRDQ+qYlQqAW92kQuBS87t3G8lrbzQNoqDPWqJH5NKjTf4opsJlwRjeIlt4YWxdLOE3ppec6WUHdDvckiHZ9W8VfE1y543qv+LJj70TsiWRS2an+XTOYHOLo76facMZ1gB8QpTUBeVU+nJLEkZK2AVPdUeXfPmCMS0LxClb8lo=;E1/ZhNb79niD7tmr2ganCA=="
 ---
 

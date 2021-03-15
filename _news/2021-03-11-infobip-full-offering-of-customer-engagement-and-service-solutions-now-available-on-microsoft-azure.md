@@ -66,6 +66,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "\"Telecom operators will be able to use Microsoft Azure and RADCOM ACE to simplify 5G rollouts and deliver high-quality services that can be managed automatically in real-time. We believe that our ..."
+    publishedDateTime: 2021-03-10T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-1030168234"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
   - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
     excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
     publishedDateTime: 2020-05-26T10:05:00Z
@@ -77,20 +86,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
-    publishedDateTime: 2021-03-10T12:46:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -215,6 +210,17 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 33
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
+    publishedDateTime: 2021-03-11T17:38:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
     quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."

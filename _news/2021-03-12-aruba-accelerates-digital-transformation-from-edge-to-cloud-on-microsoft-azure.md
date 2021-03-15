@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-03-10T14:20:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
+publishedDateTime: 2021-03-11T17:38:00Z
+originalUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
 type: article
-quality: 5
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
@@ -209,17 +211,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 33
-  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-    excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
-    publishedDateTime: 2021-03-11T17:38:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 33
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T19:19:00Z
@@ -311,7 +302,16 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
 
-secured: "XLRUAOW/35isgMaVdhHFL0XVIwg6I7kdVq6qR+DJAj3tuDVQ126hc+UftAVLHllQdtBv/TOiangaJ/V9kdPKHJlAWA0Yz4+fQ8vrbGuNTSPZm5qMB4g53YgJU5UbOIjkcXRNbWPiAPTAM4XkZ8XB81t1CkaXNx6GQT9XkbUismIxNQjnwNsC8YrPb4rlBlt4Do149wDkSDT92CtbH40r9+T4jGSPtzf/mITOMHoM1A/zZKHh+JVNwLG7uFCuUcxskc+niHnRgq1TeaqILJDzbbIn9JIn1JtC7hu4xptOpetHDYtmsmPTRNa9mO6qJL2fCzJAur0YT+EdvAhNDoctLacLA4y0rfr/P6rSe6QGLnQ=;ywYccUGZbc0gp1xVskmgIA=="
+secured: "Rto+hjlA2BiYE+2YxfwLUGD5LKL1jxQkR6XU8+I4EV+cwtAQONTWtTY/nJ1T44ATVL5BDh011tv6WHCZPrLQncrR4dUN8MjaqVi79qN/Mep+Qk5nWmiwyhYixpMgY/zjQfysdGNoJxjyDbHLPFZOqpd2MDuwp7il+HBkeGDFjjJ70Fj0VLGp+IgwnvOEM2+6vweNqo/rxBwL5Naq5ttAIFplpH9EiDrTNSQM7HLbV+/Ifty9JuKCJJ253MeSwqOFhzeJGS9x2A7bmS8e1Y9b2ttSUC0vCi3CV/Oz5BPAgSZwjP8sO+oed/v3hzPzCdwDCrXqIwxa3JeQL2rMh2lUE4JC4uOEs4iawgM4IVTTsvU=;ozFvVxc00xEEY1NY2d3k9Q=="
 ---
 

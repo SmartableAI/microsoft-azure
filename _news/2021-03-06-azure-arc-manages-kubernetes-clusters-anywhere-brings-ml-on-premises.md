@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Azure Arc enabled Kubernetes is now generally available"
-excerpt: "Now you can on-board all your Kubernetes clusters in production and manage them centrally from Azure with the help of Azure Arc which is generally available today."
-publishedDateTime: 2021-03-02T17:00:10Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
+title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
+excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
+publishedDateTime: 2021-03-05T18:29:00Z
+originalUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
+webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Data Center Knowledge
+  domain: datacenterknowledge.com
 
 topics:
   - Azure
   - Containers
+
+images:
+  - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
+    width: 827
+    height: 693
+    isCached: true
 
 related:
   - title: "Monitoring Azure Arc enabled Kubernetes and servers"
@@ -73,6 +75,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Arc enabled Kubernetes is now generally available"
+    excerpt: "Now you can on-board all your Kubernetes clusters in production and manage them centrally from Azure with the help of Azure Arc which is generally available today."
+    publishedDateTime: 2021-03-02T17:00:10Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z
@@ -86,20 +97,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c1d791d2-98c0-44fa-a2df-44cfabf7f250.png"
         width: 748
         height: 768
-        isCached: true
-  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
-    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 54
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
-        width: 827
-        height: 693
         isCached: true
   - title: "Azure Arc enabled Kubernetes preview and new ecosystem partners"
     excerpt: "In November 2019, we announced the preview of Azure Arc, a set of technologies that unlocks new hybrid scenarios for customers by bringing Azure services and management to any infrastructure across datacenters, edge, and multi-cloud. Based on the feedback and excitement of all the customers in the private"
@@ -143,6 +140,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "x/fWwHxHbfpQrFZqhsNbdi7nOFk2Xp+vsxrx+H3PHvQmwm/zH/N6g7DIQxyh1uJBzX3ivzLRkSRBGGoF9CIAvdCoD4pv6IXqFRfUiNUYL1R6qnukgrQxeLMnifAlU+E5+E/qLroKEgPKePQVuf9EjmCu4QKP4hd8NnF+vWClYGDVVilzvN7+2Eq/soRJqVMMb6ovzhA8SBEzHUmdhBZN22MnuS0rsL4jaV3oLeWDt19rG0cG0RaJ58fvrdTz6HEaiKvGkPRxUp8lmrQ9ACQjn5/9oi5YqYsXSdTcjnJDOhnAsaypxLJXeb4gXCnQ7ai9kNe3V0/8Z+hFCHQD7UVXyfYdTCCnIZzM7l/8JdDg3M4=;eKBPOU0+nVEwPONLVWMinQ=="
+secured: "0f2WwWl/8mTI2i78xZ3P5aUea8kALA83jOH+jDAN8FJTIVJX3NK+fqQxGQDdQGfWiw0xpgC7UISuWYSgZbsu/ItXkRILrLoNkpQRcV+D9V9fmOPkmvS8dBkd6ONyRzVkevidRfRbeIWWnJ9bYAyTkqYrb5GV9NC3nIyohXS6A1Ms4/xKoL/RflbY/2AF1FlIiUMupyOsXbCn0p8yid3Cv91mBhhG6KIjKw/yyHt2LjgtW3MOTzSoajetmKSKupR9IOiQa4MkJjPVeAodfyfxR9XC85/i7pcQSIVB/vBTS/3JcsBDoEYzjg1k+6boMPMs6idCu2k7/eaH0ECSbWyW4OaOEoGA/HapjChdoCAAf0o=;plwcuq3voUMl0HsJHsMRug=="
 ---
 

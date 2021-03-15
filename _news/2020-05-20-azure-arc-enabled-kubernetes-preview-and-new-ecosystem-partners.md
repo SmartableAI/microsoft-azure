@@ -101,6 +101,20 @@ related:
         width: 748
         height: 768
         isCached: true
+  - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
+    excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
+    publishedDateTime: 2021-03-05T18:29:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/azure-arc-manages-kubernetes-clusters-anywhere-brings-ml-premises"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 54
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/jeremy%20winter%20microsoft.jpg"
+        width: 827
+        height: 693
+        isCached: true
   - title: "Azure Kubernetes Service upgrade improvements are now in preview"
     excerpt: "Two new AKS upgrade capabilities that will improve the granularity and efficiency of regular Kubernetes upgrade operations are now in preview."
     publishedDateTime: 2020-06-10T16:00:24Z
