@@ -88,15 +88,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-    excerpt: "\"Telecom operators will be able to use Microsoft Azure and RADCOM ACE to simplify 5G rollouts and deliver high-quality services that can be managed automatically in real-time. We believe that our ..."
-    publishedDateTime: 2021-03-10T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-1030168234"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
   - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
     excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
     publishedDateTime: 2020-05-26T10:05:00Z
@@ -224,6 +215,15 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+    publishedDateTime: 2021-03-10T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -345,6 +345,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "+ReeFdO5y2aTVB8Mp6F8m5TtCQU6oTVkv9HhhRw1vEemmQF2OF5IJjCL48Mybboprp0aJ+x78yanfL53NW0MKrAe1FxUMwNExu1aNugC8QXvAHixnlD3IgnKzvg6w1VTad0uL2ObavUL5FiU5cnsREsHj56U6toMFxNMFp6e+i9li7bhT0exvs06kyn4aEKJsZZc5blfl1Wr8VIcKtXSP6pfqHH2lhBVu/VGNgig+4gjQZTILcJm9cIpc9QoHOVMmuXhQD9xi3dl/xR90K6LntDcQ2h3zWxWXW/fsYbZyUPfaKwhzCjhjibYrUJnxmbbNCwzVkKE1z1iiCYoAGcOyjT0NMtfA+5i2YX7BHZvs5w=;baXPGbqrpm5MUw+S7WvmUg=="
+secured: "56OwnBWmGKf0o4mi23NqSw3VKwzyh6yi7s+gxlQVnd8SkZ76vh7neNZEs68DJnMeNCg6m2+FJoSHVmsImjGdXja5Q8BtfcxZL/GBKceHvTWyWO36006AcTUNQIrFlKei8e3+EvaQM6R6jMVGq3n4BmjgDHIibTyi0igzG/l9lTTk8ee00Up38S8yU6qAfSgpiTbYITmslnDot9p7T4HqJBkgawJKdD4reN0usCSyX7eSniMxC/9VyL6GooGQC2q05VBEsQvUB5LWeRpVhfTSQXPbgILdaP1+4ncCWCW5mkVjjdcSyIOKahQVx/uO2OSECbqC+E7SSReTvluhCxhVLKfCJA2ykO4Hp0LPpvrn27oH3QeR1e0HqylBZmpfArFOJ3yYIpjuUQf7c51dJqIo3QCVmx8lBTuzsxLdlb/OKIH7bOe/oUo5AXW6eB2GnwColp+sUIhuRjxYYjZC9GmUcLcyDD3sz/t/5Hk+0A6Xy0KmRVI/O3C/K5jYH4y6Ao1z2YR2vCBACs/0V7ZTMvQbCg==;wzcnh8e+3jC87qq+LjyZ2Q=="
 ---
 

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Anitian Announces Collaboration with Microsoft Azure"
-excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
-publishedDateTime: 2021-03-04T12:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
-webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
+excerpt: "\"This new version of our platform takes advantage of multiple native Microsoft Azure services to quickly deliver a reliable, scalable security environment for both new and existing Microsoft ..."
+publishedDateTime: 2021-03-04T12:02:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/anitian-announces-collaboration-with-microsoft-azure-301240230.html"
+webUrl: "https://www.prnewswire.com/news-releases/anitian-announces-collaboration-with-microsoft-azure-301240230.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
-    width: 400
-    height: 209
+  - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg?p=publish&w=950"
+    width: 949
+    height: 496
     isCached: true
 
 related:
@@ -171,22 +167,6 @@ related:
       - url: "https://mondrian.mashable.com/2021%252F02%252F27%252F37%252F34d22d34d76c4fdebd70dacf8afe579a.14c2e.jpg%252F1200x630.jpg?signature=f8x70IAL-UlXzvdvnIaNAK_3ul4="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
-    publishedDateTime: 2021-03-02T15:00:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
-        width: 4800
-        height: 2700
         isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
@@ -608,15 +588,6 @@ related:
         width: 800
         height: 622
         isCached: true
-  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
-    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
-    publishedDateTime: 2021-03-09T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z
@@ -1086,6 +1057,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
+    publishedDateTime: 2021-03-02T14:14:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
+        width: 845
+        height: 475
+        isCached: true
   - title: "Microsoft Releases Azure Attestation into General Availability"
     excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
     publishedDateTime: 2021-03-02T12:15:00Z
@@ -1197,6 +1182,20 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
         width: 850
         height: 385
+        isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
+    publishedDateTime: 2021-03-09T15:13:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
@@ -1542,6 +1541,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "1M4TMuP1ka+ufPaaTpzJZIXEu1zBFaRU0gWA21d/yvcBfedu9w3g71OLPusXKuXCjOo2Lff3TixfsOOrjzrJtNt1wfE0V77EXHlE1q6C3C0dW01pr8W7rY45xYp3wl9tCezJJwkxS3ILJGhVWag59tGUqXnwwpV4kxXKvfCqH1AUN+zg6yfgVdbXOvO/VlxS0cjXaHm/ShUa6Gtj45sFS3O85TQdRDn1TXtSSmicWcW4lwOsRUknUcp+Vd7yHS2hImYnk+Z3xfMYM61l2LgktI22Gr+tsWhpIORlan300LNbmPAzohSXUTcATKw1P0Am2IkHICjOge1TnjcTij11/NPgkicWT8zdpbZTVYnmWyE=;qtD0Ms8UpiKPGwmiKnp6GQ=="
+secured: "GL1OdMyW7LiSotmoDcfV7pdzgH8e9kJPhGCeCe3KCfUfiqOQSAgALbg8JAcV+JJqTJTST50jyfN0n+zM2ZSAqSR3EDCnfWKdzRv/oqttIP/4EVibDBHDejBruzZMmKH48ESCwW9VRkFnI0+49uQTkZZiwrjqmZd2ECUlHcjsx4/35NmOgFJUOzAAIbvOG6KYCh+F3vQBKdiE82CO7+TT9AqZjmDJ/tgLwvhksMHRp9dj7TW1ymDadZtdNNUacbC9MruvqQYbMrhCMKcpW0aOlWObuWRhPZD0NfDcG+a8bluA5xGiCbv8X71kMMAqa8UTQs99/lhNL2pnGMHbbJZ4WsNHwXkGbaIQbVMuCH1NOZc=;A/93t5cUR71qj+9bSrlZYw=="
 ---
 

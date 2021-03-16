@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-gener
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-spring-cloud-general-availability-of-managed-virtual-network-and-autoscale/"
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

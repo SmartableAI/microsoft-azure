@@ -1,22 +1,18 @@
 ---
 category: news
 title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "\"Telecom operators will be able to use Microsoft Azure and RADCOM ACE to simplify 5G rollouts and deliver high-quality services that can be managed automatically in real-time. We believe that our ..."
-publishedDateTime: 2021-03-10T12:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-1030168234"
-webUrl: "https://markets.businessinsider.com/news/stocks/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-1030168234"
+excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+publishedDateTime: 2021-03-10T12:37:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
 type: article
-quality: 73
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
@@ -349,6 +345,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "HfdXkHMVVMpnMrEL7fCp9ZC/o4K1xHp/PfG7gMw5TGoLq8QmwUWB3kRgAN6m8CWjGnu3RooMl5HmTAmFpIJx0fLQbGFhD5owxoD/3nMXN/VLtoA/uFTBzx68z43NWpibIAnVRyujhd+9xb8Vfq7fLkKev1ViuyAzH7uixNwob79K1mLVwBQ27Koft0sk6+Uf4lQtW9K7bM9esKP0M6uefiiLIw2cHEBvPMxknmw2zzQrwQ4eqgCvM3FvsEsB0iqmwJ87fDVvRCiLlc233Tns2Zv11e1rV6/g6+f7L35zhRzxDRhz91aQtrDmL+FsPgW/0+KyhTk8s13bnhyrC+oy5F7Fwc0GAKsEeGWwOAUnF9g=;NvHDbgS0sSKGnl2/OYrQ9A=="
+secured: "B33etrWerAm4yIT9lUbmWFtm5Du3zXi7bPhA+0paLl9JYwykMHk7VFmJ0P8BBdHuFnYuB9VzptNlPEUVDWkV8FBRoiQWEygQHnXS54S1Hs8g1T6G/ps4prE81Eg5L/HsPrgfKRuAvEGZshXTCITvQdhSnsWDS/PKlRCB1ETEG5L9wa/38AcxtC+TMb8c7gcGnPJirYhPdIJ9HQrotAMGytDotA12uz9jcns2a/MZhLvgYXR0ubiAlMEbxQ8rxnxTN797oDqEaYZot5Jz/aiA3lauuefrEPVehFp9KkfrkCKuTHDNW47T8eDMSyHzTSl4bVTsM3kD2Alt45xUfwjKLIHqK5pMdvAyX1FED+9nwSU=;IJ9kaztYyaHG1oMH2QZP0Q=="
 ---
 

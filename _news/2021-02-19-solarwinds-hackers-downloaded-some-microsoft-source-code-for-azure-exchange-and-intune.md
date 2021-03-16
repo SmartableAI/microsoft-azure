@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-som
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/solarwinds-hackers-downloaded-some-microsoft-source-code-for-azure-and-exchange/amp/"
 type: article
 quality: 88
-heat: 149
+heat: 148
 published: true
 
 provider:

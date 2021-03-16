@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/empowering-every-developer-to-inn
 webUrl: "https://azure.microsoft.com/blog/empowering-every-developer-to-innovate-with-azure/"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:

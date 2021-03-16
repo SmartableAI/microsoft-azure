@@ -168,22 +168,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
-    publishedDateTime: 2021-03-02T15:00:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 97
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
-        width: 4800
-        height: 2700
-        isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
     publishedDateTime: 2021-03-02T20:37:00Z
@@ -433,20 +417,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
-  - title: "Anitian Announces Collaboration with Microsoft Azure"
-    excerpt: "Anitian, a leading provider of cloud security and compliance automation solutions, announced today a collaboration with Microsoft to deliver its Compliance Automation Platform on Microsoft Azure. With Anitian Compliance Automation,"
-    publishedDateTime: 2021-03-04T12:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/anitian-announces-collaboration-with-microsoft-azure-1030149706"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Microsoft is opening a new Azure cloud computing region in China"
     excerpt: "The cloud computing giant has announced it is opening a new region in China, as the country's demand for cloud services booms."
     publishedDateTime: 2021-03-05T15:19:00Z
@@ -618,15 +588,6 @@ related:
         width: 800
         height: 622
         isCached: true
-  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
-    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
-    publishedDateTime: 2021-03-09T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft launches Azure analytics and data services"
     excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
     publishedDateTime: 2020-12-03T16:08:00Z
@@ -1082,6 +1043,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
+    publishedDateTime: 2021-03-02T14:14:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 37
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
+        width: 845
+        height: 475
+        isCached: true
   - title: "Microsoft Releases Azure Attestation into General Availability"
     excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
     publishedDateTime: 2021-03-02T12:15:00Z
@@ -1138,6 +1113,20 @@ related:
         width: 1899
         height: 993
         isCached: true
+  - title: "Anitian Announces Collaboration with Microsoft Azure"
+    excerpt: "\"This new version of our platform takes advantage of multiple native Microsoft Azure services to quickly deliver a reliable, scalable security environment for both new and existing Microsoft ..."
+    publishedDateTime: 2021-03-04T12:02:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/anitian-announces-collaboration-with-microsoft-azure-301240230.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1449186/Anitian_Announces_Collaboration_with_Microsoft_Azure.jpg?p=publish&w=950"
+        width: 949
+        height: 496
+        isCached: true
   - title: "Microsoft to launch new Azure cloud region in China"
     excerpt: "In a bid to ramp up its cloud portfolio in China, Microsoft is planning to open a new Azure region in the country through its local operating partner, 21Vianet. The move comes amid growing demand for cloud services in China."
     publishedDateTime: 2021-03-06T12:53:00Z
@@ -1193,6 +1182,20 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
         width: 850
         height: 385
+        isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
+    publishedDateTime: 2021-03-09T15:13:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
