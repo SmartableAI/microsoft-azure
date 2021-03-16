@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-publishedDateTime: 2021-03-11T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
-webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+publishedDateTime: 2021-03-16T12:27:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
 type: article
-quality: 42
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-    width: 1497
-    height: 785
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -146,22 +147,6 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
-    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
-    publishedDateTime: 2021-03-16T12:27:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 53
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
     publishedDateTime: 2021-03-16T00:53:00Z
@@ -205,6 +190,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
         width: 1200
         height: 671
+        isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-11T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
         isCached: true
   - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
     excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
@@ -420,6 +419,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "6CYOpo/MMgpTg48u0AXyegXGIggypdOnijiR/2kpEkKKPAS4saDSKu2Z+m294ASInWYl3W2CkOseDBwOMPYlon/KlbXu9kb5ENah+3AUkbk2DWcFXz1Qli6Xg7+hddp8XDOa2sMgw78NRWutDMXcDWu7LQtGg6MZDkLv66MM8B9pD/e7bEKsWQi70DdA+oNdtPXB66HrcwJxzd8Zy4dgSXnl3Jnlp6zcgO8t5dhEvXipJGx2iArBoAovty4GJ00GiduAZa9dbE8AnnWK9snYVIo8rsl1FcqpHlcSABrv4D74Gz4UxjW13uCaXIusby7P8ele4eMQ8Hpcx0O6nFZ22V6EeuaaZIJOCaBrT/IzlpE=;9zbncGANByN2oAod6AyDiw=="
+secured: "+9OyMIDwEzG74Nxljmls0hI0nxeIKTOeqbWcydzuEgkKUSu3M562yefn/4eUNJeckVocrxJOBXvYLcfQYJZqjnfCA6nMVF+5nsqmXGXucpWZnRk7UnmFwBtVngs4n1I3rRrso4XJhBogHIrWALV3+tPQN+ECJTyFkRmKJDRSH/KVVUnk9r0cRzgVDNdkZI/c9orfhBDkt0aWVxcMxik+6jYHlKOWriXj8I/AZuH9hu+TeBy3tgewIn2uJStlhM1321OhqDvQiCH3hZ1eXqwnlSpHZoYUkZ+nfAVVu1WsxS4I8upnxfC0a6fOHijmn6E1xnehyC/oS00QTSpTf5giaY2wwyYDRknUedjSR6dR/V0=;IIOxQZnOrfXzjFxYLnrmbw=="
 ---
 

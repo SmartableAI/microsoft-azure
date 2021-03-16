@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 688
+heat: 708
 published: true
 
 provider:
@@ -137,6 +137,22 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
         width: 450
         height: 601
+        isCached: true
+  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+    publishedDateTime: 2021-03-16T12:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
