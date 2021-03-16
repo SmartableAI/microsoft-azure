@@ -163,6 +163,22 @@ related:
         width: 521
         height: 313
         isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
     excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
     publishedDateTime: 2021-03-11T13:03:00Z

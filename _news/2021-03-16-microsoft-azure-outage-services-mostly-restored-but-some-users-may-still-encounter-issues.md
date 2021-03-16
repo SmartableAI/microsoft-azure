@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
-excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
-publishedDateTime: 2021-03-12T13:05:00Z
-originalUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
-webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+publishedDateTime: 2021-03-16T10:41:00Z
+originalUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
 type: article
-quality: 15
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+    width: 1200
+    height: 671
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -166,22 +174,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
-        isCached: true
-  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
-    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
-    publishedDateTime: 2021-03-16T10:41:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 47
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
-        width: 1200
-        height: 671
         isCached: true
   - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
     excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
@@ -383,6 +375,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
+    excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
+    publishedDateTime: 2021-03-12T13:05:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
   - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
     excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
     publishedDateTime: 2021-03-16T05:30:00Z
@@ -402,6 +403,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "zxpjOa8HpwoS9FbhYqwBid+bjgiJ9auYdLv83XgpQAgKC2teeBOT/XMdRup0OQsao9lhnEtopPND4T3vH3zscUTljKxO+CUUORO4ayB144CxceWCBryy7xBTQApni6G3Gr+pdqtSOE2oSmqPQtPY9jupm4oWa+uDMNttDnzZScjzanic27YfjNDfLlddS+6BavvyPyOXP6EpY8jolKV/NkLyrH/lq1Sv2rChaSUb/tDw0C69nJ8eCfoy7Q8aeFVfWAdhdx71VjozO3ENlbQFANluQVL4hshAkv3L3g+fL1SZVGmXjiH9/5+EuyIFXBtxrT5wRLQLGZcsu15/Lq1b0m1I+8zBSGZlbE4mCWUuZRI=;/EvGaToGbG3fEAbT2YHyCQ=="
+secured: "vQhXnARMIlhuhopUM3FWsnH/gQ9Lt6qFlSdwGP+F7ODS7+Y5RL/MdZowqVRXj8lGsydD1t6MyNnMVUatvmuJxx76bD6+eg3cdXGdVD2n6Y8hc9GYnNTLBaokEf0QTwwFlcF9DaEoXT0FyCPpBJu03zk327nD0D21yN3b0Vnht3lvfyRe2SXvyP8F1brNZzFqLGltuLVr7rmwC1Wba2mdjkHjmlwfa0q2clMkFjG0dQBCnshfOXxF1b+ReY65IawoH0ZY3BSY1dZWuQ3joqL4FeiW4+zP/WnJrOSw4ooId0Z0E0GtTXjjpbXZmWReXsCKrT9U6txrnkbLyaSS/qptBczIXb7wvQR3EVppbcLi1R4=;3p8FD2eGSkcJwDnD2yGQeA=="
 ---
 
