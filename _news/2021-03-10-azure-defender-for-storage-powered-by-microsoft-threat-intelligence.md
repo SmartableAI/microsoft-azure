@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
         width: 450
         height: 601
+        isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."

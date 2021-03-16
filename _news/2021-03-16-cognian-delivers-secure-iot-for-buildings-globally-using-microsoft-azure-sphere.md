@@ -1,21 +1,28 @@
 ---
 category: news
-title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
-excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
-publishedDateTime: 2021-03-12T13:05:00Z
-originalUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
-webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+publishedDateTime: 2021-03-16T00:53:00Z
+originalUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
 type: article
-quality: 15
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Azure
+  - IoT
+
+images:
+  - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+    width: 375
+    height: 211
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -122,20 +129,6 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
         width: 450
         height: 601
-        isCached: true
-  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
-    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
-    publishedDateTime: 2021-03-16T00:53:00Z
-    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 50
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
-        width: 375
-        height: 211
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
@@ -348,6 +341,15 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
+    excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
+    publishedDateTime: 2021-03-12T13:05:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
@@ -358,6 +360,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "zxpjOa8HpwoS9FbhYqwBid+bjgiJ9auYdLv83XgpQAgKC2teeBOT/XMdRup0OQsao9lhnEtopPND4T3vH3zscUTljKxO+CUUORO4ayB144CxceWCBryy7xBTQApni6G3Gr+pdqtSOE2oSmqPQtPY9jupm4oWa+uDMNttDnzZScjzanic27YfjNDfLlddS+6BavvyPyOXP6EpY8jolKV/NkLyrH/lq1Sv2rChaSUb/tDw0C69nJ8eCfoy7Q8aeFVfWAdhdx71VjozO3ENlbQFANluQVL4hshAkv3L3g+fL1SZVGmXjiH9/5+EuyIFXBtxrT5wRLQLGZcsu15/Lq1b0m1I+8zBSGZlbE4mCWUuZRI=;/EvGaToGbG3fEAbT2YHyCQ=="
+secured: "I21jPPJdpeN730crCCReYeMemOfpF9mzbvTjoP4qhPWCdq6I17lFV+RSQtuRRxFjJgha+2v5vPfwCAcuMbvjFC/876sFWFZa4pUYdQjZ+2CY8/a3FHlbxKKBCRFys8cjTu5h1Mf9VDJFbjlV5g1qvOme7HgqFiMKCLBM2sLzmeW5w2rtWgVoeNkgcbe2ZoMeWid0TEE+LoZZGV/Djcft3gQE5WYQHUZFzETyuLH+EIT2W2UmZ7AiXOZkbx+0eCHjDGw8Oh35DHSPRO96VN09u5XA3CfHam/r+loAbHRrJwWbUvodM20PFWWIv88Ju2xCpsrWG+q87ta8xsV25uXk7mcNBc/suYIS06wNbvCzOJk=;dAgNCki3yKaE5Sh2hRn6iQ=="
 ---
 

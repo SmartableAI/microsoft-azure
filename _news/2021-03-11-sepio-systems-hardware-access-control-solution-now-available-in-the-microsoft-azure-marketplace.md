@@ -129,6 +129,20 @@ related:
         width: 450
         height: 601
         isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
     publishedDateTime: 2021-03-10T15:09:00Z
@@ -345,6 +359,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "eYiHfT+e7Poty6Mo40C72ZtuCE6Md3GsuR7o8Lb9Tx0nMR5qfNqGztLnRWGlZrVVepgAqh2etWPih15wmAdNpY7N7ncMMNaNobbpaQv79k/ycbQMCRpim0/LNDScaOfE7DViK4I30ai9gD3yyrARKNmOKz9PL52RkiFaDHgRRmTsnEDB1agFija8fucfEopt/zhhOdSmMXBZoHObVjj5h94PxKHN32Fd0Z2nFveS6rzKr1QYxHKHuc8KkTE11cdymp5v8pgwZktx2QTawuCNu9RbJICC4zC3LsLtpLcYTGCHQwPDAeRPn/xbIoa+IZb/Sws1lydIcmWyM4VeSReEYF7rw/CgnnOFvUFcw6+pSNY=;k71P2LrVOI/q8JxeeJM+7Q=="
+secured: "Z5wGfZaPbRNJtvod95YYmSMUHeX0/HlrsvbF/4oGay1KFyDVNGah0srlnVUpxuT+/To3fwpuL9TM1QNI6qaCNmHot8r+DqC12YoESBjGpJm2vzGlO+tdFXkpSmIfVBT90F9FNKbENsf6zDYl7XetGjbsdrmDI0xFeq8hOaUDG69unst9utAe8GOieJUJ2OUTWbb64W+lcs7o6X1x7zYtyUiHgi/xX/4BLdEVPAn5coosuKNO6fAfQpjhqfuodRU1/j6MJ6gXPVWpgBZcmVi37oM52Ni76/B6USWrSJKomwwTCFsZQYSRjpmVpTVV7vZUfE2Df4iZv2Bvta26vPZtHDfosqABzh0+EofYtYUzhCs=;6SgmaGNwnRjeCiE2S2/X/g=="
 ---
 
