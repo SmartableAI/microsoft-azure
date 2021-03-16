@@ -318,15 +318,18 @@ related:
         isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
-    publishedDateTime: 2021-03-11T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
+    publishedDateTime: 2021-03-10T17:06:00Z
+    webUrl: "https://www.totaltele.com/508928/Infobip-full-offering-of-Customer-Engagement-and-Service-solutions-now-available-on-Microsoft-Azure"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Total Telecom
+      domain: totaltele.com
     quality: 23
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z
@@ -375,6 +378,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "jvDUisbE6HYMdULmUbDXvDU8l6ERFFdeE+N4VAAjltxZGg/2lF7rBRkZdOuDf3ayJcPCF05fVFE7FqwksWAIFPIQB0aoH7Ly2l27wJ8gLLcbLgy/woKGPrZ4gFdFth+xAhPXX/l4+tBin/OwcbTKSUI/Dxxe6q8OX45S7sxg2gfEuyZUKeABXYjhfd2nRiML0b5QE2CQmI7i6NpjLl5sGPzIONJ3wjFMbhIl469/H9BBGTlgHj7ndH/poYlaObn/rArAjdR+F+I7XlEZEhLCklYF52VRcLeMKjrB6NRmQhiIgn7ZiSH3RZ6rhYhIL1Owo1XQrDVpdUGwz+h5G6UBu5b8fbOMyvaTnh0n3490ih8=;PR/k4x+Y7oefI80LqQYTCQ=="
+secured: "gHlAXZzxXN3slLXicSM/1mNIt13+BV9+emviaW4ncPTmyoaDl7pCdqeqAgQpezmYxvb1WJM4kyZBgxHLRda6r0joHvYxLTwHPN6myHALnVML9TTfZ79tPaIbPKVez5bQ4kcmLqDq4TAwg0kUdlmC0z905wYp4ks3Hf1CpIy1gD3PwydWUHVFkk1qHBjhYmlo7JP1oAYVh/RSy3R7vGvQy+ZpFAbCpFuEs7ES6Ibr/y+MVHCbjYscZRTwaIbyfFH2R4S6/hTyJcJAiDQsNQv4JOLEBmRfeSV9wGmjBndlTBtUSJWU0GAMAEWlwg6VmkRUarhzXZW+pqGy0bR4+H7RbhNCnG4ThPQW0UlUvXH50lqptIxFSJfNLHLgnh0LanHQ0809+AIjecmFHsVsSvcMMmEsGmQkyenDqDZ43pQJpJa9ws6j0owsoSMInZeL03IbuMTAM4+Kka2hI7m+rHNXkNgtJ9e8LBsbxWqNpWDiBVGJdM1Rt4jxiSOjznI3lrulsRCCFaZ0cldzFJChgb48gQ==;JJ199nJzYong32RLjCBeSg=="
 ---
 

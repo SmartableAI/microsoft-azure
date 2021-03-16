@@ -326,15 +326,18 @@ related:
         isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
-    publishedDateTime: 2021-03-11T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
+    publishedDateTime: 2021-03-10T17:06:00Z
+    webUrl: "https://www.totaltele.com/508928/Infobip-full-offering-of-Customer-Engagement-and-Service-solutions-now-available-on-Microsoft-Azure"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Total Telecom
+      domain: totaltele.com
     quality: 23
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z

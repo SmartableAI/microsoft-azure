@@ -2,22 +2,26 @@
 category: news
 title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
 excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
-publishedDateTime: 2021-03-11T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/p20122465/infobip-full-offering-of-customer-engagement-and-service-solutions-now-available-on-microsoft-azur"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20122465"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20122465"
+publishedDateTime: 2021-03-10T17:06:00Z
+originalUrl: "https://www.totaltele.com/508928/Infobip-full-offering-of-Customer-Engagement-and-Service-solutions-now-available-on-Microsoft-Azure"
+webUrl: "https://www.totaltele.com/508928/Infobip-full-offering-of-Customer-Engagement-and-Service-solutions-now-available-on-Microsoft-Azure"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Total Telecom
+  domain: totaltele.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -374,6 +378,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "9xXVukMoIB6Qg8fnKa44JL0wL2UdOKczOLNeiwobgDUinaqli38aNacEDMC39JWrIihcepOgKUZ3dFQ6bfpAxQxTwOQhR54GGPZEADJ7esDgvawgiDuHPG/59DVLrqlM1YJO0BI9y1JQCPw9Y5iApbsgZLqOI6Zq/Seu3G+OlkjXKL2J85mIhgiUY3BOqeMWNEbRk5ppRGE8kMR3R6OAEbORjSy2KV3XL54ubv0th2CXeaSxlUcParfg+PHMwqAwbCYZEs7FB/0WrLogu2fgCHUxH27AspN6Mq7sKO3EEih/h3nKZXL5Nv0oYghGs2GsE4K3ZapOvj0dTbFEGeZPdDcJbsDC8DqHdI/9KQk6YSw=;ORxTySMEcTRDRv2n8qHgrA=="
+secured: "g7v+Y3l6w24VkDbBl7srGsxw8Bc/het6ZUA6aKywCXAead1qpB6k6CsBUIJJskKdCzCwNYQ/s7jRemz4d1kq/GxcohObMa7ZT6aounpehZ/Rt9LBpnKZfcG2vdRNgUpP1aVHU4qFAp7gCcWZb8Yhf+rFeUPUVlXRRY4g1zy4MEoBAGw9t2bH32x8nkG9btUmSwc9MnwZ5L5CO8fCHO+95r1o5nPJdRmZlymub3Ciww53ClIezqRSR1r8+mkXN0+SQ0IH9nQJvhMobPCSsAaTjGpKIXqVuMmuzLeCOZ8K9KczUBxl280pdpVjFbRagec/oGP0+fWWLIi97lK9b7N5AwieVQAKwGXqtBTS3bKF9PU=;Mo3PYrETTuzKbc1BwKP2Cw=="
 ---
 
