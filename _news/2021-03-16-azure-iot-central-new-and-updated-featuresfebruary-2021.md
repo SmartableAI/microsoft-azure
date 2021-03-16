@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure IoT Central new and updated features—November 2020"
-excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
-publishedDateTime: 2020-12-11T20:00:17Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
+title: "Azure IoT Central new and updated features—February 2021"
+excerpt: "February updates include device model, API, dashboard, and documentation improvements."
+publishedDateTime: 2021-03-16T18:00:11Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
 type: article
 quality: 84
 heat: -1
@@ -83,10 +83,10 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Azure IoT Central new and updated features—February 2021"
-    excerpt: "February updates include device model, API, dashboard, and documentation improvements."
-    publishedDateTime: 2021-03-16T18:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
+  - title: "Azure IoT Central new and updated features—November 2020"
+    excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
+    publishedDateTime: 2020-12-11T20:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
     type: article
     provider:
       name: Microsoft
@@ -111,6 +111,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KLa/Lurf/o/JsgC6S2Iqr6KZlI93qv08i38evu4+NW/zZKhVWLhdk+jRBrrwkJYXmPSBvgcvYJ5fnu3dTwwYStUfQv72xVSinAwR0HTA6txS0js/Wq+aOscZ27F+jAPD4mr5cDbIBcbsEfRloLXaKUifAbWxoh0fWwc5bJqwSAyGVr/5ga9Be4rpLtuOKbIduXbTd3bLUHNudLjbDjq0IXlfVIK+A7dvhI8tFKg2OB16msXfg5nWOa16dBFVHjf1SZ8YQVE4Ju18nt5Ozw5b0XcVSnOTNyTJkKX7GTwgZj6Bz6SrRxIYybtdOHdrnZdlgSVSxGt/WEZ6TNOZ40x6Nf8ZHka74QIa5qIwsCY2wPg=;/Pf45gZJDmdlmkItnu8tDQ=="
+secured: "HB2FzLZJhG4ZCFDdTdBpM1bXO7ySbDREwgyKeshN1ha1mi+aB5dK2KaU3nJSWlEJIRKi42BXqWOG32ihyvOTYrwUtNWyPNzV6izY2YpNnZ48oONnuPlwtskGCNLRpe36YX3TIMBTmS+rhTLjuE0vm4h6B89jVYMK3j3BwgUSHcWmQw3fp3gXWszb/Qr9A0EAjOEvj9FhrLflwcpxUN0EPTuJ10O1dcivlhVVXAqNuYfNFoNKeQypQI3VaIAoNwNBUuSoYJxKsvSC5vyCbvHZQ3HxdRMrPEpApG/p82O5Z2YLS4aKzeu61S3RPk5eZuuO8NdZUGS79nSOh/VT31DKhnrLQQrbTrfbxd7UkvR/W7w=;hgpUv8wB4q9ypbG/wNFY3Q=="
 ---
 

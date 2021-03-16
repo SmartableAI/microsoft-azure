@@ -91,6 +91,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Central new and updated features—February 2021"
+    excerpt: "February updates include device model, API, dashboard, and documentation improvements."
+    publishedDateTime: 2021-03-16T18:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure IoT Central UI new and updated features—June 2020"
     excerpt: "June 2020 feature updates for Azure IoT Central are now available."
     publishedDateTime: 2020-07-15T23:00:33Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-featur
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-september-2020/"
 type: article
 quality: 104
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
     excerpt: "November updates include IoT Plug and Play support, new pricing tier, a preview of the jobs API, and documentation updates."
     publishedDateTime: 2020-12-11T20:00:17Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-feature-updates-november-2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure IoT Central new and updated features—February 2021"
+    excerpt: "February updates include device model, API, dashboard, and documentation improvements."
+    publishedDateTime: 2021-03-16T18:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-february-2021/"
     type: article
     provider:
       name: Microsoft
