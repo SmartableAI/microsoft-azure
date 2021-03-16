@@ -4,6 +4,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-python-object-oriented-programming.md",
+      "title": "Object-oriented programming in Python",
+      "excerpt": "Learn more about object-oriented programming with this next-steps module in Python.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-object-oriented-programming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 777,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-qsharp-create-first-quantum-development-kit.md",
       "title": "Create your first Q# program by using the Quantum Development Kit",
       "excerpt": "Get started with Q# programming by building a quantum random number generator.",
@@ -1228,48 +1262,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-rust-automated-tests.md",
-      "title": "Write automated tests",
-      "excerpt": "Learn about the types of testing you can do with Rust.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-rust-automated-tests/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/rust-automated-tests/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 5,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/rust-automated-tests-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
