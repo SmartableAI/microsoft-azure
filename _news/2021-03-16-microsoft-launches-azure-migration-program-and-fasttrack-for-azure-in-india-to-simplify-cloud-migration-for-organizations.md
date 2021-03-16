@@ -1,21 +1,26 @@
 ---
 category: news
-title: "Node4 awarded Microsoft Azure Expert MSP status"
-excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
-publishedDateTime: 2021-03-11T10:30:00Z
-originalUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
-webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
+excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
+publishedDateTime: 2021-03-16T05:30:00Z
+originalUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
+webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
 type: article
-quality: 17
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Migration
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -349,6 +354,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 20
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
     excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
     publishedDateTime: 2021-03-12T14:11:00Z
@@ -367,15 +381,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
-  - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
-    excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
-    publishedDateTime: 2021-03-16T05:30:00Z
-    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 9
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
@@ -386,6 +391,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
+secured: "nBTx6RNiOsNykoq1b8pXiYHz4THZnrVA+EcRqTLaXV/AxFBxB47dRy/8E1ZH4Rfd3HpS+48sHY8rHLofYSWGgjsZS4+tj7+ivvP/TAmp3wMIsygyhzy5SGWmAPfwJpzEoAyqj3t24hEHECdG4qrwABuZB16LZMqmqoOEqM2sA4V7ahmPZdZOZ8rUh2vtHV31wnq7CphBUr5TAREyYrdaGg2HFphSMlEwfud9/5ryQhrdK1TDRwSX/d272VFBLkFxbe3gFiHIiU34P/C8OltYR0gTAN9aWlwfF8YdDw9y9+yvrlIGjZL76geXXnSEEsm965YDdVoDfnfITt++6AbgOPM69CgsQyEpFvlEm4jXa7Y=;zRmPMOfC1Q3OlEN3FA7JAw=="
 ---
 

@@ -376,6 +376,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
+  - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
+    excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
+    publishedDateTime: 2021-03-16T05:30:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
 
 secured: "XLRUAOW/35isgMaVdhHFL0XVIwg6I7kdVq6qR+DJAj3tuDVQ126hc+UftAVLHllQdtBv/TOiangaJ/V9kdPKHJlAWA0Yz4+fQ8vrbGuNTSPZm5qMB4g53YgJU5UbOIjkcXRNbWPiAPTAM4XkZ8XB81t1CkaXNx6GQT9XkbUismIxNQjnwNsC8YrPb4rlBlt4Do149wDkSDT92CtbH40r9+T4jGSPtzf/mITOMHoM1A/zZKHh+JVNwLG7uFCuUcxskc+niHnRgq1TeaqILJDzbbIn9JIn1JtC7hu4xptOpetHDYtmsmPTRNa9mO6qJL2fCzJAur0YT+EdvAhNDoctLacLA4y0rfr/P6rSe6QGLnQ=;ywYccUGZbc0gp1xVskmgIA=="
 ---

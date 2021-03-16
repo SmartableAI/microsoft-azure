@@ -370,6 +370,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
+  - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
+    excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
+    publishedDateTime: 2021-03-16T05:30:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
