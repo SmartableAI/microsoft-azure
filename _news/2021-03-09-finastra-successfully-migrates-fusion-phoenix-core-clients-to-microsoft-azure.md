@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
-excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and"
-publishedDateTime: 2021-03-09T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure/article_5f936f97-78b1-5815-ad20-4ca032eb9d7e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure/article_5f936f97-78b1-5815-ad20-4ca032eb9d7e.html"
+excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and credit unions migrated in the past year, this significant milestone means that all Fusion Phoenix bank and credit union customers that have opted for cloud delivery are running in Azure."
+publishedDateTime: 2021-03-09T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-1030164364"
+webUrl: "https://markets.businessinsider.com/news/stocks/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-1030164364"
 type: article
-quality: 14
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -1535,6 +1539,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "1ifr22dwicCzjNPqxgN2qDvohMU4wHUHpSTHkBhkqVg2vPh+XF0zl6T0FTezPXauEAjcwUFv2LrnqLfcyRQt9cD7/MU2NOOJHrHJNQnCipZL5NYL6Nnw3Yym12WtQoXV3Ds/6eBJ2g8tdpEVPEIMAEGib1uhQP6i73ZFV6f1NVroLL4NzkRj7FUkCobt64WuShakKK+GSMPetcwfbZ/Xr7NfNbCTr4BW5+IwwrJfPiopc+IiX2XRI0gUvQdWSJ+PoAzgs6GNyOO3CvAJSF6BdwOsqapHstCm7RhH7G7+8DXqM3i8iN7JTeMtxMSZaNPhHtUVSAk2iBVnUI8H2Aqy3jqRIfi4HCXWts1+9uSYTQA=;P85XXkHWWsvwqtlTasSRQA=="
+secured: "8Xy128+BW7Kst1WaNUOSsS60AtkuWT5J+SCfSsNN8rucKeVDqeKNidrWLPmL3nWiG3OnkCLOluh7bFqr3HC9Bq61Oy2wRSFQP/BSwlAT1DdZrZjLNBmL/iKnn1cBeO4sJO66I+WjVwLGJZOPTX/O6T7m0z6DwbSq92WtsYDMZU5fvlgaRhUFWZT0tmPVAhZyeiuZLO75eyC3HHhB6NUz9orzoHReo9G35IzfRdFX5l12VN+ISEnoBe8+Sg9D1yflwgz28xKHnaB7IsDtp0dqRMX+QzlB7Eqq5eHh7PFzZIGfgKnbo5KNdgNNDS1apL13Gh6NgCg5jNyQnhH7WJctR8NOd6aIOLodzpfl+Eh3Agw=;8E8Ee+/OZjiy/ufHOLxXIQ=="
 ---
 

@@ -672,6 +672,15 @@ related:
         width: 859
         height: 484
         isCached: true
+  - title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
+    excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and credit unions migrated in the past year, this significant milestone means that all Fusion Phoenix bank and credit union customers that have opted for cloud delivery are running in Azure."
+    publishedDateTime: 2021-03-09T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure-1030164364"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "MDM Leader Profisee Announces Integration with Microsoft Azure Data Services"
     excerpt: "As easy to deploy as a native Microsoft app, Profisee's native integration with Azure Data Factory and compatibility with other complimentary Azure services like Azure Purview and Azure Synapse ..."
     publishedDateTime: 2021-02-23T14:23:00Z
@@ -1488,15 +1497,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 16
-  - title: "Finastra successfully migrates Fusion Phoenix core clients to Microsoft Azure"
-    excerpt: "Finastra today announced it has successfully migrated its Fusion Phoenix core banking system customers to Microsoft Azure. With 62 community banks and"
-    publishedDateTime: 2021-03-09T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/finastra-successfully-migrates-fusion-phoenix-core-clients-to-microsoft-azure/article_5f936f97-78b1-5815-ad20-4ca032eb9d7e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
   - title: "Microsoft Cloud Revenue Hit $59.5 Billion In 2020, Higher Than Amazon And Google Combined"
     excerpt: "According to the research data analyzed and published by Comprar Acciones, Microsoft was the top cloud vendor in 2020. Its revenue for the year t"
     publishedDateTime: 2021-02-23T09:20:00Z
