@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2349
+heat: 2369
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://mondrian.mashable.com/2021%252F02%252F27%252F37%252F34d22d34d76c4fdebd70dacf8afe579a.14c2e.jpg%252F1200x630.jpg?signature=f8x70IAL-UlXzvdvnIaNAK_3ul4="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
+    publishedDateTime: 2021-03-02T15:00:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 97
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+        width: 4800
+        height: 2700
         isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
@@ -1066,20 +1082,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
-    publishedDateTime: 2021-03-02T14:14:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-        width: 845
-        height: 475
-        isCached: true
   - title: "Microsoft Releases Azure Attestation into General Availability"
     excerpt: "Microsoft recently announced the general availability of Azure Attestation, a unified solution for remotely verifying the trustworthiness of a platform and the integrity of the binaries running inside it. Azure Assestation service is a part of Microsoft's ..."
     publishedDateTime: 2021-03-02T12:15:00Z
@@ -1205,6 +1207,20 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
         width: 850
         height: 385
+        isCached: true
+  - title: "Microsoft Launches Azure AD External Identities"
+    excerpt: "Microsoft had previewed External Identities back in May 2020 during its Build developer event. It was also one of the Azure AD features highlighted at this month's Ignite event as having reached ..."
+    publishedDateTime: 2021-03-12T17:35:00Z
+    webUrl: "https://rcpmag.com/articles/2021/03/12/microsoft-azure-ad-external-identities.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."

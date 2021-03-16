@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
-excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
-publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+title: "Microsoft Launches Azure AD External Identities"
+excerpt: "Microsoft had previewed External Identities back in May 2020 during its Build developer event. It was also one of the Azure AD features highlighted at this month's Ignite event as having reached ..."
+publishedDateTime: 2021-03-12T17:35:00Z
+originalUrl: "https://rcpmag.com/articles/2021/03/12/microsoft-azure-ad-external-identities.aspx"
+webUrl: "https://rcpmag.com/articles/2021/03/12/microsoft-azure-ad-external-identities.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Redmond Channel Partner
+  domain: rcpmag.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
-    width: 501
-    height: 375
+  - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
+    width: 647
+    height: 450
     isCached: true
 
 related:
@@ -1105,6 +1105,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
+    excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
+    publishedDateTime: 2021-03-02T14:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
+        width: 501
+        height: 375
+        isCached: true
   - title: "Microsoft announces new Azure China data center region in Hebei"
     excerpt: "Microsoft has announced a new Azure data center region in Northern China. Quietly announced during its Ignite conference this week, the China North 3 region will be located in Hebei and be the company’s fifth in the country."
     publishedDateTime: 2021-03-02T17:39:00Z
@@ -1202,20 +1216,6 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
         width: 850
         height: 385
-        isCached: true
-  - title: "Microsoft Launches Azure AD External Identities"
-    excerpt: "Microsoft had previewed External Identities back in May 2020 during its Build developer event. It was also one of the Azure AD features highlighted at this month's Ignite event as having reached ..."
-    publishedDateTime: 2021-03-12T17:35:00Z
-    webUrl: "https://rcpmag.com/articles/2021/03/12/microsoft-azure-ad-external-identities.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 37
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
@@ -1552,6 +1552,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "/is8lOT4KwNkkG2e5vWbtDFJ7tmxF5o9hqxD3LI1Za4ujbSu8WU52K4UfsUKponr4n05rooD4BowJ6+Gw+PbiC/utK5X5mk/657yf9CuqaK4JttQMjAyw1slJ6c2bOh377MYKe1rLZ+pt1w2qBsTrsxo5KxcKhhe9YR4KaBtJye+jR7HnvLhtqfG0FtnMsJ1kww9pqHXx4NzB+YFafS1puCp4Ax9jFqqn4BaQT/uGphFb/18EN8vMZO9XngDH9VTFTzhOgjmYIRKDrQl8hHMKSKq/jK/VG1wJb0eOEJ/Fb/EcZ1h3Cc2lWLjdQOI1d5oay3tC3ttmf+LP8sYwoTTvhA7A7wrTAiQaasbBc46iJgdIV/VuWXPKfN+wU3AthiB3bL4Jog5c1eHc7kS8DjZOR0mu4mq/mDBXWxXQT/vVIsA8w85rYauhadz1au5RFtlI7QJaITfpPazHErcq6pMwrbmEbfwzF2BLT9i3VaDvwgnKLs38NpYIQ9F+ZNQui8V6chGSHRBMeqKY1cvj8q+XA==;hZkd6JKXhuZ/+oDXYLV9eA=="
+secured: "+HwOTXDVz9Bl/hT/vOAUP7f6WHrSGJPqX7sc6pzNh567QM3N0ne+5mU1FPIppZixXRDlF1meCqU3+B07pJQDVMlJ5Yhm5rJMQorjaDK++EBHuE0oHHFQXhgjFvynr9oRRnbT1z1D7x3Au+WAi6JvDkE0cYXcaBpp0dAvXgc+axC14oXrbyh3VzjUSfnpzwT87j+zfHVvopZwgr4gSWog5mzRnnSACsGannydRAuHOXewEk/FZZA8AWhBtcQFi5Xcgr+sU9zE3/6RfLybQxKKuPPEsWnSMPDbHoYbMaShZ1TSSKPBlLAuNWEIbVKlsj+HICJ90KnP/bBT2v2yZAfSmnd3hgjeTCBjlclqtZKmN1w=;UtNH9sR9tVtQg4PxIc8GCg=="
 ---
 

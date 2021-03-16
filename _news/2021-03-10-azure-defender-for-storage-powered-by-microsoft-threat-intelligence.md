@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powere
 webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
 type: article
 quality: 108
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
+  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
+    excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
     excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
     publishedDateTime: 2021-03-15T21:35:00Z

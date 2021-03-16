@@ -2,25 +2,31 @@
 category: news
 title: "Microsoft Azure Percept promises to make edge computing a doddle"
 excerpt: "The platform, announced at Microsoft Ignite, will run alongside Azure Percept Vision and Azure Percept Audio, two bolt-on services that can connect to Azure cloud services such as Azure AI ..."
-publishedDateTime: 2021-03-02T14:14:00Z
-originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+publishedDateTime: 2021-03-02T15:00:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
 type: article
-quality: 37
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-    width: 845
-    height: 475
+  - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+    width: 4800
+    height: 2700
     isCached: true
 
 related:
@@ -1201,6 +1207,20 @@ related:
         width: 850
         height: 385
         isCached: true
+  - title: "Microsoft Launches Azure AD External Identities"
+    excerpt: "Microsoft had previewed External Identities back in May 2020 during its Build developer event. It was also one of the Azure AD features highlighted at this month's Ignite event as having reached ..."
+    publishedDateTime: 2021-03-12T17:35:00Z
+    webUrl: "https://rcpmag.com/articles/2021/03/12/microsoft-azure-ad-external-identities.aspx"
+    type: article
+    provider:
+      name: Redmond Channel Partner
+      domain: rcpmag.com
+    quality: 37
+    images:
+      - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Docker and Microsoft join forces to simplify container projects on Azure"
     excerpt: "Its partnership with Docker dates back to the earliest days of the effort. The collaboration the companies announced today focuses on easing the logistics involved in developing microservices-based applications for cloud environments."
     publishedDateTime: 2020-05-27T20:23:00Z
@@ -1536,6 +1556,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "6R8NjkZT1hXemp8AwMKEWLyNd1TmOsM/tUXFM59SZiM4pUUPyu44KklFmYOO6sDNhOvArKsKh3B2jwSNYd/vP37aeZwJYFAtMrTJYk6K+DvWsKRjDU4S8ZwcTzMobvZDNKa+pA2Ve2ruLe3sS3PK9cVq1k0aWpH1K2qzAadqkq+PiMrJkg5yXXCazNt8auuzgYsxGfaMNNOPsRo1hSyRAfIta4c52CDGdymjMv0/BvlabrZE5bmVh2OdkDTZAGQBxNlKPoV/OSwwm/c73AJmHTilXXY5iPkKSzQlx/LNENkt/WX+XIcdFcz931HM5QE1OIKTXTJTl2mBAjd5c7fyhIVQyrpKh03II6+liMo5jWE=;Nm3b2YFMivtxG/dBg99iiQ=="
+secured: "Toj0OZTQaCFg+V+h5tWnKH/SY1L+ZNCPReCU/IjmpK6p3+cf5csAEHLDkAvhBtvmJH4FKFnMMk36v7RPI/JHIx17k5jqYWSQdzN7BlV4I/Eo+h8nTNqadNpwcurMgXIun/ji26hKVQg0dyKgJcwk0E6xVIlfDxNXF0q26k795OuIs1Pxb3HguuG/JiquCJGSyI4MmephvAhM9DYu85UE4n0uTlE51+St9OmOmSyrnuSdZ6NfBFKzHubTPmqxBgmR5oQo0L9rtwV1rvzBjAkNOnn0ilFLQnw5iREuosesXNNV9LMnLB/jPvkWlHPy+H3FGdMNu9c+FEee5MNESmmkXiosZcNPFNqvwkSzjY9LLw0=;Nej90R0DvhQcq91/z0vfIg=="
 ---
 

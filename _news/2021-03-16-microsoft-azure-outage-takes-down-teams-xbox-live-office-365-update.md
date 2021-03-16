@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
-excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
-publishedDateTime: 2021-03-12T13:10:00Z
-originalUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
-webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
+title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
+excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
+publishedDateTime: 2021-03-15T21:35:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
 type: article
-quality: 24
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
-    width: 300
-    height: 350
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -97,22 +99,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
-    excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
-    publishedDateTime: 2021-03-15T21:35:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 57
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
     excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -316,6 +302,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
+    excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
+    publishedDateTime: 2021-03-12T13:10:00Z
+    webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-11T15:00:00Z
@@ -375,6 +375,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "Tfjr3Go34RICnbdJl8P2cU8pOlmD34hLsydVxxOZ/j4R+6iZ4dcXWpYnU+WWXe8VNj4yykg8AUiHdI3ulL1OPJlg/MDuBuzJ1s/X6WqLCbhmpfOF0wURNHldF6z46L7zO1KyL4xDv6pLHxikXTdLOYAMw8XvP4MjgNbcyYQZ7QbxlkOa96y+26TgPyCvtQslXlFGeJOlWoThNxvdxwmiRksu8xZTMg+bBt71xRHVAy/ShwinZdPkymcHjaUO/uVA0fE0cTQJ38sfatzq/SXq3ss/JE8J1ReVhvcGpBdrAXOKLfaZ/CrknwYzkh7JqRKFp3YRPV2pJf/poCMYhd+mrJTivLKjlrj9PuseFkTKDSM=;oTHuNQ6Ng8eH/JpwgOkGxA=="
+secured: "jvDUisbE6HYMdULmUbDXvDU8l6ERFFdeE+N4VAAjltxZGg/2lF7rBRkZdOuDf3ayJcPCF05fVFE7FqwksWAIFPIQB0aoH7Ly2l27wJ8gLLcbLgy/woKGPrZ4gFdFth+xAhPXX/l4+tBin/OwcbTKSUI/Dxxe6q8OX45S7sxg2gfEuyZUKeABXYjhfd2nRiML0b5QE2CQmI7i6NpjLl5sGPzIONJ3wjFMbhIl469/H9BBGTlgHj7ndH/poYlaObn/rArAjdR+F+I7XlEZEhLCklYF52VRcLeMKjrB6NRmQhiIgn7ZiSH3RZ6rhYhIL1Owo1XQrDVpdUGwz+h5G6UBu5b8fbOMyvaTnh0n3490ih8=;PR/k4x+Y7oefI80LqQYTCQ=="
 ---
 
