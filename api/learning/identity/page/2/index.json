@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-m365-identity-cultural-shift.md",
-      "title": "Enable identity protection in Azure Active Directory",
-      "excerpt": "Learn about Azure Active Directory (AD) Identity Protection and ways to optimize the end-user experience while benefiting security.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-cultural-shift/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 2630,
-        "average": 4.78327
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-microsoft-365-to-enable-a-cultural-shift-toward-secured-identities-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-m365-threat-safeguard.md",
       "title": "Safeguard your environment with Azure Advanced Threat Protection",
       "excerpt": "Learn about the Azure Advanced Threat Protection component of Microsoft Threat Protection.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1840,
-        "average": 4.828261
+        "count": 1841,
+        "average": 4.8283544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -78,6 +35,49 @@
           "url": "https://docs.microsoft.com/learn/achievements/safeguard-your-environment-with-microsoft-azure-advanced-threat-protection-social.png",
           "width": 642,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2034,
+        "average": 4.639135
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -206,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 767,
-            "average": 4.734029
+            "count": 768,
+            "average": 4.734375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -477,8 +477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 52,
-            "average": 4.7884617
+            "count": 53,
+            "average": 4.792453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -563,8 +563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5288,
-            "average": 4.758699
+            "count": 5295,
+            "average": 4.7586403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -606,8 +606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2837,
-            "average": 4.6563272
+            "count": 2838,
+            "average": 4.6564484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -910,8 +910,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 52,
-            "average": 4.7884617
+            "count": 53,
+            "average": 4.792453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1611,6 +1611,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
+      "title": "Create, configure, and manage identities",
+      "excerpt": "Create, configure, and manage identities",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 210,
+        "average": 4.8142858
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-protect-identities-with-aad-idp.md",
       "title": "Protect your identities with Azure AD Identity Protection",
       "excerpt": "Use the advanced detection and remediation of identity-based threats to protect your Azure Active Directory identities and applications from compromise.",
@@ -1618,8 +1661,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 576,
-        "average": 4.7777777
+        "count": 577,
+        "average": 4.778163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1661,8 +1704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
       "length": "PT59M",
       "ratings": {
-        "count": 192,
-        "average": 4.8229165
+        "count": 193,
+        "average": 4.8238344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1704,8 +1747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 6125,
-        "average": 4.673143
+        "count": 6126,
+        "average": 4.6730328
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1779,8 +1822,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
       "length": "PT45M",
       "ratings": {
-        "count": 134,
-        "average": 4.8656716
+        "count": 136,
+        "average": 4.8602943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1815,49 +1858,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
-      "title": "Create, configure, and manage identities",
-      "excerpt": "Create, configure, and manage identities",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 208,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-app-registration.md",
       "title": "Implement app registration",
       "excerpt": "Implement app registration",
@@ -1865,8 +1865,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
       "length": "PT54M",
       "ratings": {
-        "count": 78,
-        "average": 4.717949
+        "count": 80,
+        "average": 4.7125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1908,8 +1908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 142,
-        "average": 4.746479
+        "count": 143,
+        "average": 4.748252
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1951,8 +1951,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 2569,
-        "average": 4.6940446
+        "count": 2570,
+        "average": 4.6941633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1994,8 +1994,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11903,
-        "average": 4.763757
+        "count": 11904,
+        "average": 4.763693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2029,8 +2029,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
       "length": "PT60M",
       "ratings": {
-        "count": 87,
-        "average": 4.8390803
+        "count": 88,
+        "average": 4.8295455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2095,8 +2095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 227,
-            "average": 4.801762
+            "count": 228,
+            "average": 4.7982454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2138,8 +2138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 243,
-            "average": 4.7983537
+            "count": 244,
+            "average": 4.7991805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2224,8 +2224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 56,
-            "average": 4.839286
+            "count": 58,
+            "average": 4.827586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2242,7 +2242,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2268,8 +2268,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 63,
-            "average": 4.825397
+            "count": 65,
+            "average": 4.8153844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2312,8 +2312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 78,
-            "average": 4.717949
+            "count": 80,
+            "average": 4.7125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2397,8 +2397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 56,
-            "average": 4.839286
+            "count": 58,
+            "average": 4.827586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2415,7 +2415,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2441,8 +2441,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 63,
-            "average": 4.825397
+            "count": 65,
+            "average": 4.8153844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2485,8 +2485,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 78,
-            "average": 4.717949
+            "count": 80,
+            "average": 4.7125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2570,8 +2570,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
           "length": "PT24M",
           "ratings": {
-            "count": 227,
-            "average": 4.801762
+            "count": 228,
+            "average": 4.7982454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2613,8 +2613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 243,
-            "average": 4.7983537
+            "count": 244,
+            "average": 4.7991805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2676,8 +2676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 880,
-        "average": 4.764773
+        "count": 881,
+        "average": 4.76504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2719,8 +2719,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
       "length": "PT38M",
       "ratings": {
-        "count": 63,
-        "average": 4.825397
+        "count": 65,
+        "average": 4.8153844
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2763,8 +2763,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
       "length": "PT37M",
       "ratings": {
-        "count": 74,
-        "average": 4.824324
+        "count": 75,
+        "average": 4.826667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2806,8 +2806,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
       "length": "PT24M",
       "ratings": {
-        "count": 56,
-        "average": 4.839286
+        "count": 58,
+        "average": 4.827586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2824,7 +2824,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2850,8 +2850,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
       "length": "PT44M",
       "ratings": {
-        "count": 50,
-        "average": 4.82
+        "count": 51,
+        "average": 4.8235292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2893,8 +2893,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3614,
-        "average": 4.7434974
+        "count": 3615,
+        "average": 4.7435684
       },
       "provider": {
         "name": "Microsoft Learn",

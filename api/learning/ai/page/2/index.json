@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-regression.md",
+      "title": "Predict numeric values with regression",
+      "excerpt": "Use machine learning regression models to predict numeric values. Build multiple variations of linear regression models to estimate things like internet traffic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-regression/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-regression/",
+      "length": "56 mins",
+      "ratings": {
+        "count": 606,
+        "average": 4.6254125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-regression-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Predict numeric values with regression",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-models-with-azure-machine-learning.md",
       "title": "Monitor models with Azure Machine Learning",
       "excerpt": "After a machine learning model has been deployed into production, it's important to understand how it is being used by capturing and viewing telemetry.",
@@ -11,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 343,
-        "average": 4.749271
+        "count": 344,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +99,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
       "length": "PT34M",
       "ratings": {
-        "count": 832,
-        "average": 4.769231
+        "count": 833,
+        "average": 4.769508
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -142,8 +186,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1177,
-        "average": 4.6346645
+        "count": 1178,
+        "average": 4.6341257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -185,8 +229,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1818,
-        "average": 4.6127615
+        "count": 1820,
+        "average": 4.6115384
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +272,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 980,
-        "average": 4.7336736
+        "count": 981,
+        "average": 4.733945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 957,
-        "average": 4.6530824
+        "count": 958,
+        "average": 4.653445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -463,8 +507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 852,
-        "average": 4.7758217
+        "count": 854,
+        "average": 4.7763467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -585,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 755,
-        "average": 4.82649
+        "count": 756,
+        "average": 4.825397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +673,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 658,
-        "average": 4.768997
+        "count": 659,
+        "average": 4.76783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -672,8 +716,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 722,
-        "average": 4.753463
+        "count": 723,
+        "average": 4.7538037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -777,8 +821,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2806,
-            "average": 4.7116895
+            "count": 2808,
+            "average": 4.7118945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -951,8 +995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
           "length": "PT48M",
           "ratings": {
-            "count": 1682,
-            "average": 4.621284
+            "count": 1683,
+            "average": 4.621509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1099,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 725,
-        "average": 4.797241
+        "count": 727,
+        "average": 4.7964234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1091,8 +1135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2806,
-        "average": 4.7116895
+        "count": 2808,
+        "average": 4.7118945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,49 +1346,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-      "title": "Translate speech with the speech service",
-      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 421,
-        "average": 4.695962
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-translate-text-with-translation-service.md",
       "title": "Translate text and speech",
       "excerpt": "Automated translation capabilities in an AI solution enables closer collaboration by removing language barriers.",
@@ -1352,8 +1353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 578,
-        "average": 4.7629757
+        "count": 579,
+        "average": 4.761658
       },
       "provider": {
         "name": "Microsoft Learn",
