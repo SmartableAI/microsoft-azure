@@ -1,23 +1,26 @@
 ---
 category: news
-title: "Microsoft Cloud Revenue Hit $59.5 Billion In 2020, Higher Than Amazon And Google Combined"
-excerpt: "The pandemic assisted to drive cloud infrastructure in 2020 thanks to online games and remote work. According to the research data analyzed and published by Comprar Acciones, Microsoft was the top cloud vendor in 2020. Its revenue for the year totaled $59 ..."
-publishedDateTime: 2021-02-23T18:17:00Z
-originalUrl: "https://www.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
-webUrl: "https://www.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
+title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+publishedDateTime: 2021-03-09T08:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
+webUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
 type: article
-quality: 13
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -495,15 +498,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-    publishedDateTime: 2021-03-09T08:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Public preview: Azure Communication Services interoperability with Microsoft Teams "
     excerpt: " Azure Communication Services is now interoperable with Microsoft Teams in preview, enabling you to leverage a unified offering for both internal and external communication experiences."
     publishedDateTime: 2021-03-02T17:00:13Z
@@ -1541,6 +1535,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft Cloud Revenue Hit $59.5 Billion In 2020, Higher Than Amazon And Google Combined"
+    excerpt: "The pandemic assisted to drive cloud infrastructure in 2020 thanks to online games and remote work. According to the research data analyzed and published by Comprar Acciones, Microsoft was the top cloud vendor in 2020. Its revenue for the year totaled $59 ..."
+    publishedDateTime: 2021-02-23T18:17:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2102/S00255/microsoft-cloud-revenue-hit-595-billion-in-2020-higher-than-amazon-and-google-combined.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 13
   - title: "Strata Identity Enables Organizations to Migrate Applications to the Cloud and Unify Identity Management with Microsoft Azure Active Directory"
     excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Strata, the distributed multi-cloud identity orchestration company, today announced at Microsoft Ignite that its Maverics Identity Orchestrator platform for ..."
     publishedDateTime: 2021-03-04T14:05:00Z
@@ -1560,6 +1565,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "LSMULQOp01SCWgpBLhfU34htsZW5KvR8F8pnfGfQSrSDxYTgdW1Tz60gxCYxK9TGLevh3mXU0wPJS/Vbwxx7bJrE85y/uEZLF75LEw6HHwY2XXZI9X3uEe0iAekieW611PcdmrWb+llgY9BcuP/bJKYizbMHBEM6sF+8p3hHi2Ykgo+ezm4q3CNobnB0dyNIu6kPlFTiZxSihjIjmh1WxYvY2niaTvakXj8GhMR0K1E6/ZCOmHewEQo5rXzDRp7nRuYzeNvPUql1rvVyWFsWh3yKwnYFwJRXLGinKek+5PO+K2PyDtqr+zBeWsEppXUlIlrZTI75GPUTREx1R7zsos2pFZC5eqjojtiAaDOv1cw=;N6vEhP/JICyLnYaafFHZyw=="
+secured: "ciN/VRwkZ2n6puoN33xP/lnbIvXTCI9uJK5eAl2IzcnYxd9jjEgENQUhFmeI2icx7oaaG5VdYZp5Tf8HvGh5oSGtwGYpazZ3zcSFlVGZY4cZaF4EGTJRWagOJ4iUJNoUTuEDw/Ol/w3N5f6AdDCJazdcHjcoCl8yXoZXJmJcIkfCJxKr7jvGpKj4M54cyD8mNikjkOmn2jLUGQG86zgShXxz/CTOn3jK3lRD+uY5kqGYqwn9Aul7As+p+j0AhOPrM4FIhTJLDYP+LWY5thJwc3RUTQ4ZXmP5v5ByKYrfb8QUdSuMhaC+NtoB4sAgPtEdUr3YzkEHJcPwt4A8qY3U/dT35N4l2G3qh0EPPGctB5k=;+4jwWcCEQHaeQCLQFtfjBw=="
 ---
 

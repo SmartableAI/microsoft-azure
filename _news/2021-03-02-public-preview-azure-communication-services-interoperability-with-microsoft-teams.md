@@ -497,6 +497,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-09T08:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-1030162367"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Microsoft boosts UK cloud computing with Azure launches"
     excerpt: "Microsoft has launched ten new cloud computing services for its UK Azure regions, the company has confirmed in a blog post. Among the services are three new cybersecurity tools which, according to Microsoft,"
     publishedDateTime: 2020-05-26T11:30:00Z
