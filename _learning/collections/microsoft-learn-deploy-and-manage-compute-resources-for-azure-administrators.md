@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy and configure Azure compute resources and prepare 
 type: collection
 price: Free
 length: PT11H15M
-heat: 68
+heat: 73
 
 provider:
   name: Microsoft Learn

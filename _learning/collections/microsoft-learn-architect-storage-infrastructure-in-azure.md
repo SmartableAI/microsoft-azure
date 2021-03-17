@@ -4,7 +4,7 @@ excerpt: "Learn how to architect storage solutions for your applications in Azur
 type: collection
 price: Free
 length: PT6H7M
-heat: 78
+heat: 87
 
 provider:
   name: Microsoft Learn
