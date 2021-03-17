@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-fo
 webUrl: "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/"
 type: article
 quality: 114
-heat: 474
+heat: 494
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 105
+  - title: "Azure Monitor SQL insights for Azure SQL in public preview "
+    excerpt: "Get a single monitoring experience for all your cloud-based SQL deployments with Azure Monitor SQL insights "
+    publishedDateTime: 2021-03-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-sql-insights-for-azure-sql-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Public preview: At scale discovery and assessment for SQL Server migration to Azure SQL"
     excerpt: "Azure Migrate now has unified discovery and assessment for SQL Server natively within the Azure Migrate experience. "
     publishedDateTime: 2021-03-02T17:00:23Z

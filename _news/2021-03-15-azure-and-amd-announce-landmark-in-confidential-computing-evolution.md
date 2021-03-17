@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/azure-and-amd-enable-lift-and-shi
 webUrl: "https://azure.microsoft.com/blog/azure-and-amd-enable-lift-and-shift-confidential-computing/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - Azure
+
+related:
+  - title: "Limited preview: Make workloads on AMD-backed virtual machines confidential without recompiling code"
+    excerpt: "Azure and AMD announce landmark in confidential computing evolution -- it is now even easier to extend your protection of data at rest and data in transit to protect data in use.  "
+    publishedDateTime: 2021-03-17T16:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/limited-preview-make-workloads-on-amdbacked-virtual-machines-confidential-without-recompiling-code/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
 
 secured: "ea41v6N2hh8pDEq251DcD/HNzIznmxsiuTHn4ytwcRbyXpZc6ycMthwpmwQ1MbTh17MVT1QwVc5FMX8qBv6bFdfGrvR4xVVpukoMe+1cp/f3mKUg+J+rBzJkuKA5S0GJLvQjP8XXjUtykQGoPWf9SZCtAVz7je/V2o5CjXX2XmTUnJHmBqpK6JKh6S6FSUQ1ong/p55HutV6HLXkSOEcLGTDq+9sjoVOug+ev9zaxf34EUH+Ipk4qQqG47YRTregJg/duWV1lXeXe95bbZvroVBg+GFkzNt7IaMhqBi6nPU5Bzg1GiVVxfvrj9fqh3kTzSi9OGYM9WnvYZJSwKBiE8cNvoeYF7uj09PVnC4D/v0=;e3xW61CdV4jpvelrNfCmUA=="
 ---

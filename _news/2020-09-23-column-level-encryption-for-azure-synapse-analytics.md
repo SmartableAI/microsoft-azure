@@ -103,6 +103,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
+  - title: "Limited-time free quantities offer for Azure Synapse Analytics"
+    excerpt: "Customers with qualifying subscription types can now try the new serverless SQL pool and Apache Spark pool resources in Azure Synapse Analytics using free quantities until July 31, 2021. \n"
+    publishedDateTime: 2021-03-17T10:00:23Z
+    webUrl: "https://azure.microsoft.com/blog/limited-time-free-quantities-offer-for-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "COPY command now generally available in Azure Synapse Analytics"
     excerpt: "The COPY command can now automatically parse your files to calculate file splits and can evenly distribute data chunks across the Synapse SQL compute nodes for parallel ingestion. "
     publishedDateTime: 2020-09-23T16:00:13Z

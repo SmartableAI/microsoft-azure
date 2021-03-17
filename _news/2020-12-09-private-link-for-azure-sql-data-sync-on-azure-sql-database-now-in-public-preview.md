@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 116
+  - title: "Machine Learning Services on Azure SQL Managed Instance now generally available"
+    excerpt: "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning."
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 112
   - title: "Azure Data Share snapshot sharing for SQL Database and Synapse generally available"
     excerpt: "You can now share structured data stored in relational databases and data warehouse easily and securely between internal departments, with external partners, vendors or customers for collaboration."
     publishedDateTime: 2020-12-09T17:00:19Z

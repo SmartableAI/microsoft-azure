@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-21-azure-site-recovery-update-rollup-53-is-now-available-january-2021.md",
+      "title": "Azure Site Recovery update rollup 53 is now available - January 2021",
+      "excerpt": "The latest Azure Site Recovery update provides provides fixes, updated Linux support for disaster recovery of Azure VMs, VMware VMs, and physical servers, and download links for Site Recovery components.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/site-recovery-update-rollup-53-january-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:02:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-app-service-authentication-portal-experience-is-now-in-public-preview.md",
+      "title": "App Service Authentication portal experience is now in public preview",
+      "excerpt": "A new version of the App Service Authentication/Authorization portal experience is now in preview.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/app-service-authentication-portal-experience-is-now-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/57e5a3a7-6c89-438a-bd13-712987f17971.jpg",
+          "width": 770,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:02:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available.md",
+      "title": "Changes in Azure Monitor Logs for the AzureDiagnostics table is now available",
+      "excerpt": "Azure Monitor Logs will now allow more than 500 dimensions to be collected to the AzureDiagnostics table by introducing an \"overflow\" column.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/changes-in-azure-monitor-logs-for-the-azurediagnostics-table-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:01:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service.md",
       "title": "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service",
       "excerpt": "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface",
@@ -1031,134 +1169,6 @@
       ],
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-azure-automation-is-now-available-in-germany-west-central.md",
-      "title": "Azure Automation is now available in Germany West Central",
-      "excerpt": "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-automation-in-germany-west-central-region/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T11:01:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-public-preview-support-of-azure-container-registry-across-availability-zones.md",
-      "title": "Public preview: Support of Azure Container Registry across Availability Zones",
-      "excerpt": "Announcing the public preview support of Azure Container Registry across Availability Zones",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-support-of-azure-container-registry-across-availability-zones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T09:00:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-crowdstrike-releases-free-azure-security-tool-after-failed-hack.md",
-      "title": "CrowdStrike releases free Azure security tool after failed hack",
-      "excerpt": "... was notified by Microsoft that threat actors had attempted to read the company's emails through compromised by Microsoft Azure credentials. Earlier this month, it was discovered that the SolarWinds network management company suffered a cyberattack ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2020/12/25/crowdstrike-header.jpg",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/crowdstrike-releases-free-azure-security-tool-after-failed-hack/amp/",
-      "publishedDateTime": "2020-12-25T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

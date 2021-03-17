@@ -33,6 +33,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 116
+  - title: "Machine Learning Services on Azure SQL Managed Instance now generally available"
+    excerpt: "Use machine learning capabilities on a Managed Instance of Azure SQL Database for ease of moving your data, packages, and models to a cloud ready environment fully configured for machine learning."
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/machine-learning-services-on-azure-sql-managed-instance-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 112
   - title: "Private link for Azure SQL Data Sync on Azure SQL Database now in public preview"
     excerpt: "Private link enables SQL Data Sync users to choose a service managed private endpoint for the sync service to securely connect to member and hub databases during data synchronization."
     publishedDateTime: 2020-12-09T17:00:17Z

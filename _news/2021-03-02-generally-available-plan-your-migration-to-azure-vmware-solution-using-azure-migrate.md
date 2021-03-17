@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
+  - title: "General availability: Dynamic data masking granular permissions for Azure SQL and Azure Synapse Analytics "
+    excerpt: "Control who can access your SQL data by using dynamic data masking granular permission on your Azure SQL Database, Azure Synapse Analytics, and Azure SQL Managed Instance."
+    publishedDateTime: 2021-03-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-dynamic-data-masking-granular-permissions-for-azure-sql-and-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
   - title: "Log Analytics Agent for Windows August 2020 release is now available"
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z

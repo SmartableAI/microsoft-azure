@@ -109,6 +109,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
+  - title: "Limited-time free quantities offer for Azure Synapse Analytics"
+    excerpt: "Customers with qualifying subscription types can now try the new serverless SQL pool and Apache Spark pool resources in Azure Synapse Analytics using free quantities until July 31, 2021. \n"
+    publishedDateTime: 2021-03-17T10:00:23Z
+    webUrl: "https://azure.microsoft.com/blog/limited-time-free-quantities-offer-for-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Column-level encryption for Azure Synapse Analytics"
     excerpt: "Azure Synapse Analytics already provides a breadth of options that can be used to handle sensitive data in a secure manner—we are expanding that support with the introduction of Column Level Encryption (CLE)."
     publishedDateTime: 2020-09-23T16:00:13Z

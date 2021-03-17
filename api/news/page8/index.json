@@ -2,6 +2,155 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-19-azure-key-vault-event-grid-integration-is-now-available.md",
+      "title": "Azure Key Vault Event Grid integration is now available",
+      "excerpt": "Azure Key Vault is now an events publisher with Azure Event Grid, enabling developers to subscribe to events about keys, certificates, and secrets changes.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-key-vault-event-grid-integration-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T09:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security",
+        "Integration"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-solving-iot-device-security-at-scale-through-standards.md",
+      "title": "Solving IoT device security at scale through standards",
+      "excerpt": "Edge Compute Node protection profile (ECN PP)—now available—guides you to engineer, claim, evaluate, and consume device security for IoT.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/solving-iot-device-security-at-scale-through-standards/",
+      "originalUrl": "https://azure.microsoft.com/blog/solving-iot-device-security-at-scale-through-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5abfdf96-d1fa-4feb-b585-3858778f00c8.png",
+          "width": 1024,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-19T01:00:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-azure-defender-for-iot-enters-public-preview.md",
+      "title": "Azure Defender for IoT enters public preview",
+      "excerpt": "Azure Defender for IoT can help companies keep track of IoT/OT networks without having to install anything on their smart devices and industrial equipment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/azure-defender-for-iot-enters-public-preview/",
+      "originalUrl": "https://www.zdnet.com/article/azure-defender-for-iot-enters-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/16/0c102ca5-e7e5-42a8-99b8-06e768e26bea/azure-defender-iot.png",
+          "width": 999,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-defender-for-iot-enters-public-preview/",
+      "publishedDateTime": "2020-10-16T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-sql-server-on-virtual-machines-machine-learning-with-microsoft-r-open-402-now-available.md",
       "title": "SQL Server on Virtual Machines: Machine Learning with Microsoft R Open 4.0.2 now available",
       "excerpt": "The latest update for Microsoft R Open 4.0.2 (downloadable for Windows, Mac, and Linux platforms) includes improvement to the performance of the merge function and adds an option to better handle zero-length arguments to the paste and paste0 functions.",
@@ -1027,152 +1176,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece.md",
-      "title": "Microsoft plans to establish new cloud datacenter region in Greece",
-      "excerpt": "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/microsoft-plans-to-establish-new-cloud-datacenter-region-in-greece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T10:29:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-dark-theme-is-now-available-for-the-azure-mobile-app.md",
-      "title": "Dark theme is now available for the Azure mobile app",
-      "excerpt": "You can choose either dark or light for your mobile app experience.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/dark-theme-is-now-available-for-the-azure-mobile-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/1575b15e-a4e1-4f2e-85e3-f5636e2e3fab.png",
-          "width": 980,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T08:36:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Mobile"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-enabling-resilient-devops-practices-with-code-to-cloud-automation.md",
-      "title": "Enabling resilient DevOps practices with code to cloud automation",
-      "excerpt": "At Microsoft Ignite we announced new GitHub Actions for Azure, which we added to our growing catalogue of Azure and GitHub integrations, with more to come soon.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/enabling-resilient-devops-practices-with-code-to-cloud-automation/",
-      "originalUrl": "https://azure.microsoft.com/blog/enabling-resilient-devops-practices-with-code-to-cloud-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/385a8bf1-35dd-494e-af1b-eea7092fb5fa.png",
-          "width": 983,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T02:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps"
       ]
     }
   ],

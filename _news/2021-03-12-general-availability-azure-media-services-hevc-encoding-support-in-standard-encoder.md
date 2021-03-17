@@ -172,6 +172,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
+    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: App Service Managed Certificates now supports apex domains"
+    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
+    publishedDateTime: 2021-03-17T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z

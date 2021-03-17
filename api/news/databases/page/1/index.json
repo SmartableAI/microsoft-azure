@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-long-term-backup-retention-ltr-for-azure-sql-managed-instance-in-public-preview.md",
+      "title": "Long-term backup retention (LTR) for Azure SQL Managed Instance in public preview",
+      "excerpt": "Configure long-term backup retention for SQL Managed Instance databases and retain database backups beyond the 35 days provided by Azure SQL Managed Instance automated backups, for up to 10 years. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/longterm-backup-retention-ltr-for-azure-sql-managed-instance-in-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/longterm-backup-retention-ltr-for-azure-sql-managed-instance-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T09:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-our-commitment-to-expand-azure-availability-zones-to-more-regions.md",
+      "title": "Our commitment to expand Azure Availability Zones to more regions",
+      "excerpt": "The cloud continues to play a critical role in our everyday lives. Our customers range from classrooms and small businesses to critical life and safety services and Fortune 500 companies.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/our-commitment-to-expand-azure-availability-zones-to-more-regions/",
+      "originalUrl": "https://azure.microsoft.com/blog/our-commitment-to-expand-azure-availability-zones-to-more-regions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T02:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available.md",
       "title": "Azure SQL auditing to Log Analytics and Event Hub are now generally available",
       "excerpt": "Auditing for Azure SQL Database and Azure Synapse Analytics to Log Analytics and Event Hub are now generally available, allowing the centralization of SQL audit logs into a single go-to-location.",
@@ -10,7 +96,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 258,
+      "heat": 278,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -98,7 +184,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/advance-notifications-for-azure-sql-database-now-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 474,
+      "heat": 494,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -454,7 +540,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/machine-learning-on-azure-sql-managed-instance-now-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 316,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1037,7 +1123,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/major-performance-improvements-for-azure-sql-managed-instances/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1220,102 +1306,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-10T13:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-09-08-view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension.md",
-      "title": "View your Azure Cache for Redis data in new Visual Studio Code extension",
-      "excerpt": "Azure Cache for Redis is an in-memory data store that is used to power fast, scalable applications. Now in preview, you can access all the caches under your Azure subscriptions and view their data with the new Azure Cache for Redis Visual Studio Code extension.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
-      "originalUrl": "https://azure.microsoft.com/blog/view-your-azure-cache-for-redis-data-in-new-visual-studio-code-extension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/96dd25a6-f623-45bd-8863-ac0049eaea9d.jpg",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-08T01:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-09-02-new-regions-in-brazil-southeast-for-azure-database-for-mysql.md",
-      "title": "New regions in Brazil Southeast for Azure Database for MySQL",
-      "excerpt": "Receive the best in class experience for managed open source database offerings in the Brazil Southeast region. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/new-regions-in-brazil-southeast-for-azure-database-for-mysql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-02T09:00:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

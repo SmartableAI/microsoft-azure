@@ -42,6 +42,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 105
+  - title: "Azure Monitor SQL insights for Azure SQL in public preview "
+    excerpt: "Get a single monitoring experience for all your cloud-based SQL deployments with Azure Monitor SQL insights "
+    publishedDateTime: 2021-03-17T16:00:24Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-sql-insights-for-azure-sql-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "Log Replay Service for Azure SQL Managed Instance in public preview"
     excerpt: "Log replay service enables continuous replication of SQL Server data to SQL Managed Instance in the cloud, the easier orchestration of workload functions, and pre-migration performance testing through a fully customizable experience."
     publishedDateTime: 2021-02-17T17:00:26Z
