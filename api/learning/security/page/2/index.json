@@ -4,6 +4,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-sentinel.md",
+      "title": "Introduction to Azure Sentinel",
+      "excerpt": "Get familiar with Azure Sentinel, a cloud-native, security information and event management (SIEM) service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 407,
+        "average": 4.7542996
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-with-data-kql.md",
       "title": "Work with data in Azure Sentinel using Kusto Query Language",
       "excerpt": "Work with data in Azure Sentinel using Kusto Query Language",
@@ -141,8 +176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-azure-assets-to-azure-defender/",
       "length": "PT35M",
       "ratings": {
-        "count": 60,
-        "average": 4.8333335
+        "count": 61,
+        "average": 4.836066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +262,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 228,
-        "average": 4.7982454
+        "count": 229,
+        "average": 4.7991266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -422,8 +457,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/",
       "length": "PT44M",
       "ratings": {
-        "count": 57,
-        "average": 4.8245616
+        "count": 58,
+        "average": 4.827586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -636,8 +671,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
       "length": "PT57M",
       "ratings": {
-        "count": 74,
-        "average": 4.864865
+        "count": 75,
+        "average": 4.866667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1272,8 +1307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2838,
-        "average": 4.6564484
+        "count": 2839,
+        "average": 4.656217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1466,49 +1501,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/incident-management-sentinel-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
-      "title": "Hunt for threats using notebooks in Azure Sentinel",
-      "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 13,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
