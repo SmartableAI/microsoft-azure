@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 464
+heat: 484
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
     excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
     publishedDateTime: 2021-02-08T18:02:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Media Services introduces new security features"
+    excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
+    publishedDateTime: 2021-03-16T23:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
     type: article
     provider:
       name: Microsoft

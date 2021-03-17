@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
-excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
-publishedDateTime: 2021-03-12T20:19:26Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
+title: "General availability: Media Services introduces new security features"
+excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
+publishedDateTime: 2021-03-16T23:00:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
+webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Security
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -145,15 +146,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "General availability: Media Services introduces new security features"
-    excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
-    publishedDateTime: 2021-03-16T23:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
     excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
     publishedDateTime: 2021-02-22T16:50:34Z
@@ -172,6 +164,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
+    excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
+    publishedDateTime: 2021-03-12T20:19:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-media-services-hevc-encoding-support-in-standard-encoder/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z
@@ -209,6 +210,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "8VuxO4ZzpiNCUz9G50i7m7bn53QLW/OLs4pEtQ8d1jrVo9YoQ5s99z6hJkLY8p18JgJHBvN8kL+Tg9eJyNrwiPLTmeetnKdxljDKELjD376VuvTFZVpKHyJo0Lpgiwqmwe2HI2PiMrXLMkMrZNZgw3Io/IydjQuwSGovFzg/HDOY8Qx+4DzEWYNSqNvbgFn2uLisHMcdEmBJ9ElmgqLLboNNilwTnOU4Lx1BfBnVAZ5SLCKJ1w4oUjmQnTzU9swXz0ZkKvoBUyydLyEwoTbdQ1YY62g0PtG/RWdkpm9JHFeBdEjiHMULNBWRKONXpDownGRQTtVld93kIvNgHMeXc/ZpLiSim1vj5tsndgiPJTk=;tqoepQycyzWsunZZhhxJIw=="
+secured: "ufXsSLi2FufGQCET3va2JyCZAbhWwkhZGn+7cnW+R7yFwiTtyKg5fJSrLgeR3JzQuvxRHR+RH3diVQ9yryZ4Slq8GSdtEwhcRDBPpf6cZL6fqTAk55KE7h6IKqjNQrBSPquVe0upZ42k+FzU//3mnHypSjDJWYTykcprNNEjQaag49gXQ6lp1umQMVb6YC4SssDRXlwoiGFjyjiC88RbK7fDs29XVWc70acJDoJ4zeR6H1fnW0Ca/I2H6ckEikX7TCD2OM1HsON6wdzS7a1lT6CG5TvoQ+JHOtnUbmXauGuqwqKGcXWr7uRicLE3BSz1bIV3ElQPLa/aJGmZIZjqV0WbpzkZbRmp9jozjBSLQtM=;IZ4SQvo3OtA+4+GI8rsN8w=="
 ---
 

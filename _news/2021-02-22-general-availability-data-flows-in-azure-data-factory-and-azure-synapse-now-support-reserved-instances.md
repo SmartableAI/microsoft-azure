@@ -146,6 +146,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Media Services introduces new security features"
+    excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
+    publishedDateTime: 2021-03-16T23:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z

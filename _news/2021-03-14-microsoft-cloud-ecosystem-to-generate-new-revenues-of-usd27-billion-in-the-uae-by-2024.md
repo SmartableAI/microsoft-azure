@@ -277,6 +277,20 @@ related:
         width: 490
         height: 360
         isCached: true
+  - title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
+    excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
+    publishedDateTime: 2021-03-16T23:52:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/16/azure-ad-outage.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
     excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
     publishedDateTime: 2021-03-10T12:37:00Z

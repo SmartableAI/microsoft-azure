@@ -137,6 +137,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Media Services introduces new security features"
+    excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
+    publishedDateTime: 2021-03-16T23:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
     excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
     publishedDateTime: 2021-02-22T16:50:34Z

@@ -1,22 +1,27 @@
 ---
 category: news
-title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
-publishedDateTime: 2021-03-10T12:37:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
+excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
+publishedDateTime: 2021-03-16T23:52:00Z
+originalUrl: "https://redmondmag.com/articles/2021/03/16/azure-ad-outage.aspx"
+webUrl: "https://redmondmag.com/articles/2021/03/16/azure-ad-outage.aspx"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
@@ -270,20 +275,6 @@ related:
         width: 490
         height: 360
         isCached: true
-  - title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
-    excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
-    publishedDateTime: 2021-03-16T23:52:00Z
-    webUrl: "https://redmondmag.com/articles/2021/03/16/azure-ad-outage.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 37
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
     excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
     publishedDateTime: 2021-03-14T07:56:00Z
@@ -300,6 +291,15 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+    publishedDateTime: 2021-03-10T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -433,6 +433,6 @@ related:
       domain: morningstar.com
     quality: 5
 
-secured: "B33etrWerAm4yIT9lUbmWFtm5Du3zXi7bPhA+0paLl9JYwykMHk7VFmJ0P8BBdHuFnYuB9VzptNlPEUVDWkV8FBRoiQWEygQHnXS54S1Hs8g1T6G/ps4prE81Eg5L/HsPrgfKRuAvEGZshXTCITvQdhSnsWDS/PKlRCB1ETEG5L9wa/38AcxtC+TMb8c7gcGnPJirYhPdIJ9HQrotAMGytDotA12uz9jcns2a/MZhLvgYXR0ubiAlMEbxQ8rxnxTN797oDqEaYZot5Jz/aiA3lauuefrEPVehFp9KkfrkCKuTHDNW47T8eDMSyHzTSl4bVTsM3kD2Alt45xUfwjKLIHqK5pMdvAyX1FED+9nwSU=;IJ9kaztYyaHG1oMH2QZP0Q=="
+secured: "RzmPKhcNrY0fGOWpluC8tiIxNZ2C5fRhRnDlqh3d3RixeaJIQZiONP+u8dkr4z+/DAK6JqIwhX6ugJ98qOsZBELCdiN1oDfSP2JFZM0gDMvmYFJ6kkA/DUtjXDKdCFQ7Y3hXEFmOQ1OAu7yDSgmjwQL7IoE6qoPCqjrXseJRpzieH48oT5XuHy5Dnlk2I+5xGBXakpu/wKTRRMRngKOGq2HShHv+3r6YhwtKRY180gb+fQGHNJYazk49CexV4V5f1H/3cdgr704g2+iyYEAfe9QAaJ/wI36XMCeikX9OhOsTjPNcPm/ndulYb9Zmv/wIfoZAHC814wpzKYGT/uEDaYUFgTXtS05UDQJYLNzALbk=;Oz16wwItJ7XfajrZZMwlWA=="
 ---
 
