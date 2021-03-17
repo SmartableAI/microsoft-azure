@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Azure
+  - Management Tools
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/capture-page-load-times-application-insights-social.png

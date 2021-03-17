@@ -28,6 +28,7 @@ topics:
   - Containers
   - Mobile
   - Management Tools
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/aspnet-logging-social.png
