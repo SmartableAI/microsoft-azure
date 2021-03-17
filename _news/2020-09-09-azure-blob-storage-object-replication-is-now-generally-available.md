@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 519
+heat: 539
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
     excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
     publishedDateTime: 2021-03-11T00:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Azure Storage Explorer v1.18.0 is now generally available"
+    excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
+    publishedDateTime: 2021-03-17T15:24:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
     type: article
     provider:
       name: Microsoft

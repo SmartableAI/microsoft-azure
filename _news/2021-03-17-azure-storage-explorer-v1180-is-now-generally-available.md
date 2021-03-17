@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Remote Rendering is now generally available "
-excerpt: "Build immersive mixed reality experiences with Azure Remote Rendering, now generally available. Use it to enable high fidelity 3D visualization of objects and view models with a billion or more polygons without decimation. "
-publishedDateTime: 2021-03-02T17:00:25Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azureremoterenderingga/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azureremoterenderingga/"
+title: "Azure Storage Explorer v1.18.0 is now generally available"
+excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
+publishedDateTime: 2021-03-17T15:24:29Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -62,15 +63,6 @@ related:
     excerpt: "Routing Preference for Azure Storage provide the flexibility to optimize traffic between clients external to Azure and your storage account for premium network reliability and performance over the Microsoft global network or for cost efficiency using the transit ISP network. You can now also publish"
     publishedDateTime: 2021-03-11T00:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/routing-preferences-azure-storage-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure Storage Explorer v1.18.0 is now generally available"
-    excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
-    publishedDateTime: 2021-03-17T15:24:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
     type: article
     provider:
       name: Microsoft
@@ -153,6 +145,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Remote Rendering is now generally available "
+    excerpt: "Build immersive mixed reality experiences with Azure Remote Rendering, now generally available. Use it to enable high fidelity 3D visualization of objects and view models with a billion or more polygons without decimation. "
+    publishedDateTime: 2021-03-02T17:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azureremoterenderingga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "User-initiated failover for application fault resiliency in Azure SQL Managed Instance is now generally available"
     excerpt: "Test the impact of automatic failover operations during planned or unplanned events before deployment to production by manually initiating automatic failover"
     publishedDateTime: 2020-09-02T16:00:05Z
@@ -226,6 +227,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "F8l4XJYqRzIdDtP+uVaoCM7/MU6W/M3UR5qz3qPzvG5f8/1qsofKrkwhMQdxa2N1W2/InelGpUY4pvqYMf+jzGzoGCEh/BrgHOFN7n/uiSNTjJ/9INnB1kL40teEIG7hoi+5HvHWMYqgjPEFD3hx8i7aQxLt7aTo4iEWS9zbzGxeiQm7XzApJ0T8iSr4HPFsUG7s51rErFZ4+WhF+GX6vGTsgHVzpQrnWGLcfbA//yIHuLwpK5X3L4o6lXYStG4HK+mm+keLgxtNSqsWkRn4zEC8C72+s3LHVgJLsUgwbJ7jo4td4L4zCEskN1eEpxaWlAbVlgOYtxMsmSeHOweBth4VjsOvUZhMsK99d4dkLHY=;Sat4IY6V+R4dM1ChifRnWA=="
+secured: "o75BuxlM9QFpPxR2VLfbDFnigCTuBAF6boUZZ3xDRyZXASSrx17hUvq8CMPdwSgwAiKRWdDAkD8WN2gwyaL/nVgvr1UYDJLso21ifx/6tHnvGUt5Ufnsgm2Ob1dnSReaQCzyeEy9E1BiU5G++mSKYalRMDklV0w73JSBGbYtAlWQoEvQMIS/NbuvIOkcEodbBArTjZ+CmjAJv+LQ7mc1DDCa6X5T7YTwEPXvR5YzWyEmD6Wp6y68OaGX2RFJWQt3thP5VmzroVQpztjyzlR00IoIXpvS9vq0UnlvXl2hs2T54/i0p4+5v2x7hRf7U1hh64wgAzOfN1iTHuFahTJj0aRIVDXC+2/+YlHWw6BFzZs=;tVwmkTHpfyGjYBTb2PYpsw=="
 ---
 

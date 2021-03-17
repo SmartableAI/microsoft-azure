@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Storage Explorer v1.18.0 is now generally available"
+    excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
+    publishedDateTime: 2021-03-17T15:24:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z
