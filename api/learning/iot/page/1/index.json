@@ -4,6 +4,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
+      "title": "React to state changes in your Azure services by using Event Grid",
+      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 448,
+        "average": 4.582589
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "IoT",
+        "Blockchain"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -34,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 38229,
-            "average": 4.7850847
+            "count": 38270,
+            "average": 4.7851057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 5612,
-            "average": 4.777263
+            "count": 5616,
+            "average": 4.7774215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4335,
-            "average": 4.7188005
+            "count": 4340,
+            "average": 4.7191243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 3827,
-            "average": 4.759603
+            "count": 3832,
+            "average": 4.7599163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -232,8 +277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/",
       "length": "PT25M",
       "ratings": {
-        "count": 4558,
-        "average": 4.7827992
+        "count": 4566,
+        "average": 4.782523
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -275,8 +320,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 3431,
-        "average": 4.7717867
+        "count": 3436,
+        "average": 4.771537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,8 +474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41178,
-            "average": 4.7171063
+            "count": 41179,
+            "average": 4.717113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 616,
-            "average": 4.626623
+            "count": 617,
+            "average": 4.6272287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -638,8 +683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6236,
-            "average": 4.73653
+            "count": 6238,
+            "average": 4.736614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -681,8 +726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1642,
-            "average": 4.6680875
+            "count": 1643,
+            "average": 4.6682897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -724,8 +769,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1203,
-            "average": 4.688279
+            "count": 1204,
+            "average": 4.688538
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -805,8 +850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 7989,
-            "average": 4.657404
+            "count": 7990,
+            "average": 4.657447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -888,8 +933,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3713,
-            "average": 4.5995154
+            "count": 3715,
+            "average": 4.5994616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1008,8 +1053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3713,
-            "average": 4.5995154
+            "count": 3715,
+            "average": 4.5994616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1115,8 +1160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2261,
-            "average": 4.4573197
+            "count": 2262,
+            "average": 4.4575596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1230,8 +1275,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1642,
-            "average": 4.6680875
+            "count": 1643,
+            "average": 4.6682897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1627,8 +1672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
           "length": "PT28M",
           "ratings": {
-            "count": 1758,
-            "average": 4.7229805
+            "count": 1759,
+            "average": 4.7231383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2074,8 +2119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1203,
-            "average": 4.688279
+            "count": 1204,
+            "average": 4.688538
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2197,8 +2242,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
           "length": "PT56M",
           "ratings": {
-            "count": 285,
-            "average": 4.6701756
+            "count": 287,
+            "average": 4.672474
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2331,8 +2376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
           "length": "PT42M",
           "ratings": {
-            "count": 329,
-            "average": 4.726444
+            "count": 330,
+            "average": 4.724242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2649,8 +2694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1642,
-        "average": 4.6680875
+        "count": 1643,
+        "average": 4.6682897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2692,8 +2737,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
       "length": "PT23M",
       "ratings": {
-        "count": 6236,
-        "average": 4.73653
+        "count": 6238,
+        "average": 4.736614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2735,8 +2780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3713,
-        "average": 4.5995154
+        "count": 3715,
+        "average": 4.5994616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2772,8 +2817,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 1203,
-        "average": 4.688279
+        "count": 1204,
+        "average": 4.688538
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3267,51 +3312,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-react-to-state-changes-using-event-grid.md",
-      "title": "React to state changes in your Azure services by using Event Grid",
-      "excerpt": "Build a serverless application architecture, automate your operations, and integrate applications by handling Azure events with Event Grid.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-react-to-state-changes-using-event-grid/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 448,
-        "average": 4.582589
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/react-to-state-changes-using-event-grid-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Blockchain"
       ]
     },
     {
