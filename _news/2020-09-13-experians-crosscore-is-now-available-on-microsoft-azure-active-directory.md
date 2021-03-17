@@ -196,6 +196,34 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "Nutanix On Microsoft Azure: 5 Big Things You Should Know"
+    excerpt: "Nutanix Clusters on Azure is here. Here’s what you need to know about new hybrid cloud offering in terms of support, integration, Azure Arc, Nutanix on AWS and Nutanix-ready nodes."
+    publishedDateTime: 2020-09-09T18:40:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/nutanix-on-microsoft-azure-5-big-things-you-should-know"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0261-1055c2c7a770-57d96c55ffd9-1000/nutanix-on-azure.jpg"
+        width: 610
+        height: 457
+        isCached: true
+  - title: "Nutanix on Microsoft Azure: what you should know"
+    excerpt: "“What about running all of Nutanix inside Azure? That’s the thing that really excites us.” Nutanix said the new Microsoft Azure partnership gives businesses a single software stack across ..."
+    publishedDateTime: 2020-09-10T06:33:00Z
+    webUrl: "https://www.crn.com.au/news/nutanix-on-microsoft-azure-what-you-should-know-553076"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200910063553_crn-14_nutanix_iStock-1208238427_(1).jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Mindtree Recognized as an Expert Managed Service Provider for Microsoft Azure"
     excerpt: "Mindtree, a leading digital transformation and technology services company, has been recognized as a Microsoft Azure Expert Managed"
     publishedDateTime: 2020-09-10T14:02:00Z
@@ -277,6 +305,17 @@ related:
         width: 304
         height: 405
         isCached: true
+  - title: "Descartes helps Customers Adapt to COVID-19 Supply Chain Disruptions using Microsoft Azure"
+    excerpt: "Descartes Systems Group (NASDAQ:DSGX) (TSX:DSG), the global leader in uniting logistics-intensive businesses in"
+    publishedDateTime: 2020-06-22T10:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16330041/descartes-helps-customers-adapt-to-covid-19-supply-chain-disruptions-using-microsoft-azure"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16330041"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16330041"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "Platform.sh announces expansion of services to Microsoft Azure West US 2 Datacenter Region"
     excerpt: "PRNewswire/ -- Platform.sh, an end-to-end web platform for agile teams, is pleased to announce the expansion of its services to the West US 2 datacenter"
     publishedDateTime: 2020-09-08T16:00:00Z
@@ -290,20 +329,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Announces the General Availability of Immersive Reader Service on the Azure AI Platform"
-    excerpt: "Immersive Reader, which is a part of the Cognitive Services suite within the Microsoft Azure AI Platform provides help for readers to read and comprehend text. In a recent blog, Microsoft announced the general availability of the service."
-    publishedDateTime: 2020-09-07T11:19:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/immersive-reader-ga-azure/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2020/09/immersive-reader-ga-azure/en/headerimage/croppted-1920_Panel4_FeatureHeader_PictureDictionary-1599385533206.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "EdgeConneX Brings Private Cloud Connectivity Solutions to Phoenix with Microsoft Azure ExpressRoute"
     excerpt: "EdgeConneX®, a pioneer in Edge Data Centers, has just streamlined the path for customers in Arizona to connect to Microsoft cloud services"

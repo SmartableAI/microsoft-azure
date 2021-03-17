@@ -24,100 +24,30 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft's Q2 Azure posts revenue growth of 50%, commercial cloud run rate at $66.8 billion"
-    excerpt: "CEO Satya Nadella said digital transformation and cloud demand drove results for Microsoft. Indeed, Azure revenue growth was up 50% in the second quarter."
-    publishedDateTime: 2021-01-26T03:15:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-q2-azure-posts-revenue-growth-of-50-commercial-cloud-run-rate-at-66-8-billion/"
+  - title: "Falanx Group Limited : Triarii to include Microsoft Azure Sentinel"
+    excerpt: "Stock quotes by finanzen.net SEE ALSO: Stocks are unlikely to repeat last year's record-shattering performance in 2021 as a V-shaped recovery is largely priced in, Morgan Stanley says » READ NOW: NASA has given up on its 'Mars mole,"
+    publishedDateTime: 2021-01-13T07:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/falanx-group-limited---triarii-to-include-microsoft-azure-sentinel-9689464"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2021/01/26/7ca12b61-f800-42b9-9359-42deec9f29cf/msft-q2-commercial-cloud-2021.png"
-        width: 848
-        height: 493
-        isCached: true
-  - title: "Microsoft cloud growth surges 50%, beating analyst expectations"
-    excerpt: "Microsoft posted record gains in its cloud businesses, reflecting customer enthusiasm in light of an increasingly digital economy."
-    publishedDateTime: 2021-01-26T22:16:00Z
-    webUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/"
-    ampWebUrl: "https://venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/microsoft-cloud-growth-surges-50-beating-analyst-expectations/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+  - title: "Octopai to Support Microsoft Azure Data Factory with its BI Platform"
+    excerpt: "Octopai, provider of automated data lineage and discovery solutions, announced its support of Microsoft Azure Data Factory as part of Octopai's continued commitment to empowering organizations and their data users with advanced intelligence."
+    publishedDateTime: 2021-01-19T19:13:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Octopai-to-Support-Microsoft-Azure-Data-Factory-with-its-BI-Platform-144806.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&strip=all"
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
-        height: 573
-        isCached: true
-  - title: "Azure, Teams & Xbox Adoption to Aid Microsoft (MSFT) Q2 Earnings"
-    excerpt: "Microsoft MSFT is slated to release second-quarter fiscal 2021 results on Jan 26. The tech giant is focused on enhancing capabilities of its cloud computing service — Azure, which is likely to have bolstered its adoption."
-    publishedDateTime: 2021-01-21T15:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21"
-    ampWebUrl: "https://www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/azure-teams-xbox-adoption-to-aid-microsoft-msft-q2-earnings-2021-01-21?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "Microsoft (MSFT) Q2 Earnings Beat, Azure & Gaming Aid Top Line"
-    excerpt: "Microsoft MSFT reported second-quarter fiscal 2021 non-GAAP earnings of $2.03 per share, which beat the Zacks Consensus Estimate by 23.8%. The bottom line also surged 34% on a year-over-year basis (up 31% at constant currency or cc)."
-    publishedDateTime: 2021-01-27T15:22:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-q2-earnings-beat-azure-gaming-aid-top-line-2021-01-27?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 77
-  - title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
-    excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
-    publishedDateTime: 2021-01-20T17:23:00Z
-    webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
-    ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
-    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
-    type: article
-    provider:
-      name: Techzim
-      domain: techzim.co.zw
-    quality: 42
-    images:
-      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "TCS Introduces New Version of its Cloud Assurance Platform Services for Microsoft Azure"
-    excerpt: "has introduced a curated version of its Cloud Assurance Platform services for organizations embarking on cloud migration or modernization with Microsoft Azure. Complex cloud modernization programs ..."
-    publishedDateTime: 2021-01-21T21:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/01/n19264636/tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19264636"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19264636"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "TCS Introduces New Version Of Its Cloud Assurance Platform Services For Microsoft Azure"
-    excerpt: "Tata Consultancy Services, a leading global IT services, consulting and business solutions organization, has introduced a curated version of its Cloud"
-    publishedDateTime: 2021-01-26T11:24:00Z
-    webUrl: "https://www.hostreview.com/news/210126-tcs-introduces-new-version-of-its-cloud-assurance-platform-services-for-microsoft-azure"
-    type: article
-    provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 29
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+        height: 630
         isCached: true
   - title: "Digital Shadows integrates with Microsoft Azure AD enabling rapid response to exposed company credentials"
     excerpt: "Digital Shadows, the leader in digital risk protection, today announces that customers using Microsoft Azure Active Directory services will"
@@ -133,15 +63,15 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft cloud strength drives second quarter results"
-    excerpt: "Microsoft is powering this shift with the world’s largest and most comprehensive cloud platform.” “Accelerating demand for our differentiated offerings drove commercial cloud revenue to $16.7 billion, up 34% year over year,” said Amy Hood ..."
-    publishedDateTime: 2021-01-26T00:00:00Z
-    webUrl: "https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/"
+  - title: "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group"
+    excerpt: "Tata Consultancy Services Leverages its Edge to Cloud Technology Expertise on Azure, Deep Contextual and Domain Knowledge, and Comprehensive Portfolio of Industry Solutions to Drive Market Success NEW YORK | MUMBAI,"
+    publishedDateTime: 2021-01-05T12:23:00Z
+    webUrl: "https://www.tcs.com/leader-system-integrator-capabilities-microsoft-azure-everest-group"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 2
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 12
 
 secured: "bx0lYmCMvGu3uTprnMejsjiimhAAi0Q/wwzXwIQX/p+uAJ1SMFQGcAzBYvAM9VFe/2bo/dcIYtAFpqMgqTeMNqm0Ppcd1CtyMn3V4SIhrxbaC8QbLj+7RSVCqbDJVKq2bNYiUswsu3kAiTFaYsLuswhow4lCqIDm0em/inNH3lOnACvGfmGSX0U6wDlyxsWq4bLYhNUjjz1e9fmzDbhTTitfiokK7Kr5xvPrfrf8biNoRnn440dcmLGmLcUpPuXrL3jIX4qY44Y1pirj0QZEYJlJlLhHKbZoQ/GZce4KtNfCkKX2u55S7NndeesA01cDNJqNViye0tzsNKjkgtTJEUDGJhU8n0sBGY3boUTXLok=;h3zcg4hA/GkdjcjiqaiCHA=="
 ---

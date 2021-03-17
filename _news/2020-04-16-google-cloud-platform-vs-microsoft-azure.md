@@ -28,281 +28,243 @@ images:
     title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
 
 related:
-  - title: "Microsoft signs multiyear deal with the NBA for Azure and Surface"
-    excerpt: "Microsoft has signed a multiyear deal with National Basketball Association (NBA) to become the official AI, cloud, and laptop provider for the league. The deal will see the NBA using Microsoft’s Azure platform to broadcast live and on-demand basketball games,"
-    publishedDateTime: 2020-04-16T19:43:00Z
-    webUrl: "https://www.theverge.com/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details"
+  - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
+    excerpt: "Storage technology pioneer Pure Storage this morning said its software for managing public cloud block storage is available on Microsoft's Azure cloud computing service, adding to Pure's existing offering for Amazon AWS. Pure has defined itself as a ..."
+    publishedDateTime: 2021-03-17T01:39:00Z
+    webUrl: "https://www.zdnet.com/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 114
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
+    excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
+    publishedDateTime: 2021-03-10T09:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 108
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
+        width: 713
+        height: 439
+        isCached: true
+  - title: "13 ways Microsoft Azure beats AWS"
+    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
+    publishedDateTime: 2020-06-01T10:13:00Z
+    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
+    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
     quality: 97
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/mwjfKqcPIwq9DgAixwF1mBWKGvk=/0x0:1777x1168/1400x933/filters:focal(747x442:1031x726):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AWS AppFlow takes on Microsoft Azure’s Power Automate"
-    excerpt: "Six Nations 2020 will be the smartest yet thanks to AWS BlackBerry and AWS team up to make smart vehicles even smarter AWS Data Exchange brings third-party data to AWS The platform looks to compete with the likes of Microsoft Azure’s Power Automate, which also allows developers to manage data by triggering flows around events or at predefined ..."
-    publishedDateTime: 2020-04-23T12:37:00Z
-    webUrl: "https://www.techradar.com/au/news/aws-appflow-takes-on-microsoft-azures-power-automate"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/aws-appflow-takes-on-microsoft-azures-power-automate"
+  - title: "Microsoft Azure becomes SAS’s preferred cloud platform"
+    excerpt: "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management."
+    publishedDateTime: 2020-06-15T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png"
+        width: 1125
+        height: 1125
+        isCached: true
+  - title: "Microsoft Azure reveals host of cloud improvements"
+    excerpt: "Could the EU be about to build its own cloud network? AWS files another JEDI complaint against Microsoft Microsoft strengthens 5G cloud offering with Metaswitch Networks purchase Microsoft also ..."
+    publishedDateTime: 2020-06-17T10:20:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-reveals-host-of-cloud-improvements"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-reveals-host-of-cloud-improvements"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
     quality: 97
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5egycZyR8KutGdsgWQA3M7-1200-80.jpg"
-        width: 1023
-        height: 576
+      - url: "https://cdn.mos.cms.futurecdn.net/Fr8VgpPF6hUsxwEAKQhdpk-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Microsoft inks multi-year deal with the NBA to use Azure and Surface products"
-    excerpt: "Similar to the NFL deal, the NBA will use Microsoft's Azure and laptops across each of the NBA-owned leagues. Microsoft today announced a multi-year deal with the National Basketball Association (NBA) which sees the tech giant provide Azure cloud, artificial intelligence, and laptops to the league. This will also apply to the WNBA, NBA G-League ..."
-    publishedDateTime: 2020-04-16T20:06:00Z
-    webUrl: "https://www.techspot.com/news/84861-microsoft-inks-multi-year-deal-nba-use-azure.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/84861-microsoft-inks-multi-year-deal-nba-use-azure.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84861-microsoft-inks-multi-year-deal-nba-use-azure.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 94
-    images:
-      - url: "https://www.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-16-ts3_thumbs-cdc.jpg"
-        width: 800
-        height: 560
-        isCached: true
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-16-image-22.jpg"
-        width: 2686
-        height: 1789
-        isCached: true
-  - title: "Microsoft's last major Windows Terminal preview: Azure Cloud Shell, Settings updates"
-    excerpt: "Terminal v0.11 is the first version that supports a non-English UI language, but Microsoft is still ironing out bugs and translation issues. Terminal's connection to Azure Cloud Shell, Microsoft's browser-based shell for managing Azure resources, should now be more robust when confronted with errors and expired tokens. \"When there's an ..."
-    publishedDateTime: 2020-04-23T12:49:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-last-major-windows-terminal-preview-azure-cloud-shell-settings-updates/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/31/498597ad-dcee-4e11-a4d5-b7f4198633ee/thumbnail/1200x675/984b3432206a2880769db8d8ba69811c/developer-these-are-the-jobs-and-languag-5e32bce1aa40260001a3a3d6-1-jan-31-2020-10-36-41-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft lands a deal with the NBA to use Azure and Surface starting with the 2020-21 season"
-    excerpt: "The NBA will use Azure to provide new interactive features for its website and online apps. NBA Commissioner Adam Silver and Microsoft CEO Satya Nadella spoke to CNBC about the deal."
-    publishedDateTime: 2020-04-16T23:07:00Z
-    webUrl: "https://www.cnbc.com/2020/04/16/microsoft-and-nba-sign-azure-surface-deal-starting-in-2020-21-season.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/04/16/microsoft-and-nba-sign-azure-surface-deal-starting-in-2020-21-season.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/microsoft-and-nba-sign-azure-surface-deal-starting-in-2020-21-season.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 86
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106492061-1587056933761nadella_silver.jpg?v=1587057169"
-        width: 1000
-        height: 714
-        isCached: true
-  - title: "NBA and Microsoft plan personalized, AI-powered game streaming"
-    excerpt: "To start, they’ll broadcast live and on-demand games via Microsoft Azure and add personalized real-time stats overlays. They’ll also explore new ways to share clips from historical video archives, reward viewers for participation and catch fans up on their favorite teams without having them search through all scores, headlines and highlights."
-    publishedDateTime: 2020-04-16T19:38:00Z
-    webUrl: "https://www.engadget.com/nba-microsoft-ai-game-streaming-193552938.html"
-    ampWebUrl: "https://www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nba-microsoft-ai-game-streaming-193552938.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=d0bc9b0731e9556c551afdfd5caddca0b0c3a3c3"
-        width: 600
-        height: 350
-        isCached: true
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fe672f1f0-8016-11ea-bf7d-a13ca0c61986&client=amp-blogside-v2&signature=367ee89763943fe5bf2550b7ae4f7fa87ca6b3bb"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Forget Microsoft, Arista Networks Is a Better Cloud Stock"
-    excerpt: "If you're looking for an investment that provides exposure to the growth of cloud computing, Microsoft (NASDAQ:MSFT) stock seems a logical choice. The company's cloud businesses have become an important part of the tech giant's activities. And its cloud platform, Azure, has become a stronger challenger to the public cloud leader Amazon Web ..."
-    publishedDateTime: 2020-04-17T19:30:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/17/forget-microsoft-arista-networks-is-a-better-cloud.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://media.ycharts.com/charts/24981e8743742bcb2fd3f34c85905335.png"
-        width: 720
-        height: 386
-        isCached: true
-  - title: "GE Healthcare and Microsoft partner to help hospitals fight COVID-19"
-    excerpt: "Designed to supplement existing monitoring devices in patients' rooms, the Mural Virtual Care Solution uses Microsoft Azure to provides near real-time data from ventilators, patient monitoring systems, electronic medical records, labs, and other systems from multiple patients to clinicians. In addition, GE Healthcare said Mural can be ..."
-    publishedDateTime: 2020-04-17T00:44:00Z
-    webUrl: "https://www.zdnet.com/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ge-healthcare-and-microsoft-partner-to-help-hospitals-fight-covid-19/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/20/e8483294-694b-40a4-b20a-91d9232f2978/thumbnail/1200x675/316229541483ce6fe30d91e41c6eaae7/ge-healthcare-and-microsoft-partner-to-h-5e9ce90f6280d240eb63a825-1-apr-20-2020-3-33-31-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft 365 is now available worldwide"
-    excerpt: "(The free, web-based version of Microsoft 365 is only compatible on desktop.) The Personal and Family tiers come with one terabyte of cloud storage per user and one hour per month of Skype calls to mobile phones and landlines. Along with the change in name, Microsoft Editor -- an AI tool which helps users write clearer sentences -- is expanding ..."
-    publishedDateTime: 2020-04-21T16:54:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-available-worldwide-164731336.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-available-worldwide-164731336.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-available-worldwide-164731336.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ff91b3cd0-83e6-11ea-bb7f-15b50121287a&client=amp-blogside-v2&signature=8ff2633ac1406f316d70e1758a1f325af182d570"
-        width: 600
-        height: 350
-        isCached: true
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ff91b3cd0-83e6-11ea-bb7f-15b50121287a&client=amp-blogside-v2&signature=06147f5683431b613f065a350443243614d7f834"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Amazon Is Running Out of Ways to Stop Microsoft’s JEDI Deal"
-    excerpt: "Last October, the U.S. Department of Defense awarded Microsoft (NASDAQ:MSFT) its coveted Joint Enterprise Defense Infrastructure (JEDI) cloud contract. The deal, which will be worth up to $10 billion over the next 10 years, allows Microsoft to provide cloud infrastructure services for the Pentagon's business and mission operations. The JEDI ..."
-    publishedDateTime: 2020-04-22T17:55:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/22/amazon-running-out-ways-stop-microsoft-jedi-deal.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569046%2Fgettyimages-529769841.jpg&w=1200&op=resize"
-        width: 1200
-        height: 636
-        isCached: true
-  - title: "Microsoft 365: A cheat sheet"
-    excerpt: "SEE: How to build a successful career as a cloud engineer (free PDF) (TechRepublic) Disclosure: TechRepublic may earn a commission from some of the products featured on this page. TechRepublic and the author were not compensated for this independent review. Microsoft 365 is the de facto productivity suite for many enterprises, and it is the ..."
-    publishedDateTime: 2020-04-22T19:19:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-365-a-cheat-sheet/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-365-a-cheat-sheet/"
+  - title: "Microsoft Azure: A cheat sheet"
+    excerpt: "This comprehensive guide about Microsoft Azure includes common use cases, technical limitations, and what to know before adopting the cloud computing platform. The rise of cloud computing provides businesses the ability to quickly provision computing ..."
+    publishedDateTime: 2020-08-07T00:22:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-the-smart-persons-guide/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-the-smart-persons-guide/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 82
+    quality: 97
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/04/21/11808789-c9c7-406b-8f59-a9d365e5dff2/resize/1200x/57748433addeb346b5fb4d54d1c8eac2/microsoft-365-business-version-prices.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/03/10/094493b1-358a-4ef7-92db-663e6b745668/resize/1200x/c51ec9da1ef26e61c5713906a2fe515f/microsoftazure.png"
         width: 1200
-        height: 858
+        height: 744
         isCached: true
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/28/94ed1119-e8cd-483c-8fd5-9e0e7a3ce8e7/resize/1200x/6efe13dc43b36944bb610bf63785d13f/a-microsoft-365-breakdown.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Microsoft Surface Earbuds will launch May 6, according to reports"
-    excerpt: "Microsoft hasn’t confirmed this release date ... Dual, directional microphones in the earbuds can record your voice and upload it into the cloud, with the ability to translate the audio into 60 different languages. If it works as proposed, a presentation in a foreign country could be narrated so foreign speakers could understand it."
-    publishedDateTime: 2020-04-23T17:53:00Z
-    webUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/"
-    ampWebUrl: "https://www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/microsoft-surface-earbuds-release-date/?amp"
+  - title: "Build your own VM in the cloud with Microsoft Azure"
+    excerpt: "Read more about it here. Setting up a virtual machine in Microsoft Azure is a lot easier than you might think. Ed Bott shares his experience and walks you through the process. I just set up two ..."
+    publishedDateTime: 2020-08-16T19:29:00Z
+    webUrl: "https://www.techrepublic.com/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 82
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
     images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/microsoft-surface-earbuds-1200x630-c-ar1.91.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/04/14/52bab34b-a72d-46b5-81cb-0879006d68ee/resize/1200x/a9e189dac890bda1fd4365c9248748eb/awindowsazuredashboard.jpg"
         width: 1200
-        height: 628
+        height: 504
         isCached: true
-  - title: "Pentagon's inspector general says Microsoft's JEDI cloud win should stand"
-    excerpt: "Therefore, we could not definitively determine the full extent or nature of interactions that administration officials had, or may have had, with senior DoD officials regarding the JEDI Cloud procurement. \" I reached out to Microsoft and AWS for comment on today's report. No word back from either so far. After Microsoft was awarded the $10 ..."
-    publishedDateTime: 2020-04-15T15:38:00Z
-    webUrl: "https://www.zdnet.com/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pentagons-inspector-general-says-microsofts-jedi-cloud-win-should-stand/"
+  - title: "Microsoft extends the power of global cloud to space with Azure Orbital"
+    excerpt: "At Ignite 2020, Microsoft announced a new managed service to enable customers to quickly analyze data captured from space through physical satellite capabilities. Azure Orbital is a new managed service by Microsoft that provides access to physical ..."
+    publishedDateTime: 2020-09-22T14:59:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-extends-the-power-of-global-cloud-to-space-with-azure-orbital/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: Neowin
+      domain: neowin.net
+    quality: 97
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/15/2c3ba05e-21fa-47cd-8dab-d91266415adc/jediinspectorgeneralreport.jpg"
-        width: 877
-        height: 593
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/09/1600717817_azure_at_ignite_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Dispute between Microsoft and Amazon over JEDI cloud contract is delayed"
-    excerpt: "Join today! Subscribe to GeekWire's free newsletters to catch every headline Amazon challenges Pentagon’s award of $10B JEDI cloud contract to rival Microsoft Amazon seeks to block Microsoft from working on JEDI contract as legal battle continues Pentagon reconsiders $10B cloud contract as Trump sounds alarm over alleged Amazon favoritism DoD ..."
-    publishedDateTime: 2020-04-17T20:50:00Z
-    webUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/"
-    ampWebUrl: "https://www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/dispute-microsoft-amazon-jedi-cloud-contract-delayed/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 81
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/11/microsoft-630x473.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "This Is the Next Big Opportunity in Tech, and Microsoft Is Leading the Pack"
-    excerpt: "Microsoft added earlier this month that a record-breaking 2.7 billion minutes' worth ... Global Market Insights pegs the number at more than $20 billion by 2024. Expanding the lookout to the cloud-based collaboration market in its entirety, Synergy Research Group says the world spent around $45 billion on these tools last year."
-    publishedDateTime: 2020-04-21T15:42:00Z
-    webUrl: "https://www.fool.com/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/21/next-big-opportunity-tech-microsoft-lead.aspx"
+  - title: "It's Past Time for Microsoft to Disclose Azure Details"
+    excerpt: "It's been over five years since Amazon.com (NASDAQ:AMZN) started disclosing detailed results for Amazon Web Services (AWS). The cloud infrastructure business was simply becoming too important to the company's overall results,"
+    publishedDateTime: 2020-11-03T15:03:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/03/its-past-time-for-microsoft-to-disclose-azure-deta/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 80
+    quality: 97
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568539%2Fopportunity.jpg&w=1200&op=resize"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598227%2Fdata-center.jpeg&w=1200&op=resize"
         width: 1200
-        height: 840
+        height: 799
         isCached: true
-  - title: "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service"
-    excerpt: "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ..."
-    publishedDateTime: 2020-04-16T22:38:00Z
-    webUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/"
-    ampWebUrl: "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp"
+  - title: "Everything you need to know about Microsoft Azure"
+    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
+    publishedDateTime: 2020-11-09T15:10:00Z
+    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
+    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 78
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 97
     images:
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
+        width: 920
+        height: 470
         isCached: true
-      - url: "https://icdn2.digitaltrends.com/image/digitaltrends/oklahoma-city-thunder-v-golden-state-warriors-game-seven-1200x630-c-ar1.91-n.jpg"
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
+    publishedDateTime: 2020-12-04T04:03:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
         width: 1200
-        height: 628
+        height: 741
+        isCached: true
+  - title: "Microsoft’s Azure Quantum platform is now in public preview"
+    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
+    publishedDateTime: 2021-02-01T18:41:00Z
+    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
+    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Microsoft Azure Quantum opens for public preview"
+    excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
+    publishedDateTime: 2021-02-04T02:01:00Z
+    webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
+    ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 97
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft outage affects Teams, Azure and Xbox Live"
+    excerpt: "The bad news is that the list of services affected is long — including not just Teams, but also Office, Exchange Online and Yammer. Xbox Live is also mentioned as one of the services experiencing issues,"
+    publishedDateTime: 2021-03-15T21:33:00Z
+    webUrl: "https://www.engadget.com/microsoft-teams-down-azure-xbox-213224646.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-teams-down-azure-xbox-213224646.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 97
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/yLhMvxwzBIBkOpGKZ_cC_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMx/https://s.yimg.com/os/creatr-uploaded-images/2021-03/e66885b0-85d5-11eb-8fdf-7439cfd9b5f9"
+        width: 2000
+        height: 1330
+        isCached: true
+  - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
+    excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
+    publishedDateTime: 2021-03-15T06:56:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 92
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
+        width: 1000
+        height: 562
         isCached: true
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
@@ -318,289 +280,514 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Unisys CloudForte® for Microsoft Azure: Accelerate Your Secure Cloud Adoption"
-    excerpt: "Join us as we explore the reality of secure cloud adoption – and learn the details about Unisys CloudForte ® for Microsoft Azure – with Jason Carter, Lead Solutions Architect, CloudForte, Unisys, and Julia Nathan, Senior Cloud Solution Architect at Microsoft."
-    publishedDateTime: 2020-04-09T23:52:00Z
-    webUrl: "https://www.infoworld.com/resources/201270/unisys-cloudforte-for-microsoft-azure-accelerate-your-secure-cloud-adoption"
+  - title: "Accelerating ATO in Microsoft Azure"
+    excerpt: "While your cloud provider manages security OF the cloud, security IN the cloud is the responsibility of the customer. During this on-demand webinar, Microsoft Azure’s Chief Information Security Officer for High Security Clouds, Mr. Richard Scher ..."
+    publishedDateTime: 2020-07-09T03:51:00Z
+    webUrl: "https://www.infoworld.com/resources/205509/accelerating-ato-in-microsoft-azure"
     type: article
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 74
+    quality: 77
     images:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
         isCached: true
-  - title: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle"
-    excerpt: "Prepare for an In-Demand Cloud Career With This Microsoft Azure Training Bundle Whether you're looking for work or just want to keep your resume sharp, you can prepare for a career in this field with the Complete 2020 Microsoft Azure Certification Prep ..."
-    publishedDateTime: 2020-04-21T14:47:00Z
-    webUrl: "https://www.pcmag.com/deals/prepare-for-an-in-demand-cloud-career-with-this-microsoft-azure-training"
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure."
+    publishedDateTime: 2020-10-28T06:31:00Z
+    webUrl: "https://www.infoworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 73
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 77
     images:
-      - url: "https://i.pcmag.com/imagery/articles/045CdzWhI5UsL6d7JUERSJy-1.fit_lim.size_1200x630.v_1587455928.jpg"
-        width: 1120
-        height: 630
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Microsoft Flight Simulator 2020's most impressive visuals will need heavyweight hardware"
-    excerpt: "The trailer shows impressive visuals with Microsoft Azure artificial intelligence and satellite imagery. To get these ideal results, the simulator requires a more recent Ryzen 7 Pro 2700X or Intel i7-9800X CPUs paired with high-end AMD Radeon VII and Nvidia RTX 2080 GPUs with at least 8GB of VRAM, 32GB of RAM, a 150GB SSD and a 50Mbps connection."
-    publishedDateTime: 2020-04-23T13:58:00Z
-    webUrl: "https://www.cnet.com/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-flight-simulator-2020s-wildly-impressive-visuals-will-require-some-serious-specs/"
+  - title: "Microsoft's cloud chief breaks down new Azure products"
+    excerpt: "CNBC's \"Squawk Alley\" team discusses Microsoft new data products for Azure with Microsoft’s head of cloud and executive vice president of Azure, Jason Zander."
+    publishedDateTime: 2020-12-03T16:55:00Z
+    webUrl: "https://www.cnbc.com/video/2020/12/03/microsofts-cloud-chief-breaks-down-new-azure-products.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 73
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://cnet1.cbsistatic.com/img/j2IE5L7cuPxVIjwwueet2C8CGhM=/756x567/2020/04/22/2f03de55-f317-41dc-90a8-76ad905f59bc/microsoft-flight-sim-2020-hardware-specs.jpg"
-        width: 756
-        height: 567
+      - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Microsoft partners with NBA to create direct-to-consumer platform for live and on-demand games"
-    excerpt: "Microsoft on Thursday announced a multi-year partnership with the National Basketball Association and will help create a new direct-to-consumer platform that runs on the company’s cloud computing technology. The new service will stream live and on-demand game broadcasts via a personalized fan experience “that tailors the content to the ..."
-    publishedDateTime: 2020-04-16T18:18:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-partners-nba-create-direct-consumer-platform-live-demand-games/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-nba-create-direct-consumer-platform-live-demand-games/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-nba-create-direct-consumer-platform-live-demand-games/amp/"
+  - title: "Microsoft announces the public preview of Azure Quantum"
+    excerpt: "Azure Quantum is a full-stack, public cloud ecosystem for quantum solutions that gives developers, researchers, systems integrators, and customers access to diverse quantum software and hardware solutions."
+    publishedDateTime: 2021-02-02T22:24:00Z
+    webUrl: "https://sdtimes.com/softwaredev/microsoft-announces-the-public-preview-of-azure-quantum/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 70
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/NBA_Microsoft_Co_Brand_-630x287.jpg"
-        width: 630
-        height: 287
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-5.18.08-PM.png"
+        width: 790
+        height: 622
         isCached: true
-  - title: "Omnipresence Launches CXMnow.io for Life Sciences in the Microsoft Azure Marketplace"
-    excerpt: "CXMnow.io in the Azure Marketplace today, an online store providing applications and services for use on Microsoft Azure. The customer experience management (CXM) technology allows life sciences organizations with certain well-defined business needs to sign up online for a built-for-purpose customer engagement capability to use in their commercial or medical operations."
-    publishedDateTime: 2020-04-23T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/omnipresence-launches-cxmnow-io-for-life-sciences-in-the-microsoft-azure-marketplace-1029123493"
+  - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
+    excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
+    publishedDateTime: 2020-11-07T08:53:00Z
+    webUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud-11604736455720.html"
+    ampWebUrl: "https://www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pubg-mobile-parent-inks-deal-to-host-game-on-microsoft-azure-cloud/amp-11604736455720.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-  - title: "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform"
-    excerpt: "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform."
-    publishedDateTime: 2020-04-20T14:25:00Z
-    webUrl: "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.livemint.com/img/2020/11/07/600x338/AFP_1HY6EA_1564125018144_1604737011910.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Learn the ins and outs of Microsoft Azure with these course bundles"
-    excerpt: "Microsoft Azure has been around for more than a decade, but it remains a vital tool to learn for anyone hoping to forge a career in cloud computing. The bundle of classes will get you up to speed ..."
-    publishedDateTime: 2021-02-20T13:24:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/"
-    ampWebUrl: "https://www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/learn-the-ins-and-outs-of-microsoft-azure-with-these-course-bundles/amp/"
+  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
+    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
+    publishedDateTime: 2020-05-27T08:16:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 57
+    images:
+      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
+        width: 640
+        height: 359
+        isCached: true
+  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-05-31T18:14:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 57
+  - title: "Microsoft announces Azure cloud for top secret government data"
+    excerpt: "Microsoft today announced the launch of a new offering for its mission-critical Azure Government cloud targeted at government customers and partners that regularly work with top-secret classified data."
+    publishedDateTime: 2020-12-07T15:30:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-announces-azure-cloud-for-top-secret-government-data/amp/"
     type: article
     provider:
       name: Bleeping Computer
       domain: bleepingcomputer.com
     quality: 57
     images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2021/01/10/microsoft-azure.png"
+      - url: "https://www.bleepstatic.com/content/hl-images/2020/12/07/US-Capitol-Congress.jpg"
         width: 1600
-        height: 800
+        height: 813
         isCached: true
-  - title: "Ex-20th Century Film CTO Hanno Basse Joins Microsoft’s Azure Cloud Division"
-    excerpt: "Hanno Basse, former chief technology officer of 20th Century Fox Film, has landed at Microsoft’s Azure, where he’s the tech company’s liaison to the media and entertainment"
-    publishedDateTime: 2020-04-23T22:15:00Z
-    webUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/"
-    ampWebUrl: "https://variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/hanno-basse-microsoft-azure-cto-1234588564/amp/"
+  - title: "Microsoft updates Azure Stack HCI"
+    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
+    publishedDateTime: 2020-12-29T11:07:00Z
+    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
+    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
     type: article
     provider:
-      name: Variety
-      domain: variety.com
-    quality: 55
+      name: Network World
+      domain: networkworld.com
+    quality: 57
     images:
-      - url: "https://pmcvariety.files.wordpress.com/2020/04/hanno-basse-microsoft-azure.png?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365"
-    excerpt: "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years."
-    publishedDateTime: 2020-04-27T21:11:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp"
+  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
+    excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
     type: article
     provider:
       name: Windows Central
       domain: windowscentral.com
-    quality: 55
+    quality: 57
     images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm"
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
+    excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
+    publishedDateTime: 2021-03-15T21:35:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-takes-down-teams-xbox-live-office-365?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 57
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/02/microsoft-azure-hero.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
+    excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
+    publishedDateTime: 2021-01-27T17:15:00Z
+    webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
+    ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-291021/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Guide to Microsoft Azure Cloud Storage"
+    excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
+    publishedDateTime: 2021-01-28T21:24:00Z
+    webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
+  - title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
+    excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
+    publishedDateTime: 2021-03-16T14:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
+        isCached: true
+  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+    publishedDateTime: 2021-03-16T12:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
         isCached: true
-  - title: "Alibaba Cloud to take on Microsoft Azure and AWS with a $28 billion investment"
-    excerpt: "Alibaba Cloud is the leading cloud computing provider in China with 46.4% marketshare. Tencent Cloud and Baidu Cloud are its main rivals. In other countries around the world, AWS and Microsoft Azure dominate the cloud market. Today, Alibaba Cloud announced that it will invest $28 billion in cloud technologies over the next years. Alibaba will ..."
-    publishedDateTime: 2020-04-20T10:29:00Z
-    webUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/"
-    ampWebUrl: "https://mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/alibaba-cloud-to-take-on-microsoft-azure-and-aws-with-a-28-billion-investment/amp/"
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 53
+      name: ITWire
+      domain: itwire.com
+    quality: 50
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg"
-        width: 932
-        height: 537
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Former Fox Chief Technology Officer Joins Microsoft Azure's Media and Entertainment Business"
-    excerpt: "As its chief technology officer, Hanno Basse will work with Hollywood studios to develop cloud-based production and postproduction workflows."
-    publishedDateTime: 2020-04-23T21:08:00Z
-    webUrl: "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
-    ampWebUrl: "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527"
+  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+    publishedDateTime: 2021-03-10T15:09:00Z
+    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
     type: article
     provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
+      name: SC Media
+      domain: scmagazine.com
+    quality: 48
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+        width: 521
+        height: 313
+        isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
+        isCached: true
+  - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
+    excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
+    publishedDateTime: 2020-10-29T14:16:00Z
+    webUrl: "https://www.oaoa.com/news/business/exabeam-extends-security-management-platform-with-aws-google-cloud-platform-and-microsoft-azure-cloud-storage/article_df685cae-fb58-5bc8-b562-0737c397017a.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
     quality: 46
     images:
-      - url: "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg"
-        width: 768
-        height: 433
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
         isCached: true
-  - title: "Microsoft Inks Deal With NBA to Use Cloud and Surface Tablets"
-    excerpt: "Microsoft (MSFT) - Get Report has signed a deal with the NBA to provide the basketball league with Azure cloud services and Surface tablets. The deal is effective for the league's 2020-21 season. Along with other professional sports leagues, the NBA suspended its current season in March to mitigate the spread of the coronavirus."
-    publishedDateTime: 2020-04-16T19:43:00Z
-    webUrl: "https://www.thestreet.com/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
-    ampWebUrl: "https://www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/latest-news/microsoft-deal-with-nba-cloud-and-surface-tablets"
+  - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
+    excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
+    publishedDateTime: 2020-05-06T11:30:00Z
+    webUrl: "https://www.tvtechnology.com/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: TV Technology
+      domain: tvtechnology.com
     quality: 42
     images:
-      - url: "https://content.jwplatform.com/thumbs/xCBbfNZH-720.jpg"
-        width: 720
-        height: 480
+      - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Verizon acquires BlueJeans to compete with Microsoft Teams and Zoom"
-    excerpt: "Due to these lockdowns, millions of people are working from their home. So, enterprise communication tools like Microsoft Teams and Zoom have seen unprecedented spike in usage over the past 6 weeks. BlueJeans is a leading cloud video conferencing provider that allows organizations to easily hold live video calls, webinars, conference calls ..."
-    publishedDateTime: 2020-04-16T14:20:00Z
-    webUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/"
-    ampWebUrl: "https://mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/verizon-acquires-bluejeans-microsoft-teams-zoom/amp/"
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-11T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 42
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Verizon-BlueJeans.jpg"
-        width: 959
-        height: 537
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
         isCached: true
-  - title: "Microsoft Stock Keeps Winning Because It Has Been Essential for Years"
-    excerpt: "Microsoft (NASDAQ:MSFT) is also the star of my personal portfolio. I bought Microsoft stock a few years after Satya Nadella became CEO, committing the company’s future to the cloud, and its capital costs. My shares have more than tripled in value. There’s a good reason. In running your business there are many expenses you can forego during ..."
-    publishedDateTime: 2020-04-17T11:44:00Z
-    webUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/"
-    ampWebUrl: "https://investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/microsoft-stock-essential-years/amp/"
+  - title: "Microsoft Azure Sphere Security Overview"
+    excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
+    publishedDateTime: 2020-04-01T18:33:00Z
+    webUrl: "https://www.storagereview.com/review/microsoft-azure-sphere-security-overview"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 42
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/03/shutterstock_698745022-compressor.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Amazon and Microsoft Have Outperformed. Earnings Will Be Key -- ICYMI"
-    excerpt: "Against that, the fast-growing business cloud segments are likely seeing a tailwind, at least according to Wedbush Securities analyst Dan Ives. Businesses may accelerate their shift to Microsoft’s services as the work-from-home change is well underway, aided by lockdowns. But More Personal Computing isn’t growing, while the business cloud ..."
-    publishedDateTime: 2020-04-22T20:25:00Z
-    webUrl: "https://www.thestreet.com/video/amazon-microsoft-earnings-date"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-microsoft-earnings-date"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 42
-    images:
-      - url: "https://content.jwplatform.com/thumbs/bwKn9eIN-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "It’s Time to Ride Microsoft Stock to $200 in 2020 and Beyond"
-    excerpt: "Fortunately for businesses of all sizes, Microsoft’s products are indispensable for keeping their operations running. Next to the face mask, the cloud could be the most important tool for fighting the coronavirus. CloudTech stated April 17: Imagine the world without cloud computing. It may not collapse, but it will surely be mired by ..."
-    publishedDateTime: 2020-04-22T16:26:00Z
-    webUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/"
-    ampWebUrl: "https://investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/its-time-to-ride-microsoft-stock-to-200-in-2020-and-beyond/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 42
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2019/10/msft1600f.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Azure Active Directory Premium P1 to be Part of Microsoft 365 Business"
-    excerpt: "Microsoft 365 Business subscribers had access to: Microsoft called out the first four features as significant for Microsoft 365 Business subscribers. Cloud Discovery uses Internet traffic logs to learn and analyze which cloud apps are used by an organization. You can either create a snapshot report by uploading log files from your firewalls or ..."
-    publishedDateTime: 2020-04-15T15:00:00Z
-    webUrl: "https://www.petri.com/azure-active-directory-premium-p1-to-be-part-of-microsoft-365-business"
-    type: article
-    provider:
-      name: petri.com
-      domain: petri.com
+      name: StorageReview
+      domain: storagereview.com
     quality: 37
     images:
-      - url: "https://www.petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/04/StorageReview-Microsoft-Azure-Sphere.png"
+        width: 979
+        height: 456
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
+    publishedDateTime: 2020-04-25T23:05:00Z
+    webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
+  - title: "Extend and migrate on-premises site to Microsoft Azure"
+    excerpt: "Learn about how to use the migration tool to programmatically create Azure virtual machines for Configuration Manager."
+    publishedDateTime: 2020-04-27T21:28:00Z
+    webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Avid, Microsoft Azure Set Five-Year Agreement"
+    excerpt: "Media and entertainment technology provider Avid has renewed its cloud collaboration with Microsoft. Over the course of the new five-year strategic alliance agr"
+    publishedDateTime: 2020-05-05T17:54:00Z
+    webUrl: "https://tvnewscheck.com/article/more-news/248549/avid-microsoft-azure-set-five-year-agreement/"
+    type: article
+    provider:
+      name: TV NewsCheck
+      domain: tvnewscheck.com
+    quality: 37
+    images:
+      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
+        width: 581
+        height: 201
+        isCached: true
+  - title: "Microsoft Azure Adds Another VMware Option to the Multi-Cloud Mix"
+    excerpt: "It’s called multi-cloud deployment, and it gives operators options even if they don’t always need them. Up until this week, these operators actually had one option from Microsoft for extending their VMware virtual machine environments onto Azure infrastructure,"
+    publishedDateTime: 2020-05-06T18:44:00Z
+    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-azure-adds-another-vmware-option-multi-cloud-mix"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 37
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20on%20building_0.jpg"
+        width: 1024
+        height: 663
+        isCached: true
+  - title: "Understanding Microsoft Azure certifications"
+    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
+    publishedDateTime: 2020-05-23T05:23:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 37
+    images:
+      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Microsoft Azure Active Directory (Azure AD)"
+    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
+    publishedDateTime: 2020-06-02T08:35:00Z
+    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
         width: 1280
         height: 720
         isCached: true
-      - url: "https://petri.com/wp-content/uploads/sites/3/2016/08/Microsoft-Azure-cloud-hero.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pentagon watchdog clears Microsoft’s $10 billion cloud-computing win over Amazon"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump, though it said its probe was limited by the White House. The 317-page report issued Wednesday by the inspector general also ..."
-    publishedDateTime: 2020-04-15T15:52:00Z
-    webUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/"
-    ampWebUrl: "https://www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/pentagon-watchdog-clears-microsofts-10-billion-cloud-computing-win-over-amazon/?amp=1"
+  - title: "TAG Video Systems Expands Cloud Cover With Microsoft Azure Support"
+    excerpt: "TAG Video Systems, a global provider of 100% SW, 100% IP, 100% COTS, probing, monitoring and multiviewing solutions for major broadcast applications (live p"
+    publishedDateTime: 2020-07-16T14:23:00Z
+    webUrl: "https://tvnewscheck.com/article/more-news/251298/tag-video-systems-expands-cloud-cover-with-microsoft-azure-support/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: TV NewsCheck
+      domain: tvnewscheck.com
     quality: 37
     images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04152020_msoft_095020-300x208.jpg"
-        width: 299
-        height: 208
+      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
+        width: 581
+        height: 201
         isCached: true
-  - title: "Charles River IMS readies for Microsoft Azure"
-    excerpt: "Charles River Development, a State Street Company, today announced that its strategic cloud solution, Charles River Investment Management Solution (Charles River IMS), has achieved platform and operational readiness on Microsoft Azure. The offering utilizes Microsoft’s scale and security capabilities to provide investment firms with a ..."
-    publishedDateTime: 2020-04-17T08:49:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82195/charles-river-ims-readies-for-microsoft-azure"
+  - title: "Next-Gen Microsoft Azure Stack HCI Announced"
+    excerpt: "At the Microsoft Inspire event, the company announced the next generation of its Azure Stack HCI with a new OS and the ability to run on older hardware"
+    publishedDateTime: 2020-07-23T14:54:00Z
+    webUrl: "https://www.storagereview.com/news/next-gen-microsoft-azure-stack-hci-announced"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2020/07/StorageReview-azure-stack-hci-solution.png"
+        width: 627
+        height: 515
+        isCached: true
+  - title: "Cognizant Acquires Microsoft Azure Cloud MSP Partner New Signature"
+    excerpt: "Global IT consulting firm Cognizant ($CTSH) is acquiring New Signature, a Microsoft Azure Expert MSP and Top 200 Public Cloud MSP, according to ChannelE2E research. Financial terms were not disclosed. This is M&A deal 304 that ChannelE2E has covered so ..."
+    publishedDateTime: 2020-07-28T14:04:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-azure-cloud-partner-new-signature/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 37
+    images:
+      - url: "https://www.channele2e.com/wp-content/uploads/2016/03/judson-althoff.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-28T23:28:00Z
+    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
+  - title: "Microsoft Azure Stack HCI"
+    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
+    publishedDateTime: 2020-07-29T19:17:00Z
+    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
+        width: 515
+        height: 305
+        isCached: true
+  - title: "Microsoft Azure Cloud Gets One-Year Extension to Host DoD’s Secret Data"
+    excerpt: "DISA eased restrictions on the certification the company originally received in February of last year and opened the cloud service to mission partners, the agency said Tuesday. The Azure Government Secret region is designed to help agencies maintain the integrity of classified workloads."
+    publishedDateTime: 2020-08-26T10:52:00Z
+    webUrl: "https://www.govconwire.com/2020/08/microsoft-azure-cloud-gets-one-year-extension-to-host-dods-secret-data/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://govconwire-media.s3.amazonaws.com/2020/08/26/22/29/e6/80/09/f1/06/24/a0If300000N93u6EAB-microsoft-20190109.jpeg"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "Refintiv heads to Microsoft Azure"
+    excerpt: "Microsoft and Refinitiv have formed a new strategic partnership that will give people who work in the financial sector greater connectivity and insight into their markets and customers, and help them make critical business decisions."
+    publishedDateTime: 2020-09-12T13:53:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83996/refintiv-heads-to-microsoft-azure"
     type: article
     provider:
       name: Finextra
@@ -611,24 +798,24 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "NBA taps Microsoft’s Azure cloud to enhance fans’ online experiences"
-    excerpt: "Microsoft Corp. has scored another big win today after the National Basketball Association said it will adopt its Azure cloud to enhance online experiences for its fans. In addition, NBA teams will use Microsoft Surface tablets in unspecified ways from the beginning of the league’s 2020-21 season, it was announced today. Microsoft has become ..."
-    publishedDateTime: 2020-04-17T02:55:00Z
-    webUrl: "https://siliconangle.com/2020/04/16/nba-taps-microsofts-azure-cloud-enhance-fans-online-experiences/"
+  - title: "Microsoft's Low-Code Power Apps Leans on Azure Cloud"
+    excerpt: "The Azure cloud computing platform is dominating news coming out of the ongoing Microsoft Ignite 2020 developer/IT pro event, even extending to low-code application development with the company's Power Apps offering."
+    publishedDateTime: 2020-09-23T19:26:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/09/23/power-apps-azure.aspx"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Virtualization Review
+      domain: virtualizationreview.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/1.jpg"
-        width: 949
-        height: 433
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlocksColorsPink.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "Top 5 Ways to Simplify Data Protection with Microsoft Azure"
-    excerpt: "However, with this mixing and matching of environments, businesses must ensure that their applications and data are always available, even in the event of a disaster. This white paper examines five ways that businesses can simplify their cloud data protection with Microsoft Azure."
-    publishedDateTime: 2020-04-23T16:19:00Z
-    webUrl: "https://www.computerworld.com/resources/201856/top-5-ways-to-simplify-data-protection-with-microsoft-azure"
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Cloud consumption is on the rise as enterprise organizations and small-and-medium businesses alike shift larger portions of their IT spend toward cloud infrastructure and services like Microsoft Azure. However, Azure’s blend of services supports a wide ..."
+    publishedDateTime: 2020-10-27T14:52:00Z
+    webUrl: "https://www.computerworld.com/resources/209761/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
     type: article
     provider:
       name: Computerworld
@@ -639,229 +826,563 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Get 94% off The Microsoft Azure Administrator Cert Prep Courses Bundle Deal"
-    excerpt: "A new deal is available for more than 94% off The Ultimate Microsoft Azure Administrator Certification Prep Courses & Mock Exams Bundle deal. This deal is for a 9 course bundle with over 20 hours of training and mock exams that help you prepare for various Microsoft Azure certifications. Using these courses you will learn about designing ..."
-    publishedDateTime: 2020-04-14T15:57:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/get-94-percent-off-the-microsoft-azure-administrator-cert-prep-courses-bundle-deal/"
+  - title: "More details leaks about Microsoft’s Azure-powered Cloud PC experience"
+    excerpt: "Earlier this year, we learned that Microsoft was working on a new virtualization service for enterprise customers named “Cloud PC.” The service will apparently be built on top of Microsoft’s"
+    publishedDateTime: 2020-11-05T17:27:00Z
+    webUrl: "https://www.onmsft.com/news/more-details-leaks-about-microsofts-azure-powered-cloud-pc-experience"
     type: article
     provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Build-2018-Cloud-sign-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "PUBG is Coming to Microsoft Azure"
+    excerpt: "Microsoft and Krafton announced today that they are bringing PLAYERUNKNOWN’S BATTLEGROUNDS (PUBG) and PUBG Mobile to Azure."
+    publishedDateTime: 2020-11-07T15:22:00Z
+    webUrl: "https://www.thurrott.com/games/243664/pubg-is-coming-to-microsoft-azure"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/11/pubg.jpg"
+        width: 1066
+        height: 602
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World"
+    publishedDateTime: 2020-11-15T16:00:00Z
+    webUrl: "https://www.networkworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "The Essential Starter’s Guide to Microsoft Azure for IT Leaders"
+    excerpt: "A successful cloud transformation in Azure requires a detailed multi-step plan supported by the right skills. Our guide, “The Essential Starter’s Guide to Microsoft Azure for IT Leaders ..."
+    publishedDateTime: 2020-11-16T19:41:00Z
+    webUrl: "https://www.computerworld.com/resources/210752/the-essential-starter-s-guide-to-microsoft-azure-for-it-leaders"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "AMS-IX welcomes Microsoft Azure Peering to its cloud portfolio"
+    excerpt: "IX has added Microsoft Azure Peering Service to its Cloud portfolio. This means enterprises and other organisations connected to AMS-IX are set to benefit from “high-quality connectivity” to Microsoft cloud services,"
+    publishedDateTime: 2020-11-26T14:36:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3827061/ams-ix-welcomes-microsoft-azure-peering-to-its-cloud-portfolio"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 37
+    images:
+      - url: "https://www.capacitymedia.com/Image/ServeImage?id=50143&w=780&h=442&cr=true"
+        width: 780
+        height: 442
+        isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "In this analysis, we discuss why Google (Alphabet) may have missed a critical window this year for the infrastructure piece."
+    publishedDateTime: 2020-12-11T13:40:00Z
+    webUrl: "https://seekingalpha.com/article/4394247-google-cloud-will-not-be-able-to-overtake-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static2.seekingalpha.com/uploads/2020/12/8/45714056-1607434447830862.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Microsoft brings its Azure Quantum cloud service into public preview"
+    excerpt: "Microsoft Corp. said today that its Azure Quantum platform that lets customers play around with quantum computing tools built by its hardware and software partners is now in public preview. The company wants researchers and developers to start using its quantum cloud service to explore,"
+    publishedDateTime: 2021-02-02T01:00:00Z
+    webUrl: "https://siliconangle.com/2021/02/01/microsoft-brings-azure-quantum-cloud-service-public-preview/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-02_070317.png"
+        width: 971
+        height: 520
+        isCached: true
+  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+    publishedDateTime: 2021-02-02T10:39:00Z
+    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
+  - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
+    excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
+    publishedDateTime: 2021-02-19T04:24:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-we-leveraged-microsoft-azure-to-meet-ondemand-needs-nid-24216-cid-149.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/ck_images/20A1cJdp.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure and the Trends That Will Drive its Future"
+    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
+    publishedDateTime: 2021-02-19T07:19:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
+    excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
+    publishedDateTime: 2021-03-11T10:48:00Z
+    webUrl: "https://www.pcr-online.biz/2021/03/11/node4-achieves-microsoft-azure-expert-msp-status/"
+    type: article
+    provider:
+      name: PCR
+      domain: pcr-online.biz
+    quality: 37
+    images:
+      - url: "https://www.pcr-online.biz/wp-content/uploads/1-microsoft-azure-logojpg.jpg"
+        width: 350
+        height: 350
+        isCached: true
+  - title: "Microsoft To Build New $200M Data Center As Azure Sales Soar"
+    excerpt: "Microsoft data center investment continues with two new data centers in Chicago as demand for Microsoft Azure and cloud services surge."
+    publishedDateTime: 2021-03-11T18:17:00Z
+    webUrl: "https://www.crn.com/news/data-center/microsoft-to-build-new-200m-data-center-as-azure-sales-soar"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
+        width: 606
+        height: 454
+        isCached: true
+  - title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
+    excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
+    publishedDateTime: 2021-03-15T06:40:00Z
+    webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
+        width: 490
+        height: 360
+        isCached: true
+  - title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
+    excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
+    publishedDateTime: 2021-03-16T23:52:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/16/azure-ad-outage.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
+    excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
+    publishedDateTime: 2020-08-12T07:06:00Z
+    webUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/"
+    ampWebUrl: "https://www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/standard-chartered-bank-partners-microsoft-become-cloud-first-bank/amp/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 36
+  - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
+    excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
+    publishedDateTime: 2020-08-18T00:39:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/17809-standard-chartered-to-adopt-microsoft-azure-to-become-a-cloud-first-bank"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 36
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/90cacb6b7e5b5d2906c25a9b819d4d51.jpg?t=20200818_001650"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
+    excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
+    publishedDateTime: 2021-02-02T15:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-azure-quantum-computing-open-cloud-preview"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
     quality: 35
     images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
-        width: 1250
-        height: 455
+      - url: "https://images.hothardware.com/contentimages/newsitem/54157/content/Quantum_Computer.jpg"
+        width: 708
+        height: 471
         isCached: true
-  - title: "Microsoft and NBA announce multiyear partnership to deliver personalized game broadcasts"
-    excerpt: "Microsoft and NBA will also collaborate on delivering live and on-demand game broadcasts. Microsoft along with NBA Digital will create a new direct-to-consumer platform on Azure cloud platform that will use machine learning and AI to deliver personalized game broadcasts and other content offerings. The NBA’s vast array of data sources and ..."
-    publishedDateTime: 2020-04-16T18:50:00Z
-    webUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-nba-announce-multiyear-partnership/amp/"
+  - title: "Meet Microsoft Cloud for Healthcare, Microsoft’s first industry-specific cloud solution"
+    excerpt: "Microsoft made great progress in the health care related business. Today, Microsoft is announcing Microsoft Cloud for Healthcare, its first industry-specific cloud solution."
+    publishedDateTime: 2020-05-19T15:02:00Z
+    webUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/"
+    ampWebUrl: "https://mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/meet-microsoft-cloud-for-healthcare-solution/amp/"
     type: article
     provider:
       name: MSPoweruser
       domain: mspoweruser.com
+    quality: 34
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+        width: 918
+        height: 516
+        isCached: true
+  - title: "Carahsoft Brings Microsoft Azure to Its Public Sector Customers and Partners"
+    excerpt: "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced that Microsoft Azure services"
+    publishedDateTime: 2020-08-27T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/08/g17272823/carahsoft-brings-microsoft-azure-to-its-public-sector-customers-and-partners"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/17272823"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17272823"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+  - title: "NCR brings its IoT management software to Microsoft Azure"
+    excerpt: "Digital Connected Services IoT management software will run on Azure's IoT AI technology.\"By leveraging Microsoft Azure and its AI and IoT capabilities, NCR is helping retailers, restaurants and financial institutions simplify and keep commerce running with Microsoft's trusted,"
+    publishedDateTime: 2020-09-16T20:34:00Z
+    webUrl: "https://seekingalpha.com/news/3614756-ncr-brings-iot-management-software-to-microsoft-azure"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
+  - title: "Microsoft Cloud ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+    excerpt: "Microsoft Cloud is also expected to generate 69,000 jobs in the UAE by 2024 New revenues reaching around USD$27 billion will be generated in the UAE over the next four years by Microsoft, its partners and cloud-using customers,"
+    publishedDateTime: 2021-03-14T07:56:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024-1.1615708569212"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 34
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/03/14/--_1782fbbd881_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
+    excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
+    publishedDateTime: 2020-09-02T18:11:00Z
+    webUrl: "https://siliconangle.com/2020/09/02/microsoft-launches-azure-spring-cloud-simplify-enterprise-software-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 33
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-NBA.jpg"
-        width: 1160
-        height: 578
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/microsoft2-1-1.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "Asleep at the cloud: A Microsoft Azure disruption changed who gets a wake-up call"
-    excerpt: "At the end of March, a Microsoft Azure disruption hit 6,136 companies across Europe, causing service disruptions for up to nine hours, as the cloud provider grapples with a significant surge in use driven by the coronavirus pandemic. A primary incident manager (or PIM, in Microsoft parlance) was not paged as the pipeline delay unfolded ..."
-    publishedDateTime: 2020-04-09T16:05:00Z
-    webUrl: "https://www.ciodive.com/news/microsoft-azure-outage-delay-manager-asleep/575811/"
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+    publishedDateTime: 2021-03-10T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
+  - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
+    excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
+    publishedDateTime: 2021-03-10T22:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210310005260/en/CloudLinux-Announces-Live-Updates-for-Devices-on-Microsoft-Azure-IoT-Hub"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
+    publishedDateTime: 2021-03-11T17:38:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 33
+  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
+    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
+    publishedDateTime: 2020-05-27T16:00:00Z
+    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "https://www.ciodive.com/user_media/cache/ad/a3/ada36e672fd3d4dfa464f1e0879cba03.jpg"
-        width: 770
-        height: 364
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "DOD Clears Microsoft’s JEDI Contract Award"
-    excerpt: "In a sharp blow to Amazon, the U.S. Department of Defense found that Microsoft’s $10 billion Joint Enterprise Defense Infrastructure (JEDI) contract award was correct after an extensive review. “We believe the evidence we received showed that the DOD personnel who evaluated the contract proposals and awarded Microsoft the JEDI Cloud ..."
-    publishedDateTime: 2020-04-15T15:27:00Z
-    webUrl: "https://www.thurrott.com/cloud/234826/dod-clears-microsofts-jedi-contract-award"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 22
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/10/us-pentagon.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pentagon watchdog clears Microsoft’s $10 billion JEDI win over Amazon"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump,"
-    publishedDateTime: 2020-04-15T16:10:00Z
-    webUrl: "https://www.stripes.com/news/us/pentagon-watchdog-clears-microsoft-s-10-billion-jedi-win-over-amazon-1.626150"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 22
-    images:
-      - url: "https://www.stripes.com/polopoly_fs/1.626151.1586966540!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
-        width: 490
-        height: 341
-        isCached: true
-  - title: "JEDI war continues for Amazon, Microsoft"
-    excerpt: "Act on the news with POLITICO Pro. — JEDI latest: The Pentagon’s inspector general is out with a polarizing report about the JEDI cloud computing contract awarded to Microsoft over Amazon last fall — but the fight between the two software giants is far from over. — On the antitrust front: A potential bid from Liberty Media — which ..."
-    publishedDateTime: 2020-04-16T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2020/04/16/jedi-war-continues-for-amazon-microsoft-786910"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 22
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "Microsoft to Stop Supporting Edge on Windows 7 in mid-2021"
-    excerpt: "Microsoft revealed this week that it will stop supporting its new Edge browser in Windows 7 on July 15, 2021, in keeping with the Google Chrome support schedule for Windows 7. “We will continue to support Microsoft Edge on Windows 7 … until July 15, 2021,” a Microsoft support note explains. “[This operating system is] out of support and ..."
-    publishedDateTime: 2020-04-16T15:26:00Z
-    webUrl: "https://www.thurrott.com/cloud/web-browsers/microsoft-edge/234883/microsoft-to-stop-supporting-edge-on-windows-7-in-mid-2021"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 22
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2019/06/win7-edge.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft's JEDI win was not down to White House dark force"
-    excerpt: "The Defense Department’s watchdog found no evidence that the Pentagon’s controversial decision to award a $10 billion cloud-computing contract to Microsoft was the result of interference from President Donald Trump. The 317-page report issued Wednesday by the inspector general’s office also found that giving the JEDI contract to a single ..."
-    publishedDateTime: 2020-04-17T08:31:00Z
-    webUrl: "https://www.fudzilla.com/news/50669-microsoft-s-jedi-win-was-not-down-to-white-house-dark-force"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 22
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/aa91bb4a181a55aa28a611297d048668_L.jpg"
-        width: 620
-        height: 463
-        isCached: true
-  - title: "Amazon, Microsoft offer little relief to cloud clients"
-    excerpt: "Then he contacted Amazon.com Inc, asking to “explore creative financing opportunities” for his monthly cloud-computing bill. The response was succinct: “Nope, that’s the way it is.” The ability to rent computing power online has revolutionized the Internet economy and turned a trio of companies — Amazon, Microsoft Corp and Alphabet ..."
-    publishedDateTime: 2020-04-18T16:08:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/04/19/2003734868"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 22
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Amazon's JEDI war with Microsoft put on hold"
-    excerpt: "Known as Joint Enterprise Defense Infrastructure, or JEDI, the cloud computing contract is intended to give the military ... namely \"the merits of its argument that the DOD [Department of Defense] improperly evaluated\" Microsoft's data storage in one price scenario. She said Amazon is likely to show that Microsoft's scenario was not ..."
-    publishedDateTime: 2020-04-19T10:14:00Z
-    webUrl: "https://www.arnnet.com.au/article/678551/amazon-jedi-war-microsoft-put-hold/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 22
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/pentagon.jpg"
-        width: 800
-        height: 514
-        isCached: true
-  - title: "Microsoft Posts Microsoft 365 Digital Briefing for Consumers"
-    excerpt: "Before Microsoft announced that it was rebranding Office 365 for consumers to Microsoft 365, it provided press and bloggers with this digital briefing. I’m not sure why they waited so long to post it publicly, but this is what we saw ahead of the March 30 announcement and the April 21 launch of Microsoft 365 Personal and Family. I’m posting ..."
-    publishedDateTime: 2020-04-23T13:38:00Z
-    webUrl: "https://www.thurrott.com/cloud/microsoft-365/235189/microsoft-posts-microsoft-365-digital-briefing-for-consumers"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 22
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/yusuf.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/03/teams.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft, Imprivata collab aims to keep the cloud secure for healthcare"
-    excerpt: "Microsoft and Imprivata are collaborating on new digital identity projects for use in the healthcare space. Microsoft Azure will now host the Imprivata Identity Governance and Imprivata's OneSign Single Sign-on is integrated with the Azure Activate Directory. Users will be able to access these tools from Microsoft Teams on Surface devices."
-    publishedDateTime: 2020-04-23T13:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/microsoft-imprivata-collab-aims-to-keep-the-cloud-secure-for-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 21
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/cybersecurity/7.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform"
-    excerpt: "SiriusIQ, the leading Master Orchestration and Automation Platform for Digital Labor, announced a strategic collaboration with RackWare,"
-    publishedDateTime: 2020-04-13T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-301039072.html"
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T19:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace-301244390.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 15
+    quality: 25
     images:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true
-  - title: "NBA announces new multiyear partnership with Microsoft to redefine and personalize the fan experience"
-    excerpt: "Microsoft becomes an Official Technology Partner for the NBA; together the companies will create a direct-to-consumer platform that delivers new fan engagement experiences and enhanced streaming capabilities powered by Microsoft Azure and its AI capabilities."
-    publishedDateTime: 2020-04-16T18:10:00Z
-    webUrl: "https://news.microsoft.com/2020/04/16/nba-announces-new-multiyear-partnership-with-microsoft-to-redefine-and-personalize-the-fan-experience/"
+  - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
+    excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
+    publishedDateTime: 2021-03-12T13:10:00Z
+    webUrl: "https://www.cioreview.com/news/quzara-cybertorch-leverages-microsoft-azure-andextended-detection-and-response-xdr-capabilities-nid-33110-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/kq7bl.350.jpg"
+        width: 300
+        height: 350
+        isCached: true
+  - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
+    publishedDateTime: 2021-03-10T17:06:00Z
+    webUrl: "https://www.totaltele.com/508928/Infobip-full-offering-of-Customer-Engagement-and-Service-solutions-now-available-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 23
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "Microsoft Cloud App Security"
+    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
+    publishedDateTime: 2020-07-02T17:13:00Z
+    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 22
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft cloud revenues in UAE to hit $27bn by 2024: report"
+    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level,"
+    publishedDateTime: 2021-03-15T07:20:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 22
+  - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
+    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
+    publishedDateTime: 2021-03-14T11:32:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 20
+  - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2020-11-17T18:20:00Z
+    webUrl: "https://www.benzinga.com/news/20/11/18418923/blake-moret-on-cnbc-we-partnered-with-microsoft-to-marry-our-offerings-with-microsofts-azure-cloud-p"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
+    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
+    publishedDateTime: 2020-07-30T05:06:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 17
+  - title: "3Cloud Acquires Microsoft Azure Partner Applied Cloud Systems"
+    excerpt: "Microsoft Azure services partner 3Cloud has acquired Applied Cloud Systems, a Microsoft consultancy from Pittsburgh, Pennsylvania. Financial terms of the deal were not disclosed. This is M&A deal 312 that ChannelE2E has covered so far in 2020. See the full ..."
+    publishedDateTime: 2020-08-02T14:19:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-applied-cloud-systems/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
+  - title: "3Cloud Acquires Microsoft Azure Partner"
+    excerpt: "Microsoft Azure cloud partner 3Cloud, backed by private equity firm Gryphon Investors, acquires Pragmatic Works' consulting arm. Creates largest U.S. Azure partner, buyer claims."
+    publishedDateTime: 2020-09-15T21:33:00Z
+    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-microsoft-azure-cloud-partner/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
+  - title: "ANS migrates Fenwick IT systems to Microsoft Azure public cloud"
+    excerpt: "UK digital and cloud services provider ANS Group has been selected by luxury department store Fenwick to migrate IT systems to the Microsoft Azure public"
+    publishedDateTime: 2020-11-11T14:48:00Z
+    webUrl: "https://www.telecompaper.com/news/ans-migrates-fenwick-it-systems-to-microsoft-azure-public-cloud--1361480"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
+    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
+    publishedDateTime: 2020-11-25T12:49:00Z
+    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
+  - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
+    excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
+    publishedDateTime: 2021-03-12T14:11:00Z
+    webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
+  - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
+    excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
+    publishedDateTime: 2021-03-12T13:05:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-offers-azure-training-initiative-for-3000-developers-in-gauteng--1375621"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 15
+  - title: "Australian smart building platform Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Cognian Technologies, a fast-growing Australian property technology company, today announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T05:11:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/138540/australian-smart-building-platform-cognian/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 12
+  - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
+    excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
+    publishedDateTime: 2021-03-16T05:30:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 7
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/prod/prod/2020/04/Option_3--1024x467.jpg"
-        width: 1024
-        height: 467
-        isCached: true
-  - title: "Microsoft, NBA sign cloud and tablet deal"
-    excerpt: "The National Basketball Association will use Microsoft's (MSFT +2.3%) Azure cloud and Surface tablets, starting with the 2020-21 season. Terms of the deal weren't disclosed.Last month, the NBA put the"
-    publishedDateTime: 2020-04-16T23:36:00Z
-    webUrl: "https://seekingalpha.com/news/3561437-microsoft-nba-sign-cloud-and-tablet-deal"
+    quality: 9
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
+  - title: "Microsoft unveils healthcare-specific cloud tools"
+    excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
+    publishedDateTime: 2020-05-19T15:39:00Z
+    webUrl: "https://seekingalpha.com/news/3575977-microsoft-unveils-healthcare-specific-cloud-tools"
     type: article
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 2
-  - title: "Microsoft Becoming NBA's Official AI Partner"
-    excerpt: "Microsoft and NBA Digital -- co-managed by the NBA and Turner Sports -- will create a new, innovative direct-to-consumer platform on Microsoft Azure that will use machine learning and AI to deliver next-gen, personalized game broadcasts and other content, and integrate the NBA's various products and services. Microsoft will look to re-imagine ..."
-    publishedDateTime: 2020-04-18T03:39:00Z
-    webUrl: "https://www.sportsbusinessdaily.com/SB-Blogs/Breaking-News/2020/04/NBA-Microsoft.aspx"
-    type: article
-    provider:
-      name: SportsBusiness Daily
-      domain: sportsbusinessdaily.com
     quality: 2
 
 secured: "o+pttQ+jgJJZ8DR+OwkTzurDvDzZS/hS1uz1hzIdZ6IYz44RMSJMUf6rW3xqms4QCx08MM8ZN18s4UR/gnyPypZFbIQmCBjDFh+QQ44q3n+v1CFtenoIs5lFOmNRjs3Exrrcs2D1CkT7a52O3B3aQtrBMJWt1jeRtweoos4HcTwAkVaFfegjSeBdmIeyQLAQX0mhVe9oerVIdYEIuJze4uVz6tRDgk4CuppO1JEpptwjQRLwlIxzANs1m1MdUDAKUqdxb3OUxvVJPDriXYuX3q+uD+K6apcQlKh7lFeADrHhSOeE6zXtOtM6p8aIarduEwBSvecHvmPdCWWwXbqG+pkNDnz6HYEm6SfdhYMonL7zckAQNzuOpu7jQU7PPu5WkunUyIBEWzKGxvrlHUbTptuM9S0SCiSqhU6+jsM7Gs4Wt4NlaK4Fb7cCaKHdElWMCDGR6jcQS1dxG+hdGoJ0O7vNZ6P+owZq5mNmNWnf4XI=;701lcQ53ZhLMI/VXdwiHeQ=="

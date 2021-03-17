@@ -60,43 +60,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Ooredoo provides managed services for Microsoft Azure"
-    excerpt: "Ooredoo Qatar, a Microsoft Gold-certified partner, has signed a strategic partnership agreement with Wipro Limited, a leading global information technology, consulting, and business process services company"
-    publishedDateTime: 2021-01-23T15:22:00Z
-    webUrl: "https://www.gulf-times.com/story/683086/Ooredoo-provides-managed-services-for-Microsoft-Az"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/1202123182151450560941.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "Quisitive Joins the Microsoft Cloud Native Accelerate Program"
-    excerpt: "PRNewswire/ -- Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS), a premier Microsoft Solutions Provider, joins Microsoft’s latest Cloud Native Accelerate Program (“Program”),"
-    publishedDateTime: 2020-11-23T14:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-industry-information-technology-cloud-computing-services-4b0902f11e9b6f6551f6718f21b70407"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "WinWire launches Vaccine Management Solution Built on Microsoft Azure"
-    excerpt: "WinWire Technologies, a digital engineering services company, launched its Vaccine Management solution built on Azure. Healthcare organizations need to create new business processes to deliver vaccines to patients."
-    publishedDateTime: 2021-01-28T07:38:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210128ph61007/winwire-launches-vaccine-management-solution-built-on-microsoft-azure"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "GPFn/f/roNGlM19xwTAyBWr9H3UlqLBYJSKEXVQuHf6LW/w9KWVmNPJkzosSHPXf78i9r/U8lBj2mWHHPQzQIbtlvve9R6pSTgWMkhX4XqnDPl5esxcHBjGVj6ruqkt+fM778pBviiHCEvd7B1EVnABIHFkTn8em2GbYIefNOt4kmHkfmuns3f69+Lz8DPz8eTB8CTCaxKr+tIp1r4CcFZTH1TF4YD84WhdcSkLfQB/4ZC9/IRuvEOvbJJQ0CBeQ4ehpZAGJ8zYlOR8WKihPTGUsrhcWSVBPMDnG3bLrvJrmirvfZct9z4QppiqIJ2L3zpq/v5Uf0RJ8YBoohemyBP5eJzHtqkdCH/5KghjREUc=;wVq2YX9mbSZHmIRKEpCnrA=="
 ---

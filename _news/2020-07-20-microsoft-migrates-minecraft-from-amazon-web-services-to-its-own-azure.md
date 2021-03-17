@@ -107,38 +107,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Microsoft’s Azure Quantum platform is now in public preview"
-    excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
-    publishedDateTime: 2021-02-01T18:41:00Z
-    webUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/"
-    ampWebUrl: "https://techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/microsofts-azure-quantum-platform-is-now-in-public-preview/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft Azure Quantum opens for public preview"
-    excerpt: "Microsoft’s quantum computing platform has been used for applications including cancer research, logistics and freight optimization, and risk management."
-    publishedDateTime: 2021-02-04T02:01:00Z
-    webUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.html"
-    ampWebUrl: "https://www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606131/microsoft-azure-quantum-opens-for-public-preview.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/02/microsoft-quantum-computer-source-ms-quantum-100832328-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Get this Complete Microsoft Azure eBook & Video Course Bundle at 95% off"
     excerpt: "Leverage PowerShell to Perform Many Day-to-Day Tasks in Microsoft Azure Migrating Applications to the Cloud with Azure [eBook] Modernize Your Apps with Microsoft Azure by Moving Web, Desktop ..."
     publishedDateTime: 2020-07-13T16:48:00Z
@@ -435,20 +403,6 @@ related:
         width: 770
         height: 285
         isCached: true
-  - title: "TAG Video Systems Expands Cloud Cover With Microsoft Azure Support"
-    excerpt: "TAG Video Systems, a global provider of 100% SW, 100% IP, 100% COTS, probing, monitoring and multiviewing solutions for major broadcast applications (live p"
-    publishedDateTime: 2020-07-16T14:23:00Z
-    webUrl: "https://tvnewscheck.com/article/more-news/251298/tag-video-systems-expands-cloud-cover-with-microsoft-azure-support/"
-    type: article
-    provider:
-      name: TV NewsCheck
-      domain: tvnewscheck.com
-    quality: 37
-    images:
-      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
-        width: 581
-        height: 201
-        isCached: true
   - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
     excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
     publishedDateTime: 2020-07-17T16:33:00Z
@@ -568,20 +522,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Next-Gen Microsoft Azure Stack HCI Announced"
-    excerpt: "At the Microsoft Inspire event, the company announced the next generation of its Azure Stack HCI with a new OS and the ability to run on older hardware"
-    publishedDateTime: 2020-07-23T14:54:00Z
-    webUrl: "https://www.storagereview.com/news/next-gen-microsoft-azure-stack-hci-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/07/StorageReview-azure-stack-hci-solution.png"
-        width: 627
-        height: 515
         isCached: true
   - title: "10 top Azure announcements from Microsoft Inspire 2020"
     excerpt: "Microsoft Azure Tuesday released new hybrid migration, data, security and compliance, and developer offerings aimed at helping the No. 2 cloud provider’s customers on their journeys to the cloud."

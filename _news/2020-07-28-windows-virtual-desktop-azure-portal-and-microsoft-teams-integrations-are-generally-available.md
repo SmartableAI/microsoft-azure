@@ -227,22 +227,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
-    excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
-    publishedDateTime: 2021-01-27T17:15:00Z
-    webUrl: "https://www.barrons.com/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695?refsec=hp_INTERESTS_technology"
-    ampWebUrl: "https://www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/accelerating-growth-for-microsoft-azure-bodes-well-for-cloud-software-sector-51611767695"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-291021/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cognizant to acquire Microsoft cloud native company New Signature"
     excerpt: "Bengaluru: Nasdaq-listed Cognizant Technology Solutions Corp. on Tuesday said it has entered into an agreement to acquire US-based New Signature, one of the largest independent Microsoft public cloud transformation specialists. This will be Cognizant’s ..."
     publishedDateTime: 2020-07-28T15:45:00Z
@@ -287,20 +271,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Cognizant Acquires Microsoft Azure Cloud MSP Partner New Signature"
-    excerpt: "Global IT consulting firm Cognizant ($CTSH) is acquiring New Signature, a Microsoft Azure Expert MSP and Top 200 Public Cloud MSP, according to ChannelE2E research. Financial terms were not disclosed. This is M&A deal 304 that ChannelE2E has covered so ..."
-    publishedDateTime: 2020-07-28T14:04:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/cognizant-buys-microsoft-azure-cloud-partner-new-signature/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 37
-    images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2016/03/judson-althoff.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more ..."
     publishedDateTime: 2020-07-28T14:06:00Z
@@ -315,20 +285,6 @@ related:
         width: 620
         height: 290
         isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-28T23:28:00Z
-    webUrl: "https://www.crn.com/2020/07/28/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
-        isCached: true
   - title: "Dell EMC Integrated System for Microsoft Azure Stack Hub"
     excerpt: "Dell EMC Integrated System for Microsoft Azure Stack Hub provides a fast and simple path to Microsoft Azure Stack Hub for digital and IT transformation. Download the Solution Overview here."
     publishedDateTime: 2020-07-29T21:02:00Z
@@ -342,20 +298,6 @@ related:
       - url: "https://www.crn.com/resources/025b-0eff6856eada-a01ef253a5ce-1000/3cloudimage.jpg"
         width: 269
         height: 256
-        isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here."
-    publishedDateTime: 2020-07-29T19:17:00Z
-    webUrl: "https://www.crn.com/2020/07/29/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
         isCached: true
   - title: "New Zealand's largest company plans to move to Microsoft Azure"
     excerpt: "Fonterra plans to shift most of its workloads to Microsoft Azure, when the cloud company's New Zealand data center opens. The nation's largest company, dairy co-operative Fonterra exports products to over 140 countries - responsible for approximately 30 ..."
@@ -496,15 +438,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 17
-  - title: "Microsoft tests hydrogen fuel cells to backup its Azure Cloud"
-    excerpt: "New Delhi, July 30 (IANS) Lowing its dependency of diesel-powered backup generators, Microsoft is testing hydrogen fuel cells for backup power at its data centres and the initial results are encouraging."
-    publishedDateTime: 2020-07-30T05:06:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-tests-hydrogen-fuel-cells-to-backup-its-azure-cloud-news-topnews-uh4eOBacddfaf.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 17
   - title: "Insight Earns Advanced Specialization in Four Areas of Microsoft Azure"
     excerpt: "Insight also fields more than 1,000 Azure-focused engineers, developers and technical consultants, plus more than 2,000 Microsoft-focused services and technical professionals, maintaining more than 3,000 technical certifications combined. “Insight and ..."
     publishedDateTime: 2020-07-31T08:07:00Z
@@ -513,15 +446,6 @@ related:
     provider:
       name: Stockhouse
       domain: stockhouse.com
-    quality: 17
-  - title: "3Cloud Acquires Microsoft Azure Partner Applied Cloud Systems"
-    excerpt: "Microsoft Azure services partner 3Cloud has acquired Applied Cloud Systems, a Microsoft consultancy from Pittsburgh, Pennsylvania. Financial terms of the deal were not disclosed. This is M&A deal 312 that ChannelE2E has covered so far in 2020. See the full ..."
-    publishedDateTime: 2020-08-02T14:19:00Z
-    webUrl: "https://www.channele2e.com/investors/private-equity/3cloud-buys-applied-cloud-systems/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
     quality: 17
   - title: "Microsoft And Partners Bring More Hyperconverged Hybrid Cloud Options To Azure"
     excerpt: "When it comes to cloud computing, there's little doubt that we're in a hybrid world. At the company's partner-focused Inspire event, Microsoft unveiled several new hybrid cloud-focused additions to its Azure cloud computing platform."

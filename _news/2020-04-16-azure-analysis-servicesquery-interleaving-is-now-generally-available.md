@@ -21,20 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Analysis Services calculation groups are now generally available"
-    excerpt: ""
-    publishedDateTime: 2020-04-14T22:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/announcing-general-availability-ga-of-calculation-groups-in-azure-analysis-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/0f9f89b3-100e-4d95-b715-e3b3f4e20492.gif"
-        width: 1290
-        height: 757
-        isCached: true
   - title: "Azure Analysis Services—Improved query replica synchronization now available"
     excerpt: ""
     publishedDateTime: 2020-04-16T23:00:31Z

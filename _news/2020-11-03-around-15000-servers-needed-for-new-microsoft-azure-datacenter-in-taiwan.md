@@ -45,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Microsoft to establish new datacenter region in Denmark"
+    excerpt: "The new region is anticipated to include Microsoft Azure, with Microsoft 365, Dynamics 365 and Power Platform to follow."
+    publishedDateTime: 2020-12-07T18:05:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-to-establish-new-datacenter-region-in-denmark/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Microsoft plans to establish first datacenter region in Indonesia"
     excerpt: "Microsoft increases its investment in Indonesia’s digital economy, with plans to establish its first datacenter region in the country."
     publishedDateTime: 2021-02-25T03:30:20Z

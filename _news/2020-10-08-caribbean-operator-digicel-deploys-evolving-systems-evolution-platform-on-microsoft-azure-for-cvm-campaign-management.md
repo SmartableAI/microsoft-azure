@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2020-10-08/caribbean-oper
 webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management"
 type: article
 quality: 53
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
+    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
+    publishedDateTime: 2020-10-13T17:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Caribbean Operator Digicel Deploys Evolving Systems’ Evolution Platform on Microsoft Azure for CVM Campaign Management Program"
     excerpt: "(GLOBE NEWSWIRE) -- Evolving Systems, Inc. (NASDAQ: EVOL), a leader in real-time digital engagement solutions and services, is proud to announce that its fully scalable Evolution platform has been deployed at Digicel."
     publishedDateTime: 2020-10-08T13:31:00Z

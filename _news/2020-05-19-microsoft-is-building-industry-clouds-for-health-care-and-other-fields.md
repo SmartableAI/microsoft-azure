@@ -884,15 +884,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 2
-  - title: "Microsoft unveils healthcare-specific cloud tools"
-    excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
-    publishedDateTime: 2020-05-19T15:39:00Z
-    webUrl: "https://seekingalpha.com/news/3575977-microsoft-unveils-healthcare-specific-cloud-tools"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
   - title: "Sony Semiconductor Solutions and Microsoft partner to create smart camera solutions for enterprise customers"
     excerpt: "As a result of the partnership, the companies will embed Microsoft Azure AI capabilities on Sony’s intelligent vision sensor IMX500, which extracts useful information out of images in smart cameras and other devices. Sony will also create a smart camera ..."
     publishedDateTime: 2020-05-18T17:02:00Z

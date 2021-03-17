@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-n
 webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
 type: article
 quality: 53
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
+    publishedDateTime: 2020-06-23T11:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "udRAph8BwSYEF7aeafM0HacNCFeR4DK1jkv8+yj3+/UZm+XFYkGhL711aF2BlGyhiyAZK8vLvrS4Jn4URfdkDdUhsUw85jbZ0cxdo1UOfiVxAB5vuQQJFIowtKlO7DHMmmO1rkLLjuRvurUm0W0+hhXFZm/KUrEg+fOsbFl6oZc3QMeUELz9D+2av3heLjNbjKvAcDUsa0LpmaU40AsB/BG8QgWDSyxW+eW+OnOrHBoACiO9hDRC3ikhqIpqvSdaIebPpnb1d62w/pqMxd7mEdprdvRQKf7x6aUqpHdnjwFw+5dExC+4Z+a9HfrnVBIJYt9QfygCQx6jgbp+2jBWd2wFezOpy0LZreFAyJXkjug=;yU7uU2IflaHtPrP8NrZwGg=="
 ---

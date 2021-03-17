@@ -943,22 +943,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
-    excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
-    publishedDateTime: 2020-05-06T11:30:00Z
-    webUrl: "https://www.tvtechnology.com/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/avid-microsoft-ink-deal-to-extend-cloud-collaboration-agreement"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "These four charts show how use of Microsoft Teams, Slack, and Zoom has skyrocketed thanks to the remote work boom"
     excerpt: "The coronavirus-related rise of remote work has led to dramatically increased demand for apps that enable collaboration and communication."
     publishedDateTime: 2020-04-25T12:51:00Z
@@ -1051,34 +1035,6 @@ related:
         width: 269
         height: 256
         isCached: true
-  - title: "Microsoft Azure Stack HCI"
-    excerpt: "Azure Stack HCI delivers unmatched performance, with a path to hybrid cloud. Learn more by downloading the white paper here. Azure Stack HCI delivers unmatched performance, with a path to hybrid ..."
-    publishedDateTime: 2020-04-25T23:05:00Z
-    webUrl: "https://www.crn.com/2020/04/24/microsoft-azure-stack-hci/4rB6NDMQd1Vug6GrJ7ZOU/index.html"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/025b-0eff6361f68a-29cd08758548-1000/1azurestackportfolio.jpg"
-        width: 515
-        height: 305
-        isCached: true
-  - title: "Extend and migrate on-premises site to Microsoft Azure"
-    excerpt: "Learn about how to use the migration tool to programmatically create Azure virtual machines for Configuration Manager."
-    publishedDateTime: 2020-04-27T21:28:00Z
-    webUrl: "https://docs.microsoft.com/en-us/mem/configmgr/core/support/azure-migration-tool"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Watch Azure When Microsoft Reports, Jim Cramer Says"
     excerpt: "Microsoft is one of the big tech names that will be reporting earnings this week. Analysts polled by FactSet are expecting earnings of $1.29 per share on revenue of $33.84 billion. TheStreet's Annie Gaus broke down what she's watching for when the tech giant reports earnings."
     publishedDateTime: 2020-04-28T17:17:00Z
@@ -1144,20 +1100,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Avid, Microsoft Azure Set Five-Year Agreement"
-    excerpt: "Media and entertainment technology provider Avid has renewed its cloud collaboration with Microsoft. Over the course of the new five-year strategic alliance agr"
-    publishedDateTime: 2020-05-05T17:54:00Z
-    webUrl: "https://tvnewscheck.com/article/more-news/248549/avid-microsoft-azure-set-five-year-agreement/"
-    type: article
-    provider:
-      name: TV NewsCheck
-      domain: tvnewscheck.com
-    quality: 37
-    images:
-      - url: "https://tvnewscheck.com/wp-content/themes/TvNewsCheck/assets/img/tvn-logo.png"
-        width: 581
-        height: 201
-        isCached: true
   - title: "Microsoft Announces Azure VMware Solution Preview"
     excerpt: "The long and winding road to run VMware virtualization tech on the Microsoft Azure cloud has taken a new turn with a preview of an updated Azure VMware Solution announced this week."
     publishedDateTime: 2020-05-05T17:21:00Z
@@ -1185,20 +1127,6 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "Microsoft Azure Adds Another VMware Option to the Multi-Cloud Mix"
-    excerpt: "It’s called multi-cloud deployment, and it gives operators options even if they don’t always need them. Up until this week, these operators actually had one option from Microsoft for extending their VMware virtual machine environments onto Azure infrastructure,"
-    publishedDateTime: 2020-05-06T18:44:00Z
-    webUrl: "https://www.datacenterknowledge.com/microsoft/microsoft-azure-adds-another-vmware-option-multi-cloud-mix"
-    type: article
-    provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 37
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/microsoft%20logo%20on%20building_0.jpg"
-        width: 1024
-        height: 663
         isCached: true
   - title: "New Zealand to get its own Microsoft Azure region"
     excerpt: "Microsoft has applied for permission from the New Zealand government's Overseas Investment Office to acquire sites to build its first Azure region in the country, the company announced. Storing customer data at rest in New Zealand along with meeting users' security and compliance needs are cited by Microsoft as the drivers for establishing the new region."

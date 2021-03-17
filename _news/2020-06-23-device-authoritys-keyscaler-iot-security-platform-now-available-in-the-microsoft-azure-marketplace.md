@@ -17,51 +17,47 @@ topics:
   - Azure
 
 related:
-  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-    publishedDateTime: 2020-06-22T14:21:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+  - title: "DH2i's DxOdyssey for IoT Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Oct. 28, 2020 /PRNewswire/ -- DH2i®, a leading provider of multi-platform Software Defined Perimeter (SDP) and Smart Availability software, today announced the availability of DxOdyssey for IoT in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2020-10-28T13:16:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/dh2is-dxodyssey-for-iot-now-available-in-the-microsoft-azure-marketplace-301161442.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://mma.prnewswire.com/media/324010/dh2i_logo.jpg?p=facebook"
+        width: 1400
+        height: 732
         isCached: true
-  - title: "Microsoft to acquire CyberX, an Israel-based IoT security company"
-    excerpt: "CyberX is an Israel-based startup that is developing a cybersecurity platform to reduce IoT/OT risk and preventing costly outages, safety and environmental incidents, theft of intellectual property, and operational inefficiencies."
-    publishedDateTime: 2020-05-08T09:32:00Z
-    webUrl: "https://mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/amp/"
+  - title: "SenservaPro from Senserva Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Senserva, a leader in cloud security posture management, today announced the availability of SenservaPro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-03T11:00:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-computer-and-data-security-computing-and-information-technology-5c20b698ea1b46ccb59ca08e0ae09ca4"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 42
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-CyberX.jpg"
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "SenservaPro from Senserva Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Senserva, a leader in cloud security posture management, today announced the availability of SenservaPro in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2020-11-03T20:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201103005041/en/SenservaPro-from-Senserva-Now-Available-in-the-Microsoft-Azure-Marketplace"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20201103005041/en/813423/23/SSL-Logo%2BWordmark--Horizontal--Color_%284%29.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "LiveAction Extends LiveNX to AWS and Microsoft Azure"
-    excerpt: "LiveAction, a supplier of network performance management, is introducing new cloud monitoring capabilities that will extend network and application visibility into Amazon Web Services (AWS) and Microsoft Azure public cloud infrastructure. Using the LiveNX ..."
-    publishedDateTime: 2020-06-25T13:12:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/LiveAction-Extends-LiveNX-to-AWS-and-Microsoft-Azure-141480.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 37
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "rBOMNxERV4AF88zeDMTUujZ/s8v9DEK5BG1HGSj90PfVULLVocskoVZoYJE8XfwXEMDk3iXPHINDJeGmbIm/YJoDdLdY29+2+ndq1/uUQU4MrksYfDPqqChHDlKFnxzM9AAGUKPzPasOJeie2q1D0d2FRZXFN5asE8oxTZ1y8fp6ArTFqs5zrGWWCsug4f97V1KAUQcK9B9qIZGXey/XD4wwrLSA2Q4lhadk8mrLYJwDUh4Grrym3SEKng452EHDPVv0OOY8HxQqs5rztz8HpINLIq/mTkgt7ah+CADbAenO9ddSFppQeM41Smmuul1WUmAPUf0vBpmh697g//8NuQ==;FYcdHLlLeJjKK65VLb0OEw=="

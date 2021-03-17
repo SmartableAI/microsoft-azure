@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:12:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/LiveAction-Extends-LiveNX-to-AWS-and-Microsoft-Azure-141480.aspx"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,47 +24,34 @@ images:
     title: "LiveAction Extends LiveNX to AWS and Microsoft Azure"
 
 related:
-  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-    publishedDateTime: 2020-06-22T14:21:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+  - title: "BNY Mellon to build ESG data analytics on Microsoft Azure"
+    excerpt: "The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of U."
+    publishedDateTime: 2020-06-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 90
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Microsoft to acquire CyberX, an Israel-based IoT security company"
-    excerpt: "CyberX is an Israel-based startup that is developing a cybersecurity platform to reduce IoT/OT risk and preventing costly outages, safety and environmental incidents, theft of intellectual property, and operational inefficiencies."
-    publishedDateTime: 2020-05-08T09:32:00Z
-    webUrl: "https://mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-to-acquire-cyberx-iot-security/amp/"
+  - title: "IDology integrates its ExpectID solution with the Microsoft Azure Active Directory External Identities"
+    excerpt: "IDology partners with Microsoft to integrate its ExpectID identity verification and anti-fraud solution with the Microsoft Azure AD External Identities."
+    publishedDateTime: 2020-07-03T00:13:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/07/03/idology-microsoft/"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 42
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 21
     images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-CyberX.jpg"
-        width: 1200
-        height: 627
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
         isCached: true
-  - title: "Device Authority’s KeyScaler IoT Security Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers now gain access to Device Authority’s KeyScaler to take advantage of the scalability, reliability, and agility of Azure."
-    publishedDateTime: 2020-06-23T11:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005500/en/Device-Authority’s-KeyScaler-IoT-Security-Platform-Microsoft"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
 secured: "KsndawL9oa0rAijRC6yVEJGPMEa0rg3lgPpokp9Gq2W/LaU1JY1o9ND5MV3o5zjYsfBi4xoJoG5N8yk2oR9heUFL+QllNs5jSQ8wB71SWmto3+FzDLXY4Vqbraoye6HTpWiyzUGBVMUQ9zitd41zawJ9nVW1zFwz9f+PBeZG/n8qY7imH3JEsrTVX7h8wbVjDjYqrzTQQQaF7+CIsFIOKY3ufwEYP0GUhT7QNcpp36uGX7P0bvcUuMOMaba25aRwK7SHKMs8rf/0m6QRxBdLZKuCTWfeUzEHy5ApHKQGZt4Hd4imZ6KNwfMC4+/eCFFl4gCXldtlHMbU4l3kTw2BWyYgrzoVOVzjx8eUA4zzIiZoe3htQZ9SeOOm+yZjJ6o6FbBW7dbCCv67D2ZQb5EMIYbotZcRe8O/nbwlELuI2gSLDz2fTs/FGSVw0aUCOIoDWPrbEbbaa5J5GkrxgJ+uqVUj1zveAdkN9rqOK2bRn3OG1eZR9g66v2ctIGE5k/jk2FUkQTSswcSS7y2OkCAx6Q==;jAT+D2DM3KV6rQQ1Q9KnLg=="
 ---

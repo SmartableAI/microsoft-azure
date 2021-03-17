@@ -24,109 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
-    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
-    publishedDateTime: 2020-11-25T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
-    publishedDateTime: 2020-11-19T14:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
-    excerpt: "SAN FRANCISCO, Nov. 25, 2020 /PRNewswire/ -- Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program ..."
-    publishedDateTime: 2020-11-25T00:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+  - title: "Accela Migrates Over 200 Data Center Customers to Microsoft Azure to Accelerate Digital Transformation"
+    excerpt: "PRNewswire/ -- Accela®, a leading provider of cloud-based solutions for government, today announced it successfully completed over 200 customer"
+    publishedDateTime: 2020-11-12T10:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/accela-migrates-over-200-data-center-customers-to-microsoft-azure-to-accelerate-digital-transformation-301171615.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 28
+    quality: 21
     images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
-    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-    publishedDateTime: 2020-11-25T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
-  - title: "Innovaccer's Data Activation Platform Now on Microsoft Cloud for Healthcare"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that it is supporting Microsoft Cloud for Healthcare with"
-    publishedDateTime: 2020-10-13T17:17:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-data-activation-platform-now-on-microsoft-cloud-for-healthcare-301151372.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1311776/Innovaccer_Logo.jpg?p=facebook"
+      - url: "https://mma.prnewswire.com/media/1008788/Accela_Logo.jpg?p=facebook"
         width: 600
-        height: 314
-        isCached: true
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
-    excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
-    publishedDateTime: 2020-12-01T08:35:00Z
-    webUrl: "https://news.microsoft.com/id-id/2020/12/01/microsoft-reveals-culture-of-innovation-fuels-business-resilience-and-economic-recovery-in-indonesia-at-the-2020-microsoft-cloud-innovation-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 0
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/454/2020/12/coi-summary-lead-image-1-768x512.jpg"
-        width: 768
-        height: 512
+        height: 315
         isCached: true
 
 secured: "YCA9BZlQnWBnwiwReoapZlQ9RZ4uYn5xlvOwnIt2SaCeh7EYcnlOXdj2ZhUZBeWGByhemXtTGnLbfu47snJ0Mdccvp8GQY2P6XXj6DLi0StpefCovCqAIG4EllR3PpF/cKpvzmPCaEK3+YHFbuEZNIuzkpoKVghGgGgS2lNhpsExYRQkFux85rofA+x8IPLdIG2S0zH7zlVfmDYpeVhb+0NvDMOuTIrrsuWsgNQQ2VAumjcFzd0fgRZtVAi6QPcVcNf7sohHBQ62KtjjUzFdyFWmRbYHielAO3EpeVCb+yw8Q73jL8mOvYHjG+vT8y0qg0KlogGwEuqnC9a3a5PRysEsaAeYKmIih14qORRrjEHhbIfkIZ/IEOqcT1uj+MT/RGTXZ0FHHxdoneOUhtMRDOLGQDWG1pX24xXbPOsCiF6YPbHxwdHkwuKv8D6Cs8AuBkIaRpB/A2vsr4iaikzIbNdSm+PfpCgn/ofcQ7LmLktJlPB5sVPVxZNAEyY+cKa9uwCR9RBYT/M37mRARbjN7g==;rxtkEqKYfBUzqgyxg/+wTA=="

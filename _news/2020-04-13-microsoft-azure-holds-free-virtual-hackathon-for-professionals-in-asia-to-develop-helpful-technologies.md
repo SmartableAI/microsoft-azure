@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
+    publishedDateTime: 2020-06-23T04:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 24
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
+        width: 1223
+        height: 476
+        isCached: true
 
 secured: "GcJ5r7NwgARz01hSx3Z8vNt5A740SEFAnT+dsy/Xiy06eeuClC33nkGeOTxDkVBtXuNhWbpnPhIOuUkV3HgTQQGLMZ3jNLDJdIgSc+Xzz09112UycSXP6boyh8MHGltSGMw7idWK9YeTNoUTDh2PunlsQaEfKEbWFjtxXZ7pNOLF/d5HYujbhjsXKOCyaxVNf57Miyf3G+36s4oWasAPvDEIlA9FBwTIOKUi74kIjzUb6Jm3G7BiT3pnVjWQabKLBIX0hZS2XZg5wQvTovSreD1cJB+rOTfDKt9+RZCI/YoNl64YT4OAEkdm+eaYzOmg;kiXLNPS8WFAifM99MqvCYg=="
 ---

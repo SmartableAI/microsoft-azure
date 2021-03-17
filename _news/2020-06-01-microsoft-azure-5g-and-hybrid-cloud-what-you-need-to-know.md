@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-5g-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-5g-and-hybrid-cloud-what-you-need-to-know/"
 type: article
 quality: 97
-heat: 757
+heat: 677
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "Microsoft Azure, 5G and hybrid cloud: What you need to know"
 
 related:
-  - title: "Everything you need to know about Microsoft Azure"
-    excerpt: "Azure is a cloud platform (infrastructure as a service) from Microsoft. Like other cloud platforms such as AWS from Amazon, and Google Cloud Platform, Microsoft Azure provides a wide range of ..."
-    publishedDateTime: 2020-11-09T15:10:00Z
-    webUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/"
-    ampWebUrl: "https://www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/introduction-to-microsoft-azure-1175557/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 97
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere"
     excerpt: "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution."
     publishedDateTime: 2020-05-31T02:58:00Z
@@ -135,15 +119,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
-  - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-05-31T18:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2019-06-05/microsoft-and-oracle-to-interconnect-microsoft-azure-and-oracle-cloud"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 57
   - title: "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers"
     excerpt: "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Business Wire PA"
     publishedDateTime: 2020-06-02T12:19:00Z
@@ -184,20 +159,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Microsoft Azure Active Directory (Azure AD)"
-    excerpt: "There is no shortage of online forums to help troubleshoot Azure AD. Virtually limitless integrations. Azure Active Directory is a cloud-based identity and access management service that covers a broad range of authentication scenarios, user types, and developer authentication abilities. Its single sign-on makes for a seamless end-user ..."
-    publishedDateTime: 2020-06-02T08:35:00Z
-    webUrl: "https://www.scmagazine.com/review/microsoft-azure-active-directory-azure-ad/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/06/Microsoft-Identity-Mgt-Image_June2020.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Microsoft Could Be a $2 Trillion Company. Analyst Sees Gains From Cloud Business."
     excerpt: "Microsoft stock has climbed more than 15% in 2020 as the company has avoided much impact from Covid-19. Yet Wells Fargo argues that the shares have more room to run."
@@ -326,20 +287,6 @@ related:
       - url: "https://www.investopedia.com/thmb/Q1A1btEXveIZ9LtcaLDDQP-LJ08=/680x440/filters:fill(auto,1)/microsoft_windows_istock_000025623287-80aa1528091f4cdb908f66e2440a2589.jpg"
         width: 680
         height: 440
-        isCached: true
-  - title: "Microsoft Cloud App Security"
-    excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
-    publishedDateTime: 2020-07-02T17:13:00Z
-    webUrl: "https://virtualizationreview.com/articles/2020/07/02/cloud-app-security.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 22
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140514VRTRamelCloudSecurity.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Top three ways to get the most out of Microsoft Teams for your small business"
     excerpt: "From its chat-based interface, integrations with other Microsoft apps, or other services here are the top three ways you can get the most out of Teams for your small business. Use Microsoft Teams to manage your files with the Files experience."

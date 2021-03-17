@@ -33,38 +33,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "13 ways Microsoft Azure beats AWS"
-    excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
-    publishedDateTime: 2020-06-01T10:13:00Z
-    webUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html"
-    ampWebUrl: "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 97
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Build your own VM in the cloud with Microsoft Azure"
-    excerpt: "Read more about it here. Setting up a virtual machine in Microsoft Azure is a lot easier than you might think. Ed Bott shares his experience and walks you through the process. I just set up two ..."
-    publishedDateTime: 2020-08-16T19:29:00Z
-    webUrl: "https://www.techrepublic.com/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/build-your-own-vm-in-the-cloud-with-microsoft-azure/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2016/04/14/52bab34b-a72d-46b5-81cb-0879006d68ee/resize/1200x/a9e189dac890bda1fd4365c9248748eb/awindowsazuredashboard.jpg"
-        width: 1200
-        height: 504
-        isCached: true
   - title: "Why Microsoft Azure wins with enterprise customers"
     excerpt: "In the cloud wars, Microsoft often comes off as second best to Amazon Web Services. But when it comes to established enterprises Azure wins more often than not. Here’s why."
     publishedDateTime: 2021-02-22T03:00:00Z
@@ -546,6 +514,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Investor Preference For Microsoft Over Amazon Looks Misguided"
+    excerpt: "Microsoft’s stock has doubled since the beginning of 2018.Great news for Microsoft investors. Things haven’t been too shabby for Amazon investors either, as the company’s stock also gained almost 60% during the same period."
+    publishedDateTime: 2020-05-26T10:05:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/05/26/why-investor-preference-for-microsoft-over-amazon-looks-misguided/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "Microsoft Stock Will Gain from Strong, Positive Catalysts"
     excerpt: "Although Microsoft (NASDAQ:MSFT) has rallied nearly 50% over the last couple of months, Microsoft stock is likely to climb further in both the short term and long term. Source: NYCStock / Shutterstock."
     publishedDateTime: 2020-05-28T20:26:00Z
@@ -634,38 +613,6 @@ related:
     quality: 57
     images:
       - url: "https://mspoweruser.com/wp-content/uploads/2017/05/azure-cosmos-db-2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Backup to Microsoft Azure with Veeam Direct Restore"
-    excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
-    publishedDateTime: 2020-05-27T08:16:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/353659-backup-to-microsoft-azure-with-veeam-direct-restore.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 57
-    images:
-      - url: "https://mybroadband.co.za/news/wp-content/uploads/2020/03/Picture1-2-640x359.png"
-        width: 640
-        height: 359
-        isCached: true
-  - title: "Microsoft updates Azure Stack HCI"
-    excerpt: "Microsoft has updated its Azure Stack HCI software, an on-premises version of its Azure cloud services to try and catch up with hyperconverged infrastructure (HCI) leaders VMware and Nutanix. Hyperconverged infrastructure is where compute,"
-    publishedDateTime: 2020-12-29T11:07:00Z
-    webUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.html"
-    ampWebUrl: "https://www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3601719/microsoft-updates-azure-stack-hci.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -1221,20 +1168,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Understanding Microsoft Azure certifications"
-    excerpt: "Take advantage of Azure certifications to help advance your career, earn recognition, and validate your technical knowledge and abilities in current and future industry job roles. Looking to level up your career or jump-start a new one?"
-    publishedDateTime: 2020-05-23T05:23:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/certifications/posts/understanding-microsoft-azure-certifications"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://docs.microsoft.com/en-us/learn/certifications/posts/images/understanding-azure-poster.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Microsoft wins no-bid MOD contract for £17.75 million for cloud support services"
     excerpt: "Don’t tell Amazon, but Microsoft was just awarded a £17.75 million contract to provide cloud support services to the Ministry of Defence in UK on the basis that no-one else could provide the same service."
     publishedDateTime: 2020-05-26T08:00:00Z
@@ -1391,20 +1324,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Azure and the Trends That Will Drive its Future"
-    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft's Finds Place For Yammer, Video Conferencing Market Heats Up & More News"
     excerpt: "When Microsoft introduced Teams in March 2017, creating another communication tool at the heart of Office 365 running in tandem with Yammer, it really put a question mark over the role and purpose of the app."
     publishedDateTime: 2020-05-15T13:01:00Z
@@ -1480,20 +1399,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/05/Microsoft-Learn-TV.jpg"
         width: 1931
         height: 1229
-        isCached: true
-  - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
-    excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
-    publishedDateTime: 2020-05-27T16:00:00Z
-    webUrl: "https://apnews.com/2fe98091652be001e8637122249be3f6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft Announces New Azure Regions in Europe to Accelerate Digital Transformation"
     excerpt: "And at the same provide a high level of security, data residency, and compliance. The new region will provide Polish businesses and organizations with Microsoft Azure, Microsoft 365, Dynamics 365, and Power Platform. A few days later on May 8 th, Microsoft announced a $1.5 billion five-year investment in Italy. The plan is dubbed Ambizione ..."

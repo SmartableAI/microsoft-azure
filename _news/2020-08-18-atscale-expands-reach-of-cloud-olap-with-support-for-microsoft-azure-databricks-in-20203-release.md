@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Avanade named strategic go-to Microsoft Azure partner in new global alliance with Databricks"
+    excerpt: "Avanade will become Databricks’ key global partner and benefit from its deep knowledge and experience in massive scale data engineering, and collaborative data science, complementing Avanade’s Azure data and AI capabilities."
+    publishedDateTime: 2020-08-11T05:41:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/134895/avanade-named-strategic-go-to-microsoft-azure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 6
 
 secured: "l4cRx+jh4gPmdLTagn0JgHR3o0TPtgk8I7KRGMeZzPU+rQcoh7cDvzbAW1NMnSOa/xU510QN1y7puXUwjImm1pC+OxXih/3cn4oVCAw56wfbcDJj4WpsXpPOIWX5HH9HTSlYsH3wbLFk5Y5m8WGtX23pZMp9vMBG5cIsvgpayO1aQqfZ8B7VBRHJLo9czEvXJVOkgWWNFtP9bImf09B7zyleoIF0BRb3ryQHL8g7oZcFcFEIilynt1Fetl++77kwTGqHfs25HZSLj6Vjq1I7SHzhsb4F5eeJSNPHzViAE+PKSU6EgMgRmkLuXxk+x+4OHm2FIsOdAqzVZ0Uo34rIo9BsTBQIyA2vMqUY4E0raCs=;KXaQw5Xo6b0QbTJ7Lre40g=="
 ---

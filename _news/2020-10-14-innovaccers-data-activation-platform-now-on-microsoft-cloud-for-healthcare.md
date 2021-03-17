@@ -24,110 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Innovaccer's Patient Relationship Management Solution is Now Available on Microsoft Azure"
-    excerpt: "Innovaccer, Inc., a leading healthcare technology company, recently announced that its patient relationship management solution is now available on Microsoft Azure. The solution streamlines communication between patients and their care teams."
-    publishedDateTime: 2020-11-24T18:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/innovaccer-s-patient-relationship-management-solution-is-now-available-on-microsoft-azure-1029835761"
+  - title: "Caribbean Operator Digicel Deploys Evolving Systems’ Evolution Platform on Microsoft Azure for CVM Campaign Management"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-10-08T13:52:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-10-08/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government"
-    excerpt: "With this certification, customers can now use Azure Databricks to process the U.S. government’s most sensitive, unclassified data in cloud computing environments, including data that involves the protection of life and financial assets. "
-    publishedDateTime: 2020-11-25T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Using Datadobi software, enterprises get the best of both worlds by allowing them the flexibility to keep their NAS file data either in their data center, in Azure, or both. And because Datadobi documents ‘chain of custody,"
-    publishedDateTime: 2020-11-19T14:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/Datadobi-Announces-Support-for-File-Data-Migration-and-Protection-to-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 53
     images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
-    excerpt: "SAN FRANCISCO, Nov. 25, 2020 /PRNewswire/ -- Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization Management Program ..."
-    publishedDateTime: 2020-11-25T00:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+  - title: "Caribbean Operator Digicel Deploys Evolving Systems’ Evolution Platform on Microsoft Azure for CVM Campaign Management Program"
+    excerpt: "(GLOBE NEWSWIRE) -- Evolving Systems, Inc. (NASDAQ: EVOL), a leader in real-time digital engagement solutions and services, is proud to announce that its fully scalable Evolution platform has been deployed at Digicel."
+    publishedDateTime: 2020-10-08T13:31:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8065097/caribbean-operator-digicel-deploys-evolving-systems-evolution-platform-on-microsoft-azure-for-cvm-campaign-management-program"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
-  - title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
-    excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-    publishedDateTime: 2020-11-25T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
-  - title: "AppDynamics Featured as an Application Performance Monitoring Partner in the Microsoft Cloud Adoption Framework for Azure"
-    excerpt: "AppDynamics, a part of Cisco and the world’s #1 APM solution and full-stack, business-centric observability platform, today announced its listing on Microsoft’s Cloud Adoption Framework (CAF) for Azure customers."
-    publishedDateTime: 2020-11-20T17:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-lung-disease-ef8f6ef9ccc84b9fbffef39c53634b8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Innovaccer's Member Engagement Solution is Now Available on Microsoft Azure to Assist Payers Accelerate Their Digital Transformation Journey"
-    excerpt: "Inc., a leading healthcare technology company, recently announced that their member engagement solution is now available on Microsoft Azure. The solution enables"
-    publishedDateTime: 2020-11-04T23:06:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/innovaccers-member-engagement-solution-is-now-available-on-microsoft-azure-to-assist-payers-accelerate-their/article_9501b847-092e-5f93-b914-c0b84926deda.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 2
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/5e/05ee89ea-2eac-51e4-86fe-a186902e6de3/5fa3306b000dd.image.jpg?resize=400%2C293"
-        width: 400
-        height: 293
-        isCached: true
-  - title: "Microsoft Reveals Culture of Innovation Fuels Business Resilience and Economic Recovery in Indonesia at the 2020 Microsoft Cloud Innovation Summit"
-    excerpt: "The COVID-19 pandemic has shown that no business is 100 percent resilient, but an organization that is strengthened by digital technology will become tougher and more capable of transformation when faced with mass structural change."
-    publishedDateTime: 2020-12-01T08:35:00Z
-    webUrl: "https://news.microsoft.com/id-id/2020/12/01/microsoft-reveals-culture-of-innovation-fuels-business-resilience-and-economic-recovery-in-indonesia-at-the-2020-microsoft-cloud-innovation-summit/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/454/2020/12/coi-summary-lead-image-1-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "ZRW071PUPFK9nitOYoIv0LPxqEW3yHaQnjRXq1J1dyfH4FGfRNSO0VRvsRbOl0Ozn07szzwG72av7xcU3hBvuIY2O0t9gfQfSbUkksChS7+gMyNeWjdevFsJNMQivO/6ikX/USUtnO84xbk5eGChTanez7S1N9Zbg2ytt2/dpwMelARE1tz4H0UpcTTJynzrZ2KxQtVk94h8DWAmDvXWOLBj4X7P0Ojmf57diNhQpkDy1Ty3FeIGObeTmBeFSITOso0H+HLC36OFvzrzEwe26HKQ8m72tdqJA76LIuxvmr6eX8E1EfzPseXjZMzxW1i0fa6wehrgoxPiyebkZ4IQOMcqoBztT7CmQLacsV7oSuY=;kbSeI47ufrA14J/ThcAenA=="
 ---

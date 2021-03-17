@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This Microsoft Azure training bundle helps you master cloud computing for $30"
-    excerpt: "With so many businesses setting up online, cloud computing skills have never been so in demand. The Complete Microsoft Azure eBook & Video Course Bundle helps you master one of the most popular platforms,"
-    publishedDateTime: 2020-11-24T17:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-training-bundle-helps-you-master-cloud-computing-30?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29760_article_image-3enn.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2"
     excerpt: "Microsoft Azure extends their Edge into space with the Spaceborne Computer-2 . Hewlett Packard Enterprise sends a computer to the"
     publishedDateTime: 2021-02-15T20:17:00Z
@@ -221,6 +205,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 44
+  - title: "As Microsoft Azure Evolves, Channel Opportunities Expand"
+    excerpt: "Fueled by its Azure business, Microsoft is poised to be well positioned in the office productivity space for years to come, and channel partners are going to benefit as a result. This was a clear ..."
+    publishedDateTime: 2021-02-18T00:00:00Z
+    webUrl: "https://www.channelpartnersonline.com/blog/as-microsoft-azure-evolves-channel-opportunities-expand/"
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 37
+    images:
+      - url: "https://www.channelpartnersonline.com/files/2017/06/Cloud-Computing1-770x285.jpg"
+        width: 770
+        height: 285
+        isCached: true
   - title: "CockroachDB Available in Microsoft Azure Marketplace"
     excerpt: "NEW YORK, Feb. 16, 2021 /PRNewswire/ -- Cockroach Labs today announced the availability of CockroachDB in the Microsoft Azure Marketplace, an online store providing applications and services for ..."
     publishedDateTime: 2021-02-17T17:20:00Z
@@ -319,17 +317,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "First AWS, Now Microsoft Cloud, Who Is Next"
-    excerpt: "Microsoft Cloud, Who Is Next By Ashwin Krishnan, SVP, Product Management and Strategy, HyTrust - So, there we have it—within a window of a month, the top two public cloud providers on the planet—AWS"
-    publishedDateTime: 2021-02-19T04:20:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/first-aws-now-microsoft-cloud-who-is-next-nid-24091-cid-50.html"
+  - title: "Reliable and Flexible Microsoft Cloud Products for Business Teams"
+    excerpt: "Reliable and Flexible Microsoft Cloud Products for Business Teams By Allison L. Radecki, CIO, Beam Suntory - Microsoft Solutions for Business Processes Beam Suntory is targeting a very aggressive growth strategy as the"
+    publishedDateTime: 2021-02-19T04:43:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/reliable-and-flexible-microsoft-cloud-products-for-business-teams--nid-6806-cid-50.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
     quality: 22
     images:
-      - url: "https://www.cioreview.com/ck_images/9r7q4fDs.jpeg"
+      - url: "https://www.cioreview.com/newsimages/special/G5fmMQS1.gif"
         width: 300
         height: 300
         isCached: true

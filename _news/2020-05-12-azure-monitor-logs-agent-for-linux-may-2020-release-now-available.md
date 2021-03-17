@@ -35,10 +35,10 @@ related:
         width: 724
         height: 409
         isCached: true
-  - title: "Multiple new features for Azure VPN Gateway are now generally available"
-    excerpt: "Take advantage of multiple new enhancements and features that are now generally available in Azure VPN Gateway."
-    publishedDateTime: 2020-11-20T16:45:06Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/multiple-new-features-for-azure-vpn-gateway-are-now-generally-available/"
+  - title: "Java Azure Functions support on Linux is now generally available "
+    excerpt: "Developers can now build and publish Java Azure Functions Apps on Linux."
+    publishedDateTime: 2020-12-09T16:43:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/java-azure-functions-support-on-linux-is-now-generally-available/"
     type: article
     provider:
       name: Microsoft

@@ -66,6 +66,17 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "Microsoft goes public with more of its Azure capacity improvement plans"
+    excerpt: "Microsoft has been making lots of under-the-covers changes to how it runs its cloud services, including Azure-based Teams, to meet demand during the COVID-19 pandemic. Here are the details."
+    publishedDateTime: 2020-06-16T19:11:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-goes-public-with-more-of-its-azure-capacity-improvement-plans/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
   - title: "Mobius Logic brings drone flight management to Microsoft Azure"
     excerpt: "Microsoft Azure helps us offer this value in a secure, scalable, and reliable cloud platform, so our users can benefit in a cost-effective way.\" Drone FMS integrates with most enterprise resource ..."
     publishedDateTime: 2020-08-21T15:17:00Z
@@ -106,6 +117,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106660668-1598305641096-snow.jpg?v=1598306191"
         width: 790
         height: 527
+        isCached: true
+  - title: "Understanding Microsoft Azure: A business guide"
+    excerpt: "Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to ..."
+    publishedDateTime: 2020-08-25T21:20:00Z
+    webUrl: "https://www.zdnet.com/video/understanding-microsoft-azure-a-business-guide/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 77
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
+        width: 770
+        height: 578
         isCached: true
   - title: "Release of new Azure CDN (Microsoft Standard) capability "
     excerpt: "The Azure CDN service, a distributed network of servers that can efficiently deliver web content to users, now supports multiple origins."
@@ -288,20 +313,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "Microsoft Azure Cloud Gets One-Year Extension to Host DoD’s Secret Data"
-    excerpt: "DISA eased restrictions on the certification the company originally received in February of last year and opened the cloud service to mission partners, the agency said Tuesday. The Azure Government Secret region is designed to help agencies maintain the integrity of classified workloads."
-    publishedDateTime: 2020-08-26T10:52:00Z
-    webUrl: "https://www.govconwire.com/2020/08/microsoft-azure-cloud-gets-one-year-extension-to-host-dods-secret-data/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 37
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/08/26/22/29/e6/80/09/f1/06/24/a0If300000N93u6EAB-microsoft-20190109.jpeg"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Microsoft Azure ‘most used and trusted’ public cloud, says CCS Insight survey"
     excerpt: "Microsoft Azure was cited as both the most-used and most trusted public cloud, according to the survey, ahead of IBM, Google Cloud, and Amazon Web Services. When it came to IT budgets more generally, there was positive news. Two thirds of respondents said ..."
     publishedDateTime: 2020-08-25T14:34:00Z
@@ -383,19 +394,19 @@ related:
         width: 1199
         height: 815
         isCached: true
-  - title: "Telit's Comprehensive IoT Portfolio is Microsoft Azure Certified for IoT Device Catalog"
-    excerpt: "\"The new Azure IoT capabilities in Telit's industry-leading modules for 4G LTE, Bluetooth and Wi-Fi enables customers to rapidly integrate their devices with the Microsoft Azure ecosystem,\" said ..."
-    publishedDateTime: 2020-08-15T03:12:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/telits-comprehensive-iot-portfolio-is-microsoft-azure-certified-for-iot-device-catalog-301110436.html"
+  - title: "Innovaccer's COVID-19 Management System Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SAN FRANCISCO, Aug. 13, 2020 /PRNewswire/ -- Innovaccer, Inc., a leading healthcare technology company, today announced the availability of its COVID-19 Management System in the Microsoft Azure ..."
+    publishedDateTime: 2020-08-13T16:17:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/innovaccers-covid-19-management-system-now-available-in-the-microsoft-azure-marketplace-301111911.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 29
+    quality: 28
     images:
-      - url: "https://mma.prnewswire.com/media/519755/Telit_Logo.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1228171/Innovaccer_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "Microsoft Announces the Preview of Java Message Service 2.0 over AMQP on Azure Service Bus"
     excerpt: "In a recent blog post, Microsoft announced the preview support for Java Message Service (JMS) 2.0 over AMQP in the Azure Service Bus Premium tier. The support will allow customers to modernize their application stack by lifting and shifting their Java and Spring workloads to Azure."

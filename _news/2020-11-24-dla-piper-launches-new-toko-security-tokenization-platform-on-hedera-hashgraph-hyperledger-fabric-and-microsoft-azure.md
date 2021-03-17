@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/dla-piper-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dla-piper-launches-new-toko-security-tokenization-platform-on-hedera-hashgraph-hyperledger-fabric-and-microsoft-azure-1029834403"
 type: article
 quality: 70
-heat: 110
+heat: 90
 published: true
 
 provider:
@@ -25,20 +25,6 @@ topics:
   - Security
 
 related:
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-    publishedDateTime: 2020-11-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure"
     excerpt: "DLA Piper Launches New TOKO Security Tokenization Platform on Hedera Hashgraph, Hyperledger Fabric, and Microsoft Azure. Nov 30, 2020 1:44 PM ET. Legal Newswire POWERED BY LAW.COM"
     publishedDateTime: 2020-11-30T17:44:00Z

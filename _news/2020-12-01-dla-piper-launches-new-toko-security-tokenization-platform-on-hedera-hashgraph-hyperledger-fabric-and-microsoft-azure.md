@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
-  - title: "Datadobi Announces Support for File Data Migration and Protection to Microsoft Azure"
-    excerpt: "Datadobi, a global leader in unstructured data management software, has today announced support for file data migration to and protection on Microsoft Azure. Adding this new capability means enterprise customers have another option to migrate and protect their NAS file data to the cloud,"
-    publishedDateTime: 2020-11-19T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005097/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005097/en/771234/23/datadobi-logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "HUsexRYQha5GJVqC6r1EbVupOyUhAimr8OhRJK6ouXEE7cEMp25wmhP8jI4RM6NegVAXEJezbIFCJMJDHqyD0KUWPsT0OuewJ3XrNP4z31GM2HIsN9+X8QtD87/gy7dlwPh+vPLdIgcAU7NyMa8G31ChxuDVCIyyg8jJJfQWzEj9DM2jdBPalwdH+u6gYe14ZJnF3fiorny66xGzuqHRiTBTpil6SG9wjDD8cwM/7y9uwVWp5/oBgk+xD41awu7Nbds7Fk2Rc1vTyC2o8xJOEcDUfiavdiK5D9+Bch0gp9PTz67hf+ZuK4T2RdSB1kIPlkfdzGB67p7tIGYiqFPsVgr/M8vkMa0KSEyeO1y8+sI=;jla4/5mOKLrH8eaPQ9gFIQ=="
 ---

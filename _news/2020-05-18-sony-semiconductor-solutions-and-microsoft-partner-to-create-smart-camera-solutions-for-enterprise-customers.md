@@ -891,15 +891,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 2
-  - title: "Microsoft unveils healthcare-specific cloud tools"
-    excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
-    publishedDateTime: 2020-05-19T15:39:00Z
-    webUrl: "https://seekingalpha.com/news/3575977-microsoft-unveils-healthcare-specific-cloud-tools"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
 secured: "eJ2yzf+o8WvJSinWJRwiwoQYRvXJn9+4+St7dZ7L/PY+hdDT6HQ5b15rD5w4PofkkaCnvpVtSDXbSLncUIxIwP9kxGEitF58kJgYhJHxGE4LO3/tgjbSWkQkmvaFoZRQOsfB2QcNYYyyauWHxIoYWZE7ZQxf232xTt005mCl2e2pxlrbAr6fxm3P/EqzJ+/8ixGBIkZ4n6i3bfDENmn9hLafaXF4atOdKIx2bjjEjWVQ1+7jumqeUy5jr1lvZ10gFYYx20ruhqy40guywcQNC/Bh031bQziWBD3Huf+cL/Z25tTnjKATp+OutgzNh/CZ;PEftiYIaOHzAbDygfT2WTQ=="
 ---
