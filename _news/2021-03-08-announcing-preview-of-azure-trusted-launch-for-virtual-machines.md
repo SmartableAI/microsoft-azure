@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/announcing-preview-of-azure-trust
 webUrl: "https://azure.microsoft.com/blog/announcing-preview-of-azure-trusted-launch-for-virtual-machines/"
 type: article
 quality: 104
-heat: 164
+heat: 166
 published: true
 
 provider:
