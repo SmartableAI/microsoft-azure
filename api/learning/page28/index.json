@@ -427,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-logic-apps/",
       "length": "PT28M",
       "ratings": {
-        "count": 1760,
-        "average": 4.7232957
+        "count": 1761,
+        "average": 4.7234526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -703,48 +703,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-plan-deploy-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-stack-hci-technologies.md",
-      "title": "Introduction to Azure Stack HCI core technologies",
-      "excerpt": "This module introduces Azure Stack HCI technologies. You'll learn about the core Azure Stack HCI technologies, including Hyper-V, Windows Server software-defined storage, and Windows Server software-defined networking.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-stack-hci-technologies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-stack-hci-technologies/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 24,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-stack-hci-technologies-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1092,8 +1050,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
       "length": "PT53M",
       "ratings": {
-        "count": 209,
-        "average": 4.6842103
+        "count": 211,
+        "average": 4.687204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1256,6 +1214,50 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-node-cosmos-app-vscode.md",
+      "title": "Build a Node.js app for Azure Cosmos DB in Visual Studio Code",
+      "excerpt": "Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code, Node.js and JavaScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-node-cosmos-app-vscode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 334,
+        "average": 4.523952
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-node-cosmos-app-vscode-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Developer tools"
       ]
     }
   ],
