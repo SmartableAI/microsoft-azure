@@ -72,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 969,
-            "average": 4.7997937
+            "count": 971,
+            "average": 4.799176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 821,
-            "average": 4.8124237
+            "count": 822,
+            "average": 4.812652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -157,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 1129,
-            "average": 4.7909656
+            "count": 1130,
+            "average": 4.7911506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -217,8 +217,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 737,
-        "average": 4.797829
+        "count": 739,
+        "average": 4.798376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,8 +253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3188,
-        "average": 4.4924717
+        "count": 3190,
+        "average": 4.491536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,8 +375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 768,
-        "average": 4.8268228
+        "count": 770,
+        "average": 4.827273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 886,
-        "average": 4.7663655
+        "count": 890,
+        "average": 4.7674155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -505,8 +505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
       "length": "PT32M",
       "ratings": {
-        "count": 9460,
-        "average": 4.698203
+        "count": 9462,
+        "average": 4.698161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -547,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 760,
-        "average": 4.7157893
+        "count": 762,
+        "average": 4.7165356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -589,8 +589,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
       "length": "PT33M",
       "ratings": {
-        "count": 969,
-        "average": 4.7997937
+        "count": 971,
+        "average": 4.799176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -631,8 +631,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 158,
-        "average": 4.759494
+        "count": 160,
+        "average": 4.7625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,6 +754,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-python.md",
+      "title": "Introduction to Python",
+      "excerpt": "Learn about the Python programming language, how to execute statements and scripts, declare variables, and create a basic Python app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-python/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 5899,
+        "average": 4.7216477
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-python-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-to-site-reliability-engineering.md",
       "title": "Introduction to Site Reliability Engineering (SRE)",
       "excerpt": "Learn about SRE, an engineering discipline that helps you sustainably achieve the appropriate level of reliability in your systems, services, and products.",
@@ -795,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduce-foundation-pillars-devops/",
       "length": "PT25M",
       "ratings": {
-        "count": 3335,
-        "average": 4.689955
+        "count": 3336,
+        "average": 4.6900477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,6 +1027,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso.md",
+      "title": "Plan and design the integration of enterprise apps for SSO",
+      "excerpt": "Plan and design the integration of enterprise apps for SSO",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 69,
+        "average": 4.7971015
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
       "title": "Plan, implement, and administer conditional access",
       "excerpt": "Plan, implement, and administer conditional access",
@@ -1035,8 +1121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3575,
-        "average": 4.719161
+        "count": 3577,
+        "average": 4.7190385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1156,8 +1242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3684,
-        "average": 4.5559173
+        "count": 3685,
+        "average": 4.556038
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7220,
-        "average": 4.6650968
+        "count": 7221,
+        "average": 4.6650047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,88 +1345,6 @@
       "topics": [
         "Azure",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-what-is-azure-defender.md",
-      "title": "Plan for cloud workload protections using Azure Defender",
-      "excerpt": "Plan for cloud workload protections using Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-azure-defender/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 67,
-        "average": 4.776119
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series.md",
-      "title": "How to create a virtual machine in Azure | Azure Portal Series",
-      "excerpt": "Azure provides multiple virtual machine configuration options for you to set up your virtual machine exactly how you want for whatever you're trying to do. In this video of the Azure Portal “How To” Series, learn how to configure a basic virtual machine and connect to it in minutes in the Azure portal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-virtual-machine-in-azure-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=rOiSRkxtTeU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rOiSRkxtTeU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M18S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-30T08:31:34-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rOiSRkxtTeU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Compute"
       ]
     }
   ],

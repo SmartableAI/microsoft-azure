@@ -4,6 +4,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
+      "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
+      "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 261,
+        "average": 4.5708814
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-hub-conveyor-belt-vibration-detection-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Analytics",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training.md",
       "title": "Deep learning with Horovod for distributed training",
       "excerpt": "Deep learning with Horovod for distributed training",
@@ -190,8 +235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
       "length": "PT38M",
       "ratings": {
-        "count": 187,
-        "average": 4.6310163
+        "count": 188,
+        "average": 4.62234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -234,8 +279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 139,
-        "average": 4.589928
+        "count": 140,
+        "average": 4.5785713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -751,50 +796,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-data-platform-modernization.md",
-      "title": "Introduction to data platform modernization",
-      "excerpt": "Introduction to data platform modernization",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-data-platform-modernization/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-data-platform-modernization/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 25,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-open-source-analytics-offering.md",
       "title": "Introduction to the Open source Analytics Offering",
       "excerpt": "Introduction to the Open source Analytics Offering",
@@ -1149,8 +1150,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
       "length": "PT46M",
       "ratings": {
-        "count": 102,
-        "average": 4.5882354
+        "count": 103,
+        "average": 4.563107
       },
       "provider": {
         "name": "Microsoft Learn",

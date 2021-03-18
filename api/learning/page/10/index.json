@@ -4,44 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings.md",
-      "title": "Chain Azure Functions together using input and output bindings",
-      "excerpt": "In this module, we'll learn how to integrate your Azure Function with various data sources by using bindings.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-chain-azure-functions-data-using-input-output-bindings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
-      "length": "PT1H10M",
-      "ratings": {
-        "count": 3389,
-        "average": 4.575686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Compute",
-        "Serverless",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-clustering-model-azure-machine-learning-designer.md",
       "title": "Create a Clustering Model with Azure Machine Learning designer",
       "excerpt": "Clustering is an unsupervised machine learning technique used to group similar entities based on their features. Learn how to create clustering models using Azure Machine Learning designer.",
@@ -74,6 +36,49 @@
       "topics": [
         "Azure",
         "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-configure-manage-identities.md",
+      "title": "Create, configure, and manage identities",
+      "excerpt": "Create, configure, and manage identities",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-configure-manage-identities/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 224,
+        "average": 4.790179
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -162,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6036,
-        "average": 4.697813
+        "count": 6039,
+        "average": 4.697632
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -204,8 +209,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 928,
-        "average": 4.7640085
+        "count": 929,
+        "average": 4.7642627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,8 +251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 414,
-        "average": 4.7584543
+        "count": 415,
+        "average": 4.759036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -369,8 +374,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 1129,
-        "average": 4.7909656
+        "count": 1130,
+        "average": 4.7911506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -411,8 +416,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 158,
-        "average": 4.810127
+        "count": 159,
+        "average": 4.811321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -454,8 +459,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1825,
-        "average": 4.611507
+        "count": 1826,
+        "average": 4.6117196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +545,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-threat-intelligence-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 107,
-        "average": 4.7476635
+        "count": 108,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -661,8 +666,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 6105,
-        "average": 4.7239966
+        "count": 6106,
+        "average": 4.724042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -695,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
       "length": "PT42M",
       "ratings": {
-        "count": 2412,
-        "average": 4.5945272
+        "count": 2413,
+        "average": 4.5946956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -902,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-linux/",
       "length": "PT16M",
       "ratings": {
-        "count": 1508,
-        "average": 4.7387266
+        "count": 1509,
+        "average": 4.7388997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,8 +949,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 518,
-        "average": 4.785714
+        "count": 520,
+        "average": 4.7865386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1071,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3147,
-        "average": 4.6800127
+        "count": 3148,
+        "average": 4.6801143
       },
       "provider": {
         "name": "Microsoft Learn",
