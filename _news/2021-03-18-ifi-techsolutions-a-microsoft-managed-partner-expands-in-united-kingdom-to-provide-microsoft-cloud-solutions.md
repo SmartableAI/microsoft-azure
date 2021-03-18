@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-publishedDateTime: 2021-03-11T08:22:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
+excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
+publishedDateTime: 2021-03-18T10:00:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
+webUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
 type: article
-quality: 53
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-    width: 450
-    height: 601
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -508,6 +510,22 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
+        isCached: true
   - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
     excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
     publishedDateTime: 2021-03-16T12:27:00Z
@@ -611,20 +629,6 @@ related:
       - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
         width: 1497
         height: 785
-        isCached: true
-  - title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
-    excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
-    publishedDateTime: 2021-03-18T10:00:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 42
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
@@ -1423,6 +1427,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "QXes5x4gaOz7sGltyBuGUE7lVENgrft4trNO/xcyDdc6sz9lWEgS+M+GuhfbxxeFZzk/a2P7fut7Q4iPvT08y2z7BC7PyIgG7Z45mGS+wa6crWargR3z1sAg1FqqsHWlMS7+26Qb0nISoL23RtBZ7BSJ3w2QOqwMbUk942OfkKOhieRABGkRLeFfaAYwtLRueeQd6fn2Yzf6D+2RielG2L8panSXLELI7G2aAjcc+3a0oeBgZYbR2nyZXl49L1xOFPkWEiGG00oh78Jtg24oPn/uVN9VhtY/vgkxVgqDIUlO3E3+dy3o5bqc+NH5z3t9V1MAsvsVoMcoCcJcrpBeW5Iset89PfsuekK3pH5ekbQ=;DtD2iE9OE/P45ro7pzRmZg=="
+secured: "xN5DS5kLdIQnkWwyYc0qh6SdlFPsA1C56Ptm4HsQlAtH12x/aOL+HRyNG08MtvWBR5QbKEFYExlMsUid+cR1lWCd1U6Kv4v/n6YMxyX67eEoIg52TiZI2IAr5GTzojx0l0wUw1LtQyWkPf/zsmPEL6elzirwNfkz8Ix+3gXu45TcveJltCe+RUYZ4CyJIGbcbK9aZvLYib5LIpbDe6XVmwPCVKUTas2uUplA/7KtN30lDPGu9amlyiYLNecsBJd9+SCRid1Qd06lZvalDjTlQMeLrYJhLy7NUROOUurlIk5a5d05Z24b+xL2xfnnuhh4hMcnpbpb3lvshaabJNylsz/Y75Bst/hYzlFjA7oEzJQ=;5GEsFI2iOjh5PMCWazoHpg=="
 ---
 

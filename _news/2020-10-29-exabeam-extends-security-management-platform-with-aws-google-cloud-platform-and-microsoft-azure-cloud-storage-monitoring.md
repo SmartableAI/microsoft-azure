@@ -614,6 +614,20 @@ related:
         width: 1497
         height: 785
         isCached: true
+  - title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
+    excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
+    publishedDateTime: 2021-03-18T10:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 42
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure Sphere Security Overview"
     excerpt: "Microsoft, using its decades of experience in hardware, software, and cloud, with Azure Sphere, aims to provide security solutions for IoT devices. Another critical reason to be concerned about IoT data is its integration and management with numerous ..."
     publishedDateTime: 2020-04-01T18:33:00Z
