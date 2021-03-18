@@ -494,6 +494,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
+    publishedDateTime: 2021-03-17T22:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
     excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
     publishedDateTime: 2021-03-16T12:27:00Z

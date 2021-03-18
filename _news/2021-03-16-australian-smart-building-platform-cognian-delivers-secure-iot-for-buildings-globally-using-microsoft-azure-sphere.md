@@ -487,6 +487,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
+    publishedDateTime: 2021-03-17T22:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z

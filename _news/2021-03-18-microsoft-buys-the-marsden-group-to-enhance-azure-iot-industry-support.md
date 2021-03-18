@@ -1,21 +1,28 @@
 ---
 category: news
-title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
-excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
-publishedDateTime: 2020-11-25T12:49:00Z
-originalUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
-webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
+publishedDateTime: 2021-03-17T22:36:00Z
+originalUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
+webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
 type: article
-quality: 17
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Redmond Magazine
+  domain: redmondmag.com
 
 topics:
   - Azure
+  - IoT
+
+images:
+  - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+    width: 647
+    height: 450
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -484,20 +491,6 @@ related:
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 450
-        isCached: true
-  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
-    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
-    publishedDateTime: 2021-03-17T22:36:00Z
-    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
-        width: 647
         height: 450
         isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
@@ -1330,6 +1323,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
+    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
+    publishedDateTime: 2020-11-25T12:49:00Z
+    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Node4 awarded Microsoft Azure Expert MSP status"
     excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
     publishedDateTime: 2021-03-11T10:30:00Z
@@ -1394,6 +1396,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "KQKhP63hR/r/xZpgrHMZArvfNqdwKRcrT5uP+Ij1mZAp93jfR0mJvfGLT6mt2/yQvXhZew9FtsAmi71Z2ADVXlxs2jTyJfGKfjAs7LYiBVm5lkoyX592SzexI62LcUmcepjxOvrVp/QBv3qoGKW4Kd9MmXsNKwf1ElrzdLT1nefwyU4VH7Igu78IOIzrmSEMIGOOlcSRG+DL0HwTuj5R4rlm15pBuOM5m0aov0akMQnTKAnzsZaXEPlSLCHv8HAklUuI/5m9w2bVSQoV+G1U1OkismxYjJnRGzE9Uq1pA7F+kNiXWeVWFwd0Kj6PjgvLSYSJiMXDw4BT1MW/WNDLV46GfU31s0EHKZ7QqwMZnO8=;Spxh9YeJfoaSJ6YMdzhLbw=="
+secured: "8hGN8NZRilXP+cz2jEGq+/EzmdFfyDueOZ6r27lU9BsOCtuorN7E5ejjaP8XCd5rCRZJG+rU1iSZRqCKDlHeYoKc3hIw1W3KIgAcjOsgodd1OKtuM6WTNx6pCAgRm3i5arB11J2cSTk8xrm71NWpD44zSPYOrvOJB5zGcIMkz/WYu9zaFS/ardxs5z6Gfk6y2zQ83rQf6R+T+lupoL2eZoBuLdpD2RRROkKQXBoeqZphLz92A7O+Fs0U1YHqCWmk7mZh2myXeiVA5gbO4gUvrF4GJDpmEJcPykUA/A1Tyo/mxMYkHQ1Va3zznxZrZNQfesGS0/xe8Z8Ww2jU+a1kKbGxmT9jF/f3/0OqKr2QTdA=;2J0Mg7pPpe+cYSVbjjkyww=="
 ---
 
