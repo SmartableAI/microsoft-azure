@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/longterm-backup-retentio
 webUrl: "https://azure.microsoft.com/en-us/updates/longterm-backup-retention-ltr-for-azure-sql-managed-instance-in-public-preview/"
 type: article
 quality: 79
-heat: 79
+heat: 80
 published: true
 
 provider:
