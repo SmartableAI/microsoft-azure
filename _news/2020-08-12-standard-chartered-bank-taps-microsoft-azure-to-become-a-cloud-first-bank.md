@@ -1055,6 +1055,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft is making Azure more resilient with new availability zones"
+    excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
+    publishedDateTime: 2021-03-17T22:07:00Z
+    webUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
+        width: 900
+        height: 493
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

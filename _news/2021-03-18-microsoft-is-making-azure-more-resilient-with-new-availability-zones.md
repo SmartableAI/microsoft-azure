@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
-excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
-publishedDateTime: 2021-03-15T06:40:00Z
-originalUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
-webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+title: "Microsoft is making Azure more resilient with new availability zones"
+excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
+publishedDateTime: 2021-03-17T22:07:00Z
+originalUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
+webUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
-    width: 490
-    height: 360
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
+    width: 900
+    height: 493
     isCached: true
 
 related:
@@ -1032,6 +1032,20 @@ related:
         width: 606
         height: 454
         isCached: true
+  - title: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic"
+    excerpt: "Microsoft Azure Cloud Computing, Xbox Sales Surge During Pandemic  - The pandemic helped Microsoft increases its customer base for Azure and Xbox. Fremont, CA: Microsoft reported 50"
+    publishedDateTime: 2021-03-15T06:40:00Z
+    webUrl: "https://www.cioreview.com/news/microsoft-azure-cloud-computing-xbox-sales-surge-during-pandemic-nid-33119-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/companyimages/luc6w.fb5rp.image12341354.jpg"
+        width: 490
+        height: 360
+        isCached: true
   - title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
     excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
     publishedDateTime: 2021-03-16T23:52:00Z
@@ -1045,20 +1059,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft is making Azure more resilient with new availability zones"
-    excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
-    publishedDateTime: 2021-03-17T22:07:00Z
-    webUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
-        width: 900
-        height: 493
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
@@ -1409,6 +1409,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "EXMfS8qotDOPe4YyXIpddP04AaAX9NjvBFqNBPJH8Yq/u8+eEtR54itK2jutIprzOXkdcjRsrKfDakUTX8MGZ86+Je4NWhkvVJsQeJ/kJSYGCd23ddu9gvn83mSwXN9tsTzuu4SJFTQ0psZe6S8nv0JkIhm3rtK9Y6+c5MgP7DEhgKw4kglbu+XHewSiR39TcoH6uHMSCF42VGYO7CWe/cXIk12Kn7Rb5z3hKRwAlgpErE3LvDh0toGSKX2mt2+b4WcMHfp2Ayvwq/FAUThqNhGrqDQfwB7PmK/EBJF3qoFp68rukhnyWUB5UxxdL4HC6QzVpz4fKLj9rTunJfQ8MGovdsAcqAORE3I4+rBm3KPSKSvLM/0Ec5e7iQ1vR+IOzeZ5bM1loCIa7Z53Iv37HYztEyNqeoL2C0jLRPYFESilv8l4l0+GGQL9zSysKHnSKXSdyxoeWLR8WBIeiXGBLxyn1QFjTuC1QwOylCRaqbP8BeNloju91nx6Swka1uMScIJRzibAXPuON0uAvBX/vw==;vbhit9XwlGpyy69K2rY+OQ=="
+secured: "L4ZjAwPjB1r+PlThrgUFavtZ6PixzqJIa7oNihEHrBOjAK0wSwHq1RthJkZlp/Wrf5sh2K+6ohXS0eI33AbVVcDabf1Rl5gWdSCWNBVh/9yN4EAxtlT98DOuaMBkBkMW7yYdrYIDQtHnXN7MdOAnqJtGONdK+ZftPyml/vW17Z38Vb2tVCWr8QLztQnhoaGNkFSS3/Xu76tb/wfISK8Q015LCf6QStSOJ3O1o2oPxGumzFDqGE3rR0aI3hCieGTu1eW48IwGzvNsxuL/ePRJ1iceDoN5xzbEGpwURTohIgxK62i1Yfj9VbCAKGVorY7wZqeBW9DpCIn9+Chv2rEa87+tezBH2ZWoXYQF6Rr48Mo=;CTq+IwTIkfLvHYZAqIeNDA=="
 ---
 

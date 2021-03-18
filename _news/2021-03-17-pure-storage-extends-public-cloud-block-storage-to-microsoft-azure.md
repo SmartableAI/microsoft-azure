@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2134
+heat: 2154
 published: true
 
 provider:
@@ -1050,6 +1050,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/140528REDRamelVRTCloudOut.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft is making Azure more resilient with new availability zones"
+    excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
+    publishedDateTime: 2021-03-17T22:07:00Z
+    webUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
+        width: 900
+        height: 493
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"

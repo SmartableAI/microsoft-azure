@@ -1047,6 +1047,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft is making Azure more resilient with new availability zones"
+    excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
+    publishedDateTime: 2021-03-17T22:07:00Z
+    webUrl: "https://siliconangle.com/2021/03/17/microsoft-making-azure-resilient-new-availability-zones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
+        width: 900
+        height: 493
+        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1396,6 +1410,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "8hGN8NZRilXP+cz2jEGq+/EzmdFfyDueOZ6r27lU9BsOCtuorN7E5ejjaP8XCd5rCRZJG+rU1iSZRqCKDlHeYoKc3hIw1W3KIgAcjOsgodd1OKtuM6WTNx6pCAgRm3i5arB11J2cSTk8xrm71NWpD44zSPYOrvOJB5zGcIMkz/WYu9zaFS/ardxs5z6Gfk6y2zQ83rQf6R+T+lupoL2eZoBuLdpD2RRROkKQXBoeqZphLz92A7O+Fs0U1YHqCWmk7mZh2myXeiVA5gbO4gUvrF4GJDpmEJcPykUA/A1Tyo/mxMYkHQ1Va3zznxZrZNQfesGS0/xe8Z8Ww2jU+a1kKbGxmT9jF/f3/0OqKr2QTdA=;2J0Mg7pPpe+cYSVbjjkyww=="
+secured: "xE2ASzIM+0G2NuAMQ1SoQmPIhy455l+uDhQHMEUyckN//NIJ1b/RdafIcxp/fZJb5VJTgq/jIsTTdp6mhNB3E8fwQ4JNlHq7jVb5VQIWMgoTXqTY0Ynp/Blwpf3NzuSWcN5/1sJEPG2KbI+5DxoZSZvihFI5zo+/2n/J4Vv0SFkyZCIUPCJinMNYkGFDGN1M7JrxuNUNC2Q+6uNQXSk8LEdAZnTlWEzCc/6VrH45b6V5a83sukVXWC0Scubhvp4J/gyVvuYJYX6tWF1wAB/fa7DcGg6+POdAi2hoTpnTmPtYXjz0wKUDdicNcJqfb0uqTN7pFIDPXULp50m9rSxnTMGSUMhn22JIaTIFXHONt9G72Xbkyzhs8G7DYCpYz3cmvKQ0X60TBvNk5jEE6zjJIZAfCuLjYr8BsWGwZ7DiLZqVKTCYeROWW2VGLOWdOi+d7BWbOJhu1qzXSllTndJCV665BxS/tw/tnKWj8PL05WnambEuD+AMw2KHzQjuExhYRaswd4xDWZEiqRzbrDF9yw==;9K0L6Bdi+wx3Y+bA/hVo1g=="
 ---
 
