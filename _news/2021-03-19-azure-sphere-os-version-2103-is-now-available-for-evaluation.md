@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
-excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
-publishedDateTime: 2020-12-11T21:09:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 21.03 is now available for evaluation"
+excerpt: "The 21.03 OS quality update includes enhancements to mitigate against 5 CVEs. "
+publishedDateTime: 2021-03-19T16:30:31Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
 type: article
 quality: 67
 heat: -1
@@ -53,6 +53,15 @@ related:
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
     publishedDateTime: 2020-12-07T17:12:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
+    excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
+    publishedDateTime: 2020-12-11T21:09:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
@@ -112,15 +121,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS version 21.03 is now available for evaluation"
-    excerpt: "The 21.03 OS quality update includes enhancements to mitigate against 5 CVEs. "
-    publishedDateTime: 2021-03-19T16:30:31Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
@@ -140,6 +140,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "122GLKDDBFeRK/Br6Kzaai8MSNMbpCGDymqAt8XZ/3OYeZNNQHulTbYyWQHvlkY4ueVR47yAfMoa/L9aBsxEdbVXl6JmebTAYaV2Ep22Kf3+/qpU8Shc61dvJjXEYz7UN2PbbPHviqs+YrlFNb4sXgfAwL6j0byupnoVsd+tQrniS161j1FT5LMnD3h2AvWk+K8IS2rnVmSaqsPadZbCAtwmp/Gr11HeDawIjYtdJjSJYRVk2zeagfJWc6VI4sMaaZJGZ2vrGDX9Qnf445ZdpF29kOe2IOMMxh0ZU/g6OeDlIjZgqqjxElv/minK3mOxR2lrRo0gupuAAIVm4hQMzhLlJtQWfxPr1OvsaQ2zQvw=;MqkCS5TvScHGfMhK8fAjXg=="
+secured: "cR22GLZw1oJIQ1hzoqaWlanoTMrpARLOWOevrPmZBOCsCi0q1Q5JbaksHJmep1xSH5hxxeYRNRMa0Z5fzm06wasvuZGAQpXb2g0snSHLQDfTCoNP3YorNB8ig68M3ldemo34Q/1MPp6idMPGQ76rx7b5OO+Sxsbgv3uL7j5o0U2KFpUmxGJuiSK8l3vf8l93N7u+gHVFgdSgEYcvdp4bBqGBW2VAo6FLZ6ORjWjsFB4Q8caJm/OI9IWu0zXRf6VmxNqEY4vLwYmUlhW/OYzJ3ZFkh6T2mZ5wxgKT7dotAq1swuW+BV/JkFza+cagRqJuQPob5tFASnB/CdAuG1R9AbaUUMNduFl9sqeJBCnvEJ4=;0QxAseY6QYxIgpfCDxDgnw=="
 ---
 
