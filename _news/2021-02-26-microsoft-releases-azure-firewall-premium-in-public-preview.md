@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Microsoft Announces Azure Managed Instance for Apache Cassandra"
-excerpt: "At this year’s Ignite conference, Microsoft announced the public preview of Azure Managed Instance for Apache Cassandra, a NoSQL database product to manage Cassandra-based workloads into Azure cloud."
-publishedDateTime: 2021-03-07T09:06:00Z
-originalUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
-webUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
+title: "Microsoft Releases Azure Firewall Premium in Public Preview"
+excerpt: "Microsoft Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. The company recently announced a preview release of a premium ..."
+publishedDateTime: 2021-02-26T12:08:00Z
+originalUrl: "https://www.infoq.com/news/2021/02/azure-firewall-premium-preview/"
+webUrl: "https://www.infoq.com/news/2021/02/azure-firewall-premium-preview/"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - Azure
 
 images:
-  - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
+  - url: "https://cdn.infoq.com/statics_s1_20210317-0423/styles/static/images/logo/logo-big.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -1058,20 +1058,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Microsoft Releases Azure Firewall Premium in Public Preview"
-    excerpt: "Microsoft Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. The company recently announced a preview release of a premium ..."
-    publishedDateTime: 2021-02-26T12:08:00Z
-    webUrl: "https://www.infoq.com/news/2021/02/azure-firewall-premium-preview/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 37
-    images:
-      - url: "https://cdn.infoq.com/statics_s1_20210317-0423/styles/static/images/logo/logo-big.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Updates Java for Azure Spring Cloud"
     excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
     publishedDateTime: 2021-02-25T16:27:00Z
@@ -1197,6 +1183,20 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/microsoft-to-launch-new-azure-cloud-region-in-china-2021-03-06.jpg"
         width: 1000
         height: 800
+        isCached: true
+  - title: "Microsoft Announces Azure Managed Instance for Apache Cassandra"
+    excerpt: "At this year’s Ignite conference, Microsoft announced the public preview of Azure Managed Instance for Apache Cassandra, a NoSQL database product to manage Cassandra-based workloads into Azure cloud."
+    publishedDateTime: 2021-03-07T09:06:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/azure-apache-cassandra/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://res.infoq.com/news/2021/03/azure-apache-cassandra/en/headerimage/header%281%29-1615052332913.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Paysafe preps move to the cloud with Microsoft Azure"
     excerpt: "Leading specialised payments platform, Paysafe, announces today a new multi-year, global deal which will see Microsoft support Paysafe’s strategic move to cloud-based transaction services."
@@ -1575,6 +1575,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "EYl5mWebgkyXpNfnuC7z0wqzZRn2mJjcTWrmIgC7SwcsJi0JW0xlosxMleGg3RHXfQhLq8Ls8sBrtm2eJ+xlvHYHM8XHjKNg4aKGdIwx8i3Rl9LsY04KgODDEHHLU78V4C7vAbacpcnl7R+qpDIdLb+he8SZNnpmzx8b0qk342burbjDo9S4QhJztcQnSLoJ5GljTY41SIXoAvJhxWmIwX4QMI6pMrEVnWc3yIutiL7ZPW5H4qobBqa5e3ZMUup1XEWpu7tJMfS4AtwVEq7w+pNxLFwXou/OBIL4T9BDFpDw1IGfmkf3PHi82Gbk03/cOKOhmJOFmOawgK96OVVvGrwCTIsDrGGyoTPVWHL3S2vZKTysBehXjsXPQe3A7Uo2UAMt7DsOoVTdsppN5v9qqk7Fqju+8HJxHyz/tJldpS/G/GuTJNqeKSw6E8eII+BTUuIE9dZgqsExBEGzQx7VMyu++g0bhqPiLf0FnfQVCPliZykNyk3+6MQuUGftrUNbwTCMz/PXXCKsmDijgZBe+Q==;O9EMIQL4jvPLG2h1hcHefg=="
+secured: "s6m1xY/288h4oUcHd36LOHEEK45x1aT9SLDKHnZGbRunqLOePTImQbo/LVcvXCesyjnvEB6+rKK6V9UBN+m6T11nVOR4E4kgBvio9HOb3Q7aPrY62AGejMHL4zFSFplnw2l4wikKBJfQVR/4DOlzFqMudqWGpNdN5pb4zj/cG9f6qD1ff43QmU1yewQHUuw9cpuTZVeygxsXUro6dnD/BcqXB/IJpRpcity/Y5QJ3Fn45NKH8RvRSFSaOTSH9ZoUexqKCbtHqlPcCSEKh0SnMYFLNdLatKiAuVC+4madhBhzfBGjWxfP55mwNJSkc+XNwTT65g6xXP6mAVGeqXRCOYNReK+2HujpxduiECQlLXQ=;+W0E18Wk0ScoKTVnC15HVg=="
 ---
 

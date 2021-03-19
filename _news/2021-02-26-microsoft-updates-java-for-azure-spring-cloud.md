@@ -1058,6 +1058,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Microsoft Releases Azure Firewall Premium in Public Preview"
+    excerpt: "Microsoft Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. The company recently announced a preview release of a premium ..."
+    publishedDateTime: 2021-02-26T12:08:00Z
+    webUrl: "https://www.infoq.com/news/2021/02/azure-firewall-premium-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20210317-0423/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Company-X recruits five-time Microsoft MVP and Azure expert"
     excerpt: "Chen is adept in the Microsoft Azure cloud computing service for building, testing, deploying and managing applications through Microsoft datacentres. He is also a Microsoft certified Azure developer associate and holds a Microsoft Azure fundamentals ..."
     publishedDateTime: 2021-02-28T20:57:00Z

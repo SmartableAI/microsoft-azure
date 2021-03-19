@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 129
-heat: 2389
+heat: 2409
 published: true
 
 provider:
@@ -1048,6 +1048,20 @@ related:
       - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/02/10-Charts-That-Will-Change-Your-Perspective-Of-Microsoft-Azures-Growth-600x400.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Microsoft Releases Azure Firewall Premium in Public Preview"
+    excerpt: "Microsoft Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. The company recently announced a preview release of a premium ..."
+    publishedDateTime: 2021-02-26T12:08:00Z
+    webUrl: "https://www.infoq.com/news/2021/02/azure-firewall-premium-preview/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 37
+    images:
+      - url: "https://cdn.infoq.com/statics_s1_20210317-0423/styles/static/images/logo/logo-big.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Updates Java for Azure Spring Cloud"
     excerpt: "Microsoft continued to beef up its support for Java developers in both the cloud and its popular, open source, cross-platform code editor, Visual Studio Code (VS Code) with new updates to Azure Spring Cloud."
