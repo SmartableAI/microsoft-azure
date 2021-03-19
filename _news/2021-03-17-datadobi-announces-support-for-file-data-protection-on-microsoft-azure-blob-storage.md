@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Microsoft's Azure SDK site tricked into listing fake package"
-excerpt: "A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
-publishedDateTime: 2021-03-17T09:01:00Z
-originalUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"
-webUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"
-ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
-cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
+title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+publishedDateTime: 2021-03-16T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
+webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
 type: article
-quality: 74
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-  - Developer tools
-
-images:
-  - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
-    width: 1250
-    height: 455
-    isCached: true
+  - Storage
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -365,6 +357,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Microsoft's Azure SDK site tricked into listing fake package"
+    excerpt: "A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
+    publishedDateTime: 2021-03-17T09:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
+        width: 1250
+        height: 455
+        isCached: true
   - title: "Researcher adds his fake package to Microsoft Azure SDK releases list"
     excerpt: "A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
     publishedDateTime: 2021-03-17T09:01:00Z
@@ -659,15 +667,6 @@ related:
         width: 576
         height: 288
         isCached: true
-  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
-    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
-    publishedDateTime: 2021-03-16T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 43
   - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
     excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
     publishedDateTime: 2020-05-06T11:30:00Z
@@ -1541,6 +1540,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "UOgf/U849d5BNP6/O/BzFWaRIfU1ivIM7f1MB+ovr9nZl/7jjLesRfbGpAndKosxhVSEexz3t+AeDN86AVal3Y9XmSVgaTw4kNnSfugCRvN0HSRR3sO4tlLW5WTQWp4pwfzW6oAVq5yGMVJ6Yyp2bt1tREMnLfovNLR4AYCMLVDP/wlu2vSrMt5xvd0fFLC2z3aOjRx7ri1asnQkviEvANumWmqYEQSjzQlQe5bJR8e0DGr/1TnGJyyXkbY9QMJ0clXqQ9tzoX1H7ALi1yd0l+Hx+mztOf3diYFz4Yq/ZeMH9rl7s3GSYrazyGXW4ZIGfUDt9tZVlIdvFT/BkTcG3SdzwYZkK75plZ7BIcSyC3DPYH+qDCs5ex/Z6SC1qXRia2S8ucmdXmxhynUFKn1tCEuCtB6OxH1N25x4NMghxls4UjbDUAsbn5K90SnFMepxeCY6+0UcZbzzokamt3TKebyV9ot52cYL+uwM8T/7gcx0vAtObNp2cJpGTU6bo/yx2tRgHQs0MOMoDB9qssjDhQ==;xyzhn23tZyCQFCkI8zuh1A=="
+secured: "8KcFi8dyJlIR80PWDPaFgSvss4gJqTd465O6gkt6sqFCiFW1pyvch2dzJsyhmL4eJIKW1C1bfSJOfSdR/FZcWk/nfDwbDPqY4cAU22Y95SPnK08JucMa2dn7zMVUYEtInh4yMHHg3AcERA4u1UhCOO0g4iuzdAinDKP0jeEAu5dFq7JEkYVGCvSHRzy8uVtqHt5efog6Qe2hMj1X1KrLuhHEq0uyWSgjnn5ZfJ2KCzFfTeBChn3Kgaw0H1ERjfyZ6Z1vKGPHwsNYGaKBE18komJ7NAL52C6rSsAEP8tidcvQKF0d6gu9Z10S7vabbB5DnnZg9sOwpsAoA6f3HRytU782q0wPompr50KyXbOWR44=;cmr5EjuVfGIsUbdSB5Mb2Q=="
 ---
 

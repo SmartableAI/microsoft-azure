@@ -674,6 +674,15 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 43
   - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
     excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
     publishedDateTime: 2021-03-11T13:03:00Z

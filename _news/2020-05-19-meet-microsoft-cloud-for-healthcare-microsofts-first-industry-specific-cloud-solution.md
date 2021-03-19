@@ -674,6 +674,15 @@ related:
         width: 576
         height: 288
         isCached: true
+  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210316005097/en/Datadobi-Announces-Support-for-File-Data-Protection-on-Microsoft-Azure-Blob-Storage"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 43
   - title: "Avid, Microsoft Ink Deal to Extend Cloud Collaboration Agreement"
     excerpt: "BURLINGTON, Mass.—Avid has announced a five-year renewal of its cloud collaboration agreement with Microsoft. During the term of the new agreement, Avid will continue to develop and deploy its cloud-based solutions on Microsoft Azure."
     publishedDateTime: 2020-05-06T11:30:00Z
