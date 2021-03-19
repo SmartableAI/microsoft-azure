@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 153
+heat: 176
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday
   - videos/microsoft-best-practices-for-azure-container-instances-aci-with-github-actions-azure-friday
   - videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday
   - videos/microsoft-durable-functions-in-python-for-azure-functions-azure-friday
@@ -300,7 +301,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/jkEkeTW1QeE/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/MqgjSBKAxIg/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
