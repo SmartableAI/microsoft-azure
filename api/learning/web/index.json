@@ -4,6 +4,46 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
+      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
+      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-05T17:09:42-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +74,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 38987,
-            "average": 4.7848516
+            "count": 39037,
+            "average": 4.7848196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 8595,
-            "average": 4.721466
+            "count": 8604,
+            "average": 4.7212925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 7511,
-            "average": 4.760751
+            "count": 7524,
+            "average": 4.7608986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 5967,
-            "average": 4.7569966
+            "count": 5977,
+            "average": 4.757236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -259,8 +299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6704,
-            "average": 4.6346955
+            "count": 6716,
+            "average": 4.6347528
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -295,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2701,
-            "average": 4.780452
+            "count": 2707,
+            "average": 4.780569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -338,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4320,
-            "average": 4.7375
+            "count": 4323,
+            "average": 4.7376823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 7953,
-            "average": 4.6594996
+            "count": 7960,
+            "average": 4.659799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -446,8 +486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 7511,
-        "average": 4.760751
+        "count": 7524,
+        "average": 4.7608986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -555,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2064,
-            "average": 4.6870155
+            "count": 2065,
+            "average": 4.687167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,8 +638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41209,
-            "average": 4.717246
+            "count": 41213,
+            "average": 4.7172494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -677,8 +717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 405,
-            "average": 4.432099
+            "count": 406,
+            "average": 4.4334974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -766,8 +806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3632,
-            "average": 4.7439427
+            "count": 3634,
+            "average": 4.7438083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +1012,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5508,
-            "average": 4.7607117
+            "count": 5522,
+            "average": 4.7604127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1269,8 +1309,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5264,
-            "average": 4.660334
+            "count": 5266,
+            "average": 4.6604633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1393,8 +1433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4562,
-            "average": 4.702543
+            "count": 4566,
+            "average": 4.702803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1836,8 +1876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4542,
-            "average": 4.728093
+            "count": 4544,
+            "average": 4.728213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2097,8 +2137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 772,
-            "average": 4.735751
+            "count": 773,
+            "average": 4.736093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2139,8 +2179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 765,
-            "average": 4.738562
+            "count": 766,
+            "average": 4.737598
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2433,8 +2473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1434,
-            "average": 4.679219
+            "count": 1435,
+            "average": 4.677352
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3157,8 +3197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1685,
-        "average": 4.643917
+        "count": 1686,
+        "average": 4.6441283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3319,46 +3359,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
-      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
-      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-05T17:09:42-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
@@ -3366,8 +3366,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 765,
-        "average": 4.738562
+        "count": 766,
+        "average": 4.737598
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3505,8 +3505,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 1434,
-        "average": 4.679219
+        "count": 1435,
+        "average": 4.677352
       },
       "provider": {
         "name": "Microsoft Learn",
