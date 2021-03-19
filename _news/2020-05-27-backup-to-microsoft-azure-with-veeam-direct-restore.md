@@ -412,6 +412,20 @@ related:
         width: 1250
         height: 455
         isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
+    publishedDateTime: 2021-03-16T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft and Oracle to interconnect Microsoft Azure and Oracle Cloud"
     excerpt: "Before it's here, it's on the Bloomberg Terminal."
     publishedDateTime: 2020-05-31T18:14:00Z
@@ -1241,6 +1255,15 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Pure Storage Brings Its Block Storage to Microsoft Azure"
+    excerpt: "“Pure and Microsoft Azure share the belief that our customers deserve a seamless experience whether their infrastructure is on-premises, hybrid, multicloud, or at the edge. Pure Cloud Block Store on Azure, which is built with unique Azure capabilities ..."
+    publishedDateTime: 2021-03-16T21:41:00Z
+    webUrl: "https://insidehpc.com/2021/03/pure-storage-brings-its-block-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
     publishedDateTime: 2020-09-02T18:11:00Z

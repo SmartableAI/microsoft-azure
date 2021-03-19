@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
-excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
-publishedDateTime: 2021-03-16T00:53:00Z
-originalUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
-webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+title: "Pure Storage Brings Its Block Storage to Microsoft Azure"
+excerpt: "“Pure and Microsoft Azure share the belief that our customers deserve a seamless experience whether their infrastructure is on-premises, hybrid, multicloud, or at the edge. Pure Cloud Block Store on Azure, which is built with unique Azure capabilities ..."
+publishedDateTime: 2021-03-16T21:41:00Z
+originalUrl: "https://insidehpc.com/2021/03/pure-storage-brings-its-block-storage-to-microsoft-azure/"
+webUrl: "https://insidehpc.com/2021/03/pure-storage-brings-its-block-storage-to-microsoft-azure/"
 type: article
-quality: 50
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: insideHPC
+  domain: insidehpc.com
 
 topics:
   - Azure
-  - IoT
-
-images:
-  - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
-    width: 375
-    height: 211
-    isCached: true
+  - Storage
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -614,6 +608,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
@@ -1256,15 +1264,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Pure Storage Brings Its Block Storage to Microsoft Azure"
-    excerpt: "“Pure and Microsoft Azure share the belief that our customers deserve a seamless experience whether their infrastructure is on-premises, hybrid, multicloud, or at the edge. Pure Cloud Block Store on Azure, which is built with unique Azure capabilities ..."
-    publishedDateTime: 2021-03-16T21:41:00Z
-    webUrl: "https://insidehpc.com/2021/03/pure-storage-brings-its-block-storage-to-microsoft-azure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
     publishedDateTime: 2020-09-02T18:11:00Z
@@ -1532,6 +1531,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "I21jPPJdpeN730crCCReYeMemOfpF9mzbvTjoP4qhPWCdq6I17lFV+RSQtuRRxFjJgha+2v5vPfwCAcuMbvjFC/876sFWFZa4pUYdQjZ+2CY8/a3FHlbxKKBCRFys8cjTu5h1Mf9VDJFbjlV5g1qvOme7HgqFiMKCLBM2sLzmeW5w2rtWgVoeNkgcbe2ZoMeWid0TEE+LoZZGV/Djcft3gQE5WYQHUZFzETyuLH+EIT2W2UmZ7AiXOZkbx+0eCHjDGw8Oh35DHSPRO96VN09u5XA3CfHam/r+loAbHRrJwWbUvodM20PFWWIv88Ju2xCpsrWG+q87ta8xsV25uXk7mcNBc/suYIS06wNbvCzOJk=;dAgNCki3yKaE5Sh2hRn6iQ=="
+secured: "2g5iMvepXIYGYVvd+78NMQsBnnbRLfXRqUYIr3ObDxMWO3bZf49HYDHhm7BLjQEbSzL3ACmIiEcH7f8JR/R/bha3YoKNxlrHfvuycs3rshhaWCnFxogeydDB+F+7Yl2BpAhosPv5khog557RbESluodIyw9fNExBsPtA7NfHXBDNj7rW8LJz9dHGKmDwZd9DrJ0/3T4vGfGXw3h31o7laSovHOyUh1nKGw5bep+KTvalKHwT7oW7uQwnEMxWa8H2Hee2oQXOqvOZNQCXAb1Z/uz0gDmFXqkl+CAtm9K7ad/JAFkatwHjRizuNBupsDMayyXtOJJxjkmJpHBHCLraEQtRd6KXOzwABcjAtpanKJg=;bcXlXdvk5ig1qKFkY/ol7g=="
 ---
 

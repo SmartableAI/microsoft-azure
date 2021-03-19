@@ -412,6 +412,20 @@ related:
         width: 1250
         height: 455
         isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
+    publishedDateTime: 2021-03-16T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -1241,6 +1255,15 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Pure Storage Brings Its Block Storage to Microsoft Azure"
+    excerpt: "“Pure and Microsoft Azure share the belief that our customers deserve a seamless experience whether their infrastructure is on-premises, hybrid, multicloud, or at the edge. Pure Cloud Block Store on Azure, which is built with unique Azure capabilities ..."
+    publishedDateTime: 2021-03-16T21:41:00Z
+    webUrl: "https://insidehpc.com/2021/03/pure-storage-brings-its-block-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "Microsoft launches Azure Spring Cloud to simplify enterprise software projects"
     excerpt: "Microsoft Corp. today announced the general availability of Azure Spring Cloud, a managed service designed to reduce the amount of work involved in building and maintaining enterprise applications on its cloud platform."
     publishedDateTime: 2020-09-02T18:11:00Z
@@ -1508,6 +1531,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vQhXnARMIlhuhopUM3FWsnH/gQ9Lt6qFlSdwGP+F7ODS7+Y5RL/MdZowqVRXj8lGsydD1t6MyNnMVUatvmuJxx76bD6+eg3cdXGdVD2n6Y8hc9GYnNTLBaokEf0QTwwFlcF9DaEoXT0FyCPpBJu03zk327nD0D21yN3b0Vnht3lvfyRe2SXvyP8F1brNZzFqLGltuLVr7rmwC1Wba2mdjkHjmlwfa0q2clMkFjG0dQBCnshfOXxF1b+ReY65IawoH0ZY3BSY1dZWuQ3joqL4FeiW4+zP/WnJrOSw4ooId0Z0E0GtTXjjpbXZmWReXsCKrT9U6txrnkbLyaSS/qptBczIXb7wvQR3EVppbcLi1R4=;3p8FD2eGSkcJwDnD2yGQeA=="
+secured: "ehEMxzzoc1GAUkRLpO5r8stxEOj++9ltja3eJr/LmAYDST5+gSdfAb3zrLAyq48maRReoMqVVIyuThoqz+ovnKQO0DHRqmVhVclzcp58HJjM/WhKzxQF98XMVGnrU4BlYZiA5GIREW0OtF06gF4jNQAxqb48uJ1wyQICev2nSTNGwHTUR8MrM4O8nTHy/H83ZpC/TQK4xyj59vYPPQhwxXYXx1mx633VgUGwtGSQOD7V5CJgUM99h90lAmUUPzIbeWowUfD1O05LVOXcHOtb2DPIOnxIbVOTfqGlOlvO7sbiD7S1Blu66yNW6RnHBxICw6Oe1tpXOSJl0Qg06MXU2FvjTA8HeHaKq3y9E5wjuqHjOaUGV6BpWbVkbOFK7fbMdhnebnx+p8zXVezlmznzDFkhjMCLzq7R8aYUl4gulpP/aUOfBwc9U3wsFeKNd36MeGMTd643WPhu4U0OmMawf4q9eoPbqeSzKTHTiZ7wNRQOJxvf5HN4pbwFaZWtbrwOtBGwmaiO9bN7r+u9aH7z5Q==;aKudTLNuetCuqmKgQQtoHQ=="
 ---
 

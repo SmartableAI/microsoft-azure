@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
-excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
-publishedDateTime: 2021-03-16T00:53:00Z
-originalUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
-webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
+publishedDateTime: 2021-03-16T19:52:00Z
+originalUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
 type: article
-quality: 50
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - IoT
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
-    width: 375
-    height: 211
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -411,20 +414,6 @@ related:
         width: 1250
         height: 455
         isCached: true
-  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
-    excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
-    publishedDateTime: 2021-03-16T19:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -614,6 +603,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
         isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
@@ -1532,6 +1535,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "I21jPPJdpeN730crCCReYeMemOfpF9mzbvTjoP4qhPWCdq6I17lFV+RSQtuRRxFjJgha+2v5vPfwCAcuMbvjFC/876sFWFZa4pUYdQjZ+2CY8/a3FHlbxKKBCRFys8cjTu5h1Mf9VDJFbjlV5g1qvOme7HgqFiMKCLBM2sLzmeW5w2rtWgVoeNkgcbe2ZoMeWid0TEE+LoZZGV/Djcft3gQE5WYQHUZFzETyuLH+EIT2W2UmZ7AiXOZkbx+0eCHjDGw8Oh35DHSPRO96VN09u5XA3CfHam/r+loAbHRrJwWbUvodM20PFWWIv88Ju2xCpsrWG+q87ta8xsV25uXk7mcNBc/suYIS06wNbvCzOJk=;dAgNCki3yKaE5Sh2hRn6iQ=="
+secured: "cmYnHU6kJiiR2Bw7c99pIoOnNv55QPAoFnI8mFa0Y1PTs2EnEw17zI4FjOBQFJHPZJsTmMxfKPyW51clb33NXMBIIH9atk/AAUtA8v00gYRiLKz+rh/pyit39VduZUP6WJa/+eXDxG0puvLmoHnsNdOkIR2uYAH6nnuU1pzJ6+IC6U2K64XFQD2e2RmLJWLoz0W62Zanhpyz85fYLgPqYIs91N2beNmbV9xvdZt+piFC+L522GAP+Ayjyzb0WzY3AjXlxYF7uaqXHmq22v5Qs/kmhZqYbbk0JPiPJpo3ETpSwqtcT1veYZu7U35pMmT/1gkQfJU74eMwcThFr+iomk++qQb1fRGCy/OQQaR1KKQ=;Cl0ZtYkFL8xy+9c6Uko7eQ=="
 ---
 
