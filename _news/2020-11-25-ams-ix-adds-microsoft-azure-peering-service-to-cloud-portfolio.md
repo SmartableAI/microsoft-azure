@@ -356,6 +356,38 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Microsoft's Azure SDK site tricked into listing fake package"
+    excerpt: "A security researcher was able to add a counterfeit test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
+    publishedDateTime: 2021-03-17T09:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsofts-azure-sdk-site-tricked-into-listing-fake-package/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
+        width: 1250
+        height: 455
+        isCached: true
+  - title: "Researcher adds his fake package to Microsoft Azure SDK releases list"
+    excerpt: "A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
+    publishedDateTime: 2021-03-17T09:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/researcher-adds-his-fake-package-to-microsoft-azure-sdk-releases-list/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
+        width: 1250
+        height: 455
+        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -499,6 +531,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Pure Storage Brings Block Storage to Microsoft Azure"
+    excerpt: "Pure Storage, an IT leader that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
+    publishedDateTime: 2021-03-17T18:07:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/pure-storage-brings-block-storage-to-microsoft-azure/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_field_cricket-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
@@ -1068,6 +1114,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft announces Azure availability zones in Brazil"
+    excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
+    publishedDateTime: 2021-03-18T12:57:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/SaoPaulo.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Microsoft is making Azure more resilient with new availability zones"
     excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
     publishedDateTime: 2021-03-17T22:07:00Z
@@ -1412,6 +1472,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 5
+  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+    excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
+    publishedDateTime: 2021-03-17T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
   - title: "Microsoft unveils healthcare-specific cloud tools"
     excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
     publishedDateTime: 2020-05-19T15:39:00Z

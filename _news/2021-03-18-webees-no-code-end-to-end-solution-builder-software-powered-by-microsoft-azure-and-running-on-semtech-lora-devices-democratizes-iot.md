@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
-excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
-publishedDateTime: 2021-03-16T10:41:00Z
-originalUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
+publishedDateTime: 2021-03-17T18:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
+webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
 type: article
-quality: 47
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
-    width: 1200
-    height: 671
-    isCached: true
+  - IoT
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -613,6 +606,22 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
+        isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
     excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
@@ -1473,15 +1482,6 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 5
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
-    publishedDateTime: 2021-03-17T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
   - title: "Microsoft unveils healthcare-specific cloud tools"
     excerpt: "Cloud for Healthcare bundles existing services like Microsoft 365, Azure IoT, and TeamsThe underlying data model makes it easier for hospitals and healthcare providers to analy"
     publishedDateTime: 2020-05-19T15:39:00Z
@@ -1492,6 +1492,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vQhXnARMIlhuhopUM3FWsnH/gQ9Lt6qFlSdwGP+F7ODS7+Y5RL/MdZowqVRXj8lGsydD1t6MyNnMVUatvmuJxx76bD6+eg3cdXGdVD2n6Y8hc9GYnNTLBaokEf0QTwwFlcF9DaEoXT0FyCPpBJu03zk327nD0D21yN3b0Vnht3lvfyRe2SXvyP8F1brNZzFqLGltuLVr7rmwC1Wba2mdjkHjmlwfa0q2clMkFjG0dQBCnshfOXxF1b+ReY65IawoH0ZY3BSY1dZWuQ3joqL4FeiW4+zP/WnJrOSw4ooId0Z0E0GtTXjjpbXZmWReXsCKrT9U6txrnkbLyaSS/qptBczIXb7wvQR3EVppbcLi1R4=;3p8FD2eGSkcJwDnD2yGQeA=="
+secured: "8bOxiymAgLwMIy5U4QtX2xj3o0PHLs+obhcD+i1CQxPA96iJDPrfVS4BdrU/KuSQCCgT8nfonNBQryIudK/CeWwM+6NxQSH5iBLIESIPNuSSJoMifn3LP7F4h0bu4y8+jGtfRn2eZKILrGKF4zNxH1QfC2VfkWv8t7SH6S/Cy1WgQmIo5bz+ZXp2cqK0WcbDmOcUQZTj5vkw7rg5HPKHH3YD2L4xJiSPDztBdrDJb7Y15Gy72QNaLdk8CZtK9PrehhE7Zr0PgUXci2vzH5FWfwonpy5i5J2wlKaCC+Ls0PQXONaBkzttf3W4tyDDzq3CCwQQ+m11xj6dYECNaelvHDUVRuC1hifD3X1WHnNGOqsJwjC2dcakdXimkm5qoReCuLidjtK+TRDTPpggqRatBtUSMe7DGwV9fpTQdrOt4RUHoRCCngIdv9u8LoEU9alpM8bUmbiZiiCXQXf99dkdaVgiLsDJbBbUA9XZdzspHp1YfjqOzxhTi0btrXiSk1UBFHG1T2OUPBJRZY1D1s9CXQ==;b18G151F/RTOtwMQ3t/Ajw=="
 ---
 

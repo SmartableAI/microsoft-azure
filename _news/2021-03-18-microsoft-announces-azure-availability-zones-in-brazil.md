@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
-excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
-publishedDateTime: 2021-03-16T10:41:00Z
-originalUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+title: "Microsoft announces Azure availability zones in Brazil"
+excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
+publishedDateTime: 2021-03-18T12:57:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
 type: article
-quality: 47
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+  - url: "https://media.datacenterdynamics.com/media/images/SaoPaulo.2e16d0ba.fill-1200x630.jpg"
     width: 1200
-    height: 671
+    height: 631
     isCached: true
 
 related:
@@ -614,6 +612,22 @@ related:
         width: 521
         height: 313
         isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
     excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
     publishedDateTime: 2020-10-29T14:16:00Z
@@ -1106,20 +1120,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft announces Azure availability zones in Brazil"
-    excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
-    publishedDateTime: 2021-03-18T12:57:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-announces-azure-availability-zones-brazil/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/SaoPaulo.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "Microsoft is making Azure more resilient with new availability zones"
     excerpt: "Microsoft Corp. today said that it will deploy availability zones in all the regions where it maintains cloud data centers to provide Azure customers with increased protection against outages."
     publishedDateTime: 2021-03-17T22:07:00Z
@@ -1492,6 +1492,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vQhXnARMIlhuhopUM3FWsnH/gQ9Lt6qFlSdwGP+F7ODS7+Y5RL/MdZowqVRXj8lGsydD1t6MyNnMVUatvmuJxx76bD6+eg3cdXGdVD2n6Y8hc9GYnNTLBaokEf0QTwwFlcF9DaEoXT0FyCPpBJu03zk327nD0D21yN3b0Vnht3lvfyRe2SXvyP8F1brNZzFqLGltuLVr7rmwC1Wba2mdjkHjmlwfa0q2clMkFjG0dQBCnshfOXxF1b+ReY65IawoH0ZY3BSY1dZWuQ3joqL4FeiW4+zP/WnJrOSw4ooId0Z0E0GtTXjjpbXZmWReXsCKrT9U6txrnkbLyaSS/qptBczIXb7wvQR3EVppbcLi1R4=;3p8FD2eGSkcJwDnD2yGQeA=="
+secured: "tUdAUX6RfCKTa7vPD0ODC692tUwcBC34Ip0Sh21886QdHmV08FeEpLus+iay2b7gl+eN8ZiwQNWtWnSL5JFzO7OJR/wjlrDeDldawWJSmQCBhzl/7Kutf9aep+cT0dQHkxXmM476gpxS3S1bO5zmg5Kknc5EDI+XsG2HRJh9JGoqcCbJ/TsvpxKgg7YjR9XOdIkRVKw0SXRPVTJbl1XtOJaL4e3oOiUaUChxO4RHsbjAG6fDTonIrDd20qigTPyvYzaAz3uAU5MPcyafzm36wOKXB+tmzKvo25fOClpPYzJ8pDrfMzb6DTu5LPjCUJBVbFNEzMugzzUe5ZF4gM1NmHnpNpq8R6pd5NAJeZK6Sw0=;DpIXmeAcRWOv813sElhGRA=="
 ---
 

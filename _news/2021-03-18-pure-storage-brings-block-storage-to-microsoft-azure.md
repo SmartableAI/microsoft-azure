@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
-excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
-publishedDateTime: 2021-03-16T10:41:00Z
-originalUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+title: "Pure Storage Brings Block Storage to Microsoft Azure"
+excerpt: "Pure Storage, an IT leader that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
+publishedDateTime: 2021-03-17T18:07:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/pure-storage-brings-block-storage-to-microsoft-azure/"
+webUrl: "https://www.hpcwire.com/off-the-wire/pure-storage-brings-block-storage-to-microsoft-azure/"
 type: article
-quality: 47
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - Azure
+  - Storage
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
-    width: 1200
-    height: 671
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_field_cricket-405x228.jpg"
+    width: 405
+    height: 228
     isCached: true
 
 related:
@@ -540,20 +539,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Pure Storage Brings Block Storage to Microsoft Azure"
-    excerpt: "Pure Storage, an IT leader that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
-    publishedDateTime: 2021-03-17T18:07:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/pure-storage-brings-block-storage-to-microsoft-azure/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_field_cricket-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -613,6 +598,22 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
+        isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
     excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
@@ -1492,6 +1493,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "vQhXnARMIlhuhopUM3FWsnH/gQ9Lt6qFlSdwGP+F7ODS7+Y5RL/MdZowqVRXj8lGsydD1t6MyNnMVUatvmuJxx76bD6+eg3cdXGdVD2n6Y8hc9GYnNTLBaokEf0QTwwFlcF9DaEoXT0FyCPpBJu03zk327nD0D21yN3b0Vnht3lvfyRe2SXvyP8F1brNZzFqLGltuLVr7rmwC1Wba2mdjkHjmlwfa0q2clMkFjG0dQBCnshfOXxF1b+ReY65IawoH0ZY3BSY1dZWuQ3joqL4FeiW4+zP/WnJrOSw4ooId0Z0E0GtTXjjpbXZmWReXsCKrT9U6txrnkbLyaSS/qptBczIXb7wvQR3EVppbcLi1R4=;3p8FD2eGSkcJwDnD2yGQeA=="
+secured: "CUhvZXqOqW2EJsYzTsEGGclkvacQGrO7f9JKFvx3v6hlPc7hNL3pRtWmngUTXm/kpNflqEroS3WNDP3yMHrUMKykQTXBI3SURsHnBxi8WDyGplM0oF/8utqdIts+udfS1+dQNGyBmw3tuBb02cpNgJ2Bj/s2qzEh+3dxzep+uGIuetwvikVBWONnp48XwXBtw4MP5vRTaDQgDfxnq99Gte8zZBAD/nCSGTerF1fluqi+D+XrFb2wGxu2lMUDyTBiWPOK4z63qRuFAIEeaCQnX6emZNDzVpcqUcomOnm1Q6faT98W5gxhL+VHTPWXjDw5iJHVWzB/IwT8C49LzoGGko/5reVrLTRePehapdPD3ko=;nZiDNSBPlgRs8WchXkVpXg=="
 ---
 
