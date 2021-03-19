@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-publishedDateTime: 2021-03-11T08:22:00Z
-originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+title: "Researcher adds their package to Microsoft Azure SDK releases list"
+excerpt: "A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
+publishedDateTime: 2021-03-17T08:01:00Z
+originalUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"
+webUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"
+ampWebUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
+cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
 type: article
-quality: 53
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Bleeping Computer
+  domain: bleepingcomputer.com
 
 topics:
   - Azure
+  - Developer tools
 
 images:
-  - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-    width: 450
-    height: 601
+  - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
+    width: 1250
+    height: 455
     isCached: true
 
 related:
@@ -396,22 +397,6 @@ related:
         width: 1250
         height: 455
         isCached: true
-  - title: "Researcher adds their package to Microsoft Azure SDK releases list"
-    excerpt: "A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
-    publishedDateTime: 2021-03-17T08:01:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
-        width: 1250
-        height: 455
-        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
@@ -569,6 +554,22 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_field_cricket-405x228.jpg"
         width: 405
         height: 228
+        isCached: true
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
         isCached: true
   - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
     excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
@@ -1508,6 +1509,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "QXes5x4gaOz7sGltyBuGUE7lVENgrft4trNO/xcyDdc6sz9lWEgS+M+GuhfbxxeFZzk/a2P7fut7Q4iPvT08y2z7BC7PyIgG7Z45mGS+wa6crWargR3z1sAg1FqqsHWlMS7+26Qb0nISoL23RtBZ7BSJ3w2QOqwMbUk942OfkKOhieRABGkRLeFfaAYwtLRueeQd6fn2Yzf6D+2RielG2L8panSXLELI7G2aAjcc+3a0oeBgZYbR2nyZXl49L1xOFPkWEiGG00oh78Jtg24oPn/uVN9VhtY/vgkxVgqDIUlO3E3+dy3o5bqc+NH5z3t9V1MAsvsVoMcoCcJcrpBeW5Iset89PfsuekK3pH5ekbQ=;DtD2iE9OE/P45ro7pzRmZg=="
+secured: "Bq8zM4wiKTFrSots0srdTnWqomUv2Cw/Vkm+FN4qu3hGM1/Gh7e/Ivq9KFsXUPV9PwCzHtEnYMogGShub9qiJ2SDmc0p6a3di3IXUIzgNINCGJs+93v1A/zF8PWrn13ydjnESM6/WA39P12uQYpTdUJAYnwtd7mtdrdijPqJblxh+SOsUpPjtEotK5KBbLsHlDH9YaEjzz6zSyTanw+Ij4dpJoniuIwZcE9XX0HQPT2F633bkWt80DDLGeP7TikBrMGVnFHfDq32/mjN4ZmSpTrGnXUj3hpvTv7VPm+ryRxxUYMXtFXoThNKwn/pkn7x6Z7aeuF3fK3SJLK3Lg1S8z2CVSOKThSgfaTKq4S1OEA=;sXkPn8NDT+nNOB6Izwaccw=="
 ---
 

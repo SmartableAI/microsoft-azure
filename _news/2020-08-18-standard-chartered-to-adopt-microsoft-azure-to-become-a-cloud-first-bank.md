@@ -393,6 +393,22 @@ related:
         width: 1250
         height: 455
         isCached: true
+  - title: "Researcher adds their package to Microsoft Azure SDK releases list"
+    excerpt: "A security researcher was able to add their own test package to the official list of Microsoft Azure SDK latest releases. The simple trick if abused by an attacker can give off the impression that their malicious package is part of the Azure SDK suite."
+    publishedDateTime: 2021-03-17T08:01:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/researcher-adds-their-package-to-microsoft-azure-sdk-releases-list/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
+        width: 1250
+        height: 455
+        isCached: true
   - title: "Backup to Microsoft Azure with Veeam Direct Restore"
     excerpt: "Of the cloud solutions available on the market, Microsoft Azure stands out as an excellent choice. Created by one of the giants of global tech, Azure is an all-encompassing cloud platform that is ..."
     publishedDateTime: 2020-05-27T08:16:00Z
