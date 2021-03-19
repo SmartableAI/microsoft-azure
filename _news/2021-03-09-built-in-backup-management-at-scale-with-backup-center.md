@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/builtin-backup-management-at-scal
 webUrl: "https://azure.microsoft.com/blog/builtin-backup-management-at-scale-with-backup-center/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:
