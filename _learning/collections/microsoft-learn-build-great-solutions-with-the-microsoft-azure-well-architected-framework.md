@@ -4,7 +4,7 @@ excerpt: "Learn how to design and build secure, scalable, high-performing soluti
 type: collection
 price: Free
 length: PT5H38M
-heat: 64
+heat: 63
 
 provider:
   name: Microsoft Learn
