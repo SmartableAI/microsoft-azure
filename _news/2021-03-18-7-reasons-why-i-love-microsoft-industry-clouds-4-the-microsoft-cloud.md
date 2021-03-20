@@ -1385,6 +1385,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "Direct and private connectivity to leading cloud providers like Microsoft is essential for enterprises to deploy their hybrid and multi-cloud IT architectures. ” “Our collaboration with CoreSite provides customers with the high-level interconnection ..."
+    publishedDateTime: 2021-03-16T11:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-10T17:06:00Z
@@ -1521,6 +1535,20 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
+  - title: "Microsoft Cloud Ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+    excerpt: "Microsoft UAE cloud regions will help eliminate barriers to cloud adoption and account for 21% of new revenue; Cloud ecosystem expected to generate 69,000 jobs in the UA"
+    publishedDateTime: 2021-03-16T18:03:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2021/03/16/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 14
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/SayedHashishGeneralManagerMicrosoftUAE20201312021123218-960x640.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Australian smart building platform Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Cognian Technologies, a fast-growing Australian property technology company, today announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
     publishedDateTime: 2021-03-16T05:11:00Z

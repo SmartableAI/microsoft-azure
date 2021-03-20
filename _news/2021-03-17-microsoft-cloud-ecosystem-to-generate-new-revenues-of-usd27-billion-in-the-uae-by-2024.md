@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-publishedDateTime: 2021-03-11T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
-webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+title: "Microsoft Cloud Ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
+excerpt: "Microsoft UAE cloud regions will help eliminate barriers to cloud adoption and account for 21% of new revenue; Cloud ecosystem expected to generate 69,000 jobs in the UA"
+publishedDateTime: 2021-03-16T18:03:00Z
+originalUrl: "https://news.microsoft.com/en-xm/2021/03/16/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024/"
+webUrl: "https://news.microsoft.com/en-xm/2021/03/16/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024/"
 type: article
-quality: 42
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-    width: 1497
-    height: 785
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/SayedHashishGeneralManagerMicrosoftUAE20201312021123218-960x640.jpg"
+    width: 960
+    height: 640
     isCached: true
 
 related:
@@ -706,6 +709,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/boJbUfrk78USVo49YfjzsH-1200-80.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-11T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
         isCached: true
   - title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
     excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
@@ -1532,20 +1549,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 15
-  - title: "Microsoft Cloud Ecosystem to generate new revenues of USD$27 billion in the UAE by 2024"
-    excerpt: "Microsoft UAE cloud regions will help eliminate barriers to cloud adoption and account for 21% of new revenue; Cloud ecosystem expected to generate 69,000 jobs in the UA"
-    publishedDateTime: 2021-03-16T18:03:00Z
-    webUrl: "https://news.microsoft.com/en-xm/2021/03/16/microsoft-cloud-ecosystem-to-generate-new-revenues-of-usd27-billion-in-the-uae-by-2024/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 14
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/SayedHashishGeneralManagerMicrosoftUAE20201312021123218-960x640.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Australian smart building platform Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Cognian Technologies, a fast-growing Australian property technology company, today announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
     publishedDateTime: 2021-03-16T05:11:00Z
@@ -1592,6 +1595,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "6CYOpo/MMgpTg48u0AXyegXGIggypdOnijiR/2kpEkKKPAS4saDSKu2Z+m294ASInWYl3W2CkOseDBwOMPYlon/KlbXu9kb5ENah+3AUkbk2DWcFXz1Qli6Xg7+hddp8XDOa2sMgw78NRWutDMXcDWu7LQtGg6MZDkLv66MM8B9pD/e7bEKsWQi70DdA+oNdtPXB66HrcwJxzd8Zy4dgSXnl3Jnlp6zcgO8t5dhEvXipJGx2iArBoAovty4GJ00GiduAZa9dbE8AnnWK9snYVIo8rsl1FcqpHlcSABrv4D74Gz4UxjW13uCaXIusby7P8ele4eMQ8Hpcx0O6nFZ22V6EeuaaZIJOCaBrT/IzlpE=;9zbncGANByN2oAod6AyDiw=="
+secured: "1iSRWj82HDTfzzSiAPHTYuVB5Sw3PwOfbPxngLzembIgJAvpxdguAiIiN3x53uXcOjYaumoo5Osq9cC/aYEnPEU7r2EpsBw1SkYNfKOfB0XrJBOCilH5VWb6YU4mI2A+FT7yo+MHd0mANU5pZc/tGRpf+9iJj8XIbZ3d7Vygo2vj7hT1bm+DIHt969BJKzbFwkC8jMJt/sOU01zEri5zo8FunVuLmb2QpClnE6h1g6SBNJq3JAt/vIO+oUOFnbLkcBzDwRtP+eYo24pkerWgP605rDpVxb3GKbl4aAIPTtPtyfymhFZwChXgloUs6WP7D5KNDmzcemjlrxDXf3wA8TyoolP/XdkB8wvvUL90oWs=;UVRikxjNgf5UTPZWIyrCJw=="
 ---
 

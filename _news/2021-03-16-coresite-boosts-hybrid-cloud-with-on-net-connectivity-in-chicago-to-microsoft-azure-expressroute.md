@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
-excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
-publishedDateTime: 2021-03-11T13:03:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
-webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+excerpt: "Direct and private connectivity to leading cloud providers like Microsoft is essential for enterprises to deploy their hybrid and multi-cloud IT architectures. ” “Our collaboration with CoreSite provides customers with the high-level interconnection ..."
+publishedDateTime: 2021-03-16T11:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
 type: article
-quality: 42
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
-    width: 1497
-    height: 785
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -707,6 +706,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Ramboll Transitions from On-Premises File Storage to the Cloud with Nasuni and Microsoft Azure"
+    excerpt: "The deployment began with 200 terabytes (TB) backed by Microsoft Azure Blob storage and supported by Edge Appliances in different branches. When the pandemic hit, Ramboll's storage needs quickly ..."
+    publishedDateTime: 2021-03-11T13:03:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ramboll-transitions-from-on-premises-file-storage-to-the-cloud-with-nasuni-and-microsoft-azure-301242953.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/391402/Nasuni_Logo.jpg?p=facebook"
+        width: 1497
+        height: 785
+        isCached: true
   - title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
     excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
     publishedDateTime: 2021-03-18T10:00:00Z
@@ -1368,20 +1381,6 @@ related:
         width: 300
         height: 350
         isCached: true
-  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
-    excerpt: "Direct and private connectivity to leading cloud providers like Microsoft is essential for enterprises to deploy their hybrid and multi-cloud IT architectures. ” “Our collaboration with CoreSite provides customers with the high-level interconnection ..."
-    publishedDateTime: 2021-03-16T11:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-10T17:06:00Z
@@ -1592,6 +1591,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "6CYOpo/MMgpTg48u0AXyegXGIggypdOnijiR/2kpEkKKPAS4saDSKu2Z+m294ASInWYl3W2CkOseDBwOMPYlon/KlbXu9kb5ENah+3AUkbk2DWcFXz1Qli6Xg7+hddp8XDOa2sMgw78NRWutDMXcDWu7LQtGg6MZDkLv66MM8B9pD/e7bEKsWQi70DdA+oNdtPXB66HrcwJxzd8Zy4dgSXnl3Jnlp6zcgO8t5dhEvXipJGx2iArBoAovty4GJ00GiduAZa9dbE8AnnWK9snYVIo8rsl1FcqpHlcSABrv4D74Gz4UxjW13uCaXIusby7P8ele4eMQ8Hpcx0O6nFZ22V6EeuaaZIJOCaBrT/IzlpE=;9zbncGANByN2oAod6AyDiw=="
+secured: "WkbECBFxJL3K1pEwUPssDyDiZhbKAoRMJcSYSM0UOirvGHjZan5aBnbLe3tbmabqt0Jk6mCEmiuTSIAtqKj4UXP6cbkfmBKP+uZRmkisEqAP7NIc65FodRcIm9GI6lwG8PsNeyfF8dsydhjEUtFnaP/CgZJDilC+kMXI0hhbh3chVAfAyZucBNeBsSPVJXmfmX7qSKLUd11B1z8qQxHfaGtZKUFGQm9cgAtXFOcOyWPGJq2jC6CS5zIRmP/u67OMCaUrHggjl2mA3uNlbg+lkLDmPNfkLVEXKxFa66EDfaMxC1oSEEKL1xuUgYTC+0q/B5crH4u3IvS4EmCBHPzvBNjr8LS+TRd1DPPdIJl4Uhw=;mm0PPFPNS/qoyaurY+RX6Q=="
 ---
 
