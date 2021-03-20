@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
-excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
-publishedDateTime: 2020-12-04T04:03:00Z
-originalUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
-ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
+excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+publishedDateTime: 2021-03-16T14:02:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
 type: article
-quality: 97
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: dbta.com
+  domain: dbta.com
 
 topics:
   - Azure
+  - Storage
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
     width: 1200
-    height: 741
+    height: 630
     isCached: true
 
 related:
@@ -187,6 +182,22 @@ related:
       - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/06/Database-Server-920x470.jpg"
         width: 920
         height: 470
+        isCached: true
+  - title: "Google Cloud Will Not Be Able To Overtake Microsoft Azure"
+    excerpt: "Google (Alphabet) may have missed a critical window this year for cloud infrastructure. We also analyze how Microsoft directed all of its efforts to successfully close the wide lead by AWS. Lastly, we"
+    publishedDateTime: 2020-12-04T04:03:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/12/03/google-cloud-will-not-be-able-to-overtake-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc9b08566dda99de43b5fee%2F0x0.jpg"
+        width: 1200
+        height: 741
         isCached: true
   - title: "Microsoft’s Azure Quantum platform is now in public preview"
     excerpt: "Microsoft today announced that Azure Quantum, its cloud-based platform for using quantum hardware and software tools from partners like Honeywell Quantum Solutions, IonQ, 1QBit and others, is now in public preview."
@@ -399,20 +410,6 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
         width: 1250
         height: 455
-        isCached: true
-  - title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
-    excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
-    publishedDateTime: 2021-03-16T14:02:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 69
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
     excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
@@ -1609,6 +1606,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "pouU7PHATZPZhJ7NTbxnextxNiySxV00N4qEpao3VayWzpiZgHNmKXSW0w6sxMgIsLOSLIAgA3u9Uuqh0f3KRfP4rSce2pqD2Pv7QMnU8JVABMRkog9qk3mHVzLCnMKSQJUPcqztWqMWUnl9nuPDu/bFQvHcbNUp5QaUq7fYjx1lPMuoFMstmKjIZPJZIw5z3AUrMP/VgPXmKT5UXeNFdyY9IAvqXxsOdBj5sqgaa4ALcGzcFQB2Qfaps507XyoUPiaMxAKw1cUrE2Z8foB5mZ2GjtXHeJIlsxTqUqKFuR8AVyMs0ONCeXrm6vlwLmWCHQjVrZIWUSTJ7TMJsdgzihQfy7LTCmD3lV+KwOaQVG+ueCEvvg5+OJt5Y8AaLopf5uXAsU7oVTIqu7p3xnXFpsVckLS61MIhmzXqGLCzwiWWYgMRZKG/SBixdC2fBqqIDT4dLa+T7tVP/bgsx0k/0cPMMV1zOa5kvrthmZOR19DoR220MxsrC71dCyIEfMetv7UMPA/mAnaUJHowpmGV/w==;vy2Nax/Z1qDw4irM/UWgnQ=="
+secured: "rbeZU+dUm/ltvSegFf2IZ3bH8gqVmIWQQHMzJxyFSIN+mAnHHpohqoShKOLzu8brFhAfMH/Oei1cPky1+ApsSg1eEtjNf8BdqlOudVuy1iyiwID7f8ocmuVjnK6CXLdGTi15/Q2CFOBac0E0xWkoVQ00Ybr90+4r54M5gLqt8+sGvg3VhVXdA8WvcICB0uw2gQ5lU7EbrWxWC78k1+jjJAl0VXRB50Eov37HW0UNzuBVS/OwZ08yoOGaLEqJjzQP4qHKBNpnNRZpPm5g5E+BMzFUguU0z2hmTYPhH97ifAl3rfz0EU3QMqTqAnRIb7+hbOf5IxZ0ybtC6HASFFl3HtXbQOMaDhA4CLpotyciTc8=;bhK57e7SrxT5X2V3YWKWeg=="
 ---
 

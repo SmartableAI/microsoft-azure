@@ -407,6 +407,20 @@ related:
         width: 1250
         height: 455
         isCached: true
+  - title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T14:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 69
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
     excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
     publishedDateTime: 2021-03-16T19:52:00Z
