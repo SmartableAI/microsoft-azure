@@ -4,7 +4,7 @@ excerpt: "Learn how to configure, protect, and isolate your networks in Azure."
 type: collection
 price: Free
 length: PT5H27M
-heat: 105
+heat: 102
 
 provider:
   name: Microsoft Learn
