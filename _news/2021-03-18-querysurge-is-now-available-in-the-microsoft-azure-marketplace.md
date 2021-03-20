@@ -1,18 +1,22 @@
 ---
 category: news
-title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
-excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-03-10T14:20:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
+excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
+publishedDateTime: 2021-03-18T09:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222766"
+webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222766"
 type: article
-quality: 5
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
@@ -507,15 +511,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
-    publishedDateTime: 2021-03-18T09:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222766"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1543,6 +1538,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 9
+  - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
+    excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-10T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ne03795/sepio-systems-hardware-access-control-solution-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 5
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
     publishedDateTime: 2021-03-17T18:00:00Z
@@ -1562,6 +1566,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "XLRUAOW/35isgMaVdhHFL0XVIwg6I7kdVq6qR+DJAj3tuDVQ126hc+UftAVLHllQdtBv/TOiangaJ/V9kdPKHJlAWA0Yz4+fQ8vrbGuNTSPZm5qMB4g53YgJU5UbOIjkcXRNbWPiAPTAM4XkZ8XB81t1CkaXNx6GQT9XkbUismIxNQjnwNsC8YrPb4rlBlt4Do149wDkSDT92CtbH40r9+T4jGSPtzf/mITOMHoM1A/zZKHh+JVNwLG7uFCuUcxskc+niHnRgq1TeaqILJDzbbIn9JIn1JtC7hu4xptOpetHDYtmsmPTRNa9mO6qJL2fCzJAur0YT+EdvAhNDoctLacLA4y0rfr/P6rSe6QGLnQ=;ywYccUGZbc0gp1xVskmgIA=="
+secured: "rB4Oboj8hXROsILN40YBCuCqZLu1CpiBGkMFwy/bs51oTf6F2lMJrCTcFBlD6cg5As7oEAyaEZLy6ja1w7aiuR+sCYXD7L8pGuEJRo/m2caijYW/oFJtexi6Pt4PtVf3IzQHqg/J4wnIiIIzDZ4sRbBjr+V9Q+rRymksGnILgH+k/jtSyELWs3D/BbDZ6B9+3zfKA+1vPZ3SfGavgZYcQDdet6X86JVFHeNDpHqkYmknFiRmv5dCPLW9FKUNN8lRsRmAB7YVAuKROtgzI0VtRf7qbISvM/alLXpqN9DGwIxg+s7SoGRikPV9DbkfLKWWoxTATzLe4RjtCC8uIJkQw1Dl3/bVHEcjToTi2mD+JDI=;8QdYp4OK9tiaRIljIGoQCw=="
 ---
 

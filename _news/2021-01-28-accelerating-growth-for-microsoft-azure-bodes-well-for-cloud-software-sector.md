@@ -515,6 +515,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
+    publishedDateTime: 2021-03-18T09:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222766"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Guide to Microsoft Azure Cloud Storage"
     excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
     publishedDateTime: 2021-01-28T21:24:00Z
