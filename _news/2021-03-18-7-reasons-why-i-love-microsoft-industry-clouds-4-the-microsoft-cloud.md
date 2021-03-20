@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Microsoft announces the public preview of Azure Quantum"
-excerpt: "Azure Quantum is a full-stack, public cloud ecosystem for quantum solutions that gives developers, researchers, systems integrators, and customers access to diverse quantum software and hardware solutions."
-publishedDateTime: 2021-02-02T22:24:00Z
-originalUrl: "https://sdtimes.com/softwaredev/microsoft-announces-the-public-preview-of-azure-quantum/"
-webUrl: "https://sdtimes.com/softwaredev/microsoft-announces-the-public-preview-of-azure-quantum/"
+title: "7 Reasons why I love Microsoft industry clouds #4 – the Microsoft Cloud"
+excerpt: "I often say that the #1 \"feature\" of the Microsoft industry clouds is the Microsoft cloud - it sounds repetitive, but I'll explain my point. The industry clouds extend the existing value of our platform, and it's important to ground on that point when ..."
+publishedDateTime: 2021-03-18T00:00:00Z
+originalUrl: "https://www.linkedin.com/pulse/7-reasons-why-i-love-microsoft-industry-clouds-4-cloud-bardeen"
+webUrl: "https://www.linkedin.com/pulse/7-reasons-why-i-love-microsoft-industry-clouds-4-cloud-bardeen"
 type: article
-quality: 77
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: SD Times
-  domain: sdtimes.com
+  name: LinkedIn
+  domain: linkedin.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/sdtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/linkedin.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,9 +22,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://sdtimes.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-5.18.08-PM.png"
-    width: 790
-    height: 622
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQEDIlTKv6-ayg/article-cover_image-shrink_720_1280/0/1615228637423?e=1621468800&v=beta&t=dtn8DMiDZQUUgRVR4BYgh2l5JnpKHZsr0mBKnQQFApY"
+    width: 960
+    height: 720
     isCached: true
 
 related:
@@ -335,6 +335,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106805801-16070117561607011753-12761111221-1080pnbcnews.jpg?v=1607011756"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Microsoft announces the public preview of Azure Quantum"
+    excerpt: "Azure Quantum is a full-stack, public cloud ecosystem for quantum solutions that gives developers, researchers, systems integrators, and customers access to diverse quantum software and hardware solutions."
+    publishedDateTime: 2021-02-02T22:24:00Z
+    webUrl: "https://sdtimes.com/softwaredev/microsoft-announces-the-public-preview-of-azure-quantum/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 77
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-02-at-5.18.08-PM.png"
+        width: 790
+        height: 622
         isCached: true
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
@@ -1401,20 +1415,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 22
-  - title: "7 Reasons why I love Microsoft industry clouds #4 – the Microsoft Cloud"
-    excerpt: "I often say that the #1 \"feature\" of the Microsoft industry clouds is the Microsoft cloud - it sounds repetitive, but I'll explain my point. The industry clouds extend the existing value of our platform, and it's important to ground on that point when ..."
-    publishedDateTime: 2021-03-18T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/7-reasons-why-i-love-microsoft-industry-clouds-4-cloud-bardeen"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 22
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEDIlTKv6-ayg/article-cover_image-shrink_720_1280/0/1615228637423?e=1621468800&v=beta&t=dtn8DMiDZQUUgRVR4BYgh2l5JnpKHZsr0mBKnQQFApY"
-        width: 960
-        height: 720
-        isCached: true
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z
@@ -1558,6 +1558,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "2ogHD05Y3tu8cZhyh+IP0oPAKokti35elhsw10l3R06zDw2HgraQWOjkofOY20CoAFDZrVp7Zdmq0GNakmG1AkNbZlEgOV/b12AB74OGv9zHspCc2p7qmc4tEpfhxlt84xvQzUWaMcP4n+pfJW2Q49byhvUo9qQWQl7uhm6mjcuEAqGyp53IBIW4RwU0+o9/+U+9X3ad/D96xGCJNIGG2vGSkjZCwzYBGMAsadRrDmpynptE3jQ2erTOBrywFR2cTyvFk5bIv+oR4CdTLJsNirKgUueDOMAkjTv4h8nXow9GvJQJ99m4jw0nHT9iwoa5cM6Dcbl2mrurVfR4DzBKPecLry9GypHwjMDDKFq4UrfcCe8uokjqFe80lKHc0PycxARv6jVbGVGlbxI+An+aQOiReEDZJNFR+U+MRFgUum8uB3pzNtE9oDt4Ct9bqxcj0BeXfHRMv/6w9R+wnFvTefZDGlfCIcx7fg+UMPe+NBgNR6gEcg19pNC7SOvqdppRaHvEKkuHPPhHD+tUmKipNg==;Eh1WRvXnQALId6DzUmeNRQ=="
+secured: "xWgQ9bg4OyklvzLIca528PApXCyKdMFbSgbAeESsOD5MWvuLkJ9M2DeSC8dH63w+eE5uC/8uoWM/5xgHa2butKqWxNBwYthozpFXE1T7gW1vn8MEmimOt+3LXTd3BTm/qY7VaKc8Hou0AgajHl3d9ay3bFImynpIMVQOd1SwELCDcvVTIW6q6UT95jYtNdbrP+WJKZ0W5YdtjhfHAWnGJqrNoABbOSLruX38yZmC9FoZ+v8rCKSorZbowoYd08BHeIFOMCRPdzyzVu1bHg9G9awZAlfZIHJbrBG7IAfWuzmB8d8LWXuUkIt0CyCl5w1cN/VCms3U2JdtrOaqsbLIWBnpsSE6pvFGK5yRCQqf7cM=;jHda62LHxtgibfMO2AugVw=="
 ---
 

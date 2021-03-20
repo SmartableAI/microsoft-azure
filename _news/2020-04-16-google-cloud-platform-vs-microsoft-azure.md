@@ -1401,6 +1401,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 22
+  - title: "7 Reasons why I love Microsoft industry clouds #4 – the Microsoft Cloud"
+    excerpt: "I often say that the #1 \"feature\" of the Microsoft industry clouds is the Microsoft cloud - it sounds repetitive, but I'll explain my point. The industry clouds extend the existing value of our platform, and it's important to ground on that point when ..."
+    publishedDateTime: 2021-03-18T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/7-reasons-why-i-love-microsoft-industry-clouds-4-cloud-bardeen"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 22
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEDIlTKv6-ayg/article-cover_image-shrink_720_1280/0/1615228637423?e=1621468800&v=beta&t=dtn8DMiDZQUUgRVR4BYgh2l5JnpKHZsr0mBKnQQFApY"
+        width: 960
+        height: 720
+        isCached: true
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z
