@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
-excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
-publishedDateTime: 2021-03-16T10:41:00Z
-originalUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
-ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+title: "Rencore launches new Microsoft cloud governance software"
+excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, has released Rencore Governance. The cloud governance tool tackles platform growth and"
+publishedDateTime: 2021-03-17T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rencore-launches-new-microsoft-cloud-governance-software/article_acd80b6a-f9eb-56a0-956c-e9bd6d7c5c97.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rencore-launches-new-microsoft-cloud-governance-software/article_acd80b6a-f9eb-56a0-956c-e9bd6d7c5c97.html"
 type: article
-quality: 47
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
-    width: 1200
-    height: 671
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -666,6 +664,22 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
+        isCached: true
+  - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
+    excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026"
+    ampWebUrl: "https://www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-azure-outage-services-mostly-restored-some-users-may-still-encounter-issues-3163026?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 47
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/24/microsoft-azure-app-service.png"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Exabeam Extends Security Management Platform with AWS, Google Cloud Platform and Microsoft Azure Cloud Storage Monitoring"
     excerpt: "By ingesting audit data from Amazon Simple Storage Services (Amazon S3), Microsoft Azure Blobs and Google Cloud Platform Cloud Storage buckets, Exabeam can distinguish malicious activity from ..."
@@ -1434,20 +1448,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 22
-  - title: "Rencore launches new Microsoft cloud governance software"
-    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, has released Rencore Governance. The cloud governance tool tackles platform growth and"
-    publishedDateTime: 2021-03-17T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rencore-launches-new-microsoft-cloud-governance-software/article_acd80b6a-f9eb-56a0-956c-e9bd6d7c5c97.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "7 Reasons why I love Microsoft industry clouds #4 – the Microsoft Cloud"
     excerpt: "I often say that the #1 \"feature\" of the Microsoft industry clouds is the Microsoft cloud - it sounds repetitive, but I'll explain my point. The industry clouds extend the existing value of our platform, and it's important to ground on that point when ..."
     publishedDateTime: 2021-03-18T00:00:00Z
@@ -1619,6 +1619,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "ehEMxzzoc1GAUkRLpO5r8stxEOj++9ltja3eJr/LmAYDST5+gSdfAb3zrLAyq48maRReoMqVVIyuThoqz+ovnKQO0DHRqmVhVclzcp58HJjM/WhKzxQF98XMVGnrU4BlYZiA5GIREW0OtF06gF4jNQAxqb48uJ1wyQICev2nSTNGwHTUR8MrM4O8nTHy/H83ZpC/TQK4xyj59vYPPQhwxXYXx1mx633VgUGwtGSQOD7V5CJgUM99h90lAmUUPzIbeWowUfD1O05LVOXcHOtb2DPIOnxIbVOTfqGlOlvO7sbiD7S1Blu66yNW6RnHBxICw6Oe1tpXOSJl0Qg06MXU2FvjTA8HeHaKq3y9E5wjuqHjOaUGV6BpWbVkbOFK7fbMdhnebnx+p8zXVezlmznzDFkhjMCLzq7R8aYUl4gulpP/aUOfBwc9U3wsFeKNd36MeGMTd643WPhu4U0OmMawf4q9eoPbqeSzKTHTiZ7wNRQOJxvf5HN4pbwFaZWtbrwOtBGwmaiO9bN7r+u9aH7z5Q==;aKudTLNuetCuqmKgQQtoHQ=="
+secured: "4eZSiWQ5toOALsTt53kuGB/Jg3mDK5g59U5GNNqadEeKnxsO62DqsJf7CSOetQB9UubVeWSDOVMeAiPqpACsRUlgdtswYEKTxypu8/oG2jEkLIa9HapL5gqoqB2Hvbb0GNATTkOdHgYKjYEAHW7g2nbFCQgL6WGM54Sh6p9320+Hf/fWs45cqrVXUDjGNbtlXuFrUtnafgOqRMZqP1hviQUHveB9ymNt7l2LJEzOp/wC7vItViJtcaRmFQ1N1ADudIV6gkeaAm0c+cv0Cs+gfvK+JU56347uHuQrQUYxeBLoAJ0epbFojyTVxiwHZk+hMZxvA6cq9BIy9yoNWTDMCjy6u5VH8Lo/EMlWR6V/QvU=;yUB6toLXI7TCLEUSkw4mkg=="
 ---
 

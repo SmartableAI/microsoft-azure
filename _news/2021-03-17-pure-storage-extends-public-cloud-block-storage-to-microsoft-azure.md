@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2455
+heat: 2475
 published: true
 
 provider:
@@ -1439,6 +1439,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 22
+  - title: "Rencore launches new Microsoft cloud governance software"
+    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, has released Rencore Governance. The cloud governance tool tackles platform growth and"
+    publishedDateTime: 2021-03-17T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rencore-launches-new-microsoft-cloud-governance-software/article_acd80b6a-f9eb-56a0-956c-e9bd6d7c5c97.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "7 Reasons why I love Microsoft industry clouds #4 – the Microsoft Cloud"
     excerpt: "I often say that the #1 \"feature\" of the Microsoft industry clouds is the Microsoft cloud - it sounds repetitive, but I'll explain my point. The industry clouds extend the existing value of our platform, and it's important to ground on that point when ..."
     publishedDateTime: 2021-03-18T00:00:00Z

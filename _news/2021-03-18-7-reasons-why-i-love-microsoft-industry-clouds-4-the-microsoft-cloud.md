@@ -1452,6 +1452,20 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 22
+  - title: "Rencore launches new Microsoft cloud governance software"
+    excerpt: "Rencore, the provider of award-winning software essential for governing Microsoft 365, has released Rencore Governance. The cloud governance tool tackles platform growth and"
+    publishedDateTime: 2021-03-17T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rencore-launches-new-microsoft-cloud-governance-software/article_acd80b6a-f9eb-56a0-956c-e9bd6d7c5c97.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
     excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
     publishedDateTime: 2021-03-14T11:32:00Z
