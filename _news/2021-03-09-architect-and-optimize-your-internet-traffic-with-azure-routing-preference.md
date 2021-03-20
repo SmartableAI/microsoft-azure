@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/architect-and-optimize-your-inter
 webUrl: "https://azure.microsoft.com/blog/architect-and-optimize-your-internet-traffic-with-azure-routing-preference/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:
