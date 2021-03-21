@@ -1,26 +1,27 @@
 ---
 category: news
-title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
-excerpt: "Direct and private connectivity to leading cloud providers like Microsoft is essential for enterprises to deploy their hybrid and multi-cloud IT architectures. ” “Our collaboration with CoreSite provides customers with the high-level interconnection ..."
-publishedDateTime: 2021-03-16T11:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
+title: "Microsoft Azure Active Directory breaks, causes Teams, Office, Xbox, Dynamics outages"
+excerpt: "Microsoft's Azure Active Directory (AAD) service was temporarily down on Monday, bringing a number of services with it. Microsoft Teams, Office, Dynamics, Xbox Live, the Azure Portal, Forms, Exchange Online, Azure Kubernetes Service, Intune, and Yammer ..."
+publishedDateTime: 2021-03-16T11:55:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
 type: article
-quality: 24
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -664,20 +665,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
         width: 521
         height: 313
-        isCached: true
-  - title: "Microsoft Azure Active Directory breaks, causes Teams, Office, Xbox, Dynamics outages"
-    excerpt: "Microsoft's Azure Active Directory (AAD) service was temporarily down on Monday, bringing a number of services with it. Microsoft Teams, Office, Dynamics, Xbox Live, the Azure Portal, Forms, Exchange Online, Azure Kubernetes Service, Intune, and Yammer ..."
-    publishedDateTime: 2021-03-16T11:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 47
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
     excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
@@ -1395,6 +1382,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "Direct and private connectivity to leading cloud providers like Microsoft is essential for enterprises to deploy their hybrid and multi-cloud IT architectures. ” “Our collaboration with CoreSite provides customers with the high-level interconnection ..."
+    publishedDateTime: 2021-03-16T11:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-products-and-services-chicago-coronavirus-pandemic-1ac046bfba6e45b99b4ce77da0814d36"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Infobip full offering of Customer Engagement and Service solutions now available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip today announces its full Communications Platform as-a-Service offering is now available on Microsoft Azure, thereby extending the enterprise customer base globally for Infobip - particularly in the finance ..."
     publishedDateTime: 2021-03-10T17:06:00Z
@@ -1628,6 +1629,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "WkbECBFxJL3K1pEwUPssDyDiZhbKAoRMJcSYSM0UOirvGHjZan5aBnbLe3tbmabqt0Jk6mCEmiuTSIAtqKj4UXP6cbkfmBKP+uZRmkisEqAP7NIc65FodRcIm9GI6lwG8PsNeyfF8dsydhjEUtFnaP/CgZJDilC+kMXI0hhbh3chVAfAyZucBNeBsSPVJXmfmX7qSKLUd11B1z8qQxHfaGtZKUFGQm9cgAtXFOcOyWPGJq2jC6CS5zIRmP/u67OMCaUrHggjl2mA3uNlbg+lkLDmPNfkLVEXKxFa66EDfaMxC1oSEEKL1xuUgYTC+0q/B5crH4u3IvS4EmCBHPzvBNjr8LS+TRd1DPPdIJl4Uhw=;mm0PPFPNS/qoyaurY+RX6Q=="
+secured: "t+oewINWzoGyMoxiWgIJBwvDSFxl5bZ2T7bEYeJhk/4DpY3uF0VlXf4SfwfaYmFhWfwGUffi3/8VYpHOhydDTMc52S9TXtksicR3d/GfCwFSfHzvamXd7M2NjZqcqTU3yVd+OC4b5htf7b9CCCLSGerSkqOlfV/Xxhf69dEF7/UlSSXE4y8UGV7cwQ7BTviVWVu20oy4DPu97OfsEv918OZHfgkdSA+ARI9sX0r3P5Zb3eoYLh7dl7iIlQp5qK5Jx45X16sSgPe3+6im670ZkgIiZYrTJO0C/cTusWj5J5yU1dFy2AeR2fRIEY3sZ+tx2p4PRw0caGMDQIDuwgX7ngKTRVQObmlUUiLZ9nzpeow=;/jexjyN+FLAaWdl9JnrcuA=="
 ---
 

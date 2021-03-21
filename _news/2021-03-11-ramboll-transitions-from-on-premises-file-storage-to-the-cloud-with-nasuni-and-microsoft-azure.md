@@ -666,6 +666,20 @@ related:
         width: 521
         height: 313
         isCached: true
+  - title: "Microsoft Azure Active Directory breaks, causes Teams, Office, Xbox, Dynamics outages"
+    excerpt: "Microsoft's Azure Active Directory (AAD) service was temporarily down on Monday, bringing a number of services with it. Microsoft Teams, Office, Dynamics, Xbox Live, the Azure Portal, Forms, Exchange Online, Azure Kubernetes Service, Intune, and Yammer ..."
+    publishedDateTime: 2021-03-16T11:55:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-azure-active-directory-breaks-causes-teams-office-xbox-dynamics-outages/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 47
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure Outage: Services Mostly Restored But Some Users May Still Encounter Issues"
     excerpt: "The outage, which has affected Xbox Live, Office 365 and Microsoft Teams, was reported by users from all around the world."
     publishedDateTime: 2021-03-16T10:41:00Z
