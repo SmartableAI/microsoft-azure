@@ -497,6 +497,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "TmaxSoft Announces Partnership with Microsoft Azure"
+    excerpt: "\"TmaxSoft OpenFrame is an efficient and reliant way of re-platforming client's IBM, Fujitsu, or Hitachi mainframe workloads to the Microsoft Azure Cloud. By doing so, enterprises can run mission ..."
+    publishedDateTime: 2021-03-15T13:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tmaxsoft-announces-partnership-with-microsoft-azure-1030204487"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365"
     excerpt: "A recent Microsoft Azure outage has taken down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft is currently investigating the issue, noting that a recent change to an authentication system may be the culprit of the issues."
     publishedDateTime: 2021-03-15T21:35:00Z

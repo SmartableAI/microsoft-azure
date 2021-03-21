@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
-excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
-publishedDateTime: 2021-03-16T14:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
+title: "TmaxSoft Announces Partnership with Microsoft Azure"
+excerpt: "\"TmaxSoft OpenFrame is an efficient and reliant way of re-platforming client's IBM, Fujitsu, or Hitachi mainframe workloads to the Microsoft Azure Cloud. By doing so, enterprises can run mission ..."
+publishedDateTime: 2021-03-15T13:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tmaxsoft-announces-partnership-with-microsoft-azure-1030204487"
+webUrl: "https://markets.businessinsider.com/news/stocks/tmaxsoft-announces-partnership-with-microsoft-azure-1030204487"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Storage
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -496,15 +493,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TmaxSoft Announces Partnership with Microsoft Azure"
-    excerpt: "\"TmaxSoft OpenFrame is an efficient and reliant way of re-platforming client's IBM, Fujitsu, or Hitachi mainframe workloads to the Microsoft Azure Cloud. By doing so, enterprises can run mission ..."
-    publishedDateTime: 2021-03-15T13:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tmaxsoft-announces-partnership-with-microsoft-azure-1030204487"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -573,6 +561,20 @@ related:
       name: Enterprise Storage Forum
       domain: enterprisestorageforum.com
     quality: 54
+  - title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
+    excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
+    publishedDateTime: 2021-03-16T14:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-software-industry-67d486a51e08fa7627694d5be9728d00"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital models of the factories, which was subsequently used by Unilever to predict outcomes and help make improvements."
     publishedDateTime: 2021-03-17T22:36:00Z
@@ -1652,6 +1654,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "05kWYSjq5PDw8oiyVLm0wof6mLE8floX8Fh/vLnIJ0RQiLpv8mvHlQD79ARiUh5NU1RFmWnrq7J+cPjKtwK2bVWA0hpnK3XJShnrprUCyDmzzITR8iM8yY62ow+KC4ACgX54cbVF+KN04PTXeG8QoP+Yy8ArXNGKaH11smJilV9VBuNQsqUw9FG9u3Mi3fOESkY2a8SZQFc04mqHCVNjCJBqYu0ZpR3FMRs/k2ToSJjUnk9p4ZGvhvmBAagI2NvSlEk2OOrP2LZpZwNXqa6RTIy9yfNe6/9A34s63sjAFubDh+zA/+GGKYXyOo4/ZZsT3wxqwb91JtpzGEHpywu6O2FZH89leBnz7vv1VtUNYXQ=;MX3NBOLppJ+k3aHeeXvJtw=="
+secured: "uUHsEY3U90nXOIqXxpCUnSd2HZhaqh7/bJAwQMOuorEHwzmMjK4VJacOXh3aoghnvwm78LbrE5zf3R4GX8ng4l4fHx/JInhM2pRcngD+jtjmJgkuCZurvUc0fz4U2KuR+ifKxHHl/Pf3hseZRKV7fOxr8RQvgb4EOpHSGgj3e/MlbV4Yqah8DVCbJEykYg2YHcaax0TN+n5Fzll1dqaO4WfdghPLD7Kd+csVVijG6pzffu98R46fxyMvDQRHP7L0GK0eNs9uRN5qzTcOjt90KqGvnBMWghl6XW15ljNU/89F6nrqdfPoFUe7X1BYAyRQibK9sDx+Gk/f7FFx/18QoBG+7R6HaJAYdQ+F6fJM2V0=;ixZ6aT4hpMoZUL40L+UnMQ=="
 ---
 
