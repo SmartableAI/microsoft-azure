@@ -1,22 +1,27 @@
 ---
 category: news
-title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
-publishedDateTime: 2021-03-10T12:37:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
+publishedDateTime: 2021-03-18T16:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
 type: article
-quality: 33
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1342,6 +1347,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+    publishedDateTime: 2021-03-10T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -1582,20 +1596,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-    publishedDateTime: 2021-03-18T16:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
@@ -1665,6 +1665,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "B33etrWerAm4yIT9lUbmWFtm5Du3zXi7bPhA+0paLl9JYwykMHk7VFmJ0P8BBdHuFnYuB9VzptNlPEUVDWkV8FBRoiQWEygQHnXS54S1Hs8g1T6G/ps4prE81Eg5L/HsPrgfKRuAvEGZshXTCITvQdhSnsWDS/PKlRCB1ETEG5L9wa/38AcxtC+TMb8c7gcGnPJirYhPdIJ9HQrotAMGytDotA12uz9jcns2a/MZhLvgYXR0ubiAlMEbxQ8rxnxTN797oDqEaYZot5Jz/aiA3lauuefrEPVehFp9KkfrkCKuTHDNW47T8eDMSyHzTSl4bVTsM3kD2Alt45xUfwjKLIHqK5pMdvAyX1FED+9nwSU=;IJ9kaztYyaHG1oMH2QZP0Q=="
+secured: "UT1P259hY286SNlX/+wp9q/NTgrD6uOvCAAEhWgkEe5jNjuHCQSOmeFaxKDmEtD4aoMA38h0mpSpz19/YFLDoVgI/mjjoHwSveDyCFDIp347LAhVxWZaEbO+7V9YijaxEeBUmecmoZVSoyGMP5WrTNuzhDunf2jtZfe/eWyQ+RV0Mx4/rQPEx6uTDoof8Uc1pFNn85gP05r4ZEjA0QLrI7/ONGYVK2kveYFtOficbOFehypUZxBpNErJziKdzRujAvHQSm7BE+nXzXYF16ulBMk/zhxjL/+U2QrY6XjdtgYeznIRRtfI/1/kMQxJtQoqT6YicPgRgFrEbrynWEfL12JWaTktaE/iu4qR3oyMemI=;uLOKtSPiNtHLaZh1ySeUlA=="
 ---
 
