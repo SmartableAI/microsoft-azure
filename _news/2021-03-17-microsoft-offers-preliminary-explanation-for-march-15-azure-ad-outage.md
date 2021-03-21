@@ -1168,6 +1168,20 @@ related:
         width: 490
         height: 360
         isCached: true
+  - title: "Microsoft Apologizes ‘Deeply’ For Worldwide Azure, Teams Outage"
+    excerpt: "Microsoft on Tuesday apologized for a worldwide outage that impacted Azure cloud services including Microsoft Teams, Office 365 and Dynamics 365."
+    publishedDateTime: 2021-03-16T12:34:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-apologizes-deeply-for-worldwide-azure-teams-outage"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
+        width: 606
+        height: 454
+        isCached: true
   - title: "Microsoft announces Azure availability zones in Brazil"
     excerpt: "Microsoft has announced availability zones for the south of Brazil in São Paulo State, as promised in October 2020. The company also promised to expand its zone coverage during 2021. The announcement is part of Microsoft's \"More Brazil\" plan,"
     publishedDateTime: 2021-03-18T12:57:00Z

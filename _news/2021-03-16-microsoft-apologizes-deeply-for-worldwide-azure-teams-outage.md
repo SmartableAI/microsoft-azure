@@ -1,30 +1,26 @@
 ---
 category: news
-title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
-excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
-publishedDateTime: 2021-03-16T19:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
-webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+title: "Microsoft Apologizes ‘Deeply’ For Worldwide Azure, Teams Outage"
+excerpt: "Microsoft on Tuesday apologized for a worldwide outage that impacted Azure cloud services including Microsoft Teams, Office 365 and Dynamics 365."
+publishedDateTime: 2021-03-16T12:34:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-apologizes-deeply-for-worldwide-azure-teams-outage"
+webUrl: "https://www.crn.com/news/cloud/microsoft-apologizes-deeply-for-worldwide-azure-teams-outage"
 type: article
-quality: 64
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
+    width: 606
+    height: 454
     isCached: true
 
 related:
@@ -425,6 +421,20 @@ related:
     quality: 69
     images:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
+    excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
+    publishedDateTime: 2021-03-16T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coresite-boosts-hybrid-cloud-with-on-net-connectivity-in-chicago-to-microsoft-azure-expressroute-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
@@ -1158,20 +1168,6 @@ related:
         width: 490
         height: 360
         isCached: true
-  - title: "Microsoft Apologizes ‘Deeply’ For Worldwide Azure, Teams Outage"
-    excerpt: "Microsoft on Tuesday apologized for a worldwide outage that impacted Azure cloud services including Microsoft Teams, Office 365 and Dynamics 365."
-    publishedDateTime: 2021-03-16T12:34:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-apologizes-deeply-for-worldwide-azure-teams-outage"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0267-11b61e67410e-6b6c3c7650b9-1000/microsoft_sign.jpg"
-        width: 606
-        height: 454
-        isCached: true
   - title: "Microsoft Offers Preliminary Explanation for March 15 Azure AD Outage"
     excerpt: "Microsoft on Monday apologized for an Azure Active Directory issue that disrupted access to Office 365 applications and the Azure Admin Portal for two hours or more for some users."
     publishedDateTime: 2021-03-16T23:52:00Z
@@ -1646,6 +1642,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "cmYnHU6kJiiR2Bw7c99pIoOnNv55QPAoFnI8mFa0Y1PTs2EnEw17zI4FjOBQFJHPZJsTmMxfKPyW51clb33NXMBIIH9atk/AAUtA8v00gYRiLKz+rh/pyit39VduZUP6WJa/+eXDxG0puvLmoHnsNdOkIR2uYAH6nnuU1pzJ6+IC6U2K64XFQD2e2RmLJWLoz0W62Zanhpyz85fYLgPqYIs91N2beNmbV9xvdZt+piFC+L522GAP+Ayjyzb0WzY3AjXlxYF7uaqXHmq22v5Qs/kmhZqYbbk0JPiPJpo3ETpSwqtcT1veYZu7U35pMmT/1gkQfJU74eMwcThFr+iomk++qQb1fRGCy/OQQaR1KKQ=;Cl0ZtYkFL8xy+9c6Uko7eQ=="
+secured: "hiMn2p694zoHfgOk+7jBFdz+w23ZuOKCD3BrshkcJDECeVrQa1N288KKCoicGadJt4rYqbS/nZkCYaH5V9WazoCmXrd5Dy7i/rqVXdsU/3UrXMCBxogYkx6T/sPJyUzvGe1YYbs7+NeKOE8q8ldzkrgNqinTZpYMMS3DGGCX2XpexCzoLX/kajKy6wJlvoWKvx9qEgkDLpLnknVehM7h2IJ2LsJw4Dc7sqhVGPTaDCbU1y2tAF3Jb0Ya2+8/K48OD0BwAXyPgwXez+fAKaeLXafp9oG4aj4jHdZBOE77voV4+CGaTYOvCajuhJl4QPnD8HP0G9K536b/dep4TXGUE5Vv1Phkz30IKT108lwoDmY=;w855cafSUDSpsDBe+Y8QgA=="
 ---
 
