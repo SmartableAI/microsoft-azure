@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-and-amd-enable-lift-and-shi
 webUrl: "https://azure.microsoft.com/blog/azure-and-amd-enable-lift-and-shift-confidential-computing/"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

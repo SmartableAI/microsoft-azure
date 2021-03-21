@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/our-commitment-to-expand-azure-av
 webUrl: "https://azure.microsoft.com/blog/our-commitment-to-expand-azure-availability-zones-to-more-regions/"
 type: article
 quality: 69
-heat: 90
+heat: 89
 published: true
 
 provider:
