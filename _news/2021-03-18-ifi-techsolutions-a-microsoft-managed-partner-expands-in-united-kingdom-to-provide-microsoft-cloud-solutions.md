@@ -1,31 +1,25 @@
 ---
 category: news
 title: "IFI Techsolutions, a Microsoft Managed Partner, expands in United Kingdom to provide Microsoft cloud solutions"
-excerpt: "PR Newswire LONDON,  LONDON,  /PRNewswir"
-publishedDateTime: 2021-03-18T10:00:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
-webUrl: "https://www.bloomberg.com/press-releases/2021-03-18/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions"
+excerpt: "IFI Techsolutions ( a Microsoft managed Cloud Solutions Partner in India has expanded its global footprint with an office in United Kingdom. This expansion will also help them cater to customers in Europe."
+publishedDateTime: 2021-03-18T10:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions-1030222970"
+webUrl: "https://markets.businessinsider.com/news/stocks/ifi-techsolutions-a-microsoft-managed-partner-expands-in-united-kingdom-to-provide-microsoft-cloud-solutions-1030222970"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1623,6 +1617,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "xN5DS5kLdIQnkWwyYc0qh6SdlFPsA1C56Ptm4HsQlAtH12x/aOL+HRyNG08MtvWBR5QbKEFYExlMsUid+cR1lWCd1U6Kv4v/n6YMxyX67eEoIg52TiZI2IAr5GTzojx0l0wUw1LtQyWkPf/zsmPEL6elzirwNfkz8Ix+3gXu45TcveJltCe+RUYZ4CyJIGbcbK9aZvLYib5LIpbDe6XVmwPCVKUTas2uUplA/7KtN30lDPGu9amlyiYLNecsBJd9+SCRid1Qd06lZvalDjTlQMeLrYJhLy7NUROOUurlIk5a5d05Z24b+xL2xfnnuhh4hMcnpbpb3lvshaabJNylsz/Y75Bst/hYzlFjA7oEzJQ=;5GEsFI2iOjh5PMCWazoHpg=="
+secured: "nri/vZcgomhJZFP1jW/nqH8oLGRzW5J9texgdnU4VyalvsGbJkN/qXQZWRQpC1y3qzpBf9MVRWZusEqIh53IW8eZ+7olUZ/Zv2A86qWhiOzzs5UB7dwR5w4aW/F3QLhmTnpdwyq/C91z0hPdWoCzZoxxG+8bVXhcjibLuwCBsI5BML13ZvDEVhZeFU2IW3bCXmRSZ/3BLmGJSvWSGJz5fPQ8cOyJi6ALEmR7/D9/ZcV/5JZrDLwScBQRXFy32B5Hi0WK0ZIQ9gGrVOxdSgUV3wVK7ez1JpL1Sbv80nMygQI/SUKfH2XzIGz2fVyl95Lf6HxYOnkEyLnarKpuwAwqfsPE0gT8YTeuCRc4jkDgfv4=;dPlwqQg7VGqcIZHC3NwoOg=="
 ---
 
