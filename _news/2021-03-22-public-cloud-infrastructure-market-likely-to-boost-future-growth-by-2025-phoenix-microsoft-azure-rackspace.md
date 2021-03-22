@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Node4 awarded Microsoft Azure Expert MSP status"
-excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
-publishedDateTime: 2021-03-11T10:30:00Z
-originalUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
-webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+title: "Public Cloud Infrastructure Market Likely to Boost Future Growth by 2025 | Phoenix, Microsoft Azure, Rackspace"
+excerpt: "Stay up to date and exploit latest trends of Public Cloud Infrastructure Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Public Cloud Infrastructure Market Outlook to 2025 A detailed study accumulated"
+publishedDateTime: 2021-03-22T13:28:00Z
+originalUrl: "https://www.openpr.com/news/2259984/public-cloud-infrastructure-market-likely-to-boost-future"
+webUrl: "https://www.openpr.com/news/2259984/public-cloud-infrastructure-market-likely-to-boost-future"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://cdn.openpr.com/U/3/U322553392_g.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1577,6 +1583,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Node4 awarded Microsoft Azure Expert MSP status"
+    excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
+    publishedDateTime: 2021-03-11T10:30:00Z
+    webUrl: "https://www.telecompaper.com/news/node4-awarded-microsoft-azure-expert-msp-status--1375542"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
     excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
     publishedDateTime: 2021-03-12T14:11:00Z
@@ -1586,20 +1601,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
-  - title: "Public Cloud Infrastructure Market Likely to Boost Future Growth by 2025 | Phoenix, Microsoft Azure, Rackspace"
-    excerpt: "Stay up to date and exploit latest trends of Public Cloud Infrastructure Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Public Cloud Infrastructure Market Outlook to 2025 A detailed study accumulated"
-    publishedDateTime: 2021-03-22T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2259984/public-cloud-infrastructure-market-likely-to-boost-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
-    images:
-      - url: "https://cdn.openpr.com/U/3/U322553392_g.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -1683,6 +1684,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "hPG0/MvkXtDFaRRsj5rQW+WUg35jfwL3uccYc/DdtI8gLNlOqJ1VOCHqloFBo01Glfn80pGQYiKzQ68jLGhfXBzL8Tm9iabrXHoFagiSOZO0jTjPvE8ltZ3wWL1cRtt4Ib4WXXY3zmEypRfB0eJAtE1yz2ISJRSYyz2CxqWjNlOjXm608vw4e/lP1Wwx3rUBEB8CNLKJGynvI1ZTPEpeIfNqTt2LhMYBpie184zG2VdT3t/l7NEVlvjWeEoQQ7Sp2yyQIm5bMMlHIRhcjN30CM8jpAQRVl/fDdBrtM7jWxNhVCBlNDqix5tnCTJqbsM2ZMNyb9sP6hi/uOHVm4kwwCDLwDf8EEYHLcrkKxJf5Ms=;WrKyEZ22ylkujB9lq0x4FA=="
+secured: "bqob+hqQKR2Fmyc3oG4L+96EsEvsj/mEDk+cMgqwsc37LVeqKKRnsFWloFctZKPfbsd/PIoJ41ZwmgGmUXuCYqQJDVpF6ZUTC7PinzKze6F/uUq96HeJUPoCOqCLvdFzYTyRBQEAFz/jhlz+12WTw1kLoogdeTvSFLInLNEHX6+sFLMBsUas6G0b9OiaieAUDKQGQq/TjujQtcUl4B9KO7gsQauWLsX22qJYvmA8mWYhZchU1KJY+be/5/75Umvdqe8b3OfRcbXcV8/LhuJHUAFpep4hJQN70l/najgN7yqoepwdURCvweDkJT/PNvKNHiEpK5tymFHpke8hjXSG0WB7U7UpK7/YqRulsVkzjtI=;NBK6lvdIMvdb8lzlvKFW9w=="
 ---
 

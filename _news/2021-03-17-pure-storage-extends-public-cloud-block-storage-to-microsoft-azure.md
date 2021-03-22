@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2554
+heat: 2574
 published: true
 
 provider:
@@ -1592,6 +1592,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "Public Cloud Infrastructure Market Likely to Boost Future Growth by 2025 | Phoenix, Microsoft Azure, Rackspace"
+    excerpt: "Stay up to date and exploit latest trends of Public Cloud Infrastructure Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Public Cloud Infrastructure Market Outlook to 2025 A detailed study accumulated"
+    publishedDateTime: 2021-03-22T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2259984/public-cloud-infrastructure-market-likely-to-boost-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
+    images:
+      - url: "https://cdn.openpr.com/U/3/U322553392_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
