@@ -4,6 +4,179 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-create-conversational-ai-solutions.md",
+      "title": "Create conversational AI solutions",
+      "excerpt": "Conversational AI revolves around user interactions, in this case through Bots. In this learning path, you will learn how to create chat bots and integrate the bot with various AI services to add intelligence to the interaction. Learn how to integrate the QnA Maker Service (an easy method to add question and answers for bots), and explore the new Virtual Assistant scenarios for creating branded experiences with bots.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-conversational-ai-solutions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-conversational-ai-solutions/",
+      "length": "PT1H56M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
+          "title": "Build a chat bot with the Azure portal",
+          "excerpt": "Create and test a basic chat bot using the Azure portal",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 53,
+            "average": 4.735849
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI",
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+          "title": "Design a bot conversation flow",
+          "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 37,
+            "average": 4.891892
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
+          "title": "Create a Bot with the Bot Framework Composer",
+          "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
+          "length": "PT1H4M",
+          "ratings": {
+            "count": 44,
+            "average": 4.568182
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Developer Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-describe-the-capabilities-of-microsoft-compliance-solutions.md",
       "title": "Describe the capabilities of Microsoft compliance solutions",
       "excerpt": "Describe the capabilities of Microsoft compliance solutions",
@@ -3270,8 +3443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
           "length": "PT59M",
           "ratings": {
-            "count": 96,
-            "average": 4.78125
+            "count": 97,
+            "average": 4.783505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3313,8 +3486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 107,
-            "average": 4.7009344
+            "count": 108,
+            "average": 4.703704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4177,49 +4350,6 @@
         "Azure",
         "Management Tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
-      "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
-      "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

@@ -4,6 +4,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-go-methods-interfaces.md",
+      "title": "Use methods and interfaces",
+      "excerpt": "Learn about best practices for writing methods and interfaces in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-methods-interfaces/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-methods-interfaces/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 12,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-methods-interfaces-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ha-application-storage-with-grs.md",
+      "title": "Make your application storage highly available with read-access geo-redundant storage",
+      "excerpt": "In this module, you learn how to make your application storage highly available by ensuring that you can fail over resources if there's an Azure region failure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ha-application-storage-with-grs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ha-application-storage-with-grs/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 1574,
+        "average": 4.500635
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ha-application-storage-with-grs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
       "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
@@ -11,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 272,
-        "average": 4.6617646
+        "count": 273,
+        "average": 4.6630034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -562,8 +647,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 338,
-        "average": 4.6153846
+        "count": 339,
+        "average": 4.616519
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -695,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
       "length": "PT60M",
       "ratings": {
-        "count": 114,
-        "average": 4.8070173
+        "count": 115,
+        "average": 4.808696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,8 +908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 1335,
-        "average": 4.5850186
+        "count": 1337,
+        "average": 4.5856395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -994,8 +1079,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 1138,
-        "average": 4.666081
+        "count": 1139,
+        "average": 4.666374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,8 +1122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4506,
-        "average": 4.5379496
+        "count": 4507,
+        "average": 4.538052
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,92 +1227,6 @@
         "Azure",
         "Management Tools",
         "Management tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-transcribe-speech-input-text.md",
-      "title": "Transcribe speech input to text",
-      "excerpt": "Speech to text from the speech service, known as speech recognition, enables real time transcription of audio streams into text. Your applications, tools, or devices can consume, display, and take action on this text as command input.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transcribe-speech-input-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 443,
-        "average": 4.7155757
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-      "title": "Translate speech with the speech service",
-      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 428,
-        "average": 4.698598
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

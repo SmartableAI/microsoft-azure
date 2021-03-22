@@ -4,6 +4,90 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-get-started-azure-quantum.md",
+      "title": "Get started with Azure Quantum",
+      "excerpt": "Learn how to get started with Azure Quantum and create an Azure Quantum workspace.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started-azure-quantum/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-azure-quantum/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 63,
+        "average": 4.7619047
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-go-control-flow.md",
+      "title": "Use control flows in Go",
+      "excerpt": "Learn to use control flows in Go.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-go-control-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-control-flow/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 25,
+        "average": 4.84
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/go-control-flow-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-go-errors-logs.md",
       "title": "Implement error handling and logging in Go",
       "excerpt": "Understand how to handle errors and log helpful information in your Go programs.",
@@ -53,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-get-started/",
       "length": "PT26M",
       "ratings": {
-        "count": 95,
-        "average": 4.8421054
+        "count": 101,
+        "average": 4.8514853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +264,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
       "length": "PT38M",
       "ratings": {
-        "count": 82,
-        "average": 4.792683
+        "count": 83,
+        "average": 4.795181
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -762,48 +846,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
-      "title": "Migrate on-premises workloads to Azure",
-      "excerpt": "Migrate on-premises workloads to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 221,
-        "average": 4.642534
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-monitor-vm-performance-using-azure-monitor-for-vms.md",
       "title": "Monitor performance of virtual machines by using Azure Monitor for VMs",
       "excerpt": "Learn how to use Azure Monitor for VMs to monitor your organization's Azure virtual machines.",
@@ -1229,41 +1271,6 @@
         "Azure",
         "Integration",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
-      "title": "Build an AI web app by using Python and Flask",
-      "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-flask-build-ai-web-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 212,
-        "average": 4.6273584
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],

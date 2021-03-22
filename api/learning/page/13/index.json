@@ -4,6 +4,131 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
+      "title": "Spark architecture fundamentals",
+      "excerpt": "Spark architecture fundamentals",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-spark-architecture-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 579,
+        "average": 4.659758
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/spark-architecture-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
+      "title": "Survey the services on the Azure Data platform",
+      "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 5417,
+        "average": 4.6963263
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks.md",
+      "title": "Azure Certifications for developers | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, you'll learn about the Azure Certifications for developers.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=aTBFvrLKu3U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aTBFvrLKu3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-05T08:04:12-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aTBFvrLKu3U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-go-serverless-event-driven-applications-with-azure-functions-azure-friday.md",
       "title": "Go serverless: Event-driven applications with Azure Functions | Azure Friday",
       "excerpt": "Jeff Hollan joins Scott Hanselman to show how you can quickly develop and deploy code to run in the cloud with Azure Functions. Functions can be written in a variety of languages, and will automatically trigger and scale based on your application needs.  1:53 - Demo  Quickstart: Create your first function",
@@ -502,49 +627,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
-      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
-      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 2922,
-        "average": 4.570842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
       "title": "Introduction to Azure SQL",
       "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
@@ -730,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 5210,
-        "average": 4.7458735
+        "count": 5211,
+        "average": 4.745922
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -773,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
       "length": "PT60M",
       "ratings": {
-        "count": 2855,
-        "average": 4.6577935
+        "count": 2856,
+        "average": 4.657913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1111,8 +1193,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2346,
-        "average": 4.664962
+        "count": 2347,
+        "average": 4.6651044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1319,8 +1401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3593,
-        "average": 4.720011
+        "count": 3594,
+        "average": 4.719811
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1343,84 +1425,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/principles-cloud-computing-deployment-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 6460,
-        "average": 4.7133126
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-what-is-azure-defender.md",
-      "title": "Plan for cloud workload protections using Azure Defender",
-      "excerpt": "Plan for cloud workload protections using Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-azure-defender/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
-      "length": "PT51M",
-      "ratings": {
-        "count": 81,
-        "average": 4.8024693
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

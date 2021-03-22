@@ -8,7 +8,7 @@ length: PT21M
 ratings:
   count: 11944
   average: 4.763563
-heat: 137
+heat: 57
 
 provider:
   name: Microsoft Learn

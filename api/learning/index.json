@@ -242,8 +242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 39709,
-        "average": 4.785162
+        "count": 39735,
+        "average": 4.7852273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,49 +315,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
-      "title": "Connect your on-premises network to Azure with VPN Gateway",
-      "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 6913,
-        "average": 4.623318
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 156,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-1-describe-core-azure-concepts.md",
       "title": "Azure Fundamentals part 1: Describe core Azure concepts",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure cloud computing and Azure architecture.",
@@ -388,8 +345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 39709,
-            "average": 4.785162
+            "count": 39735,
+            "average": 4.7852273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -430,8 +387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 21610,
-            "average": 4.8120775
+            "count": 21624,
+            "average": 4.812107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -474,8 +431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 9977,
-            "average": 4.8063545
+            "count": 9981,
+            "average": 4.8064322
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,8 +495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 21610,
-        "average": 4.8120775
+        "count": 21624,
+        "average": 4.812107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -610,15 +567,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-networking.md",
-      "title": "Core Cloud Services - Azure networking options",
-      "excerpt": "Get acquainted with Azure networking basics to find out how Azure networking helps improve resiliency and reduce latency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-networking/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-networking/",
-      "length": "PT28M",
+      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
+      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
+      "length": "PT46M",
       "ratings": {
-        "count": 45450,
-        "average": 4.7671065
+        "count": 2922,
+        "average": 4.570842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -635,12 +592,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 140,
+      "heat": 133,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-networking-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -649,19 +606,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking"
+        "Compute"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
+      "title": "Migrate on-premises workloads to Azure",
+      "excerpt": "Migrate on-premises workloads to Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
+      "length": "PT31M",
       "ratings": {
-        "count": 11944,
-        "average": 4.763563
+        "count": 221,
+        "average": 4.642534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,15 +633,22 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 137,
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
-        "Azure",
-        "Identity"
+        "Azure"
       ]
     },
     {
@@ -718,8 +682,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 39709,
-            "average": 4.785162
+            "count": 39735,
+            "average": 4.7852273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -760,8 +724,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 8785,
-            "average": 4.7212296
+            "count": 8790,
+            "average": 4.7212744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -806,8 +770,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 7667,
-            "average": 4.7600102
+            "count": 7670,
+            "average": 4.760104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -851,8 +815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6100,
-            "average": 4.7560654
+            "count": 6102,
+            "average": 4.7559814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -913,6 +877,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks.md",
+      "title": "How to use the VS Code Logic Apps extension to create stateless workflows | Azure Tips and Tricks",
+      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use the VS Code Logic Apps extension to create stateless workflows.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-the-vs-code-logic-apps-extension-to-create-stateless-workflows-azure-tips-and-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=hlDN0o9tBAc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hlDN0o9tBAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M46S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-03T08:54:27-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hlDN0o9tBAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -943,8 +945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 39709,
-            "average": 4.785162
+            "count": 39735,
+            "average": 4.7852273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -985,8 +987,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 5861,
-            "average": 4.7778535
+            "count": 5865,
+            "average": 4.7778344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1028,8 +1030,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4525,
-            "average": 4.719116
+            "count": 4527,
+            "average": 4.7190194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1071,8 +1073,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 3999,
-            "average": 4.7614403
+            "count": 4002,
+            "average": 4.761369
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1164,8 +1166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 39709,
-            "average": 4.785162
+            "count": 39735,
+            "average": 4.7852273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1206,8 +1208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5696,
-            "average": 4.761587
+            "count": 5704,
+            "average": 4.761746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1249,8 +1251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4583,
-            "average": 4.7820206
+            "count": 4586,
+            "average": 4.782163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1310,8 +1312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 5696,
-        "average": 4.761587
+        "count": 5704,
+        "average": 4.761746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1353,8 +1355,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 8785,
-        "average": 4.7212296
+        "count": 8790,
+        "average": 4.7212744
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1574,8 +1576,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 9977,
-        "average": 4.8063545
+        "count": 9981,
+        "average": 4.8064322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1610,221 +1612,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-network-infrastructure-in-azure.md",
-      "title": "Architect network infrastructure in Azure",
-      "excerpt": "Learn how to architect a secure, flexible, network infrastructure in Azure and connect on-premises networks to your Azure resources.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/",
-      "length": "PT8H59M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
-          "title": "Connect your on-premises network to Azure with VPN Gateway",
-          "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
-          "length": "PT39M",
-          "ratings": {
-            "count": 6913,
-            "average": 4.623318
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 156,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
-          "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
-          "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 4834,
-            "average": 4.7027307
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 74,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
-          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
-          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 8033,
-            "average": 4.659903
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
-          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
-          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 4424,
-            "average": 4.740958
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 88,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 12,
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-configure-and-manage-virtual-networks-for-azure-administrators.md",
       "title": "AZ-104: Configure and manage virtual networks for Azure administrators",
       "excerpt": "Learn how to configure key Azure network capabilities and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -1855,8 +1642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6875,
-            "average": 4.6363635
+            "count": 6877,
+            "average": 4.6364694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1891,8 +1678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2788,
-            "average": 4.781205
+            "count": 2789,
+            "average": 4.7812834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,8 +1721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4424,
-            "average": 4.740958
+            "count": 4427,
+            "average": 4.740682
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +1764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8033,
-            "average": 4.659903
+            "count": 8036,
+            "average": 4.6599054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2064,8 +1851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6875,
-            "average": 4.6363635
+            "count": 6877,
+            "average": 4.6364694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2100,8 +1887,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 2788,
-            "average": 4.781205
+            "count": 2789,
+            "average": 4.7812834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2143,8 +1930,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4424,
-            "average": 4.740958
+            "count": 4427,
+            "average": 4.740682
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2186,8 +1973,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8033,
-            "average": 4.659903
+            "count": 8036,
+            "average": 4.6599054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2251,8 +2038,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 7667,
-        "average": 4.7600102
+        "count": 7670,
+        "average": 4.760104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2319,8 +2106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 9216,
-            "average": 4.7711587
+            "count": 9219,
+            "average": 4.7712336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2381,8 +2168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 9216,
-        "average": 4.7711587
+        "count": 9219,
+        "average": 4.7712336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2447,8 +2234,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 39709,
-            "average": 4.785162
+            "count": 39735,
+            "average": 4.7852273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2489,8 +2276,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 3636,
-            "average": 4.786854
+            "count": 3639,
+            "average": 4.7870293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2532,8 +2319,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4175,
-            "average": 4.7298203
+            "count": 4181,
+            "average": 4.730208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2575,8 +2362,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 3604,
-            "average": 4.741676
+            "count": 3607,
+            "average": 4.7416134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2661,8 +2448,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 4583,
-            "average": 4.7820206
+            "count": 4586,
+            "average": 4.782163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2703,8 +2490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 6875,
-            "average": 4.6363635
+            "count": 6877,
+            "average": 4.6364694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2739,8 +2526,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8033,
-            "average": 4.659903
+            "count": 8036,
+            "average": 4.6599054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2783,8 +2570,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/end-to-end-encryption-with-app-gateway/",
           "length": "PT1H17M",
           "ratings": {
-            "count": 1032,
-            "average": 4.604651
+            "count": 1033,
+            "average": 4.605034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2871,8 +2658,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5696,
-            "average": 4.761587
+            "count": 5704,
+            "average": 4.761746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2914,8 +2701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4175,
-            "average": 4.7298203
+            "count": 4181,
+            "average": 4.730208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2957,8 +2744,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41253,
-            "average": 4.7171116
+            "count": 41256,
+            "average": 4.717132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2992,8 +2779,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6175,
-            "average": 4.6735225
+            "count": 6177,
+            "average": 4.673628
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3048,8 +2835,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 6875,
-        "average": 4.6363635
+        "count": 6877,
+        "average": 4.6364694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3084,8 +2871,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 6586,
-        "average": 4.636198
+        "count": 6587,
+        "average": 4.6362534
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3120,6 +2907,221 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-architect-network-infrastructure-in-azure.md",
+      "title": "Architect network infrastructure in Azure",
+      "excerpt": "Learn how to architect a secure, flexible, network infrastructure in Azure and connect on-premises networks to your Azure resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-network-infrastructure-in-azure/",
+      "length": "PT8H59M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway.md",
+          "title": "Connect your on-premises network to Azure with VPN Gateway",
+          "excerpt": "Learn about the virtual private network (VPN) gateway options in Azure and typical scenarios for using a VPN. Create and test VPNs to securely connect sites to Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-vpn-gateway/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 6916,
+            "average": 4.6234818
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 76,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute.md",
+          "title": "Connect your on-premises network to the Microsoft global network by using ExpressRoute",
+          "excerpt": "Connect your on-premises systems and users to Azure and Office 365 by using ExpressRoute for private, dedicated, and guaranteed throughput connectivity.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-on-premises-network-with-expressroute/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 4836,
+            "average": 4.7028537
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-expressroute-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints.md",
+          "title": "Secure and isolate access to Azure resources by using network security groups and service endpoints",
+          "excerpt": "Find out how Azure network security groups and service endpoints help you secure your virtual machines and Azure services from unauthorized network access.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-and-isolate-with-nsg-and-service-endpoints/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 8036,
+            "average": 4.6599054
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/secure-and-isolate-with-nsg-and-service-endpoints-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering.md",
+          "title": "Distribute your services across Azure virtual networks and integrate them by using virtual network peering",
+          "excerpt": "Use virtual network peering to enable communication across virtual networks in a way that's secure and minimally complex.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-vnets-with-vnet-peering/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 4427,
+            "average": 4.740682
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 88,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/integrate-vnets-with-vnet-peering-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/connect-on-premises-network-with-vpn-gateway-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-storage-fundamentals.md",
       "title": "Explore Azure Storage services",
       "excerpt": "Learn about the different storage options that are available in Azure Storage.",
@@ -3127,8 +3129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 6100,
-        "average": 4.7560654
+        "count": 6102,
+        "average": 4.7559814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3170,8 +3172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 5861,
-        "average": 4.7778535
+        "count": 5865,
+        "average": 4.7778344
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics.md",
+      "title": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "excerpt": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-real-time-enterprise-analytics-solutions/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 1,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
       "title": "Deploy a Java web app to Azure",
       "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
@@ -869,8 +912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-cloud-security/",
       "length": "PT59M",
       "ratings": {
-        "count": 96,
-        "average": 4.78125
+        "count": 97,
+        "average": 4.783505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1038,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-disaster-recovery-backup/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 107,
-        "average": 4.7009344
+        "count": 108,
+        "average": 4.703704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,48 +1240,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-cmu-virtualize-computing-power.md",
-      "title": "Virtualize computing power",
-      "excerpt": "Carnegie Mellon University's Cloud Developer course. Learn about how computing power is virtualized using virtual CPUs. Covers different types of CPU virtualization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-virtualize-computing-power/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-virtualize-computing-power/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 78,
-        "average": 4.282051
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/virtualize-computing-power-social.png",
-          "width": 1000,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
