@@ -1,27 +1,25 @@
 ---
 category: news
 title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-publishedDateTime: 2021-03-18T16:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
+publishedDateTime: 2021-03-18T16:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
+webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -495,15 +493,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TmaxSoft Announces Partnership with Microsoft Azure"
-    excerpt: "\"TmaxSoft OpenFrame is an efficient and reliant way of re-platforming client's IBM, Fujitsu, or Hitachi mainframe workloads to the Microsoft Azure Cloud. By doing so, enterprises can run mission ..."
-    publishedDateTime: 2021-03-15T13:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tmaxsoft-announces-partnership-with-microsoft-azure-1030204487"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -1177,6 +1166,20 @@ related:
         width: 490
         height: 360
         isCached: true
+  - title: "TmaxSoft Announces Partnership with Microsoft Azure"
+    excerpt: "TmaxSoft, a global software innovator that delivers mainframe modernization solutions with OpenFrame, announced their partnership with Microsoft Azure to deploy OpenFrame on Azure. OpenFrame"
+    publishedDateTime: 2021-03-15T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/tmaxsoft-announces-partnership-with-microsoft-azure/article_906f91c0-ecb0-5000-a366-481cabe60e16.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Apologizes ‘Deeply’ For Worldwide Azure, Teams Outage"
     excerpt: "Microsoft on Tuesday apologized for a worldwide outage that impacted Azure cloud services including Microsoft Teams, Office 365 and Dynamics 365."
     publishedDateTime: 2021-03-16T12:34:00Z
@@ -1665,6 +1668,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "UT1P259hY286SNlX/+wp9q/NTgrD6uOvCAAEhWgkEe5jNjuHCQSOmeFaxKDmEtD4aoMA38h0mpSpz19/YFLDoVgI/mjjoHwSveDyCFDIp347LAhVxWZaEbO+7V9YijaxEeBUmecmoZVSoyGMP5WrTNuzhDunf2jtZfe/eWyQ+RV0Mx4/rQPEx6uTDoof8Uc1pFNn85gP05r4ZEjA0QLrI7/ONGYVK2kveYFtOficbOFehypUZxBpNErJziKdzRujAvHQSm7BE+nXzXYF16ulBMk/zhxjL/+U2QrY6XjdtgYeznIRRtfI/1/kMQxJtQoqT6YicPgRgFrEbrynWEfL12JWaTktaE/iu4qR3oyMemI=;uLOKtSPiNtHLaZh1ySeUlA=="
+secured: "UbfysAefY1CNm3wU+9vsLGLZia4qdgTZi0b6dNEb3MSBn7Ovq1TdlluhwIXvcrmYlV8Fa0sBHuoOwuvAbRZjtP6XV/hp/bl9iqZuY3ToNxma/dS0utjSPBLZc8Ed3VD239CpsqtHdShNmP2f7Y8DmWRMboR559ZukNVDNzHHZesOdvS4m5afK+tH//VrvtvObNPvRRduXF6WLPG/ajmsh87JjCWUDWpaPZG4lQ1Atm6S6ocfxUEnpCE7vqHcxsuX2ozUQrjP7AhcImy2ORrbfHRFAWSl+Gd8Et/SgHeJ2l7dV52h6t0iDtLMRa4awt8vEoDIo8r8SfCIpSeO93PA4Q+xo3yahV1VwPiLNk7Wn14=;Fszn90KlBO+P63aMhPQVMg=="
 ---
 
