@@ -8,7 +8,7 @@ length: PT49M
 ratings:
   count: 1514
   average: 4.568692
-heat: 55
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "CAwsTgzhnrNhKFYHE9OaBnlvRQMewes4ui6h8iK9KsEwJkPm2gUaUFZJqoXOgFuJU7qZ/zee9sstdBOW4ydoDkLRrtIdpEZWJ5AfcU3TVx3/OYwODi73pKhZIEnSpCrovHX5dPUR4BWQ19r0Qgi968EjBZ4hyKOlDtPdAtTLZ2j1UFweR+ICJbDQCUtL9MDbu+eM9aU+bNQPHk3TU6Mh6+C2qd/7AadWoR9syke6n+fLGl4hOFkn+163mmmZlVP4suZJ8GogjmM2J2GG+OObEkx/H8yQNWYZFQjcbIzUn3HahftXEybcxkp83Q0+h7lyir9xUdHec6eZFsKrDsNZcwPu2xMvWAiwY6z3QiXlfHVZLXFwkEjB1jo55LiYFu1dkbP6xm26P79IRWjafdgZHltaX7b4s+rupCR/mKD8l7k=;f3LXUFUzySQ8ZLJU7nLm7A=="
+secured: "Oh2rNVMlz+K9Vx/HHGxnUZuzjd/pwqx83Hf5ciTP/AvhZ2afkDFxxHIXpPMUaTYO/Vz6zkcI5Cgger3p/s/Nd+pUUGiwdOOXHELif4/ypHZzmpKzhpfleRvdZm6OWKWwuLlzoRmC66sg6GQ69G3Wl7iJBbBp2l4kmhPlqqftSef4FvAiC4B/hbo5+/UEJ+MAX9hEvq+E07h5UEL7CZFKA0SlYoxzVircLX3ZAizSqWzaSRlxib2WEl2oHtoX43nJQOCTe9dvPyOTH7bvc8/48dPpOn3GL8iGSNSSnCalOg4WU1t8l9w5NBs1PBKEtVFhGBz9zQ55ANaI+27qB9JULSj8n2+/JKAtesYngyIHsxQAAzucBHbUDOMVeBELE6Oj388nhDBq0WbgbcP4IPgVylcsfXiSgPNfhXQr09KZTAU=;GgCR4iwqUlftHpm5Z9pwVA=="
 ---
 
