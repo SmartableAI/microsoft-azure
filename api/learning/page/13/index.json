@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-understand-azure-defender-cloud-workload-protection.md",
-      "title": "Explain cloud workload protections in Azure Defender",
-      "excerpt": "Explain cloud workload protections in Azure Defender",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-understand-azure-defender-cloud-workload-protection/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 100,
-        "average": 4.88
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-certifications-for-developers-azure-tips-and-tricks.md",
       "title": "Azure Certifications for developers | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, you'll learn about the Azure Certifications for developers.    For more tips and tricks, visit: https://aka.ms/azuretipsandtricks     Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft Azure: https://azure.com/free",
@@ -364,8 +321,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 980,
-        "average": 4.7489796
+        "count": 983,
+        "average": 4.7487283
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -407,8 +364,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6229,
-        "average": 4.7224274
+        "count": 6230,
+        "average": 4.7224717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -917,8 +874,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/",
       "length": "PT24M",
       "ratings": {
-        "count": 757,
-        "average": 4.760898
+        "count": 760,
+        "average": 4.7578945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -960,8 +917,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2274,
-        "average": 4.4564643
+        "count": 2275,
+        "average": 4.4553847
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -995,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/go-variables-functions-packages/",
       "length": "PT36M",
       "ratings": {
-        "count": 43,
-        "average": 4.9069767
+        "count": 45,
+        "average": 4.911111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,6 +1181,50 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+      "title": "Publish and manage your APIs with Azure API Management",
+      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1442,
+        "average": 4.6782246
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
       ]
     }
   ],

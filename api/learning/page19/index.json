@@ -4,49 +4,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-ai-technology.md",
-      "title": "Introduction to AI technology",
-      "excerpt": "Learn the primary concepts and technologies of AI, and how Microsoft is turning the latest AI into tools, products, and services that organizations can leverage",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-ai-technology/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 1824,
-        "average": 4.698465
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-ai-technology-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-app-center.md",
       "title": "Introduction to App Center",
       "excerpt": "Explore Azure App services to find ways to simplify creation and integration as you build, distribute, test, and analyze usage of yours apps.",
@@ -132,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
       "length": "PT28M",
       "ratings": {
-        "count": 1653,
-        "average": 4.6690865
+        "count": 1654,
+        "average": 4.6692867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +340,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
       "length": "PT43M",
       "ratings": {
-        "count": 159,
-        "average": 4.5597486
+        "count": 160,
+        "average": 4.5625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -426,8 +383,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
       "length": "PT49M",
       "ratings": {
-        "count": 69,
-        "average": 4.768116
+        "count": 71,
+        "average": 4.7746477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -469,8 +426,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
       "length": "PT59M",
       "ratings": {
-        "count": 64,
-        "average": 4.78125
+        "count": 67,
+        "average": 4.776119
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -891,8 +848,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 704,
-        "average": 4.8011365
+        "count": 706,
+        "average": 4.7988667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,8 +1190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-table-api/",
       "length": "PT29M",
       "ratings": {
-        "count": 1468,
-        "average": 4.588556
+        "count": 1469,
+        "average": 4.5888357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1267,6 +1224,50 @@
         "Azure",
         "Storage",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
+      "title": "Approach your data-flow diagram with the right threat model focus",
+      "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
+      "length": "PT8M",
+      "ratings": {
+        "count": 288,
+        "average": 4.736111
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/approach-your-data-flow-diagram-with-the-right-threat-model-focus-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Security"
       ]
     }
   ],

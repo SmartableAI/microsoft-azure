@@ -4,6 +4,48 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse.md",
+      "title": "Use Azure Lighthouse to govern, monitor, and secure customer resources",
+      "excerpt": "Learn about how Azure Lighthouse can help you monitor, secure, and govern your customer resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-govern-monitor-secure-resources-azure-lighthouse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/govern-monitor-secure-resources-azure-lighthouse/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 15,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-handle-transient-errors-in-your-app.md",
       "title": "Handle transient errors in your app",
       "excerpt": "Detect, handle, and recover from errors when working with cloud-based services to make your apps more resilient and improve user experience.",
@@ -182,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
       "length": "PT1H5M",
       "ratings": {
-        "count": 50,
-        "average": 4.76
+        "count": 51,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -754,6 +796,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-implement-cicd-iot-edge.md",
+      "title": "Implement CI/CD for IoT Edge",
+      "excerpt": "University of Oxford",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-cicd-iot-edge/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-cicd-iot-edge/",
+      "length": "PT1H11M",
+      "ratings": {
+        "count": 39,
+        "average": 4.5641026
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/implement-cicd-for-iot-edge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
       "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
       "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
@@ -1192,92 +1277,6 @@
         "Management Tools",
         "Compute",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-import-data-into-asdw-with-polybase.md",
-      "title": "Import data into Azure Synapse Analytics by using PolyBase",
-      "excerpt": "Load petabytes of data into an Azure Synapse Analytics database in minutes by using PolyBase",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-import-data-into-asdw-with-polybase/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/import-data-into-asdw-with-polybase/",
-      "length": "PT1H6M",
-      "ratings": {
-        "count": 2155,
-        "average": 4.562877
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/import-data-into-asdw-with-polybase-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation.md",
-      "title": "Improve the developer experience of an API with Swagger documentation",
-      "excerpt": "Learn how to document an existing API, written in C#/ASP.NET Core, using Swashbuckle, Swagger/OpenAPI, and Swagger UI.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-improve-developer-experience-of-an-api-with-swagger-documentation/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-developer-experience-with-swagger/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 578,
-        "average": 4.6418686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/improve-developer-experience-of-an-api-with-swagger-documentation-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
       ]
     }
   ],
