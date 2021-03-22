@@ -3,8 +3,8 @@ category: news
 title: "TmaxSoft Announces Partnership with Microsoft Azure"
 excerpt: "TmaxSoft, a global software innovator that delivers mainframe modernization solutions with OpenFrame, announced their partnership with Microsoft Azure to deploy OpenFrame on Azure. OpenFrame"
 publishedDateTime: 2021-03-15T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/tmaxsoft-announces-partnership-with-microsoft-azure/article_906f91c0-ecb0-5000-a366-481cabe60e16.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/tmaxsoft-announces-partnership-with-microsoft-azure/article_906f91c0-ecb0-5000-a366-481cabe60e16.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/tmaxsoft-announces-partnership-with-microsoft-azure/article_906f91c0-ecb0-5000-a366-481cabe60e16.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/tmaxsoft-announces-partnership-with-microsoft-azure/article_906f91c0-ecb0-5000-a366-481cabe60e16.html"
 type: article
 quality: 37
 heat: -1
@@ -1249,15 +1249,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
-    publishedDateTime: 2021-03-18T16:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
     excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
     publishedDateTime: 2021-02-02T15:35:00Z
@@ -1596,6 +1587,20 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 17
+  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
+    publishedDateTime: 2021-03-18T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
@@ -1665,6 +1670,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "42Zzg4CqkzIFXuYlLuy/e9lYxs9tSQTOkxtFbbikaIw2ZeDwlumEgdaPLPekayh3OTB7wA3j8EeAxm2fhNa0Uqggjo9QsmIKf8vJa0l6Q3arqr/vy/WfSrC07ZG2P+S3gbdF0SilCIjjAT2aj3k6W3C1ekQcPoiUL7AC7j/lhrwNAOlzOxkcIH/BmTujIfzd1WuxjG5PMTRjIqfsx3ITBuXBTA+k93HdnArnw6shNrqzd/+jjKGkOPBiOeDLtSvJiRh3sRmh5LiVKOj/+/AAcdieWqCYL8VyimZfpkmnrX4iJ3jBTDnZsEvKYPjYDCVp/y32Kp/j91DUdNIwURVmtfJVE+HRBLbMnt33LveBTKE=;S0b2nNoU9pXdDWWq/vK/zw=="
+secured: "rk//2vhu6P8VUW9SRpiTzXzl9eX3psEBUFlUCcdjTGGSzVIfxr1XaVnP1iJ8gBDOdLH35cR+v+ggMu25KP9b5UQJQi6ydnIS6WCJwvp1+oGf6kt8K2mYIzhUcFfZ6aoVb7gHKFxeGu7hoL4d+fRVg7dlIuHZ198XYJr0zdx/RcsGQuGObgA8bMcDyCWK9oRpfyk9vWPUmN8vhN3Y7nFHB5iSTB5TF9VJp9UmMPp1Zt3D6oybT5BkD7kIDmINACW1ZSRUWX6atyFV0uEkCRhJGZqOH3A9MwMhsA+pgYKqLgqb9HMK19BdMzAzsPn03dpGM8McGohT4S7eruNWOiywzT9Tl/RO8LAxnAGUr11/vas=;NAM/Dh2ug/0ydDlXaemURA=="
 ---
 
