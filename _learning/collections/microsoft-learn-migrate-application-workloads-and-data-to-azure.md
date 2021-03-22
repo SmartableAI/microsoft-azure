@@ -4,7 +4,7 @@ excerpt: "Migrate application workloads and data to Azure"
 type: collection
 price: Free
 length: PT3H14M
-heat: 62
+heat: 87
 
 provider:
   name: Microsoft Learn
