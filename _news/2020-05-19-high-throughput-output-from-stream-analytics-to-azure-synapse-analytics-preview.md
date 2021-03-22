@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
+    excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
+    publishedDateTime: 2021-03-22T15:47:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-azure-dashboards-experience-for-pinned-log-analytics-parts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "App Service announces the general availability of Windows Container support"
     excerpt: "You can now deploy production workloads in Windows Containers on Azure App Service and take advantage of the rich productivity gains of the platform."
     publishedDateTime: 2020-09-22T16:00:43Z

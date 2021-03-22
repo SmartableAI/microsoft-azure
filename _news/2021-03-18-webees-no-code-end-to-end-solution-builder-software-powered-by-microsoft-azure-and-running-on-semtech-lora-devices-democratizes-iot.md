@@ -1446,6 +1446,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Microsoft Makes Azure Cloud Compliance a Little Easier for New Zealand Public Sector Organisations"
+    excerpt: "This new NZISM Azure blueprint and policy initiative is a great step forward, showcasing how Microsoft’s cutting-edge cloud governance capabilities can be used by our public sector clients to assure themselves they are securing their Azure cloud ..."
+    publishedDateTime: 2021-03-22T01:02:00Z
+    webUrl: "https://news.microsoft.com/en-nz/2021/03/22/microsoft-makes-azure-cloud-compliance-a-little-easier-for-new-zealand-public-sector-organisations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 23
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/433/2018/10/cropped-cropped-microsoft_logo_element.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Microsoft Cloud App Security"
     excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
     publishedDateTime: 2020-07-02T17:13:00Z
@@ -1665,6 +1679,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 9
+  - title: "Clients Live on Charles River’s Investment Management Solution Built on Microsoft ® Azure"
+    excerpt: "The Charles River Investment Management Solution (Charles River IMS) on Microsoft Azure helps set a new industry standard as a cloud-based offering that helps firms innovate, bring new products to market quickly, and mitigate operational and security risks."
+    publishedDateTime: 2021-03-22T13:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210322005421/en/Clients-Live-on-Charles-River’s-Investment-Management-Solution-Built-on-Microsoft®-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z

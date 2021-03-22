@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
-excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
-publishedDateTime: 2021-03-14T11:32:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
-webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+title: "Clients Live on Charles River’s Investment Management Solution Built on Microsoft ® Azure"
+excerpt: "The Charles River Investment Management Solution (Charles River IMS) on Microsoft Azure helps set a new industry standard as a cloud-based offering that helps firms innovate, bring new products to market quickly, and mitigate operational and security risks."
+publishedDateTime: 2021-03-22T13:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210322005421/en/Clients-Live-on-Charles-River’s-Investment-Management-Solution-Built-on-Microsoft®-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210322005421/en/Clients-Live-on-Charles-River’s-Investment-Management-Solution-Built-on-Microsoft®-Azure"
 type: article
-quality: 20
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
@@ -1523,6 +1521,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
+    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
+    publishedDateTime: 2021-03-14T11:32:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 20
   - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2020-11-17T18:20:00Z
@@ -1669,15 +1678,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 9
-  - title: "Clients Live on Charles River’s Investment Management Solution Built on Microsoft ® Azure"
-    excerpt: "The Charles River Investment Management Solution (Charles River IMS) on Microsoft Azure helps set a new industry standard as a cloud-based offering that helps firms innovate, bring new products to market quickly, and mitigate operational and security risks."
-    publishedDateTime: 2021-03-22T13:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210322005421/en/Clients-Live-on-Charles-River’s-Investment-Management-Solution-Built-on-Microsoft®-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T14:20:00Z
@@ -1706,6 +1706,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "1QNZ+fkbGUMSmhmCHUL45DDbCswtcKz9n3vp2rmhaeGQnJtcZ62PaU/9ZU5GX+6NpSVjlYxDVUw2IiTQk82CaWqzykGegh41i/0KeR3an8AglHcgYXM0oPhEIaVCUg7RE1ENEKFpmGwa53wVLB0tm4BAjAOPY3GRyz/IslT6kBO9I/3mUDYFa1K0dV/atqlu/JF6eUcYL61uZR2Ryctyj2cYR+JXR5NKpbRaJ2HeAXfcONSwZu+5Tc/g9NbjpAxwHIEVt7s9t1m85PlzAQodDSAWrjteQ61Kg6jqkHR7uwB4zdJYcamD/jq3tjHM+Cro3/MQ+h0HSkZTTCXdPwlEjT+XB4sxJTqez2EAploqcx4=;vmpkUKpLSabaz5IOdxpkEg=="
+secured: "Pbqi5dkVhx8WiNWI4V0k+h4i//wNLFEzeE9rnfjs0GkzRrU26yUsafRP6KBjAwYkwZfg9KpMw1DyepJ/aN/Ns4CQ+L/dxv13mMhJCTaLMWLIFkDjAOMoLs49QT6qoEAQ4kgn8O3ni1RiD10WAWBAttSHCgq+lte1TEDmdvkUv7M7ynupfc8CwwidUORx+PT/q4l2lZXZKycSMrmBcj2H+TqLjrQ7nz5IWXJZYoc4Y5CMGe+w+Ljwm8pxH0At8/KtVvzKWL+gePdUfScBcvc1vAb+v86kBRwxQ3c+QTn5F6JxqlSyRqehmruOxltXnHwb+NkrgS89iha8EnXrIELnogkcQknoOM5HcYhKaw7ntbM=;qsRvBq14OuhNR9gz97ivHQ=="
 ---
 

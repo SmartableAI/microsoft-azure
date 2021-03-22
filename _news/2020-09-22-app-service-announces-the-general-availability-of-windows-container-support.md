@@ -41,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Enhanced Azure Dashboards experience for pinned Log Analytics parts"
+    excerpt: "Log Analytics enhances pinned parts Azure Dashboards experience. "
+    publishedDateTime: 2021-03-22T15:47:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enhanced-azure-dashboards-experience-for-pinned-log-analytics-parts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 75
   - title: "High throughput output from Stream Analytics to Azure Synapse Analytics (preview)"
     excerpt: ""
     publishedDateTime: 2020-05-19T17:00:14Z

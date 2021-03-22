@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
-excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
-publishedDateTime: 2021-03-14T11:32:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
-webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+title: "Microsoft Makes Azure Cloud Compliance a Little Easier for New Zealand Public Sector Organisations"
+excerpt: "This new NZISM Azure blueprint and policy initiative is a great step forward, showcasing how Microsoft’s cutting-edge cloud governance capabilities can be used by our public sector clients to assure themselves they are securing their Azure cloud ..."
+publishedDateTime: 2021-03-22T01:02:00Z
+originalUrl: "https://news.microsoft.com/en-nz/2021/03/22/microsoft-makes-azure-cloud-compliance-a-little-easier-for-new-zealand-public-sector-organisations/"
+webUrl: "https://news.microsoft.com/en-nz/2021/03/22/microsoft-makes-azure-cloud-compliance-a-little-easier-for-new-zealand-public-sector-organisations/"
 type: article
-quality: 20
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
+
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/433/2018/10/cropped-cropped-microsoft_logo_element.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1447,20 +1455,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Microsoft Makes Azure Cloud Compliance a Little Easier for New Zealand Public Sector Organisations"
-    excerpt: "This new NZISM Azure blueprint and policy initiative is a great step forward, showcasing how Microsoft’s cutting-edge cloud governance capabilities can be used by our public sector clients to assure themselves they are securing their Azure cloud ..."
-    publishedDateTime: 2021-03-22T01:02:00Z
-    webUrl: "https://news.microsoft.com/en-nz/2021/03/22/microsoft-makes-azure-cloud-compliance-a-little-easier-for-new-zealand-public-sector-organisations/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 23
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/433/2018/10/cropped-cropped-microsoft_logo_element.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Microsoft Cloud App Security"
     excerpt: "The days of relying solely on a 'blinky light firewall' to give you a sense of security are gone, and you need a cloud-based security solution for controlling your users' cloud access, such as Microsoft Cloud App Security."
     publishedDateTime: 2020-07-02T17:13:00Z
@@ -1523,6 +1517,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "Microsoft Cloud expected to generate $27bn revenues by 2024 in UAE: report"
+    excerpt: "Microsoft, its partners and cloud-using customers could generate new revenues that could reach around $27 billion over the next four years in the UAE. This cloud ecosystem is also expected to propel the UAE economy upwards from the 2020 level, creating ..."
+    publishedDateTime: 2021-03-14T11:32:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96554-microsoft-cloud-expected-to-generate-27bn-revenues-by-2024-in-uae-report?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 20
   - title: "Blake Moret On CNBC: We Partnered With Microsoft To Marry Our Offerings With Microsoft's Azure Cloud Platform"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2020-11-17T18:20:00Z
@@ -1706,6 +1711,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "1QNZ+fkbGUMSmhmCHUL45DDbCswtcKz9n3vp2rmhaeGQnJtcZ62PaU/9ZU5GX+6NpSVjlYxDVUw2IiTQk82CaWqzykGegh41i/0KeR3an8AglHcgYXM0oPhEIaVCUg7RE1ENEKFpmGwa53wVLB0tm4BAjAOPY3GRyz/IslT6kBO9I/3mUDYFa1K0dV/atqlu/JF6eUcYL61uZR2Ryctyj2cYR+JXR5NKpbRaJ2HeAXfcONSwZu+5Tc/g9NbjpAxwHIEVt7s9t1m85PlzAQodDSAWrjteQ61Kg6jqkHR7uwB4zdJYcamD/jq3tjHM+Cro3/MQ+h0HSkZTTCXdPwlEjT+XB4sxJTqez2EAploqcx4=;vmpkUKpLSabaz5IOdxpkEg=="
+secured: "P+2gj3IhoqGSDl/6viZsCygGdrighvWDcb07OhlEotYuGxWD2hyfN2TU453IQ9ctp/i7fepKFxXAlPS00SB9YZyriB5EC2mqqThakFwrkQk1fU5j8c0+pp6FW1qRmcI53DtzBGZNq13+bP3QzwBar4fGP8i3hmFv1zJnHSWOPiAR3XkECFmHMwoJpbbuEVfkrnXu5i9Z18vxf7++LLxKfaOsAl6+EPLbWYPRY5wK6i6WW7OmdiJ/XWJb97QLuiF2R96bh3P++BSKV5F2E42MUlnjLl40BM3JNXsEl2M1Vpw2k5Stgxh5et2dnU0t/2PAIOjPoIBT8ot+Rj5Z6aLPxjm8TU5+OeqO4YoFSU4lnl0=;wG/7pGCYz3xJOPL9fZ7nkg=="
 ---
 
