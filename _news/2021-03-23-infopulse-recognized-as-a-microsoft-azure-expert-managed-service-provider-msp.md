@@ -1,26 +1,26 @@
 ---
 category: news
-title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
-excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
-publishedDateTime: 2021-02-02T10:39:00Z
-originalUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
-webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
+excerpt: "The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with"
+publishedDateTime: 2021-03-23T10:01:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
 type: article
-quality: 37
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Azure
 
 images:
-  - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
-    width: 1013
-    height: 675
+  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -1070,6 +1070,20 @@ related:
         width: 971
         height: 520
         isCached: true
+  - title: "NHS migrates millions of mailboxes to Microsoft Azure cloud"
+    excerpt: "Microsoft has announced that over two million NHS mailboxes have been moved to its Azure cloud, building towards a cloud-first health service"
+    publishedDateTime: 2021-02-02T10:39:00Z
+    webUrl: "https://www.information-age.com/nhs-migrates-millions-mailboxes-microsoft-azure-cloud-123493600/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/nhs-migrates-millions-mailboxes-microsoft-azure-cloud.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "How We Leveraged Microsoft Azure To Meet On-Demand Needs"
     excerpt: "How We Leveraged Microsoft Azure To Meet On-Demand Needs By Chad Leverenz, VP, IT Infrastructure & Development, Mercy Housing - Like most non-profit organizations, we experienced rapidly growing needs for visualizing analytics,"
     publishedDateTime: 2021-02-19T04:24:00Z
@@ -1367,20 +1381,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 33
-  - title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
-    excerpt: "The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with"
-    publishedDateTime: 2021-03-23T10:01:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
-    images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Docker Extends Collaboration with Microsoft Azure to Boost Developer Productivity"
     excerpt: "Docker today announced that it has extended its strategic collaboration with Microsoft to simplify code to cloud application development for developers and development teams by more closely integrating with Azure Container Instances (ACI)."
     publishedDateTime: 2020-05-27T16:00:00Z
@@ -1721,6 +1721,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "/dw9j4V+m6J3FNQ1QNwbLNxveHkt9gJliQoARl8QFcUvN2RcyRuwwoXN7/hufzRizbyOwDtkdPmSqcKZHqP4WPeIquONlNuPT89/W5vY8s1jxkWisIOaeWahdf+yWceICwRT9uyEj9SL1W5yQUhaMMNmdPyBlSFruSlfClhrjlKKP7tC87U9LQ6xqrOYWT4oHJP1KQ18AmQaHWCXApVbKeknqaXRtSUncqf9k7+a/E8M61WIpUxEvEiuWQhtkPaddLk/se+ggc8BKMBl/llr9+EKeKV2QZdIVOohWCdyAmyuVU0F/EvDxlq9Z65fnY9ITxX4OtPdWATa11FS4KaH0NEQnYmjp3mK3R2snItMBN5hTxKDCYjMTz0K1gKFHJCpCLkE1V0/JbUEIDlWGtPF7HxGLZxATqq5gPPadMUfSBTVjkl4jqiD4AK/Pw5OW5U923MX6PMqvllDpDtHAysgeQ4WdvWuwdu0npPGP9v2imOCOWPKu3xP6sDaQ0p1Tl2ZFyrxGRCowsmrkEhTIfY6JQ==;6EgwEZYOtcwCAnI7KPh/rw=="
+secured: "qSnhjIi57VdHgQjoU7AbB2zcONPIAxRvWSN4HG/tBZBxck9a/kH4u+PPQiB+23tbYB1tMFfVBhKa4jNAp1cgxrvUngy7k758z3JkWEog2BRUw2sV8i1AA/coeGyoUiZejDZyEg3lB70vu6bSYWjNctp69DP1JyXD+Z19mw90CcJAIca9iJAl5Qb+9Z5LsQgQY58guQc27LQq8vzynjOU8tOaDTSXjVqvTkHaUVqt7/4GEVFT+VN07BUiKLvpB/tBE++UYNa7ZuZ0qgnIWVCYsyI8VQrl1B8Nliml6b1xlFEYj7ASBzkWyhmEM/5S45Qflg7vcv1UakDXy/oWe8hVLQ9jSF6s94jTNucmAIsVibM=;1W/M3GAkHJDQe8/ftrSv7w=="
 ---
 
