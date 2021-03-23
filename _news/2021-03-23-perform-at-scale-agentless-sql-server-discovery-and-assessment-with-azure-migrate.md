@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-23T09:00:08Z
 originalUrl: "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/"
 webUrl: "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/"
 type: article
-quality: 98
-heat: 98
+quality: 100
+heat: 100
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Azure
   - Migration
+  - Databases
 
 images:
   - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/70ac4a13-f03e-4666-90cd-ce8b4ed508d0.jpg"

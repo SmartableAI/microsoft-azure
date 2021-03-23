@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Container Registry now available in Norway East region"
+    excerpt: "Azure Container Registry is now generally available in Norway East region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+    publishedDateTime: 2021-03-23T17:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Container Registry now available in Switzerland West region"
     excerpt: "Azure Container Registry is now generally available in the Switzerland West region, bringing the total number of Azure regions that it's available in to 35. See the list of all regions where Azure Container Registry is available and where it's coming next."
     publishedDateTime: 2020-08-31T18:46:09Z

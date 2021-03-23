@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-perform-at-scale-agentless-sql-server-discovery-and-assessment-with-azure-migrate.md",
+      "title": "Perform at-scale, agentless SQL server discovery and assessment with Azure Migrate",
+      "excerpt": "Moving on-premises infrastructure, databases, and applications to Azure is key to the success of your cloud migration and modernization journey, and we are committed to simplifying that process. With…",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/",
+      "originalUrl": "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/70ac4a13-f03e-4666-90cd-ce8b4ed508d0.jpg",
+          "width": 722,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T02:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Migration",
+        "Databases"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-long-term-backup-retention-ltr-for-azure-sql-managed-instance-in-public-preview.md",
       "title": "Long-term backup retention (LTR) for Azure SQL Managed Instance in public preview",
       "excerpt": "Configure long-term backup retention for SQL Managed Instance databases and retain database backups beyond the 35 days provided by Azure SQL Managed Instance automated backups, for up to 10 years. ",
@@ -1286,49 +1339,6 @@
       "topics": [
         "Azure",
         "Serverless",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_news/2020-09-10-additional-azure-sql-database-gateways-changes-effective-october-12-2020.md",
-      "title": "Additional Azure SQL Database gateways changes effective October 12, 2020",
-      "excerpt": "Additional SQL Gateways are being added for Azure SQL Database in Germany West Central effective 12 October 2020.  ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/sql-gateway-additions-in-germany-west-central/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-10T13:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
         "Databases"
       ]
     }

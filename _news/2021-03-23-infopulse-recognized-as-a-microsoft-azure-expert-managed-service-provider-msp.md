@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
-excerpt: "The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with"
-publishedDateTime: 2021-03-23T10:01:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
+excerpt: "KYIV, Ukraine, March 23, 2021 /PRNewswire/ -- The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure Expert MSP recognition validates the company's deep knowledge ..."
+publishedDateTime: 2021-03-23T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
+webUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
 type: article
 quality: 33
 heat: -1
@@ -12,13 +12,13 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
@@ -1758,6 +1758,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "qSnhjIi57VdHgQjoU7AbB2zcONPIAxRvWSN4HG/tBZBxck9a/kH4u+PPQiB+23tbYB1tMFfVBhKa4jNAp1cgxrvUngy7k758z3JkWEog2BRUw2sV8i1AA/coeGyoUiZejDZyEg3lB70vu6bSYWjNctp69DP1JyXD+Z19mw90CcJAIca9iJAl5Qb+9Z5LsQgQY58guQc27LQq8vzynjOU8tOaDTSXjVqvTkHaUVqt7/4GEVFT+VN07BUiKLvpB/tBE++UYNa7ZuZ0qgnIWVCYsyI8VQrl1B8Nliml6b1xlFEYj7ASBzkWyhmEM/5S45Qflg7vcv1UakDXy/oWe8hVLQ9jSF6s94jTNucmAIsVibM=;1W/M3GAkHJDQe8/ftrSv7w=="
+secured: "rhjW9/JLYxCVuMQayqr/ASxOU+wzZrqbHnTf8AOXWRPW/GfCAAb7uY1NEl6CEhjNx1CwrOgp6g9r7OCP43Mw/2aa7RTxTVMH1PCVB6qUm4FF60z21G0SqLuEMvYA+QR5e+v5OM0HiIbG0CmVAr6FRWexMulVtB8fRQT6d1bGHOmQMQIAjG/TIeGjR1+0ACGW9eiXa/2wES6Pj+N0q9Px8idj8Plh4OwPgDBucla5Jfw9C314AoP2uc7R6iwIHAtrYQvRS200p7DbZ9NP0mehISXMldcyiXXu4AEOrtE4mvWIk4eS4FcSphYBsYs0HPKqN1KbSka1aiZs9VszMMps9VBk3BPNttsGo5eS8C/7lTo=;BVOFYSYtJsAPg3iQdCzb5A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-several-new-regions/"
 type: article
 quality: 84
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Containers
 
 related:
+  - title: "Azure Container Registry now available in Norway East region"
+    excerpt: "Azure Container Registry is now generally available in Norway East region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification."
+    publishedDateTime: 2021-03-23T17:52:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Shared disks on Azure Disk Storage is now available in broader set of regions"
     excerpt: "Shared disks is available for Premium SSDs in all regions and available for Ultra Disks in all regions that support Ultra Disks."
     publishedDateTime: 2020-09-30T16:00:19Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: AKS resources view"
-excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
-publishedDateTime: 2020-12-09T17:00:15Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
-webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+title: "General availability: Publishing VM Images from Shared Image Gallery to Azure Marketplace"
+excerpt: "ISVs can capture their images directly into Shared Image Gallery and select those images for publishing with an inline experience in Partner Center in just two steps."
+publishedDateTime: 2021-03-23T15:56:23Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/"
 type: article
-quality: 69
+quality: 58
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Containers
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -128,6 +127,15 @@ related:
         width: 432
         height: 415
         isCached: true
+  - title: "General availability: AKS resources view"
+    excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
+    publishedDateTime: 2020-12-09T17:00:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/ga-aks-resources-view/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "General availability: Soft delete for Azure file shares is now on by default for new storage accounts"
     excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
     publishedDateTime: 2021-02-08T18:02:36Z
@@ -191,15 +199,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
-  - title: "General availability: Publishing VM Images from Shared Image Gallery to Azure Marketplace"
-    excerpt: "ISVs can capture their images directly into Shared Image Gallery and select those images for publishing with an inline experience in Partner Center in just two steps."
-    publishedDateTime: 2021-03-23T15:56:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z
@@ -237,6 +236,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "jlhA5NBVsiWxyq3lMDwriFfOFq/YjqEfyFg6HRwGbmnc59rE1vADwPUVjBWVOEYXzkSZUJ1IslI6Mi4ZbVsoiWnz9JPqWrPozouo7QEV+XirGjJ9RLlJGhY9Ef5S7PWswu0umeUj4+e2qonD4qcFGq3gK6L633ORIp++EQQ17g0iJhraAZnDQYG7MVR1g8JgX4BvIuHUlBGWMzKrBRnqkl/8xu33MFWryQFYOfTw+6V6ayiac9/+qc1lCV6TJe64dsajAal7LA47yrCgYtKf7sgEpfQaEIT/5D7aaI1eE/6um8jyuzhM5F2RExnqMm7U4DitGaUFvE2UvZdjJp3d7Yns9f128UxXfog7xF2LiW0=;vNnFgz5pL1HmH5/gsC/iww=="
+secured: "qfoRkn70oMDoAmzalGMToatUPSlKRdzP0/BQIjcnbzEiWV3CrJEe3BpuSPhO86slVeRPNTLkJT+zTzbcSWrENtv84nNbMAsV5tJcWXiOc56XnfLSclrZ+Bq0w7G67Y4zRSyBz2kLxoBiRur1+afUp7Ll+VYR3uNpa4AuaOnHeNTjMRDIIrdXYiGJqBFNOwNSjkdvpvxRr4KZjf+JPDZsd+dmub1YI/ykanPVbccumVbIAWuaEqHVX32cTPwzBT7Ltg2unRLL7XmiwSpaxS0N+QEnXhAVcjNe57Sd8vFQDvbz0RBoVpZpZ8wJB79iXMBOtuPgJ4I/WSa7bI+h/21mLMddHwYsPZWLiX326L0GKbI=;HMXmEKLNF/w58v/wPeZVCg=="
 ---
 

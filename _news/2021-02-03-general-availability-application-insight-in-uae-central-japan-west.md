@@ -199,6 +199,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "General availability: Publishing VM Images from Shared Image Gallery to Azure Marketplace"
+    excerpt: "ISVs can capture their images directly into Shared Image Gallery and select those images for publishing with an inline experience in Partner Center in just two steps."
+    publishedDateTime: 2021-03-23T15:56:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "US Gov Virginia Availability Zones now generally available"
     excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
     publishedDateTime: 2021-02-16T22:33:18Z

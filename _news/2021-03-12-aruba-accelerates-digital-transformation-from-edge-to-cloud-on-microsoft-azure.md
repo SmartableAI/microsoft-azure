@@ -1367,16 +1367,16 @@ related:
       domain: businesswire.com
     quality: 33
   - title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
-    excerpt: "The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with"
-    publishedDateTime: 2021-03-23T10:01:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp--868806968.html"
+    excerpt: "KYIV, Ukraine, March 23, 2021 /PRNewswire/ -- The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure Expert MSP recognition validates the company's deep knowledge ..."
+    publishedDateTime: 2021-03-23T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/infopulse-recognized-as-a-microsoft-azure-expert-managed-service-provider-msp-301252973.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 33
     images:
-      - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
         isCached: true

@@ -191,6 +191,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "General availability: Publishing VM Images from Shared Image Gallery to Azure Marketplace"
+    excerpt: "ISVs can capture their images directly into Shared Image Gallery and select those images for publishing with an inline experience in Partner Center in just two steps."
+    publishedDateTime: 2021-03-23T15:56:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-publishing-vm-images-from-shared-image-gallery-to-azure-marketplace/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z
