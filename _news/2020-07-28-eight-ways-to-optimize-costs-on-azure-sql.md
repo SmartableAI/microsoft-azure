@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-a
 webUrl: "https://azure.microsoft.com/blog/eight-ways-to-optimize-costs-on-azure-sql/"
 type: article
 quality: 106
-heat: 187
+heat: 186
 published: true
 
 provider:
