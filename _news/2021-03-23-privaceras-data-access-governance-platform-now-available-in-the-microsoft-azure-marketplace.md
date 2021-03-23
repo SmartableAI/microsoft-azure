@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
-excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
-publishedDateTime: 2021-03-16T05:30:00Z
-originalUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
-webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
+title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
+excerpt: "March 23, 2021 /PRNewswire/ -- Privacera, a cloud data governance and security leader founded by the creators of Apache Ranger, announced today that its data access governance solution is now available in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-03-23T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace/article_7c9826db-d281-5033-b908-219c3f0bbfd0.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace/article_7c9826db-d281-5033-b908-219c3f0bbfd0.html"
 type: article
-quality: 9
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-  - Migration
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f0fc29b5a.image.jpg?resize=630%2C630"
+    width: 630
+    height: 630
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1408,20 +1409,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "March 23, 2021 /PRNewswire/ -- Privacera, a cloud data governance and security leader founded by the creators of Apache Ranger, announced today that its data access governance solution is now available in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-03-23T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace/article_7c9826db-d281-5033-b908-219c3f0bbfd0.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f0fc29b5a.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
-        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T19:19:00Z
@@ -1702,6 +1689,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 12
+  - title: "Microsoft launches Azure Migration Program and FastTrack for Azure in India to simplify cloud migration for organizations"
+    excerpt: "Azure Migration Program, FastTrack for Azure build on Microsoft’s expertise in helping organizations transition to the cloud seamlessly."
+    publishedDateTime: 2021-03-16T05:30:00Z
+    webUrl: "https://news.microsoft.com/en-in/microsoft-launches-azure-migration-program-and-fasttrack-for-azure-in-india-to-simplify-cloud-migration-for-organizations/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 9
   - title: "Clients Live on Charles River’s Investment Management Solution Built on Microsoft ® Azure"
     excerpt: "The Charles River Investment Management Solution (Charles River IMS) on Microsoft Azure helps set a new industry standard as a cloud-based offering that helps firms innovate, bring new products to market quickly, and mitigate operational and security risks."
     publishedDateTime: 2021-03-22T13:30:00Z
@@ -1739,6 +1735,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "nBTx6RNiOsNykoq1b8pXiYHz4THZnrVA+EcRqTLaXV/AxFBxB47dRy/8E1ZH4Rfd3HpS+48sHY8rHLofYSWGgjsZS4+tj7+ivvP/TAmp3wMIsygyhzy5SGWmAPfwJpzEoAyqj3t24hEHECdG4qrwABuZB16LZMqmqoOEqM2sA4V7ahmPZdZOZ8rUh2vtHV31wnq7CphBUr5TAREyYrdaGg2HFphSMlEwfud9/5ryQhrdK1TDRwSX/d272VFBLkFxbe3gFiHIiU34P/C8OltYR0gTAN9aWlwfF8YdDw9y9+yvrlIGjZL76geXXnSEEsm965YDdVoDfnfITt++6AbgOPM69CgsQyEpFvlEm4jXa7Y=;zRmPMOfC1Q3OlEN3FA7JAw=="
+secured: "+iucwlBh+VoEwhIQFXWsAbXb7DjxvdWNhtpBEcsiGS3CrRu6nckoGKNXW3j3yC3K5YNd30NuUk3+YmiVmxpIotN3Qi34AT3ofuns4WDUnSauksg8OZTQ8DrqywgFvPrD+UUKuv7ruF7zvMY2gCpGKweEPsIDvNL65yMw8te1+i8rzuKzSfcYIljytxKePTyqXkLR6nq6gBEeKhUkqZ0b4+20yxIdQfqxEw3ZJogIMXijEquzBFWxpEHmnQGN+fNwr949Qb7hh+/cTJoLJJ2li2tmf1hd6kFea1laRKCJrUsF2wA/uGO2jqyeoGLbMOmW5O3wM2CubHC2dYd6KMo+iYWkwbwkI4ftg3wCw7i6Cck=;ggQdSW6zUalS3P7DQ0p4wQ=="
 ---
 

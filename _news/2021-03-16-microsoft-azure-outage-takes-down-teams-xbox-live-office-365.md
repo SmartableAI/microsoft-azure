@@ -1395,6 +1395,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "March 23, 2021 /PRNewswire/ -- Privacera, a cloud data governance and security leader founded by the creators of Apache Ranger, announced today that its data access governance solution is now available in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-23T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace/article_7c9826db-d281-5033-b908-219c3f0bbfd0.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/47/0472fcbb-ae66-5a5a-a147-d2684c6c7aa8/6059f0fc29b5a.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Sepio Systems Hardware Access Control solution now available in the Microsoft Azure Marketplace"
     excerpt: "March 10, 2021 /PRNewswire/ -- Sepio Systems, a leader in hardware access control (HAC), today announced the availability of its HAC-1 solution in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-10T19:19:00Z
