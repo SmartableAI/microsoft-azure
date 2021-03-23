@@ -1693,6 +1693,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "KWizCom is Approved as a Cloud Solution Provider for Microsoft Cloud for US Government"
+    excerpt: "KWizCom, a global leading developer of SharePoint Forms and Workflows, as well as various other SharePoint web parts and apps for Microsoft 365 designed"
+    publishedDateTime: 2021-03-23T13:50:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwizcom-is-approved-as-a-cloud-solution-provider-for-microsoft-cloud-for-us-government/article_c202f234-e72d-54fd-8ff4-5ff735da3dae.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australian smart building platform Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Cognian Technologies, a fast-growing Australian property technology company, today announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
     publishedDateTime: 2021-03-16T05:11:00Z
@@ -1720,6 +1734,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 5
+  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+    excerpt: "WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of ..."
+    publishedDateTime: 2021-03-17T13:47:00Z
+    webUrl: "https://www.oaoa.com/news/business/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running/article_65145a7a-827d-51e2-be23-7c95f02a8eef.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 3
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
     publishedDateTime: 2021-03-17T18:00:00Z

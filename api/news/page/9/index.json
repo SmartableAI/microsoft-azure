@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-06-standard-load-balancer-and-public-ip-addresses-support-resource-group-move.md",
+      "title": "Standard Load Balancer and Public IP addresses support resource group move",
+      "excerpt": "Standard Load Balancers and Standard Public IP addresses support cross resource group moves enabling easy management of resources at the resource group level.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/standard-resource-group-move/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/standard-resource-group-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T09:00:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-iot-signals-research-edition-2-global-insights-for-2020-and-beyond.md",
       "title": "IoT Signals Research, edition 2: global insights for 2020 and beyond",
       "excerpt": "If your business is already harnessing IoT, you likely believe IoT is critical to the long term success of your business. You are not be alone. According to our latest annual report, IoT Signals Edition 2 released today 90 percent of decision makers now believe IoT is critical to their company’s success.",
@@ -1133,49 +1176,6 @@
         "Azure",
         "Analytics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability.md",
-      "title": "High throughput output from Stream Analytics to Azure Synapse Analytics (General Availability)",
-      "excerpt": "With a brand new output connector to Synapse SQL Pools, Stream Analytics can now support throughput rates even higher than 200MB/sec while ensuring ultra-low latencies. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/high-throughput-output-from-stream-analytics-to-azure-synapse-analytics-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:05:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

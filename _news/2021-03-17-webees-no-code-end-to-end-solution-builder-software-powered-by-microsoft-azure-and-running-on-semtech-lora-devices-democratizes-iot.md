@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
-excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
-publishedDateTime: 2021-03-16T14:02:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+excerpt: "WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of ..."
+publishedDateTime: 2021-03-17T13:47:00Z
+originalUrl: "https://www.oaoa.com/news/business/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running/article_65145a7a-827d-51e2-be23-7c95f02a8eef.html"
+webUrl: "https://www.oaoa.com/news/business/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running/article_65145a7a-827d-51e2-be23-7c95f02a8eef.html"
 type: article
-quality: 69
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Azure
-  - Storage
-
-images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
-    isCached: true
+  - IoT
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -410,6 +404,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
         width: 1250
         height: 455
+        isCached: true
+  - title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T14:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 69
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
     excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
@@ -1732,15 +1740,6 @@ related:
       domain: morningstar.com
     quality: 5
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of ..."
-    publishedDateTime: 2021-03-17T13:47:00Z
-    webUrl: "https://www.oaoa.com/news/business/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running/article_65145a7a-827d-51e2-be23-7c95f02a8eef.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 3
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "SUNNYVALE, Calif.--(BUSINESS WIRE)--WeBee’s No-Code End-to-End Solution Builder running on Microsoft Azure, operating on the LoRaWAN® protocol and leveraging Semtech (Nasdaq: SMTC) LoRa® devices simplifies the development of enterprise IoT use cases ..."
     publishedDateTime: 2021-03-17T18:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
@@ -1759,6 +1758,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "rbeZU+dUm/ltvSegFf2IZ3bH8gqVmIWQQHMzJxyFSIN+mAnHHpohqoShKOLzu8brFhAfMH/Oei1cPky1+ApsSg1eEtjNf8BdqlOudVuy1iyiwID7f8ocmuVjnK6CXLdGTi15/Q2CFOBac0E0xWkoVQ00Ybr90+4r54M5gLqt8+sGvg3VhVXdA8WvcICB0uw2gQ5lU7EbrWxWC78k1+jjJAl0VXRB50Eov37HW0UNzuBVS/OwZ08yoOGaLEqJjzQP4qHKBNpnNRZpPm5g5E+BMzFUguU0z2hmTYPhH97ifAl3rfz0EU3QMqTqAnRIb7+hbOf5IxZ0ybtC6HASFFl3HtXbQOMaDhA4CLpotyciTc8=;bhK57e7SrxT5X2V3YWKWeg=="
+secured: "9RI5fkr4KJyBeLff9+ve9of9Ac3Hkhm/utvopVfbgKAgo/1qpJ+/qq/J4f2C63oVseYcWqtXoN4BsM5A6FbwmXiyK5GJeU4PFp8iM1nlHn1jVmVgzQZHnwliARZ/K8KzQzmWPx6ikCz9zaJOhsmQzVYA2ihE6MtHOtefBOHlvFKdO+genhKCvIu8GrLCuehqW6kswrJ5oH2SXKOtfaMgB1t64GrfgQBBcW/g6bF02pbJAZtgjHszkrOHgEz82kuUZuErRDyTr8sYMRQ3jtpqHviw1Mxn6pCifEme9NT6lF2cWs4nm8bBtG04jlzjOFtglEDHlfgGUxG5sYe7tcXioREXtT6/UTRSDyhEbUdF1YY=;x+Dd25PBauWz96ayDX+j7A=="
 ---
 

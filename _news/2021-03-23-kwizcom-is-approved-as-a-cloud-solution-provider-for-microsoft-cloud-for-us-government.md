@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
-excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
-publishedDateTime: 2021-03-16T14:02:00Z
-originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
-webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+title: "KWizCom is Approved as a Cloud Solution Provider for Microsoft Cloud for US Government"
+excerpt: "KWizCom, a global leading developer of SharePoint Forms and Workflows, as well as various other SharePoint web parts and apps for Microsoft 365 designed"
+publishedDateTime: 2021-03-23T13:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwizcom-is-approved-as-a-cloud-solution-provider-for-microsoft-cloud-for-us-government/article_c202f234-e72d-54fd-8ff4-5ff735da3dae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwizcom-is-approved-as-a-cloud-solution-provider-for-microsoft-cloud-for-us-government/article_c202f234-e72d-54fd-8ff4-5ff735da3dae.html"
 type: article
-quality: 69
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: dbta.com
-  domain: dbta.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
-  - Storage
 
 images:
-  - url: "https://www.dbta.com/images/social-logo-2019.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -410,6 +409,20 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2018/03/19/Azure.png"
         width: 1250
         height: 455
+        isCached: true
+  - title: "Datadobi Adds File Data Protection for Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, is adding support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft’s cloud-based object storage solution."
+    publishedDateTime: 2021-03-16T14:02:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Datadobi-Adds-File-Data-Protection-for-Microsoft-Azure-Blob-Storage-145777.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 69
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CoreSite Boosts Hybrid-Cloud with On-Net Connectivity in Chicago to Microsoft Azure ExpressRoute"
     excerpt: "CoreSite Realty Corporation (NYSE:COR) (“CoreSite,” or the “Company”), a premier provider of secure, reliable, high-performance data center, cloud access"
@@ -1681,20 +1694,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "KWizCom is Approved as a Cloud Solution Provider for Microsoft Cloud for US Government"
-    excerpt: "KWizCom, a global leading developer of SharePoint Forms and Workflows, as well as various other SharePoint web parts and apps for Microsoft 365 designed"
-    publishedDateTime: 2021-03-23T13:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kwizcom-is-approved-as-a-cloud-solution-provider-for-microsoft-cloud-for-us-government/article_c202f234-e72d-54fd-8ff4-5ff735da3dae.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Australian smart building platform Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Cognian Technologies, a fast-growing Australian property technology company, today announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
     publishedDateTime: 2021-03-16T05:11:00Z
@@ -1759,6 +1758,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "rbeZU+dUm/ltvSegFf2IZ3bH8gqVmIWQQHMzJxyFSIN+mAnHHpohqoShKOLzu8brFhAfMH/Oei1cPky1+ApsSg1eEtjNf8BdqlOudVuy1iyiwID7f8ocmuVjnK6CXLdGTi15/Q2CFOBac0E0xWkoVQ00Ybr90+4r54M5gLqt8+sGvg3VhVXdA8WvcICB0uw2gQ5lU7EbrWxWC78k1+jjJAl0VXRB50Eov37HW0UNzuBVS/OwZ08yoOGaLEqJjzQP4qHKBNpnNRZpPm5g5E+BMzFUguU0z2hmTYPhH97ifAl3rfz0EU3QMqTqAnRIb7+hbOf5IxZ0ybtC6HASFFl3HtXbQOMaDhA4CLpotyciTc8=;bhK57e7SrxT5X2V3YWKWeg=="
+secured: "ybaSw4t9QjHmVKjjHhJXiwUG0F3bnOo6tTJZ9s+Mez9hOu1TwKMRkw4nN57zW5GZ1b/rf5DD0N4tK8HtQXDUfYBN6NbHxgKwIwwAMwlreZnl9/QLUeFYulqgcf1qsfnonnZxIz5WClqg/vyxgXmkldumRnTI/ntYMbkK7KzMbgS9Wfo2XrK2ZbVh+aUSvCr1MDz25XjnHdgjBhj82MnnAyT0TfTeaGNkLH6/1rjb3OVh6Ri8OqT35UxW5CvcEnFD9s5YyaulYBw0Ui7gHMma7GHaSj8wQz8npM8ELVrL2YnZqxPbSxA4jl2xrrcf4l+ZQUknNIn+6hAbHW33nPh42tkJiFzeQu7CbfanOtxadMc=;P731wtIyM6R+YFVcqM7eFw=="
 ---
 
