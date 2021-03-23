@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Microsoft Azure's Big Bet on SDN"
-excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
-publishedDateTime: 2021-02-19T06:59:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
-webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+title: "Hybrid IT and virtualized workloads: How to prepare for a shift to Microsoft Azure"
+excerpt: "Agencies’ mix of both on-premises and cloud implementations highlights the need for comprehensive, full-stack visibility across the entire hybrid IT environment."
+publishedDateTime: 2021-03-23T20:21:00Z
+originalUrl: "https://gcn.com/articles/2021/03/23/hybrid-cloud-azure.aspx"
+webUrl: "https://gcn.com/articles/2021/03/23/hybrid-cloud-azure.aspx"
 type: article
-quality: 37
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: GCN
+  domain: gcn.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
-    width: 300
+  - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2016/February/hybridcloud.png"
+    width: 620
     height: 300
     isCached: true
 
@@ -1112,6 +1112,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
     excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
     publishedDateTime: 2021-03-11T10:48:00Z
@@ -1394,20 +1408,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Hybrid IT and virtualized workloads: How to prepare for a shift to Microsoft Azure"
-    excerpt: "Agencies’ mix of both on-premises and cloud implementations highlights the need for comprehensive, full-stack visibility across the entire hybrid IT environment."
-    publishedDateTime: 2021-03-23T20:21:00Z
-    webUrl: "https://gcn.com/articles/2021/03/23/hybrid-cloud-azure.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 31
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2016/February/hybridcloud.png"
-        width: 620
-        height: 300
         isCached: true
   - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "March 23, 2021 /PRNewswire/ -- Privacera, a cloud data governance and security leader founded by the creators of Apache Ranger, announced today that its data access governance solution is now available in the Microsoft Azure Marketplace, an online store ..."
@@ -1786,6 +1786,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3MzE/b58nyspwwW7wF7oWhMz4zAnTS/N5XZFoacj6W0oWaG0NTMUWv1YaEK94hSuq25PizxoyuXAJ5s5jfSS9sO3pSWzMTd88myupzgu9hJtNj/BoAg3xiVO9gXehz0DbHA6PaMeHA8j8LUbLBa3xqMFyMlU85cmP/n9mNyTDw7U/+kwUHQyWSR/a1fwoE9vQOzIFS8H65ih1IXkDiSXMWj6wiTXGB1+X59DDX4RfioBVTkLXVsJC3FvFAaJYnKqMuzVO5Of96Z3tzmqL6BEpvY3CBSrvSY8lGpzDO1HTfF1lrdp9z5ygfOeSStK4o4QEcwHavmhL7+JO7QrJ9D7RzCs9mSetDDXRRrw9yHP0BzU/m5YfIfJ5s0xq9/xPJG1+zZvUksCeU6c87cZjK1akmfobCHEwHAZ8W9dVXwIk4Y8h/5ZImurdMvzFNGnDUySIxdg6Yx8v8Vll0KqRGJHeMzaUmkfeNH9UH0tc5DX4WtvxXoy7auC8LTdjFO9YxSEMGoDdqr52hqQD11lSk0WaQ==;r0M/K4odklUmJ3ScORUH9g=="
+secured: "ykC6crnMRQ/RuVBgPc79B/+n11ag2aIcClKP54LE03PiXmZ5klThrtDmewCDFj/0m7NZlzGPc3M0rfyOsNBK2Pg/AG5y0WT7zxewQsofLzQPJRZJPnBjEmXyzH/u477HyadnadlbQqtnfXY3eLvvU+le42LSJ4Q80NMoITiVLbX/Ha/Ev1J0KP3+IKJGs/3nPPSmNMeXtlpY/SRdYn+HMtKl86xIrR+4JMGBezqOfuCqKGceExIm6w+j5UMYQLH8v1qwcAsfo9/G3nvzjaeRpjYF9Gpjw8UDAUzLavsVlH+iVNejOj7i6ZQVfE3AFFeqhZzmIguWEiI3Tlc99vh8ACvsHyQjGnHwvh5ySpwoF2U=;Z/Un5bfhd7GN/QbQ/xynhQ=="
 ---
 

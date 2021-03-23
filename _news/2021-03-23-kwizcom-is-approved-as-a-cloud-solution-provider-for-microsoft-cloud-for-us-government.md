@@ -1409,6 +1409,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Hybrid IT and virtualized workloads: How to prepare for a shift to Microsoft Azure"
+    excerpt: "Agencies’ mix of both on-premises and cloud implementations highlights the need for comprehensive, full-stack visibility across the entire hybrid IT environment."
+    publishedDateTime: 2021-03-23T20:21:00Z
+    webUrl: "https://gcn.com/articles/2021/03/23/hybrid-cloud-azure.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 31
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2016/February/hybridcloud.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
     excerpt: "March 23, 2021 /PRNewswire/ -- Privacera, a cloud data governance and security leader founded by the creators of Apache Ranger, announced today that its data access governance solution is now available in the Microsoft Azure Marketplace, an online store ..."
     publishedDateTime: 2021-03-23T13:30:00Z
@@ -1436,6 +1450,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Kublr Announces Advanced Microsoft Azure Features, Gives Enterprise Customers Software that Delivers on the Promise of Kubernetes"
+    excerpt: "Kublr ( kublr.com/ ) today announced Kublr 1.20, a new version of its comprehensive container orchestration platform that gives customers the ability to run reliably at scale through its operations and governance capabilities."
+    publishedDateTime: 2021-03-23T21:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
     excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"

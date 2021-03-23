@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure's Big Bet on SDN"
-excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
-publishedDateTime: 2021-02-19T06:59:00Z
-originalUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
-webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+title: "Kublr Announces Advanced Microsoft Azure Features, Gives Enterprise Customers Software that Delivers on the Promise of Kubernetes"
+excerpt: "Kublr ( kublr.com/ ) today announced Kublr 1.20, a new version of its comprehensive container orchestration platform that gives customers the ability to run reliably at scale through its operations and governance capabilities."
+publishedDateTime: 2021-03-23T21:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
 type: article
-quality: 37
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+  - Containers
 
 images:
-  - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
-    width: 300
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -1112,6 +1113,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft Azure's Big Bet on SDN"
+    excerpt: "Microsoft Azure's Big Bet on SDN By Albert Greenberg, Director of Development, Microsoft Azure Networking, Microsoft Corporation - The demands on the network are growing exponentially as more and more customers are running their applications in the cloud."
+    publishedDateTime: 2021-02-19T06:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azures-big-bet-on-sdn-nid-7990-cid-9.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/bioauthor_img/6518.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Node4 Achieves Microsoft Azure Expert MSP Status"
     excerpt: "Node4, has been awarded Microsoft Azure Expert MSP status, one of only nine UK organisations to receive this accreditation. This award – which also recognises Node4’s expertise in Azure DevOps and mature Azure Service Tiles approach – marks a key ..."
     publishedDateTime: 2021-03-11T10:48:00Z
@@ -1436,20 +1451,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Kublr Announces Advanced Microsoft Azure Features, Gives Enterprise Customers Software that Delivers on the Promise of Kubernetes"
-    excerpt: "Kublr ( kublr.com/ ) today announced Kublr 1.20, a new version of its comprehensive container orchestration platform that gives customers the ability to run reliably at scale through its operations and governance capabilities."
-    publishedDateTime: 2021-03-23T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
     excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"
@@ -1786,6 +1787,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3MzE/b58nyspwwW7wF7oWhMz4zAnTS/N5XZFoacj6W0oWaG0NTMUWv1YaEK94hSuq25PizxoyuXAJ5s5jfSS9sO3pSWzMTd88myupzgu9hJtNj/BoAg3xiVO9gXehz0DbHA6PaMeHA8j8LUbLBa3xqMFyMlU85cmP/n9mNyTDw7U/+kwUHQyWSR/a1fwoE9vQOzIFS8H65ih1IXkDiSXMWj6wiTXGB1+X59DDX4RfioBVTkLXVsJC3FvFAaJYnKqMuzVO5Of96Z3tzmqL6BEpvY3CBSrvSY8lGpzDO1HTfF1lrdp9z5ygfOeSStK4o4QEcwHavmhL7+JO7QrJ9D7RzCs9mSetDDXRRrw9yHP0BzU/m5YfIfJ5s0xq9/xPJG1+zZvUksCeU6c87cZjK1akmfobCHEwHAZ8W9dVXwIk4Y8h/5ZImurdMvzFNGnDUySIxdg6Yx8v8Vll0KqRGJHeMzaUmkfeNH9UH0tc5DX4WtvxXoy7auC8LTdjFO9YxSEMGoDdqr52hqQD11lSk0WaQ==;r0M/K4odklUmJ3ScORUH9g=="
+secured: "OPyiHTfB+iWg4VLawgAMefHlqmuPUNYLgYRfkw6/QW+7Nvhy/WGRMbNUg4YWnXXjk2Ch3szFb0POao8TKxtCrYzOVgpr/Cm8297n6FTQdJ04hFNgTP4dhrdtzfnsDEP4krYk4kYl+3SvRV/LF7tUrNQaEnndqXxZWwLTnlH9RGoL+L9MwjBX5sPccS0XvBebYrbteJk1+P+EIK2m8s23Gfw4yYG56cHwuo1ACS8fdsKD/ZpnUEcUD9R2C45XvP8klYlGJeKPOwJByhf/6olE6lAJvYUou6g/tP7UAEMlE2PiOJVZXzgYF7QACzRQIqPJxVAAmspnuAEXANHcfBJBqm9KYvSlQEncKKDD58COqr0=;sqqiAnOuPKfjOz+YWSp4TQ=="
 ---
 
