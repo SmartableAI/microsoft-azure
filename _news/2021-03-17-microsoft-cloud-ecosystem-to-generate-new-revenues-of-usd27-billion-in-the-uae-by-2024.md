@@ -1267,15 +1267,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
-    publishedDateTime: 2021-03-18T16:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
     excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
     publishedDateTime: 2021-02-02T15:35:00Z
@@ -1641,6 +1632,20 @@ related:
       - url: "https://cdn.openpr.com/U/3/U322553392_g.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
+    publishedDateTime: 2021-03-18T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
