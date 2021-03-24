@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
-publishedDateTime: 2021-03-11T17:38:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
-webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+title: "March 15 Microsoft Azure Outage Resolved"
+excerpt: "Microsoft's Azure login system was affected by an unexpected outage impacting many from 7 p.m., Monday, March 15, to 9 a.m., Tuesday, March 16."
+publishedDateTime: 2021-03-23T05:03:00Z
+originalUrl: "https://news.uark.edu/articles/56361/march-15-microsoft-azure-outage-resolved"
+webUrl: "https://news.uark.edu/articles/56361/march-15-microsoft-azure-outage-resolved"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: University of Arkansas
+  domain: uark.edu
 
 topics:
   - Azure
+
+images:
+  - url: "https://campusdata.uark.edu/resources/images/articles/PMUA_Logo-web.jpg"
+    width: 450
+    height: 450
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1234,20 +1238,6 @@ related:
         width: 900
         height: 493
         isCached: true
-  - title: "March 15 Microsoft Azure Outage Resolved"
-    excerpt: "Microsoft's Azure login system was affected by an unexpected outage impacting many from 7 p.m., Monday, March 15, to 9 a.m., Tuesday, March 16."
-    publishedDateTime: 2021-03-23T05:03:00Z
-    webUrl: "https://news.uark.edu/articles/56361/march-15-microsoft-azure-outage-resolved"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 37
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/PMUA_Logo-web.jpg"
-        width: 450
-        height: 450
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1379,6 +1369,17 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 33
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Working closely with Microsoft, Aruba developed the Aruba IoT Transport for Azure service – the first of its kind for general purpose applications – to address these challenges. The Aruba IoT ..."
+    publishedDateTime: 2021-03-11T17:38:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96516-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
     quality: 33
   - title: "Infopulse Recognized as a Microsoft Azure Expert Managed Service Provider (MSP)"
     excerpt: "KYIV, Ukraine, March 23, 2021 /PRNewswire/ -- The Azure Expert Managed Service Provider (MSP) recognition marks an essential milestone in Infopulse's 17-year collaboration with Microsoft. Azure Expert MSP recognition validates the company's deep knowledge ..."
@@ -1799,6 +1800,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Rto+hjlA2BiYE+2YxfwLUGD5LKL1jxQkR6XU8+I4EV+cwtAQONTWtTY/nJ1T44ATVL5BDh011tv6WHCZPrLQncrR4dUN8MjaqVi79qN/Mep+Qk5nWmiwyhYixpMgY/zjQfysdGNoJxjyDbHLPFZOqpd2MDuwp7il+HBkeGDFjjJ70Fj0VLGp+IgwnvOEM2+6vweNqo/rxBwL5Naq5ttAIFplpH9EiDrTNSQM7HLbV+/Ifty9JuKCJJ253MeSwqOFhzeJGS9x2A7bmS8e1Y9b2ttSUC0vCi3CV/Oz5BPAgSZwjP8sO+oed/v3hzPzCdwDCrXqIwxa3JeQL2rMh2lUE4JC4uOEs4iawgM4IVTTsvU=;ozFvVxc00xEEY1NY2d3k9Q=="
+secured: "1VDeUyu9EEmNv0q6Ln1zXtatVM0miPY4qniM8nnxVbK5/g8UGT+UfuJMFI6TKoM3t/e4hwKSoQVBi+T/MSJrXAfcTBnhnU4VR5YLC0M9l9gLyaYs388wxbxz3Q90uUDm9wohEWwzoFHNlSqT4rAqkSjBqDViCi7t3Fla5zqf3vUMWUGDUKPr/5eeeAGQBUebv94UmLZWYz2wC/oAg2/7mjH0NGDP0SZTszyHZTtcX4CZrNx3xPDNzRzunzo9bXZwSyGlTVSG1YyeplXZo0elg8Sys03gScakV49B7Tom/+wLsxonvZz5TfUdayyAlxSt85r2xnEsEsfkE5RGFcy10SFBhfEErnemOOUWN6tllTQ=;1z0NbhRZbgMJh0rizT69KQ=="
 ---
 

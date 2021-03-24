@@ -1233,6 +1233,20 @@ related:
         width: 900
         height: 493
         isCached: true
+  - title: "March 15 Microsoft Azure Outage Resolved"
+    excerpt: "Microsoft's Azure login system was affected by an unexpected outage impacting many from 7 p.m., Monday, March 15, to 9 a.m., Tuesday, March 16."
+    publishedDateTime: 2021-03-23T05:03:00Z
+    webUrl: "https://news.uark.edu/articles/56361/march-15-microsoft-azure-outage-resolved"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 37
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/PMUA_Logo-web.jpg"
+        width: 450
+        height: 450
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
