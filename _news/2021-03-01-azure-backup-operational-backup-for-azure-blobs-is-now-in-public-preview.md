@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-blob-op-bac
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-blob-op-backup-preview/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:
