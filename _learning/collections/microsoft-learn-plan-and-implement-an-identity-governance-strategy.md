@@ -4,7 +4,7 @@ excerpt: "Plan and implement an identity governance strategy"
 type: collection
 price: Free
 length: PT3H9M
-heat: 66
+heat: 67
 
 provider:
   name: Microsoft Learn

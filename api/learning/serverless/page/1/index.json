@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 40941,
-            "average": 4.7845435
+            "count": 41015,
+            "average": 4.7844205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 22304,
-            "average": 4.8118277
+            "count": 22330,
+            "average": 4.811823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 10282,
-            "average": 4.8070416
+            "count": 10296,
+            "average": 4.8072066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 22304,
-        "average": 4.8118277
+        "count": 22330,
+        "average": 4.811823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,6 +221,43 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+      "title": "Create serverless logic with Azure Functions",
+      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 8108,
+        "average": 4.658609
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 153,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-3-describe-core-solutions-and-management-tools-on-azure.md",
       "title": "Azure Fundamentals part 3: Describe core solutions and management tools on Azure",
       "excerpt": "Learn how to choose the best services from Azure to build and manage cloud solutions.",
@@ -251,8 +288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 40941,
-            "average": 4.7845435
+            "count": 41015,
+            "average": 4.7844205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -293,8 +330,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 6034,
-            "average": 4.778919
+            "count": 6041,
+            "average": 4.7791758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +373,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4662,
-            "average": 4.720721
+            "count": 4666,
+            "average": 4.7203174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -379,8 +416,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4120,
-            "average": 4.7601943
+            "count": 4124,
+            "average": 4.7601843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -449,8 +486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 3708,
-        "average": 4.7756205
+        "count": 3712,
+        "average": 4.775862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -600,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 12530,
-            "average": 4.588747
+            "count": 12533,
+            "average": 4.588686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -642,8 +679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8107,
-            "average": 4.65869
+            "count": 8108,
+            "average": 4.658609
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,7 +697,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 73,
+          "heat": 153,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -716,8 +753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3435,
-            "average": 4.573217
+            "count": 3438,
+            "average": 4.5730076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -767,43 +804,6 @@
         "Management Tools",
         "Databases",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-      "title": "Create serverless logic with Azure Functions",
-      "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 8107,
-        "average": 4.65869
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 73,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Management Tools"
       ]
     },
     {
@@ -880,8 +880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41314,
-            "average": 4.717239
+            "count": 41316,
+            "average": 4.7172523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8107,
-            "average": 4.65869
+            "count": 8108,
+            "average": 4.658609
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1064,7 +1064,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 73,
+          "heat": 153,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1083,8 +1083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1735,
-            "average": 4.504899
+            "count": 1736,
+            "average": 4.504608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2093,
-            "average": 4.590062
+            "count": 2094,
+            "average": 4.5902576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1663,8 +1663,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3435,
-        "average": 4.573217
+        "count": 3438,
+        "average": 4.5730076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1784,8 +1784,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
       "length": "PT53M",
       "ratings": {
-        "count": 2100,
-        "average": 4.639524
+        "count": 2101,
+        "average": 4.6382675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1951,8 +1951,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
       "length": "PT46M",
       "ratings": {
-        "count": 3232,
-        "average": 4.493193
+        "count": 3234,
+        "average": 4.4935064
       },
       "provider": {
         "name": "Microsoft Learn",
