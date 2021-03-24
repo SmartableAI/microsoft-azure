@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 7867
-  average: 4.7704334
+  count: 7869
+  average: 4.7704916
 heat: 81
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Storage
   - Management Tools
 
-secured: "dhS0UxW0R3Adl8DgMbvxLCt79eRDUw+V6ElsjOJLSuIXo1B/qvA5B8crFVLgUuHgM2LaZ2xxX6oS8zec3u3McVTgUpFR1RNPV8SL1omMXdP27yUKVQivU1DP2daoaZRp9jY7RVwSmx7UZHCb7h5+V/JeCCS2xMPJrp+lpJFwKTjYmnq6IzkcVwnbdCoHWq5TEfsojl1nBsznDozQJj75h/VCGHFhHL9GthhvRoRopeBkn2E6QhDh+GgaEm02RJNGwmRKLMkCIiD6Nv01C0QAVq05aqV7I9KF/W4DHuQeX4QNzIGejkS5isG+k97KUUgLeD1q+IF+98bvQa0TFEqf6z1us5BPz4LhvqJTzOu78bCN5xyQnc35q2LqeIMjfYesYyoRTh3WK5HK1oU6YPKsfm8LSMRf0BqzIg5AoLHpQo4=;Ff2uUKFU9OyoaJj6NpYdwg=="
+secured: "2JL04Huw6VsjE2nz0BpyGiLt7BmdDV6TS0YA2YpT3BHHbuxOIs2kjMFC76kUDq8gJatSQyzEvZwCPpzq/cMhKVK4SVdo1RDgLMdHMKzPtVHHQBo91YOyfnxLpD8zAn24FmVflJkVULzqS9oXK4qgnmtwS6nxx7NsMZYPbA90ptW+g9mhXo5dHhsRrBASmAPTl9mYV+ElUTMRTpbFRCajpU2aaDtfEhbcK4yTMGPf0z/26w9ogJx4CErkTAL5Avp3dGvH9VopaCtTznQai5GEaZsoLS2gaXBbydJb69RbSwcg9nBuWBwTYrt4vdyODTMRjmbU2uo627kr5Vo2TceIOPRfmFDFxUiWVcsD7JqxYItG0UEeb+o6k8yBBhSZNcQmCxwNMM6ZzBNUf7kpW//3o+Y4vcz1ydqCdTOSmeISnTA=;gkpm0IVtyrm5aKq5xpuXVw=="
 ---
 

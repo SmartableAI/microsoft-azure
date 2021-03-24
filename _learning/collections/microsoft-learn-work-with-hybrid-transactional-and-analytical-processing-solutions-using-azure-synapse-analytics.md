@@ -4,7 +4,7 @@ excerpt: "Work with Hybrid Transactional and Analytical Processing Solutions usi
 type: collection
 price: Free
 length: PT1H35M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

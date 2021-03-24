@@ -4,7 +4,7 @@ excerpt: "Azure Machine Learning is a cloud platform for training, deploying, ma
 type: collection
 price: Free
 length: PT9H13M
-heat: 68
+heat: 73
 
 provider:
   name: Microsoft Learn
