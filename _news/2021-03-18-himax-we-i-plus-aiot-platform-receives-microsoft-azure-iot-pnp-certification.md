@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
-excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
-publishedDateTime: 2021-03-16T12:27:00Z
-originalUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
-ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
-cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
+excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
+publishedDateTime: 2021-03-18T08:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
-quality: 53
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Windows Central
-  domain: windowscentral.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+  - IoT
 
 images:
-  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
-    width: 800
-    height: 600
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -623,19 +622,21 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
-    publishedDateTime: 2021-03-18T08:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+  - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
+    excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
+    publishedDateTime: 2021-03-16T12:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-azure-outage-delayed-premiere-zack-snyders-justice-league?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 53
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
@@ -1814,6 +1815,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "3Ou2/eOhRlLuVLh0cahxBojeWDGVB/GV05zxJYCpkJotMJrzJri6tAM52vqpwouBsDGJ9+X+0PLL7yz2fJRWhBGAH7l0XpfWdI3e3b6vp3QkQf9RBgQly6puhtzApf/vu1pepqr21Uig2qPKvM41ajOpm6NCZ3ooEBHEq2rGscTHzur4rmfAY1OBzu7hDjf4s4/21WyoMr39B/NyOp7TqCCHtHrepKqDda+bIgkD2LLUlF32UD1+WGzx5eUcBMvaYRx6SB2yaMyQcRPClRsHxrLiZIy2lT0wZeyxZASeH9MfarH7/PM8DNdU+O4OTaLoWxfmjXqq6KF/lAZMWCtDnIJj33vselHZSjxbcE1O/itXDaAPDaB6Rdf7BXGrrlgLcJH/QRJk+OmZ7TNbh6d2K/R6FzY/vTpXyZJ6Q8gCkiXe8bAECoUE2OE0XMoaEXld9gEEw520jWOOgcRzqUATCf5oczYzF59TN1LKnmU57YBO6wyf3pS9pa+X6ewB6h/a+4l+Pkdy0Ok3l35Cp+93sQ==;SkU2n8GHmLIR0P0CBubtBg=="
+secured: "HkBvrgzHnopud8qNxOExDBm5hHAN5TcvZ9064J99tEO+/6j8bsa3aX0ByTZsmT0MWfcKs52HUfRFH7OGZxKK4ABMI+EbHF6MiFj5slU9dJwDmzcdA2B8SAJ5slmiA7FVOXILcO+/QErFqAi2IxXL8NOBm16NwzOE20EryUmIzAltlIZug3R8uEwo2r5F8r39TNgPN0fjEwb3bRn/9BPJ7ANAITfuJ2o4FzzyG++bmcPdpbU1GpjhiO5Ef++yfkPBN4TqN4xF2GaBWUNTMu5ds5RGE5sElUCKXqk5Awo7W4e6iPwW1zb6f9frptVIIyfYpQH3H3g898riHjoth4EjTISC11Pz+4P01D0Qb6sQn2I=;CiZIObyBVuUW25+2cQFeQg=="
 ---
 
