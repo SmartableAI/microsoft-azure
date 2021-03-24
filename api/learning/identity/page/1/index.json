@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 40896,
-            "average": 4.784673
+            "count": 40941,
+            "average": 4.7845435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 3736,
-            "average": 4.7877407
+            "count": 3741,
+            "average": 4.7877574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 83,
+          "heat": 163,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/examine-core-identity-services-social.png",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4323,
-            "average": 4.73375
+            "count": 4330,
+            "average": 4.733487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -137,7 +137,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 176,
+          "heat": 96,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 3731,
-            "average": 4.7432323
+            "count": 3736,
+            "average": 4.7433085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -198,7 +198,7 @@
         }
       ],
       "size": 4,
-      "heat": 211,
+      "heat": 195,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -214,6 +214,49 @@
         "Azure",
         "Identity",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-access-azure-identity-services.md",
+      "title": "Secure access to your applications by using Azure identity services",
+      "excerpt": "Learn how Azure Active Directory, single sign-on (SSO), multifactor authentication, and Conditional Access can help you manage and secure identities on Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-access-azure-identity-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 3741,
+        "average": 4.7877574
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 163,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/examine-core-identity-services-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -247,8 +290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
           "length": "PT15M",
           "ratings": {
-            "count": 7337,
-            "average": 4.7741585
+            "count": 7344,
+            "average": 4.7741013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -290,8 +333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 4469,
-            "average": 4.766167
+            "count": 4472,
+            "average": 4.7663236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -333,8 +376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
           "length": "PT24M",
           "ratings": {
-            "count": 4103,
-            "average": 4.780648
+            "count": 4105,
+            "average": 4.780755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -376,8 +419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
           "length": "PT21M",
           "ratings": {
-            "count": 2918,
-            "average": 4.776902
+            "count": 2920,
+            "average": 4.777055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -438,8 +481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 7337,
-        "average": 4.7741585
+        "count": 7344,
+        "average": 4.7741013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -504,8 +547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4651,
-            "average": 4.7303805
+            "count": 4655,
+            "average": 4.7306123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -547,8 +590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 4893,
-            "average": 4.712651
+            "count": 4894,
+            "average": 4.7127094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2789,
-            "average": 4.732162
+            "count": 2791,
+            "average": 4.732354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -711,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4651,
-            "average": 4.7303805
+            "count": 4655,
+            "average": 4.7306123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -754,8 +797,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 4893,
-            "average": 4.712651
+            "count": 4894,
+            "average": 4.7127094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,8 +840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 2789,
-            "average": 4.732162
+            "count": 2791,
+            "average": 4.732354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -919,8 +962,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 5925,
-            "average": 4.764557
+            "count": 5937,
+            "average": 4.7648644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +1005,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 140701,
-            "average": 4.701715
+            "count": 140703,
+            "average": 4.7017193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -997,8 +1040,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 4893,
-            "average": 4.712651
+            "count": 4894,
+            "average": 4.7127094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1040,8 +1083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4651,
-            "average": 4.7303805
+            "count": 4655,
+            "average": 4.7306123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 3224,
-        "average": 4.828474
+        "count": 3229,
+        "average": 4.82812
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1146,8 +1189,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 4469,
-        "average": 4.766167
+        "count": 4472,
+        "average": 4.7663236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1170,49 +1213,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/simplify-access-and-identity-provisioning-with-microsoft-365-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-access-azure-identity-services.md",
-      "title": "Secure access to your applications by using Azure identity services",
-      "excerpt": "Learn how Azure Active Directory, single sign-on (SSO), multifactor authentication, and Conditional Access can help you manage and secure identities on Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-access-azure-identity-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
-      "length": "PT17M",
-      "ratings": {
-        "count": 3736,
-        "average": 4.7877407
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/examine-core-identity-services-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
@@ -1255,8 +1255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4323,
-            "average": 4.73375
+            "count": 4330,
+            "average": 4.733487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1273,7 +1273,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 176,
+          "heat": 96,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
@@ -1298,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17860,
-            "average": 4.6977043
+            "count": 17866,
+            "average": 4.697638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4893,
-            "average": 4.720621
+            "count": 4895,
+            "average": 4.7207355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1368,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3684,
-            "average": 4.723127
+            "count": 3685,
+            "average": 4.722931
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1450,8 +1450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4323,
-            "average": 4.73375
+            "count": 4330,
+            "average": 4.733487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,7 +1468,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 176,
+          "heat": 96,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
@@ -1493,8 +1493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17860,
-            "average": 4.6977043
+            "count": 17866,
+            "average": 4.697638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1528,8 +1528,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 4893,
-            "average": 4.720621
+            "count": 4895,
+            "average": 4.7207355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1563,8 +1563,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3684,
-            "average": 4.723127
+            "count": 3685,
+            "average": 4.722931
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1622,8 +1622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4103,
-        "average": 4.780648
+        "count": 4105,
+        "average": 4.780755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1665,8 +1665,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 4651,
-        "average": 4.7303805
+        "count": 4655,
+        "average": 4.7306123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1744,8 +1744,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 4893,
-        "average": 4.712651
+        "count": 4894,
+        "average": 4.7127094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1787,8 +1787,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2191,
-        "average": 4.7225013
+        "count": 2192,
+        "average": 4.7226276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1854,8 +1854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
           "length": "PT53M",
           "ratings": {
-            "count": 418,
-            "average": 4.7727275
+            "count": 419,
+            "average": 4.7732697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1897,8 +1897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
           "length": "PT32M",
           "ratings": {
-            "count": 268,
-            "average": 4.794776
+            "count": 270,
+            "average": 4.796296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1940,8 +1940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 202,
-            "average": 4.7376237
+            "count": 203,
+            "average": 4.7389164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1983,8 +1983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
           "length": "PT59M",
           "ratings": {
-            "count": 273,
-            "average": 4.794872
+            "count": 274,
+            "average": 4.7919707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2068,8 +2068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
           "length": "PT53M",
           "ratings": {
-            "count": 418,
-            "average": 4.7727275
+            "count": 419,
+            "average": 4.7732697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2111,8 +2111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
           "length": "PT32M",
           "ratings": {
-            "count": 268,
-            "average": 4.794776
+            "count": 270,
+            "average": 4.796296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2154,8 +2154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
           "length": "PT60M",
           "ratings": {
-            "count": 202,
-            "average": 4.7376237
+            "count": 203,
+            "average": 4.7389164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2197,8 +2197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
           "length": "PT59M",
           "ratings": {
-            "count": 273,
-            "average": 4.794872
+            "count": 274,
+            "average": 4.7919707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2259,8 +2259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-secure-administrators/",
       "length": "PT21M",
       "ratings": {
-        "count": 2918,
-        "average": 4.776902
+        "count": 2920,
+        "average": 4.777055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2302,8 +2302,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2789,
-        "average": 4.732162
+        "count": 2791,
+        "average": 4.732354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2388,8 +2388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 684,
-        "average": 4.7836256
+        "count": 685,
+        "average": 4.7839417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2454,8 +2454,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2191,
-            "average": 4.7225013
+            "count": 2192,
+            "average": 4.7226276
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2584,8 +2584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 196,
-            "average": 4.852041
+            "count": 197,
+            "average": 4.852792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2669,8 +2669,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2191,
-            "average": 4.7225013
+            "count": 2192,
+            "average": 4.7226276
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2799,8 +2799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 196,
-            "average": 4.852041
+            "count": 197,
+            "average": 4.852792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2861,8 +2861,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 1520,
-        "average": 4.732895
+        "count": 1522,
+        "average": 4.732589
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2904,8 +2904,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1932,
-        "average": 4.8328156
+        "count": 1935,
+        "average": 4.833075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2947,8 +2947,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
       "length": "PT53M",
       "ratings": {
-        "count": 418,
-        "average": 4.7727275
+        "count": 419,
+        "average": 4.7732697
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3197,8 +3197,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-cultural-shift/",
       "length": "PT31M",
       "ratings": {
-        "count": 2758,
-        "average": 4.7828135
+        "count": 2761,
+        "average": 4.7826877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3240,8 +3240,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
       "length": "PT50M",
       "ratings": {
-        "count": 2145,
-        "average": 4.6466203
+        "count": 2147,
+        "average": 4.6469493
       },
       "provider": {
         "name": "Microsoft Learn",
