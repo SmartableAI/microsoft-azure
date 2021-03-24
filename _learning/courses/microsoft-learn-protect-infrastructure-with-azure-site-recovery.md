@@ -24,6 +24,7 @@ levels:
 topics:
   - Azure
   - Migration
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png
