@@ -1261,6 +1261,20 @@ related:
         width: 450
         height: 450
         isCached: true
+  - title: "Banking Circle ports Infrastructure to Microsoft Azure"
+    excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
+    publishedDateTime: 2021-03-25T10:56:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

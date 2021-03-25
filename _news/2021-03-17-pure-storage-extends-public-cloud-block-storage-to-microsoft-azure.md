@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2774
+heat: 2794
 published: true
 
 provider:
@@ -1256,6 +1256,20 @@ related:
       - url: "https://campusdata.uark.edu/resources/images/articles/PMUA_Logo-web.jpg"
         width: 450
         height: 450
+        isCached: true
+  - title: "Banking Circle ports Infrastructure to Microsoft Azure"
+    excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
+    publishedDateTime: 2021-03-25T10:56:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"

@@ -1,22 +1,27 @@
 ---
 category: news
-title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
-excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
-publishedDateTime: 2021-03-10T12:37:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+title: "Banking Circle ports Infrastructure to Microsoft Azure"
+excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
+publishedDateTime: 2021-03-25T10:56:00Z
+originalUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
+webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Finextra
+  domain: finextra.com
 
 topics:
   - Azure
-  - Integration
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1261,20 +1266,6 @@ related:
         width: 450
         height: 450
         isCached: true
-  - title: "Banking Circle ports Infrastructure to Microsoft Azure"
-    excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
-    publishedDateTime: 2021-03-25T10:56:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86797/banking-circle-ports-infrastructure-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1389,6 +1380,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "TEL AVIV, Israel, March 10, 2021 /PRNewswire/ -- RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure. The ..."
+    publishedDateTime: 2021-03-10T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310ln05005/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 33
   - title: "CloudLinux Announces Live Updates for Devices on Microsoft Azure IoT Hub"
     excerpt: "CloudLinux announces that its automated, live kernel patching service KernelCare can be deployed with Microsoft making it possible to update entire ne"
     publishedDateTime: 2021-03-10T22:00:00Z
@@ -1828,6 +1828,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "B33etrWerAm4yIT9lUbmWFtm5Du3zXi7bPhA+0paLl9JYwykMHk7VFmJ0P8BBdHuFnYuB9VzptNlPEUVDWkV8FBRoiQWEygQHnXS54S1Hs8g1T6G/ps4prE81Eg5L/HsPrgfKRuAvEGZshXTCITvQdhSnsWDS/PKlRCB1ETEG5L9wa/38AcxtC+TMb8c7gcGnPJirYhPdIJ9HQrotAMGytDotA12uz9jcns2a/MZhLvgYXR0ubiAlMEbxQ8rxnxTN797oDqEaYZot5Jz/aiA3lauuefrEPVehFp9KkfrkCKuTHDNW47T8eDMSyHzTSl4bVTsM3kD2Alt45xUfwjKLIHqK5pMdvAyX1FED+9nwSU=;IJ9kaztYyaHG1oMH2QZP0Q=="
+secured: "3u20HA0xQtqY11SyksKgo65wERwgEcjmDBe/DmZlcWtaZSxzJk9N1mpuTM7EYdl4qIf+IXrwD8wIZ+wO1rCIG+b+pUG1q8CLUcuQ/SUVtejE4BwxXsXZI1udRgIQk8kwiRCVI5olnD1c58UZoEhqwLs5+9RadOJSmAOSQ1hLdILYW+uZ+0AQSCgn7v0AGPvGUf2wtGabiyxOMYy9w7h2MrPhy1O6nq0zHSyzom5FZSqCWeUIEYXN9Yrm51VUw/LgTkFsrdiv9S87ItvK1yWcJdgusxCP5aUDiRHFexBmmUkpyW6VHlq+SmUuGtKLSnawdyMGoqGDYl16pq0qXQGM7FiMYzkYU0SZzj36kTwpJxU=;w0LWyx3oVE5O6mAEB5vCHg=="
 ---
 
