@@ -4,6 +4,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
+      "title": "Design a holistic monitoring strategy on Azure",
+      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 2116,
+        "average": 4.620983
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-data-ingestion-azure.md",
       "title": "Explore data ingestion in Azure",
       "excerpt": "Explore data ingestion in Azure",
@@ -11,8 +56,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-ingestion-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 1007,
-        "average": 4.767627
+        "count": 1008,
+        "average": 4.767857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -90,8 +135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-external-identities/",
       "length": "PT60M",
       "ratings": {
-        "count": 207,
-        "average": 4.729469
+        "count": 208,
+        "average": 4.730769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -218,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 11981,
-        "average": 4.7634587
+        "count": 11982,
+        "average": 4.7634788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,8 +298,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3695,
-        "average": 4.7231393
+        "count": 3696,
+        "average": 4.723214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -331,8 +376,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 896,
-        "average": 4.6595984
+        "count": 897,
+        "average": 4.659978
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -359,45 +404,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday.md",
-      "title": "How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday",
-      "excerpt": "Jay Gordon (@jaydestro) joins Donovan Brown (@donovanbrown) to show how to build a containerized React application and deploy it to production with Azure Kubernetes Service. He'll also show how to configure an Azure Active Directory service principal to enable Role-Based Authentication, which enables",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-build-and-deploy-a-containerized-app-to-azure-kubernetes-service-aks-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=E9YWmbUb9Ps",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E9YWmbUb9Ps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-10T10:36:15-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E9YWmbUb9Ps/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-text-with-text-analytics-service.md",
       "title": "Analyze text with the Text Analytics service",
       "excerpt": "The Text Analytics service is a cloud-based service that provides advanced natural language processing over raw text for sentiment analysis, key phrase extraction, named entity recognition, and language detection.",
@@ -405,8 +411,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 799,
-        "average": 4.7947435
+        "count": 800,
+        "average": 4.795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -441,8 +447,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3448,
-        "average": 4.573956
+        "count": 3449,
+        "average": 4.5740795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +485,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14921,
-        "average": 4.7188525
+        "count": 14924,
+        "average": 4.718842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -522,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2932,
-        "average": 4.713847
+        "count": 2934,
+        "average": 4.714042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,8 +570,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9398,
-        "average": 4.6986594
+        "count": 9400,
+        "average": 4.698617
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,8 +650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4368,
-        "average": 4.7190933
+        "count": 4369,
+        "average": 4.7191577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -681,8 +687,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-non-relational-data-stores-azure/",
       "length": "PT54M",
       "ratings": {
-        "count": 814,
-        "average": 4.7199016
+        "count": 815,
+        "average": 4.7190185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -765,8 +771,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
       "length": "PT51M",
       "ratings": {
-        "count": 6727,
-        "average": 4.7078934
+        "count": 6728,
+        "average": 4.707937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 4904,
-        "average": 4.72084
+        "count": 4906,
+        "average": 4.720954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +886,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
       "length": "PT40M",
       "ratings": {
-        "count": 1191,
-        "average": 4.7917714
+        "count": 1192,
+        "average": 4.791107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -922,8 +928,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
       "length": "PT29M",
       "ratings": {
-        "count": 738,
-        "average": 4.796748
+        "count": 739,
+        "average": 4.797023
       },
       "provider": {
         "name": "Microsoft Learn",
