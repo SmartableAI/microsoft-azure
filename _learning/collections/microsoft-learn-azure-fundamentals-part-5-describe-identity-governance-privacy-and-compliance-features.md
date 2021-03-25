@@ -4,7 +4,7 @@ excerpt: "Learn how Azure can help you secure access to cloud resources, what it
 type: collection
 price: Free
 length: PT2H8M
-heat: 116
+heat: 115
 
 provider:
   name: Microsoft Learn
