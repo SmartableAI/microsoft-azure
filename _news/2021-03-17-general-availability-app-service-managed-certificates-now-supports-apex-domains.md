@@ -191,6 +191,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
+    publishedDateTime: 2021-03-25T17:42:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z

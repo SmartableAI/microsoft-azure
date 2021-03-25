@@ -183,6 +183,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
+    publishedDateTime: 2021-03-25T17:42:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

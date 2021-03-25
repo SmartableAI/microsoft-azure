@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 564
+heat: 584
 published: true
 
 provider:
@@ -178,6 +178,15 @@ related:
     excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
     publishedDateTime: 2021-03-17T16:00:25Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: New VM series supported by Azure Batch"
+    excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
+    publishedDateTime: 2021-03-25T17:42:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
     type: article
     provider:
       name: Microsoft

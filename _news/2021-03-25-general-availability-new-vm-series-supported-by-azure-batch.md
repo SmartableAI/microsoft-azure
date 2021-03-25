@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Cognitive Services Translator releases nine new languages"
-excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
-publishedDateTime: 2021-02-22T15:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
+title: "General availability: New VM series supported by Azure Batch"
+excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
+publishedDateTime: 2021-03-25T17:42:39Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
 type: article
-quality: 92
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -73,6 +72,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 97
+  - title: "General availability: Azure Cognitive Services Translator releases nine new languages"
+    excerpt: "Azure Cognitive Services Translator is releasing nine new languages for text translation: Albanian, Amharic, Armenian, Azeri, Khmer, Lao, Myanmar, Nepali, and Tigrinya."
+    publishedDateTime: 2021-02-22T15:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-cognitive-services-translator-releases-nine-new-languages/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
     excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
     publishedDateTime: 2021-02-03T17:00:01Z
@@ -182,15 +190,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: New VM series supported by Azure Batch"
-    excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
-    publishedDateTime: 2021-03-25T17:42:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z
@@ -255,6 +254,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "qwES9/pfNEUmPrfZxLXbxCWx3IvbMnoExWSYIfOFTekEJfT5g/i2QGxf1DwcLsOBZXjuy9XZVkXtiCWn16bDbtoBQ8tj0RyEoT3DHaRBPb6mWcQUo3topog0ZYT60kP7dltx2PH1DoI70tkB3TjokFIkcZLN9Sk9h1BL2/o5cKUowv9FtPgk2tq1yrOTWJXuNkx83JbXeY6IRw12W/BUfqXYyWpRIGBqGYHvlGVq14/BrvbkXvQ9JqioeAFvEsRC37IePCRfNLYIfd4Flcezqs41RWMeCNW6JNp4O87Y7KWYXAFPgrM6S0lDGlmGmTXDk/BjqPLNbAM2OZDYXXhVffqDPMnsMknitjgZZgB6ias=;dIygtc5ZP8GDQxRK30Fwxw=="
+secured: "lnGCInBEnD+cmJ949NBqvUpyYr4sKsR+gIw2POvDbC96ACqI73jYNBJvyMmI3Qb3vrQqZWo2cn1wRCpYZAqnpZ83dU93FSTIddI1ZhgFtDzXCmrLCXjgwfZ+YovqR0dUS8E1Yrv5T7d5YrhQqwz+2v5jYQ4+Dtp5JG8wFNXQ0EFeTze91I20mcmeIoGCIPupTl0/lBSzczsYnJiYcQQO7hsva0yfkjZBuC1P2GM+U3oZUy4byD3hQdld1QALtwtjv0VW2P7dpogdGjvihmfUef2ngQaY27nMuy+IDoiNe+QlnStbFl/stCCt67nSWNc11dnPR031pKWx5ktm82Gnm0TnnnZ4VINX3F9wCk45Wk8=;wk3K9cwCQeo5Zo2/TJmS0g=="
 ---
 
