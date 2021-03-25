@@ -93,22 +93,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
-    excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
-    publishedDateTime: 2020-07-31T21:03:00Z
-    webUrl: "https://www.zdnet.com/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/31/06cb64b9-7582-4e6c-a3c7-29179249a735/2020-07-31-at-5-02-01-pm.jpg"
-        width: 1756
-        height: 898
-        isCached: true
   - title: "Sick of installing printer drivers? Microsoft's Azure Universal Print takes another step forward"
     excerpt: "Microsoft has kicked off the public preview of its Microsoft 365 Universal Print service to simplify printer management in the enterprise.  The Universal Print public preview will be rolling out to Microsoft's Azure data centers in North American Europe and Asia Pacific \"in waves over the next weeks\","
     publishedDateTime: 2020-07-22T11:46:00Z

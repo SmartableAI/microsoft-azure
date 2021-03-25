@@ -117,20 +117,6 @@ related:
         width: 790
         height: 527
         isCached: true
-  - title: "Understanding Microsoft Azure: A business guide"
-    excerpt: "Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to ..."
-    publishedDateTime: 2020-08-25T21:20:00Z
-    webUrl: "https://www.zdnet.com/video/understanding-microsoft-azure-a-business-guide/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 77
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Release of new Azure CDN (Microsoft Standard) capability "
     excerpt: "The Azure CDN service, a distributed network of servers that can efficiently deliver web content to users, now supports multiple origins."
     publishedDateTime: 2020-08-21T17:17:14Z

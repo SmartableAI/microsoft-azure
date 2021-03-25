@@ -93,22 +93,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
-    excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
-    publishedDateTime: 2020-07-31T21:03:00Z
-    webUrl: "https://www.zdnet.com/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/31/06cb64b9-7582-4e6c-a3c7-29179249a735/2020-07-31-at-5-02-01-pm.jpg"
-        width: 1756
-        height: 898
-        isCached: true
   - title: "Microsoft is testing the use of hydrogen fuel cells in lieu of diesel for its Azure datacenter servers"
     excerpt: "Microsoft is aiming to eliminate its dependency on diesel fuel, primarily used in its Azure datacenters, by 2030."
     publishedDateTime: 2020-07-27T17:33:00Z
