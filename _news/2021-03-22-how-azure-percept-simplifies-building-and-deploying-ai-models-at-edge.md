@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-perce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1000
     height: 561
     isCached: true
+
+related:
+  - title: "Azure Percept Is Microsoft’s Long-Awaited Answer to Advancing Robotics and Edge AI"
+    excerpt: "Microsoft announced Azure Percept, an end-to-end edge Artificial Intelligence (AI) platform that includes hardware accelerators integrated with Azure AI and Internet of Things (IoT) services. Azure Percept is able to run deep learning-based machine vision workloads at the edge without connection to the cloud."
+    publishedDateTime: 2021-03-25T21:27:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 28
 
 secured: "NGQt9kHqkiiE1VoJXZOqMmmwBCwnT80ukBB5WUhbciCKj74O2YG362NZaFrKZmcW4h1p41NDhsJdZ7ey/ZFwzEdi2wQ7EmpWNQRnP0xWj5LO/XJg7Iqay3zHuW6uxE/pFVewsQB3ThEjk2P1U88woQUofxU6VqRiFoPITx6omYUVBhLRMi6iTnjzxLgp1E5/20AbNDJSWLt8OD2pkQPEA61Aq7nNRBcktZdYBQdwZsHXyft13IS0aHzIhKKbTWbb6gx7RhVvwBZPhpJtj4z2P2lpwC5HlHUb5AfGSzTj/+u2jCwTV3bfbc20j9n1d055JDXNxfU8YERYidc9f3wGMXQqJRd6D2vsboRxBIneBo8lRRNIZPW2Y7uyGSg8e41wjOOz4C6HZxdsPNK/o/35cc4vvGA6+09fi8fwAyjDP9x1vLk0FKcQNhkPe4gDHqq0Ij9krJKT03K/Do+WorWgdyogp4QFaxPhhlJ2k8Vuc7dUjw6zyePT7vXdJLCKTJupfd+CtdZQsSLc9mtXtLLRqg==;qcvZKjRoiIm0GZiW70XG/Q=="
 ---
