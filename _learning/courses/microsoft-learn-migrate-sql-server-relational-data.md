@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H24M
 ratings:
-  count: 1351
-  average: 4.4537377
+  count: 1353
+  average: 4.4545455
 heat: 50
 
 provider:
@@ -24,6 +24,8 @@ levels:
 topics:
   - Azure
   - Databases
+  - Migration
+  - Management Tools
 
 secured: "/SQVKpvxVvkwEwQgT4Y0OydjVuSlkdUO47aLhQy7zdAnebAL4XFp6sUMP/XUFTEJMKMRwjWdxdP7IrO7TJNq6cfSHRGOkmEs7df+zLSpg6lJmXNNFfGsYaMuzsqFLC9ID5puHsOyqCHzEaYcqC3k+FXozvQNVIX3end14SbAISaVdqlb7ErtduCaetgJj+9PAx/01aO6QcD/M95kzJz9PEO455SpS8w78wsgBDE+xc67DF2KEiIzn8+PuOasNS3veZIobHIGbWjGCcLeifWUc9fNwslx4ntXsLO7wOdwrc++bNggmfDkOR0TNaR/L3J+HHybaV1SAlO2dqNUOr/zCh0wcWy27R8FkkpBrfVYncOwIqaYC5CJADHk+tEvobnR7UBec993XU9rL4VFbtFsJI33t7gi7DoltBobPHjHFpA=;tKFTYueGnXutZ1+RF2zATg=="
 ---

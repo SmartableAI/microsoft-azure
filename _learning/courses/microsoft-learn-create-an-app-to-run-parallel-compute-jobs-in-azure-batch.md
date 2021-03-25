@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Azure
+  - Compute
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-an-app-to-run-parallel-compute-jobs-in-azure-batch-social.png

@@ -25,6 +25,8 @@ topics:
   - Azure
   - Compute
   - Web
+  - Migration
+  - Management Tools
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/migrate-app-service-migration-assistant-social.png
