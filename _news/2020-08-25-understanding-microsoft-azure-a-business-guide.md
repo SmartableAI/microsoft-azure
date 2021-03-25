@@ -59,6 +59,20 @@ related:
         width: 1756
         height: 898
         isCached: true
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Zz+QjimOs5B/afTOvg0xKkBsJw3EBTmO62scEh7UjSDInlulmnwBk/mvVVYHzJt7SU53PSi4vzL+Au0cOK2HLbNjk1FdsICUohSuubxwcPLVTEciKssgH5eqIzYTkd4JiLr10uf5k8nFcubIwIDiqn/ACrF34u/w3iDfhca9T1SW5Emw0m6tmfdqZsTHHgz2y2beyVBFxfREFil0620OKG9SBDRKp8ThONeCmndVFhXgAHEOR0h2ZdcBQD9gYTP1vf0gZY39yKaJaZAHDr6fipMSCLQBppifFqz5cDrSVd83w9igZ43HzYkXTaQt9lxYXuiEQUBUVrvksomYLlSgG/qeZwqLTqOjR1sGCQZOt5WKdRwLhjoPDEwEdDKAFzi+T49GBxMEa9d/f/4zXhdT36Xw+k/zxMp5mqvtkbkZoUqOJ8jg2bFwH4ieye9RaNd3JDmeRi/+KdcXpq9JyBqT4SRekObrKB9bfLwKC7aw8b5vR9YGd5KBStZup4YWlg3nC0wK7nJT4L87lJqfpTvM9g==;fukevJw5fRZj94+d7TFUvQ=="
 ---

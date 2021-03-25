@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
-excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
-publishedDateTime: 2021-03-02T17:00:11Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-key-rotation-of-customermanaged-keys-for-encrypting-azure-managed-disks/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-key-rotation-of-customermanaged-keys-for-encrypting-azure-managed-disks/"
+title: "Public preview: Announcing the new Power BI embedded analytics playground "
+excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
+publishedDateTime: 2021-03-25T15:00:32Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
+webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
 type: article
-quality: 53
+quality: 87
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - Azure
+  - Analytics
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
+    width: 1920
+    height: 1078
+    isCached: true
 
 related:
   - title: "Public preview: Azure Purview powered search in Azure Synapse Analytics workspaces"
@@ -40,20 +47,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
-  - title: "Public preview: Announcing the new Power BI embedded analytics playground "
-    excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
-    publishedDateTime: 2021-03-25T15:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
-        width: 1920
-        height: 1078
-        isCached: true
   - title: "Public preview: Azure Log Analytics in Australia Central 2 "
     excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
     publishedDateTime: 2021-02-03T17:00:03Z
@@ -72,7 +65,16 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
+    excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
+    publishedDateTime: 2021-03-02T17:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-key-rotation-of-customermanaged-keys-for-encrypting-azure-managed-disks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
 
-secured: "Xs0qa+Jn1q3r/RV8Gl5UsePN9GLxCux/dUd26l8K51qVrMMdUYab6ZNMBD+BvBCeHPTYji8+V7+NMRtEDxBMlUS+NTf7BG917DqkbMf6Z7nH6iGVSBPYTT5duELXGPT7FYKI8B0R1rjP5oIu/3EAaNk128jCsKSlUHG64cO2xod6pJO7jvdIhW8v45vL55uMdFpT3Cv9DTmlShwszEMZt647pk0FI9SApuFXXtB7bry5m82ZDxfVR2uR+OXsaJwz4E8nknC/9mn8VhCNVPMbFeUXyQQBMR8MJ677T05T8xDU4eMO3+ABEpImZ1xTEQqXAB3S8koUgcJX90bM8r3rYBSbGVZKgmBBW18aWdBs+Io=;j0GFQqRO4PAeAUomvbhUYw=="
+secured: "ZBSnSbCdDwvfZPnlT+VyLYlhVnO0+rj4wh3iIXe6a0HcqR23qcGseKGsmiBqXMk4C0X5QYWGCtifbDMc7jZhku2rqhzl79x1vaivoyo9RwcDQdd6fJWTim42CLkHDEsIbK/sE0OhwHnFERePt83JzWsuL/CGnaLgMoaLAreSg8FmCwcHBBV39gd/He5sG8WGKa7neYJTj1XM2KN0dtU6HkKeDGaFkrTM+eExu0TYNoVdfozo+LeRF/+t1gJGLD6ms7mPQ8vqDxlL0A6TUGvQDhBwpMMfgBH3jshUol0uWIm3lg3IOaGW8FEZPsZ08f2qcnkKxylKxvfikfy8LwQzwh1HYQqrnFceS7gXIfr06QU=;Wx02hm3ClvXZwIUUGc7z/Q=="
 ---
 

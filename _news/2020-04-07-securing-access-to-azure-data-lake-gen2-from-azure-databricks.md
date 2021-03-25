@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-07T11:46:00Z
 webUrl: "https://medium.com/microsoftazure/securing-access-to-azure-data-lake-gen2-from-azure-databricks-8580ddcbdc6"
 type: article
 quality: 77
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -32,6 +32,15 @@ related:
     excerpt: "To make it easier for customers to modernize their on-premises Spark and big data workloads to the cloud, we’re announcing a new migration offer with Azure Databricks."
     publishedDateTime: 2020-07-15T08:00:28Z
     webUrl: "https://azure.microsoft.com/blog/now-save-up-to-52-percent-when-migrating-to-azure-databricks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "5 reasons Databricks runs best on Azure"
+    excerpt: "For any organization running big data workloads in the cloud, exceptional scale, performance, and optimization are essential. Databricks customers have multiple choices for their cloud destination. Azure Databricks is the only first-party service offering for Databricks, which provides customers with"
+    publishedDateTime: 2021-03-25T07:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/5-reasons-databricks-runs-best-on-azure/"
     type: article
     provider:
       name: Microsoft

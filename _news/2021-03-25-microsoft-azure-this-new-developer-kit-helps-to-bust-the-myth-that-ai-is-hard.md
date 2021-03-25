@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
 type: article
 quality: 110
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6D4ZvBj/Wi2kJX4OJi2vGoEfEdLhiWED9B0ClD4P+CWaCL9VRVBUm3LmhKjc6FDpXvcLn2xxTPuYiwKfW2i8sirHMde/PD3R8uy9dEL5UWpBXv+zA57bwqzXmCmDJvarHAsu+GHfwyeXEbFnBUyv8hJVdev6OQPYNEPxuBb9PCF3LESXDpKIko8HgU9EGG/pL6u3mUFY9bYos5VQbs8C0To1XLuUxW5Z51HEhOMq4aVzTtomUdq5cRzC1JeOhmhx3Y8RmWv8gsjP4GAD/fnPLfKVXNZle0OpDD7oDXw8B/7GKu7Ix8cLoPIyHbujdBnnPsFjIym016uUQ/cTV9ZZYH808fHSyxHQhXGb5VONOCQ=;2RiAW6VkiS42fYhFum6oDw=="

@@ -41,6 +41,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Public preview: Announcing the new Power BI embedded analytics playground "
+    excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
+    publishedDateTime: 2021-03-25T15:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "Public preview: Calico Windows support in AKS"
     excerpt: "Use Calico network policy with Windows Server on AKS."
     publishedDateTime: 2021-03-02T17:00:08Z

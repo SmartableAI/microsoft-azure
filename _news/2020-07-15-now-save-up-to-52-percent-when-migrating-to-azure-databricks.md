@@ -37,6 +37,15 @@ related:
         width: 1056
         height: 745
         isCached: true
+  - title: "5 reasons Databricks runs best on Azure"
+    excerpt: "For any organization running big data workloads in the cloud, exceptional scale, performance, and optimization are essential. Databricks customers have multiple choices for their cloud destination. Azure Databricks is the only first-party service offering for Databricks, which provides customers with"
+    publishedDateTime: 2021-03-25T07:00:31Z
+    webUrl: "https://azure.microsoft.com/blog/5-reasons-databricks-runs-best-on-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "3fKWX+afk/mjzeNPz7pLxrzYzhGKmQsOE29BnazIih3+3mDQFhccPS4qz27994UAY48uvU4rFpNvhldY2FMgWGFQ5y2SECUXuzCZR+fsba9ku9KGelIG4SPjh+P/zEy5iSdkuaWmM/8JSucwkc5I//0WoGZrODFb6P3Jyf6AlNd/CMx4G8URxNnEsvpxsM3WGNHxFwUBVZn5FaFKQSw5y6GCJdmvzaWSPza1tBWsxEnAkgQWQtLi0ruIUCVcSn+tV5+D+HIUfcUcouqkSQdW+B3vpE4wDoHtZpmSjG84FK5Wg1/uHlaFPOND791rkS8LI4cal8aLyoorDtXae5FdPSmlT2J13+csy+zLJgS4DKo=;KzEyG9POShtjhtd5pUVbjA=="
 ---

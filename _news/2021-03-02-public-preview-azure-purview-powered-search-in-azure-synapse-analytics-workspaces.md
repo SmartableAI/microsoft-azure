@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-pur
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-powered-search-in-azure-synapse-analytics-workspaces/"
 type: article
 quality: 93
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Public preview: Announcing the new Power BI embedded analytics playground "
+    excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
+    publishedDateTime: 2021-03-25T15:00:32Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
+        width: 1920
+        height: 1078
+        isCached: true
   - title: "Public preview: Azure Log Analytics in Australia Central 2 "
     excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
     publishedDateTime: 2021-02-03T17:00:03Z
