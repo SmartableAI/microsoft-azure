@@ -37,6 +37,15 @@ related:
         width: 467
         height: 374
         isCached: true
+  - title: "General availability: IoT Hub Azure portal extension update"
+    excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
+    publishedDateTime: 2021-03-25T16:28:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "General availability: Stop/start functionality for Azure Database for MySQL"
     excerpt: "With stop/start functionality support for Azure Database for MySQL, you can stop a database server when not in use (non-work hours) and start it when it’s back online."
     publishedDateTime: 2021-02-03T17:00:02Z

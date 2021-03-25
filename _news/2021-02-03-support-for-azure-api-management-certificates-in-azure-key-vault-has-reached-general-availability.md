@@ -38,6 +38,15 @@ related:
         width: 467
         height: 374
         isCached: true
+  - title: "General availability: IoT Hub Azure portal extension update"
+    excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
+    publishedDateTime: 2021-03-25T16:28:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
   - title: "General availability: Azure Machine Learning Output Datasets "
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z

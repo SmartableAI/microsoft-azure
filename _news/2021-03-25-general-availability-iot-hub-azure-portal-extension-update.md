@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Application Insight in Australia Central 2"
-excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
-publishedDateTime: 2021-03-12T16:45:33Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
+title: "General availability: IoT Hub Azure portal extension update"
+excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
+publishedDateTime: 2021-03-25T16:28:53Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
+webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
 type: article
-quality: 52
+quality: 101
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - Azure
+  - IoT
+  - Management tools
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -36,15 +38,6 @@ related:
         width: 467
         height: 374
         isCached: true
-  - title: "General availability: IoT Hub Azure portal extension update"
-    excerpt: "If you're using IP filter, add your computer's IP address to the allow list to keep using IoT Hub in Azure portal."
-    publishedDateTime: 2021-03-25T16:28:53Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-hub-portal-extension-update/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 101
   - title: "General availability: Azure Machine Learning Output Datasets "
     excerpt: "Read data in the cloud efficiently with Output datasets."
     publishedDateTime: 2021-01-28T23:46:39Z
@@ -235,6 +228,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in Australia Central 2"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in Australia Central 2 region for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-03-12T16:45:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-australia-central-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
     excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
     publishedDateTime: 2021-02-03T17:00:04Z
@@ -245,6 +247,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "QrAoFWTqBy2tg6l1nRnV+kTi1qtrckD62sGDftisUkMgn3AATntKBofWb88Uu3qdq8/xuHZ/LEGJIJsZNnT7Dv91EperhGLGImMX3BsiN5DvRYIWGpwB+VC2TKAy6auO1HTaUVOSVamDyBWMiP5Rpj2UEJl7Ch7tBuzOG1ilgYDrDlD25WoKNTDwAzPiqOMETBT9HUnrJJ3FBBK1jqbxTXie7r8RB1TdPyfBTI+hLMrFSOyrfPhF0Tj13CfGPwg8XxzM9MmoAsp9vb+uuo+ttTU6PfCSuZkSDX6HvcUkPL7QfJxUmvuq81ZmTSUdrIUUIxTULDSJvvHIKpaVlSgVsn8tbhcWZQH14fidXD4LmFg=;gzUafRZOoKV7svL8SaNkaQ=="
+secured: "u89b4yy+HajK7dRRS3bt26N3cKyFhAdZ7A84s1rI+OuUXmP1MMc8K6hAyTgnz9RdLYrx0uPo69BmbTlDb+i8k2dMHYMBcp6VYGU4+OCLDY9YUKPCKlzU4iUc16hYZSNb8jG3ReULtomwXvQNzxOH3VgxHAPLNfN1SCCGoNOyYJJWXJfBcidQTZW6UlcKMsX6DlGsbhd1FNtKyPEknCqrfKCyMPg/Hr7ujeQtUU02367bzhBiH1pyYAvmM9Qw33MsjKGOVKE9+cAORFEXycqlMOQfiLDQLJnb1k17pL1rtSwz+mjh3eWDl0cJOMf0eRa1SwPbOWXogVLZ1UR052rX2eNc991dyVhKRnfWsvJHPR4=;7oANYKrz8myyZxmC6Gzlww=="
 ---
 
