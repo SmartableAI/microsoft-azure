@@ -4,49 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
-      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
-      "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quality-tests-build-pipeline/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
-      "length": "PT1H22M",
-      "ratings": {
-        "count": 3273,
-        "average": 4.7338834
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-spark-architecture-fundamentals.md",
       "title": "Spark architecture fundamentals",
       "excerpt": "Spark architecture fundamentals",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 596,
-        "average": 4.6610737
+        "count": 597,
+        "average": 4.6616416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -626,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
           "length": "PT25M",
           "ratings": {
-            "count": 1456,
-            "average": 4.651786
+            "count": 1457,
+            "average": 4.6520247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -756,8 +713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-ai-technology/",
           "length": "PT37M",
           "ratings": {
-            "count": 1833,
-            "average": 4.6988544
+            "count": 1834,
+            "average": 4.697928
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
           "length": "PT54M",
           "ratings": {
-            "count": 965,
-            "average": 4.716062
+            "count": 966,
+            "average": 4.715321
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1157,8 +1114,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/",
       "length": "PT19M",
       "ratings": {
-        "count": 7497,
-        "average": 4.712685
+        "count": 7498,
+        "average": 4.7127233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1363,8 +1320,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 786,
-        "average": 4.7379136
+        "count": 787,
+        "average": 4.7382464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1413,8 +1370,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 828,
-        "average": 4.72343
+        "count": 829,
+        "average": 4.7237635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1462,8 +1419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-an-agile-approach/",
       "length": "PT40M",
       "ratings": {
-        "count": 5789,
-        "average": 4.745379
+        "count": 5790,
+        "average": 4.7454233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1536,6 +1493,41 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+      "title": "Communicate between applications with Azure Queue storage",
+      "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 2099,
+        "average": 4.5912337
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
       ]
     }
   ],

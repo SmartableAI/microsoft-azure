@@ -4,49 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 138,
-        "average": 4.8188405
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
       "title": "Plan, implement, and manage access review",
       "excerpt": "Plan, implement, and manage access review",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
       "length": "PT44M",
       "ratings": {
-        "count": 90,
-        "average": 4.7444444
+        "count": 92,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-access-management-capabilities-of-microsoft-365/",
       "length": "PT29M",
       "ratings": {
-        "count": 925,
-        "average": 4.757838
+        "count": 926,
+        "average": 4.7580996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -175,8 +132,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
       "length": "PT49M",
       "ratings": {
-        "count": 91,
-        "average": 4.7912087
+        "count": 93,
+        "average": 4.795699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,6 +392,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-the-identity-protection-and-governance-capabilities-of-azure-ad-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad.md",
+      "title": "Explore the access management capabilities of Azure AD",
+      "excerpt": "Explore the access management capabilities of Azure AD",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-access-management-capabilities-of-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 57,
+        "average": 4.8070173
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-the-access-management-capabilities-of-azure-ad-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
