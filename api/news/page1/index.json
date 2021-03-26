@@ -106,6 +106,48 @@
       ]
     },
     {
+      "path": "_news/2021-03-25-azcopy-v1090-now-in-public-preview-import-from-gcp-to-azure-block-blobs.md",
+      "title": "AzCopy v10.9.0 now in public preview: import from GCP to Azure Block Blobs",
+      "excerpt": "AzCopy v10.9.0 now in preview supports Google Cloud Platform (GCP) to Microsoft Azure Storage Block Blob imports. This version also includes scanning logs which can help in debugging. \n\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azcopy-v1090-is-now-in-preview-import-from-gcp-to-azure-block-blobs/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azcopy-v1090-is-now-in-preview-import-from-gcp-to-azure-block-blobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T18:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-perform-at-scale-agentless-sql-server-discovery-and-assessment-with-azure-migrate.md",
       "title": "Perform at-scale, agentless SQL server discovery and assessment with Azure Migrate",
       "excerpt": "Moving on-premises infrastructure, databases, and applications to Azure is key to the success of your cloud migration and modernization journey, and we are committed to simplifying that process. With…",
@@ -1146,49 +1188,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks.md",
-      "title": "Public preview: Dynamic IP allocation & enhanced subnet support in AKS ",
-      "excerpt": "You can now dynamically allocate IPs and define subnets for agent nodes and pods.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Containers"
       ]
     }
   ],
