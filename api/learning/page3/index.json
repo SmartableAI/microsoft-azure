@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-m365-identity-overview.md",
+      "title": "Define identity and access management in Azure Active Directory",
+      "excerpt": "Learn about identity and access management in Azure Active Directory and why identity is a core component of your organization’s security posture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-m365-identity-overview/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 7414,
+        "average": 4.774481
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-identity-and-access-management-in-microsoft-365-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-storage-infrastructure-in-azure.md",
       "title": "Architect storage infrastructure in Azure",
       "excerpt": "Learn how to architect storage solutions for your applications in Azure.",
@@ -34,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
           "length": "PT30M",
           "ratings": {
-            "count": 13132,
-            "average": 4.682912
+            "count": 13133,
+            "average": 4.682936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -70,8 +113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 7935,
-            "average": 4.7707624
+            "count": 7942,
+            "average": 4.770713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -106,8 +149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
           "length": "PT37M",
           "ratings": {
-            "count": 2546,
-            "average": 4.638649
+            "count": 2547,
+            "average": 4.6387906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 8232,
-        "average": 4.660714
+        "count": 8235,
+        "average": 4.6607165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -292,8 +335,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 3287,
-        "average": 4.755096
+        "count": 3292,
+        "average": 4.755164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -400,8 +443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
           "length": "PT17M",
           "ratings": {
-            "count": 2720,
-            "average": 4.829412
+            "count": 2722,
+            "average": 4.8291698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -544,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 1170,
-        "average": 4.7615385
+        "count": 1172,
+        "average": 4.7619452
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -587,8 +630,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/",
       "length": "PT50M",
       "ratings": {
-        "count": 3083,
-        "average": 4.6772623
+        "count": 3085,
+        "average": 4.676823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -624,46 +667,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday.md",
-      "title": "Azure Purview: New connectors, Synapse integration, enhanced business glossary, etc. | Azure Friday",
-      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show him what's new in Azure Purview since it was released in public preview in December 2020. Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multicloud, and software-as-a-service (SaaS) data. Easily create",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=cLl7g7RP8Bo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLl7g7RP8Bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-12T09:14:47-08:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
       "title": "Architect infrastructure operations in Azure",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -694,8 +697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41358,
-            "average": 4.7173705
+            "count": 41361,
+            "average": 4.7173667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4453,
-            "average": 4.736133
+            "count": 4458,
+            "average": 4.7364287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -772,8 +775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2118,
-            "average": 4.6213408
+            "count": 2119,
+            "average": 4.6210475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -915,8 +918,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 4796,
-        "average": 4.7028775
+        "count": 4801,
+        "average": 4.7029786
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -958,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 3289,
-        "average": 4.826087
+        "count": 3290,
+        "average": 4.82614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,8 +1004,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 7935,
-        "average": 4.7707624
+        "count": 7942,
+        "average": 4.770713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3272,
-        "average": 4.593215
+        "count": 3282,
+        "average": 4.593236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1103,8 +1106,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17914,
-            "average": 4.6979456
+            "count": 17916,
+            "average": 4.6979795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1138,8 +1141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9413,
-            "average": 4.698927
+            "count": 9415,
+            "average": 4.6987786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1298,8 +1301,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 2971,
-            "average": 4.712891
+            "count": 2974,
+            "average": 4.713181
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1384,8 +1387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17914,
-            "average": 4.6979456
+            "count": 17916,
+            "average": 4.6979795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1419,8 +1422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9413,
-            "average": 4.698927
+            "count": 9415,
+            "average": 4.6987786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1554,8 +1557,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 2971,
-        "average": 4.712891
+        "count": 2974,
+        "average": 4.713181
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1639,8 +1642,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 3447,
-        "average": 4.8172326
+        "count": 3449,
+        "average": 4.8173385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1723,8 +1726,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/",
       "length": "PT1H32M",
       "ratings": {
-        "count": 3109,
-        "average": 4.631393
+        "count": 3116,
+        "average": 4.631579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1766,8 +1769,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/",
       "length": "PT1H38M",
       "ratings": {
-        "count": 1180,
-        "average": 4.725424
+        "count": 1185,
+        "average": 4.726582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1811,8 +1814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 2839,
-        "average": 4.721733
+        "count": 2844,
+        "average": 4.7218704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1926,8 +1929,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 4947,
-        "average": 4.714372
+        "count": 4951,
+        "average": 4.714603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1992,8 +1995,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 809,
-            "average": 4.792336
+            "count": 810,
+            "average": 4.7925925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2028,8 +2031,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/",
           "length": "PT29M",
           "ratings": {
-            "count": 746,
-            "average": 4.7935658
+            "count": 748,
+            "average": 4.7941175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2072,8 +2075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 652,
-            "average": 4.760736
+            "count": 653,
+            "average": 4.7611027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2115,8 +2118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 849,
-            "average": 4.811543
+            "count": 853,
+            "average": 4.8124266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2221,8 +2224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 17914,
-        "average": 4.6979456
+        "count": 17916,
+        "average": 4.6979795
       },
       "provider": {
         "name": "Microsoft Learn",
