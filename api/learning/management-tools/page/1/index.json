@@ -4,50 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
-      "title": "Build a chat bot with the Azure portal",
-      "excerpt": "Create and test a basic chat bot using the Azure portal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 57,
-        "average": 4.736842
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Management tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-connect-vm-with-azure-bastion.md",
       "title": "Connect to virtual machines through the Azure portal by using Azure Bastion",
       "excerpt": "Learn how to deploy Azure Bastion to securely connect to Azure Virtual Machines directly within the Azure portal.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 1166,
-        "average": 4.7607203
+        "count": 1167,
+        "average": 4.7609253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -372,8 +328,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
       "length": "PT35M",
       "ratings": {
-        "count": 4807,
-        "average": 4.742459
+        "count": 4808,
+        "average": 4.7425127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -614,8 +570,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tour-azure-portal/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 53014,
-        "average": 4.710888
+        "count": 53017,
+        "average": 4.710904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1350,6 +1306,46 @@
       "topics": [
         "Azure",
         "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
+      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-11T08:05:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "DevOps"
       ]
     }
   ],

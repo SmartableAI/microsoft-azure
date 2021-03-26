@@ -4,16 +4,18 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series.md",
-      "title": "How to use Azure Monitor workbooks | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, Azure Program Managers Leon Welicki and Shikha Jain show us how workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal. Learn how workbooks allow you to tap into multiple data sources from",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-monitor-workbooks-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=Z5xRyy3HB8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z5xRyy3HB8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M45S",
+      "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
+      "title": "Build a chat bot with the Azure portal",
+      "excerpt": "Create and test a basic chat bot using the Azure portal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 57,
+        "average": 4.736842
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,23 +26,25 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-11T08:05:44-07:00",
-      "heat": 51,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Z5xRyy3HB8U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management tools",
-        "DevOps"
+        "AI",
+        "Management tools"
       ]
     },
     {

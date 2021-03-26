@@ -4,6 +4,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory.md",
+      "title": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "excerpt": "Create production workloads on Azure Databricks with Azure Data Factory",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-production-workloads-azure-databricks-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 164,
+        "average": 4.5670733
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
       "title": "Create your first Azure IoT Central app",
       "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
@@ -963,8 +1007,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-merge-conflicts-github/",
       "length": "PT52M",
       "ratings": {
-        "count": 237,
-        "average": 4.835443
+        "count": 238,
+        "average": 4.8319325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1005,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 310,
-        "average": 4.754839
+        "count": 311,
+        "average": 4.755627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1211,49 +1255,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-predict-flight-delays-with-python.md",
-      "title": "Predict flight delays by creating a machine learning model in Python",
-      "excerpt": "Import airline arrival data into a Jupyter notebook and use Pandas to clean it. Then, build a machine learning model with Scikit-Learn and use Matplotlib to visualize output.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-predict-flight-delays-with-python/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/predict-flight-delays-with-python/",
-      "length": "51 mins",
-      "ratings": {
-        "count": 1706,
-        "average": 4.714537
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/predict-flight-delays-with-python-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Predict flight delays by creating a machine learning model in Python",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     }
   ],
