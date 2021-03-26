@@ -71,6 +71,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
+    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
+    publishedDateTime: 2021-03-26T17:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 37
+    images:
+      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
     publishedDateTime: 2021-03-26T11:33:00Z

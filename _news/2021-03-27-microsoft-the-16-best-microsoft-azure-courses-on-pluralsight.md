@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
-excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
-publishedDateTime: 2021-03-25T12:02:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
+excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
+publishedDateTime: 2021-03-26T17:18:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
 type: article
-quality: 110
-heat: 230
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
-    width: 1200
-    height: 1169
+  - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
+    width: 800
+    height: 400
     isCached: true
 
 related:
+  - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
+    excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
+    publishedDateTime: 2021-03-25T12:02:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 110
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
+        width: 1200
+        height: 1169
+        isCached: true
   - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
     excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
     publishedDateTime: 2020-07-31T21:03:00Z
@@ -60,20 +69,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
-    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
-    publishedDateTime: 2021-03-26T17:18:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 37
-    images:
-      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
-        width: 800
-        height: 400
         isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
@@ -115,6 +110,6 @@ related:
         height: 480
         isCached: true
 
-secured: "6D4ZvBj/Wi2kJX4OJi2vGoEfEdLhiWED9B0ClD4P+CWaCL9VRVBUm3LmhKjc6FDpXvcLn2xxTPuYiwKfW2i8sirHMde/PD3R8uy9dEL5UWpBXv+zA57bwqzXmCmDJvarHAsu+GHfwyeXEbFnBUyv8hJVdev6OQPYNEPxuBb9PCF3LESXDpKIko8HgU9EGG/pL6u3mUFY9bYos5VQbs8C0To1XLuUxW5Z51HEhOMq4aVzTtomUdq5cRzC1JeOhmhx3Y8RmWv8gsjP4GAD/fnPLfKVXNZle0OpDD7oDXw8B/7GKu7Ix8cLoPIyHbujdBnnPsFjIym016uUQ/cTV9ZZYH808fHSyxHQhXGb5VONOCQ=;2RiAW6VkiS42fYhFum6oDw=="
+secured: "N7RrUN/HVEM0nEdT2kf0R/7xKS67Azj0fioK2TcFV7O91aQxgcwymvgPB02aBq6AGVnHcak6D7MmXuKcJecQ5GHvDFjzsmYff+TZ+ybYSK4aJBO+dshbyGj+stSLivIDLL0ZnomE/6kdbapx5FAlX4+i+DAZLTaE+ZXnI3svgT9MMRmupS76nhXKjHnVX5LU0LN9C3egO/QJZMQU6jy3byrc5UtQEfLwGKRq5gxDEFtlt5B5VUENL1tYBTpQ+w0RBvmqnNeOjSioxF8ZKQmsVtwt2t79qAk79OKBNgD/9K3xPa9+Z0Z6Vd9djx/8X2bYTvIJyxJgjyIna7l7PsMPMQYKCBjHjZroXafVADzdWas=;ovjrOjh0NgKnsSiIX0MVWw=="
 ---
 

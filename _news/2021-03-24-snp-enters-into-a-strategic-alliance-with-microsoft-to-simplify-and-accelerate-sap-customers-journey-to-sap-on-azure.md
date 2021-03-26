@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure"
+    excerpt: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure. Stans, Switzerland I 25 March 2021 - SoftwareONE Holding AG,"
+    publishedDateTime: 2021-03-25T06:34:00Z
+    webUrl: "https://www.dgap.de/dgap/News/adhoc/softwareone-enters-into-strategic-agreement-with-microsoft-for-application-services-and-sap-azure/?newsID=1430012"
+    type: article
+    provider:
+      name: dgap.de
+      domain: dgap.de
+    quality: 1
+
 secured: "w7W1hgyh/KhuQnIxKRl1KgE7GtDKQRBmvFCGzU8VfdgNoRKy+tH1W1hByIjc6JLT5P6g35COULU0m/0sjNBBkSP30rHM0k2N4TkgVZ9QUWxRL9tNdRfmxHHuh2+aabjWSct1UkLuOvmHWhZ3UjNU/7KO8/44a9FDoll2MaYKWdTsvNfVp5wYzm4SqJRhRcJaN+CIil/UJNbmTx64H6+mXt0RCab+ufvP/abju3Jvx3MC29TiQWraabCzWCYcSrXtQ64HqEp6HpjWZpKQ82nUwZXrF9JXmdJuHCLs+59JsF3JxWy+HJHMdTYpDg/9gZ5A4fjwHD0Af1pJ4/drRlQZb+av4Ld1LhZ2oKY57dBxTRA=;cQhQSzyQyilGBGK1gC6sOg=="
 ---
 

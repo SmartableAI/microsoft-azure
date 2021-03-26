@@ -67,6 +67,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
+    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
+    publishedDateTime: 2021-03-26T17:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 37
+    images:
+      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
     publishedDateTime: 2021-03-25T15:00:00Z
