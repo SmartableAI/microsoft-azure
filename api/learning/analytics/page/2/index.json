@@ -4,15 +4,15 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
-      "title": "Build and query a Delta Lake",
-      "excerpt": "Build and query a Delta Lake",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api.md",
+      "title": "Extract key phrases from text with the text analytics API",
+      "excerpt": "Automatically extract key phrases to quickly identify the main points in documents or text.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
+      "length": "PT18M",
       "ratings": {
-        "count": 170,
-        "average": 4.6647058
+        "count": 101,
+        "average": 4.633663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,97 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
+      "title": "Work with data streams by using Azure Stream Analytics",
+      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1456,
+        "average": 4.651786
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-read-write-data-azure-databricks.md",
+      "title": "Read and write data in Azure Databricks",
+      "excerpt": "Read and write data in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-read-write-data-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 390,
+        "average": 4.523077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/read-write-data-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -77,50 +164,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-production-workloads-azure-databricks-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-best-practices.md",
-      "title": "Describe Azure Databricks best practices",
-      "excerpt": "Describe Azure Databricks best practices",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-best-practices/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 131,
-        "average": 4.7328243
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-best-practices-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -220,50 +263,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-language-text-analytics-api.md",
-      "title": "Detect language with the text analytics API",
-      "excerpt": "Language detection is useful for content stores that collect arbitrary text, where language is unknown. You can parse the results of this analysis to determine which language is used in the input document.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-language-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 95,
-        "average": 4.726316
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
         "Analytics"
       ]
     },
@@ -400,92 +399,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics.md",
-      "title": "Introduction to Azure Synapse Analytics",
-      "excerpt": "Introduction to Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 81,
-        "average": 4.814815
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
-      "title": "Work with data streams by using Azure Stream Analytics",
-      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 1456,
-        "average": 4.651786
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
       "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
@@ -573,15 +486,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-train-machine-learning-model.md",
-      "title": "Train a machine learning model",
-      "excerpt": "Train a machine learning model",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-train-machine-learning-model/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
+      "title": "Survey the Components of Azure Synapse Analytics",
+      "excerpt": "Survey the Components of Azure Synapse Analytics",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
+      "length": "PT1H5M",
       "ratings": {
-        "count": 36,
-        "average": 4.8055553
+        "count": 57,
+        "average": 4.491228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -596,12 +509,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/train-machine-learning-model-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/survey-the-components-of-azure-synapse-analytics-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -612,8 +525,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "AI"
+        "Analytics"
       ]
     },
     {
@@ -660,15 +572,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
-      "title": "Work with DataFrames advanced methods in Azure Databricks",
-      "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
-      "length": "PT42M",
+      "path": "_learning/courses/microsoft-learn-work-dataframes-azure-databricks.md",
+      "title": "Work with DataFrames in Azure Databricks",
+      "excerpt": "Work with DataFrames in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
+      "length": "PT46M",
       "ratings": {
-        "count": 181,
-        "average": 4.569061
+        "count": 298,
+        "average": 4.6409397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,7 +600,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -919,15 +831,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
-      "title": "Build a real-time event-driven Java solution on Azure",
-      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training.md",
+      "title": "Deep learning with Horovod for distributed training",
+      "excerpt": "Deep learning with Horovod for distributed training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deep-learning-with-horovod-distributed-training/",
+      "length": "PT36M",
       "ratings": {
-        "count": 10,
-        "average": 4.4
+        "count": 34,
+        "average": 4.382353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -947,7 +859,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/deep-learning-with-horovod-distributed-training-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -958,11 +870,52 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Serverless",
         "Analytics",
-        "Databases",
-        "Storage"
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-best-practices.md",
+      "title": "Describe Azure Databricks best practices",
+      "excerpt": "Describe Azure Databricks best practices",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-best-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 131,
+        "average": 4.7328243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-best-practices-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
       ]
     },
     {
@@ -1010,15 +963,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory.md",
+      "title": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-existing-ssis-packages-azure-data-factory/",
+      "length": "PT24M",
       "ratings": {
-        "count": 197,
-        "average": 4.6243653
+        "count": 49,
+        "average": 4.632653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1038,224 +991,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics.md",
-      "title": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "excerpt": "Design hybrid transactional and analytical processing using Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-hybrid-transactional-analytical-processing-using-azure-synapse-analytics/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 16,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-hybrid-transactional-and-analytical-processing-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics.md",
-      "title": "Design a Modern Data Warehouse using Azure Synapse Analytics",
-      "excerpt": "Learn how Azure Synapse Analytics enables you to build Data Warehouses using modern architecture patterns.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-modern-data-warehouse-using-azure-synapse-analytics/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 55,
-        "average": 4.309091
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-modern-data-warehouse-using-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api.md",
-      "title": "Extract key phrases from text with the text analytics API",
-      "excerpt": "Automatically extract key phrases to quickly identify the main points in documents or text.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 101,
-        "average": 4.633663
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-ingest-data-with-apache-spark-notebooks-azure-synapse-analytics.md",
-      "title": "Ingest data with Apache Spark notebooks in Azure Synapse Analytics",
-      "excerpt": "Ingest data with Apache Spark notebooks in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ingest-data-with-apache-spark-notebooks-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ingest-data-with-apache-spark-notebooks-azure-synapse-analytics/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 14,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-manage-data-engineering-workloads-with-apache-spark-azure-synapse-analyt.md",
-      "title": "Monitor and manage data engineering workloads with Apache Spark in Azure Synapse Analytics",
-      "excerpt": "Monitor and manage data engineering workloads with Apache Spark in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-manage-data-engineering-workloads-with-apache-spark-azure-synapse-analyt/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-manage-data-engineering-workloads-apache-spark-azure-synapse-analytics/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 22,
-        "average": 4.7272725
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/execute-existing-ssis-packages-azure-data-factory-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -1309,6 +1045,264 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory.md",
+      "title": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/orchestrate-data-movement-transformation-azure-data-factory/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 65,
+        "average": 4.5538464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/orchestrate-data-movement-transformation-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
+      "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 115,
+        "average": 4.443478
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
+      "title": "Work with DataFrames advanced methods in Azure Databricks",
+      "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 181,
+        "average": 4.569061
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
+      "title": "Work with Azure Machine Learning to deploy serving models",
+      "excerpt": "Work with Azure Machine Learning to deploy serving models",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 41,
+        "average": 4.634146
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-user-defined-functions.md",
+      "title": "Work with user-defined functions",
+      "excerpt": "Work with user-defined functions",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-user-defined-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-user-defined-functions/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 57,
+        "average": 4.4736843
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-user-defined-functions-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday.md",
+      "title": "Anomaly detection using machine learning in Azure Stream Analytics | Azure Friday",
+      "excerpt": "Azure Stream Analytics is a fully managed serverless offering on Azure. With the new Anomaly Detection functions in Stream Analytics, the whole complexity associated with building and training custom machine learning (ML) models is reduced to a simple function call resulting in lower costs, faster time",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-anomaly-detection-using-machine-learning-in-azure-stream-analytics-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=Ra8HhBLdzHE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ra8HhBLdzHE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M59S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-27T17:00:46-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ra8HhBLdzHE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
         "Analytics"
       ]
     }

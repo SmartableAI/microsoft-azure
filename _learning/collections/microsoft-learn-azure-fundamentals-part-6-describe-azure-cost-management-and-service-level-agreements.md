@@ -4,7 +4,7 @@ excerpt: "Learn about the factors that influence cost, tools you can use to help
 type: collection
 price: Free
 length: PT1H46M
-heat: 95
+heat: 104
 
 provider:
   name: Microsoft Learn

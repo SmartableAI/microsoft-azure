@@ -4,51 +4,15 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
-      "title": "Caching and performance in Azure storage disks",
-      "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
-      "length": "PT44M",
+      "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
+      "title": "Capture Web Application Logs with App Service Diagnostics Logging",
+      "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-capture-application-logs-app-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
+      "length": "PT55M",
       "ratings": {
-        "count": 1904,
-        "average": 4.696954
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
-      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
-      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 2312,
-        "average": 4.6137543
+        "count": 2109,
+        "average": 4.688004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -68,7 +32,7 @@
       "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -79,9 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Serverless",
-        "Developer tools"
+        "Compute"
       ]
     },
     {
@@ -261,7 +223,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/set-up-iot-edge-gateway-social.png",
@@ -340,15 +302,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
-      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
-      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
-      "length": "PT46M",
+      "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
+      "title": "Build a scalable application with virtual machine scale sets",
+      "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-app-with-scale-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
+      "length": "PT57M",
       "ratings": {
-        "count": 2936,
-        "average": 4.571526
+        "count": 6244,
+        "average": 4.722133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -368,7 +330,7 @@
       "heat": 55,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-scalable-application-with-azure-virtual-machine-scale-sets-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -390,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1722,
-        "average": 4.6486645
+        "count": 1724,
+        "average": 4.6490717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,80 +391,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 1826,
-        "average": 4.2897043
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Compute",
-        "Serverless",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-azure-vm-templates.md",
-      "title": "Build Azure Resource Manager templates",
-      "excerpt": "Learn how Resource Manager templates express your deployments as code, enabling you to deploy faster and more reliably.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-azure-vm-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 9139,
-        "average": 4.664624
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-run-container-app-service.md",
       "title": "Deploy and run a containerized web app with Azure App Service",
       "excerpt": "Discover how to create a Docker image and store it in the Azure Container Registry, then use Azure App Service to deploy a web application based on the image.",
@@ -528,7 +416,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/deploy-run-container-app-service-social.png",
@@ -548,58 +436,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
-      "title": "Deploy Azure virtual machines from VHD templates",
-      "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and error.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-vms-from-vhd-templates/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 2314,
-        "average": 4.707865
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
-      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
-      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio.md",
+      "title": "Develop, test, and deploy an Azure Function with Visual Studio",
+      "excerpt": "Use Visual Studio together with a test framework to create, deploy, and test an Azure Function.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-with-visual-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/",
       "length": "PT43M",
       "ratings": {
-        "count": 1176,
-        "average": 4.6845236
+        "count": 2312,
+        "average": 4.6137543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -616,10 +461,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 55,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-with-visual-studio-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -631,20 +476,20 @@
       "topics": [
         "Azure",
         "Compute",
-        "DevOps",
-        "Management Tools"
+        "Serverless",
+        "Developer tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
-      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
-      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
-      "length": "PT45M",
+      "path": "_learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook.md",
+      "title": "Monitor GitHub events by using a webhook with Azure Functions",
+      "excerpt": "Discover the benefits of webhooks when you trigger an Azure function with a GitHub webhook and parse the payload for insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-github-events-with-a-function-triggered-by-a-webhook/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-github-events-with-a-function-triggered-by-a-webhook/",
+      "length": "PT53M",
       "ratings": {
-        "count": 1299,
-        "average": 4.604311
+        "count": 2108,
+        "average": 4.6394687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -661,10 +506,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 55,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-github-events-with-a-function-triggered-by-a-webhook-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -675,47 +520,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
-      "title": "Azure App Service Web Apps | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-14T14:03:24-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
         "Compute",
-        "Web"
+        "Serverless"
       ]
     },
     {
@@ -767,7 +573,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
@@ -835,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9451,
-            "average": 4.663951
+            "count": 9452,
+            "average": 4.6639867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -853,7 +659,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 81,
+          "heat": 87,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-ai/secure-azure-storage-account-badge-social.png",
@@ -872,7 +678,7 @@
         }
       ],
       "size": 3,
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-azure-data-lake-storage-badge-social.png",
@@ -888,6 +694,253 @@
         "Azure",
         "Management Tools",
         "Storage",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks.md",
+      "title": "Caching and performance in Azure storage disks",
+      "excerpt": "Learn about Azure VM disk performance and how to enable caching to help optimize read and write access to storage.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-caching-and-performance-azure-storage-and-disks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 1904,
+        "average": 4.696954
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
+      "title": "Discover sentiment in text with the Text Analytics API",
+      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 1693,
+        "average": 4.623745
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Management Tools",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "AI",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+      "title": "Introduction to Azure Database for PostgreSQL",
+      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2168,
+        "average": 4.6434503
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deploy-vms-from-vhd-templates.md",
+      "title": "Deploy Azure virtual machines from VHD templates",
+      "excerpt": "Standardize and automate your virtual machine deployments to minimize manual configuration, variance, and error.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-vms-from-vhd-templates/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 2315,
+        "average": 4.707991
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/deploy-vms-from-vhd-templates-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-app-service-web-apps-azure-friday.md",
+      "title": "Azure App Service Web Apps | Azure Friday",
+      "excerpt": "Byron Tardif joins Scott Hanselman to discuss Azure App Service Web Apps, the best way to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-app-service-web-apps-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=jCfJWYocz1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCfJWYocz1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M33S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-14T14:03:24-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jCfJWYocz1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-app-service-scale-up-scale-out.md",
+      "title": "Scale an App Service web app to efficiently meet demand with App Service scale up and scale out",
+      "excerpt": "Learn how to respond to periods of increased activity by incrementally increasing the resources available and then freeing these resources when activity drops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-app-service-scale-up-scale-out/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 2936,
+        "average": 4.571526
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/app-service-scale-up-scale-out-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Compute"
       ]
     },
@@ -925,6 +978,56 @@
         "Azure",
         "Compute",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
+      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
+      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 783,
+        "average": 4.7369094
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "DevOps",
+        "Management Tools"
       ]
     },
     {
@@ -977,15 +1080,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-app-with-scale-sets.md",
-      "title": "Build a scalable application with virtual machine scale sets",
-      "excerpt": "Enable your application to automatically adjust to changes in load while minimizing costs with virtual machine scale sets.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-app-with-scale-sets/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
-      "length": "PT57M",
+      "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
+      "title": "Keep your virtual machines updated",
+      "excerpt": "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-keep-your-virtual-machines-updated/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
+      "length": "PT35M",
       "ratings": {
-        "count": 6244,
-        "average": 4.722133
+        "count": 3193,
+        "average": 4.5186343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,63 +1106,13 @@
         "Beginner"
       ],
       "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-scalable-application-with-azure-virtual-machine-scale-sets-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-hpc.md",
-      "title": "Introduction to high-performance computing (HPC) on Azure",
-      "excerpt": "Discover the services available on Azure for your high-performance computing workloads.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-hpc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-hpc/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 1224,
-        "average": 4.593954
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-hpc-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
+        "Compute",
+        "Management Tools"
       ]
     },
     {
@@ -1146,136 +1199,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
-      "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
-      "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-well-architected-performance-efficiency/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 782,
-        "average": 4.7365727
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-performance-efficiency-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases",
-        "Serverless",
-        "Containers",
-        "DevOps",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
-      "title": "Build Serverless APIs with Azure Functions",
-      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 221,
-        "average": 4.687783
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-keep-your-virtual-machines-updated.md",
-      "title": "Keep your virtual machines updated",
-      "excerpt": "Learn to use Azure Update Management to update virtual machines, verify agent connectivity, and use Azure Log Analytics in your cloud environment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-keep-your-virtual-machines-updated/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3193,
-        "average": 4.5186343
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-secrets-with-azure-key-vault.md",
       "title": "Manage secrets in your server apps with Azure Key Vault",
       "excerpt": "Learn how to create an Azure Key Vault to store secret values and how to enable secure access to the vault.",
@@ -1313,15 +1236,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
-      "title": "Protect your virtual machines by using Azure Backup",
-      "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
-      "length": "PT35M",
+      "path": "_learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data.md",
+      "title": "Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts",
+      "excerpt": "Learn how to monitor the health of your Azure VMs by using Azure Metrics Explorer and metric alerts.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-azure-vm-using-diagnostic-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/",
+      "length": "PT43M",
       "ratings": {
-        "count": 4806,
-        "average": 4.7424054
+        "count": 1176,
+        "average": 4.6845236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1341,7 +1264,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/monitor-azure-vm-using-diagnostic-data-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1353,21 +1276,20 @@
       "topics": [
         "Azure",
         "Compute",
-        "Management Tools",
-        "Storage",
-        "Management tools"
+        "DevOps",
+        "Management Tools"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-protect-vm-settings-with-dsc.md",
-      "title": "Protect your virtual machine settings with Azure Automation State Configuration",
-      "excerpt": "Learn how to protect your virtual machine settings with Azure Automation State Configuration",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-vm-settings-with-dsc/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli.md",
+      "title": "Run parallel tasks in Azure Batch with the Azure CLI",
+      "excerpt": "Find out about the Azure Batch capabilities designed to help you efficiently run large-scale parallel and high-performance computing applications in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-parallel-tasks-in-azure-batch-with-the-azure-cli/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-parallel-tasks-in-azure-batch-with-the-azure-cli/",
+      "length": "PT45M",
       "ratings": {
-        "count": 1115,
-        "average": 4.6852016
+        "count": 1299,
+        "average": 4.604311
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1387,7 +1309,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-vm-settings-with-dsc-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/run-parallel-tasks-in-azure-batch-with-the-azure-cli-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1398,8 +1320,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Management Tools"
+        "Compute"
       ]
     },
     {
@@ -1443,15 +1364,53 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-in-action.md",
-      "title": "See Azure in action",
-      "excerpt": "The demos in this module provide an opportunity to see Azure in action.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-in-action/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
-      "length": "PT30M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
       "ratings": {
-        "count": 2154,
-        "average": 4.7047353
+        "count": 1827,
+        "average": 4.290093
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Compute",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-api-azure-functions.md",
+      "title": "Build Serverless APIs with Azure Functions",
+      "excerpt": "Use Visual Studio Code to build a JavaScript and Vue.js dashboard with a Serverless API powered by Azure Functions, Node.js and Cosmos DB.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-api-azure-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 221,
+        "average": 4.687783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1471,7 +1430,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-in-action-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/build-api-azure-functions-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1482,21 +1441,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "Databases",
-        "Compute"
+        "Compute",
+        "Serverless"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
-      "title": "Build a real-time event-driven Java solution on Azure",
-      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
       "ratings": {
-        "count": 10,
-        "average": 4.4
+        "count": 760,
+        "average": 4.6776314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1511,14 +1469,52 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
+      ],
+      "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking",
+        "Web",
+        "Compute",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools.md",
+      "title": "Develop, test, and publish Azure Functions by using Azure Functions Core Tools",
+      "excerpt": "Find out how to develop an Azure Function in Visual Studio with a test framework to create, deploy, and test this scalable and secure service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-develop-test-deploy-azure-functions-core-tools/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-test-deploy-azure-functions-with-core-tools/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2211,
+        "average": 4.7209406
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/develop-test-deploy-azure-functions-core-tools-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1528,10 +1524,7 @@
       "topics": [
         "Azure",
         "Compute",
-        "Serverless",
-        "Analytics",
-        "Databases",
-        "Storage"
+        "Serverless"
       ]
     }
   ],

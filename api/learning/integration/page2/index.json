@@ -4,6 +4,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
+      "title": "Route and process data automatically using Logic Apps",
+      "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 1740,
+        "average": 4.5034485
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-continuous-integration-and-deployment-using-azure-data-factory-azure-friday.md",
       "title": "Continuous integration and deployment using Azure Data Factory | Azure Friday",
       "excerpt": "Gaurav Malhotra joins Scott Hanselman to discuss how you can follow industry-leading best practices to do continuous integration and deployment for your Extract Transform/Load (ETL) and Extract Load/Transform (ELT) workflows to multiple environments such as Dev, Test, Prod, and more.  For more information:",
@@ -43,6 +89,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 248,
+        "average": 4.705645
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-improve-api-performance-with-apim-caching-policy.md",
       "title": "Improve the performance of an API by adding a caching policy in Azure API Management",
       "excerpt": "Learn how to use Azure API Management to change an API without rewriting code to enable you to apply a caching policy to a GET operation for quicker response.",
@@ -50,8 +139,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
       "length": "PT47M",
       "ratings": {
-        "count": 893,
-        "average": 4.68645
+        "count": 894,
+        "average": 4.686801
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -87,15 +176,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-      "title": "Route and process data automatically using Logic Apps",
-      "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
+      "title": "Protect your APIs on Azure API Management",
+      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
+      "length": "PT43M",
       "ratings": {
-        "count": 1740,
-        "average": 4.5034485
+        "count": 921,
+        "average": 4.7318134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +204,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -126,10 +215,52 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "IoT",
-        "Blockchain",
-        "Integration"
+        "Integration",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
+      "title": "Publish and manage your APIs with Azure API Management",
+      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 1449,
+        "average": 4.679089
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web"
       ]
     },
     {
@@ -211,42 +342,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
-      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
-      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 2040,
-        "average": 4.7289214
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Integration"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-intro-to-logic-apps.md",
       "title": "Introduction to Azure Logic Apps",
       "excerpt": "Learn how to evaluate Logic Apps as an automation choice for your organization using criteria for integration, performance, conditionals, and connectors.",
@@ -289,94 +384,6 @@
         "IoT",
         "Blockchain",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-protect-apis-on-api-management.md",
-      "title": "Protect your APIs on Azure API Management",
-      "excerpt": "Protect your back-end APIs from information exposure and implement throttling to prevent resource exhaustion with policies in Azure API Management.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-apis-on-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 920,
-        "average": 4.7315216
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/protect-apis-on-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management.md",
-      "title": "Publish and manage your APIs with Azure API Management",
-      "excerpt": "Learn about using an Azure API gateway to share APIs with partners, and how to use subscription keys to control access to your APIs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-manage-apis-with-azure-api-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 1449,
-        "average": 4.679089
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-manage-apis-with-azure-api-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "Web"
       ]
     },
     {
@@ -620,6 +627,42 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration.md",
+      "title": "Analyze DevOps Continuous Planning and Continuous Integration",
+      "excerpt": "Explore the first two capabilities in the DevOps taxonomy, Continuous Planning and Continuous Integration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-devops-continuous-planning-intergration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-devops-continuous-planning-intergration/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 2040,
+        "average": 4.7289214
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-expose-hybrid-services-with-azure-relay.md",
       "title": "Expose hybrid services securely with Azure Relay",
       "excerpt": "Securely expose services that run in your on-premises network to clients in the cloud, without having to open a port on your firewall or make intrusive changes to your corporate network infrastructure.",
@@ -651,49 +694,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/expose-hybrid-services-with-azure-relay-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 248,
-        "average": 4.705645
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],

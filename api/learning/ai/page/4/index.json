@@ -4,6 +4,94 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-deep-learning.md",
+      "title": "Use deep learning models to make predictions about specialized data",
+      "excerpt": "Use convolutional neural networks and recurrent neural networks to analyze and predict images and text with TensorFlow and Keras.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deep-learning/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-deep-learning/",
+      "length": "44 mins",
+      "ratings": {
+        "count": 252,
+        "average": 4.654762
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-deep-learning-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Use deep learning models to make predictions about specialized data",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-describe-azure-databricks-best-practices.md",
+      "title": "Describe Azure Databricks best practices",
+      "excerpt": "Describe Azure Databricks best practices",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-azure-databricks-best-practices/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 131,
+        "average": 4.7328243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-azure-databricks-best-practices-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-describe-azure-databricks-delta-lake-architecture.md",
       "title": "Describe Azure Databricks Delta Lake architecture",
       "excerpt": "Describe Azure Databricks Delta Lake architecture",
@@ -48,15 +136,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks.md",
-      "title": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "excerpt": "Describe lazy evaluation and other performance features in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-lazy-evaluation-other-performance-features-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-lazy-evaluation-performance-features-azure-databricks/",
-      "length": "PT38M",
+      "path": "_learning/courses/microsoft-learn-microsoft-approach-to-ai.md",
+      "title": "Examine the Microsoft approach to artificial intelligence",
+      "excerpt": "Learn how Microsoft creates products, services, and solutions to help organizations leverage AI. Understand how these technologies relate to business problems.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-microsoft-approach-to-ai/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
+      "length": "PT54M",
       "ratings": {
-        "count": 197,
-        "average": 4.6243653
+        "count": 965,
+        "average": 4.716062
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,100 +159,12 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-lazy-evaluation-other-performance-features-azure-databricks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api.md",
-      "title": "Extract key phrases from text with the text analytics API",
-      "excerpt": "Automatically extract key phrases to quickly identify the main points in documents or text.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-extract-key-phrases-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/extract-key-phrases-text-analytics-api/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 101,
-        "average": 4.633663
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/extract-key-phrases-from-text-with-the-text-analytics-api-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-identify-faces-with-computer-vision.md",
-      "title": "Identify faces and expressions by using the Computer Vision API in Azure Cognitive Services",
-      "excerpt": "Learn how to use the Computer Vision API in Azure to identify facial details in pictures",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-faces-with-computer-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-faces-with-computer-vision/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 1502,
-        "average": 4.6491346
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/identify-faces-with-computer-vision-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/microsoft-approach-to-ai-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -175,20 +175,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Developer Tools",
         "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks.md",
-      "title": "Perform machine learning with Azure Databricks",
-      "excerpt": "Perform machine learning with Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-machine-learning-with-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
-      "length": "PT59M",
+      "path": "_learning/courses/microsoft-learn-responsible-ai-guiding-principles.md",
+      "title": "Identify guiding principles for responsible AI",
+      "excerpt": "Explore six principles to guide AI development and use - fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-responsible-ai-guiding-principles/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
+      "length": "PT56M",
       "ratings": {
-        "count": 40,
-        "average": 4.675
+        "count": 936,
+        "average": 4.7029915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -208,7 +207,50 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-machine-learning-with-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks.md",
+      "title": "Work with DataFrames advanced methods in Azure Databricks",
+      "excerpt": "Work with DataFrames advanced methods in Azure Databricks",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-dataframes-advanced-methods-azure-databricks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 181,
+        "average": 4.569061
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-dataframes-advanced-methods-azure-databricks-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -224,138 +266,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning.md",
-      "title": "Perform model selection with hyperparameter tuning",
-      "excerpt": "Perform model selection with hyperparameter tuning",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-model-selection-with-hyperparameter-tuning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 36,
-        "average": 4.5555553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-model-selection-with-hyperparameter-tuning-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-python-flask-build-ai-web-app.md",
-      "title": "Build an AI web app by using Python and Flask",
-      "excerpt": "Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-python-flask-build-ai-web-app/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 221,
-        "average": 4.642534
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps.md",
-      "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps",
-      "excerpt": "The Language Understanding (LUIS) container loads your trained or published Language Understanding model. As a LUIS app, the docker container provides access to the query predictions from the container's API endpoints",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-use-containers-language-understanding-intelligent-service-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 106,
-        "average": 4.754717
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-containers-for-your-language-understanding-intelligent-service-luis-apps-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Containers"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-mlflow-azure-databricks.md",
-      "title": "Work with MLflow in Azure Databricks",
-      "excerpt": "Work with MLflow in Azure Databricks",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-mlflow-azure-databricks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-mlflow-azure-databricks/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models.md",
+      "title": "Work with Azure Machine Learning to deploy serving models",
+      "excerpt": "Work with Azure Machine Learning to deploy serving models",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-work-with-azure-machine-learning-deploy-serving-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-azure-machine-learning-deploy-serving-models/",
+      "length": "PT23M",
       "ratings": {
         "count": 41,
-        "average": 4.585366
+        "average": 4.634146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,7 +294,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-mlflow-azure-databricks-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-azure-machine-learning-deploy-serving-models-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -514,12 +433,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-evaluate-text-with-azure-cognitive-language-services.md",
-      "title": "Evaluate text with Azure Cognitive Language Services",
-      "excerpt": "Learn how to use Cognitive Language Services to analyze text, determine intent, detect adult themes, and process natural language input",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-evaluate-text-with-azure-cognitive-language-services/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-evaluate-text-with-azure-cognitive-language-services/",
-      "length": "PT2H13M",
+      "path": "_learning/collections/microsoft-learn-create-conversational-ai-solutions.md",
+      "title": "Create conversational AI solutions",
+      "excerpt": "Conversational AI revolves around user interactions, in this case through Bots. In this learning path, you will learn how to create chat bots and integrate the bot with various AI services to add intelligence to the interaction. Learn how to integrate the QnA Maker Service (an easy method to add question and answers for bots), and explore the new Virtual Assistant scenarios for creating branded experiences with bots.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-create-conversational-ai-solutions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-create-conversational-ai-solutions/",
+      "length": "PT1H56M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -533,19 +452,19 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator.md",
-          "title": "Classify and moderate text with Azure Content Moderator",
-          "excerpt": "In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
-          "length": "PT31M",
+          "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
+          "title": "Build a chat bot with the Azure portal",
+          "excerpt": "Create and test a basic chat bot using the Azure portal",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
+          "length": "PT20M",
           "ratings": {
-            "count": 1953,
-            "average": 4.6605225
+            "count": 57,
+            "average": 4.736842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -560,14 +479,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -576,93 +495,94 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Developer Tools",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-and-publish-a-luis-model.md",
-          "title": "Add conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-          "excerpt": "In this module, we'll introduce you to Language Understanding Intelligent Service (LUIS) and show how to build and publish a LUIS model",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-and-publish-a-luis-model/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 1814,
-            "average": 4.6697907
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-ai/create-and-publish-a-luis-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Developer Tools",
-            "AI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-          "title": "Discover sentiment in text with the Text Analytics API",
-          "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 1692,
-            "average": 4.6235223
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Management Tools",
-            "Compute",
-            "Serverless",
-            "Storage",
             "AI",
-            "Analytics"
+            "Management tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+          "title": "Design a bot conversation flow",
+          "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 40,
+            "average": 4.875
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
+          "title": "Create a Bot with the Bot Framework Composer",
+          "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
+          "length": "PT1H4M",
+          "ratings": {
+            "count": 48,
+            "average": 4.5833335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
           ]
         }
       ],
@@ -670,9 +590,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -681,8 +601,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "AI"
+        "AI",
+        "Developer Tools"
       ]
     },
     {
@@ -734,7 +654,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
@@ -905,7 +825,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/responsible-ai-principles-social.png",
@@ -1168,7 +1088,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/implementing-a-knowledge-store-social.png",
@@ -1513,49 +1433,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-add-conversational-intelligence-luis.md",
-      "title": "Add basic conversational intelligence to your apps by using Language Understanding Intelligent Service (LUIS)",
-      "excerpt": "Learn to identify valuable information in conversations with LUIS for interpreting user goals (intents) and distill valuable information from sentences (entities).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-add-conversational-intelligence-luis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-basic-conversational-intelligence/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 105,
-        "average": 4.8095236
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/add-conversational-intelligence-with-luis-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-ai-strategy-in-education.md",
       "title": "Define an AI strategy to create value in education",
       "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in education that creates value, with INSEAD and Microsoft.",
@@ -1671,6 +1548,49 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-government-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-strategy-in-healthcare.md",
+      "title": "Define an AI strategy to create business value in healthcare",
+      "excerpt": "Explore the strategic components, special factors, and use cases of an AI strategy in healthcare that creates business value, with INSEAD and Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-healthcare/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-healthcare/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 723,
+        "average": 4.780083
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-healthcare-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1901,15 +1821,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator.md",
-      "title": "Classify and moderate text with Azure Content Moderator",
-      "excerpt": "In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-and-moderate-text-with-azure-content-moderator/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
-      "length": "PT31M",
+      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
+      "title": "Build and query a Delta Lake",
+      "excerpt": "Build and query a Delta Lake",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
+      "length": "PT43M",
       "ratings": {
-        "count": 1953,
-        "average": 4.6605225
+        "count": 170,
+        "average": 4.6647058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1929,9 +1849,9 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/classify-and-moderate-text-with-azure-content-moderator-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -1940,20 +1860,20 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Developer Tools",
+        "Analytics",
         "AI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api.md",
-      "title": "Discover sentiment in text with the Text Analytics API",
-      "excerpt": "Learn how to use the Text Analytics API and Azure Functions to discover what your customers are really saying in their feedback about your products or brands.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-user-feedback-with-the-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
+      "title": "Classify images with the Microsoft Custom Vision Service",
+      "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
+      "length": "PT37M",
       "ratings": {
-        "count": 1692,
-        "average": 4.6235223
+        "count": 1538,
+        "average": 4.6684003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1968,7 +1888,7 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "content": "\r\n",
@@ -1976,13 +1896,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Management Tools",
-        "Compute",
-        "Serverless",
-        "Storage",
         "AI",
-        "Analytics"
+        "Management Tools"
       ]
     },
     {
@@ -2021,6 +1936,94 @@
           "width": 640,
           "height": 320,
           "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-cognitive-search-solution.md",
+      "title": "Create an Azure Cognitive Search solution",
+      "excerpt": "Unlock the hidden insights in your data with Azure Cognitive Search.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-cognitive-search-solution/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-cognitive-search-solution/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 43,
+        "average": 4.9069767
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-azure-cognitive-search-solution-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "AI",
+        "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-bot-with-bot-framework-composer.md",
+      "title": "Create a Bot with the Bot Framework Composer",
+      "excerpt": "User the Bot Framework Composer to quickly and easily build sophisticated conversational bots without writing code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-bot-with-bot-framework-composer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-bot-with-bot-framework-composer/",
+      "length": "PT1H4M",
+      "ratings": {
+        "count": 48,
+        "average": 4.5833335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

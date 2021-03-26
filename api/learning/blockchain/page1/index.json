@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 41611,
-            "average": 4.7844563
+            "count": 41635,
+            "average": 4.784436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 211,
+          "heat": 209,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 6139,
-            "average": 4.7787914
+            "count": 6142,
+            "average": 4.778899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 105,
+          "heat": 107,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4728,
-            "average": 4.7210236
+            "count": 4729,
+            "average": 4.7210827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -137,7 +137,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 95,
+          "heat": 91,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4189,
-            "average": 4.761996
+            "count": 4190,
+            "average": 4.7620525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -200,7 +200,7 @@
         }
       ],
       "size": 7,
-      "heat": 126,
+      "heat": 128,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -232,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 3773,
-        "average": 4.7771006
+        "count": 3776,
+        "average": 4.777013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -250,7 +250,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 86,
+      "heat": 91,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -313,6 +313,208 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure.md",
+      "title": "Architect message brokering and serverless applications in Azure",
+      "excerpt": "Learn how to create reliable messaging for your applications, and how to take advantage of serverless application services in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/",
+      "length": "PT6H20M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
+          "title": "Create serverless logic with Azure Functions",
+          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 8127,
+            "average": 4.6581764
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 64,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
+          "title": "Route and process data automatically using Logic Apps",
+          "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 1740,
+            "average": 4.5034485
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools",
+            "IoT",
+            "Blockchain",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
+          "title": "Choose a messaging model in Azure to loosely connect your services",
+          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 3749,
+            "average": 4.60016
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration",
+            "IoT",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
+          "title": "Communicate between applications with Azure Queue storage",
+          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
+          "length": "PT56M",
+          "ratings": {
+            "count": 2097,
+            "average": 4.590844
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 53,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Analytics",
+        "Integration",
+        "IoT",
+        "Blockchain"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-400-develop-an-instrumentation-strategy.md",
       "title": "AZ-400: Develop an instrumentation strategy",
       "excerpt": "Develop an effective instrumentation strategy through logging, telemetry, and monitoring and prepare for Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions.",
@@ -343,8 +545,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2108,
-            "average": 4.6878557
+            "count": 2109,
+            "average": 4.688004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -361,7 +563,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -386,8 +588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41350,
-            "average": 4.71734
+            "count": 41353,
+            "average": 4.7173605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,7 +697,7 @@
         }
       ],
       "size": 12,
-      "heat": 68,
+      "heat": 67,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/capture-application-logs-app-service-social.png",
@@ -518,208 +720,6 @@
         "Web",
         "Containers",
         "Serverless",
-        "Blockchain"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure.md",
-      "title": "Architect message brokering and serverless applications in Azure",
-      "excerpt": "Learn how to create reliable messaging for your applications, and how to take advantage of serverless application services in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/",
-      "length": "PT6H20M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 8127,
-            "average": 4.6581764
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 73,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-          "title": "Route and process data automatically using Logic Apps",
-          "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 1740,
-            "average": 4.5034485
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 3749,
-            "average": 4.60016
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "IoT",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
-          "title": "Communicate between applications with Azure Queue storage",
-          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 2097,
-            "average": 4.590844
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Analytics",
-        "Integration",
-        "IoT",
         "Blockchain"
       ]
     },
@@ -818,7 +818,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
@@ -982,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
           "length": "PT34M",
           "ratings": {
-            "count": 239,
-            "average": 4.7656903
+            "count": 240,
+            "average": 4.766667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1162,8 +1162,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
       "length": "PT34M",
       "ratings": {
-        "count": 239,
-        "average": 4.7656903
+        "count": 240,
+        "average": 4.766667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1215,7 +1215,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
