@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-ser
 webUrl: "https://azure.microsoft.com/blog/perform-atscale-agentless-sql-server-discovery-and-assessment-with-azure-migrate/"
 type: article
 quality: 100
-heat: 101
+heat: 100
 published: true
 
 provider:
