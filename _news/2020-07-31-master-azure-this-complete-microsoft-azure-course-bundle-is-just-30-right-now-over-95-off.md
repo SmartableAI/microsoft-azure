@@ -59,6 +59,17 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
+    publishedDateTime: 2021-03-26T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
     publishedDateTime: 2021-03-25T15:00:00Z
@@ -72,6 +83,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
+    publishedDateTime: 2021-03-26T11:47:00Z
+    webUrl: "https://www.lelezard.com/en/news-19718217.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Ipk9bV3Wqj58vfpDvs0BNQKpjs92j+MycyerXcTSWrAB1Ub4qzcCEp0MNuYmRI2PMcJvukRly6HEuuXYUDyshSUKo2L/5sh1i1VcvLPwV92vJCelg+Cs7/wGEAaMMIlqGrA28RKgH2uTHqR4bLo8YwmjdVoV4vpOdY+912yVJ53RQLpSYCHP5rBkGRpDgPrWu9IXvc4OqlCC/cqVyvNqxNNvaSjVq2HOO2VRO3JG5Bz+E/gbyK2s1FFqo+0zP5Kc0Cz2hr2O4kmjtDGcE6x8rtR6bAJOQ41ATEKF0M44azdnmDutV8xvf9IQMydG5nMjWqtKua/3lCKVQa2WiIjKKZTVKBZC419eJlsQv/LRwOMaClHhY2TKDKo6t5HLCvVrBZLx1OoPLCt6V/GHi2aG/FcP6zhTMIYyWXSWh1YTyCWzK8wwpq1o20hm4UGkX0M4H6HLQ7CpN7S13xXaZNPqBpoNwPZBA3tGAH3qRVal8RvOO0ZIe8pyacdTVBQkGIA/;NMaz8NumKR7CcKCqxHKEww=="

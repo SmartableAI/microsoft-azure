@@ -71,6 +71,31 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
+    publishedDateTime: 2021-03-26T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
+    publishedDateTime: 2021-03-26T11:47:00Z
+    webUrl: "https://www.lelezard.com/en/news-19718217.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "sREthEr+MCH/vpXXmm6KLy6u8qy7lkuS0NVCDzyeVsG9ACVRd0Z7xDDl+md5Z3ff96jmH5ELTUwnzZunmJhuQ6A8vlnfmMVwcapl7LFTCeD9NiU2pXFuHgH81PM0Xg/x/fpAecCc0L4uqrxtK2MqjMYrYj5LixnTLXbWSJC4ae3hfVuuZOgbsHSCy1F8ZkikwC0KrLwQL7lYIrnYMDpf3oQRn+l/xrFJX4Xe4oL42F2Uo9e5nWaTVuM2vAziR9Uxj3vk8mbWjgfZKKZf79QlyiBBsC/+WSvfkcuwJebzuj8DMiRveGAv6xN2037HzO0/X8heuSTXYAS8RoAwlff6ojtCXFdc12s7dgoepEa2pL4=;v82pUZSQnSZMb+iYj082Bw=="
 ---

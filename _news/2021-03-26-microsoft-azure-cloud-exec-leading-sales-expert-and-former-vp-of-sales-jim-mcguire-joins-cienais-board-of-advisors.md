@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
-excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
-publishedDateTime: 2021-03-25T12:02:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
+publishedDateTime: 2021-03-26T11:47:00Z
+originalUrl: "https://www.lelezard.com/en/news-19718217.html"
+webUrl: "https://www.lelezard.com/en/news-19718217.html"
 type: article
-quality: 110
-heat: 210
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Azure
   - AI
 
 images:
-  - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
-    width: 1200
-    height: 1169
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
+  - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
+    excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
+    publishedDateTime: 2021-03-25T12:02:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 110
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
+        width: 1200
+        height: 1169
+        isCached: true
   - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
     excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
     publishedDateTime: 2020-07-31T21:03:00Z
@@ -86,21 +96,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
-    publishedDateTime: 2021-03-26T11:47:00Z
-    webUrl: "https://www.lelezard.com/en/news-19718217.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "6D4ZvBj/Wi2kJX4OJi2vGoEfEdLhiWED9B0ClD4P+CWaCL9VRVBUm3LmhKjc6FDpXvcLn2xxTPuYiwKfW2i8sirHMde/PD3R8uy9dEL5UWpBXv+zA57bwqzXmCmDJvarHAsu+GHfwyeXEbFnBUyv8hJVdev6OQPYNEPxuBb9PCF3LESXDpKIko8HgU9EGG/pL6u3mUFY9bYos5VQbs8C0To1XLuUxW5Z51HEhOMq4aVzTtomUdq5cRzC1JeOhmhx3Y8RmWv8gsjP4GAD/fnPLfKVXNZle0OpDD7oDXw8B/7GKu7Ix8cLoPIyHbujdBnnPsFjIym016uUQ/cTV9ZZYH808fHSyxHQhXGb5VONOCQ=;2RiAW6VkiS42fYhFum6oDw=="
+secured: "G9XxZ5ixWeslmRaSJinoUWMlotWlJ/zgmX674iOebTcDGgovh9/k/dOUgRIFUlCwv/i25GY60pAgLtVco1E1BNhwK01ijAsepkiEYGmrHpxGsEUqVmsdHSUv/zfhE0JqEgWNREcBB9lfEbuBUhKsH0r6uwEy8iUraBt+ljqDU6lBGPRj1ZEKdymE0jXHV3B5LXDT44uwi9KK1DwJ8L/pisvX3jARREDqBQ+Vuy3Rj4cAHrALYS0+4KGWyb+cgUQk9lW3MmB5CnYoP7qGWioaJpJ1MJAxVRe9P2Dz8wlssZtrMCxyddqU9GeM3i3Ui+keJgcCkYL6OeYPw3AQUbewAG6/MuUcMI2et4/4O4487Wc=;ILjgRmYbIaMru+pTBA+piA=="
 ---
 
