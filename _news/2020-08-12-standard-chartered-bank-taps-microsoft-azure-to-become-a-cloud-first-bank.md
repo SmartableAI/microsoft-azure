@@ -1275,6 +1275,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
+    excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
+    publishedDateTime: 2021-03-26T16:39:00Z
+    webUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/SQL.jpeg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z

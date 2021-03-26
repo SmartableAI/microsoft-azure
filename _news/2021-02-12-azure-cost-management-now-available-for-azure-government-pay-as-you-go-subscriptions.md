@@ -114,6 +114,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Stream Analytics runs on Azure Stack Hub "
+    excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
+    publishedDateTime: 2021-03-26T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Ingest up to 10 files and blobs with the new Azure Data Explorer intuitive UX"
     excerpt: "Azure Data Explorer ingestion wizard allows you to automatically create a table and ingest data from up to 10 files or blobs."
     publishedDateTime: 2021-02-09T18:00:05Z

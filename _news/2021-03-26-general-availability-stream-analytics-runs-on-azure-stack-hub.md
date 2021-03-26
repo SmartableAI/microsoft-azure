@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Media Services introduces new security features"
-excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
-publishedDateTime: 2021-03-16T23:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
-webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
+title: "General availability: Stream Analytics runs on Azure Stack Hub "
+excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
+publishedDateTime: 2021-03-26T16:00:13Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
 type: article
-quality: 69
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Security
+  - Analytics
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -109,15 +109,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Stream Analytics runs on Azure Stack Hub "
-    excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
-    publishedDateTime: 2021-03-26T16:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
     excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
     publishedDateTime: 2021-02-12T20:14:41Z
@@ -159,6 +150,15 @@ related:
     excerpt: "Soft delete, which protects Azure file shares from accidental deletion, is now on by default for new storage accounts created after January 31st. "
     publishedDateTime: 2021-02-08T18:02:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-soft-delete-for-azure-file-shares-is-now-on-by-default-for-new-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Media Services introduces new security features"
+    excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
+    publishedDateTime: 2021-03-16T23:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
     type: article
     provider:
       name: Microsoft
@@ -264,6 +264,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "ufXsSLi2FufGQCET3va2JyCZAbhWwkhZGn+7cnW+R7yFwiTtyKg5fJSrLgeR3JzQuvxRHR+RH3diVQ9yryZ4Slq8GSdtEwhcRDBPpf6cZL6fqTAk55KE7h6IKqjNQrBSPquVe0upZ42k+FzU//3mnHypSjDJWYTykcprNNEjQaag49gXQ6lp1umQMVb6YC4SssDRXlwoiGFjyjiC88RbK7fDs29XVWc70acJDoJ4zeR6H1fnW0Ca/I2H6ckEikX7TCD2OM1HsON6wdzS7a1lT6CG5TvoQ+JHOtnUbmXauGuqwqKGcXWr7uRicLE3BSz1bIV3ElQPLa/aJGmZIZjqV0WbpzkZbRmp9jozjBSLQtM=;IZ4SQvo3OtA+4+GI8rsN8w=="
+secured: "wYAQRJ/UnfaCk0dO+TkkYeu/qtdtlA4ByVT8SXdCIDrjZ7RCQ0SPfEgSWbjxExILHuWD3cljmUEmCUcQY+AArJQs4SnaPf9Yht4VPbQx3ADr5IZFX+wnOXwGNeDe5QpFl2ze+VcO7wlMH7mldlxc+/TWaDn6ocwUDDeUlYP4e2Z0LdBh/xKT3wizKKSeMlj/m3NywDJY+rSfffbvtGlDpeS9l/1rZAbYHKnwBxw7Thiau2dKmu3VcZPHoTu7WldpTrvtLs8PL+rxupjIHn3N4I5O5dT24fdcOEQyyx7dPzlE6uqRvuxg6zA669a0EpjS+aM83z43YdXtOPjF267eXTqE0F5vWl/D3nd4fAIojJ4=;jjXVa+h8G5xSNYIMaPMaxA=="
 ---
 

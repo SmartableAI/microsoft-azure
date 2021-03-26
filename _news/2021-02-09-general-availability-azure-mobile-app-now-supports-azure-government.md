@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 584
+heat: 604
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
     excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
     publishedDateTime: 2021-03-10T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-functions-supports-net-5-in-production/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Stream Analytics runs on Azure Stack Hub "
+    excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
+    publishedDateTime: 2021-03-26T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
     type: article
     provider:
       name: Microsoft

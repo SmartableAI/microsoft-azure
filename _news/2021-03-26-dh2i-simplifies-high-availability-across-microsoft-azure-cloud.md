@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Guide to Microsoft Azure Cloud Storage"
-excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
-publishedDateTime: 2021-01-28T21:24:00Z
-originalUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
-cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
+excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
+publishedDateTime: 2021-03-26T16:39:00Z
+originalUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
+webUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Enterprise Storage Forum
-  domain: enterprisestorageforum.com
+  name: IT Business Edge
+  domain: itbusinessedge.com
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/SQL.jpeg"
+    width: 1500
+    height: 1000
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -549,6 +552,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Guide to Microsoft Azure Cloud Storage"
+    excerpt: "Microsoft's Azure cloud storage provides a robust set of storage options, a menu of offerings that can be overwhelming to the uninitiated at first glance. Storage on Azure isn't a single service or even just a single type of account. Rather, what Microsoft ..."
+    publishedDateTime: 2021-01-28T21:24:00Z
+    webUrl: "https://www.enterprisestorageforum.com/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    ampWebUrl: "https://www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    cdnAmpWebUrl: "https://www-enterprisestorageforum-com.cdn.ampproject.org/c/s/www.enterprisestorageforum.com/amp/cloud-storage/guide-to-microsoft-azure-cloud-storage.html"
+    type: article
+    provider:
+      name: Enterprise Storage Forum
+      domain: enterprisestorageforum.com
+    quality: 54
   - title: "Pure Storage Brings Industry Leading Block Storage to Microsoft Azure"
     excerpt: "Today Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as-a-service in a multicloud world announced the general availability of Pure Cloud Block Store on Microsoft Azure Marketplace. With a common dataplane across multicloud environments,"
     publishedDateTime: 2021-03-16T14:07:00Z
@@ -1266,20 +1280,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "DH2i Simplifies High Availability Across Microsoft Azure Cloud"
-    excerpt: "DxEnterprise’s DH2i makes it simpler for IT teams to achieve high availability of Microsoft SQL Server databases."
-    publishedDateTime: 2021-03-26T16:39:00Z
-    webUrl: "https://www.itbusinessedge.com/cloud/dh2i-simplifies-high-availability-across-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 37
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/03/SQL.jpeg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1842,6 +1842,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Pk04JU3BPod6iLIKQtQD83OcRGoeW6FCeUsE/wDOrCmyjQwgYK0LpK9WFy7LayGbnjPG72VbyKbBwPLghnucTQ9sDz5n64yRnMjatZ8yBlYY6+Oo2MwQY21I40lUWrs90D5nMzGZZeTdOhd2koFKnqcosLKvEvuvVBcQtSx5ilZGYE0oO4BsZhNw3lU6gvXCynMb/W+M/nKBIW4XJoEzYcvBR6PTjQ50kg6dbu8c+j4/uYEuv1KUq+go/8rYIYxkEPaxLBqvzK7tmZwUkGdRIRqTc0c8wQ5H7zyqJlyOyRiZPnjtmqN6dP3Z0jpgIbBsP9V9xbM3r0O8jGHMBnOp0w+D0qSE8pn4G4fJRUO/H2A=;HOaE4YOwCH2e8AsQyOhGjg=="
+secured: "5L7OijTC0P4W1U0KfVW0+d+tASGwPoIv7ekTycdQOAo0BzGVHsHBbqoXMgUdtGVdw09g1t254axec2j2WP0QbculCvq36Rc7qmBOuJYoYFZUBKFxvwLdoavi9H6d4dhmgqPM6ppRX0J9OV3NKrxZ7HHqVe94BvunqjLr5p2iJhzcDd2Ujd+T7sJUeMDavGD74Bs4PfnKtrDkW8OjTpRrZ2iJ1UBn0Vtkot5QhqeWPGXzOER9pSl6WUbG5BiOhqozwVmYmopp/76BuSRCJ7Fggp7/u8rVfGkBhCuEEFYdjmCkO9UCRfD0gHgjWItODQxejCe5bkN/dqYWY2Vcx5DxT6mmpU1BJOxj3Nfp8EvouNE=;htfmyXoxdES5vDUJ6F+yIQ=="
 ---
 
