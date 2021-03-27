@@ -4,12 +4,16 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy.md",
-      "title": "Plan and implement an identity governance strategy",
-      "excerpt": "Plan and implement an identity governance strategy",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy/",
-      "length": "PT3H9M",
+      "path": "_learning/courses/microsoft-learn-manage-device-identity-ad-join.md",
+      "title": "Manage device identity with Azure AD join and Enterprise State Roaming",
+      "excerpt": "Learn how to manage device identity by using Azure AD join and Enterprise State Roaming.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-device-identity-ad-join/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 2073,
+        "average": 4.670526
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -25,192 +29,17 @@
       "levels": [
         "Intermediate"
       ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-entitlement-management.md",
-          "title": "Plan and implement entitlement management",
-          "excerpt": "Plan and implement entitlement management",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-entitlement-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 93,
-            "average": 4.795699
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
-          "title": "Plan, implement, and manage access review",
-          "excerpt": "Plan, implement, and manage access review",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 92,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-privileged-access.md",
-          "title": "Plan and implement privileged access",
-          "excerpt": "Plan and implement privileged access",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-privileged-access/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 88,
-            "average": 4.784091
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
-          "title": "Monitor and maintain Azure Active Directory",
-          "excerpt": "Monitor and maintain Azure Active Directory",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-maintain-azure-active-directory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 131,
-            "average": 4.816794
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 66,
+      "heat": 67,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/manage-device-identity-ad-join-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
@@ -218,12 +47,16 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-sc-300-part-4-plan-and-implement-an-identity-governance-strategy.md",
-      "title": "SC-300 part 4: Plan and implement an identity governance strategy",
-      "excerpt": "SC-300 part 4: Plan and implement an identity governance strategy",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-300-part-4-plan-and-implement-an-identity-governance-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-300-part-4-plan-and-implement-an-identity-governance-strategy/",
-      "length": "PT3H9M",
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 12007,
+        "average": 4.763721
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -237,194 +70,11 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-entitlement-management.md",
-          "title": "Plan and implement entitlement management",
-          "excerpt": "Plan and implement entitlement management",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-entitlement-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 93,
-            "average": 4.795699
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
-          "title": "Plan, implement, and manage access review",
-          "excerpt": "Plan, implement, and manage access review",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 92,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-privileged-access.md",
-          "title": "Plan and implement privileged access",
-          "excerpt": "Plan and implement privileged access",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-privileged-access/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 88,
-            "average": 4.784091
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
-          "title": "Monitor and maintain Azure Active Directory",
-          "excerpt": "Monitor and maintain Azure Active Directory",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-maintain-azure-active-directory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 131,
-            "average": 4.816794
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 67,
       "content": "\r\n",
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
@@ -710,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 1964,
-        "average": 4.8319755
+        "count": 1965,
+        "average": 4.8320613
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1415,49 +1065,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-implement-manage-hybrid-identity.md",
-      "title": "Implement and manage hybrid identity",
-      "excerpt": "Implement and manage hybrid identity",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-manage-hybrid-identity/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 295,
-        "average": 4.786441
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-implement-a-windows-server-hybrid-cloud-infrastructure.md",
       "title": "Implement a Windows Server hybrid cloud infrastructure",
       "excerpt": "You will learn how to address problems relating to the migration of on-premises workloads into Azure. After completing the learning path, you will be able to implement a hybrid Azure infrastructure.",
@@ -1906,6 +1513,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-implement-manage-hybrid-identity.md",
+      "title": "Implement and manage hybrid identity",
+      "excerpt": "Implement and manage hybrid identity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-manage-hybrid-identity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-manage-hybrid-identity/",
+      "length": "PT59M",
+      "ratings": {
+        "count": 296,
+        "average": 4.7871623
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-security.md",
       "title": "Microsoft Azure Well-Architected Framework - Security",
       "excerpt": "Discover the tools that Azure provides to help you design a secure environment throughout your infrastructure, data, network, and applications.",
@@ -1957,8 +1607,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
       "length": "PT32M",
       "ratings": {
-        "count": 288,
-        "average": 4.8020835
+        "count": 289,
+        "average": 4.799308
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2043,8 +1693,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
       "length": "PT53M",
       "ratings": {
-        "count": 442,
-        "average": 4.776018
+        "count": 443,
+        "average": 4.7765236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2086,8 +1736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
       "length": "PT27M",
       "ratings": {
-        "count": 2631,
-        "average": 4.6940327
+        "count": 2632,
+        "average": 4.694149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2641,6 +2291,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
+      "title": "Plan, implement, and manage access review",
+      "excerpt": "Plan, implement, and manage access review",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 92,
+        "average": 4.75
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
       "title": "Manage user authentication",
       "excerpt": "Manage user authentication",
@@ -3072,49 +2765,6 @@
         "Azure",
         "Identity",
         "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
-      "title": "Plan, implement, and administer conditional access",
-      "excerpt": "Plan, implement, and administer conditional access",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 139,
-        "average": 4.8201437
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

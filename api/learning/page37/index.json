@@ -4,48 +4,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
-      "title": "Introduction to Java on Azure",
-      "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 65,
-        "average": 4.723077
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
       "title": "Introduction to migrating ASP.NET apps to Azure",
       "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
@@ -889,6 +847,50 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-load-test-web-app-azure-devops.md",
+      "title": "Load test Azure web apps by using Azure DevOps",
+      "excerpt": "Discover Azure portal and Azure DevOps tools that help you quickly and efficiently define and scale up load tests for apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-test-web-app-azure-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-test-web-app-azure-devops/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 145,
+        "average": 4.62069
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-test-web-app-azure-devops-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-logic-apps-and-arm-templates.md",
       "title": "Create and deploy Logic Apps using Azure Resource Manager templates",
       "excerpt": "Define a Logic Apps workflow declaratively as a Resource Manager template and deploy the app using the Azure Command Line Interface (CLI).",
@@ -1032,8 +1034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-azure-migrate-introduction/",
       "length": "PT19M",
       "ratings": {
-        "count": 109,
-        "average": 4.6788993
+        "count": 110,
+        "average": 4.672727
       },
       "provider": {
         "name": "Microsoft Learn",

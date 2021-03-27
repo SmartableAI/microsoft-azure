@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 42000,
-            "average": 4.7843094
+            "count": 42010,
+            "average": 4.784337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9302,
-            "average": 4.7205977
+            "count": 9304,
+            "average": 4.720658
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8146,
-            "average": 4.7586546
+            "count": 8149,
+            "average": 4.7586207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6481,
-            "average": 4.758062
+            "count": 6486,
+            "average": 4.757786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,18 +229,16 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-load-test-web-app-azure-devops.md",
-      "title": "Load test Azure web apps by using Azure DevOps",
-      "excerpt": "Discover Azure portal and Azure DevOps tools that help you quickly and efficiently define and scale up load tests for apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-load-test-web-app-azure-devops/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/load-test-web-app-azure-devops/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 145,
-        "average": 4.62069
-      },
+      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
+      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
+      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -251,24 +249,22 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2021-02-05T17:09:42-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/load-test-web-app-azure-devops-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
+        "Compute",
         "Web"
       ]
     },
@@ -303,8 +299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 7376,
-            "average": 4.6439805
+            "count": 7381,
+            "average": 4.6440864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3021,
-            "average": 4.784508
+            "count": 3022,
+            "average": 4.784249
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 4716,
-            "average": 4.7442746
+            "count": 4719,
+            "average": 4.744437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8258,
-            "average": 4.661177
+            "count": 8260,
+            "average": 4.661259
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 8146,
-        "average": 4.7586546
+        "count": 8149,
+        "average": 4.7586207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -599,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4827,
-            "average": 4.7037497
+            "count": 4829,
+            "average": 4.703872
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1030,8 +1026,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2631,
-            "average": 4.6940327
+            "count": 2632,
+            "average": 4.694149
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1073,8 +1069,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4711,
-            "average": 4.7308426
+            "count": 4712,
+            "average": 4.7309
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1249,8 +1245,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6186,
-            "average": 4.765923
+            "count": 6187,
+            "average": 4.7659607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1510,8 +1506,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41375,
-            "average": 4.717438
+            "count": 41376,
+            "average": 4.717445
           },
           "provider": {
             "name": "Microsoft Learn",
