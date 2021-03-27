@@ -4,204 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
-      "title": "Introduction to Kubernetes on Azure",
-      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
-      "length": "PT3H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Introduction to Docker containers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 4352,
-            "average": 4.6546416
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 63,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-          "title": "Introduction to Kubernetes",
-          "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 816,
-            "average": 4.622549
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-          "title": "Introduction to Azure Kubernetes Service",
-          "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 4150,
-            "average": 4.6236143
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 174,
-            "average": 4.7988505
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -233,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6219,
-            "average": 4.7653966
+            "count": 6228,
+            "average": 4.765575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,8 +253,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2250,
-            "average": 4.724889
+            "count": 2253,
+            "average": 4.7248116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,8 +297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
           "length": "PT48M",
           "ratings": {
-            "count": 141,
-            "average": 4.8014183
+            "count": 144,
+            "average": 4.8055553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -538,8 +340,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
           "length": "PT60M",
           "ratings": {
-            "count": 143,
-            "average": 4.818182
+            "count": 146,
+            "average": 4.821918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -581,8 +383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 223,
-            "average": 4.8251123
+            "count": 227,
+            "average": 4.8281937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -666,8 +468,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3170,
-            "average": 4.617035
+            "count": 3171,
+            "average": 4.6171556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -700,8 +502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6483,
-            "average": 4.7135587
+            "count": 6484,
+            "average": 4.7136025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +897,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41385,
-            "average": 4.7174096
+            "count": 41387,
+            "average": 4.7174234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1261,8 +1063,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
           "length": "PT28M",
           "ratings": {
-            "count": 5286,
-            "average": 4.698638
+            "count": 5287,
+            "average": 4.698506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1665,8 +1467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
           "length": "PT49M",
           "ratings": {
-            "count": 96,
-            "average": 4.8020835
+            "count": 98,
+            "average": 4.8061223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1708,8 +1510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
           "length": "PT44M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 96,
+            "average": 4.7604165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1751,8 +1553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
           "length": "PT59M",
           "ratings": {
-            "count": 91,
-            "average": 4.7912087
+            "count": 93,
+            "average": 4.795699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1794,8 +1596,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
           "length": "PT37M",
           "ratings": {
-            "count": 134,
-            "average": 4.8208957
+            "count": 137,
+            "average": 4.817518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1879,8 +1681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transcribe-speech-input-text/",
           "length": "PT27M",
           "ratings": {
-            "count": 491,
-            "average": 4.7148676
+            "count": 492,
+            "average": 4.715447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1965,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
           "length": "PT18M",
           "ratings": {
-            "count": 484,
-            "average": 4.6859503
+            "count": 485,
+            "average": 4.686598
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2050,8 +1852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
           "length": "PT49M",
           "ratings": {
-            "count": 96,
-            "average": 4.8020835
+            "count": 98,
+            "average": 4.8061223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2093,8 +1895,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
           "length": "PT44M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 96,
+            "average": 4.7604165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2136,8 +1938,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
           "length": "PT59M",
           "ratings": {
-            "count": 91,
-            "average": 4.7912087
+            "count": 93,
+            "average": 4.795699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2179,8 +1981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
           "length": "PT37M",
           "ratings": {
-            "count": 134,
-            "average": 4.8208957
+            "count": 137,
+            "average": 4.817518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3520,8 +3322,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3757,
-            "average": 4.600479
+            "count": 3758,
+            "average": 4.6005855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4329,8 +4131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4544,8 +4346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4759,8 +4561,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4974,8 +4776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5189,8 +4991,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5404,8 +5206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2743,
-            "average": 4.7057967
+            "count": 2744,
+            "average": 4.705539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5618,8 +5420,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1450,
-            "average": 4.6793103
+            "count": 1452,
+            "average": 4.678375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6046,8 +5848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
           "length": "PT1H20M",
           "ratings": {
-            "count": 5226,
-            "average": 4.7456946
+            "count": 5227,
+            "average": 4.745552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6226,6 +6028,221 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline.md",
+      "title": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/",
+      "length": "PT5H11M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
+          "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-data-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 287,
+            "average": 4.6655054
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
+          "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 166,
+            "average": 4.572289
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
+          "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 115,
+            "average": 4.443478
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory.md",
+          "title": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/orchestrate-data-movement-transformation-azure-data-factory/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 66,
+            "average": 4.5151515
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/orchestrate-data-movement-transformation-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Integration"
       ]
     }
   ],

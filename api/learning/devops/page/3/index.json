@@ -4,15 +4,15 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines.md",
-      "title": "Deploy ASP.NET web apps with Azure Pipelines",
-      "excerpt": "Azure Pipelines help automate building, deploying, and maintaining your applications. While they support a wide range of platforms and programming languages, in this module you’ll focus on using them to implement ASP.NET apps on Azure App Service Web Apps with Azure SQL Database as their data store.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-aspnet-apps-azure-app-service-pipelines/",
-      "length": "PT1H5M",
+      "path": "_learning/courses/microsoft-learn-create-release-pipeline.md",
+      "title": "Create a release pipeline in Azure Pipelines",
+      "excerpt": "Set up a continuous delivery (CD) pipeline that automates the process of deploying your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-release-pipeline/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/",
+      "length": "PT1H4M",
       "ratings": {
-        "count": 7,
-        "average": 4.714286
+        "count": 1181,
+        "average": 4.699407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-release-pipeline-with-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -43,8 +43,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "DevOps",
-        "Web"
+        "DevOps"
       ]
     },
     {
