@@ -4,51 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func.md",
-      "title": "Connecting IoT devices to Cognitive Services using Azure Functions",
-      "excerpt": "University of Oxford",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-cognitive-service-iot-edge-azure-func/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connecting-iot-devices-cognitive-services-azure-functions/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 78,
-        "average": 4.551282
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/student-evangelism/connecting-iot-devices-to-cognitive-services-using-azure-functions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Serverless",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-prebuilt-module-edge-device.md",
       "title": "Deploy a pre-built module to the Edge device",
       "excerpt": "University of Oxford",
@@ -99,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4603,
-        "average": 4.6348033
+        "count": 4605,
+        "average": 4.634962
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -693,8 +648,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/release-based-workflow-github/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 211,
-        "average": 4.772512
+        "count": 213,
+        "average": 4.7699533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,8 +778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/",
       "length": "PT51M",
       "ratings": {
-        "count": 118,
-        "average": 4.7881355
+        "count": 120,
+        "average": 4.775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1334,8 +1289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
           "length": "PT54M",
           "ratings": {
-            "count": 1822,
-            "average": 4.668496
+            "count": 1823,
+            "average": 4.668678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1548,8 +1503,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1602,6 +1557,135 @@
         "Management Tools",
         "Storage",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity.md",
+      "title": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
+      "excerpt": "SC-900 part 1: Describe the concepts of security, compliance, and identity",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-900-part-1-describe-the-concepts-of-security-compliance-and-identity/",
+      "length": "PT36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-security-concepts-methodologies.md",
+          "title": "Describe security concepts and methodologies",
+          "excerpt": "Describe security concepts and methodologies",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-security-concepts-methodologies/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 267,
+            "average": 4.7940073
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles.md",
+          "title": "Describe Microsoft security and compliance principles",
+          "excerpt": "Describe Microsoft security and compliance principles",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-microsoft-security-compliance-principles/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 288,
+            "average": 4.767361
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-microsoft-security-and-compliance-principles-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-security-concepts-and-methodologies-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security",
+        "Identity"
       ]
     }
   ],

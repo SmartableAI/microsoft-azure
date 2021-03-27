@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions.md",
-      "title": "Create a long-running serverless workflow with Durable Functions",
-      "excerpt": "Learn how to orchestrate a long-running workflow as a set of activities using scalable and cost-effective Durable Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-create-long-running-serverless-workflow-with-durable-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-long-running-serverless-workflow-with-durable-functions/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 3243,
-        "average": 4.4946036
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-create-long-running-serverless-workflow-with-durable-functions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-capture-application-logs-app-service.md",
       "title": "Capture Web Application Logs with App Service Diagnostics Logging",
       "excerpt": "Learn about how to capture trace output from your Azure web apps. View a live log stream and download logs files for offline analysis.",
@@ -55,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2113,
-        "average": 4.687648
+        "count": 2114,
+        "average": 4.6877956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/",
       "length": "PT36M",
       "ratings": {
-        "count": 2684,
-        "average": 4.676602
+        "count": 2686,
+        "average": 4.6768427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -393,8 +349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/",
       "length": "PT57M",
       "ratings": {
-        "count": 6251,
-        "average": 4.7222843
+        "count": 6252,
+        "average": 4.7223287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -482,8 +438,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4603,
-        "average": 4.6348033
+        "count": 4605,
+        "average": 4.634962
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -725,8 +681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -910,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/",
       "length": "PT42M",
       "ratings": {
-        "count": 2323,
-        "average": 4.7085667
+        "count": 2324,
+        "average": 4.708692
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -993,8 +949,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2943,
-        "average": 4.5715256
+        "count": 2945,
+        "average": 4.5718164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1122,8 +1078,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 829,
-        "average": 4.7237635
+        "count": 830,
+        "average": 4.7240963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1171,8 +1127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/",
       "length": "PT35M",
       "ratings": {
-        "count": 3197,
-        "average": 4.5189238
+        "count": 3199,
+        "average": 4.5192246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,8 +1246,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
       "length": "PT46M",
       "ratings": {
-        "count": 1788,
-        "average": 4.59396
+        "count": 1789,
+        "average": 4.593628
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1444,6 +1400,46 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
+      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
+      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-05T17:09:42-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     },
     {

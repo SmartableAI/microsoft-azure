@@ -4,50 +4,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas.md",
-      "title": "Implement hybrid backup and recovery with Windows Server IaaS",
-      "excerpt": "You'll learn about Azure Backup before learning to implement Recovery Vaults and Azure Backup Policies. You’ll learn to implement Windows IaaS VM recovery, perform backup and restore of on-premises workloads, and manage Azure VM backups.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-hybrid-backup-recovery-with-windows-server-iaas/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-backup-recovery-windows-server-iaas/",
-      "length": "PT1H1M",
-      "ratings": {
-        "count": 30,
-        "average": 4.5333333
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/implement-hybrid-backup-and-recovery-with-windows-server-iaas-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Compute"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-implement-hybrid-file-server-infrastructure.md",
       "title": "Implement a hybrid file server infrastructure",
       "excerpt": "In this module, you’ll learn to deploy Azure File Sync, migrate from DFS, and use Storage Migration Services to migrate file servers to Azure.",
@@ -1253,6 +1209,48 @@
       "ratings": {
         "count": 65,
         "average": 4.723077
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure.md",
+      "title": "Introduction to migrating ASP.NET apps to Azure",
+      "excerpt": "Migrating an ASP.NET application from on-premises to Azure, along with a supporting Azure SQL database, can provide many advantages, but also challenges. Learn how to evaluate the migration process to determine if it’s right for your application.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-migrating-aspnet-apps-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-migrating-aspnet-apps-azure/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 15,
+        "average": 4.9333334
       },
       "provider": {
         "name": "Microsoft Learn",

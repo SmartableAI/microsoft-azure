@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 42010,
-            "average": 4.784337
+            "count": 42029,
+            "average": 4.784387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9304,
-            "average": 4.720658
+            "count": 9305,
+            "average": 4.720688
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8149,
-            "average": 4.7586207
+            "count": 8152,
+            "average": 4.7587094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6486,
-            "average": 4.757786
+            "count": 6490,
+            "average": 4.757935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -229,6 +229,52 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
+      "title": "Protect your virtual machines by using Azure Backup",
+      "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 4812,
+        "average": 4.7427263
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 139,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools",
+        "Storage",
+        "Management tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -236,8 +282,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 9304,
-        "average": 4.720658
+        "count": 9305,
+        "average": 4.720688
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -481,8 +527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6187,
-            "average": 4.7659607
+            "count": 6191,
+            "average": 4.7659507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -602,8 +648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -667,8 +713,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 6486,
-        "average": 4.757786
+        "count": 6490,
+        "average": 4.757935
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -703,6 +749,230 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
+      "title": "Architect migration, business continuity, and disaster recovery in Azure",
+      "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure/",
+      "length": "PT6H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+          "title": "Design your migration to Azure",
+          "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 4830,
+            "average": 4.7039337
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 83,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Migration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
+          "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
+          "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 1081,
+            "average": 4.615171
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
+          "title": "Protect your Azure infrastructure with Azure Site Recovery",
+          "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
+          "length": "PT59M",
+          "ratings": {
+            "count": 1230,
+            "average": 4.5601625
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Migration",
+            "Management Tools"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
+          "title": "Protect your virtual machines by using Azure Backup",
+          "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 4812,
+            "average": 4.7427263
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 139,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Management Tools",
+            "Storage",
+            "Management tools"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 99,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Management Tools",
+        "Storage",
+        "Migration",
+        "Web",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-az-104-implement-and-manage-storage-in-azure.md",
       "title": "AZ-104: Implement and manage storage in Azure",
       "excerpt": "Learn how to manage storage in Azure and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -733,8 +1003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 7975,
-            "average": 4.771536
+            "count": 7976,
+            "average": 4.7715645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -769,8 +1039,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 2871,
-            "average": 4.723093
+            "count": 2872,
+            "average": 4.7231894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +1083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 970,
-            "average": 4.802062
+            "count": 972,
+            "average": 4.8014402
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -856,8 +1126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -943,8 +1213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 7975,
-            "average": 4.771536
+            "count": 7976,
+            "average": 4.7715645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -979,8 +1249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
           "length": "PT24M",
           "ratings": {
-            "count": 2871,
-            "average": 4.723093
+            "count": 2872,
+            "average": 4.7231894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1023,8 +1293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
           "length": "PT46M",
           "ratings": {
-            "count": 970,
-            "average": 4.802062
+            "count": 972,
+            "average": 4.8014402
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1066,8 +1336,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1189,8 +1459,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 7975,
-            "average": 4.771536
+            "count": 7976,
+            "average": 4.7715645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1261,8 +1531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9493,
-            "average": 4.663963
+            "count": 9495,
+            "average": 4.664034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1347,8 +1617,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4504,
-            "average": 4.7364564
+            "count": 4505,
+            "average": 4.736515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1390,8 +1660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17932,
-            "average": 4.697803
+            "count": 17933,
+            "average": 4.6978197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1542,8 +1812,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4504,
-            "average": 4.7364564
+            "count": 4505,
+            "average": 4.736515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1585,8 +1855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17932,
-            "average": 4.697803
+            "count": 17933,
+            "average": 4.6978197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1773,8 +2043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
           "length": "PT30M",
           "ratings": {
-            "count": 7975,
-            "average": 4.771536
+            "count": 7976,
+            "average": 4.7715645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1908,8 +2178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 9493,
-        "average": 4.663963
+        "count": 9495,
+        "average": 4.664034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1951,8 +2221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 7975,
-        "average": 4.771536
+        "count": 7976,
+        "average": 4.7715645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2010,8 +2280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17932,
-            "average": 4.697803
+            "count": 17933,
+            "average": 4.6978197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2045,8 +2315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9418,
-            "average": 4.6988745
+            "count": 9419,
+            "average": 4.6989064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2081,8 +2351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14938,
-            "average": 4.7188377
+            "count": 14941,
+            "average": 4.7188945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2124,8 +2394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6737,
-            "average": 4.7081785
+            "count": 6738,
+            "average": 4.708222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2182,8 +2452,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 2871,
-        "average": 4.723093
+        "count": 2872,
+        "average": 4.7231894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2262,8 +2532,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/",
       "length": "PT46M",
       "ratings": {
-        "count": 970,
-        "average": 4.802062
+        "count": 972,
+        "average": 4.8014402
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2506,8 +2776,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 2231,
-        "average": 4.6355896
+        "count": 2232,
+        "average": 4.6357527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2549,8 +2819,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/",
       "length": "PT24M",
       "ratings": {
-        "count": 1339,
-        "average": 4.7707243
+        "count": 1340,
+        "average": 4.770149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2672,8 +2942,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-data-with-azure-data-box/",
       "length": "PT25M",
       "ratings": {
-        "count": 1240,
-        "average": 4.7346773
+        "count": 1242,
+        "average": 4.7342997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2709,230 +2979,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
-      "title": "Architect migration, business continuity, and disaster recovery in Azure",
-      "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure/",
-      "length": "PT6H36M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
-          "title": "Design your migration to Azure",
-          "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 4829,
-            "average": 4.703872
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 83,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery.md",
-          "title": "Protect your on-premises infrastructure from disasters with Azure Site Recovery",
-          "excerpt": "Provide disaster recovery for your on-premises infrastructure by managing and orchestrating replication, failover, and failback of VMware virtual machines, Hyper-V virtual machines, and physical servers with Azure Site Recovery.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-on-premises-infrastructure-with-azure-site-recovery/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 1081,
-            "average": 4.615171
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-on-premises-infrastructure-with-azure-site-recovery-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery.md",
-          "title": "Protect your Azure infrastructure with Azure Site Recovery",
-          "excerpt": "Provide disaster recovery for your Azure infrastructure by managing and orchestrating replication, failover, and failback of Azure virtual machines with Azure Site Recovery.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-infrastructure-with-azure-site-recovery/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 1230,
-            "average": 4.5601625
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-infrastructure-with-azure-site-recovery-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Migration",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup.md",
-          "title": "Protect your virtual machines by using Azure Backup",
-          "excerpt": "Use Azure Backup to help protect the data for on-premises servers, virtual machines, virtualized workloads, SQL Server, Azure Files, and more.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-virtual-machines-with-azure-backup/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
-          "length": "PT35M",
-          "ratings": {
-            "count": 4812,
-            "average": 4.7427263
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protect-virtual-machines-with-azure-backup-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Management Tools",
-            "Storage",
-            "Management tools"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools",
-        "Storage",
-        "Migration",
-        "Web",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-az-104-monitor-and-back-up-azure-resources.md",
       "title": "AZ-104: Monitor and back up Azure resources",
       "excerpt": "Learn how to monitor and back up Azure resources and prepare for Exam AZ-104: Microsoft Azure Administrator.",
@@ -2963,8 +3009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2129,
-            "average": 4.6214185
+            "count": 2131,
+            "average": 4.6217737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3097,8 +3143,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 214,
-            "average": 4.771028
+            "count": 215,
+            "average": 4.772093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3187,8 +3233,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2129,
-            "average": 4.6214185
+            "count": 2131,
+            "average": 4.6217737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3321,8 +3367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 214,
-            "average": 4.771028
+            "count": 215,
+            "average": 4.772093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3858,186 +3904,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-connect-your-services-together.md",
-      "title": "Connect your services together",
-      "excerpt": "Use Azure to create website front-ends, back-end services, and triggered functions that compute-on-demand and can also communicate with each other.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-connect-your-services-together/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-connect-your-services-together/",
-      "length": "PT3H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 3756,
-            "average": 4.6009054
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "IoT",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-implement-message-workflows-with-service-bus.md",
-          "title": "Implement message-based communication workflows with Azure Service Bus",
-          "excerpt": "Discover how to write code in .NET applications using Azure Service Bus for communications that can handle high demand, low bandwidth, and hardware failures.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-message-workflows-with-service-bus/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 2563,
-            "average": 4.634413
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
-          "title": "Communicate between applications with Azure Queue storage",
-          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 2099,
-            "average": 4.5912337
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs.md",
-          "title": "Enable reliable messaging for Big Data applications using Azure Event Hubs",
-          "excerpt": "Learn to use Azure Event Hubs to reliably process high-volume data streams to enable you to code applications to send and receive messages through the hub.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 2290,
-            "average": 4.453275
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 63,
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration",
-        "IoT",
-        "Analytics",
         "Storage"
       ]
     }

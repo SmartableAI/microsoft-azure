@@ -4,204 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure.md",
-      "title": "Introduction to Kubernetes on Azure",
-      "excerpt": "Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-introduction-to-kubernetes-on-azure/",
-      "length": "PT3H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-          "title": "Introduction to Docker containers",
-          "excerpt": "Introduction to Docker containers",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 4348,
-            "average": 4.654554
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 63,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-kubernetes.md",
-          "title": "Introduction to Kubernetes",
-          "excerpt": "Get acquainted with the Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-kubernetes/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/",
-          "length": "PT53M",
-          "ratings": {
-            "count": 816,
-            "average": 4.622549
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-kubernetes-service.md",
-          "title": "Introduction to Azure Kubernetes Service",
-          "excerpt": "Get acquainted with the Azure Kubernetes open-source container-orchestration system for automating application deployment, scaling, and management.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-kubernetes-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 4145,
-            "average": 4.6231604
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-kubernetes-service-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-aks-deploy-container-app.md",
-          "title": "Deploy a containerized application on Azure Kubernetes Service",
-          "excerpt": "Explore how to create and deploy a containerized application by using Azure Kubernetes Service declarative manifest files.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-deploy-container-app/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-deploy-container-app/",
-          "length": "PT1H4M",
-          "ratings": {
-            "count": 174,
-            "average": 4.7988505
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Containers"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-kubernetes-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
       "title": "Manage security operations in Azure",
       "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
@@ -233,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6187,
-            "average": 4.7659607
+            "count": 6191,
+            "average": 4.7659507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -276,8 +78,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2880,
-            "average": 4.659375
+            "count": 2881,
+            "average": 4.6594934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -362,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1361,
-            "average": 4.5900073
+            "count": 1362,
+            "average": 4.5895743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -622,8 +424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2242,
-            "average": 4.7243533
+            "count": 2243,
+            "average": 4.7244763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -915,8 +717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2113,
-            "average": 4.687648
+            "count": 2114,
+            "average": 4.6877956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1045,8 +847,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2113,
-            "average": 4.687648
+            "count": 2114,
+            "average": 4.6877956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1289,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6017,
-            "average": 4.622071
+            "count": 6019,
+            "average": 4.622196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2122,8 +1924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6017,
-            "average": 4.622071
+            "count": 6019,
+            "average": 4.622196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2533,8 +2335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3166,
-            "average": 4.616551
+            "count": 3168,
+            "average": 4.616793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2602,8 +2404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6478,
-            "average": 4.7133374
+            "count": 6480,
+            "average": 4.713426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2672,8 +2474,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3166,
-            "average": 4.616551
+            "count": 3168,
+            "average": 4.616793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2706,8 +2508,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6478,
-            "average": 4.7133374
+            "count": 6480,
+            "average": 4.713426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2777,8 +2579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6017,
-            "average": 4.622071
+            "count": 6019,
+            "average": 4.622196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3248,8 +3050,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1019,
-            "average": 4.747792
+            "count": 1022,
+            "average": 4.747554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3290,8 +3092,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
           "length": "PT36M",
           "ratings": {
-            "count": 209,
-            "average": 4.69378
+            "count": 212,
+            "average": 4.693396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3332,8 +3134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
           "length": "PT55M",
           "ratings": {
-            "count": 251,
-            "average": 4.7011952
+            "count": 252,
+            "average": 4.698413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3375,8 +3177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
           "length": "PT54M",
           "ratings": {
-            "count": 216,
-            "average": 4.7175927
+            "count": 218,
+            "average": 4.715596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3458,8 +3260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1019,
-            "average": 4.747792
+            "count": 1022,
+            "average": 4.747554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3500,8 +3302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 312,
-            "average": 4.7532053
+            "count": 313,
+            "average": 4.7507987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3542,8 +3344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 308,
-            "average": 4.746753
+            "count": 309,
+            "average": 4.7443366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3584,8 +3386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 261,
-            "average": 4.743295
+            "count": 262,
+            "average": 4.740458
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3740,8 +3542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2099,
-            "average": 4.5912337
+            "count": 2100,
+            "average": 4.5914288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4480,8 +4282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4695,8 +4497,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4910,8 +4712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5125,8 +4927,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5340,8 +5142,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5555,8 +5357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 2739,
-            "average": 4.705732
+            "count": 2740,
+            "average": 4.7058396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -6172,6 +5974,219 @@
         "Compute",
         "Management Tools",
         "Integration"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-build-applications-with-azure-devops.md",
+      "title": "Build applications with Azure DevOps",
+      "excerpt": "In this learning path, find out how to collaborate with others to continuously build, test, and verify your applications using Azure Pipelines and GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-build-applications-with-azure-devops/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-build-applications-with-azure-devops/",
+      "length": "PT6H45M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-a-build-pipeline.md",
+          "title": "Create a build pipeline with Azure Pipelines",
+          "excerpt": "Set up a continuous integration (CI) pipeline that automates the process of building your application.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-a-build-pipeline/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/",
+          "length": "PT1H20M",
+          "ratings": {
+            "count": 5226,
+            "average": 4.7456946
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps",
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-code-workflow.md",
+          "title": "Implement a code workflow in your build pipeline by using Git and GitHub",
+          "excerpt": "Learn along with the Space Game web team the benefits of collaboration through Visual Studio Code and GitHub.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-code-workflow/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/",
+          "length": "PT1H27M",
+          "ratings": {
+            "count": 3794,
+            "average": 4.7664733
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/implement-a-code-workflow-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-run-quality-tests-build-pipeline.md",
+          "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+          "excerpt": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-quality-tests-build-pipeline/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/",
+          "length": "PT1H22M",
+          "ratings": {
+            "count": 3274,
+            "average": 4.7336593
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/run-quality-tests-when-your-application-builds-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps",
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-scan-open-source.md",
+          "title": "Scan open source components for vulnerabilities and license ratings in Azure Pipelines",
+          "excerpt": "Scan open-source components for security vulnerabilities and assess their license ratings when your application builds in Azure Pipelines.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-scan-open-source/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scan-open-source/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 1971,
+            "average": 4.7189245
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-security-and-compliance-in-your-build-pipeline-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "DevOps",
+            "Azure"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/create-a-build-pipeline-azure-pipelines-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps"
       ]
     }
   ],

@@ -4,200 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service.md",
-      "title": "Deploy a website to Azure with Azure App Service",
-      "excerpt": "In this learning path, get acquainted with using Azure App Service to create and deploy your website without underlying servers, storage or network assets.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-deploy-a-website-to-azure-with-azure-app-service/",
-      "length": "PT4H30M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-prepare-azure-dev-environment.md",
-          "title": "Prepare your development environment for Azure development",
-          "excerpt": "Learn how to choose and install the appropriate IDE for your requirements to help you build, deploy, monitor, and scale cloud-hosted solutions.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-azure-dev-environment/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
-          "length": "PT28M",
-          "ratings": {
-            "count": 5286,
-            "average": 4.698638
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Developer Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps.md",
-          "title": "Host a web application with Azure App service",
-          "excerpt": "Create a website in the programming language of your choice through the hosted web app platform in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-a-web-application-with-azure-web-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 6017,
-            "average": 4.622071
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 62,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio.md",
-          "title": "Publish a web app to Azure with Visual Studio",
-          "excerpt": "Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-azure-web-app-with-visual-studio/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-azure-web-app-with-visual-studio/",
-          "length": "PT48M",
-          "ratings": {
-            "count": 3289,
-            "average": 4.676193
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 52,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Developer tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots.md",
-          "title": "Stage a web app deployment for testing and rollback by using App Service deployment slots",
-          "excerpt": "Discover the benefits of creating deployment slots to streamline deployment and roll back a web app in Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-stage-deploy-app-service-deployment-slots/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 2030,
-            "average": 4.535468
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/stage-deploy-app-service-deployment-slots-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Management Tools"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy.md",
       "title": "Plan and implement an identity governance strategy",
       "excerpt": "Plan and implement an identity governance strategy",
@@ -1065,8 +871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6017,
-            "average": 4.622071
+            "count": 6019,
+            "average": 4.622196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1543,8 +1349,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 965,
-        "average": 4.7792745
+        "count": 966,
+        "average": 4.7753625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1664,8 +1470,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 726,
-        "average": 4.789256
+        "count": 727,
+        "average": 4.7881703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1803,8 +1609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3166,
-            "average": 4.616551
+            "count": 3168,
+            "average": 4.616793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1872,8 +1678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6478,
-            "average": 4.7133374
+            "count": 6480,
+            "average": 4.713426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1942,8 +1748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3166,
-            "average": 4.616551
+            "count": 3168,
+            "average": 4.616793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1976,8 +1782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6478,
-            "average": 4.7133374
+            "count": 6480,
+            "average": 4.713426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2047,8 +1853,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6017,
-            "average": 4.622071
+            "count": 6019,
+            "average": 4.622196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2494,8 +2300,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1097,
-        "average": 4.730173
+        "count": 1098,
+        "average": 4.7295084
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2537,8 +2343,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
       "length": "PT51M",
       "ratings": {
-        "count": 14938,
-        "average": 4.7188377
+        "count": 14941,
+        "average": 4.7188945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2821,6 +2627,49 @@
         "Azure",
         "AI",
         "Developer Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad.md",
+      "title": "Secure your application by using OpenID Connect and Azure AD",
+      "excerpt": "In this module, you will learn how to enable users to authenticate in multiple systems by using their Azure AD identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-app-with-oidc-and-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 2182,
+        "average": 4.6498623
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-app-with-oidc-and-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
