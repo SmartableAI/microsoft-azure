@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
 excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
 publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
 type: article
 quality: 29
 heat: -1
@@ -111,6 +111,6 @@ related:
         height: 480
         isCached: true
 
-secured: "sREthEr+MCH/vpXXmm6KLy6u8qy7lkuS0NVCDzyeVsG9ACVRd0Z7xDDl+md5Z3ff96jmH5ELTUwnzZunmJhuQ6A8vlnfmMVwcapl7LFTCeD9NiU2pXFuHgH81PM0Xg/x/fpAecCc0L4uqrxtK2MqjMYrYj5LixnTLXbWSJC4ae3hfVuuZOgbsHSCy1F8ZkikwC0KrLwQL7lYIrnYMDpf3oQRn+l/xrFJX4Xe4oL42F2Uo9e5nWaTVuM2vAziR9Uxj3vk8mbWjgfZKKZf79QlyiBBsC/+WSvfkcuwJebzuj8DMiRveGAv6xN2037HzO0/X8heuSTXYAS8RoAwlff6ojtCXFdc12s7dgoepEa2pL4=;v82pUZSQnSZMb+iYj082Bw=="
+secured: "oTQXrIcF/uHRbOJrbXRiOx4X8fGFVuzN8bd6BYhOCK9JmL2O2FMxoGSWn9J7cZXY8R6OFMz69zOk7P22nPdMW6REMMdYcnbwKc+dIg89zgmouhXA2x/dFGOlVhPHX2LwACBMRdyrJxVsujPWDgS9S1iPElCX9Z6Wf5vFsIqa8giGQQ7GpbR+95fVE2Rs5irn7KcB/elOzNviePN50xTMajqeKB+IqE27PbwlPhBKV8uuoZMElUppzgglI0IsKywvevZNRl0+rDb7BGFkPSxngnxlWGlXvCmnKExkLBlDyThgFGzHpI81xeo9I81ORcEQYcx6+TA8hh7iDs+QpwOEELvkeLKoLF9hxnZuR6Fho7Q=;iWNHUuxjlluIlxSSTJ+UYQ=="
 ---
 
