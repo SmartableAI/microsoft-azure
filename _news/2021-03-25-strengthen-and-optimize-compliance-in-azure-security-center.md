@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/strengthening-compliance-in-azure
 webUrl: "https://azure.microsoft.com/blog/strengthening-compliance-in-azure-security-center/"
 type: article
 quality: 119
-heat: 121
+heat: 119
 published: true
 
 provider:
