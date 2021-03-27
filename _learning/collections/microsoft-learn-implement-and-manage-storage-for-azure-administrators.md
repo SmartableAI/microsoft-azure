@@ -4,7 +4,7 @@ excerpt: "Learn how to manage storage as an Azure administrators."
 type: collection
 price: Free
 length: PT5H56M
-heat: 104
+heat: 98
 
 provider:
   name: Microsoft Learn
