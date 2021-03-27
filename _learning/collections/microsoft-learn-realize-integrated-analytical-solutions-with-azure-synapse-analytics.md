@@ -4,7 +4,7 @@ excerpt: "Realize Integrated Analytical Solutions with Azure Synapse Analytics"
 type: collection
 price: Free
 length: PT3H10M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn

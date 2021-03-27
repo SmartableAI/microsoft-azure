@@ -4,7 +4,7 @@ excerpt: "University of Oxford"
 type: collection
 price: Free
 length: PT12H54M
-heat: 68
+heat: 66
 
 provider:
   name: Microsoft Learn

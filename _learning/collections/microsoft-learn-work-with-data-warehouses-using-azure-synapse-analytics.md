@@ -4,7 +4,7 @@ excerpt: "Work with Data Warehouses using Azure Synapse Analytics"
 type: collection
 price: Free
 length: PT4H11M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn
