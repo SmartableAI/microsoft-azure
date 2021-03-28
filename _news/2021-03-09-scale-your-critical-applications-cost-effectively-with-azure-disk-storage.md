@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/scale-your-critical-applications-
 webUrl: "https://azure.microsoft.com/blog/scale-your-critical-applications-cost-effectively-with-azure-disk-storage/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

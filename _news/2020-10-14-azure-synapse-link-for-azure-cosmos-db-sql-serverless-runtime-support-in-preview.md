@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-a
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/"
 type: article
 quality: 113
-heat: 234
+heat: 233
 published: true
 
 provider:
