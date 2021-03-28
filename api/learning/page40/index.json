@@ -4,51 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
-      "title": "Set up rules and take action on telemetry data in Azure IoT Central",
-      "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 195,
-        "average": 4.625641
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Mobile",
-        "Web"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-shift-express-api-azure-functions.md",
       "title": "Refactor Node.js and Express APIs to Serverless APIs with Azure Functions",
       "excerpt": "Refactor Node.js and Express APIs from a server-based architecture to serverless APIs with Azure Functions. Create a new Azure Functions application with TypeScript/JavaScript using Visual Studio Code.",
@@ -737,48 +692,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-threat-response-sentinel-playbooks.md",
-      "title": "Threat response with Azure Sentinel playbooks",
-      "excerpt": "Provide an introduction to implementing threat response with Azure Sentinel playbooks.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-threat-response-sentinel-playbooks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/threat-response-sentinel-playbooks/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 51,
-        "average": 4.745098
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/threat-response-sentinel-playbooks-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus.md",
       "title": "Approach your data-flow diagram with the right threat model focus",
       "excerpt": "Threat modeling is an effective technique to help you identify threats and ways to reduce or eliminate risk. We start by deciding to focus on either what needs to be protected or who it needs protection from.",
@@ -1251,6 +1164,90 @@
         "IoT",
         "Integration",
         "Blockchain"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-troubleshoot-tightly-coupled-hpc-apps.md",
+      "title": "Troubleshoot tightly coupled HPC applications on HBv2, HC, and HB series virtual machines",
+      "excerpt": "Troubleshoot underperforming tightly coupled HPC applications and runtime failures.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-troubleshoot-tightly-coupled-hpc-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/troubleshoot-tightly-coupled-hpc-apps/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-typescript-declare-instantiate-classes.md",
+      "title": "Declare and instantiate classes in TypeScript",
+      "excerpt": "Learn how to declare and instantiate classes in TypeScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-typescript-declare-instantiate-classes/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/typescript-declare-instantiate-classes/",
+      "length": "PT1H7M",
+      "ratings": {
+        "count": 2,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],
