@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/digital-event-extend-to-the-cloud
 webUrl: "https://azure.microsoft.com/blog/digital-event-extend-to-the-cloud-with-azure-vmware-solution/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
