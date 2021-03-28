@@ -4,7 +4,7 @@ excerpt: "Learn python programming and data science together with UC Berkeley's 
 type: collection
 price: Free
 length: PT12H53M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn
