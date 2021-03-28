@@ -59,6 +59,17 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft Azure Checklist: Expert Advice on Security"
+    excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
+    publishedDateTime: 2021-03-28T09:03:00Z
+    webUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
+    ampWebUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 54
   - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
     excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
     publishedDateTime: 2021-03-26T17:18:00Z

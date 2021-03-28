@@ -70,6 +70,17 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft Azure Checklist: Expert Advice on Security"
+    excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
+    publishedDateTime: 2021-03-28T09:03:00Z
+    webUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
+    ampWebUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 54
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
     publishedDateTime: 2021-03-26T11:33:00Z

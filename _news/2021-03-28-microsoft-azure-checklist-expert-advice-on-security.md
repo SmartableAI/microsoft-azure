@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
-publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+title: "Microsoft Azure Checklist: Expert Advice on Security"
+excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
+publishedDateTime: 2021-03-28T09:03:00Z
+originalUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
+webUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
+ampWebUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
 type: article
-quality: 29
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: securityboulevard.com
+  domain: securityboulevard.com
 
 topics:
   - Azure
-  - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
+  - Security
 
 related:
   - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
@@ -71,17 +67,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Microsoft Azure Checklist: Expert Advice on Security"
-    excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
-    publishedDateTime: 2021-03-28T09:03:00Z
-    webUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
-    ampWebUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 54
   - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
     excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
     publishedDateTime: 2021-03-26T17:18:00Z
@@ -108,6 +93,20 @@ related:
       domain: openpr.com
     quality: 36
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
     publishedDateTime: 2021-03-26T11:47:00Z
     webUrl: "https://www.lelezard.com/en/news-19718217.html"
@@ -122,6 +121,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ARFb/DASsoqav5E0P4GU1P/UFVJ+Y+H6Ei/pYeXD5cwk/RVesHW9KRpBE+/3kCBazWGABiLXwXPekBoXm0UT+3yiwaq+WIaan2saJBgKhMoHGg9DenB2JZAOar06QPkej+sUzEdEbUyZqr8MKvABq/n3bKw7NpRu6ZGG4+HYG8dT8aRpDAnNkZ/1ibPEkLOSOGSa2RU/VG8xC0w+JjVYIRRyHyrQLqP7Uvh+Yuk6a8ocme8TqYbrmXr7cPkowVe0M47lGc+4mNMA6I+XYJHIfAqnIAIEPna0lCmIA3PIz3krh62Jn9+zL8VNj0bTC+0ifAvlbpKfkfMtEgfjFl0RS+QBsYXLxB5RCBV7VUyCKS8=;ocQGkWMByx3C74vIJ13wvQ=="
+secured: "27x8C4j8hJDekYM2NxGaNz5oTcklkWJHfKNOy7gj7tk0wWPcqL0fw26gm8HtsBuThexUYw6Fnbz+nHDTgOxggIEJ60llV9vJMUgl2dcV4hdYTzo9UdCz3gHFP5vNjzm44S8mzmvZmAjRhXi/5BMX2PL4AqhmU4sRVfANZ8jSxZgcCuSfBXWRXCEyabm+urSurdGjfSQ5h33Ljk6+hE4y1BjunYyHTQjIUM92r5S3EGHcnZLalPXD4Z7Qtg6KjJ3fzFui1y8H9JTiP/z9r2GqH+pKyGt8Tevm8KZYx4p7uOPk9c2M1AYag3PFHMJ3GdPMLBGn9gwPFFN/t+GHi5aSIlCNMi0R6+7bALAK/ujVnSY=;k8KA7CHQXYKE5paHb4tFuQ=="
 ---
 

@@ -527,15 +527,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
-    publishedDateTime: 2021-03-18T09:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222766"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Accelerating Growth for Microsoft Azure Bodes Well for Cloud Software Sector"
     excerpt: "Microsoft (ticker: MSFT) simply blew away Wall Street’s expectations for the quarter, driven in part by the dramatic growth of its cloud business overall and by the Azure public cloud service in ..."
     publishedDateTime: 2021-01-27T17:15:00Z
@@ -1251,6 +1242,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
         width: 900
         height: 493
+        isCached: true
+  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "NEW YORK, March 18, 2021 /PRNewswire/ -- QuerySurge today announced the availability of its enterprise data validation & testing solution in the Microsoft Azure Marketplace, an online store ..."
+    publishedDateTime: 2021-03-18T09:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Banking Circle ports Infrastructure to Microsoft Azure"
     excerpt: "Banking Circle, the financial infrastructure provider, today announces that it is now completely cloud-based, with all aspects of its infrastructure hosted within Microsoft Azure."
