@@ -4,9 +4,9 @@ excerpt: "Michael Hansen joins Scott Hanselman to explain what FHIR is and how t
 originalUrl: https://youtube.com/watch?v=5vS7Iq9vpXE
 type: video
 price: Free
-length: PT20M11S
+length: PT20M10S
 publishedDateTime: 2019-07-25T22:21:34Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vS7Iq9vpXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1u9iLn7WPlDKSTJaFwg2vrf2WqpoonD21o+p+IFr0TdFc+t01RGbUpFSKpgW6iapExJJyvzhhxTm+me6dl8COGQ0RADQtWv0UxpnmeItumuYXHS/0hypKZITitgt4YnJBV9Ww4ix9LYBSbjgQn6HvZ30420i7zmKvDbjIx+vkSqmPX7LTJPD1/XFJ1ijIGjpwuKvlwj8iYBmUX1UIgMbYhwnIW4pmrAQ6E3I45+vZJwcSOBtXkFXkk+Ff/mPlnCH3gKztqnkr/jPOnhsWC/3eACxttsOBGfMWOM6nzDBp2Wb6MkbBG66UFE5kR/rOJG57NcIIP5jgPauUlxv34Fudzt13G3SmsIMJy+dgXdBsjiq3qAPoEjs7E5ivUY34Go+bvhS1IvI4m6z4V3J1MumkiiE6dJz/T/cwzSHV/ZNJg4=;9JbcxO1dKySR/J9wRQ0t+Q=="
+secured: "cXH5IGmPCbGXONDXR12fdPvIan4j55zWZw9l3iYXLZ1ebkWj5Uv1nVImN58c1wo9ihDv+gKLtWcmVmSQBARqKosGtW+J2B7VmU/BzpUcGJoPmhF6ZFs4WuRD8qZ7bpq/IRcff+hBPHWLybUtmsMrTdZ3059XFmjUcfFEuzT57kmGWbAzlb3aHm/yr+QrJM5zak1sJ5ze6QxKQ5r5qo18dGssPEYCEBPlqLlctWZaPOigYmm4w1UGuTh5QdlwdQ/Qlu7nnF4zrE2hetKWmrcN6fQg//k6uoFTUPHJ93jJ6S4aA1cdP/tM2PtAGDnzBaYd4d43ZkUtzpWThl2Ici3/9StQPKOC8m5ii9Vh+d0fbldoks+5XsssGTJ/FD0ZArATh6BT/5hwgGKo44bl3fohQFBZtKnSl0u7A58mWPf3KjA=;B07W2xJ8yi36SQXCats9uA=="
 ---
 
