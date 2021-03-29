@@ -4,6 +4,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-security.md",
+      "title": "Security, responsibility, and trust in Azure",
+      "excerpt": "Discuss the basic concepts for protecting your infrastructure and data when you work in the cloud. Understand what responsibilities are yours and what Azure takes care of for you.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-security-in-azure/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 45991,
+        "average": 4.705464
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 78,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-m365-identity-zero-trust.md",
       "title": "Embrace Zero Trust with Azure Active Directory",
       "excerpt": "Learn about the Zero Trust model and how to implement Zero Trust into your organization.",
@@ -11,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 3374,
-        "average": 4.827208
+        "count": 3379,
+        "average": 4.8274636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -54,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 4102,
-        "average": 4.755973
+        "count": 4107,
+        "average": 4.75627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
       "length": "PT38M",
       "ratings": {
-        "count": 2310,
-        "average": 4.7285714
+        "count": 2315,
+        "average": 4.727862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -141,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 3935,
-        "average": 4.788564
+        "count": 3937,
+        "average": 4.7886715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -184,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
       "length": "PT52M",
       "ratings": {
-        "count": 228,
-        "average": 4.8508773
+        "count": 232,
+        "average": 4.8534484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -220,215 +256,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts.md",
-      "title": "Azure Data Fundamentals: Explore core data concepts",
-      "excerpt": "Azure Data Fundamentals: Explore core data concepts",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-data-fundamentals-explore-core-data-concepts/",
-      "length": "PT1H48M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-explore-core-data-concepts.md",
-          "title": "Explore core data concepts",
-          "excerpt": "Explore core data concepts",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-core-data-concepts/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 3517,
-            "average": 4.8456073
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 67,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data.md",
-          "title": "Explore roles and responsibilities in the world of data",
-          "excerpt": "Explore roles and responsibilities in the world of data",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
-          "length": "PT17M",
-          "ratings": {
-            "count": 2771,
-            "average": 4.82786
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-describe-concepts-of-relational-data.md",
-          "title": "Describe concepts of relational data",
-          "excerpt": "Describe concepts of relational data",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-concepts-of-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
-          "length": "PT24M",
-          "ratings": {
-            "count": 2186,
-            "average": 4.820677
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/describe-concepts-of-relational-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
-          "title": "Explore concepts of non-relational data",
-          "excerpt": "Explore concepts of non-relational data",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-non-relational-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
-          "length": "PT26M",
-          "ratings": {
-            "count": 1792,
-            "average": 4.813058
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-core-data-concepts-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-administer-infrastructure-resources-in-azure.md",
       "title": "Administer infrastructure resources in Azure",
       "excerpt": "This learning path teaches how to create and customize Windows and Linux virtual machines, connect them to virtual networks, and keep them updated.",
@@ -459,8 +286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17990,
-            "average": 4.698221
+            "count": 17993,
+            "average": 4.6982718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9452,
-            "average": 4.6990056
+            "count": 9453,
+            "average": 4.6990376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -530,8 +357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14962,
-            "average": 4.719289
+            "count": 14963,
+            "average": 4.7193074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -654,8 +481,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 17990,
-            "average": 4.698221
+            "count": 17993,
+            "average": 4.6982718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -689,8 +516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9452,
-            "average": 4.6990056
+            "count": 9453,
+            "average": 4.6990376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -725,8 +552,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14962,
-            "average": 4.719289
+            "count": 14963,
+            "average": 4.7193074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -824,8 +651,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
       "length": "PT44M",
       "ratings": {
-        "count": 4890,
-        "average": 4.7051125
+        "count": 4892,
+        "average": 4.7050285
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -867,8 +694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 4595,
-        "average": 4.7651796
+        "count": 4601,
+        "average": 4.765486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,8 +737,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-identities-with-aad-idp/",
       "length": "PT34M",
       "ratings": {
-        "count": 793,
-        "average": 4.7868853
+        "count": 798,
+        "average": 4.7869673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -953,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2019,
-        "average": 4.8345714
+        "count": 2024,
+        "average": 4.834486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -996,8 +823,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 5033,
-        "average": 4.715279
+        "count": 5039,
+        "average": 4.7152214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,8 +925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 12630,
-            "average": 4.5896277
+            "count": 12633,
+            "average": 4.589567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1140,8 +967,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8176,
-            "average": 4.659002
+            "count": 8177,
+            "average": 4.658799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1177,8 +1004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 4401,
-            "average": 4.719155
+            "count": 4402,
+            "average": 4.7192187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1298,8 +1125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2310,
-            "average": 4.7285714
+            "count": 2315,
+            "average": 4.727862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1428,8 +1255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 249,
-            "average": 4.8192773
+            "count": 250,
+            "average": 4.82
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1513,8 +1340,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2310,
-            "average": 4.7285714
+            "count": 2315,
+            "average": 4.727862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1643,8 +1470,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
           "length": "PT45M",
           "ratings": {
-            "count": 249,
-            "average": 4.8192773
+            "count": 250,
+            "average": 4.82
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1705,8 +1532,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 17990,
-        "average": 4.698221
+        "count": 17993,
+        "average": 4.6982718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1763,8 +1590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8292,
-            "average": 4.76001
+            "count": 8302,
+            "average": 4.7596965
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1844,8 +1671,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-compute-provisioning/",
           "length": "PT50M",
           "ratings": {
-            "count": 966,
-            "average": 4.6718426
+            "count": 967,
+            "average": 4.6680455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1886,8 +1713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 9164,
-            "average": 4.665321
+            "count": 9166,
+            "average": 4.6651754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1964,8 +1791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1371,
-            "average": 4.5900803
+            "count": 1372,
+            "average": 4.590379
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2007,8 +1834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3229,
-            "average": 4.6841125
+            "count": 3232,
+            "average": 4.684406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2081,8 +1908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6297,
-            "average": 4.6758776
+            "count": 6298,
+            "average": 4.675929
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2163,8 +1990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9452,
-            "average": 4.6990056
+            "count": 9453,
+            "average": 4.6990376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +2026,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14962,
-            "average": 4.719289
+            "count": 14963,
+            "average": 4.7193074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2358,8 +2185,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
           "length": "PT1H26M",
           "ratings": {
-            "count": 9452,
-            "average": 4.6990056
+            "count": 9453,
+            "average": 4.6990376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2394,8 +2221,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/",
           "length": "PT51M",
           "ratings": {
-            "count": 14962,
-            "average": 4.719289
+            "count": 14963,
+            "average": 4.7193074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2530,8 +2357,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
       "length": "PT41M",
       "ratings": {
-        "count": 4771,
-        "average": 4.7335987
+        "count": 4778,
+        "average": 4.73378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2573,8 +2400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/",
       "length": "PT25M",
       "ratings": {
-        "count": 2129,
-        "average": 4.6754346
+        "count": 2131,
+        "average": 4.6757393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2616,8 +2443,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-security-azure-security-center/",
       "length": "PT44M",
       "ratings": {
-        "count": 307,
-        "average": 4.8403907
+        "count": 309,
+        "average": 4.841424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2659,8 +2486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 1618,
-        "average": 4.7391844
+        "count": 1619,
+        "average": 4.739345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2702,8 +2529,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
       "length": "PT31M",
       "ratings": {
-        "count": 2898,
-        "average": 4.7374053
+        "count": 2901,
+        "average": 4.7376766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2745,8 +2572,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13202,
-        "average": 4.68376
+        "count": 13203,
+        "average": 4.683784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2781,8 +2608,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4202,
-        "average": 4.7829604
+        "count": 4208,
+        "average": 4.78327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2847,8 +2674,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2654,
-            "average": 4.6948004
+            "count": 2655,
+            "average": 4.6945386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2890,8 +2717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4771,
-            "average": 4.7335987
+            "count": 4778,
+            "average": 4.73378
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2933,8 +2760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 259,
-            "average": 4.6177607
+            "count": 260,
+            "average": 4.6192307
           },
           "provider": {
             "name": "Microsoft Learn",
