@@ -4,41 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 12030,
-        "average": 4.7640066
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 65,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-utilize-threat-intelligence-azure-sentinel.md",
       "title": "Utilize threat intelligence in Azure Sentinel",
       "excerpt": "Utilize threat intelligence in Azure Sentinel",
@@ -46,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/utilize-threat-intelligence-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 214,
-        "average": 4.780374
+        "count": 216,
+        "average": 4.7824073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -79,6 +44,217 @@
       "topics": [
         "Azure",
         "Security"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-automate-your-workflow-with-github-actions.md",
+      "title": "Automate your workflow with GitHub Actions",
+      "excerpt": "Learn how GitHub Actions enables you to automate your software development cycle and deploy applications to Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/",
+      "length": "PT4H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
+          "title": "Introduction to GitHub",
+          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 1031,
+            "average": 4.7497573
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
+          "title": "Automate development tasks by using GitHub Actions",
+          "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 217,
+            "average": 4.691244
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
+          "title": "Build continuous integration (CI) workflows by using GitHub Actions",
+          "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 256,
+            "average": 4.6992188
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
+          "title": "Build and deploy applications to Azure by using GitHub Actions",
+          "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-cd/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 222,
+            "average": 4.720721
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-cd-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     },
     {
@@ -363,8 +539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41415,
-            "average": 4.7174935
+            "count": 41416,
+            "average": 4.7175007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1057,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2011,
-        "average": 4.8344107
+        "count": 2013,
+        "average": 4.834575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9418,
-            "average": 4.720641
+            "count": 9424,
+            "average": 4.720501
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1585,8 +1761,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6031,
-            "average": 4.6226163
+            "count": 6032,
+            "average": 4.622679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1972,8 +2148,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
       "length": "PT44M",
       "ratings": {
-        "count": 12620,
-        "average": 4.589699
+        "count": 12621,
+        "average": 4.589731
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2007,48 +2183,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-concepts-of-non-relational-data.md",
-      "title": "Explore concepts of non-relational data",
-      "excerpt": "Explore concepts of non-relational data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-concepts-of-non-relational-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 1791,
-        "average": 4.8129535
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-concepts-of-non-relational-data-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-azure-machine-learning-service.md",
       "title": "Introduction to the Azure Machine Learning SDK",
       "excerpt": "Azure Machine Learning provides a cloud-based platform for training, deploying, and managing machine learning models.",
@@ -2056,8 +2190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2791,
-        "average": 4.6406307
+        "count": 2792,
+        "average": 4.6407595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2100,8 +2234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 4944,
-        "average": 4.721683
+        "count": 4945,
+        "average": 4.7217393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2135,8 +2269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
       "length": "PT52M",
       "ratings": {
-        "count": 213,
-        "average": 4.8450704
+        "count": 217,
+        "average": 4.843318
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3526,8 +3660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 1029,
-            "average": 4.749271
+            "count": 1031,
+            "average": 4.7497573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3568,8 +3702,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 314,
-            "average": 4.751592
+            "count": 315,
+            "average": 4.752381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3610,8 +3744,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-project-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 312,
-            "average": 4.7467947
+            "count": 313,
+            "average": 4.747604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3652,8 +3786,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/",
           "length": "PT49M",
           "ratings": {
-            "count": 263,
-            "average": 4.741445
+            "count": 264,
+            "average": 4.742424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3735,8 +3869,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 750,
-            "average": 4.5533333
+            "count": 751,
+            "average": 4.553928
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3823,8 +3957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
           "length": "PT60M",
           "ratings": {
-            "count": 393,
-            "average": 4.5267177
+            "count": 394,
+            "average": 4.527919
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3867,8 +4001,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
           "length": "PT46M",
           "ratings": {
-            "count": 301,
-            "average": 4.6445184
+            "count": 302,
+            "average": 4.645695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3989,8 +4123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6031,
-            "average": 4.6226163
+            "count": 6032,
+            "average": 4.622679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4115,6 +4249,213 @@
         "Compute",
         "Web",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure.md",
+      "title": "Migrate application workloads and data to Azure",
+      "excerpt": "Migrate application workloads and data to Azure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-application-workloads-and-data-to-azure/",
+      "length": "PT3H14M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-your-migration-to-azure.md",
+          "title": "Design your migration to Azure",
+          "excerpt": "Minimize the time and resources required to migrate your on-premises environment to Azure. Assess your current systems with Azure Migrate, and migrate them with Azure Migrate and Azure Database Migration Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-migration-to-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 4875,
+            "average": 4.7046156
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 76,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Migration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure.md",
+          "title": "Prepare on-premises workloads for migration to Azure",
+          "excerpt": "Prepare on-premises workloads for migration to Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-prepare-onpremises-workloads-migration-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-onpremises-workloads-migration-azure/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 301,
+            "average": 4.6611295
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/prepare-on-premises-workloads-for-migration-to-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Migration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-onpremises-workloads-azure.md",
+          "title": "Migrate on-premises workloads to Azure",
+          "excerpt": "Migrate on-premises workloads to Azure",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-onpremises-workloads-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 233,
+            "average": 4.6566525
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-workloads-azure-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+          "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+          "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 1367,
+            "average": 4.456474
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases",
+            "Migration",
+            "Management Tools"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-migration-to-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

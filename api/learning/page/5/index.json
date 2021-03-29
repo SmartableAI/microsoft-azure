@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8263,
-            "average": 4.7596517
+            "count": 8264,
+            "average": 4.7596807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -79,8 +79,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/",
           "length": "PT51M",
           "ratings": {
-            "count": 6754,
-            "average": 4.708469
+            "count": 6755,
+            "average": 4.7085123
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -157,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
           "length": "PT37M",
           "ratings": {
-            "count": 9160,
-            "average": 4.6651745
+            "count": 9162,
+            "average": 4.665248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -202,217 +202,6 @@
       "topics": [
         "Azure",
         "Compute"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-automate-your-workflow-with-github-actions.md",
-      "title": "Automate your workflow with GitHub Actions",
-      "excerpt": "Learn how GitHub Actions enables you to automate your software development cycle and deploy applications to Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-automate-your-workflow-with-github-actions/",
-      "length": "PT4H2M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-to-github.md",
-          "title": "Introduction to GitHub",
-          "excerpt": "Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-github/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/",
-          "length": "PT1H12M",
-          "ratings": {
-            "count": 1029,
-            "average": 4.749271
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-github-actions-automate-tasks.md",
-          "title": "Automate development tasks by using GitHub Actions",
-          "excerpt": "Create a basic GitHub Action and use that action in a workflow.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-automate-tasks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 217,
-            "average": 4.691244
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-automate-tasks-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-          "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-          "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-          "length": "PT55M",
-          "ratings": {
-            "count": 255,
-            "average": 4.698039
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 132,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-github-actions-cd.md",
-          "title": "Build and deploy applications to Azure by using GitHub Actions",
-          "excerpt": "Create two deployment workflows using GitHub Actions and Microsoft Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-cd/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/",
-          "length": "PT54M",
-          "ratings": {
-            "count": 221,
-            "average": 4.719457
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-cd-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/introduction-to-github-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -621,8 +410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6309,
-            "average": 4.7654147
+            "count": 6319,
+            "average": 4.765469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +752,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1792,
-            "average": 4.59375
+            "count": 1793,
+            "average": 4.593419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1023,8 +812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-configure-manage-identities/",
       "length": "PT32M",
       "ratings": {
-        "count": 325,
-        "average": 4.793846
+        "count": 327,
+        "average": 4.795107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-core-data-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 3509,
-        "average": 4.845255
+        "count": 3512,
+        "average": 4.8453875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1108,8 +897,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
       "length": "PT46M",
       "ratings": {
-        "count": 4580,
-        "average": 4.7644105
+        "count": 4582,
+        "average": 4.7645135
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1151,8 +940,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 6292,
-        "average": 4.675779
+        "count": 6293,
+        "average": 4.6756716
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6031,
-            "average": 4.6226163
+            "count": 6032,
+            "average": 4.622679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1494,8 +1283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2491,
-        "average": 4.8398232
+        "count": 2492,
+        "average": 4.839486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1762,8 +1551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2147,
-            "average": 4.623661
+            "count": 2149,
+            "average": 4.624011
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1896,8 +1685,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 221,
-            "average": 4.7782807
+            "count": 222,
+            "average": 4.779279
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2166,8 +1955,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2147,
-            "average": 4.623661
+            "count": 2149,
+            "average": 4.624011
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2300,8 +2089,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 221,
-            "average": 4.7782807
+            "count": 222,
+            "average": 4.779279
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2390,8 +2179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
           "length": "PT49M",
           "ratings": {
-            "count": 110,
-            "average": 4.818182
+            "count": 111,
+            "average": 4.810811
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2476,8 +2265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
           "length": "PT59M",
           "ratings": {
-            "count": 102,
-            "average": 4.8039217
+            "count": 103,
+            "average": 4.805825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2519,8 +2308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
           "length": "PT37M",
           "ratings": {
-            "count": 148,
-            "average": 4.810811
+            "count": 149,
+            "average": 4.8120804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2604,8 +2393,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
           "length": "PT49M",
           "ratings": {
-            "count": 110,
-            "average": 4.818182
+            "count": 111,
+            "average": 4.810811
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2690,8 +2479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
           "length": "PT59M",
           "ratings": {
-            "count": 102,
-            "average": 4.8039217
+            "count": 103,
+            "average": 4.805825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2733,8 +2522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
           "length": "PT37M",
           "ratings": {
-            "count": 148,
-            "average": 4.810811
+            "count": 149,
+            "average": 4.8120804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2874,8 +2663,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-initial-configuration-of-azure-active-directory/",
       "length": "PT53M",
       "ratings": {
-        "count": 475,
-        "average": 4.7789474
+        "count": 477,
+        "average": 4.7798743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2917,8 +2706,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 697,
-        "average": 4.783357
+        "count": 700,
+        "average": 4.7842855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3070,8 +2859,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 994,
-            "average": 4.67002
+            "count": 995,
+            "average": 4.669347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3202,8 +2991,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4873,
-            "average": 4.7046995
+            "count": 4875,
+            "average": 4.7046156
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3469,8 +3258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3223,
-            "average": 4.684145
+            "count": 3225,
+            "average": 4.683721
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3506,8 +3295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1792,
-            "average": 4.59375
+            "count": 1793,
+            "average": 4.593419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3543,8 +3332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6292,
-            "average": 4.675779
+            "count": 6293,
+            "average": 4.6756716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3815,8 +3604,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4191,
-        "average": 4.782391
+        "count": 4192,
+        "average": 4.7824426
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3901,8 +3690,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
       "length": "PT30M",
       "ratings": {
-        "count": 2980,
-        "average": 4.716443
+        "count": 2981,
+        "average": 4.7162027
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3933,6 +3722,41 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 12031,
+        "average": 4.763943
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 65,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
       ]
     }
   ],
