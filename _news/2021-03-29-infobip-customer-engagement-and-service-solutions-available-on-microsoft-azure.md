@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
-publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
+excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
+publishedDateTime: 2021-03-29T09:43:00Z
+originalUrl: "https://www.techfinancials.co.za/2021/03/29/infobip-customer-engagement-and-service-solutions-available-on-microsoft-azure/"
+webUrl: "https://www.techfinancials.co.za/2021/03/29/infobip-customer-engagement-and-service-solutions-available-on-microsoft-azure/"
 type: article
-quality: 29
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: techfinancials
+  domain: techfinancials.co.za
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/03/infobip-logo.png"
+    width: 900
+    height: 500
     isCached: true
 
 related:
@@ -121,19 +120,19 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
-  - title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
-    excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
-    publishedDateTime: 2021-03-29T09:43:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/03/29/infobip-customer-engagement-and-service-solutions-available-on-microsoft-azure/"
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
     type: article
     provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 33
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
     images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/03/infobip-logo.png"
-        width: 900
-        height: 500
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
@@ -150,6 +149,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ARFb/DASsoqav5E0P4GU1P/UFVJ+Y+H6Ei/pYeXD5cwk/RVesHW9KRpBE+/3kCBazWGABiLXwXPekBoXm0UT+3yiwaq+WIaan2saJBgKhMoHGg9DenB2JZAOar06QPkej+sUzEdEbUyZqr8MKvABq/n3bKw7NpRu6ZGG4+HYG8dT8aRpDAnNkZ/1ibPEkLOSOGSa2RU/VG8xC0w+JjVYIRRyHyrQLqP7Uvh+Yuk6a8ocme8TqYbrmXr7cPkowVe0M47lGc+4mNMA6I+XYJHIfAqnIAIEPna0lCmIA3PIz3krh62Jn9+zL8VNj0bTC+0ifAvlbpKfkfMtEgfjFl0RS+QBsYXLxB5RCBV7VUyCKS8=;ocQGkWMByx3C74vIJ13wvQ=="
+secured: "GGrkInX1v3m2HZTsE1xYZfXBg8hujN1Vtf5pOcDRSSnZ1uHZMOtPmzYQMtXHthPbfQu01mAHn6w84RDwZOVyhci19pG8vnZmBgb3aVPzazJpX3+9do6nSs7PE49i0kU05bRU0EutK3akijwdb9QMkuC8fGcTaBstTG1+Bzekwsg2fgzB5qK0bUGmbgH4MHNhpu3Nh9jKkpxdhdlg2CUsr5hvwFLGadP2iOatgJxxbOpL7qK2IInB+Fw0ZV/H/DtqcwIYz5duaes6r/tTXjRyBDVFVzhFMfDhSPyRoO+2kKpuuQEhRqwx0L4hLVRW4o9vv8N5Ue051KisLCLCEYuy+TJph06kop5Tc9l6mMeKn3k=;U79Dy92jUoNXAOOe4bbxmA=="
 ---
 

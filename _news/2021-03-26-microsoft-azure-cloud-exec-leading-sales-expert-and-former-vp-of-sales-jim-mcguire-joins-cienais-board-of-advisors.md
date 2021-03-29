@@ -121,6 +121,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 36
+  - title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
+    excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
+    publishedDateTime: 2021-03-29T09:43:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/03/29/infobip-customer-engagement-and-service-solutions-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 33
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/03/infobip-logo.png"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
     publishedDateTime: 2021-03-25T15:00:00Z
