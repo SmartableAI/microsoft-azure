@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/icertis-boosts-performance-over-8
 webUrl: "https://azure.microsoft.com/blog/icertis-boosts-performance-over-80-percent-and-lowers-costs-on-azure-sql/"
 type: article
 quality: 105
-heat: 106
+heat: 105
 published: true
 
 provider:
