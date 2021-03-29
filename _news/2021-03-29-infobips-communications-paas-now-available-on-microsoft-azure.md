@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
-excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
-publishedDateTime: 2021-03-26T17:18:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
-webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+publishedDateTime: 2021-03-29T02:51:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
-    width: 800
-    height: 400
+  - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -81,19 +81,19 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 54
-  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
-    publishedDateTime: 2021-03-29T02:51:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
+    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
+    publishedDateTime: 2021-03-26T17:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 37
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
-        width: 752
-        height: 408
+      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
+        width: 800
+        height: 400
         isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
@@ -135,6 +135,6 @@ related:
         height: 480
         isCached: true
 
-secured: "N7RrUN/HVEM0nEdT2kf0R/7xKS67Azj0fioK2TcFV7O91aQxgcwymvgPB02aBq6AGVnHcak6D7MmXuKcJecQ5GHvDFjzsmYff+TZ+ybYSK4aJBO+dshbyGj+stSLivIDLL0ZnomE/6kdbapx5FAlX4+i+DAZLTaE+ZXnI3svgT9MMRmupS76nhXKjHnVX5LU0LN9C3egO/QJZMQU6jy3byrc5UtQEfLwGKRq5gxDEFtlt5B5VUENL1tYBTpQ+w0RBvmqnNeOjSioxF8ZKQmsVtwt2t79qAk79OKBNgD/9K3xPa9+Z0Z6Vd9djx/8X2bYTvIJyxJgjyIna7l7PsMPMQYKCBjHjZroXafVADzdWas=;ovjrOjh0NgKnsSiIX0MVWw=="
+secured: "0Jxvcl01iG2NhkukbP4/L7AR1exLHL6OLKcfoDF5O+e0oM+d4Bfr5G3dsxbEQej+EivlMOsBd915r2riGVKdGcN0ttByXx5Gn8fPoo6qmyok/vt27t78a/x9mWnio7Bgh8mZIhnCaFfKt9l7uVb9Mndc5A6ACH8xHvIu1PjzYzLZwrXb8SWDrYTq87c6w3Vl29VsW67tvxtHoZpUNBLz7/2XH+Tbi3pAR/sVqxtlh20R4BumxboVf3MmNXianFOOGVdUeBrnhy3qlLoVFUm8/juOX7WJgWxM5nfjmuVdlA0WTg3i8afoL0s8ZofhysNP3McmlTOFHOVqzhSUNh81H+0gUeTPtNfC+l4wi01gx7o=;qUk6UNvwEwMJ2EnZJRd5cA=="
 ---
 

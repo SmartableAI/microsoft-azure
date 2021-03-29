@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
 type: article
 quality: 110
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
         width: 800
         height: 400
+        isCached: true
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+        width: 752
+        height: 408
         isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"

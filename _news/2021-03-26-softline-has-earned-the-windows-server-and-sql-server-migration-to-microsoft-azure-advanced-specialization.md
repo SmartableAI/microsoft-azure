@@ -92,6 +92,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
     publishedDateTime: 2021-03-25T15:00:00Z
