@@ -208,6 +208,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Communication Services"
+    excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
+    publishedDateTime: 2021-03-29T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

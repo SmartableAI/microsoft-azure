@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Backup for SAP HANA: Incremental backup is now generally available"
-excerpt: "Create cost-effective, faster backup policies with weekly full and daily HANA incremental and protect even large HANA databases."
-publishedDateTime: 2021-03-01T17:00:23Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-incremental-backup-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-incremental-backup-is-now-generally-available/"
+title: "Backup for Azure Managed Disk is now generally available"
+excerpt: "Azure Disk Backup offers snapshot lifecycle management to Azure Managed Disk by automating periodic creation of snapshot and retain it for configured duration using Backup policy."
+publishedDateTime: 2021-03-29T16:00:27Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
 type: article
-quality: 83
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "Azure Backup support for up to 32 disks is now generally available"
@@ -32,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure Backup for SAP HANA: Incremental backup is now generally available"
+    excerpt: "Create cost-effective, faster backup policies with weekly full and daily HANA incremental and protect even large HANA databases."
+    publishedDateTime: 2021-03-01T17:00:23Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-for-sap-hana-incremental-backup-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 83
   - title: "Python Durable Functions support in Azure Functions is now generally available "
     excerpt: "Python developers can now create serverless workflows to orchestrate complex data processing and data science workloads in Azure Functions. "
     publishedDateTime: 2021-03-10T17:00:21Z
@@ -68,15 +76,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Backup for Azure Managed Disk is now generally available"
-    excerpt: "Azure Disk Backup offers snapshot lifecycle management to Azure Managed Disk by automating periodic creation of snapshot and retain it for configured duration using Backup policy."
-    publishedDateTime: 2021-03-29T16:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z
@@ -105,6 +104,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "KuIknweVeu/z7iwpMNNZrXIpiMMVj03zy39Aok0rHEkX5CuzJEDJ5jDIYCo3w24InLNQPRjwuelGrMV1Kg/mUHL8Q8YT+jK4T//6UARjsfJU4cohZM3VQE1CThQX7p2FMhP7dpj1WEGwjVb42gVP781ARtw/Y5xsGpQucqhRvjb/fWMJ6UMS2kp93Ap8HOYstWM+5j64xzcCvGipnbKC9lonNLhcl7PgMUz7t3KbTpu5alUlvHSb/CtGsp0FJlCkvPN2/RM88TMsP0Z6NrNpZFdVElKhwHLPVR/oDJx81VzAy7OLFWPGKyWe1WdaAtKRaai2jJIuxIAUiSYAbINOhKLmhgIDZeQBgSE4ywISsf8=;SGZCWM4ZIOKumx0gZbWIHA=="
+secured: "lS4er3alhSBxrn2H2Q7p1xKDxAswnIenp5sDJPo97YnaF86vM9QH5RVKyvvZjfluSE8xGi9RZoq2JnubfiGmDDd0pGTgTbiQdIoh+R0m2wEnZb2PEcnn5l5z3dVtm5bd0Uc5KfB0or+R75CDca4F7+XCsYbDiugXw7SABTAn5WlEcnl3HpPN6Q53850rRVP7cMXJlsSRRjGJUD3RB4Zox3h+Z7XOLL86SNPV6ZAGslxmS9Ie0I/ZQlmBIlmGOUPWpznR3Z4X5mK1mConciQAUyEXG6EphetquOBipTAZchJJ3v6dZeHQ1D+RKmHowZJ20zsY6O5xunXg1VFpZvB2m73rFaa5Aw+PyfO6KR2mJI8=;UZ+IUwYBblrT3E50s4cxzA=="
 ---
 

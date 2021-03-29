@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Stream Analytics runs on Azure Stack Hub "
-excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
-publishedDateTime: 2021-03-26T16:00:13Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+title: "General availability: Azure Communication Services"
+excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
+publishedDateTime: 2021-03-29T16:00:27Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
 type: article
-quality: 84
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Analytics
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -104,6 +103,15 @@ related:
     excerpt: "Azure Functions now supports running production applications in .NET 5, the latest version of .NET. "
     publishedDateTime: 2021-03-10T17:00:14Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-functions-supports-net-5-in-production/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Stream Analytics runs on Azure Stack Hub "
+    excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
+    publishedDateTime: 2021-03-26T16:00:13Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
     type: article
     provider:
       name: Microsoft
@@ -200,15 +208,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Communication Services"
-    excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
-    publishedDateTime: 2021-03-29T16:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z
@@ -273,6 +272,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "wYAQRJ/UnfaCk0dO+TkkYeu/qtdtlA4ByVT8SXdCIDrjZ7RCQ0SPfEgSWbjxExILHuWD3cljmUEmCUcQY+AArJQs4SnaPf9Yht4VPbQx3ADr5IZFX+wnOXwGNeDe5QpFl2ze+VcO7wlMH7mldlxc+/TWaDn6ocwUDDeUlYP4e2Z0LdBh/xKT3wizKKSeMlj/m3NywDJY+rSfffbvtGlDpeS9l/1rZAbYHKnwBxw7Thiau2dKmu3VcZPHoTu7WldpTrvtLs8PL+rxupjIHn3N4I5O5dT24fdcOEQyyx7dPzlE6uqRvuxg6zA669a0EpjS+aM83z43YdXtOPjF267eXTqE0F5vWl/D3nd4fAIojJ4=;jjXVa+h8G5xSNYIMaPMaxA=="
+secured: "2E9zt4SAQDb4Vm4TzjnBFNdaSDHZMt4z6n9Z+0a3vBUw794lDTklf2zwJdlK27tkoYqneU4wnkdCB/JlRf8W3s232OvHZOflv7qKvGbid843qDGW4LF01KqoTp6ms3u5RHsuPW6ApfsItAMFVz1/mDxhBG8rVpVeCKlMSYWyDsrk79kT18FSvk7/oJQ5qvdMI9qEtbrgOd4EwNZxb2mqNHaYVX3FKXpyIhL6knhor7sbUkbdIOKbDfzVeusQO9K2Di8kuYSQG5UlPHI09Y3TuNkfyT6xrX1sU4cvdyFluRKFEA9DUeFV70HQTtsXgACTaY3Z1JWYZuymiBG8ryYWaQYpfiZY3ohc/aSa1wUZXn4=;3+TdH75+3R8Pw9Hx5a1wSg=="
 ---
 

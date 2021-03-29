@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-objec
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/"
 type: article
 quality: 99
-heat: 539
+heat: 559
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
     publishedDateTime: 2021-03-17T15:24:29Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Encryption scopes in Azure Storage now generally available "
+    excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
+    publishedDateTime: 2021-03-29T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
     type: article
     provider:
       name: Microsoft

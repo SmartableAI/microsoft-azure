@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Backup Reports is now generally available"
-excerpt: "Gain visibility into backup job statistics, consumption trends and optimization opportunities across your Recovery Services vaults."
-publishedDateTime: 2021-03-02T17:00:03Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
-webUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
+title: "Encryption scopes in Azure Storage now generally available "
+excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
+publishedDateTime: 2021-03-29T16:00:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
+webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
 type: article
-quality: 52
+quality: 84
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Azure Blob storage object replication is now generally available"
@@ -71,15 +72,6 @@ related:
     excerpt: "New release of Azure Storage Explorer (v1.18.0) will decrease time to load, connect, and transfer data to Azure Storage."
     publishedDateTime: 2021-03-17T15:24:29Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-storage-explorer-v1180-released/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Encryption scopes in Azure Storage now generally available "
-    excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
-    publishedDateTime: 2021-03-29T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
     type: article
     provider:
       name: Microsoft
@@ -189,6 +181,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Backup Reports is now generally available"
+    excerpt: "Gain visibility into backup job statistics, consumption trends and optimization opportunities across your Recovery Services vaults."
+    publishedDateTime: 2021-03-02T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/backup-reports-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "Object replication public preview for Azure Blob storage"
     excerpt: ""
     publishedDateTime: 2020-05-21T15:44:37Z
@@ -235,6 +236,6 @@ related:
       domain: microsoft.com
     quality: 16
 
-secured: "YsNZOxYXL4S1jSIMF4zrsGcX+5/v1CaHviHZJYXaEZTtdesgilBofBQppwrg2HV/hF3nEuhvsjdFvtkmwz1QKI/3gXW8NKfascCTouCIsJrQkN1eaC83etKawhgBlPLe/Z9unWZQ5PSsGYvlHHNmmnn9ZToizTU4XhsQ4XcDYA9oGywmtXjhl5vbYceDr85jtF9vVHZ8345ERSNIE6u9b3g5h6Jr5zMODDyzVfnfvIOYp/HA3qhurpZrijR6VB7eCVOJOnVdJAxcuwOI22SoZXsp9oz1GCV6K5HrpgAb7S0UixnfCcmu+1PT9m3/g3bRE/RgRGTIXaN/ZRpF5YREz+BPpPHRSoHsfqpqJrLUC0Q=;jlXwdVWGRHbeYCmLgeJY4g=="
+secured: "+UDCmo9jlhAhRZxgNbxwbDNHFTA8nUuBSOJz246clQljgeoDFHYRDpNabDr2T+RO7X0Ldt29v0uNZ9BphBUP2oPEgbepK11M4Pb18l1rPwFInm9cCnYNS3Q53jroBCOC3ZAOjqcEv0p44m4K079A0nm+yHxeyRKwEqcsSYDADVvRxQUBcBJ24mZcjf08LjB5plmENiVAaEEhj/sEGgFYY4IehCHbEgq/ZcyeCEs2HDZPX8Xerduefx1OUQgbZDtkkzGKLw5rlzRTFbxSyOQb3O2MmBN4bIMHOgqKTUJ9TT0Wu/SB08MjQkIfJaKky3iaPjmji2oQUqqi5I9rKN1t2ca+Ro5pckmRZZ4VaVdqMBU=;fPXsh2Y2of3Wz9ZgAAc/xg=="
 ---
 

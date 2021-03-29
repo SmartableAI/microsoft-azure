@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Backup for Azure Managed Disk is now generally available"
+    excerpt: "Azure Disk Backup offers snapshot lifecycle management to Azure Managed Disk by automating periodic creation of snapshot and retain it for configured duration using Backup policy."
+    publishedDateTime: 2021-03-29T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "SAP HANA backup using Azure Backup is now generally available"
     excerpt: "We are sharing that Microsoft Azure Backup’s solution for SAP HANA databases is generally available in all Azure Public and Gov Regions (with the exception of Germany Northeast and Germany central, France South & US Gov IOWA).\r\n\r\nAzure Backup is Azure's native backup solution, which is BackInt certified"
     publishedDateTime: 2019-12-02T13:00:29Z

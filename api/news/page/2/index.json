@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview.md",
+      "title": "Zone Redundant Storage (ZRS) option for Azure managed disks in limited preview",
+      "excerpt": "Zone Redundant Storage (ZRS) option for Azure managed disks protect disks from zonal failures which may occur due to natural disasters or hardware issues.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-public-preview-dynamic-ip-allocation-enhanced-subnet-support-in-aks.md",
       "title": "Public preview: Dynamic IP allocation & enhanced subnet support in AKS ",
       "excerpt": "You can now dynamically allocate IPs and define subnets for agent nodes and pods.",
@@ -1112,49 +1155,6 @@
         "Azure",
         "Developer tools",
         "Databases"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-azure-iot-edge-110-release-is-now-generally-available.md",
-      "title": "Azure IoT Edge 1.1.0 release is now generally available ",
-      "excerpt": "Azure IoT Edge 1.1.0 is our first long term servicing (LTS) release.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T17:02:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     }
   ],

@@ -82,6 +82,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Encryption scopes in Azure Storage now generally available "
+    excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
+    publishedDateTime: 2021-03-29T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Query Acceleration for Azure Data Lake Storage is now generally available"
     excerpt: "Query Acceleration for Azure Data Lake Storage is now generally available in all Azure regions."
     publishedDateTime: 2020-09-10T18:00:21Z

@@ -77,6 +77,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Encryption scopes in Azure Storage now generally available "
+    excerpt: "Encryption scopes enable you to provision multiple encryption keys to manage encryption at the container or blob level.  Customers and ISVs can now use a single storage account for multi-tenancy scenarios by provisioning separate encryption keys for each customer. The key that protects an encryption"
+    publishedDateTime: 2021-03-29T16:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/encryption-scopes/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Connector for AWS in Azure Cost Management + Billing is now generally available"
     excerpt: "The connector for AWS that helps you manage Azure and AWS costs from a single location is now generally available."
     publishedDateTime: 2020-09-02T08:00:01Z

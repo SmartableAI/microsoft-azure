@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 604
+heat: 624
 published: true
 
 provider:
@@ -196,6 +196,15 @@ related:
     excerpt: "Take advantage of new VM sizes that are now available when creating your Batch pools, including the latest HPC and GPU sizes."
     publishedDateTime: 2021-03-25T17:42:39Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-batch-new-vm-series-march2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Communication Services"
+    excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
+    publishedDateTime: 2021-03-29T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
     type: article
     provider:
       name: Microsoft

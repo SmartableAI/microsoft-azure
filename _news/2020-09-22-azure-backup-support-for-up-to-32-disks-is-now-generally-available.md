@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-backup-support-for-up-to-32-disks-is-now-generally-available/"
 type: article
 quality: 84
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     excerpt: "Using the Selective disks backup feature, you get an option to backup subset of the data disks in an Azure Virtual Machine.\n\n"
     publishedDateTime: 2020-09-22T16:05:23Z
     webUrl: "https://azure.microsoft.com/en-us/updates/selective-disks-backup-for-azure-virtual-machine/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Backup for Azure Managed Disk is now generally available"
+    excerpt: "Azure Disk Backup offers snapshot lifecycle management to Azure Managed Disk by automating periodic creation of snapshot and retain it for configured duration using Backup policy."
+    publishedDateTime: 2021-03-29T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
     type: article
     provider:
       name: Microsoft

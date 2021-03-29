@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Backup for Azure Managed Disk is now generally available"
+    excerpt: "Azure Disk Backup offers snapshot lifecycle management to Azure Managed Disk by automating periodic creation of snapshot and retain it for configured duration using Backup policy."
+    publishedDateTime: 2021-03-29T16:00:27Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-disk-backup-ga/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Support API is generally available"
     excerpt: ""
     publishedDateTime: 2020-04-17T17:00:00Z
