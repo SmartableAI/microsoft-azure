@@ -5,7 +5,7 @@ webUrl: https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/
 type: course
 price: Free
 length: 52 mins
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn

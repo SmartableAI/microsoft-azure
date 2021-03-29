@@ -4,16 +4,12 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-translate-speech-speech-service.md",
-      "title": "Translate speech with the speech service",
-      "excerpt": "Perform speech translation tasks with the speech service to translate spoken text to different languages.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-translate-speech-speech-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-speech-speech-service/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 490,
-        "average": 4.687755
-      },
+      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
+      "title": "Transcribe speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "52 mins",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -29,12 +25,20 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 133,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/translate-speech-speech-service-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
           "width": 640,
           "height": 320,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
           "isCached": true
         }
       ],
@@ -77,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 42634,
-            "average": 4.7840223
+            "count": 42679,
+            "average": 4.7838283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 6343,
-            "average": 4.7788115
+            "count": 6351,
+            "average": 4.778775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 4884,
-            "average": 4.720311
+            "count": 4894,
+            "average": 4.7204742
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -205,8 +209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4312,
-            "average": 4.7622914
+            "count": 4319,
+            "average": 4.76175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -298,8 +302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 42634,
-            "average": 4.7840223
+            "count": 42679,
+            "average": 4.7838283
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -340,8 +344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9444,
-            "average": 4.7206693
+            "count": 9455,
+            "average": 4.7207828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8285,
-            "average": 4.760169
+            "count": 8292,
+            "average": 4.76001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -431,8 +435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6612,
-            "average": 4.7578645
+            "count": 6619,
+            "average": 4.7581205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -500,8 +504,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 6343,
-        "average": 4.7788115
+        "count": 6351,
+        "average": 4.778775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,8 +547,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 9444,
-        "average": 4.7206693
+        "count": 9455,
+        "average": 4.7207828
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -612,8 +616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 9887,
-            "average": 4.7720237
+            "count": 9895,
+            "average": 4.772006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -674,8 +678,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 9887,
-        "average": 4.7720237
+        "count": 9895,
+        "average": 4.772006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -717,8 +721,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-drift-with-azure-machine-learning/",
       "length": "PT42M",
       "ratings": {
-        "count": 711,
-        "average": 4.787623
+        "count": 715,
+        "average": 4.786014
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -784,8 +788,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
           "length": "PT40M",
           "ratings": {
-            "count": 2795,
-            "average": 4.6411448
+            "count": 2799,
+            "average": 4.6413007
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -828,8 +832,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
           "length": "PT40M",
           "ratings": {
-            "count": 1944,
-            "average": 4.6193414
+            "count": 1947,
+            "average": 4.6194143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -871,8 +875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1069,
-            "average": 4.657624
+            "count": 1072,
+            "average": 4.658582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -906,8 +910,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 941,
-            "average": 4.668438
+            "count": 943,
+            "average": 4.669141
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1027,8 +1031,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/",
           "length": "PT34M",
           "ratings": {
-            "count": 942,
-            "average": 4.7632694
+            "count": 943,
+            "average": 4.76246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1559,8 +1563,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/",
       "length": "PT25M",
       "ratings": {
-        "count": 1234,
-        "average": 4.6531606
+        "count": 1236,
+        "average": 4.653722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1602,8 +1606,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explain-machine-learning-models-with-azure-machine-learning/",
       "length": "PT47M",
       "ratings": {
-        "count": 468,
-        "average": 4.7457266
+        "count": 472,
+        "average": 4.7478814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1646,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-models-with-azure-machine-learning/",
       "length": "PT39M",
       "ratings": {
-        "count": 452,
-        "average": 4.7411504
+        "count": 454,
+        "average": 4.742291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1690,8 +1694,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/register-and-deploy-model-with-amls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1293,
-        "average": 4.6465583
+        "count": 1295,
+        "average": 4.6471043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1733,8 +1737,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-compute-contexts-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 941,
-        "average": 4.668438
+        "count": 943,
+        "average": 4.669141
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1768,8 +1772,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
       "length": "PT45M",
       "ratings": {
-        "count": 1069,
-        "average": 4.657624
+        "count": 1072,
+        "average": 4.658582
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1803,8 +1807,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-batch-inference-pipelines-with-azure-machine-learning/",
       "length": "PT44M",
       "ratings": {
-        "count": 525,
-        "average": 4.697143
+        "count": 527,
+        "average": 4.6982923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1847,8 +1851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tune-hyperparameters-with-azure-machine-learning/",
       "length": "PT46M",
       "ratings": {
-        "count": 496,
-        "average": 4.754032
+        "count": 498,
+        "average": 4.75502
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1891,8 +1895,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-pipelines-in-aml/",
       "length": "PT55M",
       "ratings": {
-        "count": 807,
-        "average": 4.6641884
+        "count": 809,
+        "average": 4.6650186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1926,8 +1930,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/",
       "length": "PT40M",
       "ratings": {
-        "count": 2795,
-        "average": 4.6411448
+        "count": 2799,
+        "average": 4.6413007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1970,8 +1974,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/",
       "length": "PT40M",
       "ratings": {
-        "count": 1944,
-        "average": 4.6193414
+        "count": 1947,
+        "average": 4.6194143
       },
       "provider": {
         "name": "Microsoft Learn",
