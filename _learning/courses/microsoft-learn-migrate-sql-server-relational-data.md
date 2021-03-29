@@ -8,7 +8,7 @@ length: PT1H24M
 ratings:
   count: 1367
   average: 4.456474
-heat: 52
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ topics:
   - Migration
   - Management Tools
 
-secured: "XIsXGw//Kth+Yy6B6bg58sTF6gj6XOqNh39quV37Dog6uUkGGmRGCz0Cml2xU9YTgw8oCoQRF/x7wvXv54xwtmip1tG0IpprE6D5DRQttHa8XkpOptZUxocclhhsv1O2lJVIFnOtiDwsU39RsghRYR6RL9ibcqga4ECz/RnLQoyBk1ySlXTuurx/ebJvR3gJcRP3P58mjU2Cy7B9TUf2aMmZ+dvKrHnvKYbcC5acQK7Os7Bz7jlY9HRoHwQzH2xhWiKxPYlugB5m+p2FhrfXqbAJbB7s7BYH7VTA/oGjsDKJo8RJ0G3skSdQDUl0YB2ZAZ9cAQdhGo3Dt7epBy/SzTqDrh+SgMFSLzA8r/ezO0ae2BidnQ3OVQFHKqRl+ivyY7hCJJKEfAIh5kp9XGNgN88ZoStVqI6XlREoNdXL5as=;qmuwHU7UXZPyMcluJdcRFQ=="
+secured: "r2iShBc2KVN0yxmrf15aHuVOjQxWG7UcXo0O6XtwAJ0gTFianEF/qOHvie5gwyTYVE47SFAeeVI5qPY/tWEI2rl/ClcmF6MBAuC9aEminC3gQCGbewIoQo2FeB1wHl1e1gBn6B/yuPMHbdhb507nCVN7UzK5YSEqZ5QHVKWByq1/Lrcz7a7kZ9J9HEddSSBLDFa6nAfNeUUVF4ZUcxq/4Y1o3XLCWvCuBH+a13738XUAXu9+5sE2tpdX2MFVdlmATXbB0UsTIvf9lUi8W5yWQgsPI20c7z2FEqLqxVvlzQsZc+NQ4V57v3tvkPoDv8B5Yk34Ep9NsXBLJ5AQjO0g3M8SaW2anNYqfb7NqGeKihC20Z4kBpDG5KT5ftA6AhcA+egzWY2g+XQiFf4daMxazifGq9eh3eRDjbIxRPeWALM=;PTl2Me7NYAOlC67JE9URPA=="
 ---
 
