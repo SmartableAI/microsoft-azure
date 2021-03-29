@@ -218,6 +218,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer external tables "
+    excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
+    publishedDateTime: 2021-03-29T18:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z

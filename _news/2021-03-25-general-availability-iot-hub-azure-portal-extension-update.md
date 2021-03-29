@@ -210,6 +210,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Data Explorer external tables "
+    excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
+    publishedDateTime: 2021-03-29T18:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

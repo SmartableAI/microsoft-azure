@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 624
+heat: 644
 published: true
 
 provider:
@@ -205,6 +205,15 @@ related:
     excerpt: "Now you can use Azure Communication Services to add video, voice, SMS, chat, and telephony capabilities into almost any web, mobile, or desktop application."
     publishedDateTime: 2021-03-29T16:00:27Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Data Explorer external tables "
+    excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
+    publishedDateTime: 2021-03-29T18:00:28Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
     type: article
     provider:
       name: Microsoft

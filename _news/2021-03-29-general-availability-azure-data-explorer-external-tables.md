@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Machine Learning Output Datasets "
-excerpt: "Read data in the cloud efficiently with Output datasets."
-publishedDateTime: 2021-01-28T23:46:39Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
+title: "General availability: Azure Data Explorer external tables "
+excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
+publishedDateTime: 2021-03-29T18:00:28Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
 type: article
-quality: 99
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - AI
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -46,6 +45,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
+  - title: "General availability: Azure Machine Learning Output Datasets "
+    excerpt: "Read data in the cloud efficiently with Output datasets."
+    publishedDateTime: 2021-01-28T23:46:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-output-datasets/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "General availability: Stop/start functionality for Azure Database for MySQL"
     excerpt: "With stop/start functionality support for Azure Database for MySQL, you can stop a database server when not in use (non-work hours) and start it when it’s back online."
     publishedDateTime: 2021-02-03T17:00:02Z
@@ -209,15 +217,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Data Explorer external tables "
-    excerpt: "Create an external table located in Azure Blob Storage, Azure Data Lake Store Gen1, or Azure Data Lake Store Gen2 to analyze and query your data.\n"
-    publishedDateTime: 2021-03-29T18:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-data-explorer-external-tables/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z
@@ -282,6 +281,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "eIc5QKvqK6yI/XPGV4S8xAOjGAKZnaBKvpHp2yKeYfxvpiaSIVepGAvMnPp45OvM+lBBELwCQF43mVGvy8q9q1JCpBwn1dtzy4j5VDQKtAgZlbLPxUjCb9/A0BX84tZEPGDzNnyolMKYi/lQLNYoj4y1oGPHd9+LQfXa5agDKgcv6CMDKKTN+ZztZnO0G2leHirwhBvNP8iooWJzp6OTDprYIdYydfdOAL6nn4XR73hT0uUdAIn6ml5WuXeze7fceC+r49i31JnkPpwT+LIdfFOUXKUPH8zhle0MxSImQQ6UHHBOv17sNF6c4xRooELNlU952aZKCZL4m4Jm9wFXY8yrT/uP2TW94cHOQ7xfpS0=;uXhCMRwHH9/7jEZW6LjRYw=="
+secured: "pAx045yseKsKT88q0nA0KRrFRQlZNtCHvsdLdDop+w4JO4uDu9amA9bA7lKpZ054Zz7PmvyTtrnMWB1y1oClOT10+FD7IXUMrpCrFL3P2DafAAKmM1O2t59YMe0z1rcsmAV15eWi5O6So39LQjZXWzcJb21/YPRYWL2cVqptIaeP6fbUZ9nsE3BUJVIlqmeFiD3BIm/SFLYBqxkPCaQoPCiPFSlTdQRr3T+JiSuot3PkTTiSzUwyBnzLcPbh/DezBvNRkM2/SD7t3IqwyvUFXxmRFpDkZoYBPkrp8x4JBtstoqi3FTrvv3nVNoy7XMyRDDPA2EpgghUoZpQzcOmUZtA8c4kxQHtKm3pqg2eHFLU=;KSAT5aiVrHd+V5DHTGGt7A=="
 ---
 
