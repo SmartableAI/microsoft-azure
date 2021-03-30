@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
-publishedDateTime: 2021-03-18T08:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+excerpt: "\"The Microsoft Azure IoT Platform and Himax WE-I Plus AIoT Platform collectively create a powerful tool for our customers to unleash their creativity,\" said Jordan Wu, President and Chief Executive Officer at Himax. \"We bring to market a reliable ..."
+publishedDateTime: 2021-03-18T03:59:00Z
+originalUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
+webUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
 type: article
-quality: 51
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
   - IoT
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -1848,6 +1852,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "XN+6Bc05ZHU1YHWu4jjxD/4uCWu5OCVKiFPFlalDftCexF6/gQsOt9huCrkjbjrqftpt9u+HQMqkyoSL+SgNJGwIcs3R4yoWTmEdhi6ueXL/dV7X79sL49J7IaXnljGJxTRU3tGyp6x9jbp9HXFzKZeJzgwjwVBgMSaRVvB8gf31ziQTYL6SVIZ31a3Fk1x/f4q0+UPc12YCrw1zltO+guIE0GmYQu5yZb/+xLxAKBK6OzUOoZPftUfcEkeqHj3e29o2wudUtfciTBkiOvoSycZ9yBWRL7vNTg8UUeWF3N5vgbRcYw8v32YV3efqbxOG7PKMB+1YLQBSjP/bDlwBUj9HvDN0gZf5XyTB00M3f5w=;nU+LjV5ipDCyS2Wx9+Dh4g=="
+secured: "dTQ9p97xtWdK+Zpu9O0lljnkgJlPjI0nrBdf/UFRdMTv+2JjJ1DyCx829ryUvlU/Y9rTkkWA9Jd8vP5bAeOSBhKJIXBAw9x2g2HgewDT/BvfbD3Qd9CkawxRSV2ffwUNjKSkanz+ZOXpCjFCIxr293aj7EKGJu2vrngRCN9muN/WfdPgHW8BUCdFfWLRT9Zhzbv2ctr5ZyEhHFC96zl8o2IgXV4Amr7OJWJf9lq2MdSb1Q18hLXPoueh/i7ayTmrVSbGXszL5nI5GjK5sBo6XuytD7oywgov8bqoDLmFoS3HrXkOb9j1+ahq/nfBlcygGBCFHEtBw+Se5jTkFCgRn/d414CVhxUFaNNuJ6YQeF8=;3W+43VllvtH6JoxPo/16pg=="
 ---
 

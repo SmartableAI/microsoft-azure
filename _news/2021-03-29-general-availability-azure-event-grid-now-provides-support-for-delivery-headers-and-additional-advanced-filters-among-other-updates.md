@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
-excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
-publishedDateTime: 2021-02-22T16:50:34Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+publishedDateTime: 2021-03-29T23:33:55Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
 type: article
-quality: 68
+quality: 53
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - Integration
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -182,6 +182,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
+    excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
+    publishedDateTime: 2021-02-22T16:50:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z
@@ -254,15 +263,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
-  - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
-    excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
-    publishedDateTime: 2021-03-29T23:33:55Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 53
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z
@@ -300,6 +300,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "Ic3YDGc4DVL3fKVZpXjTQPXzQ6UJqPRK3crVJicWIYOOK+JByGugYcAAB6YAJq4TIDD3UOk+J7CJeuYOzC0tNM7hcCdcvZASnWIotDySHryfI43L5FSApMvdocueXOHQh2T0okV3c9wiMUXdZvvfH4PKUJIEZA9eiHONJGKEPVtBk/EVGUYzWpQke5e4EN75dvSDKYdJAL6rX/+iZb+BBG1TsF6PHh39CPMABCea7LGMFXu2rBoqxMhlu+mCmvPaEnNEUUKbH6aSt2Qi2HGOcAe6/BrBtjfqB0i0qq2ocopYIKrSY6YXyojs7MfCuEDPFokUBfPID/aRu8yRDS51A2ZnMmhwNRRU6Bym7qCmTaE=;zPMVSDGfuiQxoUZHmnegRw=="
+secured: "2xAt4MNX4v3bu+KadFYUM3B+ugd70pzArMzCO9I148mH8jbczflWB64xKJyNn+olYXS1C2n0MwNSuBz5OWR3MxkD78ZLVIKk6nEj7Ojn7guU3bEH2ANbvzcLoGsx57m9543Kd/nnQy83wqx3+LYo4LEeuKdYGlchMJq6DPTwSg2UjbhytTpQ7BcVwEng+DChx62IgqSHZN/XTr7upmVa+UlCp3aj7wh4qPVWnERTWwf7eCz0J8v7LwEfnBhlM0DW3O3o2P2cMJeoiwZm27hOTfd35jnV+1dkHYEpGU4owbMw22Nrv7UCFKy8sRM/sw06/kkccsWFEnXAqLBhYOYBBCts1/R71V1ZTCaaNW4CH18=;K3zybwwVI6bkeLg7TWC9sg=="
 ---
 

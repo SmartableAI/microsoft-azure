@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azur
 webUrl: "https://azure.microsoft.com/en-us/updates/generally-available-azure-mobile-app-now-supports-azure-government/"
 type: article
 quality: 104
-heat: 644
+heat: 684
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
     excerpt: "Stream Analytics now is available on Azure Stack Hub as an IoT Edge module, supporting native input and output adapters, such as Event Hub and IoT Hub. It allows customer to build truly hybrid data solutions."
     publishedDateTime: 2021-03-26T16:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asaonstackhub/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "General availability: Changes coming to Azure Pipelines free grants"
+    excerpt: "With this update, we are including temporary changes that will impact the process to acquire Azure Pipelines free grants. New users will have to send an email and provide additional information to get free CI/CD."
+    publishedDateTime: 2021-03-29T23:36:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/changes-to-azure-pipelines-free-grants/"
     type: article
     provider:
       name: Microsoft
@@ -246,6 +255,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 58
+  - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+    excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+    publishedDateTime: 2021-03-29T23:33:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z

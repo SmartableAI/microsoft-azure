@@ -117,6 +117,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Changes coming to Azure Pipelines free grants"
+    excerpt: "With this update, we are including temporary changes that will impact the process to acquire Azure Pipelines free grants. New users will have to send an email and provide additional information to get free CI/CD."
+    publishedDateTime: 2021-03-29T23:36:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/changes-to-azure-pipelines-free-grants/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
     excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
     publishedDateTime: 2021-02-12T20:14:41Z
@@ -244,6 +253,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 59
+  - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+    excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+    publishedDateTime: 2021-03-29T23:33:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 53
   - title: "General availability: Application Insight in UAE Central & Japan West"
     excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
     publishedDateTime: 2021-02-03T17:00:04Z

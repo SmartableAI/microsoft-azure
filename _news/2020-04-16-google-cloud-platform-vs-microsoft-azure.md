@@ -266,6 +266,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
+    excerpt: "\"The Microsoft Azure IoT Platform and Himax WE-I Plus AIoT Platform collectively create a powerful tool for our customers to unleash their creativity,\" said Jordan Wu, President and Chief Executive Officer at Himax. \"We bring to market a reliable ..."
+    publishedDateTime: 2021-03-18T03:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 91
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "14 ways AWS beats Microsoft Azure and Google Cloud"
     excerpt: "For all of its dominance, though, Amazon has strong competitors. Companies like Microsoft, Google, IBM, Oracle, SAP, Rackspace, Linnode, and Digital Ocean know that they must establish a real presence in the cloud and they are finding clever ways to compete and excel in what is less and less a commodity business. These rivals offer great ..."
     publishedDateTime: 2020-04-20T10:02:00Z
@@ -617,20 +631,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
-    publishedDateTime: 2021-03-18T08:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."

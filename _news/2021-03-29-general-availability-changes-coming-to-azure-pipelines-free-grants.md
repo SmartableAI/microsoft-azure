@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
-excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
-publishedDateTime: 2021-02-22T16:50:34Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+title: "General availability: Changes coming to Azure Pipelines free grants"
+excerpt: "With this update, we are including temporary changes that will impact the process to acquire Azure Pipelines free grants. New users will have to send an email and provide additional information to get free CI/CD."
+publishedDateTime: 2021-03-29T23:36:20Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/changes-to-azure-pipelines-free-grants/"
+webUrl: "https://azure.microsoft.com/en-us/updates/changes-to-azure-pipelines-free-grants/"
 type: article
-quality: 68
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Analytics
+  - DevOps
 
 related:
   - title: "General availability: Azure mobile app now supports Azure Government"
@@ -118,15 +118,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Changes coming to Azure Pipelines free grants"
-    excerpt: "With this update, we are including temporary changes that will impact the process to acquire Azure Pipelines free grants. New users will have to send an email and provide additional information to get free CI/CD."
-    publishedDateTime: 2021-03-29T23:36:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/changes-to-azure-pipelines-free-grants/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Azure Cost Management now available for Azure Government Pay-As-You-Go subscriptions"
     excerpt: "Azure Cost Management capabilities to view and analyze costs, be notified when exceeding cost thresholds using budgets, and export usage and charges data is now supported for Azure Government Pay-As-You-Go subscriptions."
     publishedDateTime: 2021-02-12T20:14:41Z
@@ -182,6 +173,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "General availability: Data flows in Azure Data Factory and Azure Synapse now support Reserved Instances"
+    excerpt: "Azure Data Factory (ADF) and Azure Synapse Analytics (Synapse) now offer discounted pricing on data flows based on 1-year and 3-year reservations."
+    publishedDateTime: 2021-02-22T16:50:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-data-flows-in-azure-data-factory-and-azure-synapse-now-support-reserved-instances/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 68
   - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
     excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
     publishedDateTime: 2021-02-18T17:00:06Z
@@ -300,6 +300,6 @@ related:
       domain: microsoft.com
     quality: 41
 
-secured: "Ic3YDGc4DVL3fKVZpXjTQPXzQ6UJqPRK3crVJicWIYOOK+JByGugYcAAB6YAJq4TIDD3UOk+J7CJeuYOzC0tNM7hcCdcvZASnWIotDySHryfI43L5FSApMvdocueXOHQh2T0okV3c9wiMUXdZvvfH4PKUJIEZA9eiHONJGKEPVtBk/EVGUYzWpQke5e4EN75dvSDKYdJAL6rX/+iZb+BBG1TsF6PHh39CPMABCea7LGMFXu2rBoqxMhlu+mCmvPaEnNEUUKbH6aSt2Qi2HGOcAe6/BrBtjfqB0i0qq2ocopYIKrSY6YXyojs7MfCuEDPFokUBfPID/aRu8yRDS51A2ZnMmhwNRRU6Bym7qCmTaE=;zPMVSDGfuiQxoUZHmnegRw=="
+secured: "VrJhVD1kpaqyA6Fiye3C1MctsOIhb48BtYvcDYvirLGbG/DDsMjrdXt8GT4C39J1wExu8sYxUTaHFU2/hhv+Byn6VQ4ltYFJy5jj8yjL8/mDKjvRxCQ03X4N9gkNZ5AZ7oWX42lI0kpBTnlM7CAxlqDMD10W11PM1tElFjr7//DFRTA101mwhbvpAUfsFyFyuEzvNLPxaT8JUln2qLhtb2q0LCz1rvWGHNTZyJTNW4djb/v+HRzzjyWmaOkyBWlFYy0MkTYqFsh8/vB/JNLVjT1wCB/wup8/8Pm5CThNnE51A6MTHWMNhDZD6+LqEP382kyPd4HIiyjyu+2XhJq9GbBDR0MQwzRJYEsNrikHMRQ=;BN+Ck4pUSQNj1pKCVGxpyA=="
 ---
 
