@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
 excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
 publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
 type: article
 quality: 29
 heat: -1
@@ -150,6 +150,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ARFb/DASsoqav5E0P4GU1P/UFVJ+Y+H6Ei/pYeXD5cwk/RVesHW9KRpBE+/3kCBazWGABiLXwXPekBoXm0UT+3yiwaq+WIaan2saJBgKhMoHGg9DenB2JZAOar06QPkej+sUzEdEbUyZqr8MKvABq/n3bKw7NpRu6ZGG4+HYG8dT8aRpDAnNkZ/1ibPEkLOSOGSa2RU/VG8xC0w+JjVYIRRyHyrQLqP7Uvh+Yuk6a8ocme8TqYbrmXr7cPkowVe0M47lGc+4mNMA6I+XYJHIfAqnIAIEPna0lCmIA3PIz3krh62Jn9+zL8VNj0bTC+0ifAvlbpKfkfMtEgfjFl0RS+QBsYXLxB5RCBV7VUyCKS8=;ocQGkWMByx3C74vIJ13wvQ=="
+secured: "FgOOibiOac7PVZwI9MsiHtRcW3S/TzpDxuFpwpYo0kFHI0MS71gmck+VonV1J6qu6Lz4NC60jqFv076ZL1kOfGGPzuF41CV2UoD8ClXf1ts0lgC1IQLphixAx+yGN/D4ucvhyBHOR5plyuBe/S+HLwT6JDkwN6JAfTS61iHU9G9D6vgYZotqb1dEMx8WqyGv+5wImXVn/chPEwNu/MEvEmGcWeyr1M42/4tAd7ZgAaaaKeglWzzZWmhCKug66t0GZbVUxDRnIKbMj8hPNTP3GhVLMEd7Z9C3GMlr9Pv4TbLyKwn07LKxDTJ9xk78KFmuVw0jdx/pTmhNgPjqimmC07M7NvxA16QQhz3f2/GTJaM=;z2UAXfmA9SQwd/IPSHTagg=="
 ---
 
