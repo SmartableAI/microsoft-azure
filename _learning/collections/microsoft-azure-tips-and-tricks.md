@@ -26,6 +26,7 @@ items:
   - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
   - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
   - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
+  - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
