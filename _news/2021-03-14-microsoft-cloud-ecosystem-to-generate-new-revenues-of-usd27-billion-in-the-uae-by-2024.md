@@ -264,20 +264,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-    excerpt: "\"The Microsoft Azure IoT Platform and Himax WE-I Plus AIoT Platform collectively create a powerful tool for our customers to unleash their creativity,\" said Jordan Wu, President and Chief Executive Officer at Himax. \"We bring to market a reliable ..."
-    publishedDateTime: 2021-03-18T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 91
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
     publishedDateTime: 2020-04-16T18:20:00Z
@@ -643,6 +629,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
+    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
+    publishedDateTime: 2021-03-18T08:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 51
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
@@ -1326,6 +1326,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
+    publishedDateTime: 2021-03-18T16:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
     excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
     publishedDateTime: 2021-02-02T15:35:00Z
@@ -1731,20 +1740,6 @@ related:
       - url: "https://cdn.openpr.com/U/3/U322553392_g.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-    publishedDateTime: 2021-03-18T16:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."

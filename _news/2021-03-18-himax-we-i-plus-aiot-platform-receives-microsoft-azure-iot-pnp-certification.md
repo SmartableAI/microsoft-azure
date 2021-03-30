@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-excerpt: "\"The Microsoft Azure IoT Platform and Himax WE-I Plus AIoT Platform collectively create a powerful tool for our customers to unleash their creativity,\" said Jordan Wu, President and Chief Executive Officer at Himax. \"We bring to market a reliable ..."
-publishedDateTime: 2021-03-18T03:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
-webUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
+excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
+publishedDateTime: 2021-03-18T08:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
-quality: 91
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
   - IoT
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -1315,6 +1311,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
+    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
+    publishedDateTime: 2021-03-18T16:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Microsoft's Azure Quantum Computing Open Cloud Platform Hits Public Preview"
     excerpt: "Microsoft has taken a big step in making quantum computing more accessible to customers who can benefit from complex calcuations."
     publishedDateTime: 2021-02-02T15:35:00Z
@@ -1737,20 +1742,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-    excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-    publishedDateTime: 2021-03-18T16:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
@@ -1852,6 +1843,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "dTQ9p97xtWdK+Zpu9O0lljnkgJlPjI0nrBdf/UFRdMTv+2JjJ1DyCx829ryUvlU/Y9rTkkWA9Jd8vP5bAeOSBhKJIXBAw9x2g2HgewDT/BvfbD3Qd9CkawxRSV2ffwUNjKSkanz+ZOXpCjFCIxr293aj7EKGJu2vrngRCN9muN/WfdPgHW8BUCdFfWLRT9Zhzbv2ctr5ZyEhHFC96zl8o2IgXV4Amr7OJWJf9lq2MdSb1Q18hLXPoueh/i7ayTmrVSbGXszL5nI5GjK5sBo6XuytD7oywgov8bqoDLmFoS3HrXkOb9j1+ahq/nfBlcygGBCFHEtBw+Se5jTkFCgRn/d414CVhxUFaNNuJ6YQeF8=;3W+43VllvtH6JoxPo/16pg=="
+secured: "16+C92EVDEgRuRHHesciqtJMuxTLUuDDkPUlXNjRX9xg1hRLljw6s6bfWkLNOw6KzEsX+v/5xCGc1dEFBO1RelJpOHKu31hDkap74gRtz/U3A5/rxc+rG3MwJWyGLKti5q+smrVizSR8Ba3Xez+dJMBh+H01fsGrcXboJJJS2s/WRpyES1PSklovx3znOm8uw2SiY2rUVUFR3+yqOAMOMvODe0qwyd1kaZFTMCQA96nL96xFgaP7BbnsJlKFtzgIwuRHD2U49B5cL8N45LkyenqwVAVW779Y+BUEXt0RNLT/ms8E+XkeHxBSjmXpHf914sUMTiOr2Tg9dHa5pbmPEsnS8jGk+K1zMl00vnNqgWw=;HN/RvEDk8vy+tTVX72YWLg=="
 ---
 

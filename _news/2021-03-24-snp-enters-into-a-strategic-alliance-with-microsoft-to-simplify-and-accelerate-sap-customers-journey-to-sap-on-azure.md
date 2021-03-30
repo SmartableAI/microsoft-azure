@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/SNP-Enters-into-a-Stra
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/SNP-Enters-into-a-Strategic-Alliance-with-Microsoft-to-Simplify-and-Accelerate-SAP-Customers-Journey-to-SAP-on-Azure-145863.aspx"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security, a global leader in automotive cyber security, has collaborated with Microsoft Azure IoT and joined the Microsoft"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure"
     excerpt: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure. Stans, Switzerland I 25 March 2021 - SoftwareONE Holding AG,"
     publishedDateTime: 2021-03-25T06:34:00Z

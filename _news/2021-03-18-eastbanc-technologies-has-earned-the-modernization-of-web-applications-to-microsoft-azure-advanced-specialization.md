@@ -1,27 +1,25 @@
 ---
 category: news
 title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-publishedDateTime: 2021-03-18T16:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
+publishedDateTime: 2021-03-18T16:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
+webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -261,20 +259,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-    excerpt: "\"The Microsoft Azure IoT Platform and Himax WE-I Plus AIoT Platform collectively create a powerful tool for our customers to unleash their creativity,\" said Jordan Wu, President and Chief Executive Officer at Himax. \"We bring to market a reliable ..."
-    publishedDateTime: 2021-03-18T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification-2021-03-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 91
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "GOOGLE CLOUD PLATFORM VS. MICROSOFT AZURE"
     excerpt: "We've compiled the ultimate GCP vs. Azure guide that takes a deep dive into the 10 key ways that the two cloud providers differ. Download the guide for stats, head-to-head comparisons, and customer perspectives that reveal which provider is leading the public cloud race."
@@ -641,6 +625,20 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/03/hbo-max-hero.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
+    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
+    publishedDateTime: 2021-03-18T08:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 51
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
     excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
@@ -1847,6 +1845,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "9ENcwNr3EBw5g8/t8nzBvgvazDujwZRhhFT6rL4fwLXGfGOwOB/otXAXElUHy/ChzwMIs9JOVVPu7/cYuP+a6bt3Quop+TqhgPYP9hejf4OMaWjHEA0dRBEZD3dH/LJoQx4hlyJW4Hdtziazj3bELrCoyWIRq22tGmA2x9UZrNgDIEq9L+8Zz5VGo8YpIwMINF4u6Tcqmhsi5KwHwSz59aJGLWDWqs1ha7+AXR/ZSweP2j84BzPoCSKOvjNgIzsc+K91bul7yF/flDnWn8rAG2bioAkInpuTSh1gNdeGlS0joYqyyvkIG26XkSsVDq7GJFKtzXxEnPC61W65VUDooSvVJSzF5n4/VwOTYIBy5PM=;hy1lQ+c0XMvbN3oPnPCqwg=="
+secured: "6rHdaqoIjl5sBDRDIoKbVZ8kQlC0qlSul/mdvlJxEl9q1YAn9ZlOYmuYz9Ldi0tBQyJJFfrj7uhwg4Qkpm2fkO5oTcQz+fyFEW+5VN++EXqPX3kRQpBBJntG/j1BriWf1nOZb1HYT/aLw+dh1MXF7TW8ZBTr1o3Au1xSC1Rz7OtTZkuNbEBr5qdsA8B5RvSeVEUuAdvgOwZ9slYSQ4G2JZ4j1OI9/nDQM6ziFYeM7cTo/sD+ag3sWrNFiO46pI0qFpuN4tcHV0Byn4l1tc/32s9h0JsN71IMo/g1GeqDD187CvhuPp8sDGbb06Ys12diEX2NSv37IWCgQ6f4XmMup06+l3eJf6/q+/MlhdQgZFA=;WUyX1bMn97gBKo2+UjPchA=="
 ---
 

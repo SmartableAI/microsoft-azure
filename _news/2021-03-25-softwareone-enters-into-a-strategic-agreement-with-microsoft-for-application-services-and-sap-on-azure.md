@@ -18,6 +18,20 @@ topics:
   - Azure
 
 related:
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security, a global leader in automotive cyber security, has collaborated with Microsoft Azure IoT and joined the Microsoft"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
   - title: "SNP Enters into a Strategic Alliance with Microsoft to Simplify and Accelerate SAP Customers’ Journey to SAP on Azure"
     excerpt: "SNP will deepen its collaboration with Microsoft, becoming its preferred partner for SAP on Azure migrations. In turn, Microsoft will be SNP's preferred cloud provider. Microsoft customers planning to move to the cloud can migrate their SAP systems quickly and with minimal risk using the new Cloud Move for Azure software as part of the highly automated CrystalBridge platform while also continuing to benefit from the results of joint development and project work in the future."
     publishedDateTime: 2021-03-24T13:38:00Z
