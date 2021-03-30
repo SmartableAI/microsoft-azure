@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-excerpt: "Argus Cyber Security, a global leader in automotive cyber security, has collaborated with Microsoft Azure IoT and joined the Microsoft"
+excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
 publishedDateTime: 2021-03-30T07:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - IoT
   - Security
-
-images:
-  - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "SNP Enters into a Strategic Alliance with Microsoft to Simplify and Accelerate SAP Customers’ Journey to SAP on Azure"
@@ -50,6 +44,6 @@ related:
       domain: dgap.de
     quality: 1
 
-secured: "uDFvxZ1ef9ZQT3p1OzUDIO/himFIPuXKr3EWBcEps6tr7fzMXAvqEoCoCWbaOdcY9tSrXBBR2Acvj6ZOv2huTTVT3Vih9+Ooabk0/0D3uN4nyGYVVnJi6DEN9kXYcjbrbMD3oms4u3WDqsd7BV7lx3YBA6G3VGmOMTBBUzbA5IoXT5tv5sk34jgoOEWRcuNxorOmznJOPCOfuGHvLafLuxdfvGlwXLvQmCNl5fDqNKg/DQi3ohs4PkY4xTDrYx93oeWq0qj8hTDUG7aorZ+DbeKuWir2nnqAib6oE88JExVQ73cKn8o1H4re+1I4N66HaUDP9GoYeJhAvWY1eKhYtKFBa54xNekGXtMdiT0r5XA=;iXcOOwo2GFVVZgx6FsKMTA=="
+secured: "pK2l6PBbii14b1H5jchrJqwsfzAy1JxwoTtDbcNG9HWyoXgqK3oAHGW8RRpAaIdxOrbt7EbvCsmf7iFy7LybM0UmrlKUvJ17CaXLWv1YFeO7KgUcFbps2RoRgJ06M5dpC54IrlsNYNcDqBrh8oGhfDHTTAnS3wPl8rXxWNmhBM01hiV2++Ol9ulkMkEkNDGM10t2v9DkawVSWGCpUB0X2OZFuxMxQWWq7nts85TtoRE9BOApOfppX8pRu6Bm8baJJOoidKJ+VJ8HQp7Lpn79EDmWTBkps7Ss5SjzcfzZryfZfiRDOpy3I0glreaKQ11bskSA5RHBDN49+NfQsh2mS9aBwc7vvnsc8beCU+8y/cw6MjYL5Sg4X+SdjnUCqC02DP//4P2rSZSbz4MLuqcoBKHqJfXjlBYEIvodWiNfyHSNjtOn/jiF+N9m7zzoDvRfE6WEW6vIjwBkigd64SM0XPolWPBzhJUjbCrJKzzAjCYbQDktEUZOJcN9VRbek7QwtBcf1cVb7xXbc+MlKMWv6Q==;7Ik8lOsq4r/1GvPzeeDvEQ=="
 ---
 
