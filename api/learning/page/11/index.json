@@ -4,6 +4,84 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
+      "title": "Secure your identities by using Azure Active Directory",
+      "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 2662,
+        "average": 4.6945906
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
+      "title": "Introduction to Docker containers",
+      "excerpt": "Introduction to Docker containers",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 4383,
+        "average": 4.6550307
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
       "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
       "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
@@ -11,8 +89,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 12053,
-        "average": 4.764291
+        "count": 12055,
+        "average": 4.7643304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -46,8 +124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3750,
-        "average": 4.7248
+        "count": 3751,
+        "average": 4.724607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -81,8 +159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
       "length": "PT45M",
       "ratings": {
-        "count": 7301,
-        "average": 4.667717
+        "count": 7303,
+        "average": 4.6678076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -177,8 +255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 132,
-            "average": 4.8257575
+            "count": 133,
+            "average": 4.827068
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -221,8 +299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 141,
-            "average": 4.7943263
+            "count": 142,
+            "average": 4.7957745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 195,
-            "average": 4.733333
+            "count": 196,
+            "average": 4.734694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -350,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 132,
-            "average": 4.8257575
+            "count": 133,
+            "average": 4.827068
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -394,8 +472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 141,
-            "average": 4.7943263
+            "count": 142,
+            "average": 4.7957745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -438,8 +516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 195,
-            "average": 4.733333
+            "count": 196,
+            "average": 4.734694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -500,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 992,
-        "average": 4.78125
+        "count": 993,
+        "average": 4.7814703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -543,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 848,
-        "average": 4.7948112
+        "count": 849,
+        "average": 4.795053
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2969,
-        "average": 4.5735936
+        "count": 2972,
+        "average": 4.574024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -622,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 6215,
-        "average": 4.726146
+        "count": 6217,
+        "average": 4.7262344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -656,8 +734,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/",
       "length": "PT37M",
       "ratings": {
-        "count": 9174,
-        "average": 4.6653585
+        "count": 9175,
+        "average": 4.6653953
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +770,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 5855,
-        "average": 4.6345005
+        "count": 5856,
+        "average": 4.6343923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,8 +919,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6151,
-        "average": 4.698423
+        "count": 6153,
+        "average": 4.698521
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4406,
-        "average": 4.7194734
+        "count": 4407,
+        "average": 4.7195373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -920,8 +998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
       "length": "PT58M",
       "ratings": {
-        "count": 6039,
-        "average": 4.622951
+        "count": 6041,
+        "average": 4.6230755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1045,8 +1123,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
       "length": "PT24M",
       "ratings": {
-        "count": 132,
-        "average": 4.8257575
+        "count": 133,
+        "average": 4.827068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1089,8 +1167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 762,
-        "average": 4.7703414
+        "count": 763,
+        "average": 4.7706423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4555,
-        "average": 4.542042
+        "count": 4558,
+        "average": 4.542124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1307,8 +1385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
           "length": "PT28M",
           "ratings": {
-            "count": 6151,
-            "average": 4.698423
+            "count": 6153,
+            "average": 4.698521
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1455,8 +1533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
       "length": "PT35M",
       "ratings": {
-        "count": 7017,
-        "average": 4.744905
+        "count": 7018,
+        "average": 4.7449417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1479,93 +1557,6 @@
       "price": "Free",
       "topics": [
         "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
-      "title": "Analyze costs and create budgets with Azure Cost Management",
-      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 1651,
-        "average": 4.689885
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
-      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
-      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 5963,
-        "average": 4.7345295
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools"
       ]
     }
   ],

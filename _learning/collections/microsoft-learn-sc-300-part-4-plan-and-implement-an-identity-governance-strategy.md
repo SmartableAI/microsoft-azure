@@ -4,7 +4,7 @@ excerpt: "SC-300 part 4: Plan and implement an identity governance strategy"
 type: collection
 price: Free
 length: PT3H9M
-heat: 73
+heat: 75
 
 provider:
   name: Microsoft Learn
