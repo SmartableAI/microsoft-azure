@@ -1,27 +1,25 @@
 ---
 category: news
 title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
-excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
-publishedDateTime: 2021-03-18T16:11:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-web-applications-application-software-computing-and-information-technology-software-bb2df2678f0d9837c9b562d583f447f2"
+excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies' deep knowledge,"
+publishedDateTime: 2021-03-18T16:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
+webUrl: "https://markets.businessinsider.com/news/stocks/eastbanc-technologies-has-earned-the-modernization-of-web-applications-to-microsoft-azure-advanced-specialization-1030225017"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -1847,6 +1845,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "G64VhlbfpaabXy1VOZhivuyNiULCdBDDxedNIofRe6Ze5YwijQvDvm8YeZL1wqw++IKyJS888GXwwt5feXPRRtl1rhVoMN3FwZg45nYLzlEkrFwpk8ewgJbHhsuancP9yptZnkOBFMlqg+DSj89NC+t4bQjnsyFWvmDoMZh9pHAw+sqLgxwsbHU6Z8NTylSeGWQ8Il8SL2drvTJ2a5HmPbzPGqzBxx1f6Mn4weGj4a9MNYuVqRG7Zd4rP9Y3Macn+z5psD/yK/5XguAex2TKEVlI6RRFjgA4V645R+L0b/LQaD/yYnNPxd4sDvVHFyW7uS5AzD1P4676MF3XYpIRH0VWj1CA/r+e/q9H/IS5Mnc=;+5B/vAhdaM/NpC+9vXaDUA=="
+secured: "I0fNcG8ma8jQBfqNUxOOEJ6jhCoAHm2fkp/Ayorp6OrL1DvOh1RCbyGanXVcxAmrk5qsAqPad6+ju+7MJBFapxasrTjCo5Yr19cKqXBMpUpSTKlG29UnMSUhxjzUrCAfyifIWeOeTtNiFLdgGPFg+YUWhStowKwtLXvtFpBJpoGkaMYj/2U8X1mFpsqWrkV5OF3Vwz76RKYtGbAOO3o9bMLhpl/xtxQAYMA+Cw5voN39AjJuoM/6j0XOhmYhT9mAb+OLAzpxaViLPBeeylFpM8BRazUhHxfYi5mNo2joCS6unRFiRshCgj2pgENgb9kZqktt+68oA28hjeYz/1sqyhWIX6WKDhRSjos/azDWjWo=;Z/yGDtuhUVciZ0dvZqlVGg=="
 ---
 
