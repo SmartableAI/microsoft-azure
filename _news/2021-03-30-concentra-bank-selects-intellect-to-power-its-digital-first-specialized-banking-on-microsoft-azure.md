@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
-excerpt: "Concentra was impressed by the business acumen and formidable range of digital capabilities Intellect offers, which are designed and packaged into an API-first, composable, cloud-native digital banking platform that will be deployed on Microsoft Azure."
-publishedDateTime: 2021-03-30T11:59:00Z
-originalUrl: "https://www.newswire.ca/news-releases/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure-884236125.html"
-webUrl: "https://www.newswire.ca/news-releases/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure-884236125.html"
+excerpt: "Canada NewsWire CHENNAI, India and SASKATOON, SK,  Integrated Digi"
+publishedDateTime: 2021-03-30T12:00:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2021-03-30/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure"
+webUrl: "https://www.bloomberg.com/press-releases/2021-03-30/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure"
 type: article
-quality: 23
-heat: 23
+quality: 63
+heat: 63
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1459569/Concentra_Bank_Concentra_Bank_selects_Intellect_to_power_its_dig.jpg?p=facebook"
-    width: 1500
-    height: 784
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Y3u7pnv9urdOr8D49TKhIdBEh5w5El67N9yW9WlaNRkN4xrttTmV8D6mgcfp3t0axt6A4KZwCiq6DioWZwVpZCOcM+OeVdIdOOcP3XTnCGYPhLc+6H7e5kLMXa6BnAmUNzNzNa+EjsXW8H92J1iPCV3/lgiz2xV9EEmN3ltxc5gfm/dJ3/tjYQqJ6P0oIwxUlT2x3y8o4p1MgJVPaOmEZDiwI4sVBaXpQv4YLCxY0/JTcOWTwjEF05p2EOmeY04LlXaHqvoT/YC2wXWcDe+gZf+rSXkw3xsACCmjSjevV8jPMejOfYM2T6ulcUQA4wBytlylRZMXPUMT45FcLYQ8jgWTj/hIusYO/eoeAXbO16qoMOmcD1zStLQwxA8XY/wcd92KO+kp/lKZO493xHx9VUL98+F4+ji4Qh4ZBmGDbRsVQAQ0ObVZGoH9R9tUclIfjZemu5RrcpT3x2itFHkIqHW3tdePDMHFZxIHPGVsZZFR3xAZpFBxM0ny0ezo/vqwTNZR3/smGlX8BJB+jWq07g==;Gbtltq9WVh/tCoNRH1QFKA=="
+secured: "kwJGCFWrdE+2kbUn/ILZP9ta8t6OCEnzP+UD7P1K6rHVeyaEWRa1u8+G0G9EE3jglQC6VT67m1uPvt2sgjrrcg3fM0AF9pjbS7Y/LoNpDv7FAnOl9vBU1aMH0DBJcyNeD1AMs+SqHUm9mYEF8UqjlvPAjz6FBLB7r9lzLf5LFeLu43geshuNOGhYW0z8joz2KQJa0WrzleJqBIOpAzB28ylPWonIYKiVS3I4YbOu7EuD6WOxnAPTuGTgShN+1fqpu3gpbkUu+BVAyaK9TyenlqB5umK510JmtVOQz3Z66YgPYsRlzbVCMQ5qXZsHxXhwSm6CryZjLIc/Vy2lmsGnL81HQWmBgh1r3TAxVVNh8zo=;rXNQeLLFr37b17JDXaL7Ww=="
 ---
 
