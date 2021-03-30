@@ -82,6 +82,20 @@ related:
         width: 1506
         height: 872
         isCached: true
+  - title: "Azure Cost Management and Billing updates – March 2021"
+    excerpt: "March is an exciting month! If you need to control costs and avoid projected overages, you'll want to check out changes to Cost Management budgets. You also have a new view optimized for viewing subscription costs as well as more ways to save, learning resources, and documentation updates. Enjoy!"
+    publishedDateTime: 2021-03-30T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc6464ee-ab4b-4e38-b8a2-ca23b235f49c.png"
+        width: 2194
+        height: 1143
+        isCached: true
   - title: "Azure Cost Management + Billing updates – July 2020"
     excerpt: "July introduces new options to drill into your cost data, save on Azure VMs and Data Lake storage, as well as new videos for even more cost-saving tips and tricks. "
     publishedDateTime: 2020-07-29T10:00:28Z

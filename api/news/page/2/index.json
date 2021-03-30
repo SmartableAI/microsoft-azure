@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-azure-machine-learning-generally-available-announcements-at-ignite-march-2021.md",
+      "title": "Azure Machine Learning - Generally available announcements at Ignite, March 2021. ",
+      "excerpt": "New features now generally available: Custom Views, Cross-Experiment Run Comparison and Role-based access control. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-generally-available-announcements-at-ignite-march-2021/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-generally-available-announcements-at-ignite-march-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T09:00:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-zone-redundant-storage-zrs-option-for-azure-managed-disks-in-limited-preview.md",
       "title": "Zone Redundant Storage (ZRS) option for Azure managed disks in limited preview",
       "excerpt": "Zone Redundant Storage (ZRS) option for Azure managed disks protect disks from zonal failures which may occur due to natural disasters or hardware issues.",
@@ -1111,50 +1154,6 @@
       "topics": [
         "Azure",
         "Integration"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30.md",
-      "title": "Apache Spark Connector for SQL Server and Azure SQL now compatible with Spark 3.0",
-      "excerpt": "We are announcing that the preview release of the Apache Spark 3.0 compatible Apache Spark Connector for SQL Server and Azure SQL, available through Maven.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30/",
-      "originalUrl": "https://azure.microsoft.com/blog/apache-spark-connector-for-sql-server-and-azure-sql-now-compatible-with-spark-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T01:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Databases"
       ]
     }
   ],

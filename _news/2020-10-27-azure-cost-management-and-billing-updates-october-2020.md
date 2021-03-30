@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-upd
 webUrl: "https://azure.microsoft.com/blog/azure-cost-management-billing-updates-october-2020/"
 type: article
 quality: 103
-heat: 403
+heat: 423
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/099b92eb-591a-4ea0-b7b4-78f34f6e8f57.png"
         width: 1506
         height: 872
+        isCached: true
+  - title: "Azure Cost Management and Billing updates – March 2021"
+    excerpt: "March is an exciting month! If you need to control costs and avoid projected overages, you'll want to check out changes to Cost Management budgets. You also have a new view optimized for viewing subscription costs as well as more ways to save, learning resources, and documentation updates. Enjoy!"
+    publishedDateTime: 2021-03-30T10:00:15Z
+    webUrl: "https://azure.microsoft.com/blog/azure-cost-management-and-billing-updates-march-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc6464ee-ab4b-4e38-b8a2-ca23b235f49c.png"
+        width: 2194
+        height: 1143
         isCached: true
   - title: "Azure Cost Management and Billing updates – February 2021"
     excerpt: "February brings two big releases for Azure Government—general availability support for Pay-As-You-Go subscriptions and the cost allocation preview. You'll also see informational insights and a new download experience in the cost analysis preview, new ways to save with Azure, learning videos, and documentation"
