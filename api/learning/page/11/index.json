@@ -4,171 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-custom-roles-rbac.md",
-      "title": "Create custom roles for Azure resources with role-based access control (RBAC)",
-      "excerpt": "Learn how to create custom roles for Azure resources with role-based access control (RBAC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-custom-roles-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 2998,
-        "average": 4.716811
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-custom-azure-roles-with-rbac-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-design-monitoring-strategy-on-azure.md",
-      "title": "Design a holistic monitoring strategy on Azure",
-      "excerpt": "Use monitoring services on Azure to bring operational excellence to your applications and infrastructure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-monitoring-strategy-on-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 2159,
-        "average": 4.623437
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-monitoring-strategy-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Management Tools",
-        "Security"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-azure-ad.md",
-      "title": "Secure your identities by using Azure Active Directory",
-      "excerpt": "Use Azure Active Directory to you secure your internal, external, and customer identities.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-ad/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 2659,
-        "average": 4.694246
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-ad-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-docker-containers.md",
-      "title": "Introduction to Docker containers",
-      "excerpt": "Introduction to Docker containers",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-docker-containers/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 4381,
-        "average": 4.6548734
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
       "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
       "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
@@ -176,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
       "length": "PT21M",
       "ratings": {
-        "count": 12049,
-        "average": 4.7642126
+        "count": 12053,
+        "average": 4.764291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -211,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3748,
-        "average": 4.7246532
+        "count": 3750,
+        "average": 4.7248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 131,
-            "average": 4.8320613
+            "count": 132,
+            "average": 4.8257575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +221,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 140,
-            "average": 4.792857
+            "count": 141,
+            "average": 4.7943263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -430,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 192,
-            "average": 4.7291665
+            "count": 195,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -515,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
           "length": "PT24M",
           "ratings": {
-            "count": 131,
-            "average": 4.8320613
+            "count": 132,
+            "average": 4.8257575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -559,8 +394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
           "length": "PT38M",
           "ratings": {
-            "count": 140,
-            "average": 4.792857
+            "count": 141,
+            "average": 4.7943263
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -603,8 +438,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
           "length": "PT54M",
           "ratings": {
-            "count": 192,
-            "average": 4.7291665
+            "count": 195,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -665,8 +500,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 990,
-        "average": 4.780808
+        "count": 992,
+        "average": 4.78125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -708,8 +543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 845,
-        "average": 4.795266
+        "count": 848,
+        "average": 4.7948112
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -744,8 +579,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/",
       "length": "PT46M",
       "ratings": {
-        "count": 2967,
-        "average": 4.5739803
+        "count": 2969,
+        "average": 4.5735936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 6213,
-        "average": 4.7260585
+        "count": 6215,
+        "average": 4.726146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -963,8 +798,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
       "length": "PT39M",
       "ratings": {
-        "count": 865,
-        "average": 4.747977
+        "count": 868,
+        "average": 4.748848
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1006,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6149,
-        "average": 4.698325
+        "count": 6151,
+        "average": 4.698423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 4405,
-        "average": 4.71941
+        "count": 4406,
+        "average": 4.7194734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1210,8 +1045,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
       "length": "PT24M",
       "ratings": {
-        "count": 131,
-        "average": 4.8320613
+        "count": 132,
+        "average": 4.8257575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,8 +1089,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/",
       "length": "PT24M",
       "ratings": {
-        "count": 761,
-        "average": 4.7700396
+        "count": 762,
+        "average": 4.7703414
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1439,6 +1274,298 @@
       "topics": [
         "Azure",
         "Identity"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-for-the-data-engineer.md",
+      "title": "Azure for the Data Engineer",
+      "excerpt": "This learning path guides data engineers through the evolving benefits your organization gains with Azure cloud data platform technologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-for-the-data-engineer/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-for-the-data-engineer/",
+      "length": "PT1H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-evolving-world-of-data.md",
+          "title": "Understand the evolving world of data",
+          "excerpt": "Discover how data systems and roles are evolving and explore the differences between on-premises and cloud data solutions using sample business cases.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evolving-world-of-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 6151,
+            "average": 4.698423
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 58,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-survey-the-azure-data-platform.md",
+          "title": "Survey the services on the Azure Data platform",
+          "excerpt": "Explore the broad array of Azure technologies that analyze text or images and relational, nonrelational, or streaming data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-the-azure-data-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 5470,
+            "average": 4.6952467
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/survey-the-azure-data-platform-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Storage"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-data-engineering-processes.md",
+          "title": "Identify the tasks of a data engineer in a cloud-hosted architecture",
+          "excerpt": "Learn about the responsibilities of a data engineer, how they relate to the jobs of other data and AI roles, and explore common data engineering practices.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-data-engineering-processes/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 5641,
+            "average": 4.7229214
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/data-engineering-processes-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/evolving-world-of-data-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-align-requirements-in-azure.md",
+      "title": "Align requirements with cloud types and service models in Azure",
+      "excerpt": "Discover Azure's three approaches to deploying cloud resources -- public, private, and hybrid -- and learn the difference each makes in your Azure services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-align-requirements-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 7017,
+        "average": 4.744905
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management.md",
+      "title": "Analyze costs and create budgets with Azure Cost Management",
+      "excerpt": "Learn how to use cost analysis to understand how your costs accrue each month.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-costs-create-budgets-azure-cost-management/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 1651,
+        "average": 4.689885
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-costs-create-budgets-azure-cost-management-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs.md",
+      "title": "Analyze your Azure infrastructure by using Azure Monitor logs",
+      "excerpt": "Use Azure Monitor logs to extract valuable information about your infrastructure from log data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 5963,
+        "average": 4.7345295
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/analyze-infrastructure-with-azure-monitor-logs-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Management Tools"
       ]
     }
   ],

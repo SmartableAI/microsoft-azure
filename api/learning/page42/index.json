@@ -4,49 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-transform-data-with-dataframes-apache-spark-pools-azure-synapse-analytics.md",
-      "title": "Transform data with DataFrames in Apache Spark Pools in Azure Synapse Analytics",
-      "excerpt": "Transform data with DataFrames in Apache Spark Pools in Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transform-data-with-dataframes-apache-spark-pools-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-dataframes-apache-spark-pools-azure-synapse-analytics/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 17,
-        "average": 4.647059
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
       "title": "Trigger an Azure Event Grid workflow from an IoT device",
       "excerpt": "Trigger an Azure Event Grid workflow from an IoT device",
@@ -478,8 +435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-data-warehouse-developer-features-of-azure-synapse-analytics/",
       "length": "PT33M",
       "ratings": {
-        "count": 22,
-        "average": 4.318182
+        "count": 23,
+        "average": 4.347826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1271,6 +1228,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/wvd-msix-app-attach-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-wvd-security.md",
+      "title": "Secure a Windows Virtual Desktop deployment",
+      "excerpt": "Introduction to Microsoft security capabilities that can keep your applications and data secure in your Windows Virtual Desktop deployment.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-security/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-security/",
+      "length": "PT56M",
+      "ratings": {
+        "count": 77,
+        "average": 4.805195
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/wvd-security-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
