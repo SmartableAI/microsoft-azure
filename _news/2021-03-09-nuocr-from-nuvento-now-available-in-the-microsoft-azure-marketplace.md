@@ -2,24 +2,26 @@
 category: news
 title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
 excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
-publishedDateTime: 2021-03-09T15:18:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
-webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
+publishedDateTime: 2021-03-09T15:13:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Microsoft launches Azure Arc machine learning and container services"
@@ -1578,6 +1580,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "7IbOlGVZIAZAbjbDGWBfxNIBkgluauH+HxqgByRGIRYFcZhOeieFdH2P3+Gn2WPlgeqzCSmNDS1nQ5oWEgyabpdNx1xBNZh+yiOYmg4C3iq3Y3iliJ731j0RR4Ji+4qF2L0csIVfW5E6Jz/kgyWXHZsKyrXqE8p2juy0i1lw2GZwczErOoWtEdg2yUDSRfSJn/dip/Hq7W+QceqY5sWzia1bDWK1BcGZJDwDBz2/ET9twGnm1vsAa5GMnCiXsw7KUKCZxxq3LrMaVubbKEFRab/2ybCVP369RTf3rItX51RStF/Dt5yxmeZ/wkHWoeo1joNX2Ddj71viX5Q/i3TW45jj4S6CQGMNLElFM44nRUk=;3e8+K+ZyCdM1CdkOOWgdeA=="
+secured: "wr/GmvJgtSN68fD+oNk/+fGgvvdu+wE5kDLFkBQohssOqLMMt4foENSusOPXBkaI4+91xlo8f1Cn17r3tD//i6IPuKOESbAFa+2OPvHVjBXnpjruKm/BrfKcugySwVee0S6E/pj2wsC/PXBPxY2Igml9iwOB0OrjJjbvdBmPHs3AI9MEW74fUnCNZVKBkN4B+Z+Z60WzFHNcGqwYupO9bpSfNF/FCByVRh489gM1FAxgzXa7pIyaYB+UuZQWUwkbHBtyCMJxzey3CjUSNvCkXtt+nQyB3KkJh6GmG93j1ZPtNPi+4FmHUmLdHuS99Oe1xN7aFe0pwU4TkrkVgNDTt2o0Cb8A8yNanD57TcIZluk=;h8ty1O4JG7L471cwHi1RyQ=="
 ---
 

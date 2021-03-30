@@ -614,15 +614,6 @@ related:
         width: 800
         height: 622
         isCached: true
-  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
-    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
-    publishedDateTime: 2021-03-09T15:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-1030164589"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Microsoft Bumping Up SLA Support for Azure Active Directory B2C Service"
     excerpt: "Microsoft had lots to say this month about its Azure Active Directory service. Organizations can look forward to a coming new B2C service-level agreement (SLA). They're also getting deprecated support in the Azure Kubernetes Service."
     publishedDateTime: 2021-02-25T15:40:00Z
@@ -1226,6 +1217,20 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/03/Featured_Image.jpg"
         width: 850
         height: 385
+        isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "However, by integrating the technology with Azure, we are delighted to scale the product to meet the needs of other document-intensive industries, like pharma and legal. Microsoft Azure provides ..."
+    publishedDateTime: 2021-03-09T15:13:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Microsoft Launches Azure AD External Identities"
     excerpt: "Microsoft had previewed External Identities back in May 2020 during its Build developer event. It was also one of the Azure AD features highlighted at this month's Ignite event as having reached ..."
