@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/scale-cloud-adoption-with-modular
 webUrl: "https://azure.microsoft.com/blog/scale-cloud-adoption-with-modular-designs-for-enterprisescale-landing-zones/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 503
     isCached: true
+
+related:
+  - title: "Deploy key design principles with enterprise-scale architecture"
+    excerpt: "When embarking on any project or new implementation, there are always key design and decision points to be discussed and fully understood. Deploying an enterprise-scale landing zone and subsequent resources to the cloud is no different. The enterprise-scale architecture prescribed in this guidance is"
+    publishedDateTime: 2021-03-31T08:00:29Z
+    webUrl: "https://azure.microsoft.com/blog/deploy-key-design-principles-with-enterprise-scale-architecture/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4b7b218a-0abc-497b-afd7-d2b86228b116.png"
+        width: 1024
+        height: 464
+        isCached: true
 
 secured: "6yhNs5Xpqom80nIWu949SzyO2txpjaxyxhMPwEzjRNGeh+UHUpE7spls6eYFzkJlz34wECqY151wwGxqayay8suBhw4Q1CbqjzDbis2ajyMkWt8oWYiQzaEoD9WKaXpuUzU5WyxA5y1s+8UnEH1bx+RUw0qb2sWwK1xGUrFx/6ukLSaFCQaVfJGt17lSGLoxjT9hGhCmH/IzgcM3Ddasmoi0tr8zxPmUZbqRK3M55gn2xa20j8hAB6gIjYmCtwRAO4Bzw+im93ymZOB36lezPQZyU9qGcqVCIw7VhU62zmEcMZaIpBVpZe+bPj6YFTdpaCNS9x62UOInnQuB8Ny8cYqGEDakMxjQf5DAbaGJRQM=;LtFeufNvLLn/YDiSOY9z6w=="
 ---

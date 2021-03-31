@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
-excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
-publishedDateTime: 2021-03-26T17:18:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
-webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
+excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
+publishedDateTime: 2021-03-31T14:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
-    width: 800
-    height: 400
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -81,6 +81,20 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 54
+  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
+    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
+    publishedDateTime: 2021-03-26T17:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 37
+    images:
+      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
     publishedDateTime: 2021-03-29T02:51:00Z
@@ -94,20 +108,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
         width: 752
         height: 408
-        isCached: true
-  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-    publishedDateTime: 2021-03-31T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
@@ -163,6 +163,6 @@ related:
         height: 480
         isCached: true
 
-secured: "N7RrUN/HVEM0nEdT2kf0R/7xKS67Azj0fioK2TcFV7O91aQxgcwymvgPB02aBq6AGVnHcak6D7MmXuKcJecQ5GHvDFjzsmYff+TZ+ybYSK4aJBO+dshbyGj+stSLivIDLL0ZnomE/6kdbapx5FAlX4+i+DAZLTaE+ZXnI3svgT9MMRmupS76nhXKjHnVX5LU0LN9C3egO/QJZMQU6jy3byrc5UtQEfLwGKRq5gxDEFtlt5B5VUENL1tYBTpQ+w0RBvmqnNeOjSioxF8ZKQmsVtwt2t79qAk79OKBNgD/9K3xPa9+Z0Z6Vd9djx/8X2bYTvIJyxJgjyIna7l7PsMPMQYKCBjHjZroXafVADzdWas=;ovjrOjh0NgKnsSiIX0MVWw=="
+secured: "PbHr9/FqdgLcHhDB2To/cDl/NsCCpm6akeE+rwhSd5UB0e2qH1nBx8QismbL5XeEd/iIxTzR4IC4OkycZGLohmEG23jh5mwbN7PSVyX1rZmq77hGl0+nF27RnWa6hsF5+yhX0iw7XGfDH6lnPyrz8dIuxiUIhvyXm19pvgheeNoPkYWjW5dGibOTPcrASiTEb2sdvEJ1FMtHY8+JB2ErM3eGqKZ+qCK0RzN1pbDZ0ZeuUPzJEQmAISllRKZa/UxY3JeSH1l+hyBhxIzUnygMJ3rPEu0VRSIfV4eqaKUKCtj2A/HOQkgFqmmlv8LyWTt2umWFTsGkBqmIpcVfhAlpzjRDubPDj98pCqMmAZog6Do=;/soFHh7RuUbdJQ/iyWVfBw=="
 ---
 

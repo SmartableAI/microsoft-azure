@@ -110,6 +110,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
+    publishedDateTime: 2021-03-31T14:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
     publishedDateTime: 2021-03-26T11:33:00Z

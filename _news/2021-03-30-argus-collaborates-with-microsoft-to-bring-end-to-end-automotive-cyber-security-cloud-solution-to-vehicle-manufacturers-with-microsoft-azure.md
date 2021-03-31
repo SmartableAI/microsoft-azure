@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
-publishedDateTime: 2021-03-30T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
+publishedDateTime: 2021-03-30T07:04:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
 type: article
-quality: 14
-heat: -1
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - IoT
   - Security
+
+images:
+  - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "SNP Enters into a Strategic Alliance with Microsoft to Simplify and Accelerate SAP Customers’ Journey to SAP on Azure"
@@ -35,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pK2l6PBbii14b1H5jchrJqwsfzAy1JxwoTtDbcNG9HWyoXgqK3oAHGW8RRpAaIdxOrbt7EbvCsmf7iFy7LybM0UmrlKUvJ17CaXLWv1YFeO7KgUcFbps2RoRgJ06M5dpC54IrlsNYNcDqBrh8oGhfDHTTAnS3wPl8rXxWNmhBM01hiV2++Ol9ulkMkEkNDGM10t2v9DkawVSWGCpUB0X2OZFuxMxQWWq7nts85TtoRE9BOApOfppX8pRu6Bm8baJJOoidKJ+VJ8HQp7Lpn79EDmWTBkps7Ss5SjzcfzZryfZfiRDOpy3I0glreaKQ11bskSA5RHBDN49+NfQsh2mS9aBwc7vvnsc8beCU+8y/cw6MjYL5Sg4X+SdjnUCqC02DP//4P2rSZSbz4MLuqcoBKHqJfXjlBYEIvodWiNfyHSNjtOn/jiF+N9m7zzoDvRfE6WEW6vIjwBkigd64SM0XPolWPBzhJUjbCrJKzzAjCYbQDktEUZOJcN9VRbek7QwtBcf1cVb7xXbc+MlKMWv6Q==;7Ik8lOsq4r/1GvPzeeDvEQ=="
+secured: "h9ygKFB/OLETeqCj92ht0wpxQu9XnCjId2qLSWEYkQO434Y+dvYObfBqeJYYBlMdtPyHKvlRwxPFsHGHM0M/kpxjv46go5gARDbrQ+l4f132uAm4UK7pHqfL4UhW2d2xPbTSigEqKXKbblRakfcy1X/x7jDgALmYshtDDG6S+hmZfPTTv0XD6m0j55/DY3cLoWjRdps4GiMIRJgmDwvnZcIR1FQY4eBlQpMKQMMld0B6Spp8RxIdTkjZVPppkKUMqRMRBR3cU3z56oRcd7JspT2MXm7bhdtcHI/oRv/p5dp09wVxSse/s3+tgbKUaMuSPEP9iR+Hrouxaf1BGFHvWj4UZHdQE4s1EZ3kGTaFa+A=;wXHOJFkgGvII6TFAtYq1UQ=="
 ---
 
