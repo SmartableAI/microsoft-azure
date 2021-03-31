@@ -4,9 +4,9 @@ excerpt: "In this edition of Azure Tips and Tricks, you'll learn how to work wit
 originalUrl: https://youtube.com/watch?v=igLj2WlVQ9M
 type: video
 price: Free
-length: PT1M26S
+length: PT1M25S
 publishedDateTime: 2018-09-13T17:18:15Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/igLj2WlVQ9M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kRVjvC7+2Ymk29BY752N+Uys/0Zik0CtLV9vERWcqQmsNKkb4H7D/6RT0Q/510zi3ba32TlOo6EVanuFFf2LU0sMlee3XblHhfQyu+qt/7AJ7zm7SaYv2+VV8Zrz3PzRnDpPQPjYFgE+R+6d4u9KXb09CLwvreT4KrcdcyzpQ4cd+3xsptdEW+GjXZaHEGPDFeG45ouOHAmPydbQuTHdN4tDSvjAWU1xT1/IGexKqoOc5zNL6S6Sce8Mc1A6aE1W3Z9Jb/rQDbYHvp9B/wl/8xwyrJnmpZLpXfuXEKxQIJAuYZxTTz7qdG3Wa5N7eYtGLW0iDpkXAMZKAwSasnwgcSLi0tdHfZeNDmjZ/9ZK0jVyVEfCRa6aAGAJ8dLc67k4AcZArBoOH43JAwfG49sSAHTuBlaqdeX6eftRgbREGx4=;JoQLCBebdy9c7KoscAHMZQ=="
+secured: "k/DNfUJErq8t6bzx9sURXD1KSCFW6BjlEIwICL3Q0x4EHou4tuz4UrCO0yALBKjEXKb5ZIFosazTJevST8Drc/EMQK8+p/g7RO0E244Y9C3SAtiHn6m8rM4I3fLn8fGsaDIU4nEwnZGCOUGuoOYp7DTiOwAuPQktMU6x+Dk90/q3+sRViLZIYnPi1lJPlxGt4fI9tJLhpOij4M88LjRbZ8bayEWjKkk8xRufZvFA/l2EB0MTJ3rJeaIGrF8QUw7Bzv+SBDUyBwDPOMuHs7VWJvBz+5FLaga1gH8oZ9xmqwxn6A0zNQrYxPxP6nSbupZYiWoN/50qly8mmGN4VVnLzvBneVLkV0CGMHQSeML23jbrUIrpN0z7kGlR6E+AZKjk59Gbx9JJWMXnBMCglgmKbSzhtFAqLT+FRU1/WTcFATc=;au8RWE2S7qCZ1U9ogfja0Q=="
 ---
 
