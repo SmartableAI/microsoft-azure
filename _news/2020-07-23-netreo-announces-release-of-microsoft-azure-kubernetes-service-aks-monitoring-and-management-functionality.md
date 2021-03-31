@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "Customers can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-03-31T16:01:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Application Gateway Ingress Controller for Azure Kubernetes Service"
     excerpt: "Today we are excited to offer a new solution to bind Azure Kubernetes Service (AKS) and Application Gateway. The new solution provides an open source Application Gateway Ingress Controller (AGIC) for Kubernetes, which makes it possible for AKS customers to leverage Application Gateway to expose their"
     publishedDateTime: 2019-12-02T10:00:27Z

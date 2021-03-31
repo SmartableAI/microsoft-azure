@@ -149,10 +149,24 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
+    publishedDateTime: 2021-03-31T16:08:00Z
+    webUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 33
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20552888_G.jpg?lastEditedDate=1617192501000"
+        width: 840
+        height: 460
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
     publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
     type: article
     provider:
       name: WFMZ-TV

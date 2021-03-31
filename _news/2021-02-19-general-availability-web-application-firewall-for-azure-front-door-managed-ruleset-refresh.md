@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall
 webUrl: "https://azure.microsoft.com/en-us/updates/web-application-firewall-for-azure-front-door-managed-ruleset-refresh/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -22,15 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Application Insights availability troubleshooting report for URL tests "
-    excerpt: "Azure Monitor Application Insights has released a troubleshooting report for URL ping web tests to help quickly identify the root cause behind a test failure."
-    publishedDateTime: 2021-02-17T17:01:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/application-insights-availability-troubleshooting-report-for-url-tests/"
+  - title: "General availability: Azure Machine Learning updates for native terminal  "
+    excerpt: "Users can now perform any CLI operation directly in the Azure ML Studio."
+    publishedDateTime: 2021-02-17T17:06:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-updates-for-native-terminal/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 52
+    quality: 97
+  - title: "General Availability: Azure Red Hat OpenShift support for OpenShift 4.6"
+    excerpt: "Benefit from new features and enhancements in OpenShift release 4.6."
+    publishedDateTime: 2021-02-18T17:00:06Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-46/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "General availability: Azure Data Explorer (ADX) Performance Updates "
+    excerpt: "The next version of Azure Data Explorer (ADX) with performance updates is now available.\n"
+    publishedDateTime: 2021-03-17T16:00:25Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-adx-performance-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "9QL/L+G2tDgiusSVJYoVzaReKBlimY8SV3IfVrKAsKyBiAJAMVWb6w3YS4Nv45t0bBnjm8UO9G3fyxd+gPq47skUaTn2tgM5XNFFz6CeFKB6eqAPozNpPqkwwRVK61yJxsk9GiZ+RFS+Yic66Dd6ZwbqyuqSIMNIPXjC6LPsCfA30YoGC7uBdJqe/rg4Lrh5745QoNyFjNFZ4yWSUE+bFqMv+K27Fe3+HbLmoFJZT2ntUuFP3SFNljpxjkIqwjjYWlA6ih2Ef/wTLLFIPydzYGylX/pxaZzCyfTyuTqE9Qu65I5ynqDoY53nqoxnqCW1zLCXzhOTy5ohAAHj4wsPMagH6lhawORYt7M4rodJjx8=;D/H0vSTwLAZ6qVQBACyzbg=="
 ---

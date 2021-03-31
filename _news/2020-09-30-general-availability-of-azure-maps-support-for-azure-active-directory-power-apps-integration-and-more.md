@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-map
 webUrl: "https://azure.microsoft.com/blog/general-availability-of-azure-maps-support-for-azure-active-directory-power-apps-integration-and-more/"
 type: article
 quality: 111
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "General availability: Azure Availability Zones in more regions"
-    excerpt: "Azure Availability Zones are now generally available in Australia East and Canada Central."
-    publishedDateTime: 2020-09-30T16:01:12Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-availability-zones-in-australia-east/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "BHcAA+tzvsjyPnJ5A9XHuLm/ngE0T7EOaPw2exYvIK2RSkXILgp8b3/1ClyrVuLj7/O1VwbX2DmSOMyPcTxArA1vOyVGJJrtlxNs5yOTkGdH1iQZnDjEjtlldm2k7mcwuMLTMyQArEQL1GRAJ1zGFXaNiLB9rf7yqLCbSN3hgXBrQ1RoHbvrZq5VcAyLz7/Y1j4PlAyX5MGOISKn10W/45FgOjy2DYmzJxzHkzue8SaGHdfmn42rqUzcL+tqwv34FfNbpgJ18g5Btn+rHclMNnmkIIBwt8QJT9j4Lwj4LAqd45qduESaJZkp+WSkYxVzcoxGir9i8PtcnEQZS6yro1Yyro2YvOYppAqR4b2tYro=;GNiFd/Ey69CMhvi+4rGxkA=="
 ---

@@ -32,15 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
-    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
-    publishedDateTime: 2020-09-22T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
     excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
     publishedDateTime: 2020-09-22T16:00:00Z
@@ -81,15 +72,6 @@ related:
     excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
     publishedDateTime: 2020-08-17T23:01:22Z
     webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Arc enabled SQL Server"
-    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
-    publishedDateTime: 2020-09-22T16:05:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
     type: article
     provider:
       name: Microsoft

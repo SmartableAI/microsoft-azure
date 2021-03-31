@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
     excerpt: "Now you can on-board all your Kubernetes clusters in production and manage them centrally from Azure with the help of Azure Arc which is generally available today."
     publishedDateTime: 2021-03-02T17:00:10Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "Customers can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-03-31T16:01:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
     type: article
     provider:
       name: Microsoft

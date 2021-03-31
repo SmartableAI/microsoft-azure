@@ -21,42 +21,78 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MariaDB  is now available in the France South region"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-is-now-available-in-the-france-south-region/"
+  - title: "Azure Database for MySQL Flexible Server in preview"
+    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 17
-  - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-minimal-tls-version/"
+    quality: 99
+  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
+    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
+    publishedDateTime: 2020-09-22T16:00:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 16
-  - title: "Minimal TLS version setting is now available for Azure Database for MariaDB"
-    excerpt: ""
-    publishedDateTime: 2020-06-04T17:00:49Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-minimal-tls-version/"
+    quality: 99
+  - title: "App-consistent backup for Oracle and MySQL DBs in preview"
+    excerpt: "Pre-packaged script based solution to get application consistent snapshots for Oracle and MySQL DBs. Just provide connection information and workload name and leverage the instant restore benefit of Azure VM backups and minimize costs by selectively include/excluding relevant disks."
+    publishedDateTime: 2020-09-22T16:03:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/appconsistent-backup-for-oracle-and-mysql-dbs/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 15
-  - title: "Azure Database for MySQL support for intelligent performance with MySQL 8.0 is now available"
-    excerpt: ""
-    publishedDateTime: 2020-05-25T17:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/intelligent-performance-mysql-8/"
+    quality: 52
+  - title: "Public preview: Up to 10 read replicas for MySQL - Flexible Server"
+    excerpt: "Azure Database for MySQL - Flexible Server enables read-heavy workloads to scale out and be balanced across replica servers according to preferences. "
+    publishedDateTime: 2020-10-28T16:25:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-flexible-server/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 6
+    quality: 52
+  - title: "Additional IOPS feature for MySQL - Flexible Server in public preview "
+    excerpt: "MySQL - Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-iops-feature-for-mysql-flexible-server-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Additional IOPS feature for MySQL - Flexible Server in preview "
+    excerpt: "MySQL – Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
+    publishedDateTime: 2021-02-17T17:00:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-iops-feature-for-mysql-flexible-server-in-preview-4/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
+    publishedDateTime: 2020-08-10T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 3
 
 secured: "CpDS+/FQAll3lV/rXI0HIM5BgU/Xyp1KRIGGK1aROP1VH8jIiirAArjVXg+4MbIDB1umlzxz2DAP+AsBc0to1yrFeQRkoYymwiY7vwK6Tn2RPTOIN3ibsGRd8ckLscJlpQqFJeOr8IChb7NQ8JQnfc69enpxb0U6ZAf/YUkUyWcUDGnLjCUlsorBgjGPUiA6Jky24H8rYkCL6suDz77Ea0cyNce2rMoPulKe/nLpIn560SYfDf6tnM/VZ0jzphMUNJasrJnCcezuS4C03fyfBnq2H8/vJozFGHujxssb9f/vuPhjbHHJOXOjBw2dQyd+O9QjIUoKqOaHTLskrJOQ8Q==;xLwgmnlA6/2M56dQJa0cag=="
 ---

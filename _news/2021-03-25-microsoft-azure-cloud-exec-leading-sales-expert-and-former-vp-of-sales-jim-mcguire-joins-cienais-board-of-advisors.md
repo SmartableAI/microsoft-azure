@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
 excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
 publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
 type: article
 quality: 29
 heat: -1
@@ -149,6 +149,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
+    publishedDateTime: 2021-03-31T16:08:00Z
+    webUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 33
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20552888_G.jpg?lastEditedDate=1617192501000"
+        width: 840
+        height: 460
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
     publishedDateTime: 2021-03-26T11:47:00Z
@@ -164,6 +178,6 @@ related:
         height: 480
         isCached: true
 
-secured: "grq/DnHUfCO55icsivbaMZs8VnCtM9T3MXl+JHIt8fd8jPPIrDQ6Jui/6Lvi5H2JPFgefDa+3eV4yi3ZgNPWFbAY9G/rpo3UyMXKl1r4F8Pzv6rzv4EYHjgoqDvvid2jG84WgmqMjJZPA7/Wyfm40EM+rQe1e9COnu+/OINDY7EOlE7VPBtyx4ndYww+WCduJKIJSqjRIStl7PIta6ZjOp+aiN1Z6OS/6im7gXamBf2UbNdSwp5KYJJ4/n1lDMWroJ11at2nqB2QrtuonKDpGD94qDtUjCZqXFBmvOQ0+4bxAFYYWL7YyzdtQg1yIGTh6oL61Y7RfIaARzT/WiZo7Pp0VrfzySJGIVEkW+Qc+dA=;e5JIz+fWK7V/e4RthMridA=="
+secured: "LdFuXl/tjr0i4STnKFcuUmdhbr1mpnLHfIQvyijuV6STwqmLgCANvutVt+UxM5ZoKBFd+QqJ0lYAZDimSzBHpphYRYLunnvqJE61X/NY/JR2395FDMtyJxxvXNBuOOguK3xlfpb2oaUkPgxZ2NFeWKlvkPRTa/OGOAPv87Ltlf+jlOl0Cyln8XLProB3O3+tX0EoiumeBHHxptJM/T5K/fu+h28Oi/BZzgLapHElK7hCx8ATav4/cI4QQd0tChQwqz1kYayIFJ4BD7MqA1RYX/bxFJJT0s5XTEsV3/27S/Nm6kOgOcL4CobNWnajgDuBYSn4GzwE9l5IUP0XjQSIddG7ao1nRryRV2WjDjhZsGs=;Ez+c9HnUbECbkTuL4Pu0DA=="
 ---
 

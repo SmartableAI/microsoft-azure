@@ -48,6 +48,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Public preview of Azure Kubernetes Service (AKS) run-command feature"
+    excerpt: "You can now invoke commands in an AKS cluster for just-in-time access when you are not on the cluster private network. "
+    publishedDateTime: 2021-03-31T16:01:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-azure-kubernetes-service-aks-runcommand-feature/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Burst 4K encoding on Azure Kubernetes Service"
     excerpt: "Burst encoding in the cloud with Azure and Media Excel HERO platform.\r\n\r\nContent creation has never been as in demand as it is today. Both professional and user-generated content has increased exponentially over the past years. This puts a lot of stress on media encoding and transcoding platforms. Add"
     publishedDateTime: 2020-02-24T11:00:15Z
@@ -62,6 +71,15 @@ related:
         width: 980
         height: 516
         isCached: true
+  - title: "Azure Kubernetes Service (AKS) now supports node image autoupgrade in public preview"
+    excerpt: "You can now opt-in to have your node image auto-upgraded when a new AKS node image becomes available"
+    publishedDateTime: 2021-03-31T16:01:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-kubernetes-service-aks-now-supports-node-image-autoupgrade-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 92
   - title: "Confidential computing nodes (DCSv2) on Azure Kubernetes Service (AKS) is generally available"
     excerpt: "Confidential computing capability now available on AKS for your container workloads. \n\n"
     publishedDateTime: 2021-03-02T18:00:03Z

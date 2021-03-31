@@ -30,15 +30,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Public preview: Stop/start functionality for Azure Database for MySQL"
-    excerpt: "With the new database stop/start functionality, you can stop the database server when not in use (during non-business hours) and start it when it s back online. "
-    publishedDateTime: 2020-09-22T16:00:35Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/stopstart-functionality-for-azure-database-for-mysql/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "New Azure Orbital, ground station as a service, now in preview"
     excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
     publishedDateTime: 2020-09-22T16:05:27Z
@@ -84,15 +75,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Azure Arc enabled SQL Server"
-    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
-    publishedDateTime: 2020-09-22T16:05:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
     excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
     publishedDateTime: 2020-09-22T16:05:01Z

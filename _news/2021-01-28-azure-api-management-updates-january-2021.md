@@ -41,6 +41,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Support for Azure API Management certificates in Azure Key Vault has reached general availability."
+    excerpt: "You can now enhance security by storing, managing, and referencing API Management’s certificates in Azure Key Vault."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-certificates-in-azure-key-vault-has-reached-general-availability/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
+  - title: "General availability: Azure Log Analytics in UAE Central & Japan West"
+    excerpt: "Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West. "
+    publishedDateTime: 2021-02-03T17:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: Azure HDInsight extends capabilities for encryption of data in transit and at rest"
     excerpt: "Azure HDInsight Internet Protocol Security (IPSec) encryption in transit is now generally available. HDInsight also supports version-less keys for customer-managed key (CMK) encryption at rest."
     publishedDateTime: 2021-01-25T17:00:35Z
@@ -77,6 +95,24 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "General availability: Application Insight in UAE Central & Japan West"
+    excerpt: "Application Insight, a part of Azure Monitor, is now generally available in UAE Central & Japan West regions for customers to collect telemetry and analyze their service health in production environments. "
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uae-central-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "General Availability: Custom Neural Voice, a Text-to-Speech capability within Speech Service "
+    excerpt: "Improve user experiences responsibly with Custom Neural Voice, a limited access capability within Speech Service. Custom Neural voice allows you to build a custom voice font consistent with your brand and use case."
+    publishedDateTime: 2021-02-03T17:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-custom-neural-voice-a-custom-texttospeech-capability-within-speech-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
 
 secured: "nW6UeQQd5njQaZBFfFuZhdFWHL1L5BPzc93pjsJ7YcsRMNy58z0JEpiQ8T6YSxn4//uoQqfVe69kpBkQZ7a+bxyoPL4M1FrceJmXQDz1pKcDIEGyoJrx0rU9Nr72aWvOKgntwsJXTUByIC+qtnleCilFKL4zlUkCeT930+L/No+Hr9cL7035Dv+jNAHwVa62p1M3RGGiR3/M+s1FkSZcWmgzM85Z/Skgza3/wtPpzDTxkntvx52gT+vOwuE//D9dJqHSOfKMc2zpfuBI3Ppph+mhLFbujbPXAwc4nE8qXtCrUsyAzNb7WVOmauYaa1WQRjMUJzBidjrrtilCUM74hUbXgwEi+5C2DLp0UiEqrHg=;AJHJpmic2BRxyF6tQzln0A=="
 ---

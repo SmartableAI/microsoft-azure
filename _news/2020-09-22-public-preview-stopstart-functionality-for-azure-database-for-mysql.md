@@ -23,114 +23,78 @@ topics:
   - Databases
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
+  - title: "Azure Database for MySQL Flexible Server in preview"
+    excerpt: "Azure Database for MySQL Flexible Server is a new deployment option for Azure Database for MySQL that provides better control and flexibility of database server parameters, more options for high availability, and cost optimization controls."
+    publishedDateTime: 2020-09-22T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-in-preview/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
-    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
-    publishedDateTime: 2021-01-21T17:02:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-  - title: "Public preview: AKS start/stop cluster feature"
-    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
-    publishedDateTime: 2020-09-22T16:05:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
-  - title: "Public preview: Azure Resource Health support in AKS "
-    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
-    publishedDateTime: 2020-08-17T23:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Arc enabled SQL Server"
-    excerpt: "Public preview of Azure Arc enabled SQL Server extends power of Azure to SQL servers hosted on-premises or in other public clouds."
-    publishedDateTime: 2020-09-22T16:05:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-sql-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
-    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
-    publishedDateTime: 2020-09-22T16:05:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Application Insight in Japan West "
-    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
-    publishedDateTime: 2021-01-21T17:02:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+  - title: "App-consistent backup for Oracle and MySQL DBs in preview"
+    excerpt: "Pre-packaged script based solution to get application consistent snapshots for Oracle and MySQL DBs. Just provide connection information and workload name and leverage the instant restore benefit of Azure VM backups and minimize costs by selectively include/excluding relevant disks."
+    publishedDateTime: 2020-09-22T16:03:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/appconsistent-backup-for-oracle-and-mysql-dbs/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Public preview: Service Bus support for large message payloads"
-    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
-    publishedDateTime: 2021-01-21T17:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+  - title: "Public preview: Up to 10 read replicas for MySQL - Flexible Server"
+    excerpt: "Azure Database for MySQL - Flexible Server enables read-heavy workloads to scale out and be balanced across replica servers according to preferences. "
+    publishedDateTime: 2020-10-28T16:25:55Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/read-replica-for-mysql-flexible-server/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Additional IOPS feature for MySQL - Flexible Server in public preview "
+    excerpt: "MySQL - Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
+    publishedDateTime: 2021-02-03T17:00:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-iops-feature-for-mysql-flexible-server-in-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Additional IOPS feature for MySQL - Flexible Server in preview "
+    excerpt: "MySQL – Flexible Server supports the provisioning of additional IOPS (preview) so you can provision more IOPS above the complimentary IOPS limit and can increase or decrease the number of IOPS based on workload requirements."
+    publishedDateTime: 2021-02-17T17:00:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/additional-iops-feature-for-mysql-flexible-server-in-preview-4/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Azure Database for MySQL is now available in France South"
+    excerpt: ""
+    publishedDateTime: 2020-06-01T16:00:11Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+  - title: "Infrastructure double encryption for Azure Database for MySQL is in public preview"
+    excerpt: "Infrastructure double encryption adds a second layer of encryption and a different encryption algorithm which gives an additional layer of protection for your data at rest. "
+    publishedDateTime: 2020-08-10T16:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/infrastructure-double-encryption-for-azure-database-for-mysql-is-in-public-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "Azure Database for MySQL support for encryption at rest using customer-managed keys now in preview"
+    excerpt: ""
+    publishedDateTime: 2020-06-08T16:00:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-encryption-at-rest-byok-preview/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 3
 
 secured: "FppgIL4UHsy+aY3McC18rCp5HjbLMFiuvbrQ4BpacOWwfAUFQDJRgEnsybBmRHCdy+Grhp8Q8chVi4jotR2H3sxLsHdLrZ0s7zo5ljNusAXQ65PqQiw+czt1IoMW4h2JZosyEFO6m7a/mDfO+3v1vqacZYSDGvPMEiLnuwhUuLlTRxdNFEM8KLr9rP1w6/b074QYonip6+3z6K35z5jJgJpi6urRtByPSN44vwbUToV4g+YDh0D4X7PF5RN0o7sz6IDxr/Q8saNjW0aGVl8cG1zenujCbEEy1odfV4Q7+ODxocGlA9wVaoJUT+QMlXzmFO0NXx17jRpV++EMwrfa5XjPN903C83HfIUelsCvyjc=;Bprrvu5vBaV/cy05uteGrg=="
 ---

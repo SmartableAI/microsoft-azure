@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-public-preview-azure-static-web-apps-now-supports-deployment-with-azure-devops.md",
+      "title": "Public preview: Azure Static Web Apps now supports deployment with Azure DevOps ",
+      "excerpt": "Azure Static Web Apps, currently in public preview, now supports building and deploying apps with Azure DevOps. ",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-deployment-with-azure-devops/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-deployment-with-azure-devops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:01:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "DevOps",
+        "Web"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-start-using-new-alerts-in-azure-monitor-for-azure-china-21vianet.md",
       "title": "Start using new alerts in Azure Monitor for Azure China 21Vianet ",
       "excerpt": "Classic alerts in Azure Monitor will be retired on 29 February 2024. ",
@@ -42,50 +86,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-public-preview-application-insights-work-item-integration-for-azure-devops-github.md",
-      "title": "Public preview: Application Insights work item integration for Azure DevOps & GitHub",
-      "excerpt": "Azure Monitor Application Insights has released a new way to create work items based on application insights telemetry. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-application-insights-work-item-integration-for-azure-devops-github/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T09:01:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Integration"
       ]
     },
     {
@@ -452,7 +452,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -792,7 +792,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": null,
       "content": "\r\n",

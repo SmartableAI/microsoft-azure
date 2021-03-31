@@ -83,15 +83,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
-    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
-    publishedDateTime: 2020-10-28T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: Assessments for migration to Azure VMware Solution "
     excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
     publishedDateTime: 2021-03-02T17:00:15Z
@@ -119,15 +110,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
-    excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
-    publishedDateTime: 2021-03-04T20:09:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "General availability: Encrypted customer managed keys policy for AKS"
     excerpt: "Setup policy to audit usage of customer managed keys on OS and data disks."
     publishedDateTime: 2021-03-02T17:00:08Z
@@ -159,15 +141,6 @@ related:
     excerpt: "Users can now initiate a targeted upgrade to agent nodes for a given node pool to pull the latest available node updates and patches without requiring a full cluster upgrade"
     publishedDateTime: 2020-08-17T22:59:08Z
     webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-kubernetes-service-node-image-upgrade/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "General availability: Announcing private Azure Marketplace"
-    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
-    publishedDateTime: 2021-03-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
     type: article
     provider:
       name: Microsoft

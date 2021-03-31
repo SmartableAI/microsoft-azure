@@ -49,15 +49,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Public preview: At scale discovery and assessment for SQL Server migration to Azure SQL"
-    excerpt: "Azure Migrate now has unified discovery and assessment for SQL Server natively within the Azure Migrate experience. "
-    publishedDateTime: 2021-03-02T17:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-at-scale-discovery-and-assessment-for-sql-server-migration-to-azure-sql/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
   - title: "Log Replay Service for Azure SQL Managed Instance in public preview"
     excerpt: "Log replay service enables continuous replication of SQL Server data to SQL Managed Instance in the cloud, the easier orchestration of workload functions, and pre-migration performance testing through a fully customizable experience."
     publishedDateTime: 2021-02-17T17:00:26Z
@@ -94,15 +85,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Azure Route Server "
-    excerpt: "The new Azure Route Server simplifies integration of network virtual appliance into your Azure virtual network."
-    publishedDateTime: 2021-03-02T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-route-server/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure trusted launch for Virtual Machines now in public preview"
     excerpt: "Azure offers trusted launch as a seamless way to bolster the security of Generation 2 VMs. Designed to protect against boot kits, rootkits, and kernel-level malware, trusted launch is comprised of secure boot, virtual trusted platform module (vTPM), and boot integrity monitoring. "
     publishedDateTime: 2021-03-03T20:00:17Z

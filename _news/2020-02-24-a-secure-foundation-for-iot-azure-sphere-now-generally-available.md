@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "US Gov Virginia Availability Zones now generally available"
+    excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
+    publishedDateTime: 2021-02-16T22:33:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: ".NET Core support for Analysis Services client libraries is generally available"
     excerpt: "Today, we are announcing general availability (GA) of Analysis Services client libraries for .NET Core, along with several enhancements."
     publishedDateTime: 2021-02-17T00:00:05Z

@@ -21,15 +21,6 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Database for MySQL is now available in France South"
-    excerpt: ""
-    publishedDateTime: 2020-06-01T16:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-is-now-available-in-france-south/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 17
   - title: "Minimal TLS version setting is now available for Azure Database for MySQL"
     excerpt: ""
     publishedDateTime: 2020-06-04T17:00:27Z

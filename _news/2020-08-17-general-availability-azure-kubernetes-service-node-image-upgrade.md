@@ -81,15 +81,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 86
-  - title: "General Availability: Azure Spot on Azure Kubernetes Service"
-    excerpt: "Use Azure Spot with Azure Kubernetes Service to save on compute costs for workloads that can tolerate interruptions"
-    publishedDateTime: 2020-10-28T16:00:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/ga-azure-spot-on-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: Assessments for migration to Azure VMware Solution "
     excerpt: "You can seamlessly migrate your VMware applications to Azure with ease due to assessments for migration to Azure VMware Solution."
     publishedDateTime: 2021-03-02T17:00:15Z
@@ -117,15 +108,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
-    excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
-    publishedDateTime: 2021-03-04T20:09:25Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-simplified-nsx-networking-experience-for-azure-vmware-solution/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "General availability: App Gateway ingress controller add-on for AKS"
     excerpt: "Easily create or attach an existing Application Gateway instance to your Azure Kubernetes Service clusters."
     publishedDateTime: 2021-03-02T17:00:09Z
@@ -162,15 +144,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "General availability: Announcing private Azure Marketplace"
-    excerpt: "Private Azure Marketplace, now generally available, streamlines your operations saving you time."
-    publishedDateTime: 2021-03-02T16:00:02Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-announcing-private-azure-marketplace/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
 
 secured: "4rXV4xfJyjMLjTDSDrZ+rvVmDDxwq9jnDxwDCG1nj7rOgNgTRUkhbgI67k/nizchNtP7Dfb+RlTULMiOaW9BPIqjfUMkoIsUJy3fni7diGakgqecAU4aWhgQfIHcwXoYS/sAa/hMSk5mLLq8v0OKL02EPfG5snStk9MqKil6I5GYbiR9PA1AKxnAx7xa7WkwyCuNbZAoszsAwvY0lE/TOzFaOVfWEYnT/paZN6okFdwEyvVTEUblSWgnuL40B1rB7k8jqqQXjItlGzJVd4gv1XrYq+aCbYFZx3Bz9MvKzPSZR5mtMGuYFvhEcUY7EyERcXABlFpudfs5k4CwtSMeeWAsW2y3eGak5EkbcbWZUkk=;RU3NsiENJkUiJTu0lITPNg=="
 ---

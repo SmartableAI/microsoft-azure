@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions.md",
+      "title": "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions",
+      "excerpt": "Key Vault references in App Service and Azure Functions now support accessing vaults with network access controls from Windows apps with virtual network integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 659,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-strengthen-and-optimize-compliance-in-azure-security-center.md",
       "title": "Strengthen and optimize compliance in Azure Security Center",
       "excerpt": "The Regulatory Compliance dashboard in Azure Security Center is an excellent tool for helping organizations understand their compliance posture relative to industry standards.",
@@ -213,7 +259,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/asc-january2021-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 299,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -395,7 +441,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/api-management-s-named-values-integration-with-azure-key-vault/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -805,7 +851,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 215,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1379,49 +1425,6 @@
         "Azure",
         "Security",
         "Networking"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations.md",
-      "title": "Automating cybersecurity guardrails with new Zero Trust blueprint and Azure integrations",
-      "excerpt": "In our day-to-day work, we focus on helping customers advance the security of their digital estate using the native capabilities of Azure. In the process, we frequently find that using Azure to improve an organization’s cybersecurity posture can also help these customers achieve compliance more rapidly.\r\n\r\nToday,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/",
-      "originalUrl": "https://azure.microsoft.com/blog/automating-cybersecurity-guardrails-with-new-zero-trust-blueprint-and-azure-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T01:00:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

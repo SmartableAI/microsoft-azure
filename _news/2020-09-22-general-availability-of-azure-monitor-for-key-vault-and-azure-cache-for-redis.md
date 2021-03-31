@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-
 webUrl: "https://azure.microsoft.com/en-us/updates/ga-of-azure-monitor-for-key-vault-and-azure-cache-for-redis/"
 type: article
 quality: 115
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Application Insight in UK West"
-    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-09-29T15:23:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "d6l56Sby/1thEdQdrCIoZyClXtUVR0sqnNu4IiHufoTkl5OiYNu1vQ+5RH77H77k71xIbkb2/muDY0qObDhljh8Zxc50LsSMSsLsnMkz/arLUSJLJFnEehpeepdvCydM78nKKMA7rgeMTBW8HeWPZ2TSQMftMJzBaV5Q2uh7M3BmvHYAbVY26M/HQY7pRBexm4SiOhHChzBCDmON6XDhSipwPcbpbcIvSm47wOSnsrJDaIgAmymKULX5fzgOkJ0OK4ZeIc+LSehamaXzW8QRu1+xEQES467/Y2hMastoLgbxuDivLJh8Owl3LAxbt9mb7il7p3yoWUDmasEBMQaVYZpwZVsfxju1RWZ27qgafx4=;KLmL57boNcyL5cdd1/JSpg=="
 ---

@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier.md",
+      "title": "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier",
+      "excerpt": "Make your serverless Azure SQL databases resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 401,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:01:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Serverless",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions.md",
+      "title": "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions",
+      "excerpt": "Key Vault references in App Service and Azure Functions now support accessing vaults with network access controls from Windows apps with virtual network integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-networking-for-key-vault-references-on-windows-in-app-service-and-azure-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 659,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T09:00:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute",
+        "Serverless",
+        "Networking",
+        "Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-a-deep-dive-into-serverless-applications-on-power-apps-and-azure.md",
       "title": "A deep dive into serverless applications on Power Apps and Azure",
       "excerpt": "In 2021, each month, we will be releasing a monthly blog covering the webinar of the month for the Low-code application development (LCAD) on Azure solution. LCAD on Azure is a new solution to demonstrate the robust development capabilities of integrating low-code Microsoft Power Apps and the Azure products",
@@ -203,7 +293,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -246,7 +336,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-serverless-breaking-change-related-to-tooling-ssms-ads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -386,22 +476,76 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview.md",
-      "title": "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support in preview",
-      "excerpt": "Azure Synapse Link now offers preview support for querying Azure Cosmos DB data with Synapse SQL serverless.",
+      "path": "_news/2020-10-07-three-ways-serverless-apis-can-accelerate-enterprise-innovation.md",
+      "title": "Three ways serverless APIs can accelerate enterprise innovation",
+      "excerpt": "With the wrong architecture, application programming interface (APIs) can be a bottleneck to not only your applications, but to your entire business. Bottlenecks such as downtime, low performance, or high application complexity, can result in exaggerated infrastructure and organizational costs as well",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-in-preview/",
+      "webUrl": "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/",
+      "originalUrl": "https://azure.microsoft.com/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44d54ad0-b506-4b3a-b93a-49911fd2ecb9.png",
+          "width": 1024,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T03:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Integration",
+        "Web",
+        "Serverless"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon.md",
+      "title": "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support coming soon",
+      "excerpt": "Run analytical T-SQL queries and build near-real time Power BI dashboards over Azure Cosmos DB data.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-synapse-link-for-azure-cosmos-db-sql-serverless-runtime-support-coming-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T09:00:13-07:00",
+      "publishedDateTime": "2020-09-22T09:02:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -428,50 +572,6 @@
         "Serverless",
         "Databases",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-serverless-offer-for-azure-cosmos-db-coming-soon-on-all-apis.md",
-      "title": "Serverless offer for Azure Cosmos DB coming soon on all APIs",
-      "excerpt": "A new consumption-based offer that complements the existing range of provisioned throughput options is coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-coming-soon-on-all-apis/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/serverless-offer-for-azure-cosmos-db-coming-soon-on-all-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T09:02:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Serverless",
-        "Databases"
       ]
     },
     {

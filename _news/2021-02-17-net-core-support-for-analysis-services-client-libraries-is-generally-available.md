@@ -76,6 +76,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "US Gov Virginia Availability Zones now generally available"
+    excerpt: "Availability Zones are now generally available from the US Gov Virginia datacenter region, offering US government customers more options for their most demanding mission-critical applications."
+    publishedDateTime: 2021-02-16T22:33:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/us-gov-virginia-availability-zones-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
   - title: "A secure foundation for IoT, Azure Sphere now generally available"
     excerpt: "Today Microsoft Azure Sphere is generally available. Our mission is to empower every organization on the planet to connect and create secured and trustworthy IoT devices. General availability is an important milestone for our team and for our customers, demonstrating that we are ready to fulfill our"
     publishedDateTime: 2020-02-24T09:00:14Z

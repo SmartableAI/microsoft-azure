@@ -68,15 +68,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General Availability: Application Insight in UK West"
-    excerpt: "Application Insight, a part of Azure Monitor,  is now generally available in the UK West region for customers to collect telemetry and analyze their service health in production environments. "
-    publishedDateTime: 2020-09-29T15:23:28Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-uk-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "dORxjNwPGQ2mpy0unwXM3zLE9aUjhQ10DxZjRj1Fg0oTm5+SQR8iq3sf/GI1Umh2Te3by9SJF2soUqJFZgjjfPuXtQYn0/+ncyNJKziKO0MSdBSrqNR92RWpQrpTN7sDjtnoIpXv7OXco1ZdUHJLYmeGVF1TKF1Fbf8P+Fr99aBDoLPD81I9DcqzYctfCZ2l4Xe7lzxP9iauyY/GPAhpupeWkPQ9lCEhDq6BV+nLgZvjWJFIh0bi+V0AmHV6ZzJbYNk/EzTnMyquyz60QUvMPggjN1sy8Me9O+viKl27jr6b4EKD9QvvNwi9ytTJ9D9HCEojBn3K9ITTChec2CsGw16gG3clwXFFvrrCkhSKfoA=;8zGn68TNrW/VTXqMgvPQpQ=="
 ---

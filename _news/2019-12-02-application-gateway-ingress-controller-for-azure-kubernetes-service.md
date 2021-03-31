@@ -88,6 +88,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "Customers can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-03-31T16:01:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Arc Manages Kubernetes Clusters Anywhere, Brings ML on Premises"
     excerpt: "At the virtual version of its Ignite developers’ conference Tuesday, Microsoft released into general availability a key function of Azure Arc that gives the service something resembling a genuine purpose: the ability to manage ordinary Kubernetes ..."
     publishedDateTime: 2021-03-05T18:29:00Z

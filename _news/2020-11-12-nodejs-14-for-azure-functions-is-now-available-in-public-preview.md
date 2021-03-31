@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-func
 webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
 type: article
 quality: 84
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "1OQY7up2MiFA6NVf7nZU2VWPZaxcGjP2IqEqwWycqxJApQaiDs+T5/A0LKVyfQNC9Q2IQegpVXb229qJAT4RFzmS0wn0sfs1bP4+Zg4KoCPKS82/KGLIDdbKofM21iid4lQVzK2RdKNOqLwgJm2tlZtDALgpauboI3tHi8no4JEXWdq3+4d+DKXiMXIUc/ixux62c28NM+qZZbKM+j/ryr35MbajBtrBnzJlu47ATAFw1aSXZHSjpap5Q+OZCO/Z6kvtoEa6st2yVfks9wCiCBvGLJnvU+U5/KV69KfpLywJCrvFI0X0abw4sfGkITTIuMsN/t995Sug30rGKQqBvwrO2wUx7W5X23epLRCs/Tc=;2iQoJwAQTNANEnh/rIeDnw=="
 ---

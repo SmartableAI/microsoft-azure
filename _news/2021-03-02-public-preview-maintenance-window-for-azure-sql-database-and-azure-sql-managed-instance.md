@@ -41,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 101
-  - title: "Public preview: At scale discovery and assessment for SQL Server migration to Azure SQL"
-    excerpt: "Azure Migrate now has unified discovery and assessment for SQL Server natively within the Azure Migrate experience. "
-    publishedDateTime: 2021-03-02T17:00:23Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-at-scale-discovery-and-assessment-for-sql-server-migration-to-azure-sql/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 93
   - title: "Log Replay Service for Azure SQL Managed Instance in public preview"
     excerpt: "Log replay service enables continuous replication of SQL Server data to SQL Managed Instance in the cloud, the easier orchestration of workload functions, and pre-migration performance testing through a fully customizable experience."
     publishedDateTime: 2021-02-17T17:00:26Z
@@ -90,15 +81,6 @@ related:
     excerpt: "In many of today's mixed reality scenarios, there is a need to align digital content with physical objects. Azure Object Anchors, now in preview, eliminates the need for markers or manual holographic alignment within mixed reality applications. "
     publishedDateTime: 2021-03-02T17:00:24Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azureobjectanchorspreview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Azure Route Server "
-    excerpt: "The new Azure Route Server simplifies integration of network virtual appliance into your Azure virtual network."
-    publishedDateTime: 2021-03-02T17:00:16Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-route-server/"
     type: article
     provider:
       name: Microsoft
