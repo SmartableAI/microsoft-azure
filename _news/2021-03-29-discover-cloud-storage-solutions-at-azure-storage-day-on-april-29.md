@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/discover-cloud-storage-solutions-
 webUrl: "https://azure.microsoft.com/blog/discover-cloud-storage-solutions-at-azure-storage-day-on-april-29/"
 type: article
 quality: 106
-heat: 108
+heat: 107
 published: true
 
 provider:
