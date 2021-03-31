@@ -4,7 +4,7 @@ excerpt: "Git is the leading version control tool and essential for developers. 
 type: collection
 price: Free
 length: PT3H0M
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
