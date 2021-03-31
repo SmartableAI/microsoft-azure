@@ -2,7 +2,7 @@
 title: "Azure Tips and Tricks"
 excerpt: ""
 type: collection
-heat: 61
+heat: 99
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-how-to-deploy-steeltoe-net-apps-to-azure-spring-cloud-azure-tips-and-tricks
   - videos/microsoft-how-to-start-and-stop-clusters-with-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-how-to-create-faster-and-smarter-apps-with-net-5-azure-tips-and-tricks
@@ -26,7 +27,6 @@ items:
   - videos/microsoft-discovering-the-azure-architecture-center-azure-tips-and-tricks
   - videos/microsoft-how-to-work-with-azure-cosmos-db-with-powershell-azure-tips-and-tricks
   - videos/microsoft-what-database-you-should-use-in-your-next-azure-functions-app-azure-tips-and-tricks
-  - videos/microsoft-how-to-use-blob-versioning-in-azure-storage-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-kubernetes-service-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-cognitive-services-azure-tips-and-tricks
   - videos/microsoft-5-things-you-didnt-know-about-azure-sql-database-azure-tips-and-tricks
@@ -167,7 +167,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/_RGvAQXz4-Q/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/bjKmJKAKyp4/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
