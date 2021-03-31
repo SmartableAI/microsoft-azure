@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 43623,
-            "average": 4.7841735
+            "count": 43660,
+            "average": 4.7842417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 209,
+          "heat": 210,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9664,
-            "average": 4.7216473
+            "count": 9674,
+            "average": 4.721832
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -122,8 +122,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8469,
-            "average": 4.760066
+            "count": 8472,
+            "average": 4.760151
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -167,8 +167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6765,
-            "average": 4.760089
+            "count": 6767,
+            "average": 4.7600117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6588,
-            "average": 4.76609
+            "count": 6590,
+            "average": 4.766161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +381,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9799,
-            "average": 4.6681294
+            "count": 9800,
+            "average": 4.6681633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -439,6 +439,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-azure-sql-high-availability.md",
+      "title": "Deploy highly available solutions by using Azure SQL",
+      "excerpt": "In this module, you'll learn how to deploy highly available solutions by using Azure SQL. You'll also look at architectures and how they affect availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-high-availability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-high-availability/",
+      "length": "PT1H34M",
+      "ratings": {
+        "count": 175,
+        "average": 4.765714
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-high-availability-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
       "title": "Explore Azure database and analytics services",
       "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
@@ -446,8 +489,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 9664,
-        "average": 4.7216473
+        "count": 9674,
+        "average": 4.721832
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -638,8 +681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3256,
-            "average": 4.686118
+            "count": 3257,
+            "average": 4.6856003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13256,
-        "average": 4.6842937
+        "count": 13257,
+        "average": 4.6843176
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -831,8 +874,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 12686,
-            "average": 4.590178
+            "count": 12687,
+            "average": 4.5902104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -873,8 +916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8195,
-            "average": 4.6590605
+            "count": 8197,
+            "average": 4.6591434
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -947,8 +990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 3477,
-            "average": 4.574633
+            "count": 3478,
+            "average": 4.5747557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4972,
-            "average": 4.7043443
+            "count": 4974,
+            "average": 4.704463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1118,8 +1161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1255,
-            "average": 4.5657372
+            "count": 1256,
+            "average": 4.566083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1255,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9664,
-            "average": 4.7216473
+            "count": 9674,
+            "average": 4.721832
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1675,8 +1718,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1444,
-            "average": 4.753463
+            "count": 1445,
+            "average": 4.752941
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1761,8 +1804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 811,
-            "average": 4.734895
+            "count": 812,
+            "average": 4.735222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1945,8 +1988,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6049,
-            "average": 4.6235743
+            "count": 6050,
+            "average": 4.6234713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2313,8 +2356,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9519,
-            "average": 4.698498
+            "count": 9521,
+            "average": 4.698456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2441,8 +2484,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1235,
-            "average": 4.6931176
+            "count": 1236,
+            "average": 4.6933656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2522,8 +2565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4972,
-            "average": 4.7043443
+            "count": 4974,
+            "average": 4.704463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2808,8 +2851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2873,
-            "average": 4.647407
+            "count": 2874,
+            "average": 4.6475296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2932,8 +2975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 68,
-            "average": 4.7058825
+            "count": 69,
+            "average": 4.710145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3372,8 +3415,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1235,
-            "average": 4.6931176
+            "count": 1236,
+            "average": 4.6933656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3810,8 +3853,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3477,
-        "average": 4.574633
+        "count": 3478,
+        "average": 4.5747557
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3891,8 +3934,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "PT50M",
       "ratings": {
-        "count": 2885,
-        "average": 4.5466204
+        "count": 2886,
+        "average": 4.5467777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3923,50 +3966,6 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-      "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 3853,
-        "average": 4.5940824
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
         "Databases"
       ]
     }
