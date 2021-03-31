@@ -35,8 +35,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6529,
-            "average": 4.76658
+            "count": 6536,
+            "average": 4.766677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9788,
-            "average": 4.6679606
+            "count": 9789,
+            "average": 4.6679945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -244,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 43347,
-            "average": 4.7842755
+            "count": 43369,
+            "average": 4.7842927
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -262,7 +262,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 181,
+          "heat": 177,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -286,8 +286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9600,
-            "average": 4.7208333
+            "count": 9604,
+            "average": 4.7209496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,7 +304,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 98,
+          "heat": 99,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -332,8 +332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8423,
-            "average": 4.760418
+            "count": 8424,
+            "average": 4.7604465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -377,8 +377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6710,
-            "average": 4.7597613
+            "count": 6711,
+            "average": 4.7597976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -414,7 +414,7 @@
         }
       ],
       "size": 5,
-      "heat": 117,
+      "heat": 118,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
@@ -439,15 +439,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
-      "title": "Upload, download, and manage data with Azure Storage Explorer",
-      "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
+      "title": "Explore Azure database and analytics services",
+      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
+      "length": "PT39M",
       "ratings": {
-        "count": 2863,
-        "average": 4.650367
+        "count": 9604,
+        "average": 4.7209496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,9 +467,9 @@
       "heat": 99,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -478,20 +478,22 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
-        "Databases"
+        "Databases",
+        "Analytics",
+        "AI",
+        "Storage"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-azure-database-fundamentals.md",
-      "title": "Explore Azure database and analytics services",
-      "excerpt": "Learn about the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, as well as big data and analytics.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-database-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
+      "title": "Upload, download, and manage data with Azure Storage Explorer",
+      "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
+      "length": "PT37M",
       "ratings": {
-        "count": 9600,
-        "average": 4.7208333
+        "count": 2864,
+        "average": 4.650489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -511,9 +513,9 @@
       "heat": 98,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -522,10 +524,8 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases",
-        "Analytics",
-        "AI",
-        "Storage"
+        "Storage",
+        "Databases"
       ]
     },
     {
@@ -913,8 +913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6327,
-            "average": 4.676782
+            "count": 6328,
+            "average": 4.676833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +972,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13243,
-        "average": 4.6842103
+        "count": 13244,
+        "average": 4.684234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,8 +1031,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9600,
-            "average": 4.7208333
+            "count": 9604,
+            "average": 4.7209496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1049,7 +1049,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 98,
+          "heat": 99,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png",
@@ -1237,8 +1237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4944,
-            "average": 4.7030745
+            "count": 4945,
+            "average": 4.7031345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1280,8 +1280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
           "length": "PT33M",
           "ratings": {
-            "count": 1089,
-            "average": 4.6170797
+            "count": 1090,
+            "average": 4.617431
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1461,8 +1461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 4944,
-            "average": 4.7030745
+            "count": 4945,
+            "average": 4.7031345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1914,8 +1914,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6044,
-            "average": 4.623263
+            "count": 6045,
+            "average": 4.623325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2119,8 +2119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1372,
-            "average": 4.7332363
+            "count": 1373,
+            "average": 4.7334304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2306,8 +2306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/",
           "length": "PT32M",
           "ratings": {
-            "count": 9516,
-            "average": 4.698508
+            "count": 9517,
+            "average": 4.6985393
           },
           "provider": {
             "name": "Microsoft Learn",
