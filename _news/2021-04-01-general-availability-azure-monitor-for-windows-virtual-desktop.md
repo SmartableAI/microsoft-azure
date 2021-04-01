@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: App Service Managed Certificates now supports apex domains"
-excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-publishedDateTime: 2021-03-17T16:00:26Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
+title: "General availability: Azure Monitor for Windows Virtual Desktop "
+excerpt: "Azure Monitor for Windows Virtual Desktop provides a centralized view of the health of your Windows Virtual Desktop environment and enables you to optimize your deployment and quickly troubleshoot issues."
+publishedDateTime: 2021-04-01T16:00:08Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-windows-virtual-desktop/"
+webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-windows-virtual-desktop/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Compute
+  - DevOps
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -136,15 +136,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "General availability: Azure Monitor for Windows Virtual Desktop "
-    excerpt: "Azure Monitor for Windows Virtual Desktop provides a centralized view of the health of your Windows Virtual Desktop environment and enables you to optimize your deployment and quickly troubleshoot issues."
-    publishedDateTime: 2021-04-01T16:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-windows-virtual-desktop/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z
@@ -253,6 +244,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: App Service Managed Certificates now supports apex domains"
+    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
+    publishedDateTime: 2021-03-17T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z
@@ -290,6 +290,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "C0YmWqpsII2EUghY5L0w890AqioWqJWwTDdtioDiCNO/Jc9T5xRcPMdQbGLhDSWsaQmED2RQNIRgWijFyRvnu/LWJlqHGtzFp2u9upPub+p3pBNu6hZZRRIwZoe3Hbyps87iHy0j2kHyBIEydtFJO89FDV1QQJ4FqZqTSFj3Ogc1xTRLh63EOt23BvBbzvC+sov1Gm1ffAzQ/3u1XXvqRLwqkxZhLtrLkN6mh9tsxeYUzjwcYC+TlYG9S/xCIO3guqPDtOluH7849sopcRVxl3qLLeTwPQNLEosBxj/99gdxKp9HFEQQzbfF2w+eC87fck+uvRioBq22zXIRFM2SXbX8yc3lrSXKb6cMJ/J57ng=;FKFcnPxF7oibU92xmc8d/w=="
+secured: "cc1C10gQJdGWNNkEfMAVtaNXkfA1LfCiQjC3uY25dOxWRcLm2E4fQbE/V5diKXWuBEnc5JH6ty1nXUEVJZK4xQ3KLyOYUbnVb/hWWgvMeMfscESCKMKTW5qaqc2mf8WFwvCzQH1qFVks1wAmgl/lso1aVRTO8KNoywEuVcarwPR18AnRw4wLxKZS5BjNl3KbetcdM8ioZ9eXr8TuZXXCu2t//yfNCGRUtbNgqBbMLn02YCpmZjVw0Ot1lEhtxSgNB3zUuSh8CagoDRl+jji47wHX7TcB9aE2FC3WCfck1AGCP1m/yMrlJl9uvr66N/DnwBLZoCJ8vi6RlO1+YATvc90lvZcs+oQf6ygBz1te2Uw=;L+BFoOtqWLnxnYohqDREsg=="
 ---
 

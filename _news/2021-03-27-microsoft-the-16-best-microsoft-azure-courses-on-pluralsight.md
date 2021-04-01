@@ -81,6 +81,15 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 54
+  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
+    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
+    publishedDateTime: 2021-04-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
   - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
     publishedDateTime: 2021-03-29T02:51:00Z

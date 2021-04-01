@@ -78,6 +78,15 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 54
+  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
+    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
+    publishedDateTime: 2021-04-01T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
   - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
     excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
     publishedDateTime: 2021-03-26T17:18:00Z

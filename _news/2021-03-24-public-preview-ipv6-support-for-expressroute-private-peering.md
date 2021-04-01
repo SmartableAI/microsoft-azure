@@ -139,6 +139,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
+    excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
+    publishedDateTime: 2021-04-01T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
   - title: "Azure SQL Database serverless compute auto-scaling limits increase more than twofold"
     excerpt: "The maximum vCore limit for Azure SQL Database serverless has increased over twofold to 40 vCores. The higher limits provide greater compute auto-scaling headroom for serverless databases with more demanding workloads. "
     publishedDateTime: 2020-06-10T20:00:15Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Database for PostgreSQL - Flexible Server (public preview) available in new regions"
-excerpt: "With new regions announced for Azure Database for PostgreSQL – Flexible Server, you can control multiple configuration parameters for fine-grained database tuning with a simpler developer experience to accelerate end-to-end deployment."
-publishedDateTime: 2021-03-31T16:01:35Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-available-in-new-regions/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-available-in-new-regions/"
+title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
+excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
+publishedDateTime: 2021-04-01T16:00:05Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
 type: article
-quality: 90
+quality: 46
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Databases
 
 related:
   - title: "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier"
@@ -59,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 91
+  - title: "Azure Database for PostgreSQL - Flexible Server (public preview) available in new regions"
+    excerpt: "With new regions announced for Azure Database for PostgreSQL – Flexible Server, you can control multiple configuration parameters for fine-grained database tuning with a simpler developer experience to accelerate end-to-end deployment."
+    publishedDateTime: 2021-03-31T16:01:35Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-public-preview-available-in-new-regions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
   - title: "Public preview: Azure Database for PostgreSQL – Flexible Server now connects with Azure CLI"
     excerpt: "Now in public preview, use the 'connect' command for Azure CLI for Azure Database for PostgreSQL - Flexible Server to test connections and run basic queries."
     publishedDateTime: 2021-03-31T16:00:37Z
@@ -140,15 +148,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
-    excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
-    publishedDateTime: 2021-04-01T16:00:05Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 46
   - title: "Azure SQL Database serverless compute auto-scaling limits increase more than twofold"
     excerpt: "The maximum vCore limit for Azure SQL Database serverless has increased over twofold to 40 vCores. The higher limits provide greater compute auto-scaling headroom for serverless databases with more demanding workloads. "
     publishedDateTime: 2020-06-10T20:00:15Z
@@ -159,6 +158,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "1b6gY8D4LroiJY3ecDGXHZ6H+IwAHRubM0vuVVtbH/TnUQIC4bDkTU5ihqWt42nWfmcFnr8+k5FwCEY7pEyKc2J6/jKtLJyzA0O0n82AAInpcRh6+DeaXXZCK42Wltc9QGEUcPR49sJze5qRhH1v92cA7MhdZGYx3+MTGuEakx94jcfcLYEBrs8tjkoA0XDNDleI3SCuuawvYCPOYE0Cy1c/ihYpqHer5KetaZuCmlDQLqfSkAAt7Zfzn7BSdqMuzIgm9+/0EKQg/UPnDQAwu+GLOr7aBcyaZ9dyZOFCkJzVptupND69O/6OTdwpkLc64CQN1CHOZ/tfsbITID7j/s9gt0OpbLxkYFv+eR+fe50=;coAHXxgau7V77PAiIySKpQ=="
+secured: "GZ4n8XvSX8TcRHK62qUS8sTCafTDhCTA8uTua6pgqjviWoRDW5gfZxcX4TD0JaoQjvBSrwNicHDdl81+NlxYoTUbNgccubEBno6lE8YVUL1dRwfr2b3uxEUccTCdG7tNsisNwJPPmcoqAloWelcELwYq9jdYl6yGlGytck1kAnO5T+NGG4Q9p+7627Aagag63Azm7WXc45/zVciHjfpfpfrgX+KRbFxFjDMe2G94PM08bSKvChflG1+irnt1fqAz773e5EV/+Ofk1IWoVOubzUxIDDzKQAInQHZFuz7k3Nkrem2anLoUwH5WZRirnx8/p4zZGCPSk4lel2Lp9by9pX1WO4yJrMtM/pcMzXkAN2I=;4QJxESmPCibzYafiVncqxQ=="
 ---
 

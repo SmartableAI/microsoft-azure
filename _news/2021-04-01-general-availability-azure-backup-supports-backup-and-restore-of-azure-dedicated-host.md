@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: App Service Managed Certificates now supports apex domains"
-excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-publishedDateTime: 2021-03-17T16:00:26Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
+title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
+excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
+publishedDateTime: 2021-04-01T15:56:14Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
 type: article
-quality: 64
+quality: 76
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Compute
+  - Management tools
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -154,15 +154,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
-  - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
-    excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
-    publishedDateTime: 2021-04-01T15:56:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
     excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
     publishedDateTime: 2021-03-04T20:09:25Z
@@ -253,6 +244,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: App Service Managed Certificates now supports apex domains"
+    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
+    publishedDateTime: 2021-03-17T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-app-service-managed-certificates-now-supports-apex-domains/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 64
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z
@@ -290,6 +290,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "C0YmWqpsII2EUghY5L0w890AqioWqJWwTDdtioDiCNO/Jc9T5xRcPMdQbGLhDSWsaQmED2RQNIRgWijFyRvnu/LWJlqHGtzFp2u9upPub+p3pBNu6hZZRRIwZoe3Hbyps87iHy0j2kHyBIEydtFJO89FDV1QQJ4FqZqTSFj3Ogc1xTRLh63EOt23BvBbzvC+sov1Gm1ffAzQ/3u1XXvqRLwqkxZhLtrLkN6mh9tsxeYUzjwcYC+TlYG9S/xCIO3guqPDtOluH7849sopcRVxl3qLLeTwPQNLEosBxj/99gdxKp9HFEQQzbfF2w+eC87fck+uvRioBq22zXIRFM2SXbX8yc3lrSXKb6cMJ/J57ng=;FKFcnPxF7oibU92xmc8d/w=="
+secured: "PF9UWeCd+e9IccUPAyoTDXJG8Jwh8kNaMIRugXb0vfaT3tkuwvpxFbosj329C/b1V9rWeQb3iWVpttnhCwK7ZexmRNkcrc0AJUkm1EZJ2UyHFeLADQ3RiypZLHKHCM6dIRifHqVuy2fjDKe9ldNa5nGsJboT00c5PE3nqGuzJ5cjhNh9+bBqx0TxZFnuPfmvC5Ez2os0ID7iNvmYMMv6v9TkRT5kGIG1jJ1mCD5ji+Kfo5gqA71AS6GrZ68QyEaJkNNUJ46v4VbNx8ZwxvwzIHQSdczszP8JOqqyp9gGh4GXGrbbnNr+Z6eSVaMhfhUgrwHCWFvyQOyB+DiceRp98T8uCSxZwY0ZouyxD9hEM+4=;4MpaPKS3iN9XCzoKkHETeg=="
 ---
 

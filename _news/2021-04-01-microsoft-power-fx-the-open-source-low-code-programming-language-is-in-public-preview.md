@@ -1,28 +1,25 @@
 ---
 category: news
-title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
-publishedDateTime: 2021-03-26T11:47:00Z
-originalUrl: "https://www.lelezard.com/en/news-19718217.html"
-webUrl: "https://www.lelezard.com/en/news-19718217.html"
+title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
+excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
+publishedDateTime: 2021-04-01T16:00:07Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
 type: article
-quality: 29
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
@@ -82,15 +79,6 @@ related:
       name: securityboulevard.com
       domain: securityboulevard.com
     quality: 54
-  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
-    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
-    publishedDateTime: 2021-04-01T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
   - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
     excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
     publishedDateTime: 2021-03-26T17:18:00Z
@@ -186,7 +174,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
+    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
+    publishedDateTime: 2021-03-26T11:47:00Z
+    webUrl: "https://www.lelezard.com/en/news-19718217.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "G9XxZ5ixWeslmRaSJinoUWMlotWlJ/zgmX674iOebTcDGgovh9/k/dOUgRIFUlCwv/i25GY60pAgLtVco1E1BNhwK01ijAsepkiEYGmrHpxGsEUqVmsdHSUv/zfhE0JqEgWNREcBB9lfEbuBUhKsH0r6uwEy8iUraBt+ljqDU6lBGPRj1ZEKdymE0jXHV3B5LXDT44uwi9KK1DwJ8L/pisvX3jARREDqBQ+Vuy3Rj4cAHrALYS0+4KGWyb+cgUQk9lW3MmB5CnYoP7qGWioaJpJ1MJAxVRe9P2Dz8wlssZtrMCxyddqU9GeM3i3Ui+keJgcCkYL6OeYPw3AQUbewAG6/MuUcMI2et4/4O4487Wc=;ILjgRmYbIaMru+pTBA+piA=="
+secured: "vQ7C2eAe945KpP368Q8NvYtPfEtrPatvhDf916Pz2h3/WmM5mhPkKHQF3tSW08BqarRjOwVcXvFwxclw+E+mr646t9QeMI1D4OUheZFsqgN9cugr4wPlSEABimzu8md95kNQstbpxjwhHUwiYTia36p7/3z+lGsx68dti6bYAQvkR8FYCxI8ZO7tdgXLDcK1qh21mQVIag+H0NH+RIyqWQsornK/zy00eFoD53Bzk2EN3P6GCEmswbIGUx8o0S1ki46EGrDfoK8waXFT6cijehi+L/ajqRJ4R6p91P6/7wt1HiLfBqK9HD49A2gNm4VLnD+b7pJc030fw6JGh7G3TFf9xXVw2SwOU+Edi/Q6Dp0=;HzvFMAGZgYMT/7X8IXPbHQ=="
 ---
 

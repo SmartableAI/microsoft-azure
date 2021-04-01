@@ -136,6 +136,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "General availability: Azure Monitor for Windows Virtual Desktop "
+    excerpt: "Azure Monitor for Windows Virtual Desktop provides a centralized view of the health of your Windows Virtual Desktop environment and enables you to optimize your deployment and quickly troubleshoot issues."
+    publishedDateTime: 2021-04-01T16:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-windows-virtual-desktop/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "General availability: ExpressRoute monitoring in Azure Monitor network insights"
     excerpt: "Network insights in Azure Monitor now supports monitoring Azure ExpressRoute resources out of the box without any additional configuration or setup."
     publishedDateTime: 2021-03-31T16:01:57Z
@@ -145,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
+    excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
+    publishedDateTime: 2021-04-01T15:56:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "General availability: AKS resources view"
     excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
     publishedDateTime: 2020-12-09T17:00:15Z
