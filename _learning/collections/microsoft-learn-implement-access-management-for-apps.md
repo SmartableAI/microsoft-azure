@@ -4,7 +4,7 @@ excerpt: "Implement Access Management for Apps"
 type: collection
 price: Free
 length: PT2H7M
-heat: 67
+heat: 62
 
 provider:
   name: Microsoft Learn

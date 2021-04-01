@@ -4,7 +4,7 @@ excerpt: "SC-300 part 1: Implement an identity management solution"
 type: collection
 price: Free
 length: PT3H24M
-heat: 85
+heat: 67
 
 provider:
   name: Microsoft Learn
