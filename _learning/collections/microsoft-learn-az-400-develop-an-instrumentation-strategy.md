@@ -21,7 +21,6 @@ items:
   - courses/microsoft-learn-capture-application-logs-app-service
   - courses/microsoft-learn-control-and-organize-with-resource-manager
   - courses/microsoft-learn-intro-to-app-center
-  - courses/microsoft-learn-azure-spring-cloud-workshop
   - courses/microsoft-learn-azure-well-architected-performance-efficiency
   - courses/microsoft-learn-azure-well-architected-operational-excellence
   - courses/microsoft-learn-analyze-infrastructure-with-azure-monitor-logs

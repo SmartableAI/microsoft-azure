@@ -21,6 +21,7 @@ items:
   - courses/microsoft-learn-integrate-data-azure-data-factory
   - courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory
   - courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory
+  - courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines
   - courses/microsoft-learn-orchestrate-data-movement-transformation-azure-data-factory
   - courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory
   - courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines

@@ -19,11 +19,13 @@ levels:
 
 items:
   - courses/microsoft-learn-design-modern-data-warehouse-using-azure-synapse-analytics
+  - courses/microsoft-learn-design-multidimensional-schema-to-optimize-analytical-workloads
   - courses/microsoft-learn-use-data-loading-best-practices-azure-synapse-analytics
   - courses/microsoft-learn-optimize-data-warehouse-query-performance-azure-synapse-analytics
   - courses/microsoft-learn-integrate-sql-apache-spark-pools-azure-synapse-analytics
   - courses/microsoft-learn-understand-data-warehouse-developer-features-of-azure-synapse-analytics
   - courses/microsoft-learn-manage-monitor-data-warehouse-activities-azure-synapse-analytics
+  - courses/microsoft-learn-analyze-optimize-data-warehouse-storage-azure-synapse-analytics
   - courses/microsoft-learn-secure-data-warehouse-azure-synapse-analytics
 
 topics:
