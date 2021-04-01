@@ -1,21 +1,24 @@
 ---
 category: news
-title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
-excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
-publishedDateTime: 2021-03-12T14:11:00Z
-originalUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
-webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
+title: "Pure Storage brings cloud block storage to Microsoft Azure"
+excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
+publishedDateTime: 2021-04-01T13:42:00Z
+originalUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
 type: article
-quality: 17
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ChannelE2E
-  domain: channele2e.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - Azure
+  - Storage
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -590,17 +593,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Pure Storage brings cloud block storage to Microsoft Azure"
-    excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
-    publishedDateTime: 2021-04-01T13:42:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-    ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 54
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -1728,6 +1720,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Datto Preps Microsoft Azure Cloud Continuity for MSPs"
+    excerpt: "Datto preps Azure Cloud Continuity -- the MSP technology company's first continuity product for applications running in the public cloud."
+    publishedDateTime: 2021-03-12T14:11:00Z
+    webUrl: "https://www.channele2e.com/technology/business-continuity/datto-microsoft-azure-cloud-continuity/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 17
   - title: "Public Cloud Infrastructure Market Likely to Boost Future Growth by 2025 | Phoenix, Microsoft Azure, Rackspace"
     excerpt: "Stay up to date and exploit latest trends of Public Cloud Infrastructure Market with latest edition released by AMA A Latest intelligence report published by AMA Research with title Public Cloud Infrastructure Market Outlook to 2025 A detailed study accumulated"
     publishedDateTime: 2021-03-22T13:28:00Z
@@ -1857,6 +1858,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "kl9vQGkBIF1XHMTljmHQ6ZFDy5PWt5BR1TNRCGk/CmOkNfj176vOpsZJPid2PJVUHVZmHa/88naPXslHwLBcx+JFYikAoEi597a9Cp68NeI+4vSiggLIey4jxFyOPKvq8J1nTaWGiqfvSlnop2rXjThDjUio449QnsHnBttZKG2xb0TzOVwfutRCGVvLPzrNvjOueK1FpCDsMp3rR3opqbVH3SmUKQzRBlFFkjhqlnIJsOcuGB7IlC0lOsa2NcxusbZAUHs994mzbsrpoxfFyXYrdgUZFvFzGZoyBGUvlLyyt43/eb+1IfpeFkpdQiQA+BiamFr2FuyXdQiyjIAtuRGYgnGm2DGshPoeyYABOYQ=;eXGAyZW0yxaxJlE7AEpbcg=="
+secured: "Y7cy6RMZn/yAYfmdiX5PQo5Em41Jxa2jLBgoBloX/vOR9ULa8OgDooK6M8szGTfDpXIZSPnWOIFRYetvrugue3ov2sBe+2D7nZqPOXmn+PKrYsfBU8m/C8wzMUn00DQGUtvfDtYC0PA+jBkHFxJHYFjJmwUIOLaWJCbPO3ScodsZozdSwoJixH6cKCv3K3SLdfkLp8EOaqU1VCMnY1on3yDA8wYccV3Vfhqwl2Mj40aefg/4oCu6Ak7XSyrAHjturpHVWUcjoxw1a7LOazecym0XZ269mrZLjRhG95vLHZ34HHlRF4bNfAUrjVuF4LqxtBWJayLLgKa9shSgxXhN+hzXCOaGxlJ0EKyrQPN6Y6Q=;okXxDhzQ6f1Swg7zmbBoGg=="
 ---
 

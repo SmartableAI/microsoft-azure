@@ -598,6 +598,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Pure Storage brings cloud block storage to Microsoft Azure"
+    excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
+    publishedDateTime: 2021-04-01T13:42:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Microsoft Azure outage delays virtual premiere of Zack Snyder's Justice League"
     excerpt: "Zack Snyder's Justice League saw one last delay due to the recent Microsoft Azure outage. The virtual premiere of the film was delayed by six hours. Luckily, the launch on HBO Max seems to be on schedule."
     publishedDateTime: 2021-03-16T12:27:00Z
