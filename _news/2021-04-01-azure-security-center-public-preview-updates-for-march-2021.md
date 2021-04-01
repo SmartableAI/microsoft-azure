@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Security Center—News and updates for November 2020"
-excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
-publishedDateTime: 2020-12-02T00:00:12Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
-webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
+title: "Azure Security Center: Public preview updates for March 2021"
+excerpt: "Public preview enhancements and updates released for Azure Security Center in March 2021."
+publishedDateTime: 2021-04-01T18:16:41Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/asc-march2021-2/"
+webUrl: "https://azure.microsoft.com/en-us/updates/asc-march2021-2/"
 type: article
 quality: 99
 heat: -1
@@ -41,19 +41,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Security Center—News and updates for December 2020"
-    excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
-    publishedDateTime: 2021-01-04T22:16:20Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
+  - title: "Azure Security Center—News and updates for November 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in November 2020."
+    publishedDateTime: 2020-12-02T00:00:12Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-november2020/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Azure Security Center: Public preview updates for March 2021"
-    excerpt: "Public preview enhancements and updates released for Azure Security Center in March 2021."
-    publishedDateTime: 2021-04-01T18:16:41Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/asc-march2021-2/"
+  - title: "Azure Security Center—News and updates for December 2020"
+    excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
+    publishedDateTime: 2021-01-04T22:16:20Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
     type: article
     provider:
       name: Microsoft
@@ -87,6 +87,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "BVrCiHq7ob9vmsKBBW8VGAWks+YgNWVlrSSkqm7i3V83GydCgwH2gRR+udABp8DDn9lpH0XwpBw3mVHN8Q0/DU3XtmyLN59JekycvL0ujA9ynHX3Ox3pt2Hv56M/FrN/evbZkp4asuvj6n/W5IdDlwcB4ue42Dh9yJr1+HavRhgeWiKc14NdoWnmCmpStwcz/xsAm39jKBJ6vDPu6w+dJnYANK94LAORSCbXoB7wjQElbgyz6P6RjMgy4VDOzg4EBCQM7gA1QlG51UE2h+tUX7+QiFZeyehZD0iycjIEE/l38oCLswVFCzjGlKWte4Z8OvL1hKAU/xrHUSvFx0qDthd8qzlt4PwD1lQPesR3oEA=;yQU6Xxwae2pKEEjK7xHQ6w=="
+secured: "Lw1L9Z5x6kR6dGmvCi/B3UbFADn1SrDnqgn8debnRLKYiLR4m4PDl7s10uamPzlupiSVhH+UoGuNIAau+43C37OBjJbyFe8kYEKBh1+LCBaR8Bnx2lKuhSvZARUksrLkFy2n7Bc/9D+YyZyOdRQCh3n3674gQfqKRMs+3TcRaQvewWTLuwYGB2yQXNBTGktPFGE0iebQk2Hg662UFKltcFgFb8Yl11an2cr77JMTAUBxcZX5qtRYsmC3+7b9tDkpIUiHWfiJPnVrAzEn3NCB0I7s21OyicAdwbtYWDy44w0s6BfhxgOqg5OaJzv8943YZo6CZlHb2bhuQIsDj1GIvhu/UG3XzH/qgd0c2ZX2eYo=;jgSUvy+WxxUzkZJR7iysag=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 webUrl: "https://azure.microsoft.com/en-us/updates/asc-august2020/"
 type: article
 quality: 99
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
     excerpt: "New enhancements and updates made to Azure Security Center in December 2020."
     publishedDateTime: 2021-01-04T22:16:20Z
     webUrl: "https://azure.microsoft.com/en-us/updates/asc-december2020/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Azure Security Center: Public preview updates for March 2021"
+    excerpt: "Public preview enhancements and updates released for Azure Security Center in March 2021."
+    publishedDateTime: 2021-04-01T18:16:41Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-march2021-2/"
     type: article
     provider:
       name: Microsoft

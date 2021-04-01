@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/strengthening-compliance-in-azure
 webUrl: "https://azure.microsoft.com/blog/strengthening-compliance-in-azure-security-center/"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 722
     isCached: true
+
+related:
+  - title: "Azure Security Center: General availability updates for March 2021"
+    excerpt: "New enhancements and updates released for general availability in Azure Security Center in March 2021."
+    publishedDateTime: 2021-04-01T18:16:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/asc-march2021-1/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
 
 secured: "y1DaZixbsko4o7ro6eq0eCqKp5pU3ZQXTv2RxGrYZtDF27/uAgkRs7YGGGBBsSkwj571IKcnhhtHG4wY5ydfEL25zMrNskX4PI/a1UoSGiu0iZHLGOcIyl9ReOcLRP15mf+3xEMCOSmHF6eB5dzqqAjkkQu75v63msseRxFBuQ0sIP946b117Zbbyi52v4TQR5hBGTGAs43ZEHWr53xezmYOZoIrMqsT8H1bq1znThx4ljMKnU9Saj6FNPrO2Mc593e0sfQVGGEy3Lun/rTIm+XDnZYWCcg7yW/r+Vd1QpbY4qs4VxgadBwI51ZWGQrbdiwxrVrlDfKQCJVsgDzvtOW/Tt/CscEZiTWYy7N30DI=;UazuqjiOfwrfYy9pHGwpoQ=="
 ---
