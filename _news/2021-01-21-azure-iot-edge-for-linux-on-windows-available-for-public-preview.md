@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-on-windows-available-for-public-preview/"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:
