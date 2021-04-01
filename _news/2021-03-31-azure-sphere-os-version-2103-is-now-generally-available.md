@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
-excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
-publishedDateTime: 2020-12-11T21:09:31Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
+title: "Azure Sphere OS version 21.03 is now generally available"
+excerpt: "This quality release of the Azure Sphere OS includes bug fixes and updates to mitigate against the Common Vulnerabilities and Exposures (CVEs) mentioned in the article."
+publishedDateTime: 2021-03-31T22:01:39Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available/"
 type: article
 quality: 67
 heat: -1
@@ -53,6 +53,15 @@ related:
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
     publishedDateTime: 2020-12-07T17:12:01Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-norway-east-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Sphere OS version 20.12 Update 1 is now available for evaluation"
+    excerpt: "This release fixes an Ethernet connection issue for devices with both Wi-Fi and Ethernet enabled."
+    publishedDateTime: 2020-12-11T21:09:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2012-update-1-is-now-available-for-evaluation/"
     type: article
     provider:
       name: Microsoft
@@ -121,15 +130,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Sphere OS version 21.03 is now generally available"
-    excerpt: "This quality release of the Azure Sphere OS includes bug fixes and updates to mitigate against the Common Vulnerabilities and Exposures (CVEs) mentioned in the article."
-    publishedDateTime: 2021-03-31T22:01:39Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
@@ -149,6 +149,6 @@ related:
       domain: microsoft.com
     quality: 17
 
-secured: "122GLKDDBFeRK/Br6Kzaai8MSNMbpCGDymqAt8XZ/3OYeZNNQHulTbYyWQHvlkY4ueVR47yAfMoa/L9aBsxEdbVXl6JmebTAYaV2Ep22Kf3+/qpU8Shc61dvJjXEYz7UN2PbbPHviqs+YrlFNb4sXgfAwL6j0byupnoVsd+tQrniS161j1FT5LMnD3h2AvWk+K8IS2rnVmSaqsPadZbCAtwmp/Gr11HeDawIjYtdJjSJYRVk2zeagfJWc6VI4sMaaZJGZ2vrGDX9Qnf445ZdpF29kOe2IOMMxh0ZU/g6OeDlIjZgqqjxElv/minK3mOxR2lrRo0gupuAAIVm4hQMzhLlJtQWfxPr1OvsaQ2zQvw=;MqkCS5TvScHGfMhK8fAjXg=="
+secured: "0H+tlcwlFMsalN/d70OKoHZ9FB8IkMnGpdmx7Io82tmVqf50y+YA5yzaTP1YdCd6DTwjKQqEEWjK8m9jVrGJ7pJbddElkxeAjHD3NJXqy1wTlKK8nArEZ8stZIlhxjqCNR/oQGU/PlRQMrRjNgYIXTMeWl52AUKZbt2ktNcLrMki/vjSb6ayg6srP114DPNnMycv1Sds+1NIAlORleYPKKOm8Z2Ypq3rhwwciqTlLI0fcZvxxWxSP0dlZ8FSiNJG6dOIrauKZiUnQNCdNkaqYIYQoN4EA3+yZySFdwgifWtvQmKmiFkW9ZuSv6Se1NxjbSV8emyKZ19aKCQt+DPByo99dpOXsPRrj2eyUZn6Jlg=;U0djea9WGZJKOo/X6oj9CA=="
 ---
 

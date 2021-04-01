@@ -121,6 +121,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Sphere OS version 21.03 is now generally available"
+    excerpt: "This quality release of the Azure Sphere OS includes bug fixes and updates to mitigate against the Common Vulnerabilities and Exposures (CVEs) mentioned in the article."
+    publishedDateTime: 2021-03-31T22:01:39Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2103-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Sphere update 20.04 is now available"
     excerpt: ""
     publishedDateTime: 2020-05-05T17:00:14Z
