@@ -245,6 +245,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Updated App Service Authentication portal experience is now generally available"
+    excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
+    publishedDateTime: 2021-04-01T21:02:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/updated-app-service-authentication-portal-experience-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z

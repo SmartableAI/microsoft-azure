@@ -253,6 +253,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Updated App Service Authentication portal experience is now generally available"
+    excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
+    publishedDateTime: 2021-04-01T21:02:34Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/updated-app-service-authentication-portal-experience-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z

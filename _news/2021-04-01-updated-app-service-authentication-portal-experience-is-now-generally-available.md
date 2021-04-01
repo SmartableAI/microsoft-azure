@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
-excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
-publishedDateTime: 2021-04-01T15:56:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+title: "Updated App Service Authentication portal experience is now generally available"
+excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
+publishedDateTime: 2021-04-01T21:02:34Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/updated-app-service-authentication-portal-experience-is-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/updated-app-service-authentication-portal-experience-is-now-generally-available/"
 type: article
-quality: 76
+quality: 65
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Management tools
+  - Compute
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -154,6 +154,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
+    excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
+    publishedDateTime: 2021-04-01T15:56:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
     excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
     publishedDateTime: 2021-03-04T20:09:25Z
@@ -244,15 +253,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Updated App Service Authentication portal experience is now generally available"
-    excerpt: "The new Authentication portal experience for App Service and Azure Functions, improving usability, initial setup, and increased security, is now available.”"
-    publishedDateTime: 2021-04-01T21:02:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/updated-app-service-authentication-portal-experience-is-now-generally-available/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: App Service Managed Certificates now supports apex domains"
     excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
     publishedDateTime: 2021-03-17T16:00:26Z
@@ -299,6 +299,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "PF9UWeCd+e9IccUPAyoTDXJG8Jwh8kNaMIRugXb0vfaT3tkuwvpxFbosj329C/b1V9rWeQb3iWVpttnhCwK7ZexmRNkcrc0AJUkm1EZJ2UyHFeLADQ3RiypZLHKHCM6dIRifHqVuy2fjDKe9ldNa5nGsJboT00c5PE3nqGuzJ5cjhNh9+bBqx0TxZFnuPfmvC5Ez2os0ID7iNvmYMMv6v9TkRT5kGIG1jJ1mCD5ji+Kfo5gqA71AS6GrZ68QyEaJkNNUJ46v4VbNx8ZwxvwzIHQSdczszP8JOqqyp9gGh4GXGrbbnNr+Z6eSVaMhfhUgrwHCWFvyQOyB+DiceRp98T8uCSxZwY0ZouyxD9hEM+4=;4MpaPKS3iN9XCzoKkHETeg=="
+secured: "AvPtogckv4sszxCCGbur+Irvn1h6x6IBpDg4bQPdE+jURJWDIctRmNe5OuMGfKZ390l8LxuptDXHVq/aWcJXl1qMrhKuCANSLMmANjekQNwifIns+KeEbFyfAZisxC1Uyw5KA5Rppnkmn0vdMuVe9xlcw4ySWr2uTPGfQc79R88S5dq81dkAAzzzA7OqyUEiscGrncUBY5k7D22M6/b7Uj26jSOEtkMUe9ofXAykZbpMNC3ITHPJxx4hlGd8bpBBZwZv3taf6baV1JZJCU+wpdnlWnD1uCsBYCWqWl0qCa+FOT1qNbKejMXpU7iZfRDBiW4VsXNqxKXAVbYWyqys3GQSrzDdKdpNAJmfN3bSbmo=;KXXXIWgsnTRf4aI6Oj0FuA=="
 ---
 
