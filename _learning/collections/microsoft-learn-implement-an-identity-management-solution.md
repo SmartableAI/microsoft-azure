@@ -4,7 +4,7 @@ excerpt: "Implement an identity management solution"
 type: collection
 price: Free
 length: PT3H24M
-heat: 91
+heat: 85
 
 provider:
   name: Microsoft Learn
