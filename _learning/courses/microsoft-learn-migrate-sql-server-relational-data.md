@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H24M
 ratings:
-  count: 1376
-  average: 4.4585757
+  count: 1377
+  average: 4.4589686
 heat: 53
 
 provider:
@@ -27,6 +27,6 @@ topics:
   - Migration
   - Management Tools
 
-secured: "38dJCxd30/r+Kbsma1giL+vTRcx2KZGGcpaYMnFv63mvu5xivmGbbrKg7vOnAtmoGlzhofD60Y6ciXMnYBxN685Rx4S6u1NctwvWnuNvtrRSlsRoRUENpO1Hw7fee+xJ8dXvqD+3RCsdpj1GKfhEiYmF0R4SfJYyLEwK05Wz1/zOKfzNWTwqBdz587B5sx8Te5RK+9zoSgxl+rtRDD38dUfLsFfOYBpANy2oAR4TSCIbpX+EB+EatdbP70wX5y7r4tzJ1xrCW8FqsRSKVe6cRuxLcrG7c0jE0zw1Y9z6VqHtkDV9hKkiBNpnAVZC9T7nfKYc5ZOXdXvjoF62PsXEZgEFsxuzS2Cyo9E3wFpCcbgWWEnpB58d0jIniKq3j8E3BEuT/Jh+Mq220PYe9xO3m3jXQkocs12wKbf0z2qeeyM=;eNhrbBVje29tVuFU+j3//g=="
+secured: "zYzWfof+vEQE8v2cYe6NqDRxnVN+pUMbFNmvYYJFppMX5jyj1uZobc2ZoxQ4oDnifPNPt+J7iSwxVBf5kDJApQHa0WWJp8ZoTQ8O3R9tU4g1ka6z4oZ4BLN2nG1er39sFg/d0BOGWjsx8eUvaOIlpA06V+jI7MYwfEJW2hGVpf7G1C1ueZXMsqKKQ+DSrulAS8HsIQbfeFUJ6ai5ITIsvfhlIIjPwXpDotYv/I8Gx22DPM7Hzs1snRjx3nyA+djfd8mpUlM6/u41/FS0JnAcdzsLyg+pd5aokzh8Uf91Em9L+YKsxFLgBqr1kJPjbwztCS+K/JXVKJsuY4u61PPY/prycH6yPDcNXYNSVF/u1k8dq1SKdIapaTI6KrtnlktkFoqe1lW8VU9Jp5KXvBYAXeWOO5HhTTzvtV+xsMHr+rk=;XpnzwyDuvie5tOar33DpMg=="
 ---
 
