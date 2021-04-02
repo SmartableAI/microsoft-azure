@@ -1862,6 +1862,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "SYkvw6sop2AnTBkak4zz39QM4FyUulzSwFDjZyO5nbXhr07s0krUcThJeJRqP36fIVaNMqsiBCyDtG00Ps7IJFjlcjkflKvGpDqwpZ0pFsfWHMW1fjgxI/mDyHb0R+08j5fPJ9aEXhmvtK/0R6I7wpcOlnj1vagx/YZSxAYVM7+Egg6Od1uz8e+5PphA66wmF8Q4P+OT13keJespgbCUXyuvEeeQHPoJQj3a8n4ghmafSYk86wjyabzGRiQNOoT6xQa1BbPsr4NQiVGyeolpVr5faGAmvxMEtkuHT93B+kHPbShIvhsHflbTgEYbFQ1dcdy87zVcy10lYyMVMzxf/LyoK9W0K6y65XBvG34d/Fk=;aqunfCVrowdy1y/NphxcJw=="
+secured: "A/0TkwnW2d7mHgAvzBQ4oDpABU/3zY/DDh/73qHgXKOoexy1OyJUyFD1Ue9mh8nZnYcSdd0BjQk2uOarAkLBv37tH5vFMVpD40cyBU4TmQ9Z74oATLYPNL2m4hopLE5sg4ilUkzgcKlaYfU4ghs8hB2Hji2ShFU5Hcp11+sOgzW+Z4Vnpa7WNc4Anpd/9il0KCk6WgRJuSPPasRK1HL0M6GDgbR/n4cGf746sVLy8T/a0EIodvXKmwwWoR4na/wrB0WhbDYi+xSdWm3YTiilkMSouAYVvm+RIDykRQYaa27Dy+p3QO4JNvFNkO/EEwO2yL/FASkW148RNUUG9McLUQJnaf3uRRElIiOCDZa6Yw0=;8S72apC1V+I+N4R2UNWE3g=="
 ---
 
