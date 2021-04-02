@@ -380,6 +380,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Cloud services are down for some users"
+    excerpt: "A number of users are reporting that pretty much any and all Microsoft services hosted on Azure are down, the evening of April 1. The @AzureSupport and @MSFT365Status accounts on Twitter are both acknowledging the problem and are pointing many users to non ..."
+    publishedDateTime: 2021-04-01T22:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
+        isCached: true
   - title: "Microsoft launches new tools for building fairer machine learning models"
     excerpt: "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s"
     publishedDateTime: 2020-05-19T15:14:00Z

@@ -384,6 +384,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Cloud services are down for some users"
+    excerpt: "A number of users are reporting that pretty much any and all Microsoft services hosted on Azure are down, the evening of April 1. The @AzureSupport and @MSFT365Status accounts on Twitter are both acknowledging the problem and are pointing many users to non ..."
+    publishedDateTime: 2021-04-01T22:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
+        isCached: true
   - title: "Microsoft announces Azure Service Fabric"
     excerpt: "Microsoft has announced Azure Service Fabric, a new cloud platform for developers and ISVs to build scalable cloud services. According to a blog post from Microsoft Azure CTO Mark Russinovich ..."
     publishedDateTime: 2020-04-20T00:00:00Z

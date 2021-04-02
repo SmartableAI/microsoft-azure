@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-22-virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms.md",
+      "title": "Virtual Machine (VM) level Disk Bursting on Dvs3 and Esv3 VMs",
+      "excerpt": "Virtual Machine (VM) level Disk Bursting is now enabled on for our Dsv3 and Esv3 virtual machines, allowing customer s workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision their virtual machine.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/virtual-machine-vm-level-disk-bursting-on-dvs3-and-esv3-vms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:04:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Compute"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-major-performance-improvements-for-azure-sql-managed-instances.md",
       "title": "Major performance improvements for Azure SQL Managed Instances",
       "excerpt": "Enhanced log write throughput and superior data/log IOPS make Azure SQL Managed Instances even more appealing for migration.",
@@ -1089,49 +1132,6 @@
       "topics": [
         "Azure",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2020-09-09-azure-blob-storage-object-replication-is-now-generally-available.md",
-      "title": "Azure Blob storage object replication is now generally available",
-      "excerpt": "Object replication allows you to replicate your block blob data at the blob level from one storage account to another anywhere in the Azure. ",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-blob-storage-object-replication-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 559,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-09T13:05:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage"
       ]
     }
   ],

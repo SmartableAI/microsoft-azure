@@ -68,6 +68,22 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Microsoft Azure outage affects XBox Live and more across US"
+    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
+    publishedDateTime: 2021-04-01T23:31:00Z
+    webUrl: "https://www.12news.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 57
+    images:
+      - url: "https://media.12news.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Microsoft Azure Checklist: Expert Advice on Security"
     excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
     publishedDateTime: 2021-03-28T09:03:00Z

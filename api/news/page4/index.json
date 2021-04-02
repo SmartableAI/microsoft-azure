@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-azure-event-grid-is-now-in-public-preview-for-azure-cache-for-redis.md",
+      "title": "Azure Event Grid is now in public preview for Azure Cache for Redis",
+      "excerpt": "Azure Cache for Redis integration with Azure Event Grid is in public preview. This integration allows service manage routing of Redis events like patching, scaling, and import/export(RDB) to any destination.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-event-grid-is-now-in-public-preview-for-azure-cache-for-redis/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-event-grid-is-now-in-public-preview-for-azure-cache-for-redis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T09:00:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Databases",
+        "Integration"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-new-azure-monitor-agent-available-on-latest-linux-distros-and-new-regions.md",
       "title": "New Azure Monitor Agent available on latest Linux distros and new regions",
       "excerpt": "The new Azure Monitor Agent now supports the latest Linux distros and can be installed on additional new regions using Data Collection Rules. ",
@@ -1089,58 +1133,6 @@
         "Azure",
         "AI",
         "Analytics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
-      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
-      "excerpt": "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "originalUrl": "https://www.techrepublic.com/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "publishedDateTime": "2021-01-19T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "AI"
       ]
     }
   ],
