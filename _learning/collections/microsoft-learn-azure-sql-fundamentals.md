@@ -4,7 +4,7 @@ excerpt: "Learn how to deploy, secure, monitor and troubleshoot Azure SQL databa
 type: collection
 price: Free
 length: PT7H14M
-heat: 64
+heat: 67
 
 provider:
   name: Microsoft Learn
