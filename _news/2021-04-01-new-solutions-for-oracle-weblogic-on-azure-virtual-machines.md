@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-solutions-for-oracle-weblogic
 webUrl: "https://azure.microsoft.com/blog/new-solutions-for-oracle-weblogic-on-azure-virtual-machines/"
 type: article
 quality: 104
-heat: 124
+heat: 126
 published: true
 
 provider:
