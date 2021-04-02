@@ -4,12 +4,12 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-open-source-databases-to-azure.md",
-      "title": "Migrate open-source databases to Azure",
-      "excerpt": "Migrate open-source databases to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-open-source-databases-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-open-source-databases-to-azure/",
-      "length": "PT3H8M",
+      "path": "_learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central.md",
+      "title": "Develop IoT solutions with Azure IoT Central",
+      "excerpt": "Follow this learning path for a broad and compelling introduction to the fundamentals of building IoT solutions with Azure IoT.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-develop-iot-solutions-with-azure-iot-central/",
+      "length": "PT4H2M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,19 +23,20 @@
         ]
       },
       "levels": [
+        "Beginner",
         "Intermediate"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
-          "title": "Introduction to open-source database migration on Azure",
-          "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
-          "length": "PT50M",
+          "path": "_learning/courses/microsoft-learn-create-your-first-iot-central-app.md",
+          "title": "Create your first Azure IoT Central app",
+          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. The first unit creates the app, the second unit defines a device template for a refrigerated truck. Then, create a programming project, add code to simulate a truck, and communicate with your IoT Central app. The truck is monitored through a custom dashboard.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-your-first-iot-central-app/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
+          "length": "PT1H22M",
           "ratings": {
-            "count": 492,
-            "average": 4.77439
+            "count": 808,
+            "average": 4.617574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -50,12 +51,12 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -66,20 +67,21 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases",
-            "Migration"
+            "IoT",
+            "Mobile",
+            "Web"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql.md",
-          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "excerpt": "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/",
-          "length": "PT42M",
+          "path": "_learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central.md",
+          "title": "Set up rules and take action on telemetry data in Azure IoT Central",
+          "excerpt": "This module builds an IoT Central app to monitor and command a refrigerated truck. We build the IoT Central app from a downloaded JSON file, defining all the device capabilities. Source code is also downloaded for the device app. The focus of this module is on creating rules and actions, to respond to certain telemetry input. Rules and actions enable greater automation of an IoT Central system.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-set-up-rules-take-actions-telemetry-data-azure-iot-central/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/set-up-rules-take-actions-telemetry-data-azure-iot-central/",
+          "length": "PT46M",
           "ratings": {
-            "count": 99,
-            "average": 4.7777777
+            "count": 197,
+            "average": 4.6243653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,12 +96,12 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/iot/set-up-rules-take-actions-telemetry-data-azure-iot-central-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -110,19 +112,21 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "IoT",
+            "Mobile",
+            "Web"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-          "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-          "length": "PT50M",
+          "path": "_learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api.md",
+          "title": "Manage IoT Central applications with the REST API",
+          "excerpt": "In this module, you'll learn how to manage an IoT Central application programmatically using the REST API",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-iot-central-apps-with-rest-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-central-apps-with-rest-api/",
+          "length": "PT45M",
           "ratings": {
-            "count": 83,
-            "average": 4.795181
+            "count": 160,
+            "average": 4.45625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -142,7 +146,7 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/manage-iot-central-apps-with-rest-api-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -153,19 +157,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "IoT"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database.md",
-          "title": "Protecting, monitoring and tuning a migrated database",
-          "excerpt": "Protecting, monitoring, and tuning a migrated database",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-migrated-database/",
-          "length": "PT46M",
+          "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+          "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+          "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+          "length": "PT1H9M",
           "ratings": {
-            "count": 82,
-            "average": 4.8292685
+            "count": 111,
+            "average": 4.5945945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -180,14 +184,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -196,7 +200,9 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "IoT",
+            "Storage",
+            "Analytics"
           ]
         }
       ],
@@ -204,7 +210,7 @@
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/iot/iot-central-refrigerated-truck-module-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -214,16 +220,17 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "IoT"
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure.md",
-      "title": "Migrating open-source workloads to Azure",
-      "excerpt": "Migrate open-source workloads",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrating-open-source-workloads-to-azure/",
-      "length": "PT3H8M",
+      "path": "_learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution.md",
+      "title": "Implement an Authentication and Access Management solution",
+      "excerpt": "Implement an Authentication and Access Management solution",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-an-authentication-and-access-management-solution/",
+      "length": "PT3H11M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -241,15 +248,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
-          "title": "Introduction to open-source database migration on Azure",
-          "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
-          "length": "PT50M",
+          "path": "_learning/courses/microsoft-learn-secure-aad-users-with-mfa.md",
+          "title": "Secure Azure Active Directory users with Multi-Factor Authentication",
+          "excerpt": "Learn how to use multi-factor authentication with Azure AD to harden your user accounts.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-aad-users-with-mfa/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
+          "length": "PT38M",
           "ratings": {
-            "count": 492,
-            "average": 4.77439
+            "count": 2386,
+            "average": 4.7317686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -264,12 +271,12 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Beginner"
           ],
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
               "width": 800,
               "height": 400,
               "isCached": true
@@ -280,20 +287,20 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases",
-            "Migration"
+            "Management Tools",
+            "Identity"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql.md",
-          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "excerpt": "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/",
-          "length": "PT42M",
+          "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
+          "title": "Manage user authentication",
+          "excerpt": "Manage user authentication",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
+          "length": "PT48M",
           "ratings": {
-            "count": 99,
-            "average": 4.7777777
+            "count": 183,
+            "average": 4.819672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -308,14 +315,57 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-plan-implement-administer-conditional-access.md",
+          "title": "Plan, implement, and administer conditional access",
+          "excerpt": "Plan, implement, and administer conditional access",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-administer-conditional-access/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-administer-conditional-access/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 188,
+            "average": 4.8297873
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -324,19 +374,19 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
+            "Identity"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-          "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-          "length": "PT50M",
+          "path": "_learning/courses/microsoft-learn-manage-azure-ad-identity-protection.md",
+          "title": "Manage Azure AD Identity Protection",
+          "excerpt": "Manage Azure AD Identity Protection",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-azure-ad-identity-protection/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-active-directory-identity-protection/",
+          "length": "PT45M",
           "ratings": {
-            "count": 83,
-            "average": 4.795181
+            "count": 294,
+            "average": 4.823129
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -351,14 +401,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-              "width": 800,
-              "height": 400,
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
               "isCached": true
             }
           ],
@@ -367,50 +417,7 @@
           "price": "Free",
           "topics": [
             "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database.md",
-          "title": "Protecting, monitoring and tuning a migrated database",
-          "excerpt": "Protecting, monitoring, and tuning a migrated database",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-migrated-database/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 82,
-            "average": 4.8292685
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
+            "Identity"
           ]
         }
       ],
@@ -418,7 +425,7 @@
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/secure-aad-users-with-mfa-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -428,7 +435,8 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Azure"
+        "Azure",
+        "Identity"
       ]
     },
     {
@@ -755,8 +763,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
           "length": "PT37M",
           "ratings": {
-            "count": 1545,
-            "average": 4.667314
+            "count": 1546,
+            "average": 4.667529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1562,8 +1570,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 82,
-            "average": 4.780488
+            "count": 83,
+            "average": 4.7831326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1605,8 +1613,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 76,
-            "average": 4.7894735
+            "count": 77,
+            "average": 4.7922077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 66,
-            "average": 4.7727275
+            "count": 67,
+            "average": 4.776119
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2137,8 +2145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 8215,
-        "average": 4.658308
+        "count": 8218,
+        "average": 4.658311
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2301,8 +2309,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 3568,
-        "average": 4.7631726
+        "count": 3569,
+        "average": 4.762959
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2344,8 +2352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-python/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 6006,
-        "average": 4.720446
+        "count": 6007,
+        "average": 4.7203264
       },
       "provider": {
         "name": "Microsoft Learn",
