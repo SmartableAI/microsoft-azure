@@ -40,6 +40,20 @@ related:
         width: 400
         height: 283
         isCached: true
+  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
+    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
+    publishedDateTime: 2021-04-02T13:40:00Z
+    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "awXvxGiUC9h7lXtTdYManNPnwZYrhQFddMhxNypUynWmAZHp3n77mN4vITAR5pRya5OhdIPqe3Y56EsBvq1uDCRQ5LFvTI43qhmTiG9dSk1+mq84Esf5tVS2ijAhIWLov79eWz/TkGGwe33shSkYP1Grx6BpLljcy8cuvr5sDFGdbOlb4mFapg0Ic17yYaoRzHNhb2sFjKPoVLUFPn0djK378RZgzpJMDs5DhLQaliZRXXqGjcofjJ2mH1QppE8tYIyU0xbvUkf8oxyxUiFmSHCf5UxkfA1TxGoGiMwT68NbCHVQ2qyrW4YjyGwynXta5B2dFOGi6mvAfdjEdLFwyHwpd+bycdIT7ypdJ1dxVkM=;9ZORmLzy8l/Zs1Khje5qeQ=="
 ---
