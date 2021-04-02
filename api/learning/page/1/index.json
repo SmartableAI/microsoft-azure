@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
       "length": "PT36M",
       "ratings": {
-        "count": 44271,
-        "average": 4.7837863
+        "count": 44297,
+        "average": 4.7836876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 24178,
-            "average": 4.8126807
+            "count": 24192,
+            "average": 4.8126655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +162,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 11111,
-            "average": 4.805778
+            "count": 11119,
+            "average": 4.805648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -226,8 +226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 24178,
-        "average": 4.8126807
+        "count": 24192,
+        "average": 4.8126655
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -301,18 +301,13 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data.md",
-      "title": "Explore roles and responsibilities in the world of data",
-      "excerpt": "Explore roles and responsibilities in the world of data",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-roles-responsibilities-world-of-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
-      "length": "PT17M",
-      "ratings": {
-        "count": 2836,
-        "average": 4.826164
-      },
+      "path": "_learning/collections/microsoft-azure-friday.md",
+      "title": "Azure Friday",
+      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
       "provider": {
-        "name": "Microsoft Learn",
+        "name": "Microsoft",
         "domain": "microsoft.com",
         "images": [
           {
@@ -323,21 +318,174 @@
           }
         ]
       },
-      "levels": [
-        "Beginner"
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday.md",
+          "title": "Building a balancing robot with Azure Sphere | Azure Friday",
+          "excerpt": "Mike Hall shows Scott Hanselman how his team built a self-balancing robot using Azure Sphere and Azure RTOS that can be controlled and updated remotely from Azure IoT Central. In addition, the robot supports deferred updates for the OS and applications, which ensures the robot is in a safe position before",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=xCeNnhm08S0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xCeNnhm08S0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT23M29S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-04-02T08:41:46-07:00",
+          "heat": 150,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/xCeNnhm08S0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday.md",
+          "title": "Azure Advisor – Your free, personalized guide to Azure best practices | Azure Friday",
+          "excerpt": "Jose Portugal joins Scott Hanselman to show how to use Azure Advisor to optimize your Azure workload usage, lower costs, increase efficiency, and improve security.  0:00 – Introduction 2:27 – Demo: Azure Advisor 6:30 – Demo: Alerts 7:06 – Demo: Recommendation digests 8:43 – Demo: Advisor Score 12:42",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=55lTTFACw-E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/55lTTFACw-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT15M10S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-26T08:51:57-07:00",
+          "heat": 121,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/55lTTFACw-E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+          "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+          "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT21M11S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-26T08:29:39-07:00",
+          "heat": 95,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday.md",
+          "title": "How to use Azure Orbital to communicate with your satellites | Azure Friday",
+          "excerpt": "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to communicate with your spacecraft or satellite constellations, downlink and uplink data, process your data in the cloud, chain services with Azure services in unique scenarios, and generate products for your customers.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/index.json",
+          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/",
+          "originalUrl": "https://youtube.com/watch?v=MqgjSBKAxIg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MqgjSBKAxIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT42M25S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2021-03-19T13:04:04-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/MqgjSBKAxIg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Networking"
+          ]
+        }
       ],
+      "size": 286,
       "heat": 145,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-roles-responsibilities-world-of-data-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/xCeNnhm08S0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
+      "type": "collection",
       "topics": [
         "Azure"
       ]
@@ -447,8 +595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -489,8 +637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9803,
-            "average": 4.7214117
+            "count": 9808,
+            "average": 4.7213497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -535,8 +683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8611,
-            "average": 4.7593775
+            "count": 8620,
+            "average": 4.759513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -580,8 +728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 6874,
-            "average": 4.759383
+            "count": 6876,
+            "average": 4.7594533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -642,55 +790,15 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
-      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
-      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-05T17:09:42-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
-      "title": "Discover how to foster an AI-ready culture in finance",
-      "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-build-chat-bot-with-azure-portal.md",
+      "title": "Build a chat bot with the Azure portal",
+      "excerpt": "Create and test a basic chat bot using the Azure portal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-chat-bot-with-azure-portal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-chat-bot-azure-portal/",
+      "length": "PT20M",
       "ratings": {
-        "count": 751,
-        "average": 4.798935
+        "count": 61,
+        "average": 4.7377048
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -705,14 +813,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -721,15 +829,19 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Management tools"
       ]
     },
     {
-      "path": "_learning/collections/microsoft-azure-friday.md",
-      "title": "Azure Friday",
-      "excerpt": "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-azure-friday/",
+      "path": "_learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series.md",
+      "title": "How to easily manage your virtual machine | Azure Portal Series",
+      "excerpt": "In this episode of the #Azure Portal \"How To\" series, learn about the new virtual machine (VM) overview experience, including new ways to quickly get started using your virtual machine.   Try out these features in the Azure portal: https://portal.azure.com   Keep connected on Twitter: https://twitter.com/AzurePortal",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-easily-manage-your-virtual-machine-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=vQClJHt2ulQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQClJHt2ulQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M31S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -742,174 +854,98 @@
           }
         ]
       },
-      "topItems": [
-        {
-          "path": "_learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday.md",
-          "title": "Building a balancing robot with Azure Sphere | Azure Friday",
-          "excerpt": "Mike Hall shows Scott Hanselman how his team built a self-balancing robot using Azure Sphere and Azure RTOS that can be controlled and updated remotely from Azure IoT Central. In addition, the robot supports deferred updates for the OS and applications, which ensures the robot is in a safe position before",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=xCeNnhm08S0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xCeNnhm08S0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT23M29S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-04-02T08:41:46-07:00",
-          "heat": 150,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/xCeNnhm08S0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday.md",
-          "title": "Azure Advisor – Your free, personalized guide to Azure best practices | Azure Friday",
-          "excerpt": "Jose Portugal joins Scott Hanselman to show how to use Azure Advisor to optimize your Azure workload usage, lower costs, increase efficiency, and improve security.  0:00 – Introduction 2:27 – Demo: Azure Advisor 6:30 – Demo: Alerts 7:06 – Demo: Recommendation digests 8:43 – Demo: Advisor Score 12:42",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=55lTTFACw-E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/55lTTFACw-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT15M10S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-03-26T08:51:57-07:00",
-          "heat": 108,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/55lTTFACw-E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
-          "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
-          "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT21M11S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-03-26T08:29:39-07:00",
-          "heat": 107,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        },
-        {
-          "path": "_learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday.md",
-          "title": "How to use Azure Orbital to communicate with your satellites | Azure Friday",
-          "excerpt": "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to communicate with your spacecraft or satellite constellations, downlink and uplink data, process your data in the cloud, chain services with Azure services in unique scenarios, and generate products for your customers.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/index.json",
-          "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-azure-orbital-to-communicate-with-your-satellites-azure-friday/",
-          "originalUrl": "https://youtube.com/watch?v=MqgjSBKAxIg",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MqgjSBKAxIg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT42M25S",
-          "provider": {
-            "name": "Microsoft",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-03-19T13:04:04-07:00",
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/MqgjSBKAxIg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Networking"
-          ]
-        }
-      ],
-      "size": 286,
-      "heat": 129,
+      "publishedDateTime": "2021-02-08T12:59:13-08:00",
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xCeNnhm08S0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/vQClJHt2ulQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series.md",
+      "title": "How to pin content to your Azure portal dashboard | Azure Portal Series",
+      "excerpt": "In this episode of the #Azure Portal “How To” Series, learn how to pin content on the portal for easier access and monitoring. We'll go over how to choose a dashboard to pin to and the differences between a private and a shared dashboard.   Try out these features in the Azure portal: https://portal.azure.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-pin-content-to-your-azure-portal-dashboard-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=eyOJkhYItSg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eyOJkhYItSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M51S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-05T03:57:56-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eyOJkhYItSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday.md",
+      "title": "Azure Advisor – Your free, personalized guide to Azure best practices | Azure Friday",
+      "excerpt": "Jose Portugal joins Scott Hanselman to show how to use Azure Advisor to optimize your Azure workload usage, lower costs, increase efficiency, and improve security.  0:00 – Introduction 2:27 – Demo: Azure Advisor 6:30 – Demo: Alerts 7:06 – Demo: Recommendation digests 8:43 – Demo: Advisor Score 12:42",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=55lTTFACw-E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/55lTTFACw-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:51:57-07:00",
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/55lTTFACw-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Azure"
       ]
@@ -945,8 +981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +1023,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 6601,
-            "average": 4.7810936
+            "count": 6607,
+            "average": 4.7811413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1030,8 +1066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5084,
-            "average": 4.720889
+            "count": 5089,
+            "average": 4.7211633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1073,8 +1109,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4496,
-            "average": 4.7617884
+            "count": 4499,
+            "average": 4.761947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1143,8 +1179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
       "length": "PT34M",
       "ratings": {
-        "count": 11111,
-        "average": 4.805778
+        "count": 11119,
+        "average": 4.805648
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,8 +1222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 9803,
-        "average": 4.7214117
+        "count": 9808,
+        "average": 4.7213497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1255,8 +1291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1297,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 4111,
-            "average": 4.7908053
+            "count": 4116,
+            "average": 4.7910595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1340,8 +1376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4859,
-            "average": 4.7388353
+            "count": 4862,
+            "average": 4.7387905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1383,8 +1419,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 4110,
-            "average": 4.7467155
+            "count": 4113,
+            "average": 4.7469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1469,8 +1505,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6697,
-            "average": 4.76482
+            "count": 6702,
+            "average": 4.7648463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1512,8 +1548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 4859,
-            "average": 4.7388353
+            "count": 4862,
+            "average": 4.7387905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1590,8 +1626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6348,
-            "average": 4.677536
+            "count": 6349,
+            "average": 4.677587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1814,83 +1850,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday.md",
-      "title": "Azure Advisor – Your free, personalized guide to Azure best practices | Azure Friday",
-      "excerpt": "Jose Portugal joins Scott Hanselman to show how to use Azure Advisor to optimize your Azure workload usage, lower costs, increase efficiency, and improve security.  0:00 – Introduction 2:27 – Demo: Azure Advisor 6:30 – Demo: Alerts 7:06 – Demo: Recommendation digests 8:43 – Demo: Advisor Score 12:42",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=55lTTFACw-E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/55lTTFACw-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M10S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-26T08:51:57-07:00",
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/55lTTFACw-E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
-      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
-      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-26T08:29:39-07:00",
-      "heat": 107,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-compute-fundamentals.md",
       "title": "Explore Azure compute services",
       "excerpt": "Learn about the different services that are available in Azure Compute.",
@@ -1898,8 +1857,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 8611,
-        "average": 4.7593775
+        "count": 8620,
+        "average": 4.759513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1966,8 +1925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2008,8 +1967,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6697,
-            "average": 4.76482
+            "count": 6702,
+            "average": 4.7648463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2051,8 +2010,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 5114,
-            "average": 4.7835355
+            "count": 5118,
+            "average": 4.7837048
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2135,8 +2094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 10178,
-            "average": 4.771664
+            "count": 10186,
+            "average": 4.7717457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2197,8 +2156,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 7442,
-        "average": 4.637194
+        "count": 7449,
+        "average": 4.6372666
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2240,8 +2199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 10178,
-        "average": 4.771664
+        "count": 10186,
+        "average": 4.7717457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2283,8 +2242,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 6697,
-        "average": 4.76482
+        "count": 6702,
+        "average": 4.7648463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2326,8 +2285,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 6874,
-        "average": 4.759383
+        "count": 6876,
+        "average": 4.7594533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2559,8 +2518,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 6601,
-        "average": 4.7810936
+        "count": 6607,
+        "average": 4.7811413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2595,6 +2554,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:29:39-07:00",
+      "heat": 95,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-6-describe-azure-cost-management-and-service-level-agreements.md",
       "title": "Azure Fundamentals part 6: Describe Azure cost management and service level agreements",
       "excerpt": "Learn about the factors that influence cost, tools you can use to help estimate and manage your cloud spend, and how Azure's service-level agreements (SLAs) can impact your application design decisions.",
@@ -2625,8 +2623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 44271,
-            "average": 4.7837863
+            "count": 44297,
+            "average": 4.7836876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2667,8 +2665,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 4357,
-            "average": 4.801469
+            "count": 4358,
+            "average": 4.801285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2709,8 +2707,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-services-sla-lifecycle/",
           "length": "PT27M",
           "ratings": {
-            "count": 4631,
-            "average": 4.7888145
+            "count": 4632,
+            "average": 4.7888603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2769,8 +2767,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
       "length": "PT48M",
       "ratings": {
-        "count": 4859,
-        "average": 4.7388353
+        "count": 4862,
+        "average": 4.7387905
       },
       "provider": {
         "name": "Microsoft Learn",
