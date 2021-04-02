@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
-    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The company acknowledged that there was an issue affecting the Azure Portal and Azure services across the US in a tweet around 5.30 pm EST."
-    publishedDateTime: 2021-04-01T22:12:00Z
-    webUrl: "https://www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/"
-    ampWebUrl: "https://www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/amp/"
+    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
+    publishedDateTime: 2021-04-01T22:08:00Z
+    webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
+    ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
     type: article
     provider:
       name: The Sun
-      domain: thesun.co.uk
+      domain: the-sun.com
     quality: 48
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true

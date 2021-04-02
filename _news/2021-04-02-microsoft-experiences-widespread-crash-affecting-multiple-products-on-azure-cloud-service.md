@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
-excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The company acknowledged that there was an issue affecting the Azure Portal and Azure services across the US in a tweet around 5.30 pm EST."
-publishedDateTime: 2021-04-01T22:12:00Z
-originalUrl: "https://www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/"
-webUrl: "https://www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/"
-ampWebUrl: "https://www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/14527644/microsoft-azure-widespread-outages-cloud-service/amp/"
+excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
+publishedDateTime: 2021-04-01T22:08:00Z
+originalUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
+webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
+ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
 type: article
 quality: 48
 heat: -1
@@ -14,13 +14,13 @@ published: false
 
 provider:
   name: The Sun
-  domain: thesun.co.uk
+  domain: the-sun.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1200
     height: 800
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 283
         isCached: true
 
-secured: "FjypelJEHpFu+cp62PEPt+x61Wvn+DCJ1r062mZviS+joimit3Dq09oJTVDfP+cQ3TPHRcmyFHDbw/t3Ds7RFjYQ4WjmsdSf7MGv/5Gp9v6QKGSUSUAZ2V162amecrqOo4cNYc1wpZn7lQWfpzqG1AlNbMfxyrErWSmiL9ZRWgXiu9+hs/k2q4FOv9K9LBZ5ZSt3vp9JL0UobrvSb75unyHKLRFaQSTcccC8TkOm9tdM2NcWHhOkQVyp8vs71AinG5DMMEgsT9x+mKo1ND06ZHzzBzwlDrpN8aqcGVaWkEgVQX9Pb4872r7zo4pEQDxzIGnbmE5QadT5clFJoSlhaYbE83Fv4hK75CudUypHqOA=;4C2nquREqJipaz4yKgqwHg=="
+secured: "awXvxGiUC9h7lXtTdYManNPnwZYrhQFddMhxNypUynWmAZHp3n77mN4vITAR5pRya5OhdIPqe3Y56EsBvq1uDCRQ5LFvTI43qhmTiG9dSk1+mq84Esf5tVS2ijAhIWLov79eWz/TkGGwe33shSkYP1Grx6BpLljcy8cuvr5sDFGdbOlb4mFapg0Ic17yYaoRzHNhb2sFjKPoVLUFPn0djK378RZgzpJMDs5DhLQaliZRXXqGjcofjJ2mH1QppE8tYIyU0xbvUkf8oxyxUiFmSHCf5UxkfA1TxGoGiMwT68NbCHVQ2qyrW4YjyGwynXta5B2dFOGi6mvAfdjEdLFwyHwpd+bycdIT7ypdJ1dxVkM=;9ZORmLzy8l/Zs1Khje5qeQ=="
 ---
 

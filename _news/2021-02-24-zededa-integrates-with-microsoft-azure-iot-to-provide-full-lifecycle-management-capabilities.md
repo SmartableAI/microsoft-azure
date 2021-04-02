@@ -380,11 +380,11 @@ related:
         height: 600
         isCached: true
   - title: "Microsoft Cloud services are down for some users"
-    excerpt: "A number of users are reporting that pretty much any and all Microsoft services hosted on Azure are down, the evening of April 1. The @AzureSupport and @MSFT365Status accounts on Twitter are both acknowledging the problem and are pointing many users to non ..."
+    excerpt: "The next update will be provided in 60 minutes or as events warrant.\" I've seen a couple of users say that today isn't the first time this week that Microsoft cloud services have been struggling. Microsoft customer Long Zheng noted: \"This Azure DNS issue ..."
     publishedDateTime: 2021-04-01T22:17:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
     type: article
     provider:
       name: ZDNet

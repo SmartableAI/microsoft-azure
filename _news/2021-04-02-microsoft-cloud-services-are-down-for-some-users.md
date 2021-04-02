@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft Cloud services are down for some users"
-excerpt: "A number of users are reporting that pretty much any and all Microsoft services hosted on Azure are down, the evening of April 1. The @AzureSupport and @MSFT365Status accounts on Twitter are both acknowledging the problem and are pointing many users to non ..."
+excerpt: "The next update will be provided in 60 minutes or as events warrant.\" I've seen a couple of users say that today isn't the first time this week that Microsoft cloud services have been struggling. Microsoft customer Long Zheng noted: \"This Azure DNS issue ..."
 publishedDateTime: 2021-04-01T22:17:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-are-down-for-some-users/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-cloud-services-are-down-for-some-users/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
 type: article
 quality: 82
 heat: -1
@@ -1600,6 +1600,6 @@ related:
       domain: apnews.com
     quality: 3
 
-secured: "Gd3iPlmY4oUV7fvld7u+ucAr24ZF56Tj+YknRKpupK+vUsG5gsHdyi4qQJc6FrO9apNuOX6Sr6L0+BcCE7tHFcEQOwFdft04oODSZBF8uOaDQZFfNivT1hIqnc73sa7i2PWQQvx/o4+dNKL7VLCYL8rRVy7URbGp+P5wLM3S8PPXXYS0V1m7F54gGsQCa57sYCqT3XBFajJLTvFdjvChOdGRyN0hxOjskiUqKhfxi1xwBFR6SN1B+DTGPFxWTDE1TnD01+7TmNcObQMk1B2/Uq7PbCSLt+sNc4o2zFRqu+y3b8Z0LOWJp+H04liOWPgJhdvl+0U14e4aaMiWgFAChFr+R8gSdqmlwsHvOhW2iyk=;nT0febOwN61pYpZ2BtG+DA=="
+secured: "u5zWtp4l0vn+rN35vKj98scTh9btblHr3sSKEFevIJWo9L7pHHhMI+TrpDlWmLX0Yu7YDik+bWXo7Bq3XASzLwdHHJ6zPg8LCCEx/dzvE02XaXJ+hdWCf/qfPs6mGEANUMwa0I2R3fA83phmyhtdIdQWn4GQWbdyJ7BVFnd3yR6FLIvmgVPFm7Op7JfxpPtw4dp3B+IABmGT7zWVKzEGT0QrKDLRcBbR1olrRwRUSvuKk1E9D5QP4IVxFy6Nh7VNA1RLF/g4k2cZUKn0vl71uCqoBuZOCr9I9NQOjMGVd4inSlYkijwajnCshkFaMQrsGA6J6vEVYw4m/h6wpCYebG5lQJKXWTkowObaTM8L7eo=;z3KPo4UmsfglEJsJrP26CQ=="
 ---
 

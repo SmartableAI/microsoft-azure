@@ -1,24 +1,29 @@
 ---
 category: news
-title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
-publishedDateTime: 2021-03-26T11:33:00Z
-originalUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+title: "Microsoft Azure outage affects XBox Live and more across United States"
+excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
+publishedDateTime: 2021-04-01T22:36:00Z
+originalUrl: "https://www.wgrz.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+webUrl: "https://www.wgrz.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+ampWebUrl: "https://www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
 type: article
-quality: 36
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: WGRZ
+  domain: wgrz.com
 
 topics:
   - Azure
-  - Migration
+
+images:
+  - url: "https://media.wgrz.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
@@ -66,22 +71,6 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
         width: 770
         height: 578
-        isCached: true
-  - title: "Microsoft Azure outage affects XBox Live and more across United States"
-    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
-    publishedDateTime: 2021-04-01T22:36:00Z
-    webUrl: "https://www.wgrz.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 57
-    images:
-      - url: "https://media.wgrz.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Microsoft Azure outage affects XBox Live and more across US"
     excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
@@ -161,6 +150,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
+    publishedDateTime: 2021-03-26T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
     excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
     publishedDateTime: 2021-03-29T09:43:00Z
@@ -218,6 +218,6 @@ related:
         height: 480
         isCached: true
 
-secured: "CffJmjxdaKbYs/8PaND27JuqvvlZeVg1SmvziwICiLTYcmY4HJfiEZKT8+iYIz7ITEYPEQ8jfaJhZilcRtb9lcArr+rCY3DtyNZdEoj968ECjTyUa0P11Mkq2wtvcj9m0cg/hasJdH3NvHxxp83s1uoylc0UZgA3UFb1G6da9Nm007D6yjHUqu2Rwv1JpJL+r5ACLrcHjUWl9h/FA+YgXbkZohBwsPAJSlNQ13+uWAJXzBQi0N9gjlVnFne0l3ssZ2ZD4HtolrUJUnUosK2YuO8Yp3k55NwdNqHbyc0LzUxOoF6gFLk6apjKNxFfLHMwqFxZRkin36rvZ0gwXtzRDUZVf9V7MN7OTs9PzWBqbLg=;2iGQ8PRH/NVXjUBLRDyK3w=="
+secured: "QfRIb/uhvIEL4sR3OgHVo6L3x67fYRpefZjM1EH7MoxSTPc56ldu/MM77UI2Lh96TOYgyZk+zY3W9d8KPaipKwZSNCcI/vvPaGPkoZ3nc5TECcV10486jYyBag1IOs4zgjNVF3QCSKqTxCn6j4UVwBn2Mp233P2PC3cCgaEz7eoZ7PjEHUWf4KoN7rwIphQUe7CIHbIUSK5Rd/ILjNNZnl6+oJMavl97GvdlIUw4+4BLixCvCPydLrCDEjrTasdno/bB7XNaCXhqhg/wsCEbEdgPTvPSht0OxZJDwrAdDwD933LT7dJ+g5Hxc0Zgv59GchgfXXhrCidPB5ahlHPCWZybyBQmzn6kNLOh9uiiK+4=;08/1xg5FeI+/fWBpOOAZig=="
 ---
 
