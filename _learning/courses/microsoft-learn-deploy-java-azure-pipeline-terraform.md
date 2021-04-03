@@ -25,6 +25,7 @@ topics:
   - Azure
   - Compute
   - Web
+  - DevOps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
