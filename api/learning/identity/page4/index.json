@@ -4,50 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-secure-cognitive-services.md",
-      "title": "Secure Cognitive Services",
-      "excerpt": "Learn how to secure Cognitive Services to prevent data loss and privacy violations for user data that may be a part of the solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-cognitive-services/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 26,
-        "average": 4.6538463
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-cognitive-services-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-azure-ad-managed-service-identity-azure-friday.md",
       "title": "Azure AD Managed Service Identity | Azure Friday",
       "excerpt": "Arturo Lucatero joins Donovan Brown to discuss Azure AD Managed Service Identity, which can be used to authenticate to any service that supports Azure AD authentication. For more information, see: What is Managed Service Identity (MSI) for Azure resources? (docs): https://docs.microsoft.com/azure/active-directory/managed-service-identity/overview",
@@ -477,6 +433,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-whats-the-role-of-redirect-uri-within-the-identity-platform-one-dev-question-jean-marc-prieur.md",
+      "title": "What's the role of redirect URI within the identity platform? | One Dev Question: Jean-Marc Prieur",
+      "excerpt": "In the One Dev Question series , Jean-Marc Prieur, a Principal Program Manager working on the Microsoft identity platform, explains how a redirect URI allows you to delegate sign in and get a security token back to your app.   Get more information at: https://docs.microsoft.com/azure/active-directory/develop/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-whats-the-role-of-redirect-uri-within-the-identity-platform-one-dev-question-jean-marc-prieur/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-whats-the-role-of-redirect-uri-within-the-identity-platform-one-dev-question-jean-marc-prieur/",
+      "originalUrl": "https://youtube.com/watch?v=znSN_3JAuoU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/znSN_3JAuoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M55S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-27T09:03:40-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/znSN_3JAuoU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-what-can-a-managed-identity-be-used-for-one-dev-question-arturo-lucatero.md",
       "title": "What can a managed identity be used for? | One Dev Question: Arturo Lucatero",
       "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains what you can do with a managed identity.   For more information, visit: https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources   Try Azure",
@@ -498,7 +493,7 @@
         ]
       },
       "publishedDateTime": "2020-05-26T11:06:52-07:00",
-      "heat": 49,
+      "heat": 46,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5lqayO_oeEo/maxresdefault.jpg",
