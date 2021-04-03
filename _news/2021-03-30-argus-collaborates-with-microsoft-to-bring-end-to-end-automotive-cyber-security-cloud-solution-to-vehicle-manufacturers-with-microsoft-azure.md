@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
-publishedDateTime: 2021-03-30T07:04:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+publishedDateTime: 2021-03-30T07:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - IoT
   - Security
-
-images:
-  - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Microsoft Cloud services were down for some users"
@@ -138,6 +132,6 @@ related:
       domain: fintechzoom.com
     quality: 15
 
-secured: "h9ygKFB/OLETeqCj92ht0wpxQu9XnCjId2qLSWEYkQO434Y+dvYObfBqeJYYBlMdtPyHKvlRwxPFsHGHM0M/kpxjv46go5gARDbrQ+l4f132uAm4UK7pHqfL4UhW2d2xPbTSigEqKXKbblRakfcy1X/x7jDgALmYshtDDG6S+hmZfPTTv0XD6m0j55/DY3cLoWjRdps4GiMIRJgmDwvnZcIR1FQY4eBlQpMKQMMld0B6Spp8RxIdTkjZVPppkKUMqRMRBR3cU3z56oRcd7JspT2MXm7bhdtcHI/oRv/p5dp09wVxSse/s3+tgbKUaMuSPEP9iR+Hrouxaf1BGFHvWj4UZHdQE4s1EZ3kGTaFa+A=;wXHOJFkgGvII6TFAtYq1UQ=="
+secured: "FACpcren0Zfc4wB5Xmd8blgFVkDxjbPYsh0Xu3JlNFMf+roQaWDmN1VIvuhjkD6zATSENAM0It2DQgES84b94jXoe4Rxb8y95g6HlrdRdG7i0VkJ167innt0FQMHMjekZI9GhIMFaWUAmI8+tnfU3up/BFO3Apx9qJhjIS0BdDbkXrcEgxRNUqYZpLobi95A7NVRxxI/AtSYYfEGY+CUa3a6ffsqilPphJ8GyE+IWu2pABFaQXo1FQZI70O4YKAoP9Wpd1L1ow5HxEdPSuCbnAjoembe1OUdBe1wl+xcqiVeMbmbvN+JBvOXTYUagt5lGH8OP30EZKkVDEEPNykXjyu4PHf3ghkxeNwmaHlhTFyyKGUkBVyH33LkJ7F4XhZYfVpLeOiovl7l17GDqNu/nXEIRkc/03fFJX94G+z4xLliYa8oaMjnzqCujDXjckXk8svelcaiUvL990pNEBnKuiv0rOrffapdJaP276QjZDfpaU1jnOdfEq4NSkH8+x9EZm5kngM7wGoeSlqp092lMQ==;sbHr/1gGrJnnB8hsKeS20Q=="
 ---
 

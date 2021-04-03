@@ -92,20 +92,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
-    publishedDateTime: 2021-03-30T07:04:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
     excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
     publishedDateTime: 2021-04-02T01:12:00Z
@@ -134,6 +120,15 @@ related:
         width: 504
         height: 332
         isCached: true
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
 
 secured: "fdqDIlIhW3oyegT3vosREGWBLS0NJ6hhiQtVQAX+uH6lYUYwWEdG+ctdkWDSD76Ejn0qttalLAeNb21cqyFd1cbd6bylsgRpwgGaE4vXxlvLV2hHcupvMpQ6eyA/w2dpbK3+dnmvtWHJJ1a4k7wiXgAU2945AtDqMGnSoMT9dttyoR4ygGac5qQat0e1fxK3Q+l/+lvrfZ+Nua11+DGA0Oga8E/Xi3NCnjXNP6nJptEXtkamCeCvojZlLyriYruoMdZDzdYmfwGeJjcmjFPK2PAEhee+wqtP6W2/yRtDBlgvdfaLw016Xey8C7AwJYcxD8gH6BcSqP0wMsw7QLaNKj69z+AHxvauVdRkOBztPEY=;T0QRnSkWeiqGGCztAEDX+A=="
 ---

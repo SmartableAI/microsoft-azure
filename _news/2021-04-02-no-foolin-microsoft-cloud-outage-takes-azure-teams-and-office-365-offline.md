@@ -98,20 +98,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
-    publishedDateTime: 2021-03-30T07:04:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
     excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
     publishedDateTime: 2021-03-27T08:53:00Z
@@ -135,6 +121,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 15
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
 
 secured: "bfnS8kox45yLpKdXRDV/smrJOkZEuFIfEepmsiRM6WFLC/MqeAMFYUac2SJaiVHaogZ6Mk171R2mqC9sSPe0VPFCUJr8UYAbzbpoyAyDH6yCWSPN0TnCq7gJnyIORbkuW6hzZvLtsVAiHjl0pXLPOQov5dozSU+yU80eXNsj0JYLM0Nqx83F2AxXjvuNC3yQgEIdtGi5gU5AmWf4aIfSNX/+C9jswx/1ROtFNnORJ55lACRDEPQqCBrcyjD3MxAV/IsZIlmniKESONCV5sKrQlkRCzoo670mM5uuGbovM+hmZ2JlnFaJUJNvWChJPj8HUSmCqOLYaZJy3MVhJERTahsoxO21W7/lfnx/wkbjhQvdbPkqcfWfWMDOUS5t7FT32ZhS0k6+r2gVmxBFirFgJi2GCUK5naUDFafWiBWCx206p8V2zHZIIZKbkgt5bS5bUdipPgJ03zIa65VFdRcL3+C+E+56RePjFt5jMWKv7cLsjTcBJbJWmDVRW0yx0n41V4ADWiuR3s/C+vVHOHVMsw==;rFABhChOqA5s0ctxfJc0hw=="
 ---
