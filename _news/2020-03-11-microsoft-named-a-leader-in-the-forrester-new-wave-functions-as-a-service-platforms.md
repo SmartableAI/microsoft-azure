@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-f
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Microsoft
@@ -30,20 +30,6 @@ images:
     title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
 
 related:
-  - title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
-    excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
-    publishedDateTime: 2021-03-30T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 72
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/963b247c-c1ef-4c66-af26-6e77621d8b30.png"
-        width: 259
-        height: 259
-        isCached: true
   - title: "Microsoft is a leader in The Forrester Wave™: Streaming Analytics, Q3 2019"
     excerpt: "Processing Big data in real-time is an operational necessity for many businesses. Azure Stream Analytics is Microsoft’s serverless real-time analytics offering for complex event processing.\r\n\r\nWe are excited and humbled to announce that Microsoft has been named a leader in The Forrester Wave™: Streaming"
     publishedDateTime: 2019-12-17T09:00:15Z
@@ -58,15 +44,6 @@ related:
         width: 600
         height: 827
         isCached: true
-  - title: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure"
-    excerpt: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure. Stans, Switzerland I 25 March 2021 - SoftwareONE Holding AG,"
-    publishedDateTime: 2021-03-25T06:34:00Z
-    webUrl: "https://www.dgap.de/dgap/News/adhoc/softwareone-enters-into-strategic-agreement-with-microsoft-for-application-services-and-sap-azure/?newsID=1430012"
-    type: article
-    provider:
-      name: dgap.de
-      domain: dgap.de
-    quality: 1
 
 secured: "hdppSNsikF/44OAFZBapJAqDKln4Fa0Op3K+iBzToyHied/dMrosknBYKB4gyxrUu635Cx8YACDVYMAiYMjFzf6yZsqxV+gzT9FGRFtsTsU85uSlEywYeCBf6Qrvojvo2sehVTYssFCV2WCPyjRR/w5OzWq/h+5ZCy5gS73wzfkYP5M1eKclgzAXApWLYvIwhYL1L8nLYFGV4iBaa/ibtt3vC8HgKZay0XRKjKnBG+ISR1ZYEh+JJOttnBkTZz9gd4O1I9RkPYtKphoBbozNPDBZ9eyWH/0sps6i/hQ4NuiB2ed0OBGUYZVc8Tv9LtwykkvF6EfLysTp3ODxl+8rg5wfUPcNLFdgYysFyrqAMt4=;wjHm78wEd3oV8Oa/fQ//xA=="
 ---

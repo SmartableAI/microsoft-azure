@@ -26,19 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
-    excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
-    publishedDateTime: 2021-03-30T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure-1030258690"
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://mma.prnewswire.com/media/1459569/Concentra_Bank_Concentra_Bank_selects_Intellect_to_power_its_dig.jpg"
-        width: 400
-        height: 283
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
+        isCached: true
+  - title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
+    excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
+    publishedDateTime: 2021-03-30T09:00:14Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 72
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/963b247c-c1ef-4c66-af26-6e77621d8b30.png"
+        width: 259
+        height: 259
+        isCached: true
+  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+    publishedDateTime: 2021-01-20T16:53:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+        width: 1240
+        height: 700
         isCached: true
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
@@ -54,6 +84,57 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
+    publishedDateTime: 2021-03-30T07:04:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
+    excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
+    publishedDateTime: 2021-03-27T08:53:00Z
+    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 33
+    images:
+      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
+        width: 504
+        height: 332
+        isCached: true
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 15
 
 secured: "awXvxGiUC9h7lXtTdYManNPnwZYrhQFddMhxNypUynWmAZHp3n77mN4vITAR5pRya5OhdIPqe3Y56EsBvq1uDCRQ5LFvTI43qhmTiG9dSk1+mq84Esf5tVS2ijAhIWLov79eWz/TkGGwe33shSkYP1Grx6BpLljcy8cuvr5sDFGdbOlb4mFapg0Ic17yYaoRzHNhb2sFjKPoVLUFPn0djK378RZgzpJMDs5DhLQaliZRXXqGjcofjJ2mH1QppE8tYIyU0xbvUkf8oxyxUiFmSHCf5UxkfA1TxGoGiMwT68NbCHVQ2qyrW4YjyGwynXta5B2dFOGi6mvAfdjEdLFwyHwpd+bycdIT7ypdJ1dxVkM=;9ZORmLzy8l/Zs1Khje5qeQ=="
 ---

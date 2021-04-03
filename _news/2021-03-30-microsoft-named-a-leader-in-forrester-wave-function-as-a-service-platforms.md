@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forre
 webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
 type: article
 quality: 72
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -29,43 +29,117 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft named a leader in The Forrester New Wave: Functions-as-a-Service Platforms"
-    excerpt: "We’re excited to share that Forrester has named Microsoft as a leader in the inaugural report, The Forrester New Wave™: Function-As-A-Service Platforms, Q1 2020 based on their evaluation of Azure Functions and integrated development tooling. We believe Forrester’s findings reflect the strong momentum"
-    publishedDateTime: 2020-03-11T09:00:16Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-forrester-new-wave-functions-as-a-service-platforms/"
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1b803064-57ed-4b9f-8899-07ff770c6176.png"
-        width: 607
-        height: 670
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
         isCached: true
-  - title: "Microsoft is a leader in The Forrester Wave™: Streaming Analytics, Q3 2019"
-    excerpt: "Processing Big data in real-time is an operational necessity for many businesses. Azure Stream Analytics is Microsoft’s serverless real-time analytics offering for complex event processing.\r\n\r\nWe are excited and humbled to announce that Microsoft has been named a leader in The Forrester Wave™: Streaming"
-    publishedDateTime: 2019-12-17T09:00:15Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-the-forrester-wave-streaming-analytics-q3-2019/"
+  - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
+    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
+    publishedDateTime: 2021-04-01T22:08:00Z
+    webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
+    ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: The Sun
+      domain: the-sun.com
+    quality: 48
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+    publishedDateTime: 2021-01-20T16:53:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d98fb6ab-aa62-4760-9530-3caee7219d19.gif"
-        width: 600
-        height: 827
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+        width: 1240
+        height: 700
         isCached: true
-  - title: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure"
-    excerpt: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure. Stans, Switzerland I 25 March 2021 - SoftwareONE Holding AG,"
-    publishedDateTime: 2021-03-25T06:34:00Z
-    webUrl: "https://www.dgap.de/dgap/News/adhoc/softwareone-enters-into-strategic-agreement-with-microsoft-for-application-services-and-sap-azure/?newsID=1430012"
+  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
+    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
+    publishedDateTime: 2021-04-02T13:40:00Z
+    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
     type: article
     provider:
-      name: dgap.de
-      domain: dgap.de
-    quality: 1
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud This ..."
+    publishedDateTime: 2021-03-30T07:04:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to-vehicle-manufacturers-with-microsoft-azure-iot-873092693.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/803463/Argus_Cyber_Security_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
+    excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
+    publishedDateTime: 2021-03-27T08:53:00Z
+    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 33
+    images:
+      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
+        width: 504
+        height: 332
+        isCached: true
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 15
 
 secured: "MxNNf8gflZx8B8I/CRtl8Tey470cmkE0YUbcGkzHEyykWeQQQBGLj94boWcVXktC4GFrmdYQbQzP+Gp3f6a3KiR8RjoZBrO04zy8kkUAQ+oNRIK+HyKWS5kAKpIjc9cQ135jUb5/dQHrCfNyF8TvRNBgfM5KQjzTiT8d7cyYP1FzJAdBhx72jS/rfirTTDWI/yz0dYs3HA30PS7WmTMUusMWYfaCPC6Gpoyjor4A/50+BtooR0a8OExV9GteKcQymWnF+NtMXCPLwPf8LHcd5pA+BZ2J8Rx5HPuhiEOIjKkSorLNI7Nwj7MloKc/o3/Z+OzPr7k4EuYkdB0uQfDjyHsKcRA9BEtfBfMyEtLwZEc=;G4+JZ3+Q2npJ0lmFVrlLAg=="
 ---

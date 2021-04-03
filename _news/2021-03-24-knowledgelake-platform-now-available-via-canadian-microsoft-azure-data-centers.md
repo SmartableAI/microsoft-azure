@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 15
   - title: "KnowledgeLake Intelligent Document Capture and Processing Platform Now Available via Canadian Microsoft Azure Data Centers"
     excerpt: "KnowledgeLake, a leading provider of content automation solutions, today announced that the company's cloud-native platform for intelligent document processing is now available via"
     publishedDateTime: 2021-03-24T13:00:00Z

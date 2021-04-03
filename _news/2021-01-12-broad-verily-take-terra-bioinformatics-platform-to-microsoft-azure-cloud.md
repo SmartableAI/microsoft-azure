@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
-    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
-    publishedDateTime: 2021-01-20T16:53:00Z
-    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
     excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
     publishedDateTime: 2021-01-13T14:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/concentra-bank-sel
 webUrl: "https://markets.businessinsider.com/news/stocks/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure-1030258690"
 type: article
 quality: 63
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -28,36 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
-    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
-    publishedDateTime: 2021-04-01T22:08:00Z
-    webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
-    ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+  - title: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure"
+    excerpt: "SoftwareONE enters into a strategic agreement with Microsoft for application services and SAP on Azure. Stans, Switzerland I 25 March 2021 - SoftwareONE Holding AG,"
+    publishedDateTime: 2021-03-25T06:34:00Z
+    webUrl: "https://www.dgap.de/dgap/News/adhoc/softwareone-enters-into-strategic-agreement-with-microsoft-for-application-services-and-sap-azure/?newsID=1430012"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 48
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
-    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
-    publishedDateTime: 2021-04-02T13:40:00Z
-    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
-        width: 1024
-        height: 768
-        isCached: true
+      name: dgap.de
+      domain: dgap.de
+    quality: 1
 
 secured: "4NhWZ7BhYnibLJr0E5AAfBxt/1ubsnRg/We8zHXo9/EcmFDheAPgKg8RIy6yR7SLeGPoYG+caa4YM1iC26IV690P3MA82OGF795rswKTPeALVucZ9aE5qE+V6ihkdCz5dLuZPDTwMtIUX3VuGVOw6gWYsY4P79MzD5ux15LGsN0M+qEGnP15UAG/3mEKDS5SWeuCXSidqvC3Q0N3a7/fxLaXMEyVYHmjAjQYMLTBeeyBpDr4jUAJpRlesw5viG55NLsprFc1EeM2apiBFhI77FLIsOijheOvVyeUmyPs0Fo+AwW/HLe8/1bqyh7/bL8N0NwIfQpr2sNydJl60RyC2PHAypJ+JZOFd4c9KlkM5Zs5SOcp6ImbBOOywUYos5q3Q+hS4A+I6KZOtfpX5jxjXv6Dzbd0msP26uJvfWbgTs1J8CM9zLbCvYUuPTy5MrupZNMPX5/Yw7TskOfdxddzgHgzRkqP4V15JW+LrZWNPba6/EgeyDm4cEA1/T84oyaNMDUr930aJpJYuu76WHkcDA==;/eHzdxzq/09Hcp6PI3Rk8g=="
 ---

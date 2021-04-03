@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
 type: article
 quality: 81
-heat: 261
+heat: 241
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
-    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
-    publishedDateTime: 2021-01-20T16:53:00Z
-    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
-        width: 1240
-        height: 700
         isCached: true
   - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
     excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."

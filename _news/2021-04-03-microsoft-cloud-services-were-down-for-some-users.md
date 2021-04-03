@@ -1,45 +1,35 @@
 ---
 category: news
-title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
-excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
-publishedDateTime: 2021-01-20T16:53:00Z
-originalUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
-webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+title: "Microsoft Cloud services were down for some users"
+excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+publishedDateTime: 2021-04-03T08:52:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 82
+heat: 242
+published: true
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
-    width: 1240
-    height: 700
+  - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+    width: 1123
+    height: 792
     isCached: true
 
 related:
-  - title: "Microsoft Cloud services were down for some users"
-    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
-    publishedDateTime: 2021-04-03T08:52:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
-        width: 1123
-        height: 792
-        isCached: true
   - title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
     excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
     publishedDateTime: 2021-03-30T09:00:14Z
@@ -69,6 +59,20 @@ related:
       - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
+    excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
+    publishedDateTime: 2021-01-20T16:53:00Z
+    webUrl: "https://siliconangle.com/2021/01/20/nextech-ar-integrates-microsofts-azure-cloud-services-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/01/Untitled-1.jpg"
+        width: 1240
+        height: 700
         isCached: true
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
@@ -136,6 +140,6 @@ related:
       domain: fintechzoom.com
     quality: 15
 
-secured: "y3WaMYprV6BC1xXBgIuQfU/sdl0cRSW3r6NH7If0BQ0hioNbCdq9HI9oGicCcdSU7NSi4c1AvpKz0612nuxxBzqek41tlmVkK0rnKnSMmAwVFdiddciX+7cNvwHNWXPRwNjGNnyUgamoSN82EW5VaYXQ8nTTNjpQBUdTi6LxkXiBCspNC6wrl+fi+cMMYP6yaxVUi9EcPsadZR62iQ7qNd0RvwIXZ5tQ8CSt3KFj+eXSW/+bqHp5CFqE4Dme1yVx8nrqt8j+vw6faxtqBqTNmxrDWbNAAyVEysB2tAqkaUk7HaF95ibUptjlL1iuvM2dZiSWGEeOQAYwbUCNBAWQG7rldqZJW9Ep0DhrsHHfB9qscrjlUEwtv7CHXlkXgc1tAxaBVT6IPadGbzPZDCP13Xe3UHvJ1zL2XA7CGKU6epzxkxTfNJiCiSWT69WiUBg34x5BDonq7HPWcbtpRUi612mV6kyjNm9LqV/by+fL8n8nOu+W+pA5jxZhfMKARroDmiejO8VkB6Y6MruwggYi0Q==;VB5nzY/6pwK18diG8AbdCQ=="
+secured: "xTLL4+1rgxdFbEbGl0OZ+tPtVVwRaH6itjd/b28IG5AeUlnZcM2zXTopIJAmM69O9kJ9F2UetMDH2+dngASpO1YGdJjw7O3UNR/cBVkLvDdTX5TDXV+nVAYVG5CHEg4+jVW+4Y8RYowqGx2w86cRqUlh7+qF1KzaBwIAzEabLxyt2BSvA3E65rqgDyl2jqvUIh6wajpTSBXybs1xecJAnpiQ9dXWBqIYu5iauDllZB5br3h3BPGyAgXRfwvA/GCT4P3AisrQC3ZRRfaPeN0FFTGndljLhcNEAx3A1tG4/7IjCuqAeNQM//bW653HFKk8+nPcywiS1J9GmJ84lWV/GmYmg+rA4Y+nL2f7jPhUdQA=;dJBIJ4GDOMec3lD5IcMvew=="
 ---
 
