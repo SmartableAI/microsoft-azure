@@ -4,44 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday.md",
-      "title": "Ingest, prepare & transform using Azure Databricks & Data Factory | Azure Friday",
-      "excerpt": "Today's business managers depend heavily on reliable data integration systems that run complex ETL/ELT workflows (extract, transform/load and load/transform data). Gaurav Malhotra joins Scott Hanselman to discuss how you can iteratively build, debug, deploy, and monitor your data integration workflows",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-ingest-prepare-transform-using-azure-databricks-data-factory-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=CZQOxPY7UuA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CZQOxPY7UuA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-07T16:04:44-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CZQOxPY7UuA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-analyze-receipts-form-recognizer.md",
       "title": "Analyze receipts with the Form Recognizer service",
       "excerpt": "Processing invoices and receipts is a common task in many business scenarios. Increasingly, organizations are turning to artificial intelligence (AI) to automate data extraction from scanned receipts.",
@@ -49,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1022,
-        "average": 4.778865
+        "count": 1023,
+        "average": 4.7790813
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -126,8 +88,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3165,
-        "average": 4.7320695
+        "count": 3166,
+        "average": 4.7321544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -248,8 +210,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3263,
-        "average": 4.790377
+        "count": 3264,
+        "average": 4.790441
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,8 +290,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3668,
-        "average": 4.7197385
+        "count": 3669,
+        "average": 4.719815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -413,8 +375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 8541,
-        "average": 4.6653786
+        "count": 8543,
+        "average": 4.6654572
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +482,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
           "length": "PT24M",
           "ratings": {
-            "count": 1473,
-            "average": 4.7759676
+            "count": 1474,
+            "average": 4.775441
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -959,8 +921,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/",
       "length": "PT36M",
       "ratings": {
-        "count": 5985,
-        "average": 4.734837
+        "count": 5986,
+        "average": 4.7348814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1245,8 +1207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-components-of-modern-data-warehouse/",
       "length": "PT24M",
       "ratings": {
-        "count": 1473,
-        "average": 4.7759676
+        "count": 1474,
+        "average": 4.775441
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1524,6 +1486,41 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
+      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
+      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 12075,
+        "average": 4.7643065
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 55,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

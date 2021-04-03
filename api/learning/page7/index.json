@@ -4,220 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-migrate-open-source-databases-to-azure.md",
-      "title": "Migrate open-source databases to Azure",
-      "excerpt": "Migrate open-source databases to Azure",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-migrate-open-source-databases-to-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-migrate-open-source-databases-to-azure/",
-      "length": "PT3H8M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-introduction-open-source-database-migration-azure.md",
-          "title": "Introduction to open-source database migration on Azure",
-          "excerpt": "&quot;Introduction to open-source database migration on Azure&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-open-source-database-migration-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-open-source-database-migration-azure/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 495,
-            "average": 4.775758
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases",
-            "Migration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql.md",
-          "title": "Migrate on-premises MySQL databases to Azure Database for MySQL",
-          "excerpt": "&quot;Migrate on-premises MySQL to Azure Database for MySQL&quot;",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-mysql-databases-azure-database-mysql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-mysql-databases/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 99,
-            "average": 4.7777777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-mysql-databases-to-azure-database-for-mysql-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql.md",
-          "title": "Migrate on-premises PostgreSQL databases to Azure Database for PostgreSQL",
-          "excerpt": "Migrate on-premises PostgreSQL to Azure Database for PostgreSQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-postgresql-databases-azure-database-postgresql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-postgresql-databases/",
-          "length": "PT50M",
-          "ratings": {
-            "count": 84,
-            "average": 4.797619
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/migrate-onpremises-postgresql-db-azure-db-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database.md",
-          "title": "Protecting, monitoring and tuning a migrated database",
-          "excerpt": "Protecting, monitoring, and tuning a migrated database",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protecting-monitoring-tuning-migrated-database/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-monitor-tuning-migrated-database/",
-          "length": "PT46M",
-          "ratings": {
-            "count": 82,
-            "average": 4.8292685
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/protecting-monitoring-and-tuning-a-migrated-database-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-to-open-source-database-migration-on-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-migrate-sql-workloads-to-azure.md",
       "title": "Migrate SQL workloads to Azure",
       "excerpt": "Migrate SQL workloads to Azure Learn",
@@ -1123,8 +909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
           "length": "PT42M",
           "ratings": {
-            "count": 632,
-            "average": 4.80538
+            "count": 633,
+            "average": 4.8056874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3288,8 +3074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 84,
-            "average": 4.785714
+            "count": 85,
+            "average": 4.788235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4229,8 +4015,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1163,
-        "average": 4.728289
+        "count": 1164,
+        "average": 4.7285223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4272,8 +4058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3773,
-        "average": 4.7450304
+        "count": 3774,
+        "average": 4.745098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4359,8 +4145,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5023,
-        "average": 4.7507467
+        "count": 5024,
+        "average": 4.7507963
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4511,8 +4297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 347,
-            "average": 4.772334
+            "count": 348,
+            "average": 4.7729883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4640,8 +4426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-microsoft-security-compliance-principles/",
           "length": "PT18M",
           "ratings": {
-            "count": 347,
-            "average": 4.772334
+            "count": 348,
+            "average": 4.7729883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4737,8 +4523,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13293,
-        "average": 4.6844954
+        "count": 13297,
+        "average": 4.6845903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4799,6 +4585,42 @@
         "Azure",
         "Storage",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-linux-vm-in-azure.md",
+      "title": "Create a Linux virtual machine in Azure",
+      "excerpt": "This module guides you through options for virtual machines in Azure, creating and connecting a Linux virtual machine, and configuring your network settings.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-linux-vm-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
+      "length": "PT1H26M",
+      "ratings": {
+        "count": 9516,
+        "average": 4.6990333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 59,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],

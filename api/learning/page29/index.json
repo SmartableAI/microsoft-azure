@@ -4,50 +4,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deploy-azure-functions.md",
-      "title": "Automate Azure Functions deployments with Azure Pipelines",
-      "excerpt": "Implement a CI/CD pipeline for Azure Functions.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-azure-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-functions/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 372,
-        "average": 4.693548
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/deploy-azure-functions-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "DevOps",
-        "Serverless"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-azure-sql-database.md",
       "title": "Deploy Azure SQL Database",
       "excerpt": "Provision and deploy Azure SQL Database and SQL Server Managed Instances. Select the appropriate options when performing a migration to the SQL PaaS platform.",
@@ -626,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 477,
-        "average": 4.4779873
+        "count": 478,
+        "average": 4.4769874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,8 +1013,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 632,
-        "average": 4.80538
+        "count": 633,
+        "average": 4.8056874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-capabilities-of-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 48,
-        "average": 4.7708335
+        "count": 49,
+        "average": 4.7755103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1302,6 +1258,49 @@
         "Web",
         "Compute",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-bot-conversation-flow.md",
+      "title": "Design a bot conversation flow",
+      "excerpt": "Learn the principles of good bot design and implement conversational flows, knowledge bots, and how to hand-off interactions to a human.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-bot-conversation-flow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-bot-conversation-flow/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 44,
+        "average": 4.840909
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
       ]
     }
   ],

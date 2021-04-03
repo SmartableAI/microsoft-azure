@@ -4,6 +4,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis.md",
+      "title": "Accelerate and scale a Spring Boot application with Azure Cache for Redis",
+      "excerpt": "In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot application. You'll use it to cache some business data using Spring Data Redis, and also to store HTTP session data using Spring Session.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/accelerate-scale-spring-boot-application-azure-cache-redis/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 12,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-admin-site.md",
       "title": "Work with the Django admin site",
       "excerpt": "Learn how to set up the built-in Django admin site and configure users for the site.",
@@ -1266,50 +1311,6 @@
         "Compute",
         "Serverless",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-azure-dsvm-types.md",
-      "title": "Explore the types of Azure Data Science Virtual Machines",
-      "excerpt": "You learn about the types of Azure Data Science Virtual Machines (DSVM) and when to use each type.  You will learn about the Windows-based and Linux-based DSVMs which each support different needs.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-azure-dsvm-types/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-dsvm-types/",
-      "length": "25 mins",
-      "ratings": {
-        "count": 891,
-        "average": 4.654321
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/explore-azure-dsvm-types-badge-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Explore the types of Azure Data Science Virtual Machines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     }
   ],

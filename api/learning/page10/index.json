@@ -4,41 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 12074,
-        "average": 4.764287
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-vms-with-azure-cli.md",
       "title": "Manage virtual machines with the Azure CLI",
       "excerpt": "Learn how to use the cross-platform Azure CLI to create, start, stop, and perform other management tasks related to virtual machines in Azure.",
@@ -82,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
       "length": "PT36M",
       "ratings": {
-        "count": 3779,
-        "average": 4.725589
+        "count": 3781,
+        "average": 4.7254696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,8 +364,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
       "length": "PT55M",
       "ratings": {
-        "count": 2169,
-        "average": 4.6860304
+        "count": 2170,
+        "average": 4.6861753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -484,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 913,
-        "average": 4.803943
+        "count": 914,
+        "average": 4.8041577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -571,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4660,
-        "average": 4.63691
+        "count": 4661,
+        "average": 4.6369877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -616,8 +581,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2189,
-        "average": 4.6180906
+        "count": 2190,
+        "average": 4.6187215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -703,8 +668,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/",
       "length": "PT47M",
       "ratings": {
-        "count": 3573,
-        "average": 4.763224
+        "count": 3574,
+        "average": 4.7632904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -832,8 +797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-site-reliability-engineering/",
       "length": "PT55M",
       "ratings": {
-        "count": 903,
-        "average": 4.7552605
+        "count": 904,
+        "average": 4.7544246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -908,8 +873,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-authentication/",
       "length": "PT24M",
       "ratings": {
-        "count": 4289,
-        "average": 4.7850313
+        "count": 4290,
+        "average": 4.7848487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,8 +916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-zero-trust/",
       "length": "PT35M",
       "ratings": {
-        "count": 3478,
-        "average": 4.8251867
+        "count": 3479,
+        "average": 4.8252373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -994,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-delivery-plans/",
       "length": "PT33M",
       "ratings": {
-        "count": 2801,
-        "average": 4.728668
+        "count": 2802,
+        "average": 4.728765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1179,8 +1144,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/",
       "length": "PT51M",
       "ratings": {
-        "count": 2544,
-        "average": 4.648192
+        "count": 2545,
+        "average": 4.64833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,6 +1171,41 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
+      "title": "Store application data with Azure Blob storage",
+      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 3775,
+        "average": 4.554702
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

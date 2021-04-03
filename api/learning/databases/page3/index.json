@@ -4,42 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-aks-manage-application-state.md",
-      "title": "Deploy and manage a stateful application using CosmosDB and Azure Kubernetes Service",
-      "excerpt": "Create and manage a stateful application with an external storage using CosmosDB and Azure Kubernetes Service",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-aks-manage-application-state/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/aks-manage-application-state/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 15,
-        "average": 4.866667
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-aspnet-session.md",
       "title": "Improve session scalability in a .NET Framework ASP.NET web application by using Azure Cache for Redis",
       "excerpt": "Learn how to use Azure Cache for Redis to store session data and improve the scalability of web applications.",
@@ -268,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
       "length": "PT1H24M",
       "ratings": {
-        "count": 282,
-        "average": 4.7695036
+        "count": 283,
+        "average": 4.763251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -485,8 +449,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-database-authentication-authorization/",
       "length": "PT49M",
       "ratings": {
-        "count": 1102,
-        "average": 4.821234
+        "count": 1103,
+        "average": 4.8213964
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -956,8 +920,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
       "length": "PT42M",
       "ratings": {
-        "count": 632,
-        "average": 4.80538
+        "count": 633,
+        "average": 4.8056874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1293,6 +1257,49 @@
         "Azure",
         "Databases",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-evaluate-performance-improvements.md",
+      "title": "Evaluate performance improvements",
+      "excerpt": "Evaluate possible changes to indexes. Determine the impact of changes to queries and indexes. Explore relevant Dynamic Management Objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-evaluate-performance-improvements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 579,
+        "average": 4.8031087
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/evaluate-performance-improvements-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     }
   ],

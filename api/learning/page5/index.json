@@ -4,220 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
-      "title": "Azure SQL fundamentals",
-      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
-      "length": "PT7H14M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
-          "title": "Introduction to Azure SQL",
-          "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1030,
-            "average": 4.7495146
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
-          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
-          "length": "PT1H14M",
-          "ratings": {
-            "count": 505,
-            "average": 4.712871
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
-          "title": "Secure your data with Azure SQL",
-          "excerpt": "Secure your data with Azure SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 282,
-            "average": 4.7695036
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
-              "width": 642,
-              "height": 325,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-azure-sql-performance.md",
-          "title": "Deliver consistent performance with Azure SQL",
-          "excerpt": "Deliver consistent performance with Azure SQL",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-performance/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
-          "length": "PT1H24M",
-          "ratings": {
-            "count": 211,
-            "average": 4.8199053
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
-              "width": 642,
-              "height": 324,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Databases"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-build-ai-solutions-with-azure-machine-learning.md",
       "title": "Build AI solutions with Azure Machine Learning",
       "excerpt": "Azure Machine Learning is a cloud platform for training, deploying, managing, and monitoring machine learning models. Learn how to use the Azure Machine Learning Python SDK to create enterprise-ready machine learning solutions.",
@@ -707,8 +493,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1754,
-            "average": 4.503421
+            "count": 1755,
+            "average": 4.5037036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1537,8 +1323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/",
           "length": "PT28M",
           "ratings": {
-            "count": 1468,
-            "average": 4.77861
+            "count": 1469,
+            "average": 4.778761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1555,7 +1341,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-modern-os-deployment-and-feature-updates-social.png",
@@ -1621,8 +1407,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/",
           "length": "PT34M",
           "ratings": {
-            "count": 766,
-            "average": 4.740209
+            "count": 767,
+            "average": 4.7405477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1663,8 +1449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/",
           "length": "PT24M",
           "ratings": {
-            "count": 795,
-            "average": 4.769811
+            "count": 796,
+            "average": 4.7701006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2082,8 +1868,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-secure-custom-api/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 123,
-            "average": 4.6910567
+            "count": 124,
+            "average": 4.693548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2581,8 +2367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5033,
-            "average": 4.70455
+            "count": 5035,
+            "average": 4.704667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5082,8 +4868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
       "length": "PT47M",
       "ratings": {
-        "count": 5008,
-        "average": 4.723043
+        "count": 5009,
+        "average": 4.722899
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5117,8 +4903,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
       "length": "PT45M",
       "ratings": {
-        "count": 9828,
-        "average": 4.6686
+        "count": 9829,
+        "average": 4.6686335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5463,8 +5249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1003,
-            "average": 4.666999
+            "count": 1004,
+            "average": 4.6663346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5506,8 +5292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
           "length": "PT56M",
           "ratings": {
-            "count": 477,
-            "average": 4.4779873
+            "count": 478,
+            "average": 4.4769874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5954,6 +5740,227 @@
       "topics": [
         "Azure",
         "DevOps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-azure-static-web-apps.md",
+      "title": "Azure Static Web Apps",
+      "excerpt": "Azure Static Web Apps is a modern web app service that offers streamlined full-stack development from source code to global high availability.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-static-web-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-static-web-apps/",
+      "length": "PT1H54M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api.md",
+          "title": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps",
+          "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app with Azure Static Web Apps. Use Visual Studio Code to create and run the web app locally.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/",
+          "length": "PT22M",
+          "ratings": {
+            "count": 423,
+            "average": 4.7234044
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-api-preview-url.md",
+          "title": "Publish an API to Azure Static Web Apps",
+          "excerpt": "Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps and Azure Functions. Deploy your code from GitHub to a staging site using preview URLs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-api-preview-url/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-static-web-app-api-preview-url/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 56,
+            "average": 4.714286
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-api-preview-url-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet.md",
+          "title": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+          "excerpt": "Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-publish-static-web-app-and-api-dotnet/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api-dotnet/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 122,
+            "average": 4.836066
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/publish-static-web-app-and-api-dotnet-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Serverless",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-static-apps-gatsby.md",
+          "title": "Create and publish a static web app with Gatsby and Azure Static Web Apps",
+          "excerpt": "Use Gatsby to develop and compile a static web app, then deploy it to the web with Azure Static Web Apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-static-apps-gatsby/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/",
+          "length": "PT41M",
+          "ratings": {
+            "count": 121,
+            "average": 4.768595
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/static-apps-gatsby-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web"
       ]
     }
   ],

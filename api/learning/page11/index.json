@@ -4,41 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage.md",
-      "title": "Store application data with Azure Blob storage",
-      "excerpt": "Discover how to build an app that stores user files with Azure Blob storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET Core.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-store-app-data-with-azure-blob-storage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 3774,
-        "average": 4.554584
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-top-5-security-items-to-consider.md",
       "title": "Top 5 security items to consider before pushing to production",
       "excerpt": "Learn about the Site Reliability Engineering approach to the challenge of assuring reliability and gain a better understanding of why it matters.",
@@ -547,8 +512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
           "length": "PT38M",
           "ratings": {
-            "count": 913,
-            "average": 4.8061337
+            "count": 915,
+            "average": 4.803279
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-relational-data/",
           "length": "PT40M",
           "ratings": {
-            "count": 1256,
-            "average": 4.7977705
+            "count": 1257,
+            "average": 4.7979317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +724,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9828,
-            "average": 4.6686
+            "count": 9829,
+            "average": 4.6686335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -909,8 +874,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3488,
-        "average": 4.574828
+        "count": 3489,
+        "average": 4.5749497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1110,8 +1075,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/",
       "length": "PT40M",
       "ratings": {
-        "count": 5312,
-        "average": 4.711408
+        "count": 5313,
+        "average": 4.7114625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1118,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/",
       "length": "PT40M",
       "ratings": {
-        "count": 1463,
-        "average": 4.7710185
+        "count": 1464,
+        "average": 4.771175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1161,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2105,
-        "average": 4.657007
+        "count": 2106,
+        "average": 4.65717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1326,8 +1291,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-hybrid-network-architecture/",
       "length": "PT47M",
       "ratings": {
-        "count": 1559,
-        "average": 4.65619
+        "count": 1561,
+        "average": 4.6559896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1369,8 +1334,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-load-with-traffic-manager/",
       "length": "PT29M",
       "ratings": {
-        "count": 2730,
-        "average": 4.603663
+        "count": 2731,
+        "average": 4.603808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1412,8 +1377,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
       "length": "PT56M",
       "ratings": {
-        "count": 2320,
-        "average": 4.4577584
+        "count": 2321,
+        "average": 4.4567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1532,8 +1497,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-provision-deploy-relational-database-offerings-azure/",
       "length": "PT38M",
       "ratings": {
-        "count": 913,
-        "average": 4.8061337
+        "count": 915,
+        "average": 4.803279
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1607,6 +1572,49 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-host-domain-azure-dns.md",
+      "title": "Host your domain on Azure DNS",
+      "excerpt": "Learn how to host your domain on Azure DNS.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-host-domain-azure-dns/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 3700,
+        "average": 4.816216
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/host-domain-azure-dns-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
       ]
     }
   ],
