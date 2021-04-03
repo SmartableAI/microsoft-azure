@@ -4,7 +4,7 @@ excerpt: "Learn about the various Azure services you can use to help ensure that
 type: collection
 price: Free
 length: PT1H31M
-heat: 103
+heat: 87
 
 provider:
   name: Microsoft Learn
