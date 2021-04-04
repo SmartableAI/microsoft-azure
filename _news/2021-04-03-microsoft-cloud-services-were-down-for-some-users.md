@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-ar
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
 type: article
 quality: 82
-heat: 244
+heat: 245
 published: true
 
 provider:
