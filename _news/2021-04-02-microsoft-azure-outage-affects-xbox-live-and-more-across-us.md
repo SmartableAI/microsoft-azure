@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft Azure outage affects XBox Live and more across US"
-excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector.com reported problems ..."
-publishedDateTime: 2021-04-01T22:36:00Z
-originalUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
+publishedDateTime: 2021-04-01T23:07:00Z
+originalUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+webUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WVEC
-  domain: 13newsnow.com
+  name: FOX43
+  domain: fox43.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+  - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -218,6 +218,6 @@ related:
         height: 480
         isCached: true
 
-secured: "wnFHBell4UK1H77dqo9fkKYOjYmiPgH9diA8qo6+lA4ziBH7JH8rcDxo31hjYktj8YA8qFNyO4zpyZctIBxTOQl+T71rWLJJqve1BfsRmQO5Sj9MB/Rba4AMRcPeE2+ejQbuQpQKP0n4u1WnUS5UOwij6FBK6gQJIJt8eEPA0+IV6u2F97wMZjUIVDn6TYOqHiU58OOU1WcXn7vQszzaAvjP7uXUdGhhdRZh6+suPaFQW4/Fbyj6i0iWePo2CDzIO6R4s+HNVpdJML1T82wNnIGbrgHYTQm2GfUaP6Hxp58pBxisnEJxITmRUMWRt4sEt6d3stt0zA2uyUIspHOg5VfuHDYdcdokz2KGcXivswaTGeITfo79XfkMPqjph/aBV0lcnQ6KJ8W69TwxBnViqnuEWPmIBPbLB6s+O25kifQBNmWdXDopPkEcgOKAKyWiP7xx1sv0hOe0OUz3m12NYJNNrPXYwXZWdEfUWYYOz2vfGa1Cx7XaKlprCfGTjyHDvsmgadoUNK/xhyTQ0F77zQ==;s7XbxSkQr0YWG+3HDNF9KQ=="
+secured: "3Bd5sCQeVKxcThcDYXwMTZjBeUT9I+S5o8zns9mY7nuTsXjPwP44CEOIQZaz+ytaT8i7LXPFBZe4GY5CirZio+DFuSClXcbxJMdJy+VjOGRpJb/MuiaOAQ6b8soVuSWJigcjfgmrUoXbRovb9BESEiPxrFrdq2Rr0xT42NkcblE5iadjqdr1zhEtFrzbSwIfesEOghzQPeGfvVL56UprQi7oGfpO0oD97lf3voBoFgR31MA02f0ei+WR6nU9+UZz0dQj1TPm8D9rS2BVYde4UR3JgUn8XkiXfLmb7wPfUfI4Hoef5C+OI+UbWFf+ooDNHNdO1nWCGzLJrnKdjKA+dBq/cCHFzIStxAfoq1vZfdI=;VO2KXAte6pWVSkj60DUaFQ=="
 ---
 

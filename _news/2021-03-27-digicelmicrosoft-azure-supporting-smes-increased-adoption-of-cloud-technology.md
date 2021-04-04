@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
-excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
-publishedDateTime: 2021-03-27T08:53:00Z
-originalUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
-webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
+excerpt: "Digicel is delighted to partner with Microsoft to show our SMEs how Azure can improve and expand their operations.” In a highly engaging presentation, Microsoft Azure Channel Manager for the ..."
+publishedDateTime: 2021-03-27T09:07:00Z
+originalUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+ampWebUrl: "http://amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
@@ -131,6 +133,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "lZ94jq2ZG+pFr4Ht8aWFgfwOdFJ5ikJUZmuURLXlYzrIIgS09SjjpVdYUri+5UjJBFo7AnzEv4rLRCjbZcy7MSSWYV8Qq6xFh2XccePgiySGhw/b6GqnOZymHkLyJ/mWKPsFFjvNLalMncDZ3DsStFLXarGzcqH+zfQ5Cbfw//z1ZgIEB7Ksr2dx1poVbXSOygspRdddw8btNYI6947wOkJttW1x+b6+FQY5oexs3f3N5CymmDerDvNFaB9g2d2cRroOboJYOq/1xfgtuQTN3Av5sJ3Mi5WmUmLqslq0rZRw/5lypSEC2qYKnWbZKLgEt/r2YE0y2Sv78DtP76uJXyCfjURV9kZLWyVaBvwgw8o=;y9itSHAQ+u60B9SagCWD0w=="
+secured: "NgCDgmkdPHZhZ+O0yX7NwVKGJeF8yzuj13Cj1pjT7bY/kPOE+zW+wDzAAGL2Vd1W1wWb6E+d6MsC0iRIV89fHnRGvYuNujrI0AvGkCVU1SnsOrd2H1MvOipiGHhDkBwOM4x3k1db/BVd4c7Fnmb38PmdnVssaQerkCnvf+d14TB+t5VfxaRY5yVrMQOh1/XnnlQlti7yjVAUauIp8Vf/qUEl1w9USm69C5QVvNEU+aT7OjsgKWMAvj3rbra58W0dObFSv2ofrHQcQzx/g1EZVTJnQYJEzmLl6ob0nCo4/IxfA7qqKVixGMkvJ24aK3LAOZQqYVYr5vn+Yz4T+EP4qUqWWeCylidluD1c1sD5G7U=;aeB5E2HmkzsFCevdj32baQ=="
 ---
 

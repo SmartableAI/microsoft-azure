@@ -1526,18 +1526,18 @@ related:
         height: 630
         isCached: true
   - title: "Kublr Announces Advanced Microsoft Azure Features, Gives Enterprise Customers Software that Delivers on the Promise of Kubernetes"
-    excerpt: "Kublr ( kublr.com/ ) today announced Kublr 1.20, a new version of its comprehensive container orchestration platform that gives customers the ability to run reliably at scale through its operations and governance capabilities."
-    publishedDateTime: 2021-03-23T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
+    excerpt: "The newest version of Kublr brings Kubernetes 1.19.7 and 1.20, RedHat Enterprise Linux 8 support, ELK 7.10.2 stack with SearchGuard plugin, multiple significant Azure deployment improvements ..."
+    publishedDateTime: 2021-03-24T00:44:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kublr-announces-advanced-microsoft-azure-features-gives-enterprise-customers-software-that-delivers-on-the-promise-of-kubernetes-301254359.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1472415/kublr_Logo.jpg?p=facebook"
+        width: 2054
+        height: 1077
         isCached: true
   - title: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities"
     excerpt: "Quzara Cybertorch Leverages Microsoft Azure andExtended Detection and Response (XDR) Capabilities  - Quzara joins the Microsoft Intelligent Security Association (MISA) to support customers better defend themselves against"

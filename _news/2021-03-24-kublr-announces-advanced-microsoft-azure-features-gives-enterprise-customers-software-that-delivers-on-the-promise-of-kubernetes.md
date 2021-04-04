@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Kublr Announces Advanced Microsoft Azure Features, Gives Enterprise Customers Software that Delivers on the Promise of Kubernetes"
-excerpt: "Kublr ( kublr.com/ ) today announced Kublr 1.20, a new version of its comprehensive container orchestration platform that gives customers the ability to run reliably at scale through its operations and governance capabilities."
-publishedDateTime: 2021-03-23T21:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-north-america-cloud-computing-district-of-columbia-82a70caf7e2513d3dd4439a74e760579"
+excerpt: "The newest version of Kublr brings Kubernetes 1.19.7 and 1.20, RedHat Enterprise Linux 8 support, ELK 7.10.2 stack with SearchGuard plugin, multiple significant Azure deployment improvements ..."
+publishedDateTime: 2021-03-24T00:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/kublr-announces-advanced-microsoft-azure-features-gives-enterprise-customers-software-that-delivers-on-the-promise-of-kubernetes-301254359.html"
+webUrl: "https://www.prnewswire.com/news-releases/kublr-announces-advanced-microsoft-azure-features-gives-enterprise-customers-software-that-delivers-on-the-promise-of-kubernetes-301254359.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Containers
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1472415/kublr_Logo.jpg?p=facebook"
+    width: 2054
+    height: 1077
     isCached: true
 
 related:
@@ -1875,6 +1875,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "OPyiHTfB+iWg4VLawgAMefHlqmuPUNYLgYRfkw6/QW+7Nvhy/WGRMbNUg4YWnXXjk2Ch3szFb0POao8TKxtCrYzOVgpr/Cm8297n6FTQdJ04hFNgTP4dhrdtzfnsDEP4krYk4kYl+3SvRV/LF7tUrNQaEnndqXxZWwLTnlH9RGoL+L9MwjBX5sPccS0XvBebYrbteJk1+P+EIK2m8s23Gfw4yYG56cHwuo1ACS8fdsKD/ZpnUEcUD9R2C45XvP8klYlGJeKPOwJByhf/6olE6lAJvYUou6g/tP7UAEMlE2PiOJVZXzgYF7QACzRQIqPJxVAAmspnuAEXANHcfBJBqm9KYvSlQEncKKDD58COqr0=;sqqiAnOuPKfjOz+YWSp4TQ=="
+secured: "Ff/lny48IDVPycOCJJ7vv/xYES8NnvNrmzaZlp1Vh8frrJGaUi1RwXqm/hxyvq2z3wyDM6O76T1kg9cIa8LX2bka2Q6KjOetnCjHgAPGTfxnwsAuHdvB4gHQZZa2tmCm6X948hIiNQfjXVCMIA6HndSFPOUx98ex1gJTt6KMSRGu2hM4aCaNv2NYIpfCVTZUHdF0OpqRUPfzMfdk0keKU6LG95o1GW7+3mgqi2a5oSFim75ANw3liuyAE67Kl/7sPnYyN2agh6tc0OwMX6voiKOQQXHxpvnVQMauSDX3vUUeNoacvc/hy19XF5nh4dVEn3hJrs+mO5jAUACT0lBoWx3RRf5oTShV93+f9cPVjE4=;rX2irSYbpbLLphqMpuOABg=="
 ---
 

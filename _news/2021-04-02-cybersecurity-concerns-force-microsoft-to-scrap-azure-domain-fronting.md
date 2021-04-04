@@ -54,6 +54,22 @@ related:
         width: 259
         height: 259
         isCached: true
+  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
+    excerpt: "Digicel is delighted to partner with Microsoft to show our SMEs how Azure can improve and expand their operations.” In a highly engaging presentation, Microsoft Azure Channel Manager for the ..."
+    publishedDateTime: 2021-03-27T09:07:00Z
+    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    ampWebUrl: "http://amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 53
+    images:
+      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
+        width: 504
+        height: 332
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -97,20 +113,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
-    excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
-    publishedDateTime: 2021-03-27T08:53:00Z
-    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 33
-    images:
-      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
-        width: 504
-        height: 332
         isCached: true
   - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."

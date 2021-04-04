@@ -56,6 +56,22 @@ related:
         width: 259
         height: 259
         isCached: true
+  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
+    excerpt: "Digicel is delighted to partner with Microsoft to show our SMEs how Azure can improve and expand their operations.” In a highly engaging presentation, Microsoft Azure Channel Manager for the ..."
+    publishedDateTime: 2021-03-27T09:07:00Z
+    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    ampWebUrl: "http://amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 53
+    images:
+      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
+        width: 504
+        height: 332
+        isCached: true
   - title: "NexTech AR integrates Microsoft’s Azure Cloud Services platform"
     excerpt: "NexTech AR Solutions Inc., an augmented reality technology 3D advertisement and e-commerce provider, today announced that Microsoft Azure Cloud Services platform will now be a standard offering for its users."
     publishedDateTime: 2021-01-20T16:53:00Z
@@ -98,20 +114,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
-    excerpt: "Last week, a number of start-up and seasoned SME operators, primarily from the retail, financial, and hospitality Industries, logged on to a joint Digicel-Microsoft webinar, themed 'The Why to the How of Cloud', to learn how to improve business efficiency ..."
-    publishedDateTime: 2021-03-27T08:53:00Z
-    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1442"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 33
-    images:
-      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
-        width: 504
-        height: 332
-        isCached: true
   - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
     excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
     publishedDateTime: 2021-03-29T02:59:00Z
@@ -131,6 +133,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "awXvxGiUC9h7lXtTdYManNPnwZYrhQFddMhxNypUynWmAZHp3n77mN4vITAR5pRya5OhdIPqe3Y56EsBvq1uDCRQ5LFvTI43qhmTiG9dSk1+mq84Esf5tVS2ijAhIWLov79eWz/TkGGwe33shSkYP1Grx6BpLljcy8cuvr5sDFGdbOlb4mFapg0Ic17yYaoRzHNhb2sFjKPoVLUFPn0djK378RZgzpJMDs5DhLQaliZRXXqGjcofjJ2mH1QppE8tYIyU0xbvUkf8oxyxUiFmSHCf5UxkfA1TxGoGiMwT68NbCHVQ2qyrW4YjyGwynXta5B2dFOGi6mvAfdjEdLFwyHwpd+bycdIT7ypdJ1dxVkM=;9ZORmLzy8l/Zs1Khje5qeQ=="
+secured: "qyNIOv3u+a/wiyojKZzDii4XnQgi/6mfboedV70DE4TSqKHZDJ1AKgr3LBYDyDeu74k4icDa80KOvDOKJjaYosUckQHsYoVAFtAnva08/lJrLOgo7X3hnDC1OM5fRPqSzvN9ADd/PmXRC+SQTxdiA4ChhrvMmNXue++qkjixUO3qAFusn9DRwxa2RbOa7Wx3NgrNLsoLi/uIY5oAjJfPucqTPbt/dwt3duOh6FFnlOnnLxObQav2lUdbx/gmjsbhem0mKC4m+Jg+4obqb19YCDAqsBYBjVkno8jswxr2ktLxdeWkxghuqFzZH0AmMvH5zAY17Psfx7vLAJzPq7OhAVLpCXUM4CQw0Kbk2H8cALEpUlKXjBfPJhCjIYSBTisOCUDi7TINvLY9W+62s8wZcR/Wle59j71pBApL6nGTLOyQcASLW6YSrzA+qrwY0L6XePmLWh+EWmMRXSBWmF+2jjxA/Ydn7myXRezVdwYamq7YxAVqv3SYwOtWCexRV91HcREGyMogR64fdZ1x4sDmeQ==;e+UMVk4r3csEK50AVeDtcg=="
 ---
 
