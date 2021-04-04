@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-ru
 webUrl: "https://azure.microsoft.com/blog/back-up-linux-virtual-machines-running-mission-critical-workloads/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
