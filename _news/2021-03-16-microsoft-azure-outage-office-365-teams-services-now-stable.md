@@ -1,21 +1,29 @@
 ---
 category: news
-title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
-excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
-publishedDateTime: 2020-11-25T12:49:00Z
-originalUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
-webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+title: "Microsoft Azure outage: Office 365, Teams services now stable"
+excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
+publishedDateTime: 2021-03-16T04:14:00Z
+originalUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
+webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
+ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -502,22 +510,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft Azure outage: Office 365, Teams services now stable"
-    excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
-    publishedDateTime: 2021-03-16T04:14:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
         isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
@@ -1726,6 +1718,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "AMS-IX adds Microsoft Azure Peering Service to cloud portfolio"
+    excerpt: "The Amsterdam Internet Exchange (AMS-IX) has added Microsoft Azure Peering Service to its cloud portfolio. This means that companies and organisations connected to the exchange will be able get ..."
+    publishedDateTime: 2020-11-25T12:49:00Z
+    webUrl: "https://www.telecompaper.com/news/ams-ix-adds-microsoft-azure-peering-service-to-cloud-portfolio--1363321"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Node4 awarded Microsoft Azure Expert MSP status"
     excerpt: "Node4, UK provider of cloud managed services, has been awarded Microsoft Azure Expert MSP status. This recognises the company's expertise in Azure DevOps and Azure Service"
     publishedDateTime: 2021-03-11T10:30:00Z
@@ -1873,6 +1874,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "KQKhP63hR/r/xZpgrHMZArvfNqdwKRcrT5uP+Ij1mZAp93jfR0mJvfGLT6mt2/yQvXhZew9FtsAmi71Z2ADVXlxs2jTyJfGKfjAs7LYiBVm5lkoyX592SzexI62LcUmcepjxOvrVp/QBv3qoGKW4Kd9MmXsNKwf1ElrzdLT1nefwyU4VH7Igu78IOIzrmSEMIGOOlcSRG+DL0HwTuj5R4rlm15pBuOM5m0aov0akMQnTKAnzsZaXEPlSLCHv8HAklUuI/5m9w2bVSQoV+G1U1OkismxYjJnRGzE9Uq1pA7F+kNiXWeVWFwd0Kj6PjgvLSYSJiMXDw4BT1MW/WNDLV46GfU31s0EHKZ7QqwMZnO8=;Spxh9YeJfoaSJ6YMdzhLbw=="
+secured: "iltY0pwrLXqvYJi79a1tYiIgMoY+B2I3FhEWOmMr/MK3PVbizx+um8Q15ASsMfJBsykA7Z9dufP9yhIu83oeatpIzYqEwGe3KGOPJEhxNvvFaRZasWOSv4IiuRF5tNehKrQ+wGgwrpn9ivp8E6xqhirwtwfedIEtAziKvdyTJxjQ8DO2Vz9xnYcEYLV24hvaRSCc+19D+dPKdZxWEuFGJrIQH8uN+zSW4cMd4oOurOZaK2K9HpQSJNmhMvnAN8To62oMOLdw+SdkFOC24wOh/nfy5IoiGLeJSYgky/i6hEb8K8w2e6qRnKo5p4EoB5Og7/sM6v1JdHY1BgvPvOmfaYByd9Mbwr9yj/8dWmAnGgM=;FhMy2IkD/bTr7MPuoXGo1g=="
 ---
 

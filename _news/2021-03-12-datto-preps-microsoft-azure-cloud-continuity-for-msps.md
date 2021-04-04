@@ -340,6 +340,20 @@ related:
         width: 790
         height: 622
         isCached: true
+  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
+    publishedDateTime: 2021-03-18T09:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg"
+        width: 400
+        height: 250
+        isCached: true
   - title: "PUBG Mobile parent inks deal to host game on Microsoft Azure cloud"
     excerpt: "Microsoft’s cloud service will host products “directly operated” by Krafton and its subsidiary companies, including PUBG Mobile, the popular battle royale mobile game which was banned by the Indian government two months ago."
     publishedDateTime: 2020-11-07T08:53:00Z
@@ -488,6 +502,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure outage: Office 365, Teams services now stable"
+    excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
+    publishedDateTime: 2021-03-16T04:14:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
@@ -1247,20 +1277,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/microsoft.jpg"
         width: 900
         height: 493
-        isCached: true
-  - title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, March 18, 2021 /PRNewswire/ -- QuerySurge today announced the availability of its enterprise data validation & testing solution in the Microsoft Azure Marketplace, an online store ..."
-    publishedDateTime: 2021-03-18T09:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "March 15 Microsoft Azure Outage Resolved"
     excerpt: "Microsoft's Azure login system was affected by an unexpected outage impacting many from 7 p.m., Monday, March 15, to 9 a.m., Tuesday, March 16."

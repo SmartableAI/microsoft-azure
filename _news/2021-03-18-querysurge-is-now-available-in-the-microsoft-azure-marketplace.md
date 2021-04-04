@@ -1,26 +1,30 @@
 ---
 category: news
 title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK, March 18, 2021 /PRNewswire/ -- QuerySurge today announced the availability of its enterprise data validation & testing solution in the Microsoft Azure Marketplace, an online store ..."
-publishedDateTime: 2021-03-18T09:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
-webUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
+excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
+publishedDateTime: 2021-03-18T09:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
+webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
 type: article
-quality: 37
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg"
+    width: 400
+    height: 250
     isCached: true
 
 related:
@@ -494,6 +498,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/05/cso_microsoft_azure_backups_cloud_computing_binary_data_transfer_by_just_super_gettyimages-1003878434_3x2_2400x1600-100796537-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Azure outage: Office 365, Teams services now stable"
+    excerpt: "Microsoft cloud computing service Azure experienced an outage for a few hours on March 16. The outage led to users experiencing difficulty in using other Microsoft services like Microsoft Teams ..."
+    publishedDateTime: 2021-03-16T04:14:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-azure-outage-office-365-teams-services-now-stable-6651261.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Microsoft-hacking-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Microsoft Azure outage takes down Teams, Xbox Live, Office 365 [Update]"
     excerpt: "A recent Microsoft Azure outage took down multiple Microsoft services, including Microsoft Teams, Xbox Live, and Office 365. Microsoft noted that a recent change to an authentication system was the culprit of the issues. Microsoft rolled out an update that ..."
@@ -1858,6 +1878,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "/ffgbAiE/txHh8XAcrpP8D2M2uY9OMT/IE2MIUiaeqpdggKdguaRWpWAv2BzjNLzwf/to4V2I5XekTjdLZtrVwJJx6pj+eDr4MpcSRC0c6UGdcZafjx87wOPWoYLI6e3p+fUly+vv4myw0RZ9lthISCX6QJGm7IJg1SCeZDPaxw9UEDAYMKoYOAneopx91TF/qZYHoKjq75w0svpXLmoiqctrvpg/Vwls83y/ODshO6Az3xFBmuz3BZmesUd6rbJ+aAg+ZjzcP6vrPSMLPB4PsqacXoM8HJvtl0REaUyrbVk8j/NMHVM7oFr+hssKetOzVKX/Kp3KP+1r8dGDx0M3TvJYEdmsovdxSq8cbY1vMY=;8y+vaNl/JgdcYPMGXIp+hw=="
+secured: "lEPzop9TXg5zT/0mDgmJcTxWqSG+ndXY4paErFhIUx/KWgZk4ZZ9QW69VoCBMz7U5UKusk9b2sbU8QEcGLd0Nukbb7rBrbRD7bVSAd+IipzeygHpUPN0123uNivaHQSs1V6AFdSEpfhDKIKTBE6qBL9+RXGovVDMb/S1XOsNHB8yk3V0CgOczAKDX42FSJrz5JWqVvNxXmmw7gcWH1TmY9j0j7wRP0KnJneNrmoH11wiQBz2DtCZB+EFPRpAEBPjGm0LAf/kmfS8DLUelM5jp42UaQhDFrjH9AANJ0Ykh45wZoDtGzcX2+Vg2G+nl+5DlU8vC4quDg22A9JvLJgkHbjaGr7JS6C6WH8To5P4bNE=;lfwVy+UUhNDJ9lz0W5vuKA=="
 ---
 

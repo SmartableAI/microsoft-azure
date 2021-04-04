@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deploy-key-design-principles-with
 webUrl: "https://azure.microsoft.com/blog/deploy-key-design-principles-with-enterprise-scale-architecture/"
 type: article
 quality: 72
-heat: 93
+heat: 92
 published: true
 
 provider:
