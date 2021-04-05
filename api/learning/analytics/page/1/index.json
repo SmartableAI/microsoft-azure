@@ -4,15 +4,145 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
-      "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-data-azure-data-factory/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
-      "length": "PT1H2M",
+      "path": "_learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-streaming-analytics.md",
+      "title": "Implement a Data Streaming Solution with Azure Streaming Analytics",
+      "excerpt": "In this learning path, discover Azure Stream Analytics streaming data, the concepts of event processing, and integration of Internet of Things (IoT) devices.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-streaming-analytics/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-streaming-analytics/",
+      "length": "PT1H14M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
+          "title": "Work with data streams by using Azure Stream Analytics",
+          "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 1472,
+            "average": 4.6535325
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-transform-data-with-azure-stream-analytics.md",
+          "title": "Transform data by using Azure Stream Analytics",
+          "excerpt": "Learn how to create Azure Stream Analytics jobs to process input data, transform it with a query, and return results",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-transform-data-with-azure-stream-analytics/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/transform-data-with-azure-stream-analytics/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1538,
+            "average": 4.5708714
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-ai/transform-data-with-azure-stream-analytics-badge-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
+      "title": "Work with data streams by using Azure Stream Analytics",
+      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
+      "length": "PT25M",
       "ratings": {
-        "count": 307,
-        "average": 4.6482086
+        "count": 1472,
+        "average": 4.6535325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,12 +159,12 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -77,8 +207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 45007,
-            "average": 4.783967
+            "count": 45047,
+            "average": 4.7839813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9989,
-            "average": 4.720993
+            "count": 9998,
+            "average": 4.7209444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 8793,
-            "average": 4.759354
+            "count": 8799,
+            "average": 4.7594047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -210,8 +340,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7012,
-            "average": 4.759983
+            "count": 7015,
+            "average": 4.759943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -279,8 +409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 9989,
-        "average": 4.720993
+        "count": 9998,
+        "average": 4.7209444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +479,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 6867,
-            "average": 4.7662735
+            "count": 6874,
+            "average": 4.7665114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -392,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7340,
-            "average": 4.66812
+            "count": 7342,
+            "average": 4.668074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -535,8 +665,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2580,
-        "average": 4.837209
+        "count": 2584,
+        "average": 4.8374615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -601,8 +731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8263,
-            "average": 4.6593246
+            "count": 8264,
+            "average": 4.659366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -684,8 +814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3810,
-            "average": 4.6031494
+            "count": 3811,
+            "average": 4.603254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -803,8 +933,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 9989,
-            "average": 4.720993
+            "count": 9998,
+            "average": 4.7209444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -849,8 +979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/",
           "length": "PT50M",
           "ratings": {
-            "count": 5330,
-            "average": 4.6615386
+            "count": 5332,
+            "average": 4.661478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +1015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3861,
-            "average": 4.5946646
+            "count": 3862,
+            "average": 4.5947695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -929,8 +1059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
           "length": "PT1H24M",
           "ratings": {
-            "count": 1384,
-            "average": 4.458815
+            "count": 1385,
+            "average": 4.4592056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1010,8 +1140,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3810,
-            "average": 4.6031494
+            "count": 3811,
+            "average": 4.603254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2604,
-            "average": 4.6328726
+            "count": 2605,
+            "average": 4.6330132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1156,221 +1286,6 @@
         "IoT",
         "Analytics",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline.md",
-      "title": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
-      "excerpt": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/",
-      "length": "PT5H11M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
-          "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
-          "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-data-azure-data-factory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
-          "length": "PT1H2M",
-          "ratings": {
-            "count": 307,
-            "average": 4.6482086
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 131,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
-          "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-          "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 181,
-            "average": 4.5745854
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
-          "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
-          "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
-          "length": "PT58M",
-          "ratings": {
-            "count": 127,
-            "average": 4.4015746
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
-          "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-          "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 8,
-            "average": 4.75
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-pipelines-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Analytics"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "Integration"
       ]
     },
     {
@@ -1804,6 +1719,221 @@
         "Azure",
         "Analytics",
         "Serverless"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline.md",
+      "title": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Data integration at scale with Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-data-integration-at-scale-with-azure-data-factory-or-azure-synapse-pipeline/",
+      "length": "PT5H11M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-integrate-data-azure-data-factory.md",
+          "title": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Integrate data with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-integrate-data-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
+          "length": "PT1H2M",
+          "ratings": {
+            "count": 307,
+            "average": 4.6482086
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
+          "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 181,
+            "average": 4.5745854
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/petabyte-scale-ingestion-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory.md",
+          "title": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+          "excerpt": "Perform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-code-free-transformation-scale-azure-data-factory/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/code-free-transformation-scale/",
+          "length": "PT58M",
+          "ratings": {
+            "count": 127,
+            "average": 4.4015746
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-code-free-transformation-scale-azure-data-factory-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
+          "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
+          "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 8,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-pipelines-social.png",
+              "width": 1280,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Analytics"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-data-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "Integration"
       ]
     },
     {
@@ -3545,8 +3675,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 893,
-        "average": 4.7950726
+        "count": 894,
+        "average": 4.795302
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3581,8 +3711,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3810,
-        "average": 4.6031494
+        "count": 3811,
+        "average": 4.603254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4069,49 +4199,6 @@
         "Azure",
         "Analytics",
         "Serverless"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics.md",
-      "title": "Survey the Components of Azure Synapse Analytics",
-      "excerpt": "Survey the Components of Azure Synapse Analytics",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-survey-components-of-azure-synapse-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-components-of-azure-synapse-analytics/",
-      "length": "PT1H5M",
-      "ratings": {
-        "count": 72,
-        "average": 4.4166665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/survey-the-components-of-azure-synapse-analytics-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
       ]
     }
   ],

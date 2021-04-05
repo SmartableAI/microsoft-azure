@@ -4,6 +4,219 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server.md",
+      "title": "Monitor and optimize operational resources in SQL Server",
+      "excerpt": "Configure hardware and server resources for optimum performance after establishing a baseline. Identify sources of performance problems. Troubleshoot using Azure SQL Intelligent Insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-monitor-and-optimize-operational-resources-in-sql-server/",
+      "length": "PT2H40M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-describe-performance-monitoring.md",
+          "title": "Describe performance monitoring",
+          "excerpt": "Compare Azure and on-premises tools for monitoring and measuring performance. Determine critical metrics. Understand the purpose of a baseline for comparative analysis.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-performance-monitoring/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-performance-monitoring/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 634,
+            "average": 4.8059936
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-causes-of-performance-issues.md",
+          "title": "Explore causes of performance issues",
+          "excerpt": "Explore the Query Store for tracking down problematic queries. Understand how SQL Server and Azure SQL manage currency by locking and blocking, or by using snapshots. Implement fragmentation checks and defragmentation.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-explore-causes-of-performance-issues/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-causes-performance-issues/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 606,
+            "average": 4.8135314
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-causes-of-performance-issues-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance.md",
+          "title": "Configure SQL Server resources for optimal performance",
+          "excerpt": "Choose the appropriate size and storage options for your Azure SQL databases. Configure server resources such as tempdb. Understand the usage of Resource Governor.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-sql-server-resources-for-optimal-performance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-sql-server-resources-optimal-performance/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 1442,
+            "average": 4.7690706
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-sql-server-resources-for-optimal-performance-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-configure-databases-for-performance.md",
+          "title": "Configure databases for performance",
+          "excerpt": "Control database-level configuration options. Explore Intelligent Query Processing. Configure Open Source databases for optimum performance.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-databases-for-performance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-databases-performance/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 587,
+            "average": 4.793867
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/configure-databases-for-performance-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/describe-performance-monitoring-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-perform-data-science-with-azure-databricks.md",
       "title": "Perform data science with Azure Databricks",
       "excerpt": "Perform data science with Azure Databricks",
@@ -3035,8 +3248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
           "length": "PT57M",
           "ratings": {
-            "count": 286,
-            "average": 4.646853
+            "count": 287,
+            "average": 4.6480837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4193,8 +4406,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 9536,
-        "average": 4.6987205
+        "count": 9538,
+        "average": 4.698784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4494,8 +4707,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 3091,
-            "average": 4.71692
+            "count": 3092,
+            "average": 4.7170115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4557,8 +4770,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1188,
-        "average": 4.729798
+        "count": 1189,
+        "average": 4.7300253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4590,42 +4803,6 @@
       "topics": [
         "Azure",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm.md",
-      "title": "Build and run a web application with the MEAN stack on an Azure Linux virtual machine",
-      "excerpt": "Learn how to decide if the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js) is a good choice for you and set up a MEAN-based web application on a new Azure Linux virtual machine.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-and-run-a-web-application-with-the-mean-stack-on-an-azure-linux-vm/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 2514,
-        "average": 4.5986476
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Management Tools"
       ]
     }
   ],

@@ -4,6 +4,92 @@
   "page": 30,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-enable-external-collaboration-with-b2b.md",
+      "title": "Enable secure external collaboration for your applications with Azure AD B2B",
+      "excerpt": "Azure AD B2B collaboration lets you securely share your company's applications and services with guest users from any other organization, while maintaining control over your own corporate data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enable-external-collaboration-with-b2b/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-external-collaboration-with-b2b/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 34,
+        "average": 4.852941
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enable-external-collaboration-with-b2b-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enterprise-scale-introduction.md",
+      "title": "Introduction to enterprise-scale landing zones in the Microsoft Cloud Adoption Framework for Azure",
+      "excerpt": "The Microsoft Cloud Adoption Framework for Azure provides many landing zone options. In this module, we'll focus on enterprise-scale landing zones.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-enterprise-scale-introduction/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enterprise-scale-introduction/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 287,
+        "average": 4.71777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/enterprise-scale-introduction-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-enterprise-scale-networking.md",
       "title": "Enterprise-scale architecture networking design principles",
       "excerpt": "Enterprise-scale architecture networking design principles",
@@ -138,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 581,
-        "average": 4.8037868
+        "count": 582,
+        "average": 4.804124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -631,8 +717,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-performance-based-design/",
       "length": "PT50M",
       "ratings": {
-        "count": 1476,
-        "average": 4.775068
+        "count": 1477,
+        "average": 4.77522
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1166,93 +1252,6 @@
       "topics": [
         "Azure",
         "IoT"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started.md",
-      "title": "Get started with Django",
-      "excerpt": "Django is one of the most popular Python web frameworks. Explore its benefits, learn how to install it, and create your first project.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-get-started/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/django/1-get-started/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 1,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-github-actions-ci.md",
-      "title": "Build continuous integration (CI) workflows by using GitHub Actions",
-      "excerpt": "Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-github-actions-ci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 266,
-        "average": 4.706767
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/github/github-actions-ci-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Integration"
       ]
     }
   ],

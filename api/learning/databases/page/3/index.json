@@ -4,50 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-      "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 3861,
-        "average": 4.5946646
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-sql-case-studies.md",
       "title": "Putting it all together with Azure SQL",
       "excerpt": "Putting it all together with Azure SQL",
@@ -141,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
       "length": "PT44M",
       "ratings": {
-        "count": 1032,
-        "average": 4.75
+        "count": 1033,
+        "average": 4.749274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -276,8 +232,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
       "length": "PT41M",
       "ratings": {
-        "count": 816,
-        "average": 4.634804
+        "count": 817,
+        "average": 4.635251
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -319,8 +275,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-databases/",
       "length": "PT31M",
       "ratings": {
-        "count": 142,
-        "average": 4.6760564
+        "count": 143,
+        "average": 4.678322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 2191,
-        "average": 4.6444545
+        "count": 2192,
+        "average": 4.6446166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1008,8 +964,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
       "length": "PT54M",
       "ratings": {
-        "count": 628,
-        "average": 4.7659235
+        "count": 629,
+        "average": 4.766296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,6 +1038,56 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-for-availability-and-recoverability.md",
+      "title": "Design for availability and recoverability in Azure",
+      "excerpt": "Learn how to handle infrastructure and service failure, recover from the loss if data, and recover from a disaster by designing availability and recoverability into your architecture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-availability-and-recoverability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-availability-and-recoverability-in-azure/",
+      "length": "59 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-availability-and-recoverability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for availability and recoverability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for availability and recoverability in Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases",
+        "Networking",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
       "title": "Design for performance and scalability in Azure",
       "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
@@ -1140,8 +1146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/",
       "length": "PT31M",
       "ratings": {
-        "count": 1797,
-        "average": 4.61714
+        "count": 1798,
+        "average": 4.6173525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1176,8 +1182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evaluate-performance-improvements/",
       "length": "PT30M",
       "ratings": {
-        "count": 581,
-        "average": 4.8037868
+        "count": 582,
+        "average": 4.804124
       },
       "provider": {
         "name": "Microsoft Learn",
