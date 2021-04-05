@@ -8,7 +8,7 @@ length: PT55M
 ratings:
   count: 1847
   average: 4.292366
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -28,6 +28,6 @@ topics:
   - Serverless
   - Databases
 
-secured: "5kjpvHGAPQEVHTEvzPz95AzOMoswvLvBAc9o6PtVU4z3+Ed2O9H89cabl5ArB/9q2Wxo/DmGFYQrd3cjfHv7AOpizhvqrqX9osMenKWQgw9bhVs1UyLDLTctTcC+GL9kagDNlrSMFOEkfzGV3YsD+LD30eM619UvrnImQiDYS2mhJ3WwApoGI0F/mH3vDsASrwE6bL4h6TP2RUy6dpUQGH5opW1WXHxyLcA9ojXJd4s9SiV1L8DvgwGKFOzH7XDI5Q5POTB1YqK/sorPfZtcaroiwRkwdXE8rxjBcyCOiihEF20jZoyYiaYJPfd9YW/gSV2LnPLRp+HjQCXGeGFhjwu0B+m5OW7E4n3ymNCjXrLdYCw93QCIcKjgMDWJ9anfKzSBm7wvMGpB0a4zT1BQYHQc5Uw717QU4hVcSzSg/pY=;drO5/t7+kElS5doVrLHznA=="
+secured: "YpSCxsVuYYR0ETUKwfWyLRp2+Y1xppo2yt+s8tDAhpjHebI566MJxIDXQXF5gYq3JADlF8KqE/KYGSVRx5ohQoBf75jcXeoefkp6zB1SSj3kNWkYhPsIF55Ng8yKn2wVrrPoxmMk+OXxO/fMDNFyM/lH46Wo7PtA8ogyGtESna/l5OpzQ3Y3q1sspOpK74cQh5g84DUch1YnSl/vsEDpuis/cg6Z60Stcne//NQYTrWTHbx012QaX3nHoSsEy8gS5Wh8XCIddoZpJ3ylh2NCi4DfJoIBpMk4R5vgPD1SgGBrt0leYJ/KIVN4AO3uLSKGKKZ2368hd2KpIHEjJV4Mk/cGfmIt8jk8ZN9mUa8I3a1+/Q0UK8WC3rvdX6bxIX9rTRcVhuuK/IAd3WJ2q30CU2dlwX3Wg0oEbbluQxha7Bg=;mqk0exUY338IoFPKYjPUIw=="
 ---
 

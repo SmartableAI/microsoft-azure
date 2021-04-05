@@ -8,7 +8,7 @@ length: PT55M
 ratings:
   count: 848
   average: 4.673349
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - AI
 
-secured: "a02AphS6sMPpCfNtTSys1+hrE5fz1/qgUz0XMIQ2nkZ365/BBtmVEvEto7OiYpXEsqfbrE7qMsqeeUm9CeSRCXkzGzsyFuYOPhQ1dKtuFymmilSFuw9fWYw2umoSKUnI3blwPASxMFjcP+dG3JVMUWnA2UTm1NriH7kTVS1KZ1woVM8t0W5pqb4B4vcolXxeC/whVp7FJN66Qz3R0DCZp0fJ0PcGVSBycXdcxRTaj0u0XHEUXprqoJmagukVPmb06boC4G5mQUjr+cnIrWqj04S/Ua3OEgatEDjlh5MES/r2PheqOEeCSRZOcbFqCSSkgJv5eEUJalfLhmteCftjxuL0rqpwb4WQNQA2AzEqy1CVdUXpYuxYomY7k3V4xkCHYwY30cMKv8ZYKdQOBsZyao85GKud379NiKQsrK/cQ74=;tiT2yH6D5zKvMxTzzkaH+g=="
+secured: "dZ5Y6lzh0rn+ZjUNngo28JWwqcyabB+3rDYCEGyu9KhcbV7uoyG1jvr16tGe6+3XOinHB82wtFS0NIm8qhSi2ucs6u6y+yTnqgyFpbqb3C9kmDDKidJlrKBinkCWjWD5RBc1S/JOJd2d8uaHkKC3W2bGbD8CarE76GMu1U4RISWsxxa+enS95NGbVCB2aiQdrGnOWLVxDRkhvQfRBziCRn429P5IGYYjHPgUH1BkdU3Z4A+LLz9YybZ8Epwvha4K0sRUI6FXPlZY5mAjdirTNte7Fxfp4Sf1n2gK8DPVAA2zXZrJavcGmM18ci6P5ckDhczbw7HA92fnZu0SY+NmW/dp2V07/KBg1qyu6Gl4Z6HO6ybIirmGOXiX4uVFLgVHB8UmrMYqLNftbzIVgQblPfYYnI6Bjmc/WDEgVTLf6kQ=;rrMjL5858MxPvekWghRHgg=="
 ---
 
