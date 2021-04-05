@@ -4,12 +4,16 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
-      "title": "Transcribe speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "52 mins",
+      "path": "_learning/courses/microsoft-learn-classify-images-with-custom-vision-services.md",
+      "title": "Classify images with the Microsoft Custom Vision Service",
+      "excerpt": "In this learning path, find out how Cognitive Vision Services detects faces, tags and classifies images, and identifies objects.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-classify-images-with-custom-vision-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-images-with-custom-vision-service/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1547,
+        "average": 4.667744
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,31 +27,16 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        },
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
-          "width": 640,
-          "height": 320,
-          "title": "Transcribe speech in real time with Azure Cognitive Services",
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "AI"
+        "AI",
+        "Management Tools"
       ]
     },
     {
@@ -58,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/",
       "length": "PT54M",
       "ratings": {
-        "count": 1834,
-        "average": 4.669029
+        "count": 1835,
+        "average": 4.66921
       },
       "provider": {
         "name": "Microsoft Learn",

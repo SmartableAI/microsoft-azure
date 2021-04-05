@@ -4,49 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-build-dependencies.md",
-      "title": "Manage build dependencies with Azure Artifacts",
-      "excerpt": "In this module, the Space Game web team guides you through creating a build pipeline that produces a package that can be used by multiple applications.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-build-dependencies/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-build-dependencies/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 1898,
-        "average": 4.685458
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-devops/manage-dependencies-in-your-build-pipeline-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "DevOps",
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-manage-costs-partner-cost-management.md",
       "title": "Configure and manage costs as a Microsoft partner by using Azure Cost Management",
       "excerpt": "Learn how to reconcile your bill and analyze costs across your customers and resources by using Azure Cost Management as a partner.",
@@ -357,8 +314,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
       "length": "PT44M",
       "ratings": {
-        "count": 1240,
-        "average": 4.694355
+        "count": 1241,
+        "average": 4.694601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -606,8 +563,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-azure-iot-hub-with-metrics-alerts/",
       "length": "PT53M",
       "ratings": {
-        "count": 244,
-        "average": 4.635246
+        "count": 245,
+        "average": 4.6367345
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +944,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-runs-on-trust/",
       "length": "PT30M",
       "ratings": {
-        "count": 5577,
-        "average": 4.7417965
+        "count": 5578,
+        "average": 4.7416635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1075,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-on-premises-workloads-azure/",
       "length": "PT31M",
       "ratings": {
-        "count": 238,
-        "average": 4.6554623
+        "count": 239,
+        "average": 4.6527195
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1279,6 +1236,50 @@
       "topics": [
         "Azure",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms.md",
+      "title": "Migrate on-premises Windows Server instances to Azure IaaS virtual machines",
+      "excerpt": "You'll be able to plan a migration and select appropriate server migration tools. You will also learn how to use Azure Migrate, how to assess physical servers, and how to migrate those servers.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-premises-windows-server-instances-to-azure-iaas-vms/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 23,
+        "average": 4.7826085
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/migrate-on-premises-windows-server-instances-to-azure-iaas-vms-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Compute"
       ]
     }
   ],
