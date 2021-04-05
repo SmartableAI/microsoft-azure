@@ -123,6 +123,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Announcing platform support migration of Azure Cloud Services (classic) to Azure Resource Manager"
+    excerpt: "Seamless, fully orchestrated, no downtime for most scenarios and minimal effort migration path for your existing Cloud Services (classic) deployments."
+    publishedDateTime: 2021-04-05T15:45:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Public preview: IPv6 Support for ExpressRoute Private Peering"
     excerpt: "This support will unlock hybrid connectivity for you as you expand into new, IPv6-dependent markets or transition to IPv6 in your own networks."
     publishedDateTime: 2021-03-24T18:10:22Z

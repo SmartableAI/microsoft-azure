@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Azure Database for MySQL – Flexible Server now connects with Azure CLI"
-excerpt: "Now in public preview, use the 'connect' command for Azure CLI for Azure Database for MySQL - Flexible Server to test connections and run basic queries."
-publishedDateTime: 2021-03-31T16:00:45Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-now-connects-with-azure-cli/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-now-connects-with-azure-cli/"
+title: "Public preview: Announcing platform support migration of Azure Cloud Services (classic) to Azure Resource Manager"
+excerpt: "Seamless, fully orchestrated, no downtime for most scenarios and minimal effort migration path for your existing Cloud Services (classic) deployments."
+publishedDateTime: 2021-04-05T15:45:36Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration/"
+webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration/"
 type: article
-quality: 91
+quality: 63
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Databases
+  - Migration
 
 related:
   - title: "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier"
@@ -50,6 +50,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 93
+  - title: "Public preview: Azure Database for MySQL – Flexible Server now connects with Azure CLI"
+    excerpt: "Now in public preview, use the 'connect' command for Azure CLI for Azure Database for MySQL - Flexible Server to test connections and run basic queries."
+    publishedDateTime: 2021-03-31T16:00:45Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-now-connects-with-azure-cli/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 91
   - title: "Azure Database for PostgreSQL - Flexible Server (public preview) available in new regions"
     excerpt: "With new regions announced for Azure Database for PostgreSQL – Flexible Server, you can control multiple configuration parameters for fine-grained database tuning with a simpler developer experience to accelerate end-to-end deployment."
     publishedDateTime: 2021-03-31T16:01:35Z
@@ -122,15 +131,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Announcing platform support migration of Azure Cloud Services (classic) to Azure Resource Manager"
-    excerpt: "Seamless, fully orchestrated, no downtime for most scenarios and minimal effort migration path for your existing Cloud Services (classic) deployments."
-    publishedDateTime: 2021-04-05T15:45:36Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 63
   - title: "Public preview: IPv6 Support for ExpressRoute Private Peering"
     excerpt: "This support will unlock hybrid connectivity for you as you expand into new, IPv6-dependent markets or transition to IPv6 in your own networks."
     publishedDateTime: 2021-03-24T18:10:22Z
@@ -168,6 +168,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "ea4R1ubR1duwHSijlSEzu0RA7+LRIuzFa/TYfe/PDuUcgN8gVkuzdJzek0H8ri9JU+5V71zIV/dTwrq+M2UKVih2NMeGICl36zHBo637vN868E4IR5aLvavGqnhn5ODoxV/P7qT+a46TcHgs/LqiDqhtyjkazgD/WmkiKe4u3Dqe7GhawVHvRJ4YOXPEKZlQ05lHNhmUazOfqzJYv5jdkQZFO0H2CRbUlBMPnePdCvfz2bqtQHfPjkfVAB9q5rduPWGWg9QboG7Xwou6/sd0OTzpvd8chrtr5TQ0sDenaRzIH71/ah1f/z+Ty3huLAAMaCsjAH585//xrlQgY2il9Ejc2zuVhvnUexLtqMz6tWo=;JNs+zC8vaif5ejnU2Mytsw=="
+secured: "RdL0ID+BvWjaizk/h5MzlWrV6S/xbiuRdiW8y0oANWVe4v8SNfEyGxgBBmPG7Emp7Ihr9xoGb80hGsX8lfXMCN9bAni9rEdgBS2JjJgkiEHdQVLl7oZz9JUUXjHxBrFVBezvtMCNR/G+O349T7g6sct/xCqvaXnMLO9S/FfUxfwIsDrolbrKIHIY9N+nSrm18hphKb7zq5nCUQOSncgLC92UT9SXpA48f9+/3ggXda+CaGI1AfmC5bOghWQlTbs1Tpj2/r0Ik3FLyzYKovvzP+YtXFc4UxcrOLOIeR3G/uTWS+qJnoaq6cwS16n9p/HNwc8sIyQCJDiaTCyLqR5utHhR1KSEXTQxOs/MjWjpgXw=;/OTLUy4w5Sar96mW+Pu7zQ=="
 ---
 

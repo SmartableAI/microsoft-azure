@@ -130,6 +130,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Announcing platform support migration of Azure Cloud Services (classic) to Azure Resource Manager"
+    excerpt: "Seamless, fully orchestrated, no downtime for most scenarios and minimal effort migration path for your existing Cloud Services (classic) deployments."
+    publishedDateTime: 2021-04-05T15:45:36Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/cloud-services-arm-migration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 63
   - title: "Public preview: Service Tags for User Defined Routing "
     excerpt: "Simplify route creation and management by using Service Tags to represent multiple IP ranges in a single route. Utilize over 60 tags representing ranges for Microsoft and Azure service. "
     publishedDateTime: 2021-03-26T19:00:15Z
