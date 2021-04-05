@@ -4,7 +4,7 @@ excerpt: "SC-200 part 8: Perform threat hunting in Azure Sentinel"
 type: collection
 price: Free
 length: PT1H56M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
