@@ -24,114 +24,133 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Cloud services were down for some users"
-    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
-    publishedDateTime: 2021-04-03T08:52:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
+    excerpt: "Microsoft's new retail cloud bundle is its second vertical cloud offering, following on the heels of the Microsoft Cloud for Healthcare."
+    publishedDateTime: 2021-01-13T10:03:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 81
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
-        width: 1123
-        height: 792
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
+        width: 1358
+        height: 827
         isCached: true
-  - title: "Microsoft named a Leader in Forrester Wave: Function-as-a-Service Platforms"
-    excerpt: "There are some use cases of serverless that need to be stateful—such as long-running workflows, human approved processes, and e-commerce shopping cart applications. Durable Functions, an extension to the Azure Functions runtime that brings stateful and orchestration capabilities to serverless functions."
-    publishedDateTime: 2021-03-30T09:00:14Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-forrester-wave-functionasaservice-platforms/"
+  - title: "Microsoft debuts its second 'vertical cloud': Microsoft Cloud for Retail"
+    excerpt: "Microsoft is making available in preview form its second vertical cloud offering: The Microsoft Cloud for Retail. The Cloud for Retail follows the Microsoft Cloud for Healthcare -- which bundled ..."
+    publishedDateTime: 2021-01-14T13:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-debuts-its-second-vertical-cloud-microsoft-cloud-for-retail/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2021/01/13/8c662a5d-0a0b-43ac-a49f-8bc047f78dd7/dynamics365commerceretailcloud.jpg"
+        width: 1358
+        height: 827
+        isCached: true
+  - title: "Review of Microsoft Cloud for Healthcare – 5 things to note"
+    excerpt: "Microsoft officially launched Microsoft Cloud for Healthcare in October 2020. This enterprise solution presents as an all-powerful Infinity Gauntlet, in which Microsoft has assembled its full ..."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/"
+    ampWebUrl: "https://www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    cdnAmpWebUrl: "https://www-techzim-co-zw.cdn.ampproject.org/c/s/www.techzim.co.zw/2021/01/review-of-microsoft-cloud-for-healthcare-5-things-to-note/amp/"
+    type: article
+    provider:
+      name: Techzim
+      domain: techzim.co.zw
+    quality: 42
+    images:
+      - url: "https://t3n9sm.c2.acecdn.net/wp-content/uploads/2021/01/Microsoft-Cloud-for-Healthcare.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Broad, Verily take Terra bioinformatics platform to Microsoft Azure cloud"
+    excerpt: "The Broad Institute, Verily Life Sciences, and Microsoft on Monday announced a strategic partnership to extend the Terra bioinformatics analysis platform to the Microsoft Azure cloud. The cloud-based Terra platform was codeveloped by the Broad and Google sibling Verily Life Sciences."
+    publishedDateTime: 2021-01-11T16:23:00Z
+    webUrl: "https://www.modernhealthcare.com/technology/broad-verily-take-terra-bioinformatics-platform-microsoft-azure-cloud"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/clouds-5395398_1280_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IGA completes migration of over 14,000 government emails to the Microsoft cloud"
+    excerpt: "The Information and eGovernment Authority announced that it has completed the process of transferring more than 14,000 government e-mails to Microsoft’s cloud. The move was achieved in partnership with Microsoft and in coordination with government agencies and institutions,"
+    publishedDateTime: 2021-01-13T14:15:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2021/01/13/iga-completes-migration-of-over-14000-government-emails-to-the-microsoft-cloud/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 72
+    quality: 35
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/963b247c-c1ef-4c66-af26-6e77621d8b30.png"
-        width: 259
-        height: 259
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/133/2021/01/Mr.-Mohamed-Ali-Al-Qaed-1.jpg"
+        width: 523
+        height: 404
         isCached: true
-  - title: "Digicel/Microsoft Azure supporting SMEs' increased adoption of cloud technology"
-    excerpt: "Digicel is delighted to partner with Microsoft to show our SMEs how Azure can improve and expand their operations.” In a highly engaging presentation, Microsoft Azure Channel Manager for the ..."
-    publishedDateTime: 2021-03-27T09:07:00Z
-    webUrl: "https://www.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
-    ampWebUrl: "http://amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
-    cdnAmpWebUrl: "https://amp-jamaicaobserver-com.cdn.ampproject.org/c/amp.jamaicaobserver.com/news/digicel-microsoft-azure-supporting-smes-increased-adoption-of-cloud-technology_217940?profile=1373"
+  - title: "CISA Alert Flags Post-Hack APT Threat in Microsoft Cloud Environment"
+    excerpt: "The Cybersecurity and Infrastructure Security Agency (CISA) late Friday issued a new alert – stemming from the Russian hack of SolarWinds Orion products – in which CISA warns it has uncovered evidence of post-hack advanced persistent threat (APT) activity in the cloud environment."
+    publishedDateTime: 2021-01-08T21:24:00Z
+    webUrl: "https://www.meritalk.com/articles/cisa-alert-flags-post-hack-apt-threat-in-microsoft-cloud-environment/"
     type: article
     provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 53
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 22
     images:
-      - url: "https://www.jamaicaobserver.com/apps/pbcsi.dll/storyimage/JO/20210327/ARTICLE/303289997/AR/0/AR-303289997.jpg"
-        width: 504
-        height: 332
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/curran.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
-    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
-    publishedDateTime: 2021-04-01T22:08:00Z
-    webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
-    ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+  - title: "Insight selected to deliver £35m Microsoft cloud deal to Cheshire councils"
+    excerpt: "Six-year deal will see VAR support Cheshire East and Cheshire West & Chester Councils as they adopt Azure cloud services"
+    publishedDateTime: 2021-01-07T14:29:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4025492/insight-selected-deliver-gbp35m-microsoft-cloud-deal-cheshire-councils"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 48
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 20
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://www.channelweb.co.uk/api/v1/wps/554dc96/bec68c6c-e361-4cd2-8ef8-9e07c90fe328/2/warrington-borough-council-s-new-set-up-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
-    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
-    publishedDateTime: 2021-04-02T13:40:00Z
-    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
+  - title: "Nextech AR Integrates Microsoft Azure Cloud Computing Platform"
+    excerpt: "Azure, Microsoft's cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech ..."
+    publishedDateTime: 2021-01-20T12:41:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8138508/nextech-ar-integrates-microsoft-azure-cloud-computing-platform"
     type: article
     provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
-    excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
-    publishedDateTime: 2021-04-02T01:12:00Z
-    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
+  - title: "CISA Alert: Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments"
+    excerpt: "Specifically, CISA has seen an APT actor using compromised applications in a victim’s Microsoft 365 (M365)/Azure environment. CISA has also seen this APT actor utilizing additional credentials and Application Programming Interface (API) access to cloud ..."
+    publishedDateTime: 2021-01-08T20:57:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/cisa-alert-detecting-post-compromise-threat-activity-in-microsoft-cloud-environments/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure. The Azure deployment is the latest step in Infobip’s technology collaboration with Microsoft ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
+      name: Homeland Security Today
+      domain: hstoday.us
     quality: 15
-  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
-    publishedDateTime: 2021-03-30T07:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2020/01/clouds-4345883_1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "y3WaMYprV6BC1xXBgIuQfU/sdl0cRSW3r6NH7If0BQ0hioNbCdq9HI9oGicCcdSU7NSi4c1AvpKz0612nuxxBzqek41tlmVkK0rnKnSMmAwVFdiddciX+7cNvwHNWXPRwNjGNnyUgamoSN82EW5VaYXQ8nTTNjpQBUdTi6LxkXiBCspNC6wrl+fi+cMMYP6yaxVUi9EcPsadZR62iQ7qNd0RvwIXZ5tQ8CSt3KFj+eXSW/+bqHp5CFqE4Dme1yVx8nrqt8j+vw6faxtqBqTNmxrDWbNAAyVEysB2tAqkaUk7HaF95ibUptjlL1iuvM2dZiSWGEeOQAYwbUCNBAWQG7rldqZJW9Ep0DhrsHHfB9qscrjlUEwtv7CHXlkXgc1tAxaBVT6IPadGbzPZDCP13Xe3UHvJ1zL2XA7CGKU6epzxkxTfNJiCiSWT69WiUBg34x5BDonq7HPWcbtpRUi612mV6kyjNm9LqV/by+fL8n8nOu+W+pA5jxZhfMKARroDmiejO8VkB6Y6MruwggYi0Q==;VB5nzY/6pwK18diG8AbdCQ=="
 ---

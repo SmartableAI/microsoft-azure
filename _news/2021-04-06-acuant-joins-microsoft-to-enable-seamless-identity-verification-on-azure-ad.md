@@ -1,51 +1,36 @@
 ---
 category: news
-title: "Microsoft Cloud services were down for some users"
-excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
-publishedDateTime: 2021-04-03T08:52:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
+excerpt: "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ..."
+publishedDateTime: 2021-04-06T15:09:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
 type: article
-quality: 82
-heat: -1
-published: false
+quality: 112
+heat: 352
+published: true
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: IT Pro
+  domain: itpro.co.uk
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
-    width: 1123
-    height: 792
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
-  - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
-    excerpt: "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ..."
-    publishedDateTime: 2021-04-06T15:09:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 112
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
     excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
     publishedDateTime: 2021-04-06T15:24:00Z
@@ -61,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
         height: 1119
+        isCached: true
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
         isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
@@ -199,6 +200,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "xTLL4+1rgxdFbEbGl0OZ+tPtVVwRaH6itjd/b28IG5AeUlnZcM2zXTopIJAmM69O9kJ9F2UetMDH2+dngASpO1YGdJjw7O3UNR/cBVkLvDdTX5TDXV+nVAYVG5CHEg4+jVW+4Y8RYowqGx2w86cRqUlh7+qF1KzaBwIAzEabLxyt2BSvA3E65rqgDyl2jqvUIh6wajpTSBXybs1xecJAnpiQ9dXWBqIYu5iauDllZB5br3h3BPGyAgXRfwvA/GCT4P3AisrQC3ZRRfaPeN0FFTGndljLhcNEAx3A1tG4/7IjCuqAeNQM//bW653HFKk8+nPcywiS1J9GmJ84lWV/GmYmg+rA4Y+nL2f7jPhUdQA=;dJBIJ4GDOMec3lD5IcMvew=="
+secured: "UBPshmb5EqdaTKK2jCMN4p518xgrFZtmewTN3PmH8Y13guFKG1YxnehpfoNXTl3hfJ0rEu7jk9K4EUVIZZCkFVfLUDeG1oZU03iazkeI0p/kXNzJJkjwVtIv24gXWWkCbpG2DYUgNDR1OZrBByeekcppXmsQd3eHdXzY4+N2YFzIQdJGqrp/eqAvpMiwUnTGWTRiknC4gQdJR951OBXQPf532SepUZ36xL+k9Pe2GfbhptpDypBl3pgEt4oHCnGlC0yN4EWCyyO+TDOqtvgKFC8gH2BGTVLWQDGJ+NBHzueX/G7fe1EUtPuV4/iTkwmdhk5ldeNVKckHuNiNuUJin8JojSmjthkh6LpUZ78a1H4=;Ux3gg1lhu9jB9GF5VJzhkg=="
 ---
 

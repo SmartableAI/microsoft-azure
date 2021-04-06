@@ -59,38 +59,6 @@ related:
         width: 1756
         height: 898
         isCached: true
-  - title: "Microsoft Azure outage affects XBox Live and more across United States"
-    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
-    publishedDateTime: 2021-04-01T22:36:00Z
-    webUrl: "https://www.wgrz.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 57
-    images:
-      - url: "https://media.wgrz.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Microsoft Azure outage affects XBox Live and more across US"
-    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
-    publishedDateTime: 2021-04-01T23:07:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 57
-    images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Microsoft Azure Checklist: Expert Advice on Security"
     excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
     publishedDateTime: 2021-03-28T09:03:00Z
@@ -139,20 +107,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-    publishedDateTime: 2021-03-31T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
     excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
     publishedDateTime: 2021-03-26T11:33:00Z
@@ -177,20 +131,6 @@ related:
       - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/03/infobip-logo.png"
         width: 900
         height: 500
-        isCached: true
-  - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
-    excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
-    publishedDateTime: 2021-03-31T16:08:00Z
-    webUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 33
-    images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20552888_G.jpg?lastEditedDate=1617192501000"
-        width: 840
-        height: 460
         isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Microsoft Cloud services were down for some users"
-excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
-publishedDateTime: 2021-04-03T08:52:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
+excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
+publishedDateTime: 2021-04-06T15:24:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
 type: article
-quality: 82
+quality: 96
 heat: -1
 published: false
 
@@ -24,9 +24,9 @@ topics:
   - Azure
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
-    width: 1123
-    height: 792
+  - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+    width: 1786
+    height: 1119
     isCached: true
 
 related:
@@ -46,21 +46,21 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
-    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
-    publishedDateTime: 2021-04-06T15:24:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 96
+    quality: 82
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-        width: 1786
-        height: 1119
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
         isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
@@ -199,6 +199,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "xTLL4+1rgxdFbEbGl0OZ+tPtVVwRaH6itjd/b28IG5AeUlnZcM2zXTopIJAmM69O9kJ9F2UetMDH2+dngASpO1YGdJjw7O3UNR/cBVkLvDdTX5TDXV+nVAYVG5CHEg4+jVW+4Y8RYowqGx2w86cRqUlh7+qF1KzaBwIAzEabLxyt2BSvA3E65rqgDyl2jqvUIh6wajpTSBXybs1xecJAnpiQ9dXWBqIYu5iauDllZB5br3h3BPGyAgXRfwvA/GCT4P3AisrQC3ZRRfaPeN0FFTGndljLhcNEAx3A1tG4/7IjCuqAeNQM//bW653HFKk8+nPcywiS1J9GmJ84lWV/GmYmg+rA4Y+nL2f7jPhUdQA=;dJBIJ4GDOMec3lD5IcMvew=="
+secured: "X5fEs0Q0Umt3Nvx0xcKbF8CM9hG5TYc10tzF1nJFoF8e58mHw6YCT3fUbWyg5qmdiDeZ0j2u/zwaPrCWy6Jz1rhIGr0hIZhpot6uGJRPXXVfL52gzRI6vJXO5nvkZ2D/tRNPcGUJbfH+g/gdiFimBE8aeRP8QM+Gp0Z/pFYDoPusrOzzQQvGBU63qpbBbOP0/nZZ0X9uFRuQtbEiy83l0QaMnvbM0aaygyBYmbjCMof5LtEEmKIG2TYgei45GOmToHIL1IVRhPb2A3dt/p6YkxUL8CkIi0QT8XbbF1DxYtwAvRWTtK288CthQDCoP1jeX1xe7xSwDeiMXw/v0uoUlx4n7YlTxrlaxAhy5tJxfK0=;hIddRxdGlMR5o5j8K6RtJw=="
 ---
 

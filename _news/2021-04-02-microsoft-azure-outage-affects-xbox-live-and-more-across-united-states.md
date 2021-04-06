@@ -26,51 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
-    excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
-    publishedDateTime: 2021-03-25T12:02:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+  - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
+    excerpt: "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ..."
+    publishedDateTime: 2021-04-06T15:09:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 110
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 112
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
-        width: 1200
-        height: 1169
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Master Azure: This complete Microsoft Azure course bundle is just $30 right now, over 95% off"
-    excerpt: "As one of the leading cloud computing infrastructures in the world, Microsoft Azure offers a unique blend of power and simplicity when it comes to distributing apps and services -- making it an ideal choice for businesses,"
-    publishedDateTime: 2020-07-31T21:03:00Z
-    webUrl: "https://www.zdnet.com/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/master-azure-this-complete-microsoft-azure-course-bundle-is-just-30-right-now-over-95-off/"
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 96
     images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/07/31/06cb64b9-7582-4e6c-a3c7-29179249a735/2020-07-31-at-5-02-01-pm.jpg"
-        width: 1756
-        height: 898
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
         isCached: true
-  - title: "Understanding Microsoft Azure: A business guide"
-    excerpt: "Second only to AWS among cloud providers, Microsoft Azure is an ever-expanding set of cloud-based computing services available to businesses, developers, government agencies, and anyone who wants to build an app or run an enterprise without having to ..."
-    publishedDateTime: 2020-08-25T21:20:00Z
-    webUrl: "https://www.zdnet.com/video/understanding-microsoft-azure-a-business-guide/"
+  - title: "Microsoft Cloud services were down for some users"
+    excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
+    publishedDateTime: 2021-04-03T08:52:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-services-are-down-for-some-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-cloud-services-are-down-for-some-users/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 77
+    quality: 82
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/08/25/1284a515-4b68-4854-acfa-0aff9b6e5fba/thumbnail/770x578/e53b9d5324eaa85d3f0bd85f0611d6c6/what-is-microsoft-azure-the-business-gui-5f3db47671c30002b05ceecf-1-aug-25-2020-17-10-49-poster.jpg"
-        width: 770
-        height: 578
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
+        width: 1123
+        height: 792
+        isCached: true
+  - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
+    excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
+    publishedDateTime: 2021-03-30T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/concentra-bank-selects-intellect-to-power-its-digital-first-specialized-banking-on-microsoft-azure-1030258690"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1459569/Concentra_Bank_Concentra_Bank_selects_Intellect_to_power_its_dig.jpg"
+        width: 400
+        height: 283
         isCached: true
   - title: "Microsoft Azure outage affects XBox Live and more across US"
     excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
@@ -88,53 +104,35 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Microsoft Azure Checklist: Expert Advice on Security"
-    excerpt: "Key takeaways from our recent webinar on Microsoft Azure cloud security  As we discussed in a recent webinar on Microsoft Azure security The post Microsoft Azure Checklist: Expert Advice on Security appeared first on Sonrai Security."
-    publishedDateTime: 2021-03-28T09:03:00Z
-    webUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/"
-    ampWebUrl: "https://securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2021/03/microsoft-azure-checklist-expert-advice-on-security/amp/"
+  - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
+    excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
+    publishedDateTime: 2021-04-01T22:08:00Z
+    webUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/"
+    ampWebUrl: "https://www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/2624800/microsoft-azure-widespread-outages-cloud-service/amp/"
     type: article
     provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 54
-  - title: "Microsoft Power Fx: The open-source low-code programming language is in public preview"
-    excerpt: "Reduce development costs and time using the new public preview features in Microsoft Power Fx."
-    publishedDateTime: 2021-04-01T16:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/microsoft-power-fx-the-opensource-lowcode-programming-language-is-in-public-preview-2/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
-  - title: "Microsoft – The 16 Best Microsoft Azure Courses on Pluralsight"
-    excerpt: "Solutions Review compiled the top Microsoft Azure courses on Pluralsight for cloud and Azure engineers of all skill levels. With this in mind, the editors at Solutions Review have compiled this list of top-rated Pluralsight Microsoft Azure courses to ..."
-    publishedDateTime: 2021-03-26T17:18:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-the-16-best-microsoft-azure-courses-on-pluralsight/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 37
+      name: The Sun
+      domain: the-sun.com
+    quality: 48
     images:
-      - url: "https://solutionsreview.com/cloud-platforms/best-microsoft-azure-courses-on-pluralsight/oie_xzmaixnjoqvx-4/"
-        width: 800
-        height: 400
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/04/lv-microsoft-breaking.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
-    publishedDateTime: 2021-03-29T02:51:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+  - title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
+    excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
+    publishedDateTime: 2021-04-06T12:04:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268488134/ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 47
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
-        width: 752
-        height: 408
+      - url: "https://cdn.bignewsnetwork.com/cus1617377704699.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
@@ -150,30 +148,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-    excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
-    publishedDateTime: 2021-03-26T11:33:00Z
-    webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-    ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
+    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
+    publishedDateTime: 2021-04-02T13:40:00Z
+    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
-  - title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
-    excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
-    publishedDateTime: 2021-03-29T09:43:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/03/29/infobip-customer-engagement-and-service-solutions-available-on-microsoft-azure/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 33
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
     images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/03/infobip-logo.png"
-        width: 900
-        height: 500
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
@@ -189,34 +176,24 @@ related:
         width: 840
         height: 460
         isCached: true
-  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-    excerpt: "Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies like IBM, HP & Microsoft. Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut."
-    publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+  - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
+    excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
+    publishedDateTime: 2021-04-06T11:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
-    publishedDateTime: 2021-03-26T11:47:00Z
-    webUrl: "https://www.lelezard.com/en/news-19718217.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+    quality: 14
 
 secured: "s5OAZfynVoPs7APQyacv8Wdf3XiA/7Fuj13Vfm2PKYvh6aMy9SD3JCTgBhYQ1ZOfZjlSZ3aMbiN4F/k2l90TigY62JbYwdJ3T0tW+u9TWEWeWHQ+hisquisnRMbLeWnwtEW2J90lEBBMYw+KyJRQkZGnKE3GqzQm3Zgzc8+/WGVkvVvT+uo2I+viGhSMoMhWU/zcUswH39M584ouRKzLSJTLM6TNDKHVUudupXuXB1Jo8F32KndGTktAi8kBaY1g36dVefhbiy/V1wSUtN1L7tmiuWkC6KxxTQof/rdxglr2W6hNdXY4Z7W74/j0IChj3nnmpqBpfacYFlyQRyEm5gNCTrCdu8yxBruRoKo8IaEf2xz0DtSpNNngKpWdD7fxc7UDSgD3Q7vPH7zcN0YZFwTQNKRuZDgJYR2MUwNxM3ou4qaYNOJ+lCEfac8LBG5xLTUs5PQl1FTYa/G4eT84JOlWKsChv1yteezgHsOoS6q+dM9ieVqK1HxbUfLPRI9xOFrQRAFh/03FCr9zdFu1hA==;CL5BU3iOmxe+oZcbjUYnew=="
 ---
