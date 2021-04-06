@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iplbga/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iplbga/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

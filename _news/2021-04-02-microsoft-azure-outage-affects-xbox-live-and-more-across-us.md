@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft Azure outage affects XBox Live and more across US"
-excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
-publishedDateTime: 2021-04-01T23:07:00Z
-originalUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-webUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector.com reported problems ..."
+publishedDateTime: 2021-04-01T22:36:00Z
+originalUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: FOX43
-  domain: fox43.com
+  name: WVEC
+  domain: 13newsnow.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+  - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -218,6 +218,6 @@ related:
         height: 480
         isCached: true
 
-secured: "vFoE9Ae9jZE2PHGk5fBaZKsg9zbVHSORIwN1TbRE0pFPQ+/xRsGO69lXxwOa9pFp4aWvJWimE0y4zcbvlnW7qySwmonJkE/h4XLqV6XWyXZl5ziVUueqzx4ys930APVXTTIS0O2hU9TQ67ho3oS2sI8EKWkMUfB5kCLnpQjfpfIPK6ZOVNivURc4sS6VScANvnHvzSbaaxl2jHdHX9ev4XYSpejG8ZpcRUcxIRVMyYn9EsS70Rq0vYrD8kJBnROJfiTDnh9dlSO2QD4OYZsKatKj1wvyEm/bPFnxd8/V43DNEQmoXkOOBENp9+qIoyqMIcrDZzGnCruU+oszmbKJgPpFd8HSCgOOcYhr48cE4eM=;wUHUp62kv6bAl4SoLMGsqg=="
+secured: "BaiASYwwRXsnUKAvm8LBMRbIn8ipXvx+861VgiZaM+EPbfjY5U3kSwhKvyODMSyZZ7EXs02iztik8bW7Yh0BmK8DefTe2HftG0aqP1yT29gbu0Ua2csSbEBLQ0Ieqew2q+K3Ff/gJhfhzo4IIhi7r0NMYuCRguUBF6gtLuJz8bOMXyQvvv/CswfEptByUoVjQESHLGamXN0s5qbEoinyWObqybRkPjjyNa6CEdbYfaagL1D4ndd8ToabGLqhOe8NE9bhr8Z410pgBmKsaJQzPhkd3oIvXFR/T7fALeK6v0H1UNOe2a3a/JrFowQ/N45l51epw3cDaOe9kSd4ErrtUOemmeyGZKTJH+fG0try4EM=;5k80kJuhnTDkOlsEYjVfxA=="
 ---
 
