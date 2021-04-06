@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT20M
 ratings:
-  count: 4169
-  average: 4.773087
+  count: 4178
+  average: 4.773576
 heat: 75
 
 provider:
