@@ -8,7 +8,7 @@ length: PT27M
 ratings:
   count: 36
   average: 4.75
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "5ABSWFa6a24GefEv9YGSDRMDBWxhlVfyILQzPRsFFsEXlq/DIwjgQxU733FDbAIgi+ik7lAqi/y9nHVpD9bTYbPHkgXQ12KMp6yXtPhGOTg7HzNTAsqYki0MhTwrY5ndX47IJyM3OibhAogwRLHROVKlSa57DEbmZZk7uVfEEjmnIsHadYWO+Qt850TxNHUMZ0nvqC9iK2JnKXkrWbaTmZU0zK6Tqb8Q7Sn4B8WHBj353uMUiyZ+7kqvfiydBg2GLvZgQfTM5lPes1Ce/D0xvK4uQxzXKZfgWbWCHAxPCcdc39TLegVV2GbWofHx/j7oPWaHqBPU2Zh3T1HIQztdzMeafKPQyHrBiq2OUksIW92Yga624pfMkQRk8r01Fcm+/8RvXXM0M+uZSqA8OHhiCkN7imQQf1p6szW0SIs8J0c=;cFLV/KEchQJ4vLf3cUq5KA=="
+secured: "0R9PcmhQgDXcL7nieMY57/3dYNCCdWwlyg8narPxBSdN5xdCaMhjlS9zls9ysph2i8pXy0SzfZAFRl5jJArReiSwDmw3HaG+P+E4xzkc1nYlHrvDL01MQMQXZj4OvUl4UZUn+t7Tu1Nm1pj/Jartei03XWpTq+PbMnjuzs+fEgvzqTtzQaFRhZgqIP5T4qTigSp+PImebTn3jjMCo3R5hUf2cAflYFupVlC8DihDvSZv36FGo/cWu3pB9wN9qj4YisXZlM4jz9KhgidEbF3omRVZ8p4Fcz2Ql6Dv9XAdWcMvUvto6r/4jSqPfbsYhedNY5QBFTxUVygOxd8dccrGFzBrZ0umjvAfmunYwGPJPLsXFi78Uef3XU1BXWe7bfxchZ/IgMKM5rFV2StbHP582UoytrUiMduNFaeYhjqGIEc=;k2rs19DGE6QhZ3WM1sF/EA=="
 ---
 
