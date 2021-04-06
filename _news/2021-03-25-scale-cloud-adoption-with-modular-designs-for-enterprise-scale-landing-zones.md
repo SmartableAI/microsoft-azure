@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 464
         isCached: true
+  - title: "Leverage enterprise-scale reference implementations for your cloud adoption"
+    excerpt: "Tailwind Traders takes advantage of prescriptive guidance coupled with best practices for your Azure control plane by using the enterprise-scale architecture."
+    publishedDateTime: 2021-04-06T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/leverage-enterprisescale-reference-implementations-for-your-cloud-adoption/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1289ec56-767b-4276-ad35-db2681317878.png"
+        width: 823
+        height: 768
+        isCached: true
 
 secured: "6yhNs5Xpqom80nIWu949SzyO2txpjaxyxhMPwEzjRNGeh+UHUpE7spls6eYFzkJlz34wECqY151wwGxqayay8suBhw4Q1CbqjzDbis2ajyMkWt8oWYiQzaEoD9WKaXpuUzU5WyxA5y1s+8UnEH1bx+RUw0qb2sWwK1xGUrFx/6ukLSaFCQaVfJGt17lSGLoxjT9hGhCmH/IzgcM3Ddasmoi0tr8zxPmUZbqRK3M55gn2xa20j8hAB6gIjYmCtwRAO4Bzw+im93ymZOB36lezPQZyU9qGcqVCIw7VhU62zmEcMZaIpBVpZe+bPj6YFTdpaCNS9x62UOInnQuB8Ny8cYqGEDakMxjQf5DAbaGJRQM=;LtFeufNvLLn/YDiSOY9z6w=="
 ---

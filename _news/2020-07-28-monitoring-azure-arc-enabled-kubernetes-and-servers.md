@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kube
 webUrl: "https://azure.microsoft.com/blog/monitoring-azure-arc-enabled-kubernetes-and-servers/"
 type: article
 quality: 106
-heat: 346
+heat: 366
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Public preview: Azure Monitor container insights support for Azure Arc enabled Kubernetes extension model"
+    excerpt: "Azure Monitor for Containers is updating to use the Arc Extension Model for Kubernetes clusters hosted on Azure Arc. This support is currently in public preview."
+    publishedDateTime: 2021-04-06T16:30:15Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarcextension/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/40ddbde0-1346-409b-9e21-0e5b97b80679.png"
+        width: 1913
+        height: 927
+        isCached: true
   - title: "Build resilient applications with Kubernetes on Azure"
     excerpt: "Today, we're excited to tell you about even more capabilities that can help you along on your cloud native journey to Kubernetes on Azure."
     publishedDateTime: 2020-08-17T02:00:30Z

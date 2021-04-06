@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Enabling IBM WebSphere on Azure Kubernetes Service"
-excerpt: "Customers can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
-publishedDateTime: 2021-03-31T16:01:57Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
-webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
+title: "Public preview: Azure Monitor container insights support for Azure Arc enabled Kubernetes extension model"
+excerpt: "Azure Monitor for Containers is updating to use the Arc Extension Model for Kubernetes clusters hosted on Azure Arc. This support is currently in public preview."
+publishedDateTime: 2021-04-06T16:30:15Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azcoinarcextension/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarcextension/"
 type: article
-quality: 84
+quality: 104
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Azure
   - Containers
+  - DevOps
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/40ddbde0-1346-409b-9e21-0e5b97b80679.png"
+    width: 1913
+    height: 927
+    isCached: true
 
 related:
   - title: "Monitoring Azure Arc enabled Kubernetes and servers"
@@ -36,20 +43,6 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c4c6ac0f-ea43-458e-a4e7-cb971720a491.jpg"
         width: 1024
         height: 714
-        isCached: true
-  - title: "Public preview: Azure Monitor container insights support for Azure Arc enabled Kubernetes extension model"
-    excerpt: "Azure Monitor for Containers is updating to use the Arc Extension Model for Kubernetes clusters hosted on Azure Arc. This support is currently in public preview."
-    publishedDateTime: 2021-04-06T16:30:15Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azcoinarcextension/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/40ddbde0-1346-409b-9e21-0e5b97b80679.png"
-        width: 1913
-        height: 927
         isCached: true
   - title: "Build resilient applications with Kubernetes on Azure"
     excerpt: "Today, we're excited to tell you about even more capabilities that can help you along on your cloud native journey to Kubernetes on Azure."
@@ -91,6 +84,15 @@ related:
     excerpt: "Now you can on-board all your Kubernetes clusters in production and manage them centrally from Azure with the help of Azure Arc which is generally available today."
     publishedDateTime: 2021-03-02T17:00:10Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-arc-enabled-kubernetes-is-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
+  - title: "Enabling IBM WebSphere on Azure Kubernetes Service"
+    excerpt: "Customers can now leverage guidance jointly developed with IBM to run WebSphere Liberty and Open Liberty on Azure Kubernetes Service (AKS)."
+    publishedDateTime: 2021-03-31T16:01:57Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/enabling-ibm-websphere-on-azure-kubernetes-service-3/"
     type: article
     provider:
       name: Microsoft
@@ -166,6 +168,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "9ot+3h8kqWljoiV2k0ZCrfaydx085Mcsnd0kBkbD+jQ8YLWydN/Mb11V1tM6kXQmnadOT36gSx140qkkm3P8DOvdVzB7mQgAV3BQeI60kLTMQc0widswK61+M+g3/LgIh42mgWAuPxSQ9WNLHG42uuHjaDzgL52SOYF8hsc+owF9Kw+F5XLgI4WN5C0t4VT2NqeqdEntU0glQMt0eFGe+ckP5hiiTJ2+o8a4opiQiFJ9w2gJznyL6Wmk46YWryzw5qDwZYbvHRyh26ZagaG6MpCO+rDK43xH0dJ81SFQ/w3w/XRmtTrcdwtga/j88KuKGopCeKgAJ0oKMmt4KEMRvc/Zlroo8ostm8grDERjPtc=;86EMdgJW7qeqQwOy6U2i7Q=="
+secured: "DzjdoDpgT3R0UBZv51cCHP00Zpfuzb2SZOriUbFy9OVHdw4o8GvE7OmS9RvDWC8ZY6/mgTbko3OX/2aSSTETTxTMOkaOmj7CPx0W/2ZbVm8Fl9S7AAlwZ7lWDzy+GkMuag0Z1bHZudH4hEGKna9bVGkp8zZ8c1Rwdd3ADdzHi2tptlHnbGv+HPHYlUK6CKjwmMy3q9tHQLbrlVM1KYri63lwTA/V3N6mZ+kVq4rBjcj6wcwDKUXbgzJeGjVMJe5d4WGBPfVXB9q2ZE+X4QShxTgIIDL6sxcKI8/vdGN+EkMqjlpipZUfaM+E6oe8JyEThK09ObNOQb1OpDfRZ4fLBlODw5Ev+hc2k81/tfAqG1M=;sIppwEGEji/W6Iq1d5GDKA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/deploy-key-design-principles-with
 webUrl: "https://azure.microsoft.com/blog/deploy-key-design-principles-with-enterprise-scale-architecture/"
 type: article
 quality: 72
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Leverage enterprise-scale reference implementations for your cloud adoption"
+    excerpt: "Tailwind Traders takes advantage of prescriptive guidance coupled with best practices for your Azure control plane by using the enterprise-scale architecture."
+    publishedDateTime: 2021-04-06T10:00:06Z
+    webUrl: "https://azure.microsoft.com/blog/leverage-enterprisescale-reference-implementations-for-your-cloud-adoption/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 70
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1289ec56-767b-4276-ad35-db2681317878.png"
+        width: 823
+        height: 768
+        isCached: true
   - title: "Scale cloud adoption with modular designs for enterprise-scale landing zones"
     excerpt: "Tailwind Traders requires an initial implementation of landing zones with fully integrated governance, security, and operations from the start. The enterprise-scale architecture provides prescriptive guidance coupled with Azure best practices, developed largely by Microsoft architects and the broader"
     publishedDateTime: 2021-03-25T12:00:34Z
