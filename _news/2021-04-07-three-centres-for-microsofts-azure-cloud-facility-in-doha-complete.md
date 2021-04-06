@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
-publishedDateTime: 2021-03-30T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
+excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
+publishedDateTime: 2021-04-06T20:16:00Z
+originalUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
+webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
 type: article
-quality: 14
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - Azure
-  - IoT
-  - Security
+
+images:
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+    width: 620
+    height: 355
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -172,20 +176,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
-    excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
-    publishedDateTime: 2021-04-06T20:16:00Z
-    webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
     publishedDateTime: 2021-03-31T16:08:00Z
@@ -209,7 +199,16 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 19
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
 
-secured: "FACpcren0Zfc4wB5Xmd8blgFVkDxjbPYsh0Xu3JlNFMf+roQaWDmN1VIvuhjkD6zATSENAM0It2DQgES84b94jXoe4Rxb8y95g6HlrdRdG7i0VkJ167innt0FQMHMjekZI9GhIMFaWUAmI8+tnfU3up/BFO3Apx9qJhjIS0BdDbkXrcEgxRNUqYZpLobi95A7NVRxxI/AtSYYfEGY+CUa3a6ffsqilPphJ8GyE+IWu2pABFaQXo1FQZI70O4YKAoP9Wpd1L1ow5HxEdPSuCbnAjoembe1OUdBe1wl+xcqiVeMbmbvN+JBvOXTYUagt5lGH8OP30EZKkVDEEPNykXjyu4PHf3ghkxeNwmaHlhTFyyKGUkBVyH33LkJ7F4XhZYfVpLeOiovl7l17GDqNu/nXEIRkc/03fFJX94G+z4xLliYa8oaMjnzqCujDXjckXk8svelcaiUvL990pNEBnKuiv0rOrffapdJaP276QjZDfpaU1jnOdfEq4NSkH8+x9EZm5kngM7wGoeSlqp092lMQ==;sbHr/1gGrJnnB8hsKeS20Q=="
+secured: "R5E70c+UWM2vaNM19n8FizcNgx84MRWUkBVTD3tSYaEoXLuH3m3Bcc20umyJM7lieUfu8G4n4PsYsMiELSxLwr8XeU3jKV6YHFOhM1xYAJqngmI/bq/PbPrvjOm6ZoU9SoDBaNW2t16auxgfF5aBOiAm5ZhPX+FXfYQcTGMSmq3ctmR2f89mXC0oe30a6d8LbB7TmvQLINx+tZwMnRwwjsIZ6zsD5E6uDpsRHfRjCN9KLjScpA+1LD9Ls8lSt9LigKU0HTGRqq/VrRlYstxwLmKOMg6RLUvyTdfPbYE9MOYVldayeWxitlAft4cdQ7IBI0ThzVexUSLIhqQuthdYmqTdiXDEvajBLeT7xwAL2Is=;Iv1vGaTrXWGLBTXew6ymHw=="
 ---
 

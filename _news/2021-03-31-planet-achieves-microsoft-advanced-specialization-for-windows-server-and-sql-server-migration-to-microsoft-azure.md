@@ -177,6 +177,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
+    excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
+    publishedDateTime: 2021-04-06T20:16:00Z
+    webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
     publishedDateTime: 2021-04-06T11:10:00Z

@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
-excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
-publishedDateTime: 2021-03-16T00:53:00Z
-originalUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
-webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+title: "Microsoft's Azure Cloud facility in Doha complete"
+excerpt: "we concluded a strategic partnership with Microsoft to establish a regional centre in Qatar for Microsoft Azure Cloud,” he said. Having such data centres in Qatar, HE al-Sulaiti added, encourages local companies to benefit from such an investment and ..."
+publishedDateTime: 2021-04-06T20:16:00Z
+originalUrl: "https://www.gulf-times.com/story/688299/Microsoft-s-Azure-Cloud-facility-in-Doha-complete"
+webUrl: "https://www.gulf-times.com/story/688299/Microsoft-s-Azure-Cloud-facility-in-Doha-complete"
 type: article
-quality: 50
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: ITWire
-  domain: itwire.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - Azure
-  - IoT
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
-    width: 375
-    height: 211
+  - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+    width: 620
+    height: 355
     isCached: true
 
 related:
@@ -684,6 +683,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cognian delivers secure IoT for buildings globally using Microsoft Azure Sphere"
+    excerpt: "Australian property technology company Cognian Technologies has announced a new global integration of its Syncromesh wireless canopy technology with Microsoft Azure Sphere to deliver secure IoT solutions for smart buildings."
+    publishedDateTime: 2021-03-16T00:53:00Z
+    webUrl: "https://www.itwire.com/internet-of-things/cognian-delivers-secure-iot-for-buildings-globally-using-microsoft-azure-sphere.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/0710e6fa19a12e06655da9fea0879e79_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
     publishedDateTime: 2021-03-10T15:09:00Z
@@ -1313,20 +1326,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Microsoft's Azure Cloud facility in Doha complete"
-    excerpt: "we concluded a strategic partnership with Microsoft to establish a regional centre in Qatar for Microsoft Azure Cloud,” he said. Having such data centres in Qatar, HE al-Sulaiti added, encourages local companies to benefit from such an investment and ..."
-    publishedDateTime: 2021-04-06T20:16:00Z
-    webUrl: "https://www.gulf-times.com/story/688299/Microsoft-s-Azure-Cloud-facility-in-Doha-complete"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1889,6 +1888,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "I21jPPJdpeN730crCCReYeMemOfpF9mzbvTjoP4qhPWCdq6I17lFV+RSQtuRRxFjJgha+2v5vPfwCAcuMbvjFC/876sFWFZa4pUYdQjZ+2CY8/a3FHlbxKKBCRFys8cjTu5h1Mf9VDJFbjlV5g1qvOme7HgqFiMKCLBM2sLzmeW5w2rtWgVoeNkgcbe2ZoMeWid0TEE+LoZZGV/Djcft3gQE5WYQHUZFzETyuLH+EIT2W2UmZ7AiXOZkbx+0eCHjDGw8Oh35DHSPRO96VN09u5XA3CfHam/r+loAbHRrJwWbUvodM20PFWWIv88Ju2xCpsrWG+q87ta8xsV25uXk7mcNBc/suYIS06wNbvCzOJk=;dAgNCki3yKaE5Sh2hRn6iQ=="
+secured: "ob72ZUlFMnImY9zlvp6wDZ/ufCyo01ZwVKZzR393tpFOAzomgfDMEbkZgfcCRQoUTYfobX1F2nAV5TSl6rvrgyhgSmbWp2OkHrrUrhJukCRYVWC6eXGd1qft0yjweMwX2xe0DUG78hfkYrvrWiI7yOg6qfOvSMlqYJ0tYKGkaLyxMxoEuMXmISmJ9edRaZhfOmMaETTi/Dk6AmHSbeAhtQq+NEWfODtnBfD2YQnKnn3eFKP0+wy8xs8axZySOyWJjIDbxmvi3ubCOflmLcA7Q+p3jimGpAzrgJz+paYeqxT1hScwkguRXBl2382NmTGFgxz5rRspKgz7wgVIbk8JvVKXL91JjJhnPLFFTo6UuG4=;9wyol/GMStQTAdNp1bJ2pA=="
 ---
 

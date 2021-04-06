@@ -162,6 +162,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
+    excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
+    publishedDateTime: 2021-04-06T20:16:00Z
+    webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
     publishedDateTime: 2021-03-31T16:08:00Z
@@ -195,6 +209,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "SQD1y6kxNeU8qPtZGEOav+gcyAewYlzk+jGsj6/T9Zvu/QU9xCVYE68qcHBoa89uVKXwKCp/6Bj546olAN5VyjXI2GDrjtVJPOdfEH8RRupBPJFkE+WZiWC9FrGJ2POB29HgG0thIdPasaFnxlclxAx/d5DKE7gBO8xvWhWC4Hkt+ARS8YMWuWwJewFysayjgcu+59hvx6fq5yRYT1RBGC8IhVRl6R89+HCukj5cefObAl+hhLghaSoo9f8VRkHu1xN+OKZRCeqmw/SVA+4005VMiV8yed11nmEAYxd6E/vzcbJ+SNl4EpRXZzzwKYA11covbw3aez6IZL0XWTKknTCdpiDlcSiKDJa0nAVQL+8=;9avZaCP6OTlxK7Xnalsu9A=="
+secured: "7qO3hh7w0RRZwSbZVjiiouk6UlvQUGIAs53E5fIapxQSCWEE+CkZkajZ635R4fJ6J5rMJlGUQ+Srcd1noW7ZGflv2TQbrgnmHKSUhjJVoWq5aCMAdN/Xp1wkDi71ylDIZXd7bIvAs87VLiALIer2icHuf9OJLdvt+Vb71oTyuRQOMGbRfUOEmpCQ9r4M2GoNfRgws6+4d408C6goeIO9NCUvtPt7H/K1nW4vC7kZA7xcF307JSnM8NCVs/ljkmlbTQ5fjEF0rG01HdM3RmG5tQxSIqaRbu1UdzqBi+uZJNbFoAJ2cLuPn+YlwSGZZMItaCYeZxZQapwrJj9qbPLdVrVu0giuhsSCsdJggGq5srs=;WT3U3DhvVJYG4Zi/Y2s4bw=="
 ---
 

@@ -1321,6 +1321,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Microsoft's Azure Cloud facility in Doha complete"
+    excerpt: "we concluded a strategic partnership with Microsoft to establish a regional centre in Qatar for Microsoft Azure Cloud,” he said. Having such data centres in Qatar, HE al-Sulaiti added, encourages local companies to benefit from such an investment and ..."
+    publishedDateTime: 2021-04-06T20:16:00Z
+    webUrl: "https://www.gulf-times.com/story/688299/Microsoft-s-Azure-Cloud-facility-in-Doha-complete"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
