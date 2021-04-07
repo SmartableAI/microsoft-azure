@@ -1,0 +1,44 @@
+---
+category: news
+title: "Microsoft: Here's what caused our Azure cloud-computing outage"
+excerpt: "Microsoft has revealed the root cause of the recent outage affecting Azure, which lasted about an hour and was due to a surge in Domain Name System (DNS) requests coupled with a code defect. Users were reporting that Azure Portal, Azure Services ..."
+publishedDateTime: 2021-04-06T15:40:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
+webUrl: "https://www.zdnet.com/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
+type: article
+quality: 77
+heat: 97
+published: true
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Azure
+
+related:
+  - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
+    publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "wMV1D0r44zbc1vCnd6AdGmrB0wcpOuSH02wB1fv2MkDaw0cnCz+nNWeZEv3gmhisyug9eMC5kXAk915YhLDGBLutpatVuMKvrQ/09sN52pNMwGwuJeW1GKa49bsQ9G1ovW96jBa2Kp0vrqt0P3rZbOtWMWFbxVB4pzWpc2GZLw1nvvvIwqp40HtoR4WNoOS+nQdUrW0sMitN+ZakhAnYvEtNOz2rL/gUIRLfCs4G+mwSRbQis+JEZQnT84itvFKCO7VH1h4kEDvpfVkDGqvkJeQ3WMZ9d3+HHszyb9u9qp36sJv5sgFAvOMYGUA4vIkJcnE1QhN4Dxymad1tu90GdoWweZnN7IQxzcj4+z7M8r8k9KcxPP659Y6Ocx2bP1WZZSPiEqxW5UUlKVaOyw6KE6ogX7gTmFaPaJIzell3zP7xInNNqlGnlhcBnWGTFMwkSSfe4NHZE5Q/v0PPh7tBDaKFR18j0BPRsMNBF2Svp0z9qwZX3FCKD5kRz5pgc2D576u6WtYYo4ie8GtflDEPNA==;QaJ67UJi8mrpFFUFhqq72w=="
+---
+
