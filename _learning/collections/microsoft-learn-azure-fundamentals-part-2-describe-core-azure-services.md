@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
   - courses/microsoft-learn-azure-database-fundamentals
   - courses/microsoft-learn-azure-compute-fundamentals
   - courses/microsoft-learn-azure-storage-fundamentals
@@ -36,7 +35,7 @@ topics:
   - Networking
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png
+  - url: https://docs.microsoft.com/learn/achievements/azure-database-fundamentals-social.png
     width: 640
     height: 320
     isCached: true

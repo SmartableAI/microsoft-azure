@@ -4,7 +4,7 @@ excerpt: "Learn how to choose the best services from Azure to build and manage c
 type: collection
 price: Free
 length: PT2H54M
-heat: 127
+heat: 111
 
 provider:
   name: Microsoft Learn
@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
   - courses/microsoft-learn-ai-machine-learning-fundamentals
   - courses/microsoft-learn-azure-devops-devtest-labs
   - courses/microsoft-learn-monitoring-fundamentals
@@ -38,7 +37,7 @@ topics:
   - Integration
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png
+  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true

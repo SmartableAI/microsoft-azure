@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
   - courses/microsoft-learn-plan-manage-azure-costs
   - courses/microsoft-learn-choose-azure-services-sla-lifecycle
 
@@ -26,7 +25,7 @@ topics:
   - Azure
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png
+  - url: https://docs.microsoft.com/learn/achievements/review-planning-managing-costs-social.png
     width: 640
     height: 320
     isCached: true

@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
   - courses/microsoft-learn-protect-against-security-threats-azure
   - courses/microsoft-learn-secure-network-connectivity-azure
 
@@ -27,7 +26,7 @@ topics:
   - Security
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png
+  - url: https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png
     width: 640
     height: 320
     isCached: true

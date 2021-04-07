@@ -4,7 +4,7 @@ excerpt: "Learn how Azure can help you secure access to cloud resources, what it
 type: collection
 price: Free
 length: PT2H8M
-heat: 117
+heat: 85
 
 provider:
   name: Microsoft Learn
@@ -18,7 +18,6 @@ levels:
   - Beginner
 
 items:
-  - courses/microsoft-learn-intro-to-azure-fundamentals
   - courses/microsoft-learn-secure-access-azure-identity-services
   - courses/microsoft-learn-build-cloud-governance-strategy-azure
   - courses/microsoft-learn-examine-privacy-compliance-data-protection-standards
@@ -29,7 +28,7 @@ topics:
   - Management Tools
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png
+  - url: https://docs.microsoft.com/learn/achievements/examine-core-identity-services-social.png
     width: 640
     height: 320
     isCached: true

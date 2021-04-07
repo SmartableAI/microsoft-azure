@@ -27,48 +27,6 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-intro-to-azure-fundamentals.md",
-          "title": "Introduction to Azure fundamentals",
-          "excerpt": "This module introduces you to the basics of Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-azure-fundamentals/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 45818,
-            "average": 4.784255
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 201,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
           "path": "_learning/courses/microsoft-learn-ai-machine-learning-fundamentals.md",
           "title": "Choose the best AI service for your needs",
           "excerpt": "Examine Azure's AI services, and choose the right one for your company.",
@@ -76,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 6887,
-            "average": 4.778278
+            "count": 6895,
+            "average": 4.777955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5284,
-            "average": 4.720477
+            "count": 5293,
+            "average": 4.7200074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -162,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4676,
-            "average": 4.7609067
+            "count": 4682,
+            "average": 4.7609997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -197,13 +155,56 @@
             "Management Tools",
             "DevOps"
           ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-management-fundamentals.md",
+          "title": "Choose the best tools for managing and configuring your Azure environment",
+          "excerpt": "Explore the Azure management, administration, and reporting tools, and choose the ones that best meet your organization's needs.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-management-fundamentals/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 4455,
+            "average": 4.7515154
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 88,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Management Tools"
+          ]
         }
       ],
-      "size": 7,
-      "heat": 127,
+      "size": 6,
+      "heat": 111,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-azure-fundamentals-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -232,8 +233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 4228,
-        "average": 4.7731786
+        "count": 4231,
+        "average": 4.773103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -343,8 +344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2200,
-            "average": 4.6890907
+            "count": 2203,
+            "average": 4.689514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41608,
-            "average": 4.7177224
+            "count": 41609,
+            "average": 4.7177296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -421,8 +422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 666,
-            "average": 4.623123
+            "count": 667,
+            "average": 4.623688
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -465,8 +466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 822,
-            "average": 4.733577
+            "count": 824,
+            "average": 4.7342234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -566,8 +567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8303,
-            "average": 4.6602435
+            "count": 8307,
+            "average": 4.660407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -603,8 +604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1765,
-            "average": 4.501416
+            "count": 1766,
+            "average": 4.501699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -649,8 +650,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3823,
-            "average": 4.6037145
+            "count": 3824,
+            "average": 4.603818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -686,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2137,
-            "average": 4.58774
+            "count": 2138,
+            "average": 4.5879326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -814,8 +815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1765,
-            "average": 4.501416
+            "count": 1766,
+            "average": 4.501699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -996,8 +997,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
           "length": "PT34M",
           "ratings": {
-            "count": 256,
-            "average": 4.7773438
+            "count": 257,
+            "average": 4.77821
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1176,8 +1177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
       "length": "PT56M",
       "ratings": {
-        "count": 1765,
-        "average": 4.501416
+        "count": 1766,
+        "average": 4.501699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,8 +1223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-blockchain/",
       "length": "PT34M",
       "ratings": {
-        "count": 256,
-        "average": 4.7773438
+        "count": 257,
+        "average": 4.77821
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1347,8 +1348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
       "length": "PT33M",
       "ratings": {
-        "count": 469,
-        "average": 4.5799575
+        "count": 470,
+        "average": 4.576596
       },
       "provider": {
         "name": "Microsoft Learn",

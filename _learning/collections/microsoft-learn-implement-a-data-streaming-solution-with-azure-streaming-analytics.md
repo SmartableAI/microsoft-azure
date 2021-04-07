@@ -19,7 +19,8 @@ levels:
 
 items:
   - courses/microsoft-learn-introduction-to-data-streaming
-  - courses/microsoft-learn-transform-data-with-azure-stream-analytics
+  - courses/microsoft-learn-enable-reliable-messaging-for-big-data-applications-using-azure-event-hubs
+  - courses/microsoft-learn-ingest-data-streams-with-azure-stream-analytics
 
 topics:
   - Azure
