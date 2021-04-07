@@ -162,6 +162,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Azure, AWS to host NSW Police core systems"
+    excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
+    publishedDateTime: 2021-04-06T19:58:00Z
+    webUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
     excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
     publishedDateTime: 2021-04-06T20:16:00Z
@@ -209,6 +223,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "7qO3hh7w0RRZwSbZVjiiouk6UlvQUGIAs53E5fIapxQSCWEE+CkZkajZ635R4fJ6J5rMJlGUQ+Srcd1noW7ZGflv2TQbrgnmHKSUhjJVoWq5aCMAdN/Xp1wkDi71ylDIZXd7bIvAs87VLiALIer2icHuf9OJLdvt+Vb71oTyuRQOMGbRfUOEmpCQ9r4M2GoNfRgws6+4d408C6goeIO9NCUvtPt7H/K1nW4vC7kZA7xcF307JSnM8NCVs/ljkmlbTQ5fjEF0rG01HdM3RmG5tQxSIqaRbu1UdzqBi+uZJNbFoAJ2cLuPn+YlwSGZZMItaCYeZxZQapwrJj9qbPLdVrVu0giuhsSCsdJggGq5srs=;WT3U3DhvVJYG4Zi/Y2s4bw=="
+secured: "BHFOFBOlB/ZehHI3h6RGEAARkmgvoKIAbi3L+bQrrWL/RJhHDZ5cWOCzEyiCKpFsZcgpTqgGP/dQQSXTMz51atHEzFtFJqQurF8cWafKNOxivhFtvCmdVtmYmHHy6sAh6fQO/tgJjw1K29uPwCf4pdshApTi1tuOeoLE+c7RRbIzAzye+zcOhNlVx05PW8D25+n1kCq1oYD8sUxWD0MBOWAlO7N2SMvZFWdyw5l0+Rd9G0nrUH2AHMWQwIryob9cslF0lolr/Hoou/fmtDwl+K9bqr5ckZS3oaOEGj2fHbeggWVOh+EeRoX2i5ncx1ijwdQHFYBgdqOLv/DiUBDZecHUXxUPEd5TGEw0RWpSwhE=;4CdkBqaLsH4neDf1JIcYYA=="
 ---
 

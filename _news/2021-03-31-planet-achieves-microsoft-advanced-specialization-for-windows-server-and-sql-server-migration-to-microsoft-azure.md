@@ -177,6 +177,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Azure, AWS to host NSW Police core systems"
+    excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
+    publishedDateTime: 2021-04-06T19:58:00Z
+    webUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
     excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
     publishedDateTime: 2021-04-06T20:16:00Z

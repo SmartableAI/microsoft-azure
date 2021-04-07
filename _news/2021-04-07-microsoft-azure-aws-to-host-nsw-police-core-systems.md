@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
-excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
-publishedDateTime: 2021-04-02T13:40:00Z
-originalUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
-webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
+title: "Microsoft Azure, AWS to host NSW Police core systems"
+excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
+publishedDateTime: 2021-04-06T19:58:00Z
+originalUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
+webUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: On MSFT
-  domain: onmsft.com
+  name: IT News For Australia Business
+  domain: itnews.com.au
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
-    width: 1024
-    height: 768
+  - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+    width: 1400
+    height: 900
     isCached: true
 
 related:
@@ -162,19 +162,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Azure, AWS to host NSW Police core systems"
-    excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
-    publishedDateTime: 2021-04-06T19:58:00Z
-    webUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
+  - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
+    excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
+    publishedDateTime: 2021-04-02T13:40:00Z
+    webUrl: "https://www.onmsft.com/news/cybersecurity-concerns-force-microsoft-to-scrap-azure-domain-fronting"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: On MSFT
+      domain: onmsft.com
     quality: 37
     images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
-        width: 1400
-        height: 900
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
     excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
@@ -223,6 +223,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "1ZhQZMaAYjQxyZzX40r8lsSNN9tfcrX2QO/aQozVBBxmjUJl9/ELbi5BJBFJRRacxCh5ejvguHzsDuGJDvU03QIrBH5nW1gPTgR6HFB+90w7NFRcRIpoWjIKoS+uU6CAdlNUuf1OpZrbnVG972aWKTSYufZzCgtTvXksSUUw/kWM5mVo4HKGAjFcf7GwpKZ5LWvGeiJYp0rlyMrqpcTNpvd9LMRe3f0ywbQUquX8xJOVWVNqddod99jI+Zez/1agh3rzBh6R2z7elndOLQZUQRPPOxcqf0xe+iQ0Oe7aEI3STZlWHCB8E5KtuFikA6QVPuYswiY7HzMO1m7USj3ZkvUtIyX7Vsy2tiPWUXO0kMhkne9fTFTAn0Eo4SgFzLTNlgp7IXBhjFbQy4yPwzvVj0lsXCXpU/KQRiAazjDTBZi9Umbluj/Sk274PsdA8qeWaCTw6sgueWT8H/6CvOayhvUvJHTNemTkx/DuTi9N7lpUADuEeXZ/HUhv0dEDNyRjrtXKgD3yh8pCsLZD884z4Q==;Zk2rI3XW4UcL0QMVTRjzLQ=="
+secured: "mbnOnQFB0x6x1zvbhIghwVSUObVZecWCF/k8Z191Aaqis2YlzS4wigVMnvmTNeFRVjeldlHrho7WcfartzXZiIzGWTtczFlq1s9ZH+rB4toFs7C/i8O8kFd2Vl9q7cbDHwiG5nJ+ONlTMosUGphuDpOslVY71XtY82KnkAegGNrMq7mt5qEjkn9DOFZHIlJq9hY8uRJ1KlDewyH1IraEJM1h1iqJkXA5XIlAxBMafsxUNVnhl+vUjLK207vXad6NWzPFqRRRSlDLBVpRQr5LsbE8n6jlRyaJ/d6UCdiEHxMMYglTl4fVkdomITCVPDmtAQrLQeU5vmwavfGwxK3Q+si+Zu+q7eA9P4XfNcztWlU=;Dn01DOTcOzIlug6Zb0kuvA=="
 ---
 

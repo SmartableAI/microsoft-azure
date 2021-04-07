@@ -176,6 +176,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Azure, AWS to host NSW Police core systems"
+    excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
+    publishedDateTime: 2021-04-06T19:58:00Z
+    webUrl: "https://www.itnews.com.au/news/microsoft-azure-aws-to-host-nsw-police-core-systems-562282"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nsw_police_FOHO.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
     publishedDateTime: 2021-03-31T16:08:00Z
@@ -209,6 +223,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "R5E70c+UWM2vaNM19n8FizcNgx84MRWUkBVTD3tSYaEoXLuH3m3Bcc20umyJM7lieUfu8G4n4PsYsMiELSxLwr8XeU3jKV6YHFOhM1xYAJqngmI/bq/PbPrvjOm6ZoU9SoDBaNW2t16auxgfF5aBOiAm5ZhPX+FXfYQcTGMSmq3ctmR2f89mXC0oe30a6d8LbB7TmvQLINx+tZwMnRwwjsIZ6zsD5E6uDpsRHfRjCN9KLjScpA+1LD9Ls8lSt9LigKU0HTGRqq/VrRlYstxwLmKOMg6RLUvyTdfPbYE9MOYVldayeWxitlAft4cdQ7IBI0ThzVexUSLIhqQuthdYmqTdiXDEvajBLeT7xwAL2Is=;Iv1vGaTrXWGLBTXew6ymHw=="
+secured: "31OUA/RyOvITLxWYGwMWwoHTBgaqjk0WTe7411PNT1HL1pS9Ew5Cm1WqwfBWXjpowWApgUnyDguQmyKdFPcgdIoOLJ5OGiyMiaI7poDWYbvBIKF4QcTNRHaI8jO7DyyGaJu+XCfIxCv+RbMEGu7uySNeoc1n8XCCmHttaQmkRuv7taxOiC4YdFSrJ2jfw3LLepR8CZ3wuP8EZ+qUagvxRLmgSg3T4DvB1MsQzPCysSgp9A8Vp286TRmFC+z5BRwQvE4WqoPyV9fQ5PpfseOyEggxrZma7dpzH4tuEgS91bMP+oF1luK4FWFMwatjXrQfugwilUmRDCyeUoF7h8NGOCqUk9dhUM9m7cpeD1ycH3bgtws6wqvbkhBfIMPoU/IHCGGO7ZlVQnoJIJkHpWAD6wtdT+hf2/jawM/wrRKHJXyvG/csZ5p+q/9JtOKnrSowNWB1hOmpEKAqOLuxgKx9nBT4PmsyAJOPGOjhZdZRlQDt7xyakjGD9SRe/oDJmUhwqdKye21wfSHO7sRlQGjUVw==;HNwDoSVBzYQCOMxlz3mKiQ=="
 ---
 
