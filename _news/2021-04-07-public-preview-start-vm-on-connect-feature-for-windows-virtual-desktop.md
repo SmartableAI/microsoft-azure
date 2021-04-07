@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
-excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
-publishedDateTime: 2021-04-01T16:00:05Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
+title: "Public preview: Start VM on connect feature for Windows Virtual Desktop "
+excerpt: "You can now keep your VMs deallocated to save cost and have it automatically start up when a user connects."
+publishedDateTime: 2021-04-07T16:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-start-vm-on-connect-feature-for-windows-virtual-desktop/"
+webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-start-vm-on-connect-feature-for-windows-virtual-desktop/"
 type: article
-quality: 46
+quality: 51
 heat: -1
 published: false
 
@@ -157,15 +157,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
-  - title: "Public preview: Start VM on connect feature for Windows Virtual Desktop "
-    excerpt: "You can now keep your VMs deallocated to save cost and have it automatically start up when a user connects."
-    publishedDateTime: 2021-04-07T16:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-start-vm-on-connect-feature-for-windows-virtual-desktop/"
+  - title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
+    excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
+    publishedDateTime: 2021-04-01T16:00:05Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azurevm-scale-sets-with-uniform-flexible-orchestration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 51
+    quality: 46
   - title: "Azure SQL Database serverless compute auto-scaling limits increase more than twofold"
     excerpt: "The maximum vCore limit for Azure SQL Database serverless has increased over twofold to 40 vCores. The higher limits provide greater compute auto-scaling headroom for serverless databases with more demanding workloads. "
     publishedDateTime: 2020-06-10T20:00:15Z
@@ -176,6 +176,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "GZ4n8XvSX8TcRHK62qUS8sTCafTDhCTA8uTua6pgqjviWoRDW5gfZxcX4TD0JaoQjvBSrwNicHDdl81+NlxYoTUbNgccubEBno6lE8YVUL1dRwfr2b3uxEUccTCdG7tNsisNwJPPmcoqAloWelcELwYq9jdYl6yGlGytck1kAnO5T+NGG4Q9p+7627Aagag63Azm7WXc45/zVciHjfpfpfrgX+KRbFxFjDMe2G94PM08bSKvChflG1+irnt1fqAz773e5EV/+Ofk1IWoVOubzUxIDDzKQAInQHZFuz7k3Nkrem2anLoUwH5WZRirnx8/p4zZGCPSk4lel2Lp9by9pX1WO4yJrMtM/pcMzXkAN2I=;4QJxESmPCibzYafiVncqxQ=="
+secured: "uWlZrc4/58U8/miomm2iH38+kOnNi4cjB5D7eK5bZpm0Nr0dfO10kepLo6a5Zzgf5tOXJIyzFhRcS49CposQNIvx5BcsUkrPwM9eXjEfkgjcZnIlXQUuGieVT9rOIt/TSD3rYyWPqasiLUtsrwxzuBMb4YepXGb37nAP5zlK6WV3OEcBA8DnIZI4gjOX43YFAAiX8KJswW2xfLJkDJOPFblVQTK7l/vh7yYkoNpjJ6WNjiLQxXs5gBbuZr6MLiKPPkMg5GyFDnvwH2JVD+k8n5pv63RATk2ftb3vy/vpOj17mzksvipSmMUj+Ap5ptWFYTM1pTqoRyxFBSC5XjgP6X9QLbMn9izkf5vc31GqqWI=;tQTcEqDsd3m6mnQP92a86w=="
 ---
 

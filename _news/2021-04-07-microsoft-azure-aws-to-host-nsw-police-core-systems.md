@@ -192,6 +192,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "BOULOGNE-BILLANCOURT, FR / ACCESSWIRE / April 7, 2021 / Microsoft Azure customers worldwide now gain ... Loamics customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management."
+    publishedDateTime: 2021-04-07T16:16:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-software-industry-b7e4552896381ce40a7341f6362a1edf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
     excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
     publishedDateTime: 2021-04-06T20:16:00Z

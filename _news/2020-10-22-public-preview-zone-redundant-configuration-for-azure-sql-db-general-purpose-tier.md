@@ -149,6 +149,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 52
+  - title: "Public preview: Start VM on connect feature for Windows Virtual Desktop "
+    excerpt: "You can now keep your VMs deallocated to save cost and have it automatically start up when a user connects."
+    publishedDateTime: 2021-04-07T16:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-start-vm-on-connect-feature-for-windows-virtual-desktop/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 51
   - title: "Public preview: Backup & restore of Azure VM Scale Sets with uniform and flexible orchestration is now supported"
     excerpt: "Azure virtual machine scale sets provide the management capabilities for applications that run across many VMs, automatic scaling of resources, and load balancing of traffic. Scale set orchestration modes allow you to have greater control over how virtual machine instances are managed by the scale set.\n\n"
     publishedDateTime: 2021-04-01T16:00:05Z

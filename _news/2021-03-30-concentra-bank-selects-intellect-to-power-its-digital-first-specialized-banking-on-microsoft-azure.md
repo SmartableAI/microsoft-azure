@@ -182,6 +182,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "BOULOGNE-BILLANCOURT, FR / ACCESSWIRE / April 7, 2021 / Microsoft Azure customers worldwide now gain ... Loamics customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management."
+    publishedDateTime: 2021-04-07T16:16:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-software-industry-b7e4552896381ce40a7341f6362a1edf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Microsoft Azure, AWS to host NSW Police core systems"
     excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
     publishedDateTime: 2021-04-06T19:58:00Z

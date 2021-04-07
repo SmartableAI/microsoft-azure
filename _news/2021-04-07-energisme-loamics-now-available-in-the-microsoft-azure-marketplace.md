@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
-excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
-publishedDateTime: 2021-03-31T16:08:00Z
-originalUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
-webUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
+title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace"
+excerpt: "BOULOGNE-BILLANCOURT, FR / ACCESSWIRE / April 7, 2021 / Microsoft Azure customers worldwide now gain ... Loamics customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management."
+publishedDateTime: 2021-04-07T16:16:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-software-industry-b7e4552896381ce40a7341f6362a1edf"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-software-industry-b7e4552896381ce40a7341f6362a1edf"
 type: article
-quality: 33
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Migration
 
 images:
-  - url: "https://EINPRESSWIRE.images.worldnow.com/images/20552888_G.jpg?lastEditedDate=1617192501000"
-    width: 840
-    height: 460
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -193,20 +192,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "BOULOGNE-BILLANCOURT, FR / ACCESSWIRE / April 7, 2021 / Microsoft Azure customers worldwide now gain ... Loamics customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management."
-    publishedDateTime: 2021-04-07T16:16:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-business-corporate-news-products-and-services-software-industry-b7e4552896381ce40a7341f6362a1edf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Azure, AWS to host NSW Police core systems"
     excerpt: "NSW Police has adopted a multi-vendor hybrid cloud for its future IT infrastructure needs, with work now underway to stand up a protected-level Microsoft Azure data centre. iTnews can reveal Australia’s largest policing agency recently down selected Microsoft and AWS to host a number of frontline IT solutions under what it calls the ‘Azura Cloud Project’."
     publishedDateTime: 2021-04-06T19:58:00Z
@@ -235,6 +220,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
+    excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
+    publishedDateTime: 2021-03-31T16:08:00Z
+    webUrl: "https://www.wboc.com/story/43581987/planet-achieves-microsoft-advanced-specialization-for-windows-server-and-sql-server-migration-to-microsoft-azure"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 33
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20552888_G.jpg?lastEditedDate=1617192501000"
+        width: 840
+        height: 460
+        isCached: true
   - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
     publishedDateTime: 2021-04-06T11:10:00Z
@@ -254,6 +253,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "DWO4ElTnpk+T+vyJCVYoTVaeg6yZTUU9n//k7K+XLJ7yeJZPV0P8+5sr2dSRK+praHdqlDEJo4r3eDIUrDOFQWfpH9qFByTfYIqFMdDw2ulF95Wy8FtdRzW7ni6wJLRqLvgZsheVj3Qphfxo21pgj4Z9PxR3SGNu7J1QhrTrZ3NhSygmePYOPQRz/h5WMniFqd4bxWQaabokpQFYfxRalTvEx1MMpr9x8UJS3+XLwMybl7HDj+IyFOStX+IY6Np3Nr+CVcFs2FFhYfiJo09hU90N5sfmVDeZz/VjBRJc+vUWOvhR69ndD9g3jMKUuh5Kc4NRbIQVLIrhhWwSpI3xz452/QsHAVcb4ZZO1x/K5BMaCWBXbWjcTwvZzNx3BRRAK1RvJGMFdfcVSCIGevcuoqHz3xTpaWT4f/RNv5s9R2Hmskc4wkDqGqlPL6Ix6TZLgXZIj6BxkmrUucRxuBoVrbdbdhfe0asdFeH2jo/612L8KT+EndqyvWdYBnLmk5Zlgy4Xw+GEiuR+2M2i2pmpgA==;qgUC5Ok7ocaUyzVTyvk55g=="
+secured: "Rw3ptx1/zXENpWbEd+Qr9lyJnAGj9XL+PXxC+Y+s9pB9dq3BHQUf8pSoBAVpQm5DqQau+s7uPVyFJe64yvgsk+wUfOusFjujqpN2QOZgD7DdJebRy2NnubTB2HxOrwB1mM/hPNawA1bw7cTLa4PQnZJLx5SXXS9CNG/OXqTGV0CvxBQz5vKJJpse+KZuR4kQLyowp89Dd1bjth07PFqLUbX3jnOqSNTbqdWIsUdSWCk/+txz4zUi1vgcLXtzOzL47WrL/0XiylTrU5eGRg16y9ynZ27YdQSnutYUH1GKGDo74nLp0WDlKFbHZj75g16Sf67MsFe6hbvFg3YoTijqwFactLygilxiLZEkWGKUz5c=;oaJSaBcAYKFz8xnkbxvFeQ=="
 ---
 
