@@ -58,6 +58,22 @@ related:
         width: 1786
         height: 1119
         isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
+    publishedDateTime: 2021-04-06T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
+        isCached: true
   - title: "Microsoft Cloud services were down for some users"
     excerpt: "Microsoft Azure is an ever-expanding set of cloud-based computing services available to anyone who wants to build an app or run an enterprise without having to manage hardware. Read More A number of users are reporting that pretty much any and all ..."
     publishedDateTime: 2021-04-03T08:52:00Z
@@ -223,6 +239,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "OVALLl2+GA70ReCzsBGm4o/SqFcJ2Au4vQriPVIk20AdwwDfK49dMF3mFBOYoViSLgd6EMQOk6FbN+yNkEau3+REbJ8uxLu+0BqtFUpM1NelO8zEw7Dog0eG7oorNgqeV5p6IY3T5/+kN6qPR3Aq4nMT4nY6WUK/2HGPYeuxGsx7BeY1SuQOWGfSfFceUKHIxTVpgbsAS3xGtGTDgzlB5AcJqbgp07vn78Z6YSWmnVSekBKXQ2pVYlVadP/s4vWbHTEi/7FCycusd6feClNljYbrDBVxo9lyNRWOHv2aum4qX97ac3YtKNVLGlxKwPTSPKFsbSCGc8PxJUSJm76jtumcabja65f7emLVXh/drX8=;mqFPoNPxZgscZwrbUSS78Q=="
+secured: "/HIQ8C4PrSIooqieS4QtbLjiOcbWvBbxs/NpK9a14WQXIMWoOJaE3GjB5ZemMw0bJbS9Uh08Y8F/eBmzqO8eQyg0qfHZ0oO+r+IFDZf+F7iWhiiJSkOjM3xInnUyi6XvkBllfkmGWbMVXWZv0wPIFJSiY0kgAIwI6mvs+mNZ5Vt2/OACyRQDaRxWyNOZuSaT3fkowKZMoXGaFZUW1x3ABhVOtFoVj0YlCPInIjHJD6SVs6xmBVNEqFctwun/Sml3B2sgKjgYeNthpMP5FR+BCYDR7PVFzaL0vW8WTfbcEkz4ySW9Sd5UCRfV+UNIdjPjx8U7ngoRyb2pVsvnWKAvTbwxw7r2vemD/1aEXw4e8c8=;wEyH8y1PHS/OGxbby/ecJQ=="
 ---
 

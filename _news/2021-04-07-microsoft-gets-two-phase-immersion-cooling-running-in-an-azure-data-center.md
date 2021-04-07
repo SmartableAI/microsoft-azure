@@ -1,36 +1,51 @@
 ---
 category: news
-title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
-excerpt: "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ..."
-publishedDateTime: 2021-04-06T15:09:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
-ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
+title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
+excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
+publishedDateTime: 2021-04-06T20:08:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
 type: article
-quality: 112
-heat: 412
-published: true
+quality: 95
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/itpro.co.uk-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-  - Identity
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
-    width: 1260
-    height: 710
+  - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+    width: 1786
+    height: 1119
     isCached: true
 
 related:
+  - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
+    excerpt: "Acuant, a global digital identity solutions provider, announced that it’s partnering with Microsoft to secure information exchange on Azure Active Directory (AD). Azure AD Verifiable Credentials enables Azure AD customers to easily design and issue ..."
+    publishedDateTime: 2021-04-06T15:09:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 112
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
     excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
     publishedDateTime: 2021-04-06T15:24:00Z
@@ -42,22 +57,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 96
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-        width: 1786
-        height: 1119
-        isCached: true
-  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
-    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
-    publishedDateTime: 2021-04-06T20:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 95
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
@@ -244,6 +243,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "Arob064R997RltH5re9kqWu8BjRpOoHKA/POMKOOyJiOOzEaYhipLLpBv2xxioBrxXjPMUdyh91iEmTMLNsz0IXEk/ROjqi4ryJbSsX5RkS8pRAkRa6qJdmrJnh0e3+PhE485v4uFkB8FEUv/E6pJ1cCApFCENHs+S1CXt9xAnowOAi6B4ewFErDPwu0yuvGdT8Sxq4+U+eCZBtwJ9+wxdKhH4qRt9Sp5sm6TubnMCG9gr5UqRVJbD5Wmfk6pVv+LMMHWRehLH79Tor4id4ltbi8pMXDIE9Sc4pQo/ad+9Jmug5Ma5bODXs3j9UJTwOpb2CiQ/jaHb17GEk7IZKYN25qSbBiY8KcGtNJXDoRAT0YKFLkHjLZRxpwjFyTGxzUU1xPfEC2vitXVpoCKMx32f1rRzmKZLjCxEOwmhJJCr5RINuPIDzipSJh1DnlR21d983Gtpy6535ecbQmmmVKPV+rLXLW8XBQBybV924X5ooyyFVAEodllv2RIAJ2XeRVsRj9bnj2t1XMcuzi5FVKkg==;4eSa0WFWF5FAxOgZZjYCow=="
+secured: "mfcrlygxkiT/XoBmTdlYA4akZsnpaVRqsIVTYQS7tSCwOtEaG+q10g8QpMUbMNYIRpoowa8+xXKg/8kVUJ+Bmxe+ohQ59wGr+FTVm0jarcfQW+YuSSL8lNb0et6VDdHSjS900dmok2aIMkvXv5rh3od/Gn/X68QigIm4W2+ssPnzp/BePVhpfoLc34Sb21f9MfpzEBIITzB+ZtxnloDRRmg6yU4klYZUCbn2XCpaeLsaKdv8BUPQ2KEDTOvUibnRyxCO59m9yjP7S7ivilyCDvfLw6+vmGTAIMx1E1dea3OM5kWdEr3cE5BIdAxhNcYeKXOgZ9tZWDx/HmAHLIrV4eEsu3l2Zgu8JLxN3k0EdCo=;WmyBd/2L4RdOArAO7aoAuA=="
 ---
 

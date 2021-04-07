@@ -62,6 +62,22 @@ related:
         width: 1786
         height: 1119
         isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
+    publishedDateTime: 2021-04-06T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
+        isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
     publishedDateTime: 2021-03-30T14:00:00Z
