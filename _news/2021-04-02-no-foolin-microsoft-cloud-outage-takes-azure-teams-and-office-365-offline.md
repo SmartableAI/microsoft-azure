@@ -35,6 +35,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "Podcast: Microsoft Azure's Khalidi curates carrier clouds"
+    excerpt: "Yousef Khalidi, corporate VP of Azure for Operators at Microsoft and a member of the founding team of Azure, joins the podcast to discuss how his role has evolved to working on Azure for Operators. Khalidi explains why working with service providers ..."
+    publishedDateTime: 2021-04-07T12:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/podcast-microsoft-azures-khalidi-curates-carrier-clouds/v/d-id/768564"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "bfnS8kox45yLpKdXRDV/smrJOkZEuFIfEepmsiRM6WFLC/MqeAMFYUac2SJaiVHaogZ6Mk171R2mqC9sSPe0VPFCUJr8UYAbzbpoyAyDH6yCWSPN0TnCq7gJnyIORbkuW6hzZvLtsVAiHjl0pXLPOQov5dozSU+yU80eXNsj0JYLM0Nqx83F2AxXjvuNC3yQgEIdtGi5gU5AmWf4aIfSNX/+C9jswx/1ROtFNnORJ55lACRDEPQqCBrcyjD3MxAV/IsZIlmniKESONCV5sKrQlkRCzoo670mM5uuGbovM+hmZ2JlnFaJUJNvWChJPj8HUSmCqOLYaZJy3MVhJERTahsoxO21W7/lfnx/wkbjhQvdbPkqcfWfWMDOUS5t7FT32ZhS0k6+r2gVmxBFirFgJi2GCUK5naUDFafWiBWCx206p8V2zHZIIZKbkgt5bS5bUdipPgJ03zIa65VFdRcL3+C+E+56RePjFt5jMWKv7cLsjTcBJbJWmDVRW0yx0n41V4ADWiuR3s/C+vVHOHVMsw==;rFABhChOqA5s0ctxfJc0hw=="
 ---
