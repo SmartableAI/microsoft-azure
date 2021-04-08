@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-mi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
 type: article
 quality: 112
-heat: 473
+heat: 493
 published: true
 
 provider:
@@ -287,6 +287,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 14
+  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    publishedDateTime: 2021-04-08T13:25:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "Arob064R997RltH5re9kqWu8BjRpOoHKA/POMKOOyJiOOzEaYhipLLpBv2xxioBrxXjPMUdyh91iEmTMLNsz0IXEk/ROjqi4ryJbSsX5RkS8pRAkRa6qJdmrJnh0e3+PhE485v4uFkB8FEUv/E6pJ1cCApFCENHs+S1CXt9xAnowOAi6B4ewFErDPwu0yuvGdT8Sxq4+U+eCZBtwJ9+wxdKhH4qRt9Sp5sm6TubnMCG9gr5UqRVJbD5Wmfk6pVv+LMMHWRehLH79Tor4id4ltbi8pMXDIE9Sc4pQo/ad+9Jmug5Ma5bODXs3j9UJTwOpb2CiQ/jaHb17GEk7IZKYN25qSbBiY8KcGtNJXDoRAT0YKFLkHjLZRxpwjFyTGxzUU1xPfEC2vitXVpoCKMx32f1rRzmKZLjCxEOwmhJJCr5RINuPIDzipSJh1DnlR21d983Gtpy6535ecbQmmmVKPV+rLXLW8XBQBybV924X5ooyyFVAEodllv2RIAJ2XeRVsRj9bnj2t1XMcuzi5FVKkg==;4eSa0WFWF5FAxOgZZjYCow=="
 ---

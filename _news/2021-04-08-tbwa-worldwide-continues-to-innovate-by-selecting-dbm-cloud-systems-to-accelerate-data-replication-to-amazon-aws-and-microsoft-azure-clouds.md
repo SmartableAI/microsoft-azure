@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
-excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
-publishedDateTime: 2021-04-06T20:08:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+publishedDateTime: 2021-04-08T13:25:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
 type: article
-quality: 95
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-    width: 1786
-    height: 1119
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -57,6 +45,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 96
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
+        isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
+    publishedDateTime: 2021-04-06T20:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-data-center/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
         width: 1786
@@ -286,16 +290,7 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 14
-  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
-    publishedDateTime: 2021-04-08T13:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "0tBHmhEsmwtEpQ5luHN8icN1uDuE4MIL+0JiIW1VeW8DxkcAO0cC+vfQ0mhOtN+5ZQ5Nl4s39wPWhe22yXUEi/No/FXHmjWjAIZaLk0cbNFLwYFjw3ml91ianO9N0IbkiesnCg+mq+ZsJuBi+QO+SqafPFmdH+1yCwIPG1iCfik40FSQ3ngBZvqfO/Nk0hdhZzJ/zDEusMthGnpHv05f6vrIytwDtZJN08ck79AR3/2053mT97Rl7LWTOXFYe/INpw+XEkw1ZO6Q75kDXy4Y/zMci6aql/s7umQYq1yAUhV4p1LMFfIhBJsgEcF+ADlEGfZQAg7HmlyZoF5EUcHxA9na6BL3WcPxmrQOrOTtz8/BFi3dlyZq1ADhypBhlTNNL6QdijDwJtdkubhy4omqUtV+q8NBsvxTEjcc0zeyHOw4wm/YJEsPj0088o1mEpnKpW11lT0Qmwl1LRZudimfpqfHDORtn+zqWn7BYx++N1VIcq5mqG2qFdKNTb0sJTBkgjNNolJpe6rVdi//58aRag==;guj4Ke76Ys+nD0kTudlRfA=="
+secured: "imrzH519JgqHl6Yi0XpyRofGYrcvYmpUHJKBncvd0iZEIWZkc3wtTB4gDjpQnQnsXpIs6RcbPAgDr77u6lG3IsR/ulqoDfOfgkeSfamSculg2eZpcAd607kl8Be/fy56G741V2iWgiv871byp5Cx6xZExsCglOESE7gceAfZ3tSc7VcPCQQ0Nm6hWQanm5yeaZ/nZTr3H6JaJoznQ/qQD+C4tCbq8kggzHO38XqEc/RdmdZrmpl2ZmKh0215G0vQCKglLsI9fzeINHkkJFPt8ShIEn8CDS90afzyUymvlZH8g7kkCvx/S2UrTeyNs7LWa0DAn9a4/qBJiWi/J9YNGZk7FCPflT5xduPJBTIXub4=;Q+5gL+x5Q05fDPBxd09BGg=="
 ---
 
