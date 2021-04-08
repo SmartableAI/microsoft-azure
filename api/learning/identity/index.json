@@ -4,12 +4,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
-      "title": "Manage security operations in Azure",
-      "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-security-operations-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-security-operations-in-azure/",
-      "length": "PT6H51M",
+      "path": "_learning/courses/microsoft-learn-identity-permissions-consent.md",
+      "title": "Permissions and Consent Framework",
+      "excerpt": "Learn the basics of Microsoft identity including the different types of tokens, account types, and supported topologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identity-permissions-consent/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/",
+      "length": "PT1H6M",
+      "ratings": {
+        "count": 140,
+        "average": 4.7642856
+      },
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -23,203 +27,23 @@
         ]
       },
       "levels": [
-        "Beginner",
         "Intermediate"
       ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
-          "title": "Protect against security threats on Azure",
-          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 7132,
-            "average": 4.7655635
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 118,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
-          "title": "Create security baselines",
-          "excerpt": "Create security baselines",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 2938,
-            "average": 4.660994
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 135,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-identify-threats-with-azure-security-center.md",
-          "title": "Identify security threats with Azure Security Center",
-          "excerpt": "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 833,
-            "average": 4.6938777
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
-          "title": "Resolve security threats with Azure Security Center",
-          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 1396,
-            "average": 4.5916905
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 141,
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "collection",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Management Tools",
-        "Security",
-        "Identity",
-        "Integration",
-        "Web"
+        "Identity"
       ]
     },
     {
@@ -253,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5168,
-            "average": 4.7381964
+            "count": 5170,
+            "average": 4.738298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -296,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18206,
-            "average": 4.698506
+            "count": 18207,
+            "average": 4.6985226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -331,8 +155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5080,
-            "average": 4.7234254
+            "count": 5081,
+            "average": 4.7234797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -448,8 +272,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5168,
-            "average": 4.7381964
+            "count": 5170,
+            "average": 4.738298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -491,8 +315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18206,
-            "average": 4.698506
+            "count": 18207,
+            "average": 4.6985226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -526,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5080,
-            "average": 4.7234254
+            "count": 5081,
+            "average": 4.7234797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -643,8 +467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
           "length": "PT17M",
           "ratings": {
-            "count": 4316,
-            "average": 4.7914734
+            "count": 4320,
+            "average": 4.7916665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -686,8 +510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5168,
-            "average": 4.7381964
+            "count": 5170,
+            "average": 4.738298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-privacy-compliance-data-protection-standards/",
           "length": "PT27M",
           "ratings": {
-            "count": 4322,
-            "average": 4.745488
+            "count": 4325,
+            "average": 4.7454333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -791,8 +615,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/",
       "length": "PT17M",
       "ratings": {
-        "count": 4316,
-        "average": 4.7914734
+        "count": 4320,
+        "average": 4.7916665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -858,8 +682,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7132,
-            "average": 4.7655635
+            "count": 7141,
+            "average": 4.765719
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/",
           "length": "PT39M",
           "ratings": {
-            "count": 140986,
-            "average": 4.7020345
+            "count": 140988,
+            "average": 4.7020383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -936,8 +760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 5186,
-            "average": 4.719244
+            "count": 5187,
+            "average": 4.7191052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1108,8 +932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 5186,
-            "average": 4.719244
+            "count": 5187,
+            "average": 4.7191052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 3005,
-            "average": 4.7420964
+            "count": 3006,
+            "average": 4.7421823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1139,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
           "length": "PT50M",
           "ratings": {
-            "count": 5186,
-            "average": 4.719244
+            "count": 5187,
+            "average": 4.7191052
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1358,8 +1182,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/",
           "length": "PT31M",
           "ratings": {
-            "count": 3005,
-            "average": 4.7420964
+            "count": 3006,
+            "average": 4.7421823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1517,8 +1341,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3822,
-            "average": 4.7456827
+            "count": 3823,
+            "average": 4.7457495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1561,8 +1385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7378,
-            "average": 4.6680675
+            "count": 7380,
+            "average": 4.668157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1614,7 +1438,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 135,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
@@ -1670,7 +1494,7 @@
         }
       ],
       "size": 6,
-      "heat": 74,
+      "heat": 73,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-security-social.png",
@@ -2254,8 +2078,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-provisioning/",
           "length": "PT46M",
           "ratings": {
-            "count": 4719,
-            "average": 4.7673235
+            "count": 4720,
+            "average": 4.767373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2402,8 +2226,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
       "length": "PT37M",
       "ratings": {
-        "count": 6416,
-        "average": 4.680019
+        "count": 6418,
+        "average": 4.6801186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2431,6 +2255,225 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-manage-security-operations-in-azure.md",
+      "title": "Manage security operations in Azure",
+      "excerpt": "Learn how to configure security policies and manage security alerts with the tools and services in Azure.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-manage-security-operations-in-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-manage-security-operations-in-azure/",
+      "length": "PT6H51M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-protect-against-security-threats-azure.md",
+          "title": "Protect against security threats on Azure",
+          "excerpt": "Learn how Azure can help you protect the workloads that you run both in the cloud and in your on-premises datacenter.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-protect-against-security-threats-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 7141,
+            "average": 4.765719
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 118,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-security-baselines.md",
+          "title": "Create security baselines",
+          "excerpt": "Create security baselines",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-security-baselines/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 2938,
+            "average": 4.660994
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-security-baselines-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-identify-threats-with-azure-security-center.md",
+          "title": "Identify security threats with Azure Security Center",
+          "excerpt": "Master securing your Azure workloads with Azure Security Center. In this module, you’ll discover how to detect and respond to threats with Azure Security Center.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-identify-threats-with-azure-security-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 833,
+            "average": 4.6938777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/identify-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-resolve-threats-with-azure-security-center.md",
+          "title": "Resolve security threats with Azure Security Center",
+          "excerpt": "In this module, you’ll use the alert capabilities of Azure Security Center to watch for and respond to threats.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-resolve-threats-with-azure-security-center/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1396,
+            "average": 4.5916905
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/resolve-threats-with-azure-security-center-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Security"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/review-security-tools-features-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Security",
+        "Identity",
+        "Integration",
+        "Web"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-manage-users-and-groups-in-aad.md",
       "title": "Manage users and groups in Azure Active Directory",
       "excerpt": "Manage users and groups in Azure Active Directory",
@@ -2438,8 +2481,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/",
       "length": "PT50M",
       "ratings": {
-        "count": 5186,
-        "average": 4.719244
+        "count": 5187,
+        "average": 4.7191052
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2504,8 +2547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2410,
-            "average": 4.7315354
+            "count": 2411,
+            "average": 4.7316465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2719,8 +2762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aad-users-with-mfa/",
           "length": "PT38M",
           "ratings": {
-            "count": 2410,
-            "average": 4.7315354
+            "count": 2411,
+            "average": 4.7316465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3012,8 +3055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 115,
-            "average": 4.843478
+            "count": 116,
+            "average": 4.8448277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3055,8 +3098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 92,
-            "average": 4.7934785
+            "count": 93,
+            "average": 4.795699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3098,8 +3141,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 83,
-            "average": 4.807229
+            "count": 84,
+            "average": 4.8095236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3440,8 +3483,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/getting-started-identity/",
           "length": "PT1H10M",
           "ratings": {
-            "count": 300,
-            "average": 4.693333
+            "count": 301,
+            "average": 4.694352
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3475,8 +3518,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/identity-application-types/",
           "length": "PT50M",
           "ratings": {
-            "count": 170,
-            "average": 4.617647
+            "count": 171,
+            "average": 4.619883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3536,7 +3579,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/identity-permissions-consent-social.png",
@@ -3852,8 +3895,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 115,
-            "average": 4.843478
+            "count": 116,
+            "average": 4.8448277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3895,8 +3938,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 92,
-            "average": 4.7934785
+            "count": 93,
+            "average": 4.795699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3938,8 +3981,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 83,
-            "average": 4.807229
+            "count": 84,
+            "average": 4.8095236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4043,8 +4086,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 3822,
-        "average": 4.7456827
+        "count": 3823,
+        "average": 4.7457495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4739,220 +4782,6 @@
         "Databases",
         "Containers",
         "Mobile"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy.md",
-      "title": "Plan and implement an identity governance strategy",
-      "excerpt": "Plan and implement an identity governance strategy",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-plan-and-implement-an-identity-governance-strategy/",
-      "length": "PT3H9M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-entitlement-management.md",
-          "title": "Plan and implement entitlement management",
-          "excerpt": "Plan and implement entitlement management",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-entitlement-management/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-entitlement-management/",
-          "length": "PT49M",
-          "ratings": {
-            "count": 140,
-            "average": 4.8285713
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-manage-access-review.md",
-          "title": "Plan, implement, and manage access review",
-          "excerpt": "Plan, implement, and manage access review",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-manage-access-review/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-manage-access-review/",
-          "length": "PT44M",
-          "ratings": {
-            "count": 139,
-            "average": 4.8057556
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-plan-implement-privileged-access.md",
-          "title": "Plan and implement privileged access",
-          "excerpt": "Plan and implement privileged access",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-implement-privileged-access/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-privileged-access/",
-          "length": "PT59M",
-          "ratings": {
-            "count": 137,
-            "average": 4.810219
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-monitor-maintain-azure-active-directory.md",
-          "title": "Monitor and maintain Azure Active Directory",
-          "excerpt": "Monitor and maintain Azure Active Directory",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitor-maintain-azure-active-directory/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-maintain-azure-active-directory/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 193,
-            "average": 4.8031087
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Advanced"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Identity"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
       ]
     }
   ],

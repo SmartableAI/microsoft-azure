@@ -4,6 +4,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
+      "title": "Introduction to securing data at rest on Azure",
+      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
+      "length": "PT30M",
+      "ratings": {
+        "count": 317,
+        "average": 4.7066245
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases",
+        "Storage",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-store-access-data-cosmos-table-api.md",
       "title": "Store and Access NoSQL Data with Azure Cosmos DB and the Table API",
       "excerpt": "By using the Azure Cosmos DB Table API, you will benefit from the low latency, high availability, and scalability of Azure Cosmos DB in a Table storage application.",
@@ -1108,53 +1153,6 @@
         "Azure",
         "IoT",
         "Analytics",
-        "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-event-driven-real-time.md",
-      "title": "Build a real-time event-driven Java solution on Azure",
-      "excerpt": "Send event based telemetric data in real time to Cosmos DB using Azure Functions and Event Hub.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-event-driven-real-time/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-real-time-event-driven-app/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 13,
-        "average": 4.5384617
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Analytics",
-        "Databases",
         "Storage"
       ]
     },

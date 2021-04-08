@@ -4,6 +4,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer.md",
+      "title": "Upload, download, and manage data with Azure Storage Explorer",
+      "excerpt": "Azure Storage Explorer allows you to quickly view all the storage services under your account. You can browse through, read, and edit data stored in those services through a user-friendly graphical interface.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-upload-download-and-manage-data-with-azure-storage-explorer/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 2904,
+        "average": 4.6508265
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/upload-download-and-manage-data-with-azure-storage-explorer-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Storage",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-app-to-azure-storage.md",
       "title": "Connect an app to Azure Storage",
       "excerpt": "Create a simple application and add configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.",
@@ -276,8 +320,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
           "length": "PT58M",
           "ratings": {
-            "count": 5527,
-            "average": 4.695133
+            "count": 5528,
+            "average": 4.695188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -319,8 +363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-engineering-processes/",
           "length": "PT25M",
           "ratings": {
-            "count": 5724,
-            "average": 4.723445
+            "count": 5725,
+            "average": 4.7234936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -468,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/",
       "length": "PT50M",
       "ratings": {
-        "count": 3800,
-        "average": 4.5539474
+        "count": 3801,
+        "average": 4.5538015
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -541,8 +585,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "PT44M",
       "ratings": {
-        "count": 1976,
-        "average": 4.7024293
+        "count": 1977,
+        "average": 4.7025795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -577,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
       "length": "PT56M",
       "ratings": {
-        "count": 2143,
-        "average": 4.5874944
+        "count": 2144,
+        "average": 4.5876865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1721,
-        "average": 4.625799
+        "count": 1722,
+        "average": 4.626016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,8 +907,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/",
       "length": "PT58M",
       "ratings": {
-        "count": 5527,
-        "average": 4.695133
+        "count": 5528,
+        "average": 4.695188
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1323,8 +1367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-data-to-azure-data-lake-storage/",
           "length": "PT50M",
           "ratings": {
-            "count": 1899,
-            "average": 4.6176934
+            "count": 1900,
+            "average": 4.6178946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1366,8 +1410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9899,
-            "average": 4.669563
+            "count": 9900,
+            "average": 4.669596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1596,51 +1640,6 @@
       "topics": [
         "Azure",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-secure-data-at-rest.md",
-      "title": "Introduction to securing data at rest on Azure",
-      "excerpt": "Identify the data in your organization and store it on Azure. Store secrets securely, and use client-side encryption and Storage Service Encryption to help protect your data.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-secure-data-at-rest/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 317,
-        "average": 4.7066245
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/secure-data-at-rest-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Storage",
-        "Security"
       ]
     }
   ],
