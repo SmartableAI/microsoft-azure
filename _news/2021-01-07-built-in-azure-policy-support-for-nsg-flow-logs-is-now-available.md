@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Automation is now available in South India"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2021-04-08T19:16:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-south-india-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
 
 secured: "v0DxbWkqe0hYvWPVRi+YWbwMISGa70vRS1zDRVvJKx93LNcHKyO5gbEy6RXqH4NBzj/LZJ8jagPSCEKub2p9CHqX1GH0Nl0PmI/Psrjz8gNSzSsoS92TsJyi2jmNxWVrDvdkqpjVU1GjtlTILVaYIfWcHd4w4hFJig0r2JeoCs1wAOJsIqph5S6pHx5dj1JySz31LDT7ciyc6Vc3GndsZ7vpFdU6ztPNb+lXP3QRuWfVdP4mYepCFlpBiv4mrhg+x3Ny8UGI/vz0JX94rzLvXYX+NuSnWaja9TiCChWUP6nWoFYtTLV43lQ37Y3pNcXFUEeKZ1LWvjzrFFcXfzX1TGz9tsYwdDUHpD4rWJu11zM=;hW6yHslU2EHdWtTxVD4XQw=="
 ---

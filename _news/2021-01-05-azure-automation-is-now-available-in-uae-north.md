@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-uae-north-region/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,15 @@ related:
     excerpt: "Network security group (NSG) Flow Logs can now be deployed and managed using built-in Azure policies.  You don't need to write your own policies to manage NSG Flow Log deployments."
     publishedDateTime: 2021-01-07T18:00:36Z
     webUrl: "https://azure.microsoft.com/en-us/updates/nsg-flow-logs-built-in-azure-policy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Automation is now available in South India"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts. "
+    publishedDateTime: 2021-04-08T19:16:01Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-south-india-region/"
     type: article
     provider:
       name: Microsoft
