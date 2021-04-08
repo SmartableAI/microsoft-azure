@@ -1,30 +1,26 @@
 ---
 category: news
 title: "QuerySurge is Now Available in the Microsoft Azure Marketplace"
-excerpt: "\"We are excited to release QuerySurge in the Azure marketplace as a pay-as-you-go solution,\" said Bill Hayduk, CEO of RTTS and leader of the QuerySurge software division. \"Microsoft Azure solves ..."
-publishedDateTime: 2021-03-18T09:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
-webUrl: "https://markets.businessinsider.com/news/stocks/querysurge-is-now-available-in-the-microsoft-azure-marketplace-1030222747"
+excerpt: "NEW YORK, March 18, 2021 /PRNewswire/ -- QuerySurge today announced the availability of its enterprise data validation & testing solution in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2021-03-18T09:01:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
+webUrl: "https://www.prnewswire.com/news-releases/querysurge-is-now-available-in-the-microsoft-azure-marketplace-301249739.html"
 type: article
-quality: 77
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg"
-    width: 400
-    height: 250
+  - url: "https://mma.prnewswire.com/media/1458626/QuerySurge_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
 related:
@@ -1892,6 +1888,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Llp0g6bqxSZ489intMOUlqUmSZvOiXUUafW/y0k1dooN3CJi+AozrRmY3nNWrTiTzeRf1v9z27yuWvSvzh4JEroZ9n7udGIRs9c23Dv/iyKtrceCyERekhQd8n8+cy0uPIzYzpm/tzAjPFkxD9iX6FjVvzn7vns45C6dLhRWIVf24ZUe00BGiFGwCjpZEdDN2QxMSHvjpP/DhFwY6KQPeNHtVsceiY0i4XZuNedsEpoFzOGEIFKsvM3vJwlwa/nw8uP67Ar/XOt+NoseKx43M+t6v4nw66YxT12bVWwoRd2XcVcxR/G8hadq4tLcNrt6VlkPdWlKiWisLrFIwn4MdT0lzh+P0b0HUW75MnMHmSU=;76z+n0bQP/S9PunlvRI2sg=="
+secured: "akO99GIZBOiEFczTXXF2YLiq1Q+D6z5X/ieq18o4EWsXofGCyWvSpCrqMUP9z7r9jkC0XcTbWLOVtoWMErfb4kkzYGpZwC/0FJaQNc9Nh69cbrAwCp0nedGq5iw2D2g9t7Ra2kxv7f+uOom0HGRCe0aSPHOffKQbREJRfgkEH6Fgix3CpVfiUj/bvdp7T1PNeMQIZY7o2uBIvUlJBaDEaOIoUqXos4Xp4vta5MyN7M8W0Caro2wBUPajWEvtetbiwf1Be5bUqlMkkCnHS6wRNS8Rx+uUQoq/1Gz9CXSZfnls0GrdBCx7ICiHbkbcdoW9WCw5PGL8Lzo3xD5MIGmJPkDh69Zo02X7MEnprETDEXk=;oiF7GsMfQX+xfYHv3nvxHg=="
 ---
 

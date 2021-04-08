@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-now-generally-available/"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:
