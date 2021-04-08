@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1718,
-        "average": 4.6251454
+        "count": 1719,
+        "average": 4.6253633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -52,8 +52,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 2198,
-        "average": 4.645587
+        "count": 2200,
+        "average": 4.6459093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,14 +178,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday.md",
-      "title": "Deploy your Web App in Windows Containers on Azure App Service | Azure Friday",
-      "excerpt": "Windows Container support is available in preview in Azure App Service. By deploying applications via Windows Containers in Azure App Service you can install your dependencies inside the container, call APIs currently blocked by the Azure App Service sandbox and use the power of containers to migrate",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-deploy-your-web-app-in-windows-containers-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=Fe_AYBD5m0I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fe_AYBD5m0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M48S",
+      "path": "_learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources.md",
+      "title": "Azure Friday | Azure App Service with Hybrid Connections to On-premises Resources",
+      "excerpt": "Christina Compy joins Scott Hanselman to talk about the recently relaunched App Service Hybrid Connections. This feature enables your apps in the App Service to reach resources on other networks. Those other networks can be in Azure, on-premises or networks in other cloud providers.   Azure App Service",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-app-service-with-hybrid-connections-to-on-premises-resources/",
+      "originalUrl": "https://youtube.com/watch?v=y_zAJZC_8Yk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y_zAJZC_8Yk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M54S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -198,11 +198,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-10T08:31:31-07:00",
+      "publishedDateTime": "2017-10-10T13:58:05-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Fe_AYBD5m0I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/y_zAJZC_8Yk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -213,8 +213,7 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Compute",
-        "Containers"
+        "Compute"
       ]
     },
     {
@@ -293,6 +292,46 @@
       "price": "Free",
       "topics": [
         "Azure",
+        "Compute"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-manage-virtual-machine-connectivity-with-the-azure-portal-azure-portal-series.md",
+      "title": "How to manage virtual machine connectivity with the Azure Portal | Azure Portal Series",
+      "excerpt": "In this video of the Azure Portal \"How To\" series, learn how to easily manage virtual machine connectivity through the Azure Portal. You’ll learn how to manage virtual machine network security groups for virtual network subnets and virtual machines.    Try out these features in the Azure portal: https://portal.azure.com/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-manage-virtual-machine-connectivity-with-the-azure-portal-azure-portal-series/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-manage-virtual-machine-connectivity-with-the-azure-portal-azure-portal-series/",
+      "originalUrl": "https://youtube.com/watch?v=jCx4rxdWkTM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jCx4rxdWkTM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-06T08:00:12-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jCx4rxdWkTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management tools",
         "Compute"
       ]
     },
@@ -376,46 +415,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks.md",
-      "title": "How to use Deployment Slots in Azure App Service for Containers | Azure Tips and Tricks",
-      "excerpt": "In this edition of Azure Tips and Tricks, learn how to use Deployment Slots in Microsoft Azure App Service for Containers.   For more tips and tricks, visit: https://aka.ms/azuretipsandtricks  Get started with 12 months of free services and $200 USD in credit. Create your free account today with Microsoft",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-use-deployment-slots-in-azure-app-service-for-containers-azure-tips-and-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=5rR5C4Z5dU4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5rR5C4Z5dU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M9S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-16T08:00:05-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5rR5C4Z5dU4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Containers"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-work-with-files-in-azure-app-service-azure-tips-and-tricks.md",
       "title": "How to work with files in Azure App Service | Azure Tips and Tricks",
       "excerpt": "In this edition of Azure Tips and Tricks, you'll learn how to work with files that you’ve uploaded to Azure App Service. Watch to find out what the different options are for interacting with the file system and your deployed applications in the Azure portal.   For more tips and tricks, visit: http://azuredev.tips/",
@@ -492,45 +491,6 @@
         "Azure",
         "Compute",
         "Web"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday.md",
-      "title": "Testing in production with Azure App Service | Azure Friday",
-      "excerpt": "Byron Tardif joins Scott Hanselman to show how to leverage Azure App Service features to empower your DevOps to achieve sophisticated scenarios like testing in production using deployment slots with just a few clicks.  Azure App Service overview https://aka.ms/azfr/565/01  Set up staging environments",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-testing-in-production-with-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=MP8fXgxq6xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MP8fXgxq6xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M36S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-09T00:04:45-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MP8fXgxq6xo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute"
       ]
     },
     {
@@ -1441,8 +1401,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-in-action/",
       "length": "PT30M",
       "ratings": {
-        "count": 2160,
-        "average": 4.7046294
+        "count": 2161,
+        "average": 4.7047663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1529,8 +1489,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/caching-and-performance-azure-storage-and-disks/",
       "length": "PT44M",
       "ratings": {
-        "count": 1973,
-        "average": 4.701977
+        "count": 1974,
+        "average": 4.7021275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1642,6 +1602,53 @@
       "topics": [
         "Azure",
         "Compute"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search.md",
+      "title": "Create an enrichment pipeline with Azure Cognitive Search",
+      "excerpt": "Use the power of artificial intelligence to enrich your data and find new insights.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-enrichment-pipeline-with-azure-cognitive-search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-enrichment-pipeline-azure-cognitive-search/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 31,
+        "average": 4.806452
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-an-enrichment-pipeline-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI",
+        "Compute",
+        "Serverless",
+        "Storage",
+        "Web"
       ]
     }
   ],

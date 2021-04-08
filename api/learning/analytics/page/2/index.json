@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-to-data-streaming.md",
+      "title": "Work with data streams by using Azure Stream Analytics",
+      "excerpt": "Explore how Azure Stream Analytics integrates with your applications or Internet of Things devices to gain insights with real-time streaming data.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-introduction-to-data-streaming/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 1475,
+        "average": 4.6542373
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/introduction-to-data-streaming-badge-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-petabyte-scale-ingestion-azure-data-factory.md",
       "title": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Petabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline",
@@ -181,8 +224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1718,
-        "average": 4.6251454
+        "count": 1719,
+        "average": 4.6253633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -266,8 +309,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 273,
-        "average": 4.571429
+        "count": 274,
+        "average": 4.572993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -781,49 +824,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines.md",
-      "title": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-      "excerpt": "Populate slowly changing dimensions in Azure Synapse Analytics pipelines",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/populate-slowly-changing-dimensions-azure-synapse-analytics-pipelines/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 16,
-        "average": 4.5625
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-synapse-analytics-pipelines-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-transform-data-with-azure-stream-analytics.md",
       "title": "Transform data by using Azure Stream Analytics",
       "excerpt": "Learn how to create Azure Stream Analytics jobs to process input data, transform it with a query, and return results",
@@ -993,6 +993,45 @@
       "topics": [
         "Azure",
         "Security",
+        "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-azure-friday-apache-kafka-on-hdinsight.md",
+      "title": "Azure Friday | Apache Kafka on HDInsight",
+      "excerpt": "Raghav Mohan joins Scott Hanselman to talk about Apache Kafka on HDInsight, which added the open-source distributed streaming platform last year to complete a scalable, big data streaming scenario on Azure. The service has come a long way since - processing millions of events/sec, petabytes of data/day",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-apache-kafka-on-hdinsight/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-apache-kafka-on-hdinsight/",
+      "originalUrl": "https://youtube.com/watch?v=gttwnNDHuZ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gttwnNDHuZ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M20S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-18T10:56:07-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gttwnNDHuZ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
         "Analytics"
       ]
     },
@@ -1467,50 +1506,6 @@
         "Azure",
         "Analytics",
         "Storage"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-query-delta-lake.md",
-      "title": "Build and query a Delta Lake",
-      "excerpt": "Build and query a Delta Lake",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-query-delta-lake/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-query-delta-lake/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 179,
-        "average": 4.6759777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-query-delta-lake-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
       ]
     }
   ],

@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-backup-restore-azure-sql.md",
-      "title": "Back up and restore your Azure SQL database",
-      "excerpt": "Protect the data in your Azure SQL database and recover from data loss or corruption with backup and restore.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-backup-restore-azure-sql/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/backup-restore-azure-sql/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 823,
-        "average": 4.63791
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/backup-restore-azure-sql-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-develop-app-that-queries-azure-sql.md",
       "title": "Develop and configure an ASP.NET application that queries an Azure SQL database",
       "excerpt": "Create an Azure SQL database to store data for an application, and create an ASP.NET application to query data from the database.",
@@ -54,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-app-that-queries-azure-sql/",
       "length": "PT50M",
       "ratings": {
-        "count": 2902,
-        "average": 4.5492764
+        "count": 2903,
+        "average": 4.549432
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 4584,
-        "average": 4.5427575
+        "count": 4585,
+        "average": 4.542857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -133,8 +90,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/",
       "length": "PT37M",
       "ratings": {
-        "count": 2895,
-        "average": 4.6500864
+        "count": 2896,
+        "average": 4.650207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -220,8 +177,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-cosmos-db-for-scale/",
       "length": "PT35M",
       "ratings": {
-        "count": 4264,
-        "average": 4.653377
+        "count": 4265,
+        "average": 4.6534586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,6 +935,84 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-how-to-partition-your-data-in-azure-cosmos-db-azure-friday.md",
+      "title": "How to partition your data in Azure Cosmos DB | Azure Friday",
+      "excerpt": "Carey MacDonald stops by to chat with Scott Hanselman about Azure Cosmos DB, a managed database service with unlimited horizontal scale, allowing you to scale storage and throughput independently.   In this video, Carey will cover how to partition your data in Azure Cosmos DB, best practices for choosing",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-partition-your-data-in-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-partition-your-data-in-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=UZiccUhvWKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UZiccUhvWKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-16T11:53:32-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UZiccUhvWKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday.md",
+      "title": "Using Entity Framework Core with Azure SQL DB and Azure Cosmos DB | Azure Friday",
+      "excerpt": "Jeremy Likness shows Scott Hanselman how to use Entity Framework (EF) Core with Azure SQL DB and Azure Cosmos DB. EF Core is a lightweight, extensible, open source, and cross-platform version of the popular Entity Framework data access technology.  0:00 – Overview 1:43 – Using Entity Framework Core with",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-entity-framework-core-with-azure-sql-db-and-azure-cosmos-db-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=FFgS_k_Muk8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FFgS_k_Muk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M58S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-23T11:57:54-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FFgS_k_Muk8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-database-for-postgresql.md",
       "title": "Azure Database for PostgreSQL",
       "excerpt": "Azure Database for PostgreSQL",
@@ -1008,8 +1043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
           "length": "PT20M",
           "ratings": {
-            "count": 2198,
-            "average": 4.645587
+            "count": 2200,
+            "average": 4.6459093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1243,8 +1278,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/",
       "length": "PT48M",
       "ratings": {
-        "count": 1718,
-        "average": 4.6251454
+        "count": 1719,
+        "average": 4.6253633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1274,6 +1309,49 @@
         "Storage",
         "AI",
         "Analytics"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-automatic-deployment-for-azure-sql-database.md",
+      "title": "Configure automatic deployment for Azure SQL Database",
+      "excerpt": "Utilize Azure Resource Manager templates for deploying Azure SQL resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-configure-automatic-deployment-for-azure-sql-database/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-automatic-deployment-azure-sql-database/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 107,
+        "average": 4.682243
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-automatic-deployment-for-azure-sql-database-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
       ]
     },
     {
@@ -1327,8 +1405,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
       "length": "PT20M",
       "ratings": {
-        "count": 2198,
-        "average": 4.645587
+        "count": 2200,
+        "average": 4.6459093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1572,85 +1650,6 @@
         "Databases",
         "Storage",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday.md",
-      "title": "Common design patterns with Azure Cosmos DB | Azure Friday",
-      "excerpt": "Aravind Krishna stops by to chat with Scott Hanselman and take a look at common design patterns for building highly scalable solutions with Azure Cosmos DB. We will talk a little bit about modeling data and how to choose an appropriate partition key. We then look at a few patterns like event sourcing,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-common-design-patterns-with-azure-cosmos-db-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=5YNJpGwj_Zs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5YNJpGwj_Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-12T16:53:12-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5YNJpGwj_Zs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday.md",
-      "title": "How to do bulk and transactional batch operations with the Azure Cosmos DB .NET SDK | Azure Friday",
-      "excerpt": "Matías Quaranta shows Donovan Brown how to do bulk operations with the Azure Cosmos DB .NET SDK to maximize throughput, and how to use the new Transactional Batch support to create atomic groups of operations.  2:21 - Demo: Batch API 6:32 - Demo: Bulk API  Bulk import data to Azure Cosmos DB SQL API",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-do-bulk-and-transactional-batch-operations-with-the-azure-cosmos-db-net-sdk-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=TPtGhQY1pZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TPtGhQY1pZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M53S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-10T11:46:02-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TPtGhQY1pZQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Databases",
-        "Developer tools"
       ]
     }
   ],

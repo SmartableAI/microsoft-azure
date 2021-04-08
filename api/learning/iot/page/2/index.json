@@ -4,6 +4,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps.md",
+      "title": "Automatically provision IoT devices securely and at scale with the Device Provisioning Service",
+      "excerpt": "The focus of this module is on creating a Device Provisioning Service (DPS) to securely handle multiple remote devices. First, you create an IoT Hub, and add the DPS service. Next, an X.509 root certificate, and multiple leaf certificates, are created to handle security. Code for a simulated device is provided. You then link all the pieces together, and verify that your DPS resource works. After completing the module, you should have a good understanding of how to provision Azure IoT devices at scale.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-automatically-provision-iot-devices-securely-and-at-scale-with-dps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/securely-provision-iot-devices-at-scale-with-device-provisioning-service/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 288,
+        "average": 4.6493053
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/automatically-provision-iot-devices-securely-at-scale-with-dps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
       "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
       "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
@@ -11,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 273,
-        "average": 4.571429
+        "count": 274,
+        "average": 4.572993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -534,8 +577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/",
       "length": "PT33M",
       "ratings": {
-        "count": 471,
-        "average": 4.5774946
+        "count": 472,
+        "average": 4.5783896
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -579,8 +622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remotely-monitor-devices-with-azure-iot-hub/",
       "length": "PT56M",
       "ratings": {
-        "count": 301,
-        "average": 4.667774
+        "count": 302,
+        "average": 4.6688743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -709,8 +752,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 262,
-        "average": 4.7137403
+        "count": 263,
+        "average": 4.7110267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -831,45 +874,6 @@
         "Azure",
         "IoT",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-azure-friday-azure-iot-hub.md",
-      "title": "Azure Friday | Azure IoT Hub",
-      "excerpt": "Olivier Bloch joins Scott Hanselman to discuss Azure IoT and how it is more than just about connecting IoT devices and sending telemetry to the Cloud. They also talk about Azure IoT device topics such as twins, provisioning, and lifecycle management.  For more information, see:  Azure IoT Hub - http://aka.ms/azureiotgetstarted",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-friday-azure-iot-hub/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-friday-azure-iot-hub/",
-      "originalUrl": "https://youtube.com/watch?v=smuZaZZXKsU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/smuZaZZXKsU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M47S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-11T10:16:28-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/smuZaZZXKsU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT"
       ]
     },
     {
