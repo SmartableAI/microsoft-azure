@@ -1,23 +1,30 @@
 ---
 category: news
-title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
-excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
-publishedDateTime: 2021-03-30T07:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
+excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
+publishedDateTime: 2021-04-08T05:30:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
 type: article
-quality: 14
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Azure
-  - IoT
-  - Security
+  - Migration
+
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -129,22 +136,6 @@ related:
       - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
-    excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
-    publishedDateTime: 2021-04-08T05:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 52
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
@@ -269,7 +260,16 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 19
+  - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
+    excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
+    publishedDateTime: 2021-03-30T07:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/argus-collaborates-with-microsoft-to-bring-end-to-end-automotive-cyber-security-cloud-solution-to/article_d20a3be3-fad4-5000-b66b-695fc1751f70.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
 
-secured: "FACpcren0Zfc4wB5Xmd8blgFVkDxjbPYsh0Xu3JlNFMf+roQaWDmN1VIvuhjkD6zATSENAM0It2DQgES84b94jXoe4Rxb8y95g6HlrdRdG7i0VkJ167innt0FQMHMjekZI9GhIMFaWUAmI8+tnfU3up/BFO3Apx9qJhjIS0BdDbkXrcEgxRNUqYZpLobi95A7NVRxxI/AtSYYfEGY+CUa3a6ffsqilPphJ8GyE+IWu2pABFaQXo1FQZI70O4YKAoP9Wpd1L1ow5HxEdPSuCbnAjoembe1OUdBe1wl+xcqiVeMbmbvN+JBvOXTYUagt5lGH8OP30EZKkVDEEPNykXjyu4PHf3ghkxeNwmaHlhTFyyKGUkBVyH33LkJ7F4XhZYfVpLeOiovl7l17GDqNu/nXEIRkc/03fFJX94G+z4xLliYa8oaMjnzqCujDXjckXk8svelcaiUvL990pNEBnKuiv0rOrffapdJaP276QjZDfpaU1jnOdfEq4NSkH8+x9EZm5kngM7wGoeSlqp092lMQ==;sbHr/1gGrJnnB8hsKeS20Q=="
+secured: "Z06TubELnsvixuAhlXKtZCz0/tHTLgNePtTU+0Q8xlnUsCQTqQsTXPqsTZ5uC+LVqCOJlLJbM1NOXtpXv1DOskhJasXmfBlB6TQK9wG5nChjkECiPDwqn/QKlmr/j7HARv6HeXph4wFjcckMIFvE7p9LPEYvGoHnKJNTS8CzHBmr6iiktpS8iKulckz8fGw9m+msG0B7vULEgVohTHjT0zAqo0c3JSlVK3hqz2Yw9Wx/inIztFpk3LjCV+jo2EyWYC1lft6+FKU5VqCWAdWCqO5wxYK2vREOFW3pyAEmC9lnxW18VOGZQhAOuc6S0zyv6lkQ+L+2Dv6GxJm84YdNS7enezKeff5IOWFMZy2zknM=;/Pj3f4XiouofkkZdVfMLRg=="
 ---
 

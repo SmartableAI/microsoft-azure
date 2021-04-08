@@ -120,6 +120,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
+    excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
+    publishedDateTime: 2021-04-08T05:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 52
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -253,6 +269,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "bfD3gW/nwuA/PcyPQRf5MrZLDU0mmgBgmOuJ8EdjSkHGo0FO2xfeDv7QYkkgVpZ2fsULUne1c73y6fiOye1f374rYr7Wj+sPXvX/R8qwOMnVKTFCr6azHs2yxugDbPbFd/0qpcXrUrBOHGLCZyDfx57jFayiARa4v2dXtoSK0Zez4PRQxkfpC6blPKPsYYo8om6N+hcb3jvz8nrxla22MTVcUAP32zHauvmPZaEDkbRW4CIkOh7o8gix4Ymmm44m41ZvOv9ASF7aT14fLHpM7A/pK1q5Xcz3NEEAhhW9qR0sTDUXGwww59gF1kberY/1sSEQcImpvSRPZoZyuk0iW4jf2X/Sv2IMXhJFIVWFG8I=;vu3yGOQVreNvD8a2d7rOqA=="
+secured: "tyNntNahz21dOkrXA2UQBUEobO1VWGFGal2n1BlBnLkSSSZ2laq0RHPrD5DlPnpAUHYL07L6pwxG1qtIUJg42m9Wr20AOA+bqduNrNCkNZLbltfdzGKptXQK2zOWWz188wmtOYaa4tNcbnR4/5woTxqJTM9CrQ0hOEhNAiMsHtqaH37KTKk3JfTJFJC9WPdOkGTTWJiN60kLx5lpVKKDkreX2bJAtRtAxYM2+IAnXID20gcdtGSwVovYBWkq6j8XQ2scjhM+deTPKmZz6aXK1+wkog+WnIoXLPDIgbcgnKThpYZeB0XH6byg2EzUUWKAj+Zqkf1e0Mc4ruce4Lk0UamKuFTXCMI8opKFYOzZqnM=;GvOrA2YrcfbtmezYCfAi5w=="
 ---
 

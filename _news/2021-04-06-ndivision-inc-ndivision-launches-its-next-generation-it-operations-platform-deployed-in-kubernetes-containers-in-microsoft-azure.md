@@ -129,6 +129,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
+    excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
+    publishedDateTime: 2021-04-08T05:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 52
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
