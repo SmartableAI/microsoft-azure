@@ -136,6 +136,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
+    excerpt: "Elsewhere in the Microsoft ecosystem, Redstor has announced it is making services available to help other partners manage and protect user data on Azure and Office 365. Redstor’s offering will help arm service providers with the tools to identify and ..."
+    publishedDateTime: 2021-04-08T09:11:00Z
+    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
+    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 57
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
     publishedDateTime: 2021-04-06T12:04:00Z

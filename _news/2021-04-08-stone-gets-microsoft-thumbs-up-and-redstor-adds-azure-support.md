@@ -1,22 +1,29 @@
 ---
 category: news
-title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
-excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
-publishedDateTime: 2021-04-06T11:10:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
+title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
+excerpt: "Elsewhere in the Microsoft ecosystem, Redstor has announced it is making services available to help other partners manage and protect user data on Azure and Office 365. Redstor’s offering will help arm service providers with the tools to identify and ..."
+publishedDateTime: 2021-04-08T09:11:00Z
+originalUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
+webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
+ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - Azure
-  - Containers
+
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
+    width: 1200
+    height: 400
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -128,22 +135,6 @@ related:
       - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
-    excerpt: "Elsewhere in the Microsoft ecosystem, Redstor has announced it is making services available to help other partners manage and protect user data on Azure and Office 365. Redstor’s offering will help arm service providers with the tools to identify and ..."
-    publishedDateTime: 2021-04-08T09:11:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
-    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 57
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
@@ -273,6 +264,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
+    excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
+    publishedDateTime: 2021-04-06T11:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
   - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
     excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
     publishedDateTime: 2021-03-30T07:00:00Z
@@ -283,6 +283,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "zaSEJxxB49sV2dNztk/9A7+SgEBHs/GvRo+9KnY+mz7hZO6r18kTfR7BDfmcfJbMz0SxZS7Vty4x+tAq0J5LZTfFXRNOWv0p5KnB1QCG/0JsNZeScdtUIPMCReGolrdg/8y7pug81Jec1TO4DtaakWk+2gmBSkAklTfoyigSZ0MdnoGl5rVFE9sdxr13eRMN3dt4lS1Qnbt42jgL4G1eDWhNJCvGRliBglHmY4EUII/XMXpagxFeGFmXm+9oTAFDYioCCjebClEuIqv5MIzcSXPxkyLwPQViFMUVv7gwomXY3KHnm4NoNWwuTQn90fPpwd4DZ4CCWPMX51/GSXjlsl3Q4sIU0O0YHakJHC1a1zs=;h/RPhF7EA6GL72amDsUvaQ=="
+secured: "3Gz7nh7qM1IHskDTGhnCdC+JUjVLusEbQOcvaQbpWUeNwDirChDACmO25gkQQjldG5MM8hc16hvvRfeegAg4wZwWw4Un9PLQBEBLOq3ZQ8o8skjXHquRmXI3l+8SOGujQaDGSqDfCSZ2FwU3vZqAjlQyzuOAkHWzysQZaVFkla9f2QKamBnlejUSQB49Hg7xq83MvnCVR4rFbVIHFvRiU4IGqXE6HqwJclREzb1taUwkhRy4oBeklUZsR4HsUSiOXJHUmuTV4ZWSv9RWRwCXA9BjKkYvYfqBj8Qesf6oLOrBaSkibqjqiMIguI+YK2w3T1mUm+nSwGey+JF1CU0OAPRgQx6T9hSC6ISN18V4u5I=;7rpaA5xgtRx9x6x5l499Sg=="
 ---
 

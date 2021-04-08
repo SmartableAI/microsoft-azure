@@ -124,6 +124,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Stone gets Microsoft thumbs-up and Redstor adds Azure support"
+    excerpt: "Elsewhere in the Microsoft ecosystem, Redstor has announced it is making services available to help other partners manage and protect user data on Azure and Office 365. Redstor’s offering will help arm service providers with the tools to identify and ..."
+    publishedDateTime: 2021-04-08T09:11:00Z
+    webUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support"
+    ampWebUrl: "https://www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/microscope/news/252499041/Stone-gets-Microsoft-thumbs-up-and-Redstor-adds-Azure-support?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 57
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
