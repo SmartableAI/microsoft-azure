@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT48M
 ratings:
-  count: 6551
-  average: 4.7150054
+  count: 6553
+  average: 4.715092
 heat: 57
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - Containers
   - Databases
 
-secured: "60yLGVAYznaYvQRL/gOa44af9PQHqWTy2WqXW8OYmShLmU2l/hbgaRuOmNPowswx6u/AI0CPg40rfutK4CmqvwEvCAGTI14CVtCdP3VKWAlrt0VAmmhCM0vfeMnwSAA7LEUivCss7eYY4+fjiv59sN3ZobqJ0khBLFGL+Jc8gZNQs6idMX2J3BzqVVzG6g9eP6U1lYXSfSlhg6sNPi+LoBCK22foORkpbi2VkKf+4BvKDBxbjweTCaQrIrMiRlkS0qENpHY0AAOmmnozYweAr6MsHHJGo9ENtNPq0rZsL/PTXsauk5fqabReaiAMJ7hj35F3Y1GPAHI3ONC9xlNWQeVUkOAcYKUxQf28BTVSIDambLuz35qvG++U7cRq1n1wJiCHBFGuRtDGqAxzZasZfSgbZjUVWhJGpLTuThmknPo=;KDykGLL9UOwTeeuT4nKGxQ=="
+secured: "oNHdXdOTxaJ2LmZA2Ke0yL82XnjQ1GOwCCAlYLOZQFe7DwMDX+hBtXTvVzmemQmSr63aNGwdBs8NM8PzEew5ae48WvsTV27nggxszTLeimaO5nB4/imgAmQZcj5Ivf19CMtQtGjnO7bRZ5+odHJO2nAUyjBCIGqMXj60xmUg6M7ORMMVKIrUmHNF3PjmwHGOrJBrOYDYNnHoCRWPjgCV6D+5WMKasITd5OrQs1blDp5TZ7BlK0Ray/3be26eyHgTfh+qZCi8SUYw9S1z290GVlwch2blLzrSm9V11Z/qb7hkJIhNOq9NJXfsTgmhRmbKxUadWGw7opIZjIYFgmCitccJD19Ll3v/SYfTmC7oD63XHilYeJn39JddqmZDt9tp43m9aMk8rpmeh26zxLmY9wKFSnnRtcXMefCZs/wFFOU=;cEZjBAHb1K/JDnJrrwnkHg=="
 ---
 
