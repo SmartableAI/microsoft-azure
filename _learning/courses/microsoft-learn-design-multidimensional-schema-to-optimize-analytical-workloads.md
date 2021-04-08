@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 12
   average: 4.5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 641
     isCached: true
 
-secured: "k+Qj2QR28aJJ38/kR+/FVWKRzlK2eohQe+j0fnFDPnjVhqVbbqYsDAX2TBTWmvcvpGc8NaCf1U1fP00GVe1nKBTEYOw1eprz/MbRi/M7tf8lcQeFM3mTLBJzqoiIS5kVeYu+Lr34IfdNyzlcaHggspyDYVq1zEEvg33FhRLeGQXVAGjMC6tIXayH6RW+TY26p+p+nkMn4AV+InD1D8KfGkDCIsg1R7y2/URzW8XnZ0/DrF5AbYczCmtioxcXwcCYGAzejKEM32kWueWDI5V/gCUYBI6kZGBwTg/FuCc9QiYtfTghgwEm1MuNE15va637QxyBiNuHenA84DWinD29WDqiPA6xVcv1K6r8pVuSzbACcfnqG1Gx3VF1evLFgcDYeszN+cb8F9JbhC5uqnLuvT4MQriWQtzAXCF3dWbYw0E=;7liEnnoj9SRA1ETNZQsO8A=="
+secured: "8OuidL8oAoinmFLSJkdUV5+THdGUP5qnzJQUACE23nral35dt6MMo/bfdc4yFToCcONF5608M4OzCPeOo/9lMWrIM44UjtE4r8YmPbqWBAomQKzv2PFOuA2KhFDdC+jV5Cu5wnn/yJXEwrhZdKejdTnHe+cp3KGajilxrcgeEFM2yBYhLGhhdYhXCDhYq7tYgSIM+cPFT0zdSxKIyWql3EkfFOiHbAL4MVNWRlM5h+Ioq7cxqc5hk6VsUiTDavS/X0tYR9M6FKU4AjMlo1E+Qd+IiFdlhp0v3NO9F9TLyTXfitpiraBnjI1TZ6GNY8CiApnXW4ShjXTPkVrli2/NjwZUtuFk0rEUHKpPI2CW8UlA0AsvzbyIikMtgJTh9UIYsAdFW5DaBlKMwij72tqUWCgS57ihN9nJtxmje4MYXjM=;6XM+U848AtH/4NBg4DfWqA=="
 ---
 
