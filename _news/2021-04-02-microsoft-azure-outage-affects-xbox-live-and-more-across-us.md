@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft Azure outage affects XBox Live and more across US"
-excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
-publishedDateTime: 2021-04-01T23:07:00Z
-originalUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-webUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector.com reported problems ..."
+publishedDateTime: 2021-04-01T22:36:00Z
+originalUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: FOX43
-  domain: fox43.com
+  name: WVEC
+  domain: 13newsnow.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+  - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -119,22 +119,6 @@ related:
       - url: "https://media.wgrz.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
-    excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
-    publishedDateTime: 2021-04-08T05:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 52
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
@@ -250,6 +234,20 @@ related:
         width: 840
         height: 460
         isCached: true
+  - title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-04-08T04:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
     publishedDateTime: 2021-04-06T11:10:00Z
@@ -269,6 +267,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "tyNntNahz21dOkrXA2UQBUEobO1VWGFGal2n1BlBnLkSSSZ2laq0RHPrD5DlPnpAUHYL07L6pwxG1qtIUJg42m9Wr20AOA+bqduNrNCkNZLbltfdzGKptXQK2zOWWz188wmtOYaa4tNcbnR4/5woTxqJTM9CrQ0hOEhNAiMsHtqaH37KTKk3JfTJFJC9WPdOkGTTWJiN60kLx5lpVKKDkreX2bJAtRtAxYM2+IAnXID20gcdtGSwVovYBWkq6j8XQ2scjhM+deTPKmZz6aXK1+wkog+WnIoXLPDIgbcgnKThpYZeB0XH6byg2EzUUWKAj+Zqkf1e0Mc4ruce4Lk0UamKuFTXCMI8opKFYOzZqnM=;GvOrA2YrcfbtmezYCfAi5w=="
+secured: "Y2Z4b2nUJFb6rh1Au814wEi5JCAZ0ylvuz3CCNxyukP78Nv6V0TCSGbBY51BCLA7TvMci6JC/NQ75YrXiPtO7JmArpFwOwSlrzv1O0KM57HYnNBruTaM6JX6QdcQx8M82qa6sy1FrvdpiONlIhYWb6/7f1z3BT5+vy+y8so0RcnbWXiAlPIzJCc1/wy/3273ytpCnPTXfaYIkNPBSshnMxxGyeTSKQHmbrkFys0DpCnOid5mlRnttoHZfkuMVKabhEJKVkALkzBOHUJ34gL2o5+1t46S/YKIMZghiXuIaM47EPY9fsQQJvsaZZHkhrtY7AJSTx5PQN6ANbiX9dDBfl62M+IH+D9WAquvj7215r4=;mAbmyuU8OaSnKVO0qUQhxA=="
 ---
 

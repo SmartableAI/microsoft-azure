@@ -1,29 +1,27 @@
 ---
 category: news
-title: "IFI Techsolutions has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization"
-excerpt: "... IFI Techsolutions (www.ifi.tech), today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner's deep knowledge, extensive experience and expertise in ..."
-publishedDateTime: 2021-04-08T05:30:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-121040800380_1.html"
+title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+publishedDateTime: 2021-04-08T04:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
   - Migration
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/08/full/20210408104307.jpg"
-    width: 600
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
     isCached: true
 
 related:
@@ -122,18 +120,18 @@ related:
         height: 641
         isCached: true
   - title: "Microsoft Azure outage affects XBox Live and more across US"
-    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday."
-    publishedDateTime: 2021-04-01T23:07:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector.com reported problems ..."
+    publishedDateTime: 2021-04-01T22:36:00Z
+    webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
     type: article
     provider:
-      name: FOX43
-      domain: fox43.com
+      name: WVEC
+      domain: 13newsnow.com
     quality: 57
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+      - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -270,6 +268,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "Z06TubELnsvixuAhlXKtZCz0/tHTLgNePtTU+0Q8xlnUsCQTqQsTXPqsTZ5uC+LVqCOJlLJbM1NOXtpXv1DOskhJasXmfBlB6TQK9wG5nChjkECiPDwqn/QKlmr/j7HARv6HeXph4wFjcckMIFvE7p9LPEYvGoHnKJNTS8CzHBmr6iiktpS8iKulckz8fGw9m+msG0B7vULEgVohTHjT0zAqo0c3JSlVK3hqz2Yw9Wx/inIztFpk3LjCV+jo2EyWYC1lft6+FKU5VqCWAdWCqO5wxYK2vREOFW3pyAEmC9lnxW18VOGZQhAOuc6S0zyv6lkQ+L+2Dv6GxJm84YdNS7enezKeff5IOWFMZy2zknM=;/Pj3f4XiouofkkZdVfMLRg=="
+secured: "ZzLi80jHe662HVcINa+P5aGdAT83qfId58qrwR4qvlAtJeUTt9bmEW26lLQIoR2YdzzLr82pmGSe3L51HIpVJdK5W5gHnmWt6UYK/MifmfYF/k0GA3RpZ9otG6hGvhP78WZWWfL/iuc+OI0lvTAH5z6wPVsmtqSr3sXvUh4qacq44S9w1Jsgl2lyQM/AZKunvb4dJgrsp+U4XkWLf5COlxh0E4rFBeVjOMvkS5YjeQMp9fRxuPyxwoZ5U9+pb2jmwQA0Zahrvkjw46DwPl5XZA8qlTRatJ9VFXQUFlywZI0+vDIAvlxSE5K6S9KFM+h79vepR2TeDZcn3hULnoRunCvlb+vbP94wtOKoF+Y78Fg=;lPpgbmGuD0J97wDqKGwM3Q=="
 ---
 
