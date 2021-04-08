@@ -4,50 +4,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training.md",
-      "title": "Deep learning with Horovod for distributed training",
-      "excerpt": "Deep learning with Horovod for distributed training",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deep-learning-with-horovod-distributed-training/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deep-learning-with-horovod-distributed-training/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 39,
-        "average": 4.4358974
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deep-learning-with-horovod-distributed-training-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Analytics",
-        "AI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-deploy-aspnet-apps-azure-app-service-pipelines.md",
       "title": "Deploy ASP.NET web apps with Azure Pipelines",
       "excerpt": "Azure Pipelines help automate building, deploying, and maintaining your applications. While they support a wide range of platforms and programming languages, in this module you’ll focus on using them to implement ASP.NET apps on Azure App Service Web Apps with Azure SQL Database as their data store.",
@@ -99,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-azure-sql-database/",
       "length": "PT48M",
       "ratings": {
-        "count": 2152,
-        "average": 4.789963
+        "count": 2153,
+        "average": 4.7900605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -452,8 +408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-mariadb-mysql-postgresql-azure/",
       "length": "PT23M",
       "ratings": {
-        "count": 2470,
-        "average": 4.7704453
+        "count": 2471,
+        "average": 4.7705383
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -538,8 +494,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
       "length": "PT43M",
       "ratings": {
-        "count": 515,
-        "average": 4.7961164
+        "count": 516,
+        "average": 4.7965117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -580,8 +536,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sql-server-virtual-machine/",
       "length": "PT60M",
       "ratings": {
-        "count": 2816,
-        "average": 4.7801847
+        "count": 2817,
+        "average": 4.7802625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1326,6 +1282,51 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-your-site-recovery-solution-in-azure.md",
+      "title": "Design your site recovery solution in Azure",
+      "excerpt": "Protect your applications and data from disasters with a well-designed site recovery solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-your-site-recovery-solution-in-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-site-recovery-solution-in-azure/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 77,
+        "average": 4.7012987
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-your-site-recovery-solution-on-azure-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "Storage",
+        "Migration"
       ]
     }
   ],
