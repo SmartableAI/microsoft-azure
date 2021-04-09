@@ -4,6 +4,179 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-implement-access-management-for-apps.md",
+      "title": "Implement Access Management for Apps",
+      "excerpt": "Implement Access Management for Apps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-implement-access-management-for-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-implement-access-management-for-apps/",
+      "length": "PT2H7M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso.md",
+          "title": "Plan and design the integration of enterprise apps for SSO",
+          "excerpt": "Plan and design the integration of enterprise apps for SSO",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-plan-design-integration-of-enterprise-apps-for-sso/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-design-integration-of-enterprise-apps-for-sso/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 142,
+            "average": 4.838028
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso.md",
+          "title": "Implement and monitor the integration of enterprise apps for SSO",
+          "excerpt": "Implement and monitor the integration of enterprise apps for SSO",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-monitor-integration-of-enterprise-apps-for-sso/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-monitor-integration-of-enterprise-apps-for-sso/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 150,
+            "average": 4.806667
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity",
+            "Integration"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-implement-app-registration.md",
+          "title": "Implement app registration",
+          "excerpt": "Implement app registration",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-app-registration/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-app-registration/",
+          "length": "PT54M",
+          "ratings": {
+            "count": 205,
+            "average": 4.746341
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Identity"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-knowledge-mining-with-azure-cognitive-search.md",
       "title": "Implement knowledge mining with Azure Cognitive Search",
       "excerpt": "Do you have information locked up in structured and unstructured data sources?  Using Azure Cognitive Search, you can extract key insights from this data, and enable applications to search and analyze them.",
@@ -215,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-hybrid-identity-windows-server/",
           "length": "PT1H49M",
           "ratings": {
-            "count": 51,
-            "average": 4.647059
+            "count": 52,
+            "average": 4.6538463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-manage-azure-iaas-active-directory-domain-controllers-azure/",
           "length": "PT39M",
           "ratings": {
-            "count": 35,
-            "average": 4.6571426
+            "count": 36,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-ip-addressing-routing/",
           "length": "PT53M",
           "ratings": {
-            "count": 28,
-            "average": 4.785714
+            "count": 29,
+            "average": 4.793103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -393,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-dns-for-windows-server-iaas-virtual-machines/",
           "length": "PT50M",
           "ratings": {
-            "count": 32,
-            "average": 4.75
+            "count": 33,
+            "average": 4.757576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -438,8 +611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-windows-server-iaas-virtual-machine-network-security/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 36,
-            "average": 4.6944447
+            "count": 37,
+            "average": 4.7027025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1331,7 +1504,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
@@ -2136,176 +2309,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-sc-200-part-8-perform-threat-hunting-in-azure-sentinel.md",
-      "title": "SC-200 part 8: Perform threat hunting in Azure Sentinel",
-      "excerpt": "SC-200 part 8: Perform threat hunting in Azure Sentinel",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-sc-200-part-8-perform-threat-hunting-in-azure-sentinel/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-sc-200-part-8-perform-threat-hunting-in-azure-sentinel/",
-      "length": "PT1H56M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-what-is-threat-hunting-azure-sentinel.md",
-          "title": "Hunt for threats with Azure Sentinel",
-          "excerpt": "Hunt for threats with Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-what-is-threat-hunting-azure-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/what-is-threat-hunting-azure-sentinel/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 25,
-            "average": 4.76
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-hunt-threats-sentinel.md",
-          "title": "Threat hunting with Azure Sentinel",
-          "excerpt": "Threat hunting with Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-hunt-threats-sentinel/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/hunt-threats-sentinel/",
-          "length": "PT1H5M",
-          "ratings": {
-            "count": 69,
-            "average": 4.753623
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/hunt-threats-sentinel-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks.md",
-          "title": "Hunt for threats using notebooks in Azure Sentinel",
-          "excerpt": "Hunt for threats using notebooks in Azure Sentinel",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-perform-threat-hunting-sentinel-with-notebooks/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-threat-hunting-sentinel-with-notebooks/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 24,
-            "average": 4.875
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Security"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-sc-300-part-3-implement-access-management-for-apps.md",
       "title": "SC-300 part 3: Implement Access Management for Apps",
       "excerpt": "SC-300 part 3: Implement Access Management for Apps",
@@ -2613,7 +2616,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/describe-security-capabilities-of-azure-sentinel-social.png",

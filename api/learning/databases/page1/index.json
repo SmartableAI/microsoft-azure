@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10277,
-            "average": 4.7207355
+            "count": 10280,
+            "average": 4.720817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9091,
-            "average": 4.7588825
+            "count": 9098,
+            "average": 4.758848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7257,
-            "average": 4.759956
+            "count": 7265,
+            "average": 4.759945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 7899,
-            "average": 4.636283
+            "count": 7904,
+            "average": 4.6360073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -230,16 +230,51 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-describe-sql-server-query-plans.md",
-      "title": "Describe SQL Server query plans",
-      "excerpt": "Read and understand various forms of execution plans. Compare estimated vs actual plans. Learn how and why plans are generated.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-describe-sql-server-query-plans/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-sql-server-query-plans/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 635,
-        "average": 4.766929
+      "path": "_learning/videos/microsoft-scale-your-cloud-app-with-azure-cache-for-redis-azure-friday.md",
+      "title": "Scale Your Cloud App with Azure Cache for Redis | Azure Friday",
+      "excerpt": "Ye Gu joins Scott Hanselman to discuss Azure Cache for Redis, a popular open-source in-memory data store that uses DRAM to store the most frequently used or time-sensitive data for fast retrieval. With it, you can create applications on Azure that handle millions of requests per second at down to sub-millisecond",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-scale-your-cloud-app-with-azure-cache-for-redis-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-scale-your-cloud-app-with-azure-cache-for-redis-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=K7_gnzge6Oc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K7_gnzge6Oc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M4S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
+      "publishedDateTime": "2021-02-05T16:48:12-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K7_gnzge6Oc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -258,9 +293,17 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/describe-sql-server-query-plans-social.png",
-          "width": 642,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for performance and scalability in Azure",
           "isCached": true
         }
       ],
@@ -269,7 +312,11 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Databases"
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "Networking"
       ]
     },
     {
@@ -280,8 +327,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 10277,
-        "average": 4.7207355
+        "count": 10280,
+        "average": 4.720817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -350,8 +397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/",
           "length": "PT44M",
           "ratings": {
-            "count": 12856,
-            "average": 4.5923305
+            "count": 12858,
+            "average": 4.592394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -551,8 +598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7156,
-            "average": 4.765372
+            "count": 7159,
+            "average": 4.7651906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -594,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7383,
-            "average": 4.6681566
+            "count": 7384,
+            "average": 4.6682014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -672,8 +719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9902,
-            "average": 4.6696625
+            "count": 9904,
+            "average": 4.669729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -796,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10277,
-            "average": 4.7207355
+            "count": 10280,
+            "average": 4.720817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,8 +925,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3878,
-            "average": 4.595668
+            "count": 3879,
+            "average": 4.5957723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1020,7 +1067,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1044,8 +1091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-a-web-app-with-azure-app-service/",
           "length": "PT58M",
           "ratings": {
-            "count": 6124,
-            "average": 4.6244283
+            "count": 6125,
+            "average": 4.6243267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1117,8 +1164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-app-service-migration-assistant/",
           "length": "PT36M",
           "ratings": {
-            "count": 104,
-            "average": 4.730769
+            "count": 105,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1184,8 +1231,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13395,
-        "average": 4.6845093
+        "count": 13398,
+        "average": 4.68458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,8 +1290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5243,
-            "average": 4.706847
+            "count": 5245,
+            "average": 4.706959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,8 +1514,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1471,
-            "average": 4.7505097
+            "count": 1473,
+            "average": 4.750849
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1509,8 +1556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1396,
-            "average": 4.7356734
+            "count": 1397,
+            "average": 4.7358627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1553,8 +1600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 835,
-            "average": 4.730539
+            "count": 836,
+            "average": 4.730861
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1595,8 +1642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 829,
-            "average": 4.7358265
+            "count": 830,
+            "average": 4.7361445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1695,8 +1742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5243,
-            "average": 4.706847
+            "count": 5245,
+            "average": 4.706959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2019,8 +2066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3878,
-            "average": 4.595668
+            "count": 3879,
+            "average": 4.5957723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2359,8 +2406,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3286,
-            "average": 4.6868534
+            "count": 3287,
+            "average": 4.686949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2433,8 +2480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6419,
-            "average": 4.680168
+            "count": 6420,
+            "average": 4.680218
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2736,6 +2783,231 @@
         "Azure",
         "Management tools",
         "Databases"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-java-on-azure.md",
+      "title": "Java on Azure",
+      "excerpt": "Start here and learn how you can build, migrate and scale Java applications on Azure leveraging Azure services, and using tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform etc.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-java-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-java-on-azure/",
+      "length": "PT4H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
+          "title": "Introduction to Java on Azure",
+          "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 76,
+            "average": 4.7236843
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+          "title": "Choose an Azure service for deploying your Java application",
+          "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 54,
+            "average": 4.8333335
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Serverless",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+          "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+          "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 33,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
+          "title": "Deploy a Java web app to Azure",
+          "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 26,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 13,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Compute",
+        "Web",
+        "Management Tools",
+        "Databases",
+        "Containers",
+        "Mobile"
       ]
     },
     {
@@ -3097,8 +3369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/store-access-data-cosmos-graph-api/",
           "length": "PT42M",
           "ratings": {
-            "count": 1644,
-            "average": 4.649635
+            "count": 1645,
+            "average": 4.649848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3150,231 +3422,6 @@
         "Azure",
         "Databases",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-java-on-azure.md",
-      "title": "Java on Azure",
-      "excerpt": "Start here and learn how you can build, migrate and scale Java applications on Azure leveraging Azure services, and using tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform etc.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-java-on-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-java-on-azure/",
-      "length": "PT4H50M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate",
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
-          "title": "Introduction to Java on Azure",
-          "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
-          "length": "PT37M",
-          "ratings": {
-            "count": 76,
-            "average": 4.7236843
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
-          "title": "Choose an Azure service for deploying your Java application",
-          "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
-          "length": "PT25M",
-          "ratings": {
-            "count": 54,
-            "average": 4.8333335
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web",
-            "Serverless",
-            "Containers"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
-          "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
-          "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 33,
-            "average": 4.6666665
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Web"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
-          "title": "Deploy a Java web app to Azure",
-          "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
-          "length": "PT21M",
-          "ratings": {
-            "count": 26,
-            "average": 4.769231
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute"
-          ]
-        }
-      ],
-      "size": 13,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity",
-        "Compute",
-        "Web",
-        "Management Tools",
-        "Databases",
-        "Containers",
-        "Mobile"
       ]
     },
     {
@@ -3724,8 +3771,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
       "length": "PT48M",
       "ratings": {
-        "count": 6557,
-        "average": 4.715266
+        "count": 6558,
+        "average": 4.7150044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3912,50 +3959,6 @@
         "Databases",
         "Migration",
         "Management Tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools.md",
-      "title": "Scale multiple Azure SQL Databases with SQL elastic pools",
-      "excerpt": "Learn how to create SQL elastic pools and how to use them to manage performance and cost for a collection of SQL databases.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-scale-azure-sql-dbs-elastic-pools/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 3878,
-        "average": 4.595668
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-scale-azure-sql-databases-elastic-pools-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "Databases"
       ]
     }
   ],

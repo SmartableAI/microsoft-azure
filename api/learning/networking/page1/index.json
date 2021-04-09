@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10277,
-            "average": 4.7207355
+            "count": 10280,
+            "average": 4.720817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9091,
-            "average": 4.7588825
+            "count": 9098,
+            "average": 4.758848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7257,
-            "average": 4.759956
+            "count": 7265,
+            "average": 4.759945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 7899,
-            "average": 4.636283
+            "count": 7904,
+            "average": 4.6360073
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -230,6 +230,57 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-design-for-performance-and-scalability.md",
+      "title": "Design for performance and scalability in Azure",
+      "excerpt": "Scaling your system to handle load, identifying network bottlenecks, and optimizing your storage performance are important to ensure your users have the best experience. Learn how to make your application perform at its best.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-for-performance-and-scalability/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-for-performance-and-scalability-in-azure/",
+      "length": "48 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/design-for-performance-and-scalability-in-azure-social.png",
+          "width": 200,
+          "height": 200,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-well-architected-framework-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Design for performance and scalability in Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases",
+        "Serverless",
+        "Containers",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-azure-networking-fundamentals.md",
       "title": "Explore Azure networking services",
       "excerpt": "Learn about the core networking resources that are available in Azure, such as Virtual Networks, VPN Gateway, and ExpressRoute.",
@@ -237,8 +288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
       "length": "PT38M",
       "ratings": {
-        "count": 7899,
-        "average": 4.636283
+        "count": 7904,
+        "average": 4.6360073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -303,8 +354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5182,
-            "average": 4.738325
+            "count": 5184,
+            "average": 4.7384257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -346,8 +397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18212,
-            "average": 4.6986055
+            "count": 18214,
+            "average": 4.6986384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -416,8 +467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3830,
-            "average": 4.7258487
+            "count": 3831,
+            "average": 4.72592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -498,8 +549,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5182,
-            "average": 4.738325
+            "count": 5184,
+            "average": 4.7384257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -541,8 +592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18212,
-            "average": 4.6986055
+            "count": 18214,
+            "average": 4.6986384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -611,8 +662,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3830,
-            "average": 4.7258487
+            "count": 3831,
+            "average": 4.72592
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -663,6 +714,45 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
+      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
+      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
+      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M11S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T08:29:39-07:00",
+      "heat": 86,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Networking"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-network-security-in-azure.md",
       "title": "Implement network security in Azure",
       "excerpt": "Learn how to configure, protect, and isolate your networks in Azure.",
@@ -694,8 +784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-network-connectivity-azure/",
           "length": "PT32M",
           "ratings": {
-            "count": 5369,
-            "average": 4.7858076
+            "count": 5373,
+            "average": 4.785781
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +826,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8076,
-            "average": 4.653789
+            "count": 8080,
+            "average": 4.6538367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -772,8 +862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8594,
-            "average": 4.666046
+            "count": 8596,
+            "average": 4.666124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -870,45 +960,6 @@
         "Management Tools",
         "Networking",
         "Security"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday.md",
-      "title": "Using Azure Cross-region Load Balancer for high availability scenarios | Azure Friday",
-      "excerpt": "Irene Huang joins Scott Hanselman to show him Cross-region Load Balancer, which recently became available for Public Preview. Cross-region Load Balancer is a Public layer-4 network load balancer serving as a single point of contact for global traffic. It provides efficient routing by leveraging Microsoft's",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=3awUwUIv950",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3awUwUIv950\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M11S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-26T08:29:39-07:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3awUwUIv950/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Networking"
       ]
     },
     {
@@ -1028,8 +1079,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8594,
-            "average": 4.666046
+            "count": 8596,
+            "average": 4.666124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1072,8 +1123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5066,
-            "average": 4.7518754
+            "count": 5067,
+            "average": 4.751924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1157,8 +1208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8076,
-            "average": 4.653789
+            "count": 8080,
+            "average": 4.6538367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1193,8 +1244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3297,
-            "average": 4.7898088
+            "count": 3298,
+            "average": 4.7898726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1236,8 +1287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5066,
-            "average": 4.7518754
+            "count": 5067,
+            "average": 4.751924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1330,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8594,
-            "average": 4.666046
+            "count": 8596,
+            "average": 4.666124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1366,8 +1417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8076,
-            "average": 4.653789
+            "count": 8080,
+            "average": 4.6538367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
           "length": "PT37M",
           "ratings": {
-            "count": 3297,
-            "average": 4.7898088
+            "count": 3298,
+            "average": 4.7898726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1496,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5066,
-            "average": 4.7518754
+            "count": 5067,
+            "average": 4.751924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
           "length": "PT43M",
           "ratings": {
-            "count": 8594,
-            "average": 4.666046
+            "count": 8596,
+            "average": 4.666124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1553,8 +1604,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
       "length": "PT1H34M",
       "ratings": {
-        "count": 8076,
-        "average": 4.653789
+        "count": 8080,
+        "average": 4.6538367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1690,8 +1741,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2213,
-            "average": 4.6904655
+            "count": 2214,
+            "average": 4.690605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1820,8 +1871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1471,
-            "average": 4.7505097
+            "count": 1473,
+            "average": 4.750849
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1862,8 +1913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1396,
-            "average": 4.7356734
+            "count": 1397,
+            "average": 4.7358627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1906,8 +1957,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-operational-excellence/",
           "length": "PT54M",
           "ratings": {
-            "count": 835,
-            "average": 4.730539
+            "count": 836,
+            "average": 4.730861
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1948,8 +1999,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 829,
-            "average": 4.7358265
+            "count": 830,
+            "average": 4.7361445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2126,8 +2177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3286,
-            "average": 4.6868534
+            "count": 3287,
+            "average": 4.686949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2200,8 +2251,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6419,
-            "average": 4.680168
+            "count": 6420,
+            "average": 4.680218
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2388,8 +2439,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/",
       "length": "PT43M",
       "ratings": {
-        "count": 8594,
-        "average": 4.666046
+        "count": 8596,
+        "average": 4.666124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2432,8 +2483,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
       "length": "PT42M",
       "ratings": {
-        "count": 5066,
-        "average": 4.7518754
+        "count": 5067,
+        "average": 4.751924
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2518,8 +2569,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/",
       "length": "PT43M",
       "ratings": {
-        "count": 3725,
-        "average": 4.8161073
+        "count": 3726,
+        "average": 4.816157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2604,8 +2655,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/",
       "length": "PT37M",
       "ratings": {
-        "count": 3297,
-        "average": 4.7898088
+        "count": 3298,
+        "average": 4.7898726
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2856,46 +2907,6 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series.md",
-      "title": "How to create a load balancer | Azure Portal Series",
-      "excerpt": "In this video of the Azure Portal “How To” Series, you will learn how to configure load balancers and how to add virtual machines to them in the Azure Portal.   Try out these features in the Azure portal: https://ms.portal.azure.com/#home   Keep connected on Twitter: https://twitter.com/AzurePortal",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-how-to-create-a-load-balancer-azure-portal-series/",
-      "originalUrl": "https://youtube.com/watch?v=-VMPzVoo5Nk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-VMPzVoo5Nk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T12:51:39-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-VMPzVoo5Nk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management tools",
-        "Networking"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-azure-well-architected-performance-efficiency.md",
       "title": "Microsoft Azure Well-Architected Framework - Performance efficiency",
       "excerpt": "Learn how to adjust your capacity based on workload and how to optimize network performance, storage, and database performance.",
@@ -2903,8 +2914,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 829,
-        "average": 4.7358265
+        "count": 830,
+        "average": 4.7361445
       },
       "provider": {
         "name": "Microsoft Learn",
