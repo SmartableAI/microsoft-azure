@@ -2,7 +2,7 @@
 title: "Azure Friday"
 excerpt: "Join Scott Hanselman, Donovan Brown, and Lara Rubbelke as they host the engineers who build & use Azure, demo it, answer questions, and share insights."
 type: collection
-heat: 103
+heat: 153
 
 provider:
   name: Microsoft
@@ -13,6 +13,7 @@ provider:
       height: 50
 
 items:
+  - videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday
   - videos/microsoft-building-a-balancing-robot-with-azure-sphere-azure-friday
   - videos/microsoft-azure-advisor-your-free-personalized-guide-to-azure-best-practices-azure-friday
   - videos/microsoft-using-azure-cross-region-load-balancer-for-high-availability-scenarios-azure-friday
@@ -304,7 +305,7 @@ topics:
   - Azure
 
 images:
-  - url: https://i.ytimg.com/vi/xCeNnhm08S0/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/jkI57Pzd2zc/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
