@@ -283,14 +283,19 @@ related:
       domain: wfmz.com
     quality: 14
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    excerpt: "DBM Cloud Systems announced today that TBWA Worldwide, one of the world’s largest and most respected advertising agencies, selected and licensed DBM Cloud Systems’ Advanced Intelligent Replication Engine (AIRE)."
     publishedDateTime: 2021-04-08T13:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "zaSEJxxB49sV2dNztk/9A7+SgEBHs/GvRo+9KnY+mz7hZO6r18kTfR7BDfmcfJbMz0SxZS7Vty4x+tAq0J5LZTfFXRNOWv0p5KnB1QCG/0JsNZeScdtUIPMCReGolrdg/8y7pug81Jec1TO4DtaakWk+2gmBSkAklTfoyigSZ0MdnoGl5rVFE9sdxr13eRMN3dt4lS1Qnbt42jgL4G1eDWhNJCvGRliBglHmY4EUII/XMXpagxFeGFmXm+9oTAFDYioCCjebClEuIqv5MIzcSXPxkyLwPQViFMUVv7gwomXY3KHnm4NoNWwuTQn90fPpwd4DZ4CCWPMX51/GSXjlsl3Q4sIU0O0YHakJHC1a1zs=;h/RPhF7EA6GL72amDsUvaQ=="
 ---

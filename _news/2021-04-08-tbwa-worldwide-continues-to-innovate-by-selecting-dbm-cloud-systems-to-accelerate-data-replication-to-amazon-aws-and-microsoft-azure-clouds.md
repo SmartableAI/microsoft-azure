@@ -1,21 +1,27 @@
 ---
 category: news
 title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+excerpt: "DBM Cloud Systems announced today that TBWA Worldwide, one of the world’s largest and most respected advertising agencies, selected and licensed DBM Cloud Systems’ Advanced Intelligent Replication Engine (AIRE)."
 publishedDateTime: 2021-04-08T13:25:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
-webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -291,6 +297,6 @@ related:
       domain: wfmz.com
     quality: 14
 
-secured: "imrzH519JgqHl6Yi0XpyRofGYrcvYmpUHJKBncvd0iZEIWZkc3wtTB4gDjpQnQnsXpIs6RcbPAgDr77u6lG3IsR/ulqoDfOfgkeSfamSculg2eZpcAd607kl8Be/fy56G741V2iWgiv871byp5Cx6xZExsCglOESE7gceAfZ3tSc7VcPCQQ0Nm6hWQanm5yeaZ/nZTr3H6JaJoznQ/qQD+C4tCbq8kggzHO38XqEc/RdmdZrmpl2ZmKh0215G0vQCKglLsI9fzeINHkkJFPt8ShIEn8CDS90afzyUymvlZH8g7kkCvx/S2UrTeyNs7LWa0DAn9a4/qBJiWi/J9YNGZk7FCPflT5xduPJBTIXub4=;Q+5gL+x5Q05fDPBxd09BGg=="
+secured: "KHtJgSLegPFqu5vQC753mquAsAJtD10uhiEm4IXBjFEj6HwadkGSyW03nJ35lBLlWF/1eQ8nZIMUre0LD7fc82TKaob6xdGrnoguDKEoPZJuY0JfUc4yfwpOOWcWncIj+xFiswNdPbgth86fyHKuxVwokE6/0wqNMfwOcdW6T3cDXdJTaG22gdtbn0YjQQc7kzq2WXlHORwaC6yqfiEf2N3FkXBqDDEKcXWz27HDw8ovh/CN7K5NYcM82DJpzslNI9jj9ZIQ/zbwdLEh6dcovqVTyA2vCtVpkFivaRGyaTT4jvT0ihxWSuxieQU+OjVcOTpbDZO2zxwwNjuf0t8Ttd/7NILgotyutn28umdcF1A=;0ozQ9IbGFOIobLM8xjaVGA=="
 ---
 

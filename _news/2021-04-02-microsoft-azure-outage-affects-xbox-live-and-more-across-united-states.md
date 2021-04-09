@@ -283,14 +283,19 @@ related:
       domain: wfmz.com
     quality: 14
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    excerpt: "DBM Cloud Systems announced today that TBWA Worldwide, one of the world’s largest and most respected advertising agencies, selected and licensed DBM Cloud Systems’ Advanced Intelligent Replication Engine (AIRE)."
     publishedDateTime: 2021-04-08T13:25:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "s5OAZfynVoPs7APQyacv8Wdf3XiA/7Fuj13Vfm2PKYvh6aMy9SD3JCTgBhYQ1ZOfZjlSZ3aMbiN4F/k2l90TigY62JbYwdJ3T0tW+u9TWEWeWHQ+hisquisnRMbLeWnwtEW2J90lEBBMYw+KyJRQkZGnKE3GqzQm3Zgzc8+/WGVkvVvT+uo2I+viGhSMoMhWU/zcUswH39M584ouRKzLSJTLM6TNDKHVUudupXuXB1Jo8F32KndGTktAi8kBaY1g36dVefhbiy/V1wSUtN1L7tmiuWkC6KxxTQof/rdxglr2W6hNdXY4Z7W74/j0IChj3nnmpqBpfacYFlyQRyEm5gNCTrCdu8yxBruRoKo8IaEf2xz0DtSpNNngKpWdD7fxc7UDSgD3Q7vPH7zcN0YZFwTQNKRuZDgJYR2MUwNxM3ou4qaYNOJ+lCEfac8LBG5xLTUs5PQl1FTYa/G4eT84JOlWKsChv1yteezgHsOoS6q+dM9ieVqK1HxbUfLPRI9xOFrQRAFh/03FCr9zdFu1hA==;CL5BU3iOmxe+oZcbjUYnew=="
 ---
