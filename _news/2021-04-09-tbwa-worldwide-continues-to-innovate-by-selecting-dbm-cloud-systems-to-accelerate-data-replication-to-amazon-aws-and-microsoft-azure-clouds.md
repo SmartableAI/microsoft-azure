@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-publishedDateTime: 2021-03-31T14:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+publishedDateTime: 2021-04-08T17:26:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
 type: article
-quality: 37
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -180,6 +174,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
+    publishedDateTime: 2021-03-31T14:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
     publishedDateTime: 2021-04-02T13:40:00Z
@@ -296,16 +304,7 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
-    publishedDateTime: 2021-04-08T17:26:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
-secured: "PbHr9/FqdgLcHhDB2To/cDl/NsCCpm6akeE+rwhSd5UB0e2qH1nBx8QismbL5XeEd/iIxTzR4IC4OkycZGLohmEG23jh5mwbN7PSVyX1rZmq77hGl0+nF27RnWa6hsF5+yhX0iw7XGfDH6lnPyrz8dIuxiUIhvyXm19pvgheeNoPkYWjW5dGibOTPcrASiTEb2sdvEJ1FMtHY8+JB2ErM3eGqKZ+qCK0RzN1pbDZ0ZeuUPzJEQmAISllRKZa/UxY3JeSH1l+hyBhxIzUnygMJ3rPEu0VRSIfV4eqaKUKCtj2A/HOQkgFqmmlv8LyWTt2umWFTsGkBqmIpcVfhAlpzjRDubPDj98pCqMmAZog6Do=;/soFHh7RuUbdJQ/iyWVfBw=="
+secured: "pl+5zcfKYWihvdCibSiCI7MFDalLM9tpie6VjKj9lf9ofj891gRTSd6kFI58/Ef4VGhMhVoDekH6SX88zPyaqvPp/Lv+fVEfp2i+slnqg1kcaf2fPMpIeCQHTnnKT2dmgh8wtBmm7bPxZeg3kBdWGUbHuwroj0k1/VwKLUTlWf8sChLlzRtlRWOtsT2kLamQVIT6WRBdmcUp17HHeSTSinOxaB+cdbkw+Y8syM80q2IqhTQcsjGxUE/ajVlcuBP+4oBcoB9oaAWxvrOq2VTwi5e8BSpz6swKPu2syrvMURbjTtwunqDSZtWB3c4eCqQPRi06ar1T1qfw6VWz++fgB8fPsmWKHhLbMFqSC5N56ac=;IDso4tutZwMuOHybek/SnQ=="
 ---
 

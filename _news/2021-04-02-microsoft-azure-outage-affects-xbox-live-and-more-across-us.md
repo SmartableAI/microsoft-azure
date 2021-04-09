@@ -296,6 +296,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    publishedDateTime: 2021-04-08T17:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "1DiAneTl1xSWrZNg7mA+ZsVAR57JsMlpFjofgrAQ122L4lVKhhoqfHWlBk99yxYSnFiV/aihKfR+E4Xo27d0E9VETQvWkcG7uw1k6ON9OtQBwXEw587Wu54Z0AXHkxSf2kRjya85Z0OxlLI98baT/gh8GsUH3kZgdP+/cQvcagfuqqSXiqGe/Tj7vEXzrw7xfvQzfRD/5FF86GZiQUb2W18O2axBXGFJsYSgq9U6RLaEp5fKbe+5tpFtUkENDiGAB1AwKY7DYMy669Bfx5kiVLFPMrwRB8/3EWznqr49TlbIAshVgY4/OYec2CdEgsRLvL3P/nwxklJJ9DQhO8+b4bmH9vNOzP//LKuLo6SypDc=;E0dvXda6kd5AnSmJydc5bQ=="
 ---

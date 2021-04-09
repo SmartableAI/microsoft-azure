@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondema
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-synapse-sql-ondemand-now-enforces-tls-12-on-outbound-connections/"
 type: article
 quality: 83
-heat: 83
+heat: 84
 published: true
 
 provider:
