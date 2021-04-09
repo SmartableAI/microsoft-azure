@@ -1,8 +1,8 @@
 ---
 category: news
-title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
-excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
-publishedDateTime: 2021-04-02T01:12:00Z
+title: "No fooling: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+excerpt: "Microsoft Corp. was hit by a massive cloud outage today that took most of its internet services offline. Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype ..."
+publishedDateTime: 2021-04-01T23:51:00Z
 originalUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
 webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
 type: article
@@ -49,9 +49,9 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "No fooling: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
-    excerpt: "Microsoft Corp. was hit by a massive cloud outage today that took most of its internet services offline. Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype ..."
-    publishedDateTime: 2021-04-01T23:51:00Z
+  - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
+    publishedDateTime: 2021-04-02T01:12:00Z
     webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
     type: article
     provider:
@@ -64,6 +64,6 @@ related:
         height: 720
         isCached: true
 
-secured: "bfnS8kox45yLpKdXRDV/smrJOkZEuFIfEepmsiRM6WFLC/MqeAMFYUac2SJaiVHaogZ6Mk171R2mqC9sSPe0VPFCUJr8UYAbzbpoyAyDH6yCWSPN0TnCq7gJnyIORbkuW6hzZvLtsVAiHjl0pXLPOQov5dozSU+yU80eXNsj0JYLM0Nqx83F2AxXjvuNC3yQgEIdtGi5gU5AmWf4aIfSNX/+C9jswx/1ROtFNnORJ55lACRDEPQqCBrcyjD3MxAV/IsZIlmniKESONCV5sKrQlkRCzoo670mM5uuGbovM+hmZ2JlnFaJUJNvWChJPj8HUSmCqOLYaZJy3MVhJERTahsoxO21W7/lfnx/wkbjhQvdbPkqcfWfWMDOUS5t7FT32ZhS0k6+r2gVmxBFirFgJi2GCUK5naUDFafWiBWCx206p8V2zHZIIZKbkgt5bS5bUdipPgJ03zIa65VFdRcL3+C+E+56RePjFt5jMWKv7cLsjTcBJbJWmDVRW0yx0n41V4ADWiuR3s/C+vVHOHVMsw==;rFABhChOqA5s0ctxfJc0hw=="
+secured: "eryuwW+MSj2Opn/DlQERG9Svfq7w9RWptAh2cQ5A5jb8iC6U0RiFsRhNieEzQBoRXPuFFrWhhHkHA5agzWMQvf/TuNR/oy8WS2z+XDH1dEsToSu6V8MO6PtQyXOjZY04faRkT9j6Lyn2CKKFraM6W6SlRNOazlDDlqRudCG/AxU/4YDhqPzh5D+Bje6MHWXwBichoP1PKMAFu1jJyZP2p1ZHWTbFM5zRFDeDxrYdDxLXd11O2n9eLokiEl4aFQy/s+EorMUejKHQOTCiLN62XDGpXzoHVA+iuFEntKAMkKDs00V+g1/l6w6GUOeB37719PgoYl/OoYvmOlZUcu0PZ/M5CUMOsVAlQGfdjb0cV4o=;dhN1QvHeaHHl4t+g3VW78A=="
 ---
 

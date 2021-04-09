@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-what-caused
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-what-caused-our-recent-azure-cloud-computing-services-outage/"
 type: article
 quality: 77
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
   - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
     excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
     publishedDateTime: 2021-04-02T01:12:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "No fooling: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft Corp. was hit by a massive cloud outage today that took most of its internet services offline. Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype ..."
+    publishedDateTime: 2021-04-01T23:51:00Z
     webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
     type: article
     provider:

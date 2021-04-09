@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "No fooling: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
+    excerpt: "Microsoft Corp. was hit by a massive cloud outage today that took most of its internet services offline. Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype ..."
+    publishedDateTime: 2021-04-01T23:51:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/no-foolin-microsoft-cloud-outage-takes-azure-teams-office-365-offline/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/error-101408_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "up4iT2vuz9WBQiH8yVSbzwtTk2a95EI7EdGIsopgGZhAx7eZAd6L2lvjusrGtxz5jhRRZeWzFcZvQiaLwgC23ywKCxfYa9eCrfWlwHZzDaenkOkMNoKNrG/E0sMhAvlYYKBJ1zwTLYP/oalaz99Gqjr32MfLD8F9aYZcRZ0CvdYWBLUDc+4QD+6qWOMp7Ghl96kjtaaEfdcY9hYikUiIAjy9YfTwkJtvWWleluEV83SHGXLKmhlqvC/5swNB8rFq3h8+uUPxfLVIxdewxfsZwx6f6eIZ0veuriRIpnpnX324PsEE/ZB/yLaseSUnwoFhUPf19xYT3Qia4/zQ3u9Be2rPoxBEkUiMwFcef9kDbvXXODxoQRNhEw9THfBxk5Qutt9GyStN59oPBVg6I8gvbLqzJhIFPj55lIkad4C/kxUPRIi6afykZy1b5vsDnWVGnVmzEzWjmg7W8CJbM5CIOPXf3eunCZACxFXOekDvq1ubScQPS1x9QlvMl/8vwUHVDSsJwSUP0Klqh7rqV8CQEQ==;FMd69IyCURCeSJhuUGqaqA=="
 ---
