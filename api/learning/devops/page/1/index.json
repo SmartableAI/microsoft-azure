@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7062,
-            "average": 4.776126
+            "count": 7067,
+            "average": 4.776284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -77,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5416,
-            "average": 4.7184267
+            "count": 5424,
+            "average": 4.7184734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4796,
-            "average": 4.757089
+            "count": 4800,
+            "average": 4.757292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4553,
-            "average": 4.751373
+            "count": 4557,
+            "average": 4.751152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -233,8 +233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
       "length": "PT21M",
       "ratings": {
-        "count": 5416,
-        "average": 4.7184267
+        "count": 5424,
+        "average": 4.7184734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,50 +269,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-monitoring-fundamentals.md",
-      "title": "Choose the best monitoring service for visibility, insight, and mitigation of service outages",
-      "excerpt": "Discover solutions that help IT organizations with insights into the health and performance of their applications running in the cloud.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitoring-fundamentals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
-      "length": "PT22M",
-      "ratings": {
-        "count": 4796,
-        "average": 4.757089
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Management Tools",
-        "DevOps"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-infrastructure-operations-in-azure.md",
       "title": "Architect infrastructure operations in Azure",
       "excerpt": "Learn how to monitor, analyze, and manage the ongoing operation of your infrastructure in Azure.",
@@ -343,8 +299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41673,
-            "average": 4.717827
+            "count": 41675,
+            "average": 4.71784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -361,7 +317,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 77,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -378,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5238,
-            "average": 4.738068
+            "count": 5242,
+            "average": 4.738077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -421,8 +377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2248,
-            "average": 4.6209965
+            "count": 2249,
+            "average": 4.621165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2472,
-            "average": 4.668285
+            "count": 2473,
+            "average": 4.6680145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -504,7 +460,7 @@
         }
       ],
       "size": 5,
-      "heat": 87,
+      "heat": 92,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/describe-azure-governance-methodologies-social.png",
@@ -520,6 +476,50 @@
         "Azure",
         "DevOps",
         "Management Tools"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-monitoring-fundamentals.md",
+      "title": "Choose the best monitoring service for visibility, insight, and mitigation of service outages",
+      "excerpt": "Discover solutions that help IT organizations with insights into the health and performance of their applications running in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-monitoring-fundamentals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 4800,
+        "average": 4.757292
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 91,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Management Tools",
+        "DevOps"
       ]
     },
     {
@@ -553,8 +553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 18235,
-            "average": 4.698766
+            "count": 18236,
+            "average": 4.6987824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -942,8 +942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2248,
-            "average": 4.6209965
+            "count": 2249,
+            "average": 4.621165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1076,8 +1076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 248,
-            "average": 4.778226
+            "count": 249,
+            "average": 4.7791166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2248,
-            "average": 4.6209965
+            "count": 2249,
+            "average": 4.621165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1300,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
           "length": "PT48M",
           "ratings": {
-            "count": 248,
-            "average": 4.778226
+            "count": 249,
+            "average": 4.7791166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1424,8 +1424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
           "length": "PT53M",
           "ratings": {
-            "count": 2472,
-            "average": 4.668285
+            "count": 2473,
+            "average": 4.6680145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1468,8 +1468,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2218,
-            "average": 4.6907125
+            "count": 2220,
+            "average": 4.690991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1598,8 +1598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2218,
-            "average": 4.6907125
+            "count": 2220,
+            "average": 4.690991
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1641,8 +1641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41673,
-            "average": 4.717827
+            "count": 41675,
+            "average": 4.71784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1659,7 +1659,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 73,
+          "heat": 77,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1720,8 +1720,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 830,
-            "average": 4.7361445
+            "count": 832,
+            "average": 4.7367787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1864,8 +1864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4953,
-            "average": 4.736523
+            "count": 4955,
+            "average": 4.7366295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2081,8 +2081,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1399,
-            "average": 4.7348104
+            "count": 1400,
+            "average": 4.735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2167,8 +2167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 830,
-            "average": 4.7361445
+            "count": 832,
+            "average": 4.7367787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4015,8 +4015,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
       "length": "PT57M",
       "ratings": {
-        "count": 2248,
-        "average": 4.6209965
+        "count": 2249,
+        "average": 4.621165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4146,8 +4146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/",
       "length": "PT53M",
       "ratings": {
-        "count": 2472,
-        "average": 4.668285
+        "count": 2473,
+        "average": 4.6680145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4190,8 +4190,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1399,
-        "average": 4.7348104
+        "count": 1400,
+        "average": 4.735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4278,8 +4278,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/",
       "length": "PT48M",
       "ratings": {
-        "count": 248,
-        "average": 4.778226
+        "count": 249,
+        "average": 4.7791166
       },
       "provider": {
         "name": "Microsoft Learn",

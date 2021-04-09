@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing-dynamics-365-deployment/",
       "length": "PT45M",
       "ratings": {
-        "count": 3707,
-        "average": 4.7207985
+        "count": 3708,
+        "average": 4.720874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/add-custom-domain-name-azure-active-directory/",
       "length": "PT18M",
       "ratings": {
-        "count": 1706,
-        "average": 4.7438455
+        "count": 1707,
+        "average": 4.743995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,8 +140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-costs-create-budgets-azure-cost-management/",
       "length": "PT40M",
       "ratings": {
-        "count": 1698,
-        "average": 4.6914015
+        "count": 1699,
+        "average": 4.691583
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -183,8 +183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-receipts-form-recognizer/",
       "length": "PT24M",
       "ratings": {
-        "count": 1079,
-        "average": 4.785913
+        "count": 1081,
+        "average": 4.7853837
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -427,8 +427,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
       "length": "PT39M",
       "ratings": {
-        "count": 956,
-        "average": 4.806485
+        "count": 958,
+        "average": 4.8068895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -514,8 +514,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/evolving-world-of-data/",
       "length": "PT28M",
       "ratings": {
-        "count": 6232,
-        "average": 4.699775
+        "count": 6233,
+        "average": 4.6998234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -624,42 +624,6 @@
       "topics": [
         "Azure",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-run-docker-containers-aci.md",
-      "title": "Run Docker containers with Azure Container Instances",
-      "excerpt": "Learn how to run and troubleshoot containerized apps using Docker containers with Azure Container Instances.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-run-docker-containers-aci/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 6561,
-        "average": 4.715135
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 57,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Containers",
-        "Databases"
       ]
     },
     {
@@ -855,8 +819,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/",
           "length": "PT33M",
           "ratings": {
-            "count": 1130,
-            "average": 4.8026547
+            "count": 1131,
+            "average": 4.8028293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
       "length": "PT51M",
       "ratings": {
-        "count": 1399,
-        "average": 4.7348104
+        "count": 1400,
+        "average": 4.735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,8 +1207,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/chain-azure-functions-data-using-bindings/",
       "length": "PT1H10M",
       "ratings": {
-        "count": 3531,
-        "average": 4.5746245
+        "count": 3533,
+        "average": 4.5748653
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1324,8 +1288,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2132,
-        "average": 4.6575985
+        "count": 2133,
+        "average": 4.657759
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1358,6 +1322,50 @@
         "Azure",
         "Integration",
         "Web"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-azure-db-for-postgresql.md",
+      "title": "Introduction to Azure Database for PostgreSQL",
+      "excerpt": "This module is a no-code introduction to PostgreSQL on Azure, including an explanation of particular problems that using Azure Database for PostgreSQL can solve. At a high level, we show how the components fit together and identify situations where you should use Azure Database for PostgreSQL.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-azure-db-for-postgresql/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-postgres/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 2205,
+        "average": 4.6462584
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-postgres-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Databases"
       ]
     }
   ],

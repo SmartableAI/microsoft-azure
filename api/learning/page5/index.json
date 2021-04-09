@@ -77,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3289,
-            "average": 4.686835
+            "count": 3290,
+            "average": 4.68693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -151,8 +151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6430,
-            "average": 4.679471
+            "count": 6432,
+            "average": 4.679415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1134,6 +1134,220 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-azure-sql-fundamentals.md",
+      "title": "Azure SQL fundamentals",
+      "excerpt": "Learn how to deploy, secure, monitor and troubleshoot Azure SQL database.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-azure-sql-fundamentals/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-azure-sql-fundamentals/",
+      "length": "PT7H14M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-azure-sql-intro.md",
+          "title": "Introduction to Azure SQL",
+          "excerpt": "This module introduces Azure SQL. Learn about various deployment options and service tiers and what to use for your organization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-intro/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 1061,
+            "average": 4.7464657
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+              "width": 642,
+              "height": 325,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-sql-deploy-configure.md",
+          "title": "Deploy and configure servers, instances, and databases for Azure SQL",
+          "excerpt": "Deploy and configure servers, instances, and databases for Azure SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-deploy-configure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-deploy-configure/",
+          "length": "PT1H14M",
+          "ratings": {
+            "count": 519,
+            "average": 4.714836
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-deploy-configure-social.png",
+              "width": 642,
+              "height": 324,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-sql-secure-data.md",
+          "title": "Secure your data with Azure SQL",
+          "excerpt": "Secure your data with Azure SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-secure-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-secure-data/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 294,
+            "average": 4.7687073
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-secure-data-social.png",
+              "width": 642,
+              "height": 325,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-azure-sql-performance.md",
+          "title": "Deliver consistent performance with Azure SQL",
+          "excerpt": "Deliver consistent performance with Azure SQL",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-sql-performance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-sql-performance/",
+          "length": "PT1H24M",
+          "ratings": {
+            "count": 221,
+            "average": 4.80543
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/azure-sql-performance-social.png",
+              "width": 642,
+              "height": 324,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Databases"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sql-intro-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Databases"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-analyze-images-computer-vision.md",
       "title": "Analyze images with the Computer Vision service",
       "excerpt": "The Computer Vision service enables software engineers to create intelligent solutions that extract information from images; a common task in many artificial intelligence (AI) scenarios.",
@@ -1141,8 +1355,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1241,
-        "average": 4.727639
+        "count": 1243,
+        "average": 4.7280774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1184,8 +1398,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/",
       "length": "PT1H11M",
       "ratings": {
-        "count": 6310,
-        "average": 4.727258
+        "count": 6312,
+        "average": 4.727186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,8 +1475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-non-relational-data/",
       "length": "PT26M",
       "ratings": {
-        "count": 1914,
-        "average": 4.8155694
+        "count": 1915,
+        "average": 4.8156657
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1382,8 +1596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/move-azure-resources-another-resource-group/",
       "length": "PT42M",
       "ratings": {
-        "count": 2863,
-        "average": 4.652113
+        "count": 2864,
+        "average": 4.6522346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2081,8 +2295,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/",
           "length": "PT45M",
           "ratings": {
-            "count": 1117,
-            "average": 4.663384
+            "count": 1118,
+            "average": 4.6636853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2453,8 +2667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
           "length": "PT56M",
           "ratings": {
-            "count": 1772,
-            "average": 4.5022573
+            "count": 1773,
+            "average": 4.502538
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3475,8 +3689,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/",
       "length": "PT30M",
       "ratings": {
-        "count": 8264,
-        "average": 4.7745643
+        "count": 8265,
+        "average": 4.7745914
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3511,8 +3725,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-identity-overview/",
       "length": "PT15M",
       "ratings": {
-        "count": 7692,
-        "average": 4.776001
+        "count": 7693,
+        "average": 4.77603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3538,41 +3752,6 @@
           "isCached": true
         }
       ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-subscription-access-azure-rbac.md",
-      "title": "Manage access to an Azure subscription by using Azure role-based access control (RBAC)",
-      "excerpt": "Learn how to assign management access to a subscription by using Azure role-based access control.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-subscription-access-azure-rbac/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 12134,
-        "average": 4.763804
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 62,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
