@@ -150,6 +150,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
+    excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
+    publishedDateTime: 2021-04-05T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146132"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 50
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137322-0421_CustFirst_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -249,6 +263,20 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
         width: 620
         height: 355
+        isCached: true
+  - title: "Microsoft reveals first satellite ground station at Azure data center"
+    excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
+    publishedDateTime: 2021-04-09T16:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
+        width: 895
+        height: 471
         isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."

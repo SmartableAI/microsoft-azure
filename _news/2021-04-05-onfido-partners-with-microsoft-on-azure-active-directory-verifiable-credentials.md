@@ -1,21 +1,28 @@
 ---
 category: news
-title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
-publishedDateTime: 2021-04-08T17:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
-webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
+excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
+publishedDateTime: 2021-04-05T04:00:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146132"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146132"
 type: article
-quality: 0
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - Azure
+  - Identity
+
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137322-0421_CustFirst_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -143,20 +150,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/visuals/German/article/IT-certificate-learning-adobe.jpg"
         width: 1200
         height: 400
-        isCached: true
-  - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
-    excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
-    publishedDateTime: 2021-04-05T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146132"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 50
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/137322-0421_CustFirst_480x610-ORG.png"
-        width: 480
-        height: 610
         isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
@@ -332,7 +325,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    publishedDateTime: 2021-04-08T17:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "pl+5zcfKYWihvdCibSiCI7MFDalLM9tpie6VjKj9lf9ofj891gRTSd6kFI58/Ef4VGhMhVoDekH6SX88zPyaqvPp/Lv+fVEfp2i+slnqg1kcaf2fPMpIeCQHTnnKT2dmgh8wtBmm7bPxZeg3kBdWGUbHuwroj0k1/VwKLUTlWf8sChLlzRtlRWOtsT2kLamQVIT6WRBdmcUp17HHeSTSinOxaB+cdbkw+Y8syM80q2IqhTQcsjGxUE/ajVlcuBP+4oBcoB9oaAWxvrOq2VTwi5e8BSpz6swKPu2syrvMURbjTtwunqDSZtWB3c4eCqQPRi06ar1T1qfw6VWz++fgB8fPsmWKHhLbMFqSC5N56ac=;IDso4tutZwMuOHybek/SnQ=="
+secured: "InvaqrVORvkEC+c5PCiw0B3PYSQJRHkezA5Ftfpcq/xqYntWpfKtQOsXddEFetR0JI/Ki3N0IU/hmJp+5RU0atP+UvyO7S3YK+y2LQRAlLnvk6eLCdC77RWreCmYze330I0cIaj89JjdrJfgw6pqqW+GaVNSlJkNH1FeblboHEDwpkLUQOp5JFrLuZbObiacOxiOr70JjHERikN1gLkOBTMATQBECtS59LxgZqtvNOkV5oz1myCK5jHBh6k0Z/2Z2O/OkMnK7pjgLX46gpbFT2LQD6RaOFvZ8FvZzcIAmQbv59qDfJiTyUZwSlNkefX42i+Y2NTcyUKsdbJdNrh6TXzsqyQ//iEv7z7LOteGd2A=;gZMmsxphXkQhl3Y+kldWUQ=="
 ---
 

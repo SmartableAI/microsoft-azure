@@ -1,21 +1,27 @@
 ---
 category: news
-title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
-publishedDateTime: 2021-04-08T17:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
-webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+title: "Microsoft reveals first satellite ground station at Azure data center"
+excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
+publishedDateTime: 2021-04-09T16:31:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
+webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Datacenter Dynamics
+  domain: datacenterdynamics.com
 
 topics:
   - Azure
+
+images:
+  - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
+    width: 895
+    height: 471
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -258,20 +264,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Microsoft reveals first satellite ground station at Azure data center"
-    excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
-    publishedDateTime: 2021-04-09T16:31:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
-        width: 895
-        height: 471
-        isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
     publishedDateTime: 2021-03-31T16:08:00Z
@@ -332,7 +324,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
+    publishedDateTime: 2021-04-08T17:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210408005089/en/TBWA-Worldwide-Continues-to-Innovate-by-Selecting-DBM-Cloud-Systems-to-Accelerate-Data-Replication-to-Amazon-AWS-and-Microsoft-Azure-Clouds"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
-secured: "pl+5zcfKYWihvdCibSiCI7MFDalLM9tpie6VjKj9lf9ofj891gRTSd6kFI58/Ef4VGhMhVoDekH6SX88zPyaqvPp/Lv+fVEfp2i+slnqg1kcaf2fPMpIeCQHTnnKT2dmgh8wtBmm7bPxZeg3kBdWGUbHuwroj0k1/VwKLUTlWf8sChLlzRtlRWOtsT2kLamQVIT6WRBdmcUp17HHeSTSinOxaB+cdbkw+Y8syM80q2IqhTQcsjGxUE/ajVlcuBP+4oBcoB9oaAWxvrOq2VTwi5e8BSpz6swKPu2syrvMURbjTtwunqDSZtWB3c4eCqQPRi06ar1T1qfw6VWz++fgB8fPsmWKHhLbMFqSC5N56ac=;IDso4tutZwMuOHybek/SnQ=="
+secured: "q6mdSG5ojOozOv/4BqXrsXssq85Yy3Tz5wWfBPEfD8LEFpbYu4Otksv62mkMzCduLoR19NQna4g8C/JMYgyUO1+wNhZHYAaEGnFkWMj0oGTayc00+GCwtdSWkS1pR9VhrZWJ+TmjT0LCae7mjb8Sv+D4M/wNRGr9RQsnUSTEV9V5mTjjZHxhSL0MrHf6gM9VRvKPOWdmsNEe15KYGHn8V565EUghHnB2rWZjhKEDgBFUyZCJtJE31EQhNKT9oakM/iNhP2HCzy/XdUFvAjjJ2xraPPCQJGsMs6qVyOz4tIwMf5o05DxijuBdQCZS4UjNSZbbyEevazzxP05SMOq09M1vEJrt2YQ/ktTSt0G0/dM=;lKPI51m/5xZqG9psMfDFOQ=="
 ---
 
