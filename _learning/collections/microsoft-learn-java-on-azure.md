@@ -31,6 +31,7 @@ items:
   - courses/microsoft-learn-cloud-scale-messaging-jms-service-bus
   - courses/microsoft-learn-accelerate-scale-spring-boot-application-azure-cache-redis
   - courses/microsoft-learn-cosmos-db-java-app
+  - courses/microsoft-learn-publish-azure-web-app-with-azure-toolkit-intellij
   - courses/microsoft-learn-publish-app-with-maven-plugin-for-azure-web-apps
   - courses/microsoft-learn-develop-azure-functions-app-with-maven-plugin
 

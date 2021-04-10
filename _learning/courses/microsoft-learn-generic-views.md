@@ -1,7 +1,7 @@
 ---
 title: "Use generic views in Django"
 excerpt: "Learn how to use generic views in Django."
-webUrl: https://docs.microsoft.com/en-us/learn/django/5-generic-views/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django/5-generic-views/
 type: course
 price: Free
 length: PT32M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "7Vx3ScKqxskH0MPqf4NWwRphGycorEGEI4SzZzrSKiWXQPBip7q8ZPk2c0Gl+kHqUFZhq+EAJdA/GryyhDQWJ3KAitRCRyg3qatsN2bOFUWCGk5Clp9pltd1iRAlDiMj4XMzl3ptIVInx+8JuQ0UIP2Jq7BzbkOf/Fi0P8/k7B77vVMBTMlxsIzgRZVAQOaHnV0i0yw6KflWoxGTwumFVbYSYV6PQdKfFk9yGPtvZxKR8YOK38lcf0RzxxXt9Oq4leR2Sk3I6Y2TtlLDIQ5F4vsiA1jEiwwgmUZhs3ipSOQhXbHvJxBeyAPm5MWsUrmfbdv5KrHQ4jZobMHd+np1pG0qbA1jhmHAeOhqSYvJ+bF4iCdX/ktZ0yvgOFeTJXhzTqkYGzxsxsviJGTIrl/oRcnU809ByNQyv8UayRlISy4=;oFx1aPZwgCBqwNA2EHWbAw=="
+secured: "hGv+Z1jVQCRf5URWX9UAk1KbcLH0yo0q6U7nSnzk08sQ7bhB49hYRmK+5he6C90hQw1AbGB5qjJVnG9V2ExLOkzAEo4ngKh1RmuDx90dlRzv4xndYXxhEmqKD/8MaZOK7aJaFWxeNvYWfjW/m+uFZVVlRaHe/IoNKQ2DskrNzq3FSBegCeyH/EsHm1t+uNRDFNaI2bb14y2Xh2EGm9zAmDXhj2wzFqIJReD5qrm9yKBfjHTfHVDI28I8VgIYrMKKbmEb0p6oxP/871mPFQkOrMcwkOWvvdzMROQFRE7foc6BACE8a3F+/q2FuijZLNOhUld2SmMwPVpvMW0blsEEm1I4aK/PHuM+8YU7fpZS4bl+V/uXgQPcCSwCsgxviJJX61yQ5CfKoOOck7LLwVk7yw==;feKRIJuntd7xx9chwWKBVQ=="
 ---
 

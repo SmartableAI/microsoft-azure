@@ -1,7 +1,7 @@
 ---
 title: "Get started with Django"
 excerpt: "Django is one of the most popular Python web frameworks. Explore its benefits, learn how to install it, and create your first project."
-webUrl: https://docs.microsoft.com/en-us/learn/django/1-get-started/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/django/1-get-started/
 type: course
 price: Free
 length: PT32M
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "t4kC9A74djPXx/NqlKWibuoOEZ/gu2azW1pNquJURPfJ4yahLnGAl+oVV6jX1ydCwwB7KzTLwGQlRLe1mz379cpEG2dn/BUYXVRLy4ER5k2bpom0VWpFWLqzTjHUz8dqWp/wTqcsDoXLE3Kz6E4ZaRXcNq55hSKsLGJqqn7yO3w1VGYXFe+tME4qJxyyCY0a/RGnqpkF3z0RpcAuFSuacJJ08nGJUxtzUYGbMW+Y+8pfTjamXPNfz0IK/44pKEZRTmrX31F/2dN8Arh+jO5NY3eoGi3+nZQlrepE+um63uA2lDa1vP0fs9XxrQXXlUbrTgoAviSXd0nl6zF1eb7yZ/yFSn91NzFLhjUFvZiy9wPuszlCUvT51682bpOBwHYyfic85oZIHWC+s7zfFJ90tYsCAAl8j54gGlvpJLhdq3c=;Am2HxTb2is2SBixUwgf+Ig=="
+secured: "dKSZ475caeUS6ZxIpGPWlZoopzg0bOxg1YlH8hs7+nuKfYYvJjZb5BzDiL0TaCzKPW+iojPt+2eYB4MSTyjE7pXbS7aq/wB/fpPkpjiWblNVR0z+1sepPMOPLfXdmtyLeIfPWIUFxe3qQCQ9pXO2Gw6lrywEpJqMc/Cz9YlnGRdhHPsRedbWjYt2TLFCVyp2GNleVeM0PRctwGg408vRbGlZbfEM62WXsMLSKm+JnzBgASCM8pfDx8x8BXCIAnAd9CqeWGPectgBZ9BQU+bwAo3ZBHu0mP+GYVKSgdCOrLFeL9WMzXlD+1dTF3zGwUEqGhAO1LurG+WgS4LdZgG0Hn2QTxOZoYuOVQusnACOobJCMxmugpvretZ2GKkzP8rm3bJynlk74yYAhCnE6C2ycA==;jl5bIVZnFftmEhD2dLzwLA=="
 ---
 
