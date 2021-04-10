@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Microsoft Azure outage affects XBox Live and more across US"
-excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector.com reported problems ..."
-publishedDateTime: 2021-04-01T22:36:00Z
-originalUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-webUrl: "https://www.13newsnow.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-ampWebUrl: "https://www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
-cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+excerpt: "A large-scale outage of the Microsoft Azure cloud computing service was affecting users across the country and other Microsoft applications such as XBox Live and Microsoft Teams Thursday. The outage tracking website Downdetector."
+publishedDateTime: 2021-04-01T23:31:00Z
+originalUrl: "https://www.12news.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+webUrl: "https://www.12news.com/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+ampWebUrl: "https://www.12news.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/nation-world/microsoft-azure-xbox-outage/507-dd804a8d-2175-4c12-8cd0-f2c82616c564"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WVEC
-  domain: 13newsnow.com
+  name: KPNX
+  domain: 12news.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.13newsnow.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
+  - url: "https://media.12news.com/assets/CCT/images/a0101e74-3185-44dc-b33a-e4431c6157c6/a0101e74-3185-44dc-b33a-e4431c6157c6_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -334,6 +334,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "1DiAneTl1xSWrZNg7mA+ZsVAR57JsMlpFjofgrAQ122L4lVKhhoqfHWlBk99yxYSnFiV/aihKfR+E4Xo27d0E9VETQvWkcG7uw1k6ON9OtQBwXEw587Wu54Z0AXHkxSf2kRjya85Z0OxlLI98baT/gh8GsUH3kZgdP+/cQvcagfuqqSXiqGe/Tj7vEXzrw7xfvQzfRD/5FF86GZiQUb2W18O2axBXGFJsYSgq9U6RLaEp5fKbe+5tpFtUkENDiGAB1AwKY7DYMy669Bfx5kiVLFPMrwRB8/3EWznqr49TlbIAshVgY4/OYec2CdEgsRLvL3P/nwxklJJ9DQhO8+b4bmH9vNOzP//LKuLo6SypDc=;E0dvXda6kd5AnSmJydc5bQ=="
+secured: "9khFR7/mlTZXXL3Wty1ZjJHa+m4a7zZKJNFeb+a862cUAAdjDy1cSHkeHMc/LbMWmRGIXVlqYCQrKbr4dLqkGZY1LZcvO6V4bz3VdF7jBgkeLjSKPmKJEs0JhCByB1QU8Tao2UmZhdpabK+PrVPKEKvNdFRz6Es2Is4/ELwqOE+6EMribTJYyMBA9W56q1aN4/Bl/y0ZEVcBU2PAA9QaKUjH8dq5Floh8koaldyT8iq6pNlSAtwuv+lBRf/tsyWIUdPd9jqu0RAH52kcJfKw9cljO14C4UMGOlR5r8LzKUzfZ04xs+hcfIgQmmNyb7DEjH33eK1VcHJosDcw8Mix8rFFrDmDvbSemQzfU8jg+S8=;vam0AC8AZ4mCYi8XeZ50hA=="
 ---
 
