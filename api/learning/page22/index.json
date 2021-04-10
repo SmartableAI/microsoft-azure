@@ -4,50 +4,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-detect-language-text-analytics-api.md",
-      "title": "Detect language with the text analytics API",
-      "excerpt": "Language detection is useful for content stores that collect arbitrary text, where language is unknown. You can parse the results of this analysis to determine which language is used in the input document.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-language-text-analytics-api/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 118,
-        "average": 4.6949153
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI",
-        "Analytics"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-enterprise-scale-operations.md",
       "title": "Enterprise-scale architecture operational design principles",
       "excerpt": "Enterprise-scale architecture operational design principles",
@@ -1054,8 +1010,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-azure-data-lake-storage/",
       "length": "PT30M",
       "ratings": {
-        "count": 2025,
-        "average": 4.7051854
+        "count": 2026,
+        "average": 4.705331
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,8 +1142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-threat-safeguard/",
       "length": "PT1H2M",
       "ratings": {
-        "count": 2101,
-        "average": 4.8357925
+        "count": 2102,
+        "average": 4.8358707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1253,6 +1209,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/maintain-azure-sap-workloads-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-maintain-secure-repository-github.md",
+      "title": "Maintain a secure repository by using GitHub best practices",
+      "excerpt": "Learn best practices for building, hosting, and maintaining a secure repository on GitHub.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-maintain-secure-repository-github/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/maintain-secure-repository-github/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 315,
+        "average": 4.71746
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/github/maintain-secure-repository-github-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
