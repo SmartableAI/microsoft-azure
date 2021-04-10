@@ -4,7 +4,7 @@ excerpt: "Learn to manage AI organization to create business value in manufactur
 type: collection
 price: Free
 length: PT1H11M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
