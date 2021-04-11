@@ -1,22 +1,32 @@
 ---
 category: news
-title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
-excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
-publishedDateTime: 2021-04-06T11:10:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
+title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
+excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
+publishedDateTime: 2021-04-10T14:00:00Z
+originalUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
+webUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
 type: article
-quality: 19
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-  - Containers
+  - AI
+
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -82,20 +92,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
         width: 1123
         height: 792
-        isCached: true
-  - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
-    excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
-    publishedDateTime: 2021-04-10T14:00:00Z
-    webUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 72
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
@@ -315,6 +311,15 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
+    excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
+    publishedDateTime: 2021-04-06T11:10:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-04/52494436-ndivision-inc-ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
   - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
     excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
     publishedDateTime: 2021-03-30T07:00:00Z
@@ -348,6 +353,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "zaSEJxxB49sV2dNztk/9A7+SgEBHs/GvRo+9KnY+mz7hZO6r18kTfR7BDfmcfJbMz0SxZS7Vty4x+tAq0J5LZTfFXRNOWv0p5KnB1QCG/0JsNZeScdtUIPMCReGolrdg/8y7pug81Jec1TO4DtaakWk+2gmBSkAklTfoyigSZ0MdnoGl5rVFE9sdxr13eRMN3dt4lS1Qnbt42jgL4G1eDWhNJCvGRliBglHmY4EUII/XMXpagxFeGFmXm+9oTAFDYioCCjebClEuIqv5MIzcSXPxkyLwPQViFMUVv7gwomXY3KHnm4NoNWwuTQn90fPpwd4DZ4CCWPMX51/GSXjlsl3Q4sIU0O0YHakJHC1a1zs=;h/RPhF7EA6GL72amDsUvaQ=="
+secured: "40DLJFsdJMYLRGms0kUz1d2nzqsrhIEnxq5ulbcKjOAdqnVANPmxXo29KnYC03jdv/353T+U8VoH8k4Tths7azTCYorBesoot/RIKqWWfYGoQFXCWnod1thG1JMmSFwD3NmXkWucXWfuRfHUqxiLoaip2DotkUAKsKAnQ2ulfD01MFVV7s9HY/hJ3394iryN4klpgLlq0/Lf3H5y2JG/Qv1Pch90vuV3gOAplxPJxs55y6Z/d0AQYEloIi+Fb8lNFSEMKGaHOYPB0mwYpW0uABRG5ylaBjnLEM1QqX+29r62ZkNfwiZNVmfxwBmsvMAYIguIyVkzUj4n5D4xR9Rk1lGXbek5mcmeMEAZWNVttCQ=;djkMWWFDKQ/LdRFoAgjwMg=="
 ---
 
