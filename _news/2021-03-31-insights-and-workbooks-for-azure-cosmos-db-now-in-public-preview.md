@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/insights-and-workbooks-f
 webUrl: "https://azure.microsoft.com/en-us/updates/insights-and-workbooks-for-azure-cosmos-db-now-in-public-preview/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

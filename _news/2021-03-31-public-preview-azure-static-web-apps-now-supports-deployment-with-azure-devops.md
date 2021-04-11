@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-sta
 webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-deployment-with-azure-devops/"
 type: article
 quality: 96
-heat: 137
+heat: 136
 published: true
 
 provider:
