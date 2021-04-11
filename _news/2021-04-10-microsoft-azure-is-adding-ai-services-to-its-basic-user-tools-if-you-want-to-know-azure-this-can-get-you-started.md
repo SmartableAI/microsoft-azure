@@ -330,19 +330,14 @@ related:
       domain: wfmz.com
     quality: 14
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "DBM Cloud Systems announced today that TBWA Worldwide, one of the world’s largest and most respected advertising agencies, selected and licensed DBM Cloud Systems’ Advanced Intelligent Replication Engine (AIRE)."
-    publishedDateTime: 2021-04-08T13:25:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control ..."
+    publishedDateTime: 2021-04-08T13:49:00Z
+    webUrl: "https://www.oaoa.com/news/business/tbwa-worldwide-continues-to-innovate-by-selecting-dbm-cloud-systems-to-accelerate-data-replication-to/article_c01015ab-cfcc-5ed4-b585-782cdcd198b8.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
     excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control over their data while taking advantage of cloud services across ..."
     publishedDateTime: 2021-04-08T17:26:00Z
@@ -353,6 +348,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "40DLJFsdJMYLRGms0kUz1d2nzqsrhIEnxq5ulbcKjOAdqnVANPmxXo29KnYC03jdv/353T+U8VoH8k4Tths7azTCYorBesoot/RIKqWWfYGoQFXCWnod1thG1JMmSFwD3NmXkWucXWfuRfHUqxiLoaip2DotkUAKsKAnQ2ulfD01MFVV7s9HY/hJ3394iryN4klpgLlq0/Lf3H5y2JG/Qv1Pch90vuV3gOAplxPJxs55y6Z/d0AQYEloIi+Fb8lNFSEMKGaHOYPB0mwYpW0uABRG5ylaBjnLEM1QqX+29r62ZkNfwiZNVmfxwBmsvMAYIguIyVkzUj4n5D4xR9Rk1lGXbek5mcmeMEAZWNVttCQ=;djkMWWFDKQ/LdRFoAgjwMg=="
+secured: "XA0EqWMpIlcS70oEYwJ0s3GcAipRwpiKpIRVhYLq+MGGprQ6Q5Xc8qLiDTRzxC0AlGofWO6XhEEImcgngMJT5HxwoFr16+V+XI58bQIx5oc0wRZjIzmaX/9Iee3Dx7EhpcBaJ+MV3LTZlLX+SqPKXAHPZdwdLAk3s3aKT/M+Z+iGAPPHanv8HaZf8IjFO0bJAAa5+BDNA1Bx2LFe8fxYqN+MkzwdAx0w8VJGEcGohZR5LJ+kihSbvf88TErLrC+UvmjAeizDdgDYMFvaR1rLUdIvdXl412xI14czoBuB+smb8sEXBz3t1EMRHZI7FpWmBffHPa4cTt7DhaiuXN6QUVuoLP+HdDDsi/3vZO671zbGC7lpf8XumZrdNqwXvhO5D8T1ULRon5MQAyQSA/8zBiMboMBg8sbcceCDf6/AcGWjwXZgIOO7lwFowDdLCwvmGJg2BTPRBIPAektsW3EY+rF9uNGH8azA6KBweVV+XNROhU3NuCMerYQKV7Eco5XJMJQ0xULAe+4wztHGDzbiUA==;nQXKUzITjIaJ0qu7zSKz5w=="
 ---
 

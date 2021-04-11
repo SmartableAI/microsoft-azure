@@ -333,19 +333,14 @@ related:
       domain: wfmz.com
     quality: 14
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
-    excerpt: "DBM Cloud Systems announced today that TBWA Worldwide, one of the world’s largest and most respected advertising agencies, selected and licensed DBM Cloud Systems’ Advanced Intelligent Replication Engine (AIRE)."
-    publishedDateTime: 2021-04-08T13:25:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-cloud-computing-data-management-california-560b22d2c5ee4a5dbb5f98465223d781"
+    excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control ..."
+    publishedDateTime: 2021-04-08T13:49:00Z
+    webUrl: "https://www.oaoa.com/news/business/tbwa-worldwide-continues-to-innovate-by-selecting-dbm-cloud-systems-to-accelerate-data-replication-to/article_c01015ab-cfcc-5ed4-b585-782cdcd198b8.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "pl+5zcfKYWihvdCibSiCI7MFDalLM9tpie6VjKj9lf9ofj891gRTSd6kFI58/Ef4VGhMhVoDekH6SX88zPyaqvPp/Lv+fVEfp2i+slnqg1kcaf2fPMpIeCQHTnnKT2dmgh8wtBmm7bPxZeg3kBdWGUbHuwroj0k1/VwKLUTlWf8sChLlzRtlRWOtsT2kLamQVIT6WRBdmcUp17HHeSTSinOxaB+cdbkw+Y8syM80q2IqhTQcsjGxUE/ajVlcuBP+4oBcoB9oaAWxvrOq2VTwi5e8BSpz6swKPu2syrvMURbjTtwunqDSZtWB3c4eCqQPRi06ar1T1qfw6VWz++fgB8fPsmWKHhLbMFqSC5N56ac=;IDso4tutZwMuOHybek/SnQ=="
 ---
