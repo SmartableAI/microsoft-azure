@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
-      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
-      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
+      "title": "Design a geographically distributed application",
+      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
+      "length": "PT34M",
       "ratings": {
-        "count": 1871,
-        "average": 4.2875466
+        "count": 800,
+        "average": 4.68
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,17 +27,17 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Advanced"
       ],
-      "heat": 131,
+      "heat": 133,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Storage",
+        "Networking",
+        "Web",
         "Compute",
-        "Serverless",
         "Databases"
       ]
     },
@@ -72,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10398,
-            "average": 4.721004
+            "count": 10400,
+            "average": 4.721058
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9203,
-            "average": 4.759209
+            "count": 9205,
+            "average": 4.759261
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -163,8 +163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7352,
-            "average": 4.758977
+            "count": 7354,
+            "average": 4.7590427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -206,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8022,
-            "average": 4.6351285
+            "count": 8024,
+            "average": 4.6352196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -275,8 +275,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 10398,
-        "average": 4.721004
+        "count": 10400,
+        "average": 4.721058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,8 +423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8357,
-            "average": 4.661242
+            "count": 8358,
+            "average": 4.6612825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 4491,
-            "average": 4.7223334
+            "count": 4493,
+            "average": 4.722457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -582,8 +582,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7262,
-            "average": 4.764252
+            "count": 7264,
+            "average": 4.7641797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -973,8 +973,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
       "length": "PT30M",
       "ratings": {
-        "count": 13427,
-        "average": 4.6850376
+        "count": 13428,
+        "average": 4.6849866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1032,8 +1032,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5287,
-            "average": 4.70645
+            "count": 5289,
+            "average": 4.706372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1119,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1284,
-            "average": 4.568536
+            "count": 1285,
+            "average": 4.5688715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1256,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10398,
-            "average": 4.721004
+            "count": 10400,
+            "average": 4.721058
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1462,8 +1462,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1400,
-            "average": 4.592143
+            "count": 1401,
+            "average": 4.592434
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1542,8 +1542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/",
           "length": "PT46M",
           "ratings": {
-            "count": 1822,
-            "average": 4.593853
+            "count": 1823,
+            "average": 4.5940757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1789,8 +1789,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 833,
-            "average": 4.735894
+            "count": 834,
+            "average": 4.736211
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2018,8 +2018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1252,
-            "average": 4.694888
+            "count": 1253,
+            "average": 4.695132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2099,8 +2099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5287,
-            "average": 4.70645
+            "count": 5289,
+            "average": 4.706372
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2803,8 +2803,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/access-data-with-cosmos-db-and-sql-api/",
           "length": "PT58M",
           "ratings": {
-            "count": 2883,
-            "average": 4.6472425
+            "count": 2884,
+            "average": 4.6473646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3367,8 +3367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1252,
-            "average": 4.694888
+            "count": 1253,
+            "average": 4.695132
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3880,8 +3880,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 833,
-        "average": 4.735894
+        "count": 834,
+        "average": 4.736211
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3923,15 +3923,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-a-geographically-distributed-application.md",
-      "title": "Design a geographically distributed application",
-      "excerpt": "Build an application that spans multiple geographic locations for high availability and resiliency.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-design-a-geographically-distributed-application/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-a-geographically-distributed-application/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-migrate-sql-server-relational-data.md",
+      "title": "Migrate your relational data stored in SQL Server to Azure SQL Database",
+      "excerpt": "Plan and implement the migration of relational data from SQL Server to Azure SQL Database. Select the appropriate migration strategy for your database, and then use Data Migration Assistant to do the assessment and the migration.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-migrate-sql-server-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/",
+      "length": "PT1H24M",
       "ratings": {
-        "count": 800,
-        "average": 4.68
+        "count": 1413,
+        "average": 4.4600143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3946,7 +3946,7 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 53,
       "content": "\r\n",
@@ -3954,10 +3954,9 @@
       "price": "Free",
       "topics": [
         "Azure",
-        "Networking",
-        "Web",
-        "Compute",
-        "Databases"
+        "Databases",
+        "Migration",
+        "Management Tools"
       ]
     }
   ],
