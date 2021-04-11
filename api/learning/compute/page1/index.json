@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/",
           "length": "PT36M",
           "ratings": {
-            "count": 47010,
-            "average": 4.7846417
+            "count": 47022,
+            "average": 4.784675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
           "length": "PT24M",
           "ratings": {
-            "count": 25913,
-            "average": 4.8133755
+            "count": 25919,
+            "average": 4.8133416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/",
           "length": "PT34M",
           "ratings": {
-            "count": 11871,
-            "average": 4.8038917
+            "count": 11873,
+            "average": 4.803925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/",
       "length": "PT24M",
       "ratings": {
-        "count": 25913,
-        "average": 4.8133755
+        "count": 25919,
+        "average": 4.8133416
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,16 +221,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday.md",
-      "title": "Operational best practices for web apps on Azure App Service | Azure Friday",
-      "excerpt": "Azure App Service hosts millions of apps, serves trillions of requests per day, and has an SLA of 99.95%. But what should you do when your app has issues in production? Byron Tardif joins Scott Hanselman to discuss some operational best practices for running your web apps on Azure App Service.  0:00",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-operational-best-practices-for-web-apps-on-azure-app-service-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=JAqoLC2dv-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JAqoLC2dv-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-azure-functions-and-signalr.md",
+      "title": "Enable automatic updates in a web application using Azure Functions and SignalR Service",
+      "excerpt": "Update a web app's notification mechanism from polling to push-based architecture with SignalR Service, Azure Cosmos DB and Azure Functions. Use Vue.js and JavaScript to use SignalR using Visual Studio Code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-functions-and-signalr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 1871,
+        "average": 4.2875466
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -241,23 +243,19 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-05T17:09:42-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JAqoLC2dv-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Beginner"
       ],
+      "heat": 131,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
+        "Storage",
         "Compute",
-        "Web"
+        "Serverless",
+        "Databases"
       ]
     },
     {
@@ -291,8 +289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10394,
-            "average": 4.720993
+            "count": 10398,
+            "average": 4.721004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -337,8 +335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9202,
-            "average": 4.7592916
+            "count": 9203,
+            "average": 4.759209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -382,8 +380,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7351,
-            "average": 4.7590804
+            "count": 7352,
+            "average": 4.758977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8021,
-            "average": 4.635332
+            "count": 8022,
+            "average": 4.6351285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -517,8 +515,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7104,
-            "average": 4.7767453
+            "count": 7106,
+            "average": 4.7768083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -560,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5452,
-            "average": 4.7188187
+            "count": 5455,
+            "average": 4.7189736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -603,8 +601,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4824,
-            "average": 4.757048
+            "count": 4826,
+            "average": 4.7571487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -647,8 +645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4580,
-            "average": 4.7508736
+            "count": 4582,
+            "average": 4.7509823
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -891,8 +889,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9202,
-        "average": 4.7592916
+        "count": 9203,
+        "average": 4.759209
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +934,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 4363,
-        "average": 4.7714877
+        "count": 4364,
+        "average": 4.7715397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1006,8 +1004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5270,
-            "average": 4.7381406
+            "count": 5272,
+            "average": 4.73824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,8 +1082,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5096,
-            "average": 4.7242937
+            "count": 5097,
+            "average": 4.7243476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1119,8 +1117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3848,
-            "average": 4.726871
+            "count": 3849,
+            "average": 4.726942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1201,8 +1199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/",
           "length": "PT48M",
           "ratings": {
-            "count": 5270,
-            "average": 4.7381406
+            "count": 5272,
+            "average": 4.73824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1279,8 +1277,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals/",
           "length": "PT47M",
           "ratings": {
-            "count": 5096,
-            "average": 4.7242937
+            "count": 5097,
+            "average": 4.7243476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,8 +1312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/network-fundamentals-2/",
           "length": "PT36M",
           "ratings": {
-            "count": 3848,
-            "average": 4.726871
+            "count": 3849,
+            "average": 4.726942
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1947,8 +1945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/",
           "length": "PT42M",
           "ratings": {
-            "count": 2542,
-            "average": 4.599921
+            "count": 2543,
+            "average": 4.599685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2446,8 +2444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9202,
-            "average": 4.7592916
+            "count": 9203,
+            "average": 4.759209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3038,8 +3036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3840,
-            "average": 4.746354
+            "count": 3842,
+            "average": 4.746486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3082,8 +3080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2942,
-            "average": 4.660775
+            "count": 2943,
+            "average": 4.66089
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4128,8 +4126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41691,
-            "average": 4.7177567
+            "count": 41694,
+            "average": 4.7177773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4163,8 +4161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-app-center/",
           "length": "PT49M",
           "ratings": {
-            "count": 675,
-            "average": 4.6266665
+            "count": 676,
+            "average": 4.6272187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4532,8 +4530,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2254,
-            "average": 4.6215615
+            "count": 2256,
+            "average": 4.621897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4950,8 +4948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/",
           "length": "PT57M",
           "ratings": {
-            "count": 2254,
-            "average": 4.6215615
+            "count": 2256,
+            "average": 4.621897
           },
           "provider": {
             "name": "Microsoft Learn",
