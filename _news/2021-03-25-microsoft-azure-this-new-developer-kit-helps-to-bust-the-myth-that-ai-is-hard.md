@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
 type: article
 quality: 110
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -161,6 +161,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Privacera customers can now take advantage of the scalability, high availability, and security of Azure with streamlined deployment and management. Privacera works with Microsoft to help ..."
+    publishedDateTime: 2021-03-24T21:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace-301253672.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg?p=facebook"
+        width: 762
+        height: 398
         isCached: true
 
 secured: "U8hu+yZnok6RlFE20/lP7Ch+4U4yDzaT7UAL+wnO8IRjpp2s7+FNk0F3ENJCyVRarByeja1DvHjds4lywOW0OmVhOHyo337WM2spcwuCyqAC8zGarFGE2Hd7QLQUFXU6Uof+cmdEgI48qFmyxDotx5VsKrg0HHymV0Tbnf51zggTibjAJ7Q6msMlsA9zymcENvsc6LXI1iRTDYfihNFwjiFghJ8RiBJyKfGVbkpCaKRFD1jmwvFsTZiCmsOj/FZQdLRJFfqYFK+Yedf1LL6MqV74yYP6U9NDfkA+0kV+c6+BMWrbCqr6bBR3UKaXyWmUFc5Ed4XCTvkulc7N1FbsrJQVXO8tAR8zQiW511b3tcGPhuBx6GWeWK878lQzmFXUVHP8bTkh3meEdQbxnoID0FFK8GePWxRWrAZLi8AhYF0As+pzZtWdQxgsynJI44Hr9nevYdtYd7Pk4l/YL+4a+WyeGvWrVOgb/UE4t0CziO2E3PtoFgwAuRJyfdLef2m0tom7f5Ubx2YiLj6tIoBh9A==;4XXMTqilQ76fozZJc5Kdnw=="

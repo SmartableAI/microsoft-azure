@@ -157,6 +157,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Privacera customers can now take advantage of the scalability, high availability, and security of Azure with streamlined deployment and management. Privacera works with Microsoft to help ..."
+    publishedDateTime: 2021-03-24T21:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace-301253672.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg?p=facebook"
+        width: 762
+        height: 398
+        isCached: true
 
 secured: "qjeg5Y3mMwflxnupEyc5cIFJT6J2ESzJCriyCpbgJE0M9Sw2ELDlc0vjAZU+qSyeJIUF5ehIquUGe9Jyo5IgqDrT7EWTwxH1p01GJTg+2aAPv4zU6+0hiSxZgzUFG3927e8/skDPDNLYonFyHDg3nlinuZHqkH5PuD1TDD8O91QAbRPlZ9IkS5BcsJP5OAgN8mXTJW2UjqUXgKAS8gqAhZUz6B2sfRWy3h3miyfWlIT6DBixr/HCygT9EbPtf8gnmXmRnPhSWsiWD21madjrGRLi3laWzf96g0BFCWtWhME9yffe8cNfrnRg1HPdDTxwANugzl51iJsLi9G/Ee9s5hsDtwZUKJjb1v4fGNh0MoG7UJnXvMRIioWrUYAEuxLA/0MjZpQVumZ7pP1AKaTxYLc+5asqHmmKBiYffmQjJIU5vhzTZEg4a59g0mdg+cUO2ViXCHImxNMuB+gW176EeSLnacdUUKI50HpwfbKS0lRjUvoJC1wYCJnhpaYm6DNtw+Pc6cSCvmkMxGR/TI2u7w==;h6QGNekePc39W1blgJYbPA=="
 ---

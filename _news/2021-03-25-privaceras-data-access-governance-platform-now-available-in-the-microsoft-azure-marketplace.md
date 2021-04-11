@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
-publishedDateTime: 2021-03-26T11:33:00Z
-originalUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
-cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
+excerpt: "Privacera customers can now take advantage of the scalability, high availability, and security of Azure with streamlined deployment and management. Privacera works with Microsoft to help ..."
+publishedDateTime: 2021-03-24T21:42:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace-301253672.html"
+webUrl: "https://www.prnewswire.com/news-releases/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace-301253672.html"
 type: article
-quality: 36
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: openpr.com
-  domain: openpr.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Migration
+
+images:
+  - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg?p=facebook"
+    width: 762
+    height: 398
+    isCached: true
 
 related:
   - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
@@ -115,6 +118,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Softline has earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "LONDON United Kingdom March 25 2021 In January 2021 Softline a digital transformation and cybersecurity provider received Microsoft Advanced Specialization for migration of Windows Server and SQL Server to Microsoft Azure This global status confirms Softline s deep knowledge extensive"
+    publishedDateTime: 2021-03-26T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    ampWebUrl: "https://www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262450/softline-has-earned-the-windows-server-and-sql-server-migration"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Infobip Customer Engagement and Service Solutions Available on Microsoft Azure"
     excerpt: "Infobip has announced its full Communications Platform as-a-Service offering is now available on Microsoft Azure."
     publishedDateTime: 2021-03-29T09:43:00Z
@@ -157,21 +171,7 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Privacera's Data Access Governance Platform Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Privacera customers can now take advantage of the scalability, high availability, and security of Azure with streamlined deployment and management. Privacera works with Microsoft to help ..."
-    publishedDateTime: 2021-03-24T21:42:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/privaceras-data-access-governance-platform-now-available-in-the-microsoft-azure-marketplace-301253672.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg?p=facebook"
-        width: 762
-        height: 398
-        isCached: true
 
-secured: "CffJmjxdaKbYs/8PaND27JuqvvlZeVg1SmvziwICiLTYcmY4HJfiEZKT8+iYIz7ITEYPEQ8jfaJhZilcRtb9lcArr+rCY3DtyNZdEoj968ECjTyUa0P11Mkq2wtvcj9m0cg/hasJdH3NvHxxp83s1uoylc0UZgA3UFb1G6da9Nm007D6yjHUqu2Rwv1JpJL+r5ACLrcHjUWl9h/FA+YgXbkZohBwsPAJSlNQ13+uWAJXzBQi0N9gjlVnFne0l3ssZ2ZD4HtolrUJUnUosK2YuO8Yp3k55NwdNqHbyc0LzUxOoF6gFLk6apjKNxFfLHMwqFxZRkin36rvZ0gwXtzRDUZVf9V7MN7OTs9PzWBqbLg=;2iGQ8PRH/NVXjUBLRDyK3w=="
+secured: "ag8j9CLlu+OaWcw0ZJZ+dfg0xBm4PSf7UaR8XLegAkVisa0Io7qds+RAPdZczk7j66h6ICBjdVc2xqVVQuI/6iHnePY2LhkvdlEe/0yVy2NIUyzZUa9e0C2fWoaxVordGitS/WlLBU/duzMkfXGtYfkNcSvYCCzl9vu5Zb3p7yMekMVM3nNvnG/CQsGnQJPvvuGgwRsCPvBLbpkIeYNeSzgSVDL2IxuZnThPrW4Y+c9pWba5jgubzINNZAoTacJRd0J8X2aM1tgVyL5xBqM1t1OsJfmZoQGTRXaN+qiofbyoOXW94gURwiXCgJQI8KWarIcqWIpmsrv6pOIKF+3+3T4guSu/JmHquvovnhPVsTM=;gdKVO0RxpQ5tcE53AkIAbg=="
 ---
 
