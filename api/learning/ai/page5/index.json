@@ -4,6 +4,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implement-ci-cd-azure-devops.md",
+      "title": "Implement CI/CD with Azure DevOps",
+      "excerpt": "Implement CI/CD with Azure DevOps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-implement-ci-cd-azure-devops/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-ci-cd-azure-devops/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 140,
+        "average": 4.742857
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/implement-ci-cd-azure-devops-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Analytics",
+        "AI",
+        "DevOps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-integrate-azure-databricks-other-azure-services.md",
       "title": "Integrate Azure Databricks with other Azure services",
       "excerpt": "Integrate Azure Databricks with other Azure services",
@@ -11,8 +56,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-azure-databricks-other-azure-services/",
       "length": "PT33M",
       "ratings": {
-        "count": 133,
-        "average": 4.541353
+        "count": 134,
+        "average": 4.544776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/",
       "length": "PT24M",
       "ratings": {
-        "count": 103,
-        "average": 4.776699
+        "count": 104,
+        "average": 4.7788463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -358,8 +403,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-approach-to-ai/",
       "length": "PT54M",
       "ratings": {
-        "count": 974,
-        "average": 4.7156057
+        "count": 975,
+        "average": 4.7158976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -401,8 +446,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/microsoft-responsible-ai-practices/",
       "length": "PT1H17M",
       "ratings": {
-        "count": 422,
-        "average": 4.7985783
+        "count": 423,
+        "average": 4.799054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -444,8 +489,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-machine-learning-with-azure-databricks/",
       "length": "PT59M",
       "ratings": {
-        "count": 47,
-        "average": 4.7021275
+        "count": 48,
+        "average": 4.7083335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -488,8 +533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-model-selection-with-hyperparameter-tuning/",
       "length": "PT33M",
       "ratings": {
-        "count": 42,
-        "average": 4.595238
+        "count": 43,
+        "average": 4.604651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -532,8 +577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/process-streaming-data-azure-databricks-structured-streaming/",
       "length": "PT46M",
       "ratings": {
-        "count": 120,
-        "average": 4.608333
+        "count": 121,
+        "average": 4.6115704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -576,8 +621,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/read-write-data-azure-databricks/",
       "length": "PT60M",
       "ratings": {
-        "count": 409,
-        "average": 4.5305624
+        "count": 410,
+        "average": 4.5317073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,50 +654,6 @@
       "topics": [
         "Azure",
         "Analytics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition.md",
-      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
-      "excerpt": "This module guides you through learning about speaker recognition and how to use the Speaker Recognition APIs to identify specific people through their voices.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-recognize-voices-with-speaker-recognition/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 929,
-        "average": 4.4940796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Developer Tools",
         "AI"
       ]
     },
@@ -707,8 +708,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-governing-practices/",
       "length": "PT35M",
       "ratings": {
-        "count": 427,
-        "average": 4.7704916
+        "count": 428,
+        "average": 4.771028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -750,8 +751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/",
       "length": "PT56M",
       "ratings": {
-        "count": 953,
-        "average": 4.706191
+        "count": 955,
+        "average": 4.706806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +960,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/spark-architecture-fundamentals/",
       "length": "PT33M",
       "ratings": {
-        "count": 627,
-        "average": 4.6523128
+        "count": 628,
+        "average": 4.6528664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,8 +1047,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-machine-learning-model/",
       "length": "PT53M",
       "ratings": {
-        "count": 42,
-        "average": 4.785714
+        "count": 43,
+        "average": 4.7906976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1134,8 +1135,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-containers-language-understanding-intelligent-service-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 134,
-        "average": 4.7462687
+        "count": 135,
+        "average": 4.748148
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1178,8 +1179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-advanced-methods-azure-databricks/",
       "length": "PT42M",
       "ratings": {
-        "count": 192,
-        "average": 4.5729165
+        "count": 193,
+        "average": 4.5751295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,8 +1223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-azure-databricks/",
       "length": "PT46M",
       "ratings": {
-        "count": 316,
-        "average": 4.642405
+        "count": 317,
+        "average": 4.643533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,8 +1267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-dataframes-columns-azure-databricks/",
       "length": "PT43M",
       "ratings": {
-        "count": 204,
-        "average": 4.617647
+        "count": 205,
+        "average": 4.619512
       },
       "provider": {
         "name": "Microsoft Learn",
