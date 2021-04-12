@@ -139,6 +139,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
+  - title: "Public preview: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+    excerpt: "Azure Event Grid now supports as a public preview release additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+    publishedDateTime: 2021-03-31T22:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
   - title: "Public preview: Service Tags for User Defined Routing "
     excerpt: "Simplify route creation and management by using Service Tags to represent multiple IP ranges in a single route. Utilize over 60 tags representing ranges for Microsoft and Azure service. "
     publishedDateTime: 2021-03-26T19:00:15Z

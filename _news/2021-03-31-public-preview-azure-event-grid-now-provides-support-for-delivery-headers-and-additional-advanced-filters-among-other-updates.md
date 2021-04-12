@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier"
-excerpt: "Make your serverless Azure SQL databases resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy."
-publishedDateTime: 2021-03-31T16:01:29Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/"
-webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/"
+title: "Public preview: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+excerpt: "Azure Event Grid now supports as a public preview release additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+publishedDateTime: 2021-03-31T22:00:00Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
 type: article
-quality: 121
-heat: 481
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,10 +20,18 @@ provider:
 
 topics:
   - Azure
-  - Serverless
-  - Databases
+  - Integration
 
 related:
+  - title: "Public preview: Zone redundant configuration for Azure SQL Database serverless compute tier"
+    excerpt: "Make your serverless Azure SQL databases resilient to a much larger set of failures, including catastrophic datacenter outages, without any changes of the application logic by selecting zone redundancy."
+    publishedDateTime: 2021-03-31T16:01:29Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-zone-redundant-configuration-for-azure-sql-database-serverless-compute-tier/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 121
   - title: "Azure Synapse Link for Azure Cosmos DB: SQL serverless runtime support in preview"
     excerpt: "Azure Synapse Link now offers preview support for querying Azure Cosmos DB data with Synapse SQL serverless."
     publishedDateTime: 2020-10-14T16:00:13Z
@@ -132,15 +140,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 63
-  - title: "Public preview: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
-    excerpt: "Azure Event Grid now supports as a public preview release additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
-    publishedDateTime: 2021-03-31T22:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 56
   - title: "Public preview: IPv6 Support for ExpressRoute Private Peering"
     excerpt: "This support will unlock hybrid connectivity for you as you expand into new, IPv6-dependent markets or transition to IPv6 in your own networks."
     publishedDateTime: 2021-03-24T18:10:22Z
@@ -187,6 +186,6 @@ related:
       domain: microsoft.com
     quality: 10
 
-secured: "szaG1d60Zd2QkkX+Xy3vapWaW+grhYpn0b6NY1La7lXq5IuuvJCvTf39dXFPAwyxIv3SIueb5021ta2S5iMNRXAIxOLleI77n2HicwZl8h/gd/1ug+GBVnHsXkKgAANraSfMYKK/5aUWVPIobZV/Gg9f4Puj0CcUxHtzr/W5qOyquxCr4JsXNrbzK5VTck/pR3w06hc7kfuuqmXm9OwwyKWbFoRs2A8QqNafxZCWeBbkHWs1Uzl+wtvx1WZpBLDHuEzwi9uUvMGyYFjSehvZY6ujuILGCTYRdbQGnhFy09/9JFl6L2RWKg9XWqNXv3qN19GgA0M4Pucq0sRXoRif9J4mxv/sdEPT5syTFSGxNuA=;wk17y+fBOOy/Zghfg4Ft2g=="
+secured: "rS1CVPBOXhyskIQpnJIOr/2l7O0fjxpQA5EgIlpMz6fJzKeOCnz6QG14ekAla7uex4XNxB4tvTkuJnkBAPf4YaK0vu72b1aZhdjgATnJECgFu8h5ooJORErNe6UNQIngWjWGCRHPQmw2/JwjiCuBWfOe9vzT9TPoqhBsPWPzw8Xip2FuuB+opzkJTv+cg3+y0Rkrkez6WCTEq6neQH52oIwMgQI5mvOAdo73WMTVHNtFqObl+d6frB/TWVbunDrdHrst68AdzySqPRlXp3VgFY3x796+xbxKA1/Uu2tscW1vmWhJHSlH+XgIZpP4MSsdNqZDwPq9Ld6WqSu2Gl9FwgYezlz+W4kEpxOjpIT0os4=;Zoa+0GwNrFLCxwJ+Pl3XKg=="
 ---
 

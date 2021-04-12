@@ -131,6 +131,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Public preview: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
+    excerpt: "Azure Event Grid now supports as a public preview release additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
+    publishedDateTime: 2021-03-31T22:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-event-grid-now-provides-support-for-delivery-headers-and-additional-advanced-filters-among-other-updates/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
   - title: "Public preview: IPv6 Support for ExpressRoute Private Peering"
     excerpt: "This support will unlock hybrid connectivity for you as you expand into new, IPv6-dependent markets or transition to IPv6 in your own networks."
     publishedDateTime: 2021-03-24T18:10:22Z
