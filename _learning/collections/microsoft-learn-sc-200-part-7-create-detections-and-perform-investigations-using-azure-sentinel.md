@@ -4,7 +4,7 @@ excerpt: "SC-200 part 7: Create detections and perform investigations using Azur
 type: collection
 price: Free
 length: PT4H40M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
