@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
-excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
-publishedDateTime: 2021-04-10T14:00:00Z
-originalUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
-webUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
+title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
+excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
+publishedDateTime: 2021-04-06T17:44:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
 type: article
-quality: 72
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Next Web
-  domain: thenextweb.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/thenextweb.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - AI
 
 images:
-  - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
-    width: 1280
-    height: 640
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -92,6 +87,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/04/01/660c4283-ca4d-4857-a4fb-401550b445bc/microsoftclouddown.jpg"
         width: 1123
         height: 792
+        isCached: true
+  - title: "Microsoft Azure is adding AI services to its basic user tools. If you want to know Azure, this can get you started"
+    excerpt: "Complete Microsoft Azure Certification Prep Bundle explores how to build and manage a complete Azure cloud network and earn key Azure credentials in the process. Artificial intelligence. For most, tho"
+    publishedDateTime: 2021-04-10T14:00:00Z
+    webUrl: "https://thenextweb.com/news/microsoft-azure-is-adding-ai-services-to-its-basic-user-tools-if-you-want-to-know-azure-this-can-get-you-started"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 72
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
@@ -339,20 +348,6 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
-    excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
-    publishedDateTime: 2021-04-06T17:44:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "nDivision Inc.: nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "The Microsoft Azure Kubernetes Service (AKS) will offer nDivision the following benefits: Flexibility in application deployments and delivery Reduced management overhead Elastic scalability to handle any workload demands Multi-zone deployment for increased ..."
     publishedDateTime: 2021-04-06T11:10:00Z
@@ -390,6 +385,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "XA0EqWMpIlcS70oEYwJ0s3GcAipRwpiKpIRVhYLq+MGGprQ6Q5Xc8qLiDTRzxC0AlGofWO6XhEEImcgngMJT5HxwoFr16+V+XI58bQIx5oc0wRZjIzmaX/9Iee3Dx7EhpcBaJ+MV3LTZlLX+SqPKXAHPZdwdLAk3s3aKT/M+Z+iGAPPHanv8HaZf8IjFO0bJAAa5+BDNA1Bx2LFe8fxYqN+MkzwdAx0w8VJGEcGohZR5LJ+kihSbvf88TErLrC+UvmjAeizDdgDYMFvaR1rLUdIvdXl412xI14czoBuB+smb8sEXBz3t1EMRHZI7FpWmBffHPa4cTt7DhaiuXN6QUVuoLP+HdDDsi/3vZO671zbGC7lpf8XumZrdNqwXvhO5D8T1ULRon5MQAyQSA/8zBiMboMBg8sbcceCDf6/AcGWjwXZgIOO7lwFowDdLCwvmGJg2BTPRBIPAektsW3EY+rF9uNGH8azA6KBweVV+XNROhU3NuCMerYQKV7Eco5XJMJQ0xULAe+4wztHGDzbiUA==;nQXKUzITjIaJ0qu7zSKz5w=="
+secured: "KjhC4Q8gIakMpDeMa1olAbZyUng2RzN82+YPxg6rUD3bYtO8dlGiEgJMeSIIm8G3riNn/RlHJhRtBJAlmT71JaNtKEfOwaFwigdmfabs/IncI6Zi2RrBq5/6hWqChbaznydnSGN/dcZ2lIvMsicyCsCf28ZZcpirYoXWfdD3Drr14Owpu8kbZfM0kZixhXV8xlnQy4bQrcAJJww5DKBcUHPkVBXTfE4oKUPUx8XlplAM0U8GsoaPePBzF/Bd8v7b3LTYPPPCZ4CfCQrcBiRzJGOtyObNeKZ5HRh31ilRpUicgsGdco6PN5cs5kNo30/uH1GJkiE6bLsSpd7Jy0kML/nIqS5JbbFrn4tWCrGNn9U=;ctSBd1EbyCmzu1FnATUSaQ=="
 ---
 

@@ -343,6 +343,20 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
+    excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
+    publishedDateTime: 2021-04-06T17:44:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
     excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
     publishedDateTime: 2021-03-30T07:00:00Z
