@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure VMware Solution now available in UK South and Japan East Azure regions"
-excerpt: "The new Azure VMware Solution has expanded availability to Japan East and UK South Azure regions in addition to the existing regions: US East, US West, West Europe and Australia. "
-publishedDateTime: 2020-12-14T20:20:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
+title: "Azure Maps Weather Services are now generally available"
+excerpt: "Weather Services empower developers to integrate highly dynamic, real-time weather data and visualizations into solutions that span a multitude of use cases and industries."
+publishedDateTime: 2021-04-12T16:00:40Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-weather-services-are-now-generally-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-weather-services-are-now-generally-available/"
 type: article
-quality: 64
+quality: 67
 heat: -1
 published: false
 
@@ -40,15 +40,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Azure Maps Weather Services are now generally available"
-    excerpt: "Weather Services empower developers to integrate highly dynamic, real-time weather data and visualizations into solutions that span a multitude of use cases and industries."
-    publishedDateTime: 2021-04-12T16:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-weather-services-are-now-generally-available/"
+  - title: "Azure VMware Solution now available in UK South and Japan East Azure regions"
+    excerpt: "The new Azure VMware Solution has expanded availability to Japan East and UK South Azure regions in addition to the existing regions: US East, US West, West Europe and Australia. "
+    publishedDateTime: 2020-12-14T20:20:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-uk-south-and-japan-east-azure-regions/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 64
   - title: "Azure Data Factory data flow connectors now generally available for CDM and Delta Lake."
     excerpt: "Azure Data Factory (ADF) has make data flow connectors for ETL data loading, transforming, and landing in Common Data Model (CDM) and Delta Lake formats."
     publishedDateTime: 2020-12-10T17:00:28Z
@@ -91,6 +91,6 @@ related:
       domain: microsoft.com
     quality: 2
 
-secured: "ySsjSniD43CbrRTIExPwSWeIelTcU7BcqCi3TGuRCBJQPXqWZHukZBFNUgxAaEUlDtX4+SVrjw9MbQ6PS6w4UPCOoTztTmUnLWc7T3DI1jlyLCsGzyUDUxssZRDWNkmNI0luEafFeHfirb5cJohqu1PgfClh30XE1BiXuzvxXR/wDtjoStvIrYpb9UX9CCNKZsymKmOigrDW/JmD8BTJAOM1OncyHOy9Tk7ZkMB2KC9IilcgtrznFb0EFG/qRTl72KDn0bxKcaNwkYNy4pXCOW49wYMqzwMuPFedMhDl1Giae/YfcU8ehuA450NRWQi+38QAIIEQX/mjMWEa9zOHWQw91BJ+KMKjnvwu/7hqfsA=;7KfdG0EbQ5FM6Wn9ksO3Mg=="
+secured: "RsiouzNGPxS56asPkxvdItbfxX6QfK5xv/8QHx+aOuj4HJYxDdSe4o4pj/rqQx4obcwEDw3MLTtPVtnA6VV0TO7/a5C/QJGysVcRSFZAmH3h57dWdTVYymaZTuDM4QJ3b6+ExT5RV4oe1oDOe1D10FoFelNp8IHmY1Due7COjY34JBZIbXkZa0XzJxPctVn2uYPeUE5/oF3N+obmA22XL8MvnSd1s/t8VQw8SJAZSDt/xUSF5s+BWc4Wfo1TyhG0cYvFEVYZmbi3cC+DPm8XPMhUHgnEERsVEnX6Qse2mo5aYtnUCHzPxs1xSsFCa23PVNvktgiLDss87W+9KUN28X2C1DgbP4r15zoHYyn0lY4=;sBcW6IqQWOH7u7qEhEcG1Q=="
 ---
 

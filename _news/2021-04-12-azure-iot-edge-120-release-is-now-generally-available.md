@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Azure Automation is now available in Japan West"
-excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
-publishedDateTime: 2021-02-09T16:49:56Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+title: "Azure IoT Edge 1.2.0 release is now generally available "
+excerpt: "Azure IoT Edge 1.2.0 enables Azure Device Update for IoT Hub and IoT Edge devices in a nested configuration."
+publishedDateTime: 2021-04-12T17:00:40Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-2-0/"
+webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-2-0/"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -20,21 +20,13 @@ provider:
 
 topics:
   - Azure
+  - IoT
 
 related:
   - title: "Azure IoT Edge 1.1.0 release is now generally available "
     excerpt: "Azure IoT Edge 1.1.0 is our first long term servicing (LTS) release."
     publishedDateTime: 2021-02-17T01:02:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
-  - title: "Azure IoT Edge 1.2.0 release is now generally available "
-    excerpt: "Azure IoT Edge 1.2.0 enables Azure Device Update for IoT Hub and IoT Edge devices in a nested configuration."
-    publishedDateTime: 2021-04-12T17:00:40Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-2-0/"
     type: article
     provider:
       name: Microsoft
@@ -49,6 +41,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 81
+  - title: "Azure Automation is now available in Japan West"
+    excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
+    publishedDateTime: 2021-02-09T16:49:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-automation-in-japan-west-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure Image Builder Service now generally available"
     excerpt: "Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools."
     publishedDateTime: 2021-02-20T17:00:13Z
@@ -104,6 +105,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "blrJLTbAFCgWcQMGI0LA4jnEZW36XjRVlszQ+zFN7hFi9qeNKunh3ApOChnnK4sze0+t/dWR8U/2MZo2+i9q9R4rXkWYT95PlvOXE4l5gQL2jJ9MIdZsJnugE6W0eE2v7YvfOf8zj3gS5D5RhOr//RpMHhFgQRcS6sfFzlrITlWJg7Ydq9Q4yN1dQEGlYgWwRL8iY+qTaX+5uJrfFwR5eXSPw7mRYEYUX8Qq0ief0NSqKxMq/+0bSfIYbt3DQiFtUc8Jd/kZDSf4w54MCMQFWumUhyGz2p7UPWFSGWGcfxEXb1gFTq0AFhlnXdBCiJ5zZACRFeu1g6KBPHjafZ9NrkTvkg+t8++mFhbCEH2RolI=;wn4evH02E3Vb/6sLsYeWow=="
+secured: "ulpmfGtVZhsC0u1V3vDXkaHmP5clnM5HDQGshggNDJxv4QbkNVkdW2vIRu79J8bDogEppx7hZI4mv2xPInqBU3gNEhYxeubS57SDW+7TUPcIvMSOQlUswpjyyflohME2hFaZ3Iw86T1Jjr/ZLpvrlFMjFRDjrrZ2p1hFI/tPKWOlhOGhj9Q68HrmMTIF/7W/aSTrfA0zhOXqHB7iL1Kls2n5jrh5W7ZL2nmpcCwHJ8nmdkkI2YYJ7maXoUdW1sn3EuNsT9sCAx6TgZ7WbIhHQtpygbYa/AC/geQR1MZntjoLgExMDaCE0jJdIvhoj6dx86hDY3lUNWD2l04jeQhlU07lQJ52j1vyy6PPfUxxPfk=;ylirJyqclqqtKu3KQj0tJA=="
 ---
 

@@ -39,6 +39,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Azure Maps Weather Services are now generally available"
+    excerpt: "Weather Services empower developers to integrate highly dynamic, real-time weather data and visualizations into solutions that span a multitude of use cases and industries."
+    publishedDateTime: 2021-04-12T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-weather-services-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
   - title: "Azure VMware Solution now available in UK South and Japan East Azure regions"
     excerpt: "The new Azure VMware Solution has expanded availability to Japan East and UK South Azure regions in addition to the existing regions: US East, US West, West Europe and Australia. "
     publishedDateTime: 2020-12-14T20:20:40Z

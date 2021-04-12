@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-lo
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-sql-auditing-to-log-analytics-and-event-hub-are-now-generally-available/"
 type: article
 quality: 98
-heat: 278
+heat: 298
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
     publishedDateTime: 2020-09-02T16:00:03Z
     webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
+    excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
+    publishedDateTime: 2021-04-12T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
     type: article
     provider:
       name: Microsoft

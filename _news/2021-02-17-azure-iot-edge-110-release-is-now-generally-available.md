@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-1-0/"
 type: article
 quality: 84
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - IoT
 
 related:
+  - title: "Azure IoT Edge 1.2.0 release is now generally available "
+    excerpt: "Azure IoT Edge 1.2.0 enables Azure Device Update for IoT Hub and IoT Edge devices in a nested configuration."
+    publishedDateTime: 2021-04-12T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-2-0/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "More ways to use composite indexes in Azure Cosmos DB now generally available"
     excerpt: "You can now use composite indexes in Azure Cosmos DB to optimize even more types of queries, including queries with aggregates and system functions."
     publishedDateTime: 2021-02-17T17:00:33Z

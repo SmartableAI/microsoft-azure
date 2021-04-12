@@ -59,6 +59,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
+    excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
+    publishedDateTime: 2021-04-12T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Monitor Logs – Log Analytics REST APIs general availability"
     excerpt: "Log Analytics control plane REST APIs are generally available under a new consolidated version 2020-08-01."
     publishedDateTime: 2020-08-27T17:00:14Z

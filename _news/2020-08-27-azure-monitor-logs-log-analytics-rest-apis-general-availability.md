@@ -58,6 +58,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
+  - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
+    excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
+    publishedDateTime: 2021-04-12T16:00:37Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
   - title: "Azure Routing Preference is now generally available "
     excerpt: "Choice matters when it comes to cloud. Routing preference enables network service tiers for internet bound traffic, letting you to optimize for performance or cost."
     publishedDateTime: 2021-03-09T16:00:35Z

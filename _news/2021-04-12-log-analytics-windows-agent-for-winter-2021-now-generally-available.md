@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
-excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
-publishedDateTime: 2021-03-02T20:00:04Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
+title: "Log Analytics Windows Agent for Winter 2021 now generally available"
+excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
+publishedDateTime: 2021-04-12T16:00:37Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
+webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
 type: article
-quality: 92
+quality: 69
 heat: -1
 published: false
 
@@ -20,7 +20,7 @@ provider:
 
 topics:
   - Azure
-  - Migration
+  - Analytics
 
 related:
   - title: "Azure SQL auditing to Log Analytics and Event Hub are now generally available"
@@ -41,19 +41,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 98
-  - title: "Log Analytics Agent for Windows August 2020 release is now available"
-    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
-    publishedDateTime: 2020-09-02T16:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
+  - title: "Generally available: Plan your migration to Azure VMware Solution using Azure Migrate"
+    excerpt: "Azure Migrate assessments for Azure VMware Solution with improved node sizing logic is now generally available.\n"
+    publishedDateTime: 2021-03-02T20:00:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-migrate-azure-vmware-solution-assessment-ga/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 69
-  - title: "Log Analytics Windows Agent for Winter 2021 now generally available"
-    excerpt: "Update to the newest Windows Agent. Now available with support fixes and a new troubleshooting tool."
-    publishedDateTime: 2021-04-12T16:00:37Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-windows-agent-for-winter-2021-available/"
+    quality: 92
+  - title: "Log Analytics Agent for Windows August 2020 release is now available"
+    excerpt: "The August 2020 release contains bug fixes and improvements to stability and reliability."
+    publishedDateTime: 2020-09-02T16:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/log-analytics-agent-for-windows-august-2020-release-is-now-available/"
     type: article
     provider:
       name: Microsoft
@@ -114,6 +114,6 @@ related:
       domain: microsoft.com
     quality: 0
 
-secured: "d7TGvP+F6P+jOLuniQEsFMugS1rwZr6Y7aP4jS0XnU8iimjPFFqErugF/roxYWeKYv7kJSg2koCHXmx8926W6A2yfB2XM2WzRc9hwUZ88JDO2DAHsfJB9zXMFENddBWDFtPxK9ZC511oUVk1DG463dUhR8E6ma/igr6mIVieXXRuH2nhYJKQ7D8qk7pYd1d0BSZjhQb7VBVF3mJsDJAyOnDX4kI1Pt1cxbckcspV2bZhgQkuN7eYGUlJ2MH36BgFW1Wq+d6MJePPd0ff84n5gJKh0FD4ZA7ZZLrdK8U0IpOetne7DyWSvXH2jkn1VsJ5Sm9yKiY0QnmcL6gZzF87NTGy1JdjyuT1m1SIxfTCmI8=;omMdxOCO7318cdRKijrA6g=="
+secured: "rXgcXbLukOEUPzAsgLKHq3c92X7PAfie9K84O+O/bdcnPyq5Z8KrTlmuBwZjRIPEQLTFICqXUPCGZdZQTCmk/qjEuxqGlqvTyjnN1RRz6Z/apbE/KOQnoRHREGa52yDFGWVndLwJi/VgeW1qIAt6TO5cbY4sjQrGlyp5iJ2Hk86V3frsmTcOj8zjKcEDiPV2jDSrRTWTNixpk6ugFUAWitzBnNRnZ/PTOKmB/O+ggt/DG7XY1VAQp36h7Zds49zD/GAuoesEANP8EJqGez8OtpCcyc7lHZZ0EB/aDn6H3uEjIiRUfJMwvF7Y6ngH+voRVl+HhvuE8+z1ucTE4JIUbv7IXr6BCR+oM2eMQrEBmcc=;/EeI42Mz2a7dmfpXzI7lEw=="
 ---
 

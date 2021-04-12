@@ -35,6 +35,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 77
+  - title: "NVIDIA CloudXR is Launching on Google Cloud, Microsoft Azure, and AWS"
+    excerpt: "The Daily Roundup is our comprehensive coverage of the VR industry wrapped up into one daily email, delivered directly to your inbox. Keep your finger on the pulse of the XR industry with the Daily Roundup, the most important news in one daily email."
+    publishedDateTime: 2021-04-12T16:59:00Z
+    webUrl: "https://www.roadtovr.com/nvidia-cloudxr-amazon-aws-google-cloud-microsoft-azure/"
+    ampWebUrl: "https://www.roadtovr.com/nvidia-cloudxr-amazon-aws-google-cloud-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/nvidia-cloudxr-amazon-aws-google-cloud-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 57
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2020/05/nvidia-cloudxr.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Podcast: Microsoft Azure's Khalidi curates carrier clouds"
     excerpt: "Yousef Khalidi, corporate VP of Azure for Operators at Microsoft and a member of the founding team of Azure, joins the podcast to discuss how his role has evolved to working on Azure for Operators. Khalidi explains why working with service providers ..."
     publishedDateTime: 2021-04-07T12:00:00Z

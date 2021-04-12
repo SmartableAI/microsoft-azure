@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-custom-h
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-functions-custom-handlers-are-now-generally-available/"
 type: article
 quality: 84
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "The availability of Azure Databricks in China enables global enterprises to provide a consistent experience for customers in this region."
     publishedDateTime: 2020-12-10T17:00:12Z
     webUrl: "https://azure.microsoft.com/en-us/updates/azure-databricks-now-generally-available-in-the-azure-china-region/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Azure Maps Weather Services are now generally available"
+    excerpt: "Weather Services empower developers to integrate highly dynamic, real-time weather data and visualizations into solutions that span a multitude of use cases and industries."
+    publishedDateTime: 2021-04-12T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-maps-weather-services-are-now-generally-available/"
     type: article
     provider:
       name: Microsoft

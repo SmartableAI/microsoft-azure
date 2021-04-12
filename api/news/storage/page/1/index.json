@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-12-general-availability-azure-blob-storage-supports-objects-up-to-200-tb-in-size.md",
+      "title": "General availability: Azure Blob storage supports objects up to 200 TB in size",
+      "excerpt": "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-12T09:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Storage"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-discover-cloud-storage-solutions-at-azure-storage-day-on-april-29.md",
       "title": "Discover cloud storage solutions at Azure Storage Day on April 29",
       "excerpt": "Today, I am announcing Azure Storage Day, a free digital event on April 29 where you can explore cloud storage solutions for all your enterprise workloads. Join me to: \n",
@@ -1373,59 +1416,6 @@
         "Storage",
         "Management tools",
         "Compute"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-azure-files-enhances-data-protection-capabilities.md",
-      "title": "Azure Files enhances data protection capabilities",
-      "excerpt": "Protecting your production data is critical for any business. That’s why Azure Files has a multi-layered approach to ensuring your data is highly available, backed up, and recoverable. Whether it’s a ransomware attack, a datacenter outage, or a file share that was accidentally deleted, we want to make",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-files-enhances-data-protection-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/58c78eec-5ed2-4255-824c-4bfce9809ba8.png",
-          "width": 1024,
-          "height": 360,
-          "title": "Azure Files enhances data protection capabilities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T04:30:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Storage",
-        "Management tools"
       ]
     }
   ],

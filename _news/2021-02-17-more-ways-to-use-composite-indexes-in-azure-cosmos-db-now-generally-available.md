@@ -32,6 +32,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Azure IoT Edge 1.2.0 release is now generally available "
+    excerpt: "Azure IoT Edge 1.2.0 enables Azure Device Update for IoT Hub and IoT Edge devices in a nested configuration."
+    publishedDateTime: 2021-04-12T17:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/iot-edge1-2-0/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Azure Automation is now available in Japan West"
     excerpt: "Automate tasks across Azure & Non-Azure environment using PowerShell and Python based scripts."
     publishedDateTime: 2021-02-09T16:49:56Z
