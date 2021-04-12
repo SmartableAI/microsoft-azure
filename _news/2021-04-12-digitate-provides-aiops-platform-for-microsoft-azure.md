@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Microsoft reveals first satellite ground station at Azure data center"
-excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
-publishedDateTime: 2021-04-09T16:31:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
+title: "Digitate Provides AIOps Platform for Microsoft Azure"
+excerpt: "Digitate, an autonomous enterprise software provider, is releasing ignio AIOps for Azure in the Microsoft Azure Marketplace, enabling customers to drive their digital transformation on cloud with Azure. ignio AIOps for Azure offers more efficiency and ..."
+publishedDateTime: 2021-04-12T13:37:00Z
+originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Digitate-Provides-AIOps-Platform-for-Microsoft-Azure-146244.aspx"
+webUrl: "https://www.dbta.com/Editorial/News-Flashes/Digitate-Provides-AIOps-Platform-for-Microsoft-Azure-146244.aspx"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: dbta.com
+  domain: dbta.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
-    width: 895
-    height: 471
+  - url: "https://www.dbta.com/images/social-logo-2019.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -292,19 +292,19 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Digitate Provides AIOps Platform for Microsoft Azure"
-    excerpt: "Digitate, an autonomous enterprise software provider, is releasing ignio AIOps for Azure in the Microsoft Azure Marketplace, enabling customers to drive their digital transformation on cloud with Azure. ignio AIOps for Azure offers more efficiency and ..."
-    publishedDateTime: 2021-04-12T13:37:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Digitate-Provides-AIOps-Platform-for-Microsoft-Azure-146244.aspx"
+  - title: "Microsoft reveals first satellite ground station at Azure data center"
+    excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
+    publishedDateTime: 2021-04-09T16:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
     quality: 37
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
+        width: 895
+        height: 471
         isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
@@ -371,6 +371,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "bka5tgvHgwYSy6jPCcd7K6lSv8IKmFon+m9dEsfcaIsVk9sjHSiXFrUWlkJtT+2Gn+gGbDxwmz9VskrHh2rTU1ToR2BsnuzY/w9MPf623nRgPRYYoLgaN/xp0W8hdlhhNb/znDzWrudgpDBLY3UJc/poEtR7rc7WKKHzf/gp45H+ihcQuzR5dAX1o2vp1oznmdXNFyNzqoRz7y4Y+lU0vFovChusKG6XCFEzzXjrEzXmiGlWr5yFKAc5U8/dhU3+lougygeX6nwdWzItMozbaUSFPe9w9tT0NtkFYf0eXqf/q1b/+9hMSpjHbFemJbmXbqbLfX/yNLv3hN3QOB6kf3qObIJlDR/6vPcRaUvUcLsTUQq1Vn9pI6bCfOP3R72TinTwVo3nnhpz3tm44XQHpj2rnpxLWnCbQFXcOfOc5ozeLq6Q9sKZAGqagLK1shSKKduCHdP/J+j2nOHZQnUqszwhe4iP7mVHuW2XtOj9ifRNV+vH7fdW8sHEUPgcW7jWWXd5KIeH675QhFDIGBkWyw==;sk52J1tMDou8lnj9N00k6A=="
+secured: "3Ii0uHYfmTUIqAKPe1FPlIigMne4LgZF5bJBXfZQu2NfZlBQR6gGNlIHgvTugz3dwH3D8yJ9xqtAYkutP1lWBzTu+IsmQf5KB/qdKmUO3BOWRI+rKo1gvYmqlVyjZh0uJhTJWbTfk1PNmkcYCPArvnMGUAcnUw7IerCCnCPbTaURc+N7nipDf+om5ERRCcfLpif/gPqQX87dhw+IVux7klyGMqup4Ci3u3lYIsuPyXCxr6d4WsNWTT14a0EcHaWSz7QuzE0dxcJ1NIjYNLb0NADMYTGfGn1Xw7qCvygrilU5XfL0L1gp0HXg/O4+JRP6cbgYCfC7LhGMbk4P2u4ksqzh4aWh3F9myw9yq+G6Tss=;HiQXpqECshIxMViS11Lspw=="
 ---
 

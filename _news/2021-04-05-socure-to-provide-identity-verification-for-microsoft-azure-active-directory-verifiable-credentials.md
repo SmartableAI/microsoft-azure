@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Microsoft reveals first satellite ground station at Azure data center"
-excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
-publishedDateTime: 2021-04-09T16:31:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
-webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
+title: "Socure to Provide Identity Verification for Microsoft Azure Active Directory Verifiable Credentials"
+excerpt: "Socure, a leader in 100% digital identity trust, today announced the company will provide identity verification services for remote onboarding for individuals accessing decentralized IDs as part of the new Microsoft Azure Active Directory (Azure AD ..."
+publishedDateTime: 2021-04-05T16:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-voip-technology-products-and-services-91d66d5dae4a4f57b0b1bda8be76a8cb"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-voip-technology-products-and-services-91d66d5dae4a4f57b0b1bda8be76a8cb"
 type: article
-quality: 37
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
+  - Identity
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
-    width: 895
-    height: 471
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -164,20 +165,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Socure to Provide Identity Verification for Microsoft Azure Active Directory Verifiable Credentials"
-    excerpt: "Socure, a leader in 100% digital identity trust, today announced the company will provide identity verification services for remote onboarding for individuals accessing decentralized IDs as part of the new Microsoft Azure Active Directory (Azure AD ..."
-    publishedDateTime: 2021-04-05T16:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-voip-technology-products-and-services-91d66d5dae4a4f57b0b1bda8be76a8cb"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
     publishedDateTime: 2021-04-05T04:00:00Z
@@ -292,6 +279,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "Microsoft reveals first satellite ground station at Azure data center"
+    excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
+    publishedDateTime: 2021-04-09T16:31:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-reveals-first-satellite-ground-station-at-azure-data-center/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
+        width: 895
+        height: 471
+        isCached: true
   - title: "Digitate Provides AIOps Platform for Microsoft Azure"
     excerpt: "Digitate, an autonomous enterprise software provider, is releasing ignio AIOps for Azure in the Microsoft Azure Marketplace, enabling customers to drive their digital transformation on cloud with Azure. ignio AIOps for Azure offers more efficiency and ..."
     publishedDateTime: 2021-04-12T13:37:00Z
@@ -371,6 +372,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "bka5tgvHgwYSy6jPCcd7K6lSv8IKmFon+m9dEsfcaIsVk9sjHSiXFrUWlkJtT+2Gn+gGbDxwmz9VskrHh2rTU1ToR2BsnuzY/w9MPf623nRgPRYYoLgaN/xp0W8hdlhhNb/znDzWrudgpDBLY3UJc/poEtR7rc7WKKHzf/gp45H+ihcQuzR5dAX1o2vp1oznmdXNFyNzqoRz7y4Y+lU0vFovChusKG6XCFEzzXjrEzXmiGlWr5yFKAc5U8/dhU3+lougygeX6nwdWzItMozbaUSFPe9w9tT0NtkFYf0eXqf/q1b/+9hMSpjHbFemJbmXbqbLfX/yNLv3hN3QOB6kf3qObIJlDR/6vPcRaUvUcLsTUQq1Vn9pI6bCfOP3R72TinTwVo3nnhpz3tm44XQHpj2rnpxLWnCbQFXcOfOc5ozeLq6Q9sKZAGqagLK1shSKKduCHdP/J+j2nOHZQnUqszwhe4iP7mVHuW2XtOj9ifRNV+vH7fdW8sHEUPgcW7jWWXd5KIeH675QhFDIGBkWyw==;sk52J1tMDou8lnj9N00k6A=="
+secured: "40kpSa/R2r9ZMjglNOIVeQR9r10D7Iv6my6o1zK7FZtF+V6da5ydSDfYZt/ROZ33iEh8+H+nzKAqIWCe230Woc+Xyxm1Um3/Sy217MEK0ov5OVzDoJSjh4m9orW3c7Ih9pDSX5cG5q1gFnR+QTLQ7BvIN5H3vNpxd26/T11/8ec3J0uzk8IdNSqjkpEs0QlQBWo9us7LA9Y+wAkXYFUedSM7FzkCkhKKOrut3XGgeXfoyMxI+vk8INhVnCUGIFnNXyhD8MsuIK7JC+xaE9SUOHt1t3q+P9HTixho4PUZpuYGUqAkChvQTxfeuONx+I9sjPgy/yokTyvRbsSwX/nmFFuVhUjV7AhVeaq/BxKCreQ=;77y5AYDkdFvgTfAFR88Hyw=="
 ---
 

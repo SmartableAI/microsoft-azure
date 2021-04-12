@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Socure to Provide Identity Verification for Microsoft Azure Active Directory Verifiable Credentials"
+    excerpt: "Socure, a leader in 100% digital identity trust, today announced the company will provide identity verification services for remote onboarding for individuals accessing decentralized IDs as part of the new Microsoft Azure Active Directory (Azure AD ..."
+    publishedDateTime: 2021-04-05T16:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-voip-technology-products-and-services-91d66d5dae4a4f57b0b1bda8be76a8cb"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 55
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Onfido Partners with Microsoft on Azure Active Directory Verifiable Credentials"
     excerpt: "Onfido, an identity verification and authentication company, has been selected by Microsoft to enable fast and secure identity verification and onboarding for its Azure Active Directory (Azure AD) verifiable credentials. Azure AD verifiable credentials ..."
     publishedDateTime: 2021-04-05T04:00:00Z
@@ -278,6 +292,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/f3e87669-4601-4132-a129-b7ef3a549.2e16d0ba.fill-1200x630.jpg"
         width: 895
         height: 471
+        isCached: true
+  - title: "Digitate Provides AIOps Platform for Microsoft Azure"
+    excerpt: "Digitate, an autonomous enterprise software provider, is releasing ignio AIOps for Azure in the Microsoft Azure Marketplace, enabling customers to drive their digital transformation on cloud with Azure. ignio AIOps for Azure offers more efficiency and ..."
+    publishedDateTime: 2021-04-12T13:37:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Digitate-Provides-AIOps-Platform-for-Microsoft-Azure-146244.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 37
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Planet Achieves Microsoft Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure"
     excerpt: "... has achieved the Microsoft Partner Advanced Specialization for Windows Server and SQL Server Migration to Microsoft Azure. GERMANTOWN, MARYLAND, UNITED STATES, March 31, 2021 /EINPresswire.com/ -- Planet Technologies has achieved the Microsoft Partner ..."
