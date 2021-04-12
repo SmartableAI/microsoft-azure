@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT26M
 ratings:
-  count: 279
-  average: 4.734767
+  count: 280
+  average: 4.7357144
 heat: 50
 
 provider:
@@ -26,6 +26,6 @@ topics:
   - IoT
   - Security
 
-secured: "U82Ao7Pz+2HxI3u48kNnIV+OOeYCvMS07fPPNmtFxgUPjuzrJseQ4gq98D/yEGrg7h9eNrcUQ1usRkHuoDmJb6ZW6PawXi6dgwwmzljTa30oukjqbO7dwrh+nOb35rpSB/z4cvhWCoHmcrjTSI4Bj5a9Rblc5z/2QYISVd2npcXwI80fT3V8a7uwtByu7hroce9zr3hDTsHBsSKp8gyaFIUDmnhTa51pWmIWwKyyWih7FbV6oS0y8wOv7/iOOrQmp7jF4Kr73ibGyRwERJl1ULHlcNAE2iGPi10FlYh3/sEuhwwSSir3WIC+xZ5hKi3Ey5N4GA0XwQs/g0k3DNXoSrjPhE3e41Qz/CgNXb4Fc/ObjN6c289KwlNZ5EZkEGFMxM/qjmK5ewje711yJIvq5b7Ry9iiIxxq1WJEYrE27yo=;JUII6Go7t/KwoSB6itE8Fg=="
+secured: "zAgE++mTUmhjwJpVzBOO9OuALkXQzsjbcnTB6DI9Q3oLYfpSgIROhm9GWHL8f9gUGZ7mOX+PUJuPp8/l54TaoXjXL0qWmu2DJJNrKBIzfcgFlwKx1Zi+35m9CTUobeIMCCjaOsTl1J8wYqTJxZtVX4Xe+1htwlV8ulaAYxCZr/dPjYHcV0Sf7FD+IqSwJJLm17Jjt8kf4p3874UezXB9w47aQT/JUEvJ4eygWnjZBdeTNh/uzJR34nx2483VYFp9jbZFO7TctVjayyLMxw8nc/4Q58MO87Y8RdQYw7iNo29OlAozKhVzZEvuOrvfSTQbvKBSIqhRIRWObT1GrIe/KDt6fG68Ck9RPDb7aLXjXC/UULQfBly6+uxacPmXaPjFk27J3SpUUTzY5XRok17PCrg2sPKdw8f6BdiD9tVOpmg=;i1yeo2NsRF9dWztujHv/3w=="
 ---
 

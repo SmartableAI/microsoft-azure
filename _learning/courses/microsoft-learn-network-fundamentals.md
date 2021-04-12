@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT47M
 ratings:
-  count: 5105
-  average: 4.724192
+  count: 5106
+  average: 4.724246
 heat: 58
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Networking
 
-secured: "ZQQnq9+lOWAT20vDkTYl5UveY7DCYpyPIdGOJKO2fLZtXAbXGY/PMXEn82I5EXRIsF4OUzIvyuAlZenvNGOyQwHjIvLCh+T02Plt/HnBkVkqwnM0WNulstZhF+N2ts15metlOlpM91SauNfQ5zUN33d8ibDFgfL25qjK8ozJyxwXXAVWTLgt2xUzqlD4+JLNtCCimkdk9gkwLAspbsXyEqBIc4vgBs33VLeCZosD96C2gjLXW9Csf5japaDDKiH8rBATQ89fXCZWAxZPNlatfS7OxQMcHLeVxMWHFd4Pb9+bPz6nBLKPAwrQ4PEzA7FMwTUlgx06fWNpFOVGazEO6GbBjvfb+Ej1n6JsbxplSucwGqTDCiiSBG762iLPF0HH54Ooj36bzeqxDBftb6yd1U6nvzJNIW+ceC0/YT0NgqE=;mGESko0NyVOvAPnr5WJNwQ=="
+secured: "fx8T4OHqTTpMUcwHcmtJvLkAiswi5yvCw16E3DsipASBO7n2MwmTKX8JljusAHJMLVm8QiNtFfxsnB/vmzQdFx6k5XjcB1vTjqyunfzx6pKtMa9e89GQMZf9SIIZKEZ3ifteUlH2Ub/mRMtLXudlSFbDCaT0lTbQ+vWeX7MIkWsWK4G4I1Zn3cXg3L/RTvHe9Sawsqh1QpqRLrZIMCtOXdoTunlrC0ZReRHFrKJP2RBVZF3KTqrtwAWmlhFrLFqFn0w3jHUHy95AHk+WPYXy4Uas9XLk1/0wB372rxxF9NTGz0SxYnMCd0kA4ApZAPA9XRHEe4+A8JiEoohUB5Be2RSoasjbnud5rMw/EBrvV+8gc0FXHbVEs9ab++W4JwIHUcI25WZ+Mon0mA4itIRBSRFPDz1NPRRl2KZGySUgGe0=;bTuRQwMlu/VKqHMMpHTq4w=="
 ---
 

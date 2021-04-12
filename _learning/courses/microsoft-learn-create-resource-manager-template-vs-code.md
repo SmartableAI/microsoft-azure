@@ -8,7 +8,7 @@ length: PT43M
 ratings:
   count: 128
   average: 4.6796875
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ADOJgZvXxWQxCF+B4iJmxOPwe4jv9mWfJbxf7S8CRAsevKM6lwsm0lNtRRo23gg6cpWJqhuOEVlQvJs0wPLueJX2yjtMCl53xvU07AUv+sTe5PnT54d6k/uWb3OAYjaYx0QYrkm708ekrbGk25U0gJ9Ots+1s998nnGItRTOjuigKpzZNMRSwJ/nczNg74iChntLXA0wk8Iz9ee+lec5vGUNcMPjpeGHqk9K2wzoPwAF5twX3SmHCkINRFc837U2tEGVeWPJQgQ7qHma8DOfb21AyudIsjBtPyTod4Udw3IkCH4sEgz6NzkpnB4oenLYYxBmO4lNpvh6Jk4UU0ftdLXCmluSt4yrQEZJnVDL7rD52lMQgmU72S4tZTInLRKSQYrpPodDoW/vcIBx4aVFyMoArgNsgselL66eKh8BT0Q=;Dj2rH8E2gHvDh0SRryM5Sg=="
+secured: "Z8GDEpM0lN7KO88AlA6YaHtxRXDbbUcmymWn1JQWiBVjY6OspdnmAX1Y1tWE2dhtJhSF/tlgHVusml3w9jUrzK1r01DTATzzgJwUthHg1CHq2uJLCc/hAdf1HnWT3yUrTTctpM47k0GNModNurSys/V87lNHoLVorn8Vb9D6WDdWrGsrm9pbsNV45PQt8Br2fUpg/zGTQJiNZW0uqDU1Bnr2Ydn/3h1rYYO8VDPQo26ZFoEjqFx5CWOGXXHTsruyB/2ktqieAZTggLbMINcTiQvwjpn6faYRXON7XmbxI0zjGqEeKmqfNF4dxOBgXMXkhPlDN77PqpQHOPjJuKnq6oYoQRCPFG4SrSvkybw8t0eYIWXhdJiThIdkha/Hj4BUOGqc/liRZguqMfApmZpBf/u6PxRndU/pEQNoA4POTWI=;79bm1eYF1zs7vZqnesME5g=="
 ---
 

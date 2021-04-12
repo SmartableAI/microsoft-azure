@@ -8,7 +8,7 @@ length: PT44M
 ratings:
   count: 1981
   average: 4.701666
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Storage
 
-secured: "mGijs2ODYcmgAMtOAHj6F+8woUvieECdipbFqvMuWAdbn4tQ8Xhk7tdsFyot0ErKJ4chO8VyaDIU3wtc+FSJr8SxgSSxxF58zbhynP3WN90RSsTdLpNI8caKtlJmUcvFzkYDL/awWh6rpAfdBFAULEODQqXWzRxlnDbeURPrxjj4+jSjimKCL8+8O1jvqU2vnrLYtkvPrv7lVU3DfO1nsSVPjSqgs31y2lGO6a8tDeH1GUD2P4DY15/Rc5HXOfSw/0KZKKzJVP2nOs7DcCYBXULWdAAz74lysO0NuPj/X3zXV0svO+1B319BmrZghopsJcx3xsAig5wHvjbU7c5ZF97WiSg84kdK491D8C/dgo5OdegXceDxQgf5R21mwQCYFM/wdSneEdIrw63RACh8s38CKtNFKMtaaxJcl/NKHdQ=;UCkycGec7KBi0P6TyBhKCg=="
+secured: "k6BxmZ1Vf+U203tIP4Z2CksWIiSsT6ls4s2KAJiPDxhuSoTCxsP4WjBub1KnF2a1gPvAQ+JybO1amj151+33eW7N/exh0p/jOXFAc066gRG5RLh1tImbR06/T3tTG1hswSGQaWiUJ6FxD01zcKN+hfKZ1OqZXpw5dMpYe2G9ttfOhvR95tqEEwf+3ymt0Y4jl1rSwQXQO+uTRFInJSz4Kf2vOiPtChgdjFRNDk0eoNVkL+uBzAhvW9Ta59F8tChlQZnD0Bb1Xw1B6whdS1l/7pgeloOV6t4nHwG+GDWfeih94j9pNzMqQ9ZtHZtR9B/T0qckqCtD/o6ORCUBRZbCoi0MfzXxVi6FOBjSLvAkrrSbim//MxqcxJ0h2mpK4QJlw9l4yOsu0EwqlsO7LS7qI+7Bh3swF8HjI0tpthSdIoE=;3VlqMeurM6WV05Eoy0RnEQ=="
 ---
 
