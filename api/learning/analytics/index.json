@@ -4,16 +4,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday.md",
-      "title": "Azure Purview: New connectors, Synapse integration, enhanced business glossary, etc. | Azure Friday",
-      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show him what's new in Azure Purview since it was released in public preview in December 2020. Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multicloud, and software-as-a-service (SaaS) data. Easily create",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=cLl7g7RP8Bo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLl7g7RP8Bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
+      "path": "_learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory.md",
+      "title": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "excerpt": "Execute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-execute-existing-ssis-packages-azure-data-factory/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/execute-existing-ssis-packages-azure-data-factory/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 64,
+        "average": 4.65625
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,23 +26,24 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-12T09:14:47-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/execute-existing-ssis-packages-azure-data-factory-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
-        "Integration"
+        "Analytics"
       ]
     },
     {
@@ -74,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10483,
-            "average": 4.721835
+            "count": 10488,
+            "average": 4.721968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -120,8 +123,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9282,
-            "average": 4.760181
+            "count": 9289,
+            "average": 4.760254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,8 +168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7436,
-            "average": 4.759817
+            "count": 7443,
+            "average": 4.760043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -208,8 +211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8089,
-            "average": 4.6355543
+            "count": 8094,
+            "average": 4.635656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -277,8 +280,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 10483,
-        "average": 4.721835
+        "count": 10488,
+        "average": 4.721968
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +350,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7366,
-            "average": 4.764051
+            "count": 7367,
+            "average": 4.764083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -468,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/",
           "length": "PT45M",
           "ratings": {
-            "count": 9939,
-            "average": 4.6697855
+            "count": 9940,
+            "average": 4.669819
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -639,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3853,
-            "average": 4.605502
+            "count": 3855,
+            "average": 4.6057067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -676,8 +679,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2160,
-            "average": 4.586111
+            "count": 2162,
+            "average": 4.586494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3853,
-            "average": 4.605502
+            "count": 3855,
+            "average": 4.6057067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -796,8 +799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2634,
-            "average": 4.6351557
+            "count": 2635,
+            "average": 4.635294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -831,8 +834,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2160,
-            "average": 4.586111
+            "count": 2162,
+            "average": 4.586494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -938,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10483,
-            "average": 4.721835
+            "count": 10488,
+            "average": 4.721968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1144,8 +1147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 324,
-            "average": 4.654321
+            "count": 325,
+            "average": 4.6553845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1187,8 +1190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 195,
-            "average": 4.5794873
+            "count": 196,
+            "average": 4.5816326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,8 +1576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-azure-synapse-analytics/",
           "length": "PT26M",
           "ratings": {
-            "count": 112,
-            "average": 4.776786
+            "count": 113,
+            "average": 4.778761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2220,8 +2223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 787,
-            "average": 4.5438375
+            "count": 788,
+            "average": 4.5444164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2872,8 +2875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/",
           "length": "PT53M",
           "ratings": {
-            "count": 787,
-            "average": 4.5438375
+            "count": 788,
+            "average": 4.5444164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3500,8 +3503,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/",
       "length": "PT16M",
       "ratings": {
-        "count": 2693,
-        "average": 4.8366137
+        "count": 2695,
+        "average": 4.836735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3748,8 +3751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3853,
-        "average": 4.605502
+        "count": 3855,
+        "average": 4.6057067
       },
       "provider": {
         "name": "Microsoft Learn",

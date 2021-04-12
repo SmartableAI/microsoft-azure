@@ -4,6 +4,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel.md",
+      "title": "Connect Microsoft services to Azure Sentinel",
+      "excerpt": "Connect Microsoft services to Azure Sentinel",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-connect-microsoft-services-to-azure-sentinel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-microsoft-services-to-azure-sentinel/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 17,
+        "average": 4.7058825
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-non-azure-machines-to-azure-defender.md",
       "title": "Connect non-Azure resources to Azure Defender",
       "excerpt": "Connect non-Azure resources to Azure Defender",
@@ -269,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 162,
-        "average": 4.580247
+        "count": 163,
+        "average": 4.5828223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-security-concepts-methodologies/",
       "length": "PT24M",
       "ratings": {
-        "count": 348,
-        "average": 4.7873564
+        "count": 349,
+        "average": 4.787966
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -447,8 +490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-devops-continuous-security-operations/",
       "length": "PT22M",
       "ratings": {
-        "count": 1026,
-        "average": 4.712476
+        "count": 1027,
+        "average": 4.711782
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -571,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-sentinel/",
       "length": "PT29M",
       "ratings": {
-        "count": 591,
-        "average": 4.7715735
+        "count": 592,
+        "average": 4.7702703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -693,8 +736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/query-logs-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 202,
-        "average": 4.7821784
+        "count": 203,
+        "average": 4.773399
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +779,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/",
       "length": "PT52M",
       "ratings": {
-        "count": 279,
-        "average": 4.8494625
+        "count": 280,
+        "average": 4.85
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -859,8 +902,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-approach-your-data-flow-diagram-with-the-right-threat-model-focus/",
       "length": "PT8M",
       "ratings": {
-        "count": 298,
-        "average": 4.724832
+        "count": 299,
+        "average": 4.7257524
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -991,8 +1034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-prioritize-your-issues-and-apply-security-controls/",
       "length": "PT14M",
       "ratings": {
-        "count": 265,
-        "average": 4.7132077
+        "count": 266,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1028,42 +1071,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer.md",
-      "title": "Provide context with the right depth layer",
-      "excerpt": "Threat models can get complex if all parties involved cannot agree on a data-flow diagram depth layer that provides enough context to satisfy requirements",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-tm-provide-context-with-the-right-depth-layer/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-provide-context-with-the-right-depth-layer/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 281,
-        "average": 4.7366548
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Security"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk.md",
       "title": "Use a framework to identify threats and find ways to reduce or eliminate risk",
       "excerpt": "Threat modeling helps you generate a list of potential threats using STRIDE and find ways to reduce or eliminate risk with corresponding security controls.",
@@ -1071,8 +1078,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/",
       "length": "PT57M",
       "ratings": {
-        "count": 247,
-        "average": 4.708502
+        "count": 248,
+        "average": 4.709677
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1115,8 +1122,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-use-recommended-tools-to-create-a-data-flow-diagram/",
       "length": "PT18M",
       "ratings": {
-        "count": 269,
-        "average": 4.70632
+        "count": 270,
+        "average": 4.7074075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1246,8 +1253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/use-watchlists-azure-sentinel/",
       "length": "PT18M",
       "ratings": {
-        "count": 189,
-        "average": 4.7830687
+        "count": 190,
+        "average": 4.7789474
       },
       "provider": {
         "name": "Microsoft Learn",

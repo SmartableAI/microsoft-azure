@@ -43,16 +43,18 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday.md",
-      "title": "Azure Purview: New connectors, Synapse integration, enhanced business glossary, etc. | Azure Friday",
-      "excerpt": "Gaurav Malhotra joins Scott Hanselman to show him what's new in Azure Purview since it was released in public preview in December 2020. Azure Purview is a unified data governance service that helps you manage and govern your on-premises, multicloud, and software-as-a-service (SaaS) data. Easily create",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-azure-purview-new-connectors-synapse-integration-enhanced-business-glossary-etc-azure-friday/",
-      "originalUrl": "https://youtube.com/watch?v=cLl7g7RP8Bo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cLl7g7RP8Bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
+      "path": "_learning/courses/microsoft-learn-cloud-scale-messaging-jms-service-bus.md",
+      "title": "Enable asynchronous messaging in Java apps using JMS and Azure Service Bus",
+      "excerpt": "Send messages to and receive messages from Azure Service Bus with Spring Boot applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cloud-scale-messaging-jms-service-bus/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cloud-scale-messaging-with-jms-service-bus/",
+      "length": "PT32M",
+      "ratings": {
+        "count": 4,
+        "average": 5.0
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -63,22 +65,23 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-12T09:14:47-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cLl7g7RP8Bo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/cloud-scale-messaging-jms-service-bus-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Azure",
-        "Analytics",
         "Integration"
       ]
     },
@@ -113,8 +116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7187,
-            "average": 4.775428
+            "count": 7196,
+            "average": 4.77557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5517,
-            "average": 4.718325
+            "count": 5526,
+            "average": 4.718603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +202,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4885,
-            "average": 4.7568064
+            "count": 4887,
+            "average": 4.756906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4637,
-            "average": 4.7502694
+            "count": 4640,
+            "average": 4.7502155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -353,8 +356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 4409,
-        "average": 4.7713766
+        "count": 4413,
+        "average": 4.7713575
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,8 +426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2235,
-            "average": 4.690828
+            "count": 2236,
+            "average": 4.690966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41722,
-            "average": 4.717775
+            "count": 41726,
+            "average": 4.717802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3853,
-            "average": 4.605502
+            "count": 3855,
+            "average": 4.6057067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -766,8 +769,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2160,
-            "average": 4.586111
+            "count": 2162,
+            "average": 4.586494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -849,8 +852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3853,
-            "average": 4.605502
+            "count": 3855,
+            "average": 4.6057067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,8 +889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2634,
-            "average": 4.6351557
+            "count": 2635,
+            "average": 4.635294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -921,8 +924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
           "length": "PT56M",
           "ratings": {
-            "count": 2160,
-            "average": 4.586111
+            "count": 2162,
+            "average": 4.586494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1029,8 +1032,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7366,
-            "average": 4.764051
+            "count": 7367,
+            "average": 4.764083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1072,8 +1075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2945,
-            "average": 4.6611204
+            "count": 2947,
+            "average": 4.6613507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1158,8 +1161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center/",
           "length": "PT44M",
           "ratings": {
-            "count": 1407,
-            "average": 4.593461
+            "count": 1408,
+            "average": 4.59375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1249,8 +1252,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3853,
-            "average": 4.746172
+            "count": 3855,
+            "average": 4.7463036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1328,8 +1331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2945,
-            "average": 4.6611204
+            "count": 2947,
+            "average": 4.6613507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1454,8 +1457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1493,
-            "average": 4.681179
+            "count": 1494,
+            "average": 4.681392
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1586,8 +1589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2141,
-            "average": 4.659038
+            "count": 2143,
+            "average": 4.659356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1673,8 +1676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-ad/",
           "length": "PT27M",
           "ratings": {
-            "count": 2730,
-            "average": 4.6956043
+            "count": 2731,
+            "average": 4.695716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1716,8 +1719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 4980,
-            "average": 4.7363453
+            "count": 4982,
+            "average": 4.7360497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1934,8 +1937,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6294,
-            "average": 4.7356215
+            "count": 6295,
+            "average": 4.7356634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1977,8 +1980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1722,
-            "average": 4.6707315
+            "count": 1723,
+            "average": 4.6703424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2318,8 +2321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-integration-azure-data-factory/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 324,
-            "average": 4.654321
+            "count": 325,
+            "average": 4.6553845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2361,8 +2364,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/petabyte-scale-ingestion-azure-data-factory/",
           "length": "PT43M",
           "ratings": {
-            "count": 195,
-            "average": 4.5794873
+            "count": 196,
+            "average": 4.5816326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3255,8 +3258,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3853,
-        "average": 4.605502
+        "count": 3855,
+        "average": 4.6057067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3292,8 +3295,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2634,
-        "average": 4.6351557
+        "count": 2635,
+        "average": 4.635294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3406,8 +3409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2141,
-        "average": 4.659038
+        "count": 2143,
+        "average": 4.659356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3538,8 +3541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 1493,
-        "average": 4.681179
+        "count": 1494,
+        "average": 4.681392
       },
       "provider": {
         "name": "Microsoft Learn",
