@@ -4,44 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/microsoft-what-are-work-or-school-and-microsoft-personal-accounts-one-dev-question-jean-marc-prieur.md",
-      "title": "What are work or school, and Microsoft personal accounts? | One Dev Question: Jean-Marc Prieur",
-      "excerpt": "In the One Dev Question series, Jean-Marc Prieur, a Principal Program Manager Program Manager working on the Microsoft identity platform, explains the difference between work and school accounts, and personal Microsoft accounts.   Get more information at: https://docs.microsoft.com/azure/active-directory/develop/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/videos/microsoft-what-are-work-or-school-and-microsoft-personal-accounts-one-dev-question-jean-marc-prieur/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/videos/microsoft-what-are-work-or-school-and-microsoft-personal-accounts-one-dev-question-jean-marc-prieur/",
-      "originalUrl": "https://youtube.com/watch?v=E2OUluQQKSk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E2OUluQQKSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M27S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-30T09:00:01-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E2OUluQQKSk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-what-types-of-managed-identities-exist-one-dev-question-arturo-lucatero.md",
       "title": "What types of managed identities exist? | One Dev Question: Arturo Lucatero",
       "excerpt": "In the One Dev Question series, Arturo Lucatero, a Senior Program Manager working on managed identities for Azure resources, explains the different types of managed identities in the Microsoft identity platform.   For more information, visit: https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles",
@@ -463,8 +425,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/classify-and-moderate-text-with-azure-content-moderator/",
           "length": "PT31M",
           "ratings": {
-            "count": 1991,
-            "average": 4.6629834
+            "count": 1992,
+            "average": 4.6626506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1402,8 +1364,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 1489,
-        "average": 4.7528543
+        "count": 1490,
+        "average": 4.7530203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1746,8 +1708,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-the-right-disk-storage-for-vm-workload/",
       "length": "PT24M",
       "ratings": {
-        "count": 3206,
-        "average": 4.734248
+        "count": 3207,
+        "average": 4.734331
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1853,6 +1815,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-developer/foundations-of-cloud-computing-for-developers-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-cmu-monitor-cloud-resources.md",
+      "title": "Monitor cloud resources",
+      "excerpt": "Cloud Admin course from Dr. Majd Sakr at Carnegie Mellon University. Monitoring how your cloud resources are performing is crucial to building reliable cloud applications. This module covers what monitoring is, why you need to do it, and how you can about monitoring your resources.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-cmu-monitor-cloud-resources/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/cmu-monitor-cloud-resources/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 367,
+        "average": 4.5694823
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/cmu-cloud-admin/cmu-monitor-cloud-resources-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
