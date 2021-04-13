@@ -376,6 +376,20 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
+    excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+    publishedDateTime: 2021-04-13T15:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1047
+        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-04-06T17:44:00Z

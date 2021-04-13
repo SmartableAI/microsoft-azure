@@ -1,27 +1,27 @@
 ---
 category: news
-title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
-excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
-publishedDateTime: 2021-04-06T12:04:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/268488134/ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure"
-webUrl: "https://www.bignewsnetwork.com/news/268488134/ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure"
+title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
+excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+publishedDateTime: 2021-04-13T15:39:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
 type: article
-quality: 47
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Azure
-  - Containers
+  - Integration
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1617377704699.jpg"
-    width: 630
-    height: 420
+  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1047
     isCached: true
 
 related:
@@ -237,6 +237,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
+    excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
+    publishedDateTime: 2021-04-06T12:04:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268488134/ndivision-launches-its-next-generation-it-operations-platform-deployed-in-kubernetes-containers-in-microsoft-azure"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 47
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1617377704699.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-03-31T14:02:00Z
@@ -363,20 +377,6 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
-    excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
-    publishedDateTime: 2021-04-13T15:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
-        isCached: true
   - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
     excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
     publishedDateTime: 2021-04-13T11:57:00Z
@@ -442,6 +442,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "3pfQrHz9Nh1guee822N+V7onHUe975mL0r42vZsYTYRxgHKEzXkSD936Q+UMCWhA5a0uGlhgFnX+93iWN63FaaytfHxWKX08X9MVPBh7CdQDroXijIiUWzNqJKSU6A2/A1wdNNzi5EweRZmcIBlrXNouZ6URrU3zuXIq5tVfv9IITnuVI5UhSUPTLrD0ViTeA73UcZYsWOO/0zEcGOHPf9B3hySznspvJVEp2RgegqHM4svP09XCAR9xRD29jJBUwSllbiRGSNAe/XQuG3e3VGg1tV4yotVoU+vrWIreVJ+HylcTEq8EnZT6EAFmu1Y8WrmrE9F8L52cDGZ4g8UYbDS6mr7z+QX4UGihPys0wgo=;LyZNTB3L9bl/CRN7W53KKw=="
+secured: "1vAwerohwQKnmpK8cWTQKTWBMhdeTz/dKRA8c5Jj+ucWafanq4XG5WQxFrL5F8leKf9cC4llLMHOGRpF4cW6pl4PPYVUH2cNBng1g7MkogXWqCEmVuDzfUA3/A1joLFdi1LA7FcXM9dnk8DvnKL5BWigwFO2GnJGiijlMDHgNwy+eiGB3qYfQJZP6d+r0AycqTqMO0R1IlP/qylgjVh/fMI/JopZXNvK/+zloHkJjm9r+8DrKDreb3m3Z6IFnPHlOCdvkfxBh0E6mQvbImj2q8AAURnzgInhLW7KW3I2IdchWcr1JuxH/7WupNlFk+A74mnGH6GK3D8NWi4M6a6ZAW/0h50LsiIHdO0QUs2dqMI=;vo/ARe6LGSWIezQYR3F1FQ=="
 ---
 

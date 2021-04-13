@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-22-azure-key-vault-managed-hsm-available-in-public-preview.md",
+      "title": "Azure Key Vault Managed HSM available in public preview",
+      "excerpt": "A new key management offering is now available in public preview: Azure Key Vault Managed HSM (hardware security model). Azure Key Vault Managed HSM offers a fully managed, highly available, single-tenant, standards-compliant cloud service that enables you to safeguards cryptographic keys for your cloud",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/akv-managed-hsm-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "Security"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga.md",
+      "title": "Azure Cognitive Search - Managed identity support and Private Endpoints are GA",
+      "excerpt": "You can now request Azure Cognitive Search to create an outbound private endpoint connection in order to securely access data from such data sources via indexers . You can also create identity for a search service in Azure Active Directory, then use RBAC permissions to grant the identity permissions",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "originalUrl": "https://azure.microsoft.com/en-us/updates/azure-cognitive-search-managed-identity-support-and-private-endpoints-are-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T09:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Azure",
+        "AI",
+        "Identity"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-azure-machine-learning-updates-ignite-2020.md",
       "title": "Azure Machine Learning updates Ignite 2020 ",
       "excerpt": "Azure Machine Learning is bringing new capabilities to customers at no additional cost. Azure Machine Learning designer and automated ML UI are now generally available. ",
@@ -1032,102 +1119,6 @@
       "topics": [
         "Azure",
         "Developer tools"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-azure-container-instances-docker-integration-now-in-docker-desktop-stable-release.md",
-      "title": "Azure Container Instances - Docker integration now in Docker Desktop stable release",
-      "excerpt": "We’re happy to announce that today’s new stable release of Docker Desktop includes the Azure Container Instances - Docker integration. Install or update to the latest release and get started deploying containers to Azure Container Instances (ACI) today.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9b424351-84c1-4f45-b23f-e34a18d24a9f.gif",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T04:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Developer tools",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_news/2020-09-16-build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel.md",
-      "title": "Build a scalable security practice with Azure Lighthouse and Azure Sentinel",
-      "excerpt": "The Microsoft Azure Lighthouse product group is launching a blog series Azure Lighthouse covering areas where we are investing to make our service provider partners and enterprise customers successful with Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/",
-      "originalUrl": "https://azure.microsoft.com/blog/build-a-scalable-security-practice-with-azure-lighthouse-and-azure-sentinel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-16T03:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Azure",
-        "Security"
       ]
     }
   ],

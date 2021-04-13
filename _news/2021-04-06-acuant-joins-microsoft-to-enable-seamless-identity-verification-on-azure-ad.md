@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-mi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/359122/acuant-joins-microsoft-to-enable-seamless-identity-verification-on?amp"
 type: article
 quality: 112
-heat: 692
+heat: 712
 published: true
 
 provider:
@@ -366,6 +366,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
         width: 2696
         height: 1414
+        isCached: true
+  - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
+    excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+    publishedDateTime: 2021-04-13T15:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1047
         isCached: true
   - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
     excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
