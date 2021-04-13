@@ -1,24 +1,27 @@
 ---
 category: news
-title: "Pure Storage brings cloud block storage to Microsoft Azure"
-excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
-publishedDateTime: 2021-04-01T13:42:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
-ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
+excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+publishedDateTime: 2021-04-13T17:00:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: CRN
+  domain: crn.com
 
 topics:
   - Azure
-  - Storage
+
+images:
+  - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
+    width: 610
+    height: 457
+    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -623,6 +626,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Pure Storage brings cloud block storage to Microsoft Azure"
+    excerpt: "Pure Storage’s Pure Cloud Block Store is now available on the Microsoft Azure Marketplace. With a common dataplane across multi-cloud environments, customers can move to the cloud on their terms, allowing for seamless application portability to the cloud ..."
+    publishedDateTime: 2021-04-01T13:42:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure"
+    ampWebUrl: "https://www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/97058-pure-storage-brings-cloud-block-storage-to-microsoft-azure?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 54
   - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
     excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
     publishedDateTime: 2021-03-11T08:22:00Z
@@ -1326,20 +1340,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
-    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
-    publishedDateTime: 2021-04-13T17:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
-        width: 610
-        height: 457
-        isCached: true
   - title: "Standard Chartered Bank taps Microsoft Azure to become a cloud-first bank"
     excerpt: "As technology reshapes the banking industry, Standard Chartered believes that a cloud-first strategy is critical to its ambition to make banking simpler"
     publishedDateTime: 2020-08-12T07:06:00Z
@@ -1902,6 +1902,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Y7cy6RMZn/yAYfmdiX5PQo5Em41Jxa2jLBgoBloX/vOR9ULa8OgDooK6M8szGTfDpXIZSPnWOIFRYetvrugue3ov2sBe+2D7nZqPOXmn+PKrYsfBU8m/C8wzMUn00DQGUtvfDtYC0PA+jBkHFxJHYFjJmwUIOLaWJCbPO3ScodsZozdSwoJixH6cKCv3K3SLdfkLp8EOaqU1VCMnY1on3yDA8wYccV3Vfhqwl2Mj40aefg/4oCu6Ak7XSyrAHjturpHVWUcjoxw1a7LOazecym0XZ269mrZLjRhG95vLHZ34HHlRF4bNfAUrjVuF4LqxtBWJayLLgKa9shSgxXhN+hzXCOaGxlJ0EKyrQPN6Y6Q=;okXxDhzQ6f1Swg7zmbBoGg=="
+secured: "iYcc/p73Rk3QprIIrVqJem4LkSynE5N+T1lgR/YSEFL6h4FwHAx72VuDJVAJMOsfRGcaokoq3jwE00Psgt56RmtTn9wqyJ3mECvTlNlX44Evh4xJhaTwdsc5RdREQLKtkx43oWf0/lF37pwqnaQYRQO5a46wM4A1ezI4vFaQJCYzyRYx9aTZacCj5Lvb+XpQEAxblUkutPTYXPmE6hfRHvtNTxYeAEGZ7a+vrXxQzLkcKBIxTfryVc6xmLl2ftEb2VczJV9zYmQnRblg1qZYxx0+dmENfr+0RwWZWQLQ6ntC8FeyzzqsVlcYYZ2+ZgaQgw0zKLeUr427O4txmSdo8LU4L7Pcd8btSpmPVfEGW7o=;IhPm5NcCPistzWaarRXTvw=="
 ---
 

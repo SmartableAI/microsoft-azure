@@ -370,6 +370,20 @@ related:
         width: 2696
         height: 1414
         isCached: true
+  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
+    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
+    publishedDateTime: 2021-04-13T18:42:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
     excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
     publishedDateTime: 2021-04-13T15:39:00Z

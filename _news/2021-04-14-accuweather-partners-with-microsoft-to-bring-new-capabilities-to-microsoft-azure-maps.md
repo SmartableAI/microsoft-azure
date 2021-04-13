@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
-excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
-publishedDateTime: 2021-04-13T15:39:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
-webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
+excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
+publishedDateTime: 2021-04-13T18:42:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
 type: article
-quality: 25
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Integration
 
 images:
-  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -377,19 +376,19 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+  - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
+    excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+    publishedDateTime: 2021-04-13T15:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1047
         isCached: true
   - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
     excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
@@ -456,6 +455,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "dMfm8ng5C9gpiQACyrmJZGCg9z3x0r5lNcgB+RbYwHwZ8+nGzrL6sfSY5P4n9Na0kPaRZpFAJx4bJxlf6fNBuw3/+3QWJtMSnAjqeAOItVsTrX7ppvz8to/TrYqOJOz2+4CF8Vq6W/rYpfouy4cvm1rXFKHfLpcQ5Nk3BSESVRnR8lCIgZrRcUHjQCexYlW9YjSF4HhoUnwItjHktxI3GNyZIHNK6PmDY7fGIzX3is1pZoylInAru5tj9oKN19pItgHM8fJoh/FCoUZ0AbVMwmCUapbN1Y72jCcYyjl7yjb7PY/OfYJ7XpS7i5zKqNIgcd0mTivMN8z7+UBJrEROlUJhwYCnNB6NKenK2KEuTNH7A4PTT1QYZoJoKgaXi8GykOpirJbdUhUPlEuc2q0rE2BIX5sweYhqjjhWkX+6/kFLnqS3WuScaSgxTtnDl/AvQkSbiz7h3DOJ1g+nA5+CNXBR6g5QvYQ2XCUhADUtHc1WUAx22FfTcvCAoIsnvYvAcXvOYWHXz2istCEJXitOsA==;mpEi0B6vN58tYVjOAncOTA=="
+secured: "L9BrnyoU60yQIFb21ZXBeokIO3X7o2hT2xRnq/pOo9wF7eKiD1jcm96upWUftHIzQVXFGngmc/WKmLc1JLDzEvi3F+RnYcv5/NGI3VcPJjqs1HeT94HLsPe6TasMZ+cq8Kf0ieuCWNJSY59McNoTqK7yxZpt6vkd5D30Tu47gXGGgLIDUsmN13anVgjUCMfknoZIWCMMaCNL9NYDn0IIVQlEh9X/GBCVEVyT5lpUJF0Pc+xx8yc5QUdp9Ckrxiezr6qwP7Hw1TjQQXIHLPcljVfOLtwwZJ+wnVnk27PR2HNboHTno6pP/tZ4yEUpyV0B0MobN6yV86kTZTCV9pViFxm+0jYzSDfEbkIeoXMn4/Q=;FaE6e5oBtcy61VXJV2GfAA=="
 ---
 

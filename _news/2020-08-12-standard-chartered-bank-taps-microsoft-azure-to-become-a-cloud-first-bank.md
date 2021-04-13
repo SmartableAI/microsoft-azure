@@ -1335,6 +1335,20 @@ related:
         width: 620
         height: 355
         isCached: true
+  - title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
+    excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
+    publishedDateTime: 2021-04-13T17:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0268-12082f505be3-471dce422408-1000/john-jg-chirapurath-microsoft.jpg"
+        width: 610
+        height: 457
+        isCached: true
   - title: "Standard Chartered to Adopt Microsoft Azure to Become a Cloud-first Bank"
     excerpt: "Standard Chartered Bank and Microsoft have announced a three-year strategic partnership to accelerate the bank’s digital"
     publishedDateTime: 2020-08-18T00:39:00Z
