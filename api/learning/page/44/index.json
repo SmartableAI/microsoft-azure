@@ -4,15 +4,15 @@
   "page": 44,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-wvd-security.md",
-      "title": "Secure a Windows Virtual Desktop deployment",
-      "excerpt": "Introduction to Microsoft security capabilities that can keep your applications and data secure in your Windows Virtual Desktop deployment.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-security/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-security/",
-      "length": "PT56M",
+      "path": "_learning/courses/microsoft-learn-wvd-msix-app-attach.md",
+      "title": "Deploy applications by using MSIX app attach for Windows Virtual Desktop",
+      "excerpt": "Learn how to deliver applications using MSIX app attach technology. MSIX app attach is an application delivery technology that separates applications and their state from the operating system and assigns applications to users dynamically.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-wvd-msix-app-attach/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/m365-wvd-application-management/",
+      "length": "PT54M",
       "ratings": {
-        "count": 93,
-        "average": 4.795699
+        "count": 128,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,12 +27,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/wvd-security-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/wvd-msix-app-attach-social.png",
           "width": 641,
           "height": 321,
           "isCached": true

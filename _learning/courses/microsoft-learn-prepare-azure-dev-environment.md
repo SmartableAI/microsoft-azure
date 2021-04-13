@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT28M
 ratings:
-  count: 5354
-  average: 4.7000375
-heat: 51
+  count: 5355
+  average: 4.7000933
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Developer Tools
 
-secured: "8DmTq4IgFlxkj2YHX4NgnwLcFOStTLesSPy9EnWED2OBT1g4vAqfcCaKwBcZXhaZYYIvPzm4vC1HzQXfGh6OUOJLHwi3UzjZl2FTk0e/Kj38nA+sezPEwe/WjUKaAtyCQsgYix3z6rM0GShx5uPYW4V7oyd3bdaRpCH7AGE9ii4Gd+wO4ZN3IimuQF+bkyL8Xhv4Eq/yc7wEJdjmaAbaNlN3ac9uckx88TasUKMmvV/zEQjF3Rx9HQFqNqRSi+BVBLAsSHwIHm1Tq1JpVxk7wkJ/dOGxwPgw3CSAcSf6bOkh//qaqiCffR3+rP+k/FTu00CZ3Qy/cwY2RjNQ8xlQSxds9e+n8Cw7hQ8g0PoF9GluBZs8ZiKqLxSEqO95OQTHaafXr+Yf1BwiZoC8oM0o0m2aYYlogqJzlFxeN2etke0=;b6feV77G9uhL6pDPAfHskQ=="
+secured: "9TPbaHArA1Eal5YfNtQ11HY4x3c2ZiO1CXFtJHEDzJmlrbRU9l15eDqr6dyObQBwrClyw4X7ShiIFEeOIJoF2yrHVKj1IolN4ynlW9gZ8W9jy9JEpxSgGJUYqMzLFGJB59zgBtRdpYMurfM8MDimIRI8UxQ7Wii5QTIA596HYB/b2UmQfa9isy/cK/j7er7Hd2eeur7/ui1hlU+KTSx1z5Lc2klOxuqfxi+yjXGSu1uMl9md2DqWtr6XOZ2AP97FM3ayM3Me++aeF5AVpeAH1OUoWceiZUaYqDORkhmx3PVN3zgFi5T/JTMxFaFCu5Sue7513Qp+8+qourY3b83UlfZ/X2xZXJbR7/WJhJ++npXdevPrfKxrsGjQJS+0nzBD3cbV9p2mk2ixYSiBIFfEo/CVfd977H24PWCIIJw0Kvg=;j161iR7OWn7r4s1wgoR0Yg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Learn about blockchain and development on the Ethereum platform. Disco
 type: collection
 price: Free
 length: PT2H3M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
