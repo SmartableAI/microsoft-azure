@@ -4,6 +4,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+      "title": "Choose an Azure service for deploying your Java application",
+      "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 56,
+        "average": 4.821429
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Serverless",
+        "Containers"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +80,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10572,
-            "average": 4.7224746
+            "count": 10582,
+            "average": 4.7223587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9364,
-            "average": 4.7600384
+            "count": 9377,
+            "average": 4.7602644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7496,
-            "average": 4.7604055
+            "count": 7501,
+            "average": 4.760432
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8156,
-            "average": 4.6368318
+            "count": 8159,
+            "average": 4.6365976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -237,8 +283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
       "length": "PT52M",
       "ratings": {
-        "count": 9364,
-        "average": 4.7600384
+        "count": 9377,
+        "average": 4.7602644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -346,8 +392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/",
           "length": "PT1H34M",
           "ratings": {
-            "count": 8139,
-            "average": 4.6538887
+            "count": 8141,
+            "average": 4.6539736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,8 +471,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/",
           "length": "PT42M",
           "ratings": {
-            "count": 5092,
-            "average": 4.7507854
+            "count": 5093,
+            "average": 4.7508345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -776,8 +822,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3866,
-            "average": 4.745732
+            "count": 3868,
+            "average": 4.7458634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -820,8 +866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7420,
-            "average": 4.6684637
+            "count": 7421,
+            "average": 4.668508
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1024,8 +1070,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41742,
-            "average": 4.7176943
+            "count": 41743,
+            "average": 4.717701
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 841,
-            "average": 4.7384067
+            "count": 842,
+            "average": 4.7375298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1332,8 +1378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
           "length": "PT48M",
           "ratings": {
-            "count": 841,
-            "average": 4.7384067
+            "count": 842,
+            "average": 4.7375298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1539,8 +1585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/",
           "length": "PT44M",
           "ratings": {
-            "count": 2083,
-            "average": 4.536726
+            "count": 2085,
+            "average": 4.5357313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1845,8 +1891,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5368,
-            "average": 4.7069674
+            "count": 5370,
+            "average": 4.70689
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2248,8 +2294,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7432,
-            "average": 4.763859
+            "count": 7435,
+            "average": 4.763954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3173,7 +3219,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3350,8 +3396,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/",
       "length": "PT46M",
       "ratings": {
-        "count": 4737,
-        "average": 4.638801
+        "count": 4738,
+        "average": 4.6388774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3395,8 +3441,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/",
       "length": "PT59M",
       "ratings": {
-        "count": 881,
-        "average": 4.7321224
+        "count": 882,
+        "average": 4.7312927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3444,8 +3490,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1805,
-        "average": 4.6504154
+        "count": 1806,
+        "average": 4.650609
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3702,8 +3748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-performance-efficiency/",
       "length": "PT48M",
       "ratings": {
-        "count": 841,
-        "average": 4.7384067
+        "count": 842,
+        "average": 4.7375298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3829,42 +3875,6 @@
       "topics": [
         "Azure",
         "Integration",
-        "Web"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-azure-spring-cloud-workshop.md",
-      "title": "Azure Spring Cloud workshop",
-      "excerpt": "In this workshop, you'll go through tasks to deploy Spring Boot microservices to Azure Spring Cloud (ASC).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-azure-spring-cloud-workshop/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-spring-cloud-workshop/",
-      "length": "PT1H24M",
-      "ratings": {
-        "count": 445,
-        "average": 4.4382024
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
         "Web"
       ]
     }
