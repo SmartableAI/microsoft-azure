@@ -4,6 +4,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-nodejs-files.md",
+      "title": "Work with files and directories in a Node.js app",
+      "excerpt": "Build an app that manipulates files and directories with Node.js and JavaScript.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-nodejs-files/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/nodejs-files/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 158,
+        "average": 4.550633
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/nodejs-files-social.png",
+          "width": 642,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-operationalize-your-azure-data-factory-pipelines.md",
       "title": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
       "excerpt": "Operationalize your Azure Data Factory or Azure Synapse Pipeline",
@@ -1207,8 +1249,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-implement-sap-solutions/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 276,
-        "average": 4.7971015
+        "count": 278,
+        "average": 4.798561
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1231,48 +1273,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/planning-implementing-sap-solutions-azure-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-policy-security-management-using-microsoft-endpoint-manager.md",
-      "title": "Understand Conditional Access policies using Microsoft Endpoint Manager",
-      "excerpt": "In this module, you'll learn about policy and security management using Microsoft Endpoint Manager.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-policy-security-management-using-microsoft-endpoint-manager/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/policy-security-management-using-microsoft-endpoint-manager/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 2,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/policy-security-management-using-microsoft-endpoint-manager-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
