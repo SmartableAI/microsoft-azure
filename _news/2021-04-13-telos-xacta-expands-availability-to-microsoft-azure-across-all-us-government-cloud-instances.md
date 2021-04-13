@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-publishedDateTime: 2021-03-31T14:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
+publishedDateTime: 2021-04-13T11:57:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
 type: article
-quality: 37
+quality: 25
 heat: -1
 published: false
 
@@ -250,6 +250,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
+    publishedDateTime: 2021-03-31T14:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
     publishedDateTime: 2021-04-02T13:40:00Z
@@ -362,20 +376,6 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-    excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
-    publishedDateTime: 2021-04-13T11:57:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-04-06T17:44:00Z
@@ -427,6 +427,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "PbHr9/FqdgLcHhDB2To/cDl/NsCCpm6akeE+rwhSd5UB0e2qH1nBx8QismbL5XeEd/iIxTzR4IC4OkycZGLohmEG23jh5mwbN7PSVyX1rZmq77hGl0+nF27RnWa6hsF5+yhX0iw7XGfDH6lnPyrz8dIuxiUIhvyXm19pvgheeNoPkYWjW5dGibOTPcrASiTEb2sdvEJ1FMtHY8+JB2ErM3eGqKZ+qCK0RzN1pbDZ0ZeuUPzJEQmAISllRKZa/UxY3JeSH1l+hyBhxIzUnygMJ3rPEu0VRSIfV4eqaKUKCtj2A/HOQkgFqmmlv8LyWTt2umWFTsGkBqmIpcVfhAlpzjRDubPDj98pCqMmAZog6Do=;/soFHh7RuUbdJQ/iyWVfBw=="
+secured: "jmfBO/hauV2LP7Iji7PDF/UdoSCysmBpD/A/iAZein68XG5JM+avRCeMQ5XGsAOZMOs90caWsDjP6M4ZFAmeFi1GVrS/5EFKXZX/rZWGjbwdTbguVJ14lVVCa24mQfWF2UCadCAw1u4awv+/sRFa9QUC+1RVTrLmkBUzNiQGrv3lD7wPivAeEa8PrOZAjULd6K65ZBenVL02zGr2unH6RyovLOnlFU9ryMp0vr7HBiAizaa59iPjclWWJMHzLkTEMjAVAh8VlvMJbBn198XlnbLWzddCwGkiO+wioQvdKSJe4wQvWKsqTV0TEOibI9UcqZ9T+0M6y6R3+2YzxeTQ3XEru3lDL6C2PEwesTrQq10=;lxtmzMz01TWp+8ZY2ock1w=="
 ---
 
