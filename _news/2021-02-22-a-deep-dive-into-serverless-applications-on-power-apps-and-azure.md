@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/a-deep-dive-into-serverless-appli
 webUrl: "https://azure.microsoft.com/blog/a-deep-dive-into-serverless-applications-on-power-apps-and-azure/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:
