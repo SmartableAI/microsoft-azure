@@ -65,6 +65,20 @@ related:
         width: 448
         height: 299
         isCached: true
+  - title: "General availability: Azure IoT Central new and updated features—March 2021"
+    excerpt: "March updates include jobs, data export, monitoring, and documentation improvemnets."
+    publishedDateTime: 2021-04-13T17:34:49Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-march-2021/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 102
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/2c763194-b282-4829-803c-e40b5d0de5dd.jpg"
+        width: 1204
+        height: 559
+        isCached: true
   - title: "Azure IoT Central new and updated features—August 2020"
     excerpt: "August updates include jobs improvements, a new file upload feature, a preview of the new data export feature, CLI updates, and documentation enhancements."
     publishedDateTime: 2020-09-14T19:00:14Z
