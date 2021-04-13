@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
-publishedDateTime: 2021-04-08T04:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+title: "Alkira Collaborates with Microsoft to Enhance Cloud Networking Journey to Azure"
+excerpt: "SAN JOSE, CA – April 13, 2021 – Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft ..."
+publishedDateTime: 2021-04-13T09:26:00Z
+originalUrl: "https://www.analyticsinsight.net/alkira-collaborates-with-microsoft-to-enhance-cloud-networking-journey-to-azure/"
+webUrl: "https://www.analyticsinsight.net/alkira-collaborates-with-microsoft-to-enhance-cloud-networking-journey-to-azure/"
 type: article
-quality: 32
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Analytics Insight
+  domain: analyticsinsight.net
 
 topics:
   - Azure
-  - Migration
+  - Networking
 
 images:
-  - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Microsoft.jpeg"
+    width: 1500
+    height: 844
     isCached: true
 
 related:
@@ -193,20 +193,6 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Alkira Collaborates with Microsoft to Enhance Cloud Networking Journey to Azure"
-    excerpt: "SAN JOSE, CA – April 13, 2021 – Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft ..."
-    publishedDateTime: 2021-04-13T09:26:00Z
-    webUrl: "https://www.analyticsinsight.net/alkira-collaborates-with-microsoft-to-enhance-cloud-networking-journey-to-azure/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 50
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/04/Microsoft.jpeg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
     excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
     publishedDateTime: 2021-04-13T08:00:00Z
@@ -363,6 +349,20 @@ related:
         width: 840
         height: 460
         isCached: true
+  - title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-04-08T04:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-04-06T17:44:00Z
@@ -414,6 +414,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ZDW2PeYU6SNXqaykG8fyHVExaecWl4LI8Xpt/SjuuZTc+6UAYUui/T+ZsIM9tKsNJhW5/MT7rrv4c0clLLlczijxXDO7QGZFA/3KhleuXSXK92GMT3FyOD3ru8L4wuUY3ZGgK49S6TK3D2JMLbGElnKqvLuA6uBVUCHAIcy4U5AmRxtc9uZD43tu6pz4qx8vZfwQlL9yzwWz3zr4aWmxRguVEAcRczERUkR4YmWdJwR0nt3Ux0vmP1MZ4pxxuUEbyGbvdPN7VVjVzsyjQr9LI0NVTnp27HymLJdCOtU8Druh1ZHrNQy3U2JhaZwpI6n4QjoF9wN2T0VYhfALuKXva8lO4fpXwZ2KLEKh0DuL6keHZF+/e2G0O7DEit+xVTVS7gSK2kP9KlxkBSRAz8x2NidfH+LzCvP0L+enYl3JntRJK5mgdUSK/8XB2Pg4OmaJvWwfCu/mKFAf6OQpxxbQby0Skz45l1fLrmTBzRfIDZo7qLV56rHiBTXn+xY+gyMC212BRZ6tHTMYMar07kXMiA==;YCh9loNFF4nSCSRsgbo+zg=="
+secured: "1/XrbT7CnS6hQo/hpx6ckCe6KaqRzrxeI5kxXWT/yZ0rnnsGI8nzFKvUPbI2oqYT91OAn//ZP8edKHgoyBbF7HK/cqF1rUBieWDWFWxewiTskXaa9uVv/dKQiKcAuaoSfJW9ADiuy+ohgslmoyWA3wZ7uoFgRWEtVpbxbwdmCOCB8P75xpAAQkKKu6yB1XJB1kbMIpcuOwNbHhxJHNHiH7XWMkzOy66KODSyU2kWwOvPtGo1cQ5s7ToEnM6B4geBInd00OentsZBrR/UH1yCU2KbN2QnjHEBo7Naa/1rsIXZuW+88QdcoskjVtFxKj+oIAQ9C62YsvnUhp9GNgJCrJFYVRrNFsOLj+sqUEtabfw=;soOrbFeKxpK+dZX5xSEfQA=="
 ---
 

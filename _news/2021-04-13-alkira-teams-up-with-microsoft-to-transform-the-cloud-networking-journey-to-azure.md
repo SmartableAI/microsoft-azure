@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
-excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
-publishedDateTime: 2021-04-08T04:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
+excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
+publishedDateTime: 2021-04-13T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
 type: article
-quality: 32
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Azure
-  - Migration
+  - Networking
 
 images:
-  - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -207,20 +207,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-    excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-    publishedDateTime: 2021-04-13T08:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -363,6 +349,20 @@ related:
         width: 840
         height: 460
         isCached: true
+  - title: "IFI Techsolutions Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization"
+    excerpt: "IFI Techsolutions ( today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure"
+    publishedDateTime: 2021-04-08T04:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/ifi-techsolutions-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization-809746323.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1458270/IFI_TECH_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
+        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-04-06T17:44:00Z
@@ -414,6 +414,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "ZDW2PeYU6SNXqaykG8fyHVExaecWl4LI8Xpt/SjuuZTc+6UAYUui/T+ZsIM9tKsNJhW5/MT7rrv4c0clLLlczijxXDO7QGZFA/3KhleuXSXK92GMT3FyOD3ru8L4wuUY3ZGgK49S6TK3D2JMLbGElnKqvLuA6uBVUCHAIcy4U5AmRxtc9uZD43tu6pz4qx8vZfwQlL9yzwWz3zr4aWmxRguVEAcRczERUkR4YmWdJwR0nt3Ux0vmP1MZ4pxxuUEbyGbvdPN7VVjVzsyjQr9LI0NVTnp27HymLJdCOtU8Druh1ZHrNQy3U2JhaZwpI6n4QjoF9wN2T0VYhfALuKXva8lO4fpXwZ2KLEKh0DuL6keHZF+/e2G0O7DEit+xVTVS7gSK2kP9KlxkBSRAz8x2NidfH+LzCvP0L+enYl3JntRJK5mgdUSK/8XB2Pg4OmaJvWwfCu/mKFAf6OQpxxbQby0Skz45l1fLrmTBzRfIDZo7qLV56rHiBTXn+xY+gyMC212BRZ6tHTMYMar07kXMiA==;YCh9loNFF4nSCSRsgbo+zg=="
+secured: "lxnXFF8yaq0lsfdUv0uQVfujia9XCZK4BfhD24egjfxeg5uisCWoGy6Wwd9KcrQ9Pe4io5jNJwCoQp/XtlS9lyGw4/7d341xsZtWk5ksiDzhNkWaMzRup79aBHlKi1wTRiUzLGMkJitQnVLRDhHZNITYk0BSK1TfJaqnPF44zmb1hFtKmG7NF+6N+8/KhBgzAQrNINw8wimxat8GSKY4TaQSp3DH661nU2gptT5FBRkcnmLDZxyqx1dNAbuDCSiIb3RuBG3p8h23JngH55xqstECivDiaTHt4wEVZwi3IJgx5mFej18k7FqwtSJePAW1MfOuRLiPjcTGMNoHGtZzv179mHJqi6lc6sott5hY3BQ=;5S3pE1nvCKPdh8cPDCMTvQ=="
 ---
 
