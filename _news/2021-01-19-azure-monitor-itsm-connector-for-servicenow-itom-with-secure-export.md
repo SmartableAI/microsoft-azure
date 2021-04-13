@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-conne
 webUrl: "https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-servicenow-itom-with-secure-export/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
