@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-publishedDateTime: 2021-04-13T08:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
+publishedDateTime: 2021-04-13T13:06:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
 type: article
 quality: 49
 heat: -1
@@ -456,6 +456,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "lxnXFF8yaq0lsfdUv0uQVfujia9XCZK4BfhD24egjfxeg5uisCWoGy6Wwd9KcrQ9Pe4io5jNJwCoQp/XtlS9lyGw4/7d341xsZtWk5ksiDzhNkWaMzRup79aBHlKi1wTRiUzLGMkJitQnVLRDhHZNITYk0BSK1TfJaqnPF44zmb1hFtKmG7NF+6N+8/KhBgzAQrNINw8wimxat8GSKY4TaQSp3DH661nU2gptT5FBRkcnmLDZxyqx1dNAbuDCSiIb3RuBG3p8h23JngH55xqstECivDiaTHt4wEVZwi3IJgx5mFej18k7FqwtSJePAW1MfOuRLiPjcTGMNoHGtZzv179mHJqi6lc6sott5hY3BQ=;5S3pE1nvCKPdh8cPDCMTvQ=="
+secured: "w6VWuCIZwWOBM371HgGF77YyWwOwBXfHRRxIWC8jgLn4nRTJ5HWCi6CwEgYNfs6TcUGuBr+p6q8t3D6uFpYNAY43AfjygU3uaYKJ/ZfWDxnQiFeRLq4LzebYYbnqfBUdXW0NXaaHkfHp3xPcdkvanOFQy62YnqMgQhJ7w+zeRddDG7DDTi+4xRGA2ImW/2JPHAwvpm1mRIKHgPrZAo5NPL7hNiFcpt1Bj03xTrTc2NmuPz2eMv6JDshpJYQDbdH2J/9CS4rDApY1QeTGBtR4I187gg5S1+Cl7LKoTfXCNrhWoQaE5zJUvfxCzicyV/1/zAOAJxYulDSMovxnjbYXJ08xBoI07idgzLq+tKXo+p4=;7PFu9qc5EAvJ+hBqXmP3iA=="
 ---
 
