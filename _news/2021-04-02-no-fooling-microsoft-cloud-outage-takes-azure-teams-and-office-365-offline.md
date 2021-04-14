@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Podcast: Microsoft Azure's Khalidi curates carrier clouds"
-    excerpt: "Yousef Khalidi, corporate VP of Azure for Operators at Microsoft and a member of the founding team of Azure, joins the podcast to discuss how his role has evolved to working on Azure for Operators. Khalidi explains why working with service providers ..."
-    publishedDateTime: 2021-04-07T12:00:00Z
-    webUrl: "https://www.lightreading.com/service-provider-cloud/podcast-microsoft-azures-khalidi-curates-carrier-clouds/v/d-id/768564"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 37
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "No foolin’: Microsoft cloud outage takes Azure, Teams and Office 365 offline"
     excerpt: "Microsoft’s Azure cloud services, as well as Teams, Office 365, OneDrive, Skype, Xbox Live and Bing, were all inaccessible due to the outage. Even the Azure Status page was reportedly taken offline."
     publishedDateTime: 2021-04-02T01:12:00Z

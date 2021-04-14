@@ -1,45 +1,35 @@
 ---
 category: news
-title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
-excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
-publishedDateTime: 2021-04-14T13:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
-webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
+title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
+excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
+publishedDateTime: 2021-04-14T16:41:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 97
+heat: 197
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
-    excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
-    publishedDateTime: 2021-04-14T16:41:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 97
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
     excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
     publishedDateTime: 2021-04-14T10:00:00Z
@@ -86,6 +76,20 @@ related:
         isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
+    publishedDateTime: 2021-04-14T13:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-f06347dc92af4398a45b940000ac8029"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
+    excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z
     webUrl: "https://www.businesswire.com/news/home/20210414005517/en/Microsoft-Azure-Customers-Now-Able-to-Acquire-beqom-with-Existing-Azure-Credit"
     type: article
@@ -94,6 +98,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "PwX/PdmaEvPInksw9BCw9QB+jIpPwtBOgqyWbEhJhlRIY29/+nP1aNI5PYHgpGIHGT/Pl2KX/uPwJ7WZRfrPdmDvl96JyS3AqUmEhyjudn6qHVL/24qzqD6Xq8MDTHlSwNiufgPm8CtRSU59q8GiUjf4cTMK1DjcDLMqMA+sZSiAteSLtwsepkaXJVp85yvk0ZmosskKLSIuWz1Z7O6QA4YJDEIkhGApWkgGF9odGJ5dRMdB7t+xEiD08VgCR0elvNe+BKJbD3BxiCfsQgGOmw18xZlUvORp1YmfSKthwDBE026bLapvG1+om7WLXEb3JBfMVrhPPa3mTuGwG3BOLNlgszF5j/BVj39sseSdpgI=;wp+Vyi9AwWoSj/j+5NPyAQ=="
+secured: "0X2jxnGSjmL2+jG6eYAQEOZ5YCUGwyqeSd92QIZOlchZ5+DAlLUR0NALknqKQEQ7xQvEPEnBOaJag6pbDzuqtxmMs+Uiu0V4B1/iXvPRmN5TDvWvyf+awzQSVa5WB2Ati9ApnXqLBnMez33y6X7DOLzyf27PtRpz3ejG6bQK7+pHi4U2HzLjHKLpX4T02RADIY+jO+MVBUBxSwmw2vHIcdDG9MLokyXmMdR0xZdNfJXXFK6mrIjvT24N00O75TXA+Qv2KJaGxA8E9apNZck7Ufdjsc0xy586tm78w6xsu9HJ+cFtiXp67LhvjcVIFLclR35ZsIWvPVlBNqRcTlvYXNeeXEw1q1XaV5IU49uwr/k=;lY6OHupPnYVGewZyDmthAw=="
 ---
 

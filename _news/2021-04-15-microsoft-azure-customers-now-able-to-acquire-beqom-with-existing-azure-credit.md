@@ -18,6 +18,22 @@ topics:
   - Azure
 
 related:
+  - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
+    excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
+    publishedDateTime: 2021-04-14T16:41:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
     excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
     publishedDateTime: 2021-04-14T10:00:00Z
@@ -34,15 +50,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Public preview of Microsoft Build of OpenJDK"
-    excerpt: "The Microsoft Build of OpenJDK is a new Long-Term Support distribution of OpenJDK for your Java workloads, in the cloud and everywhere else."
-    publishedDateTime: 2021-04-14T16:01:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-of-microsoft-build-of-openjdk/"
+  - title: "SmartStream introduces data management AI on Microsoft Azure"
+    excerpt: "SmartStream Technologies, the financial Transaction Lifecycle Management (TLM®) solutions provider today announces the launch of SmartStream Air version 3, designed to support global clients on the Microsoft Azure platform,"
+    publishedDateTime: 2021-04-14T08:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/87087/smartstream-introduces-data-management-ai-on-microsoft-azure"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Podcast: Microsoft Azure's Khalidi curates carrier clouds"
+    excerpt: "Yousef Khalidi, corporate VP of Azure for Operators at Microsoft and a member of the founding team of Azure, joins the podcast to discuss how his role has evolved to working on Azure for Operators. Khalidi explains why working with service providers ..."
+    publishedDateTime: 2021-04-07T12:00:00Z
+    webUrl: "https://www.lightreading.com/service-provider-cloud/podcast-microsoft-azures-khalidi-curates-carrier-clouds/v/d-id/768564"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T13:22:00Z
