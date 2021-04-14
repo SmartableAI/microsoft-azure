@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-excerpt: "Network Cloud pioneer Alkira® today announced a close collaboration with the Microsoft for Startups program, a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud."
-publishedDateTime: 2021-04-13T13:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+excerpt: "Microsoft customers experience a simplified secure move to Azure and multi cloud environments with Alkira Network Cloud SAN JOSE CA April 13 2021 Network Cloud pioneer Alkira today announced a close collaboration with the Microsoft for Startups program a select"
+publishedDateTime: 2021-04-13T13:56:00Z
+originalUrl: "https://www.openpr.com/news/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
+webUrl: "https://www.openpr.com/news/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
+ampWebUrl: "https://www.openpr.com/amp/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2269417/alkira-teams-up-with-microsoft-to-transform-the-cloud-networking"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - Azure
   - Networking
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.openpr.com/U/4/U413947552_g.jpg"
+    width: 800
+    height: 480
     isCached: true
 
 related:
@@ -456,6 +458,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "w6VWuCIZwWOBM371HgGF77YyWwOwBXfHRRxIWC8jgLn4nRTJ5HWCi6CwEgYNfs6TcUGuBr+p6q8t3D6uFpYNAY43AfjygU3uaYKJ/ZfWDxnQiFeRLq4LzebYYbnqfBUdXW0NXaaHkfHp3xPcdkvanOFQy62YnqMgQhJ7w+zeRddDG7DDTi+4xRGA2ImW/2JPHAwvpm1mRIKHgPrZAo5NPL7hNiFcpt1Bj03xTrTc2NmuPz2eMv6JDshpJYQDbdH2J/9CS4rDApY1QeTGBtR4I187gg5S1+Cl7LKoTfXCNrhWoQaE5zJUvfxCzicyV/1/zAOAJxYulDSMovxnjbYXJ08xBoI07idgzLq+tKXo+p4=;7PFu9qc5EAvJ+hBqXmP3iA=="
+secured: "Z67r5DhzxpeLG8NIhNrhmbY5e9qn1G8wrqWzEukmHKKZWHNq518wH4jZ23QpGemImlj7/9biu01qq/hEJhqAyU/St4MTb8yS/Ak5w3GMNnbTPjEy+DY58xjX78IglsLaDWp/NwHmsoXB4vPxUAbkojFQ/ZlYLE6Nbt6sVoMyP9c8hZ/ObC74XVK8ELpJgGm246laRNW48V67LA3+xnlp9cd9fFUyaPndL8ixBKDAHrg4IQyGigjQU6rtX5LuI/HxHZP58norl6ua4FYxFiEPa3z1ay9H0pFThgc/2VbyACi4sGMZBr2zkphiORIF2WweLOJHeIyRtvY+1ntCxpzv92PW8v7XWtdbf3HIFSr2xm8=;31kRuFrgMJuk0e0zN3G5JQ=="
 ---
 
