@@ -41,15 +41,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Automatic Cluster Upgrades in AKS"
-    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
-    publishedDateTime: 2021-01-21T17:03:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
     excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
     publishedDateTime: 2021-01-20T17:00:17Z

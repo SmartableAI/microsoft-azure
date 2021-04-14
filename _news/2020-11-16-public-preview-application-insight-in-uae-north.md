@@ -22,60 +22,114 @@ topics:
   - Azure
 
 related:
-  - title: "Node.js 14 for Azure Functions is now available in public preview"
-    excerpt: "Developers can now build and publish Azure Functions Apps using Node.js 14."
-    publishedDateTime: 2020-11-12T17:00:13Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-for-azure-functions-is-now-available-in-preview/"
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Node.js 14 in Azure Functions is now generally available "
-    excerpt: "Azure Functions support for the Node.js 14 runtime is now in general availability."
-    publishedDateTime: 2021-03-10T17:00:09Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/nodejs-14-in-azure-functions-is-now-generally-available/"
+    quality: 101
+  - title: "Public preview: Azure Machine Learning VS Code Integration "
+    excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
+    publishedDateTime: 2021-04-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: ".NET 5 now available in App Service"
-    excerpt: "App Service support for .NET 5 applications is available across all public regions and scenarios on both Windows and Linux App Service plans. "
-    publishedDateTime: 2020-11-11T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/net-5-now-available-in-app-service/"
+    quality: 101
+  - title: "Public preview: Functions upgrade in Azure Monitor log analytics"
+    excerpt: "We have upgraded the functions experience in log analytics, providing new UI and capabilities to allow you to do more with functions."
+    publishedDateTime: 2021-04-14T16:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-functions-upgrade-in-azure-monitor-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Azure Sphere 20.10 update is now available"
-    excerpt: "Learn about what's new in the the 20.10 release, including new and updated features in the OS, SDK, and extensions for Visual Studio and Visual Studio Code. "
-    publishedDateTime: 2020-11-10T00:00:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-2010-update-is-now-available/"
+  - title: "Public preview: Calico Windows support in AKS"
+    excerpt: "Use Calico network policy with Windows Server on AKS."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Azure Resource Health support in AKS "
+    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
+    publishedDateTime: 2020-08-17T23:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New recommendations from Azure Advisor are now available"
-    excerpt: "Four new best practice recommendations will help you improve the reliability and performance of your Azure resources"
-    publishedDateTime: 2020-11-11T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-recommendations-from-azure-advisor/"
+  - title: "Public preview: Azure Purview is now available in the Central India region"
+    excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-08T19:11:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-available-in-public-preview-in-central-india/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "SMB Multichannel preview is now available on Azure Files premium tier"
-    excerpt: "Lower your deployment cost and increase you Server Message Block (SMB) 3.x client’s performance with Azure Files SMB Multichannel. "
-    publishedDateTime: 2020-11-17T21:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/smb-multichannel-preview-is-now-available-on-azure-files-premium-tier/"
+    quality: 65
+  - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
+    excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
+    publishedDateTime: 2021-04-09T17:14:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
+    quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in Japan West "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
+    publishedDateTime: 2021-01-21T17:02:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "eKIYtysUHq9e3U9HqGZMn3c0Hy9jiUBjuMA1r3BJlP66pZ48goK0Qi95KtWQI1vWpg3weQp4GoGGNmz5XRWhUf+Sju+5vSDDEFqMawMSHsgccqVo/kAzqEgs26iLEAKzsu29KanSClZvDt0hybO6blT4+hL8lG4W7yaxlDQfu2FvTym8B4upF/BO/TcCsMRiHYJgceEwAcf/8WVHFDeFY6+kxBM+ckVNMUO06JV4rfz02QEsazv+KhuBtCW7MUY0ra/MoTcrrBEoKI8/snibcjQZ+ROX2Vjy5/x97cCadG1Y5/ciUVarU2PzVcSZ4Wdsl72YYxA4dofMmafMM2fPe4C9fc0TKbRsFbVNQm5po9E=;hOM3y+xvo7K/WOzYju+HpQ=="
 ---

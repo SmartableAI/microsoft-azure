@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/build-security-into-manufacturing
 webUrl: "https://azure.microsoft.com/blog/build-security-into-manufacturing-operations-with-nesting-capabilities-for-azure-iot-edge/"
 type: article
 quality: 98
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 4800
         height: 1869
         isCached: true
+  - title: "Azure IoT Edge nesting capabilities are now generally available"
+    excerpt: "Our commitment is to simplify IoT for mainstream adoption. As such, we are announcing general availability of nesting capabilities for Azure IoT Edge for industrials to connect their equipment to the cloud through multiple network layers as recommended by the ANSI/ISA-95 standard."
+    publishedDateTime: 2021-04-14T16:01:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-nesting-capabilities-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "Y89ax1KSKKUkHoFVxCFNQq5OQBW25HNk75XBd3kR1bM3XXtFTRBQTR+xkMETtuLnsjoGPFSRdnfaEkDYoDezwz5ijZNrHUL6ztvK08pDxO12RswSxYe2xLBrQVp6VraDPXd7rQvb8Qpiw1apgSTWSgI+2CQMIpZ99t+LNRhnHTyXAq6avHHRkGNCD3OoXFcRha/WMkeJequAf1D/9C7g9/yNURh1nHN7U5Y/ivC7o4po0LsWnmZufdHdRp05YhzkoXmDbihg0zJHkwZvh8cP4cmpECc7EFW27S1A39Vdno6upvj4VPFcvPQYcSBr4m5Mvrg+Q46pcTJW2MxEHmS6wTP3uydpoOYGksu63EZ+PTY=;IDr6JHPoXJPf42KvjUw8DQ=="
 ---

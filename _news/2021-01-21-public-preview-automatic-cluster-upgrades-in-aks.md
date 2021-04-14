@@ -23,69 +23,114 @@ topics:
   - Containers
 
 related:
-  - title: "Public preview: Azure Key Vault CSI driver support in Azure Kubernetes Service"
-    excerpt: "Azure Key Vault provider for Secrets Store CSI driver allows you to get secret contents stored in an Azure Key Vault instance. Azure Key Vault simplifies the task of securing and using cryptographic keys and other secrets with AKS. \nWith this new feature, you can use the Secrets Store CSI driver interface"
-    publishedDateTime: 2021-01-21T17:01:29Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-csi-driver-support-in-azure-kubernetes-service/"
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 97
-  - title: "Public preview: Azure Log Analytics in UAE Central & Japan West"
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in UAE Central & Japan West."
-    publishedDateTime: 2021-01-21T17:03:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-uae-central-japan-west/"
+    quality: 101
+  - title: "Public preview: Azure Machine Learning VS Code Integration "
+    excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
+    publishedDateTime: 2021-04-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Azure Machine Learning Data Labeling – Image Instance Segmentation "
-    excerpt: "Data Labeling in Azure Machine learning gives you a central place to create, manage, and monitor labeling projects."
-    publishedDateTime: 2021-01-28T23:43:18Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-data-labeling-image-instance-segmentation/"
+    quality: 101
+  - title: "Public preview: Functions upgrade in Azure Monitor log analytics"
+    excerpt: "We have upgraded the functions experience in log analytics, providing new UI and capabilities to allow you to do more with functions."
+    publishedDateTime: 2021-04-14T16:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-functions-upgrade-in-azure-monitor-log-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 78
-  - title: "Public preview: Dynamic IP allocation and enhanced subnet support in AKS"
-    excerpt: "AKS users now have more flexible network configuration options via dynamic IP allocation and support for subnets."
-    publishedDateTime: 2021-01-20T17:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-ip-allocation-and-enhanced-subnet-support-in-aks/"
+    quality: 101
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 68
-  - title: "Public preview: CSI storage driver support in Azure Kubernetes Service "
-    excerpt: "Azure Kubernetes Service (AKS) now supports Container Storage Interface (CSI), a standard for exposing arbitrary block and file storage systems to containerized workloads on Kubernetes. This offers more flexibility in exposing storage systems in Kubernetes."
-    publishedDateTime: 2020-08-17T23:02:45Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-csi-storage-driver-support-in-azure-kubernetes-service/"
+    quality: 82
+  - title: "Public preview: Calico Windows support in AKS"
+    excerpt: "Use Calico network policy with Windows Server on AKS."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Azure Resource Health support in AKS "
+    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
+    publishedDateTime: 2020-08-17T23:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "New Azure Cloud Services deployment model in public preview"
-    excerpt: "Use Azure Cloud Services (extended support), now in public preview, to increase regional resiliency and gain access to new capabilities that the Azure Resource Manager-based deployment model provides. "
-    publishedDateTime: 2021-01-25T17:00:34Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-cloud-services-deployment-model-in-public-preview/"
+  - title: "Public preview: Azure Purview is now available in the Central India region"
+    excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-08T19:11:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-available-in-public-preview-in-central-india/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Kubernetes resource view is in public preview"
-    excerpt: "Kubernetes resource view allows developers to use point and click navigation to see live, in-depth details of their workloads."
-    publishedDateTime: 2020-08-05T16:00:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/kubernetes-resource-view-is-in-public-preview/"
+    quality: 65
+  - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
+    excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
+    publishedDateTime: 2021-04-09T17:14:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 2
+    quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in Japan West "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
+    publishedDateTime: 2021-01-21T17:02:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "RkJCIxkOmXWRGdz4fIQlK+XwYyzDy0DQPIkNPA2rM4mrNDtTy6JkN8/IEuqgkJIAZVF2JqZlNf0W2Sqq5L8h0iZKgqIktCqTAXYR3pJd29BmJHCOywGOei7wM0WlqHmQ/nPWTNLtW/nTQTIH9EivUscmX7MNAXmPA/6Rv4jafBsjkb/dqnKS/GxrE7H/MPEqQZS778y+nvdQW1QKIKqwQldZTY6HSbqwv/EpVZsilcroocovlJ+ArwHch1ysI23Xrlqb9vhEKVaAUhX9ZT3B1STbn8DhizAIXzZ3OukBjSlyLy8esrLgdI7mgqbemxF3EkrEYP0S372+TgvFaDvYiU1vQSlNG0CRkcw4K99sdXs=;9lBtTVLGvWj1unCEN0kuHA=="
 ---

@@ -22,42 +22,33 @@ topics:
   - Azure
 
 related:
-  - title: "Public Preview: Azure App Service Migration Assistant - Java Tomcat Support"
-    excerpt: "You can now migrate your Java Tomcat web apps to Azure using the Azure App Service Migration Assistant tool."
-    publishedDateTime: 2020-09-22T16:05:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-java-tomcat-support/"
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 99
-  - title: "New Azure Orbital, ground station as a service, now in preview"
-    excerpt: "Azure Orbital is a fully managed cloud-based ground station as a service that enables you to schedule contacts with your spacecrafts or satellites and directly ingest data in Azure using Orbital ground stations."
-    publishedDateTime: 2020-09-22T16:05:27Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-orbital-ground-station-as-a-service-now-in-preview/"
+    quality: 101
+  - title: "Public preview: Azure Machine Learning VS Code Integration "
+    excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
+    publishedDateTime: 2021-04-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Preview: Azure Load Balancer now supports cross-region load balancing"
-    excerpt: "Azure Load Balancer now supports load balancing across regions based on health and latency."
-    publishedDateTime: 2020-09-22T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/preview-azure-load-balancer-now-supports-crossregion-load-balancing/"
+    quality: 101
+  - title: "Public preview: Functions upgrade in Azure Monitor log analytics"
+    excerpt: "We have upgraded the functions experience in log analytics, providing new UI and capabilities to allow you to do more with functions."
+    publishedDateTime: 2021-04-14T16:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-functions-upgrade-in-azure-monitor-log-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Public Preview: JBoss EAP on Azure App Service"
-    excerpt: "A managed JBoss Enterprise Application Platform (EAP) experience is now available in Public Preview on Azure App Service. Deploy your Web Application Archive (WAR) and Enterprise Application Archive (EAR) apps to a PaaS for Java EE apps."
-    publishedDateTime: 2020-10-14T16:00:14Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-jboss-eap-on-azure-app-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+    quality: 101
   - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
     excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
     publishedDateTime: 2021-01-21T17:02:50Z
@@ -67,10 +58,19 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 82
-  - title: "Public preview: AKS start/stop cluster feature"
-    excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
-    publishedDateTime: 2020-09-22T16:05:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-aks-startstop-cluster-feature/"
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Calico Windows support in AKS"
+    excerpt: "Use Calico network policy with Windows Server on AKS."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
     type: article
     provider:
       name: Microsoft
@@ -85,28 +85,46 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
-    excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
-    publishedDateTime: 2020-09-22T16:05:01Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-steeltoe-net-application-support-in-azure-spring-cloud/"
+  - title: "Public preview: Azure Purview is now available in the Central India region"
+    excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-08T19:11:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-available-in-public-preview-in-central-india/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: App Service Managed Certificates now supports apex domains"
-    excerpt: "Create apex domains on your Linux and Windows web app at no additional cost."
-    publishedDateTime: 2021-03-17T16:00:26Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-app-service-managed-certificates-now-supports-apex-domains/"
+    quality: 65
+  - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
+    excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
+    publishedDateTime: 2021-04-09T17:14:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 67
-  - title: "Public preview: Service Bus support for large message payloads"
-    excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
-    publishedDateTime: 2021-01-21T17:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-service-bus-support-for-large-message-payloads/"
+    quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
     type: article
     provider:
       name: Microsoft

@@ -59,24 +59,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
-    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
-    publishedDateTime: 2021-01-21T17:02:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-  - title: "Public preview: Azure Resource Health support in AKS "
-    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
-    publishedDateTime: 2020-08-17T23:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
     excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
     publishedDateTime: 2020-09-22T16:05:01Z
@@ -95,15 +77,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Application Insight in Japan West "
-    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
-    publishedDateTime: 2021-01-21T17:02:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
   - title: "Public preview: Service Bus support for large message payloads"
     excerpt: "Customers can now send data payloads up to 100 MB is Service Bus Premium."
     publishedDateTime: 2021-01-21T17:01:22Z

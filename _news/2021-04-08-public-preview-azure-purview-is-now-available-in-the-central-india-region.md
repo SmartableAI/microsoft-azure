@@ -22,15 +22,114 @@ topics:
   - Azure
 
 related:
-  - title: "Azure Active Directory B2C in Australia is available in public preview"
-    excerpt: "Provide a customized digital experience to all your customer and consumers with Azure Active Directory B2C now in public preview in Australia."
-    publishedDateTime: 2021-04-09T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-active-directory-b2c-in-australia-is-available-in-public-preview-2/"
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
+    quality: 101
+  - title: "Public preview: Azure Machine Learning VS Code Integration "
+    excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
+    publishedDateTime: 2021-04-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Public preview: Functions upgrade in Azure Monitor log analytics"
+    excerpt: "We have upgraded the functions experience in log analytics, providing new UI and capabilities to allow you to do more with functions."
+    publishedDateTime: 2021-04-14T16:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-functions-upgrade-in-azure-monitor-log-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 101
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 82
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Calico Windows support in AKS"
+    excerpt: "Use Calico network policy with Windows Server on AKS."
+    publishedDateTime: 2021-03-02T17:00:08Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Public preview: Azure Resource Health support in AKS "
+    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
+    publishedDateTime: 2020-08-17T23:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
+    excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
+    publishedDateTime: 2021-04-09T17:14:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in Japan West "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
+    publishedDateTime: 2021-01-21T17:02:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "HfF77iLKDxA37eCzi8Vb1r9QW0wIeXkq5UOmIkk/00NSwt6EyfqQGhe6cPQ/ts4dJtTc8TAB4jwGZuFVioPfG9QngV+ggy/3cWgttEVyASgNRmk33PJV6NFAs1zLCpItQstMnD0aTnZWF6ncpv83GgY2LxrbVABFOhx+BvhyLhJjndD/HOxABfNwz9HKQOOAGDyJ7S4T4wsAFRWbnLp6dVN+FITW6/7FhoevNxpcWQfB0dY9tNJeJ5922Lcf6Ts+YqBcCog1wQoCUr2N0TXuWa1cYgqUqGAjWGlvK1XnZ3BW/1lrxveiRhA+wwT2kkZ8GOpYK8tV4g1r862tzQBYKyNl0trsFTQlG6YRlb2Dja0=;Eq9FbIuhW2x/ZxiMJPB2yw=="
 ---

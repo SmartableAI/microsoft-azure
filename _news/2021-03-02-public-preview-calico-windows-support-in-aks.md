@@ -23,56 +23,114 @@ topics:
   - Containers
 
 related:
-  - title: "Public preview: Azure Purview powered search in Azure Synapse Analytics workspaces"
-    excerpt: "Enable effortless discovery of trustworthy, valuable data with an Azure Purview powered search within Synapse Studio. "
-    publishedDateTime: 2021-03-02T17:00:19Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-purview-powered-search-in-azure-synapse-analytics-workspaces/"
+  - title: "dPublic preview: Event Grid integration with AKS"
+    excerpt: "Automate AKS operations by subscribing to events and handling them."
+    publishedDateTime: 2021-04-14T16:00:07Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 93
-  - title: "Public preview: Announcing Azure Synapse Pathway: Accelerate your data warehouse migration"
-    excerpt: "Azure Synapse Pathway is a point-and-click solution that simplifies and accelerates migration for both on-premises and cloud data warehouses to Azure Synapse Analytics."
-    publishedDateTime: 2021-03-02T17:00:07Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-pathway-accelerate-your-data-warehouse-migration/"
+    quality: 101
+  - title: "Public preview: Azure Machine Learning VS Code Integration "
+    excerpt: "Enable the full power of VS Code connected to your Azure Machine Learning Compute with multiple new editing tasks."
+    publishedDateTime: 2021-04-14T16:00:33Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-machine-learning-vs-code-integration/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 91
-  - title: "Public preview: Announcing the new Power BI embedded analytics playground "
-    excerpt: "Check out the new Power BI embedded analytics playground (public preview). You can find in the new playground experiences for developer and non-developers to get first-hand experience of Power BI embedded analytics."
-    publishedDateTime: 2021-03-25T15:00:32Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/power-bi-embedded-analytics-playground-preview/"
+    quality: 101
+  - title: "Public preview: Functions upgrade in Azure Monitor log analytics"
+    excerpt: "We have upgraded the functions experience in log analytics, providing new UI and capabilities to allow you to do more with functions."
+    publishedDateTime: 2021-04-14T16:01:53Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-functions-upgrade-in-azure-monitor-log-analytics/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/updates/UpdatesV2/blog/b632147b-d3c8-411b-99a2-aab11a42ee3c.gif"
-        width: 1920
-        height: 1078
-        isCached: true
-  - title: "Public preview: Azure Log Analytics in Australia Central 2 "
-    excerpt: "Azure Log Analytics is now in public preview for customers to start collecting telemetry and analyzing their services for health and usage in Australia Central 2."
-    publishedDateTime: 2021-02-03T17:00:03Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-analytics-in-australia-central-2/"
+    quality: 101
+  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
+    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
+    publishedDateTime: 2021-01-21T17:02:50Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 84
-  - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
-    excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
-    publishedDateTime: 2021-03-02T17:00:11Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-key-rotation-of-customermanaged-keys-for-encrypting-azure-managed-disks/"
+    quality: 82
+  - title: "Public preview: Automatic Cluster Upgrades in AKS"
+    excerpt: "AKS simplifies the task of deploying new Kubernetes releases by enabling users to configure automatic cluster upgrades."
+    publishedDateTime: 2021-01-21T17:03:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-automatic-cluster-upgrades-in-aks/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 53
+    quality: 69
+  - title: "Public preview: Azure Resource Health support in AKS "
+    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
+    publishedDateTime: 2020-08-17T23:01:22Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+  - title: "Public preview: Azure Purview is now available in the Central India region"
+    excerpt: "Azure Purview is now available in public preview in the Central India region. You can now provision Azure Purview accounts in these regions as a public preview offering. "
+    publishedDateTime: 2021-04-08T19:11:56Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-purview-available-in-public-preview-in-central-india/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
+  - title: "Public preview: Announcing Azure STIG solution templates to accelerate compliance for DoD"
+    excerpt: "Announcing the availability of Security Technical Implementation Guide (STIG) solution templates for both Windows and Linux on the Azure Marketplace (commercial) and Azure Government Marketplace."
+    publishedDateTime: 2021-04-09T17:14:51Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-stig-solution-templates-to-accelerate-compliance-for-dod/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+  - title: "Public preview: Cognitive Services- Anomaly Detector now supports multivariate anomaly detection​ "
+    excerpt: "Enable organizations to identify anomalies across multiple variables with multivariate Anomaly Detector."
+    publishedDateTime: 2021-04-14T16:01:46Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-cognitive-services-anomaly-detector-now-supports-multivariate-anomaly-detection/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 55
+  - title: "Public preview: Ephemeral OS disk support in AKS"
+    excerpt: "AKS now supports ephemeral OS disk for AKS agent nodes in public preview."
+    publishedDateTime: 2020-08-17T23:00:03Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-in-aks/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in UAE North "
+    excerpt: "UAE North is now in public preview for customers to start collecting telemetry and analyze their services for health using Application Insight. "
+    publishedDateTime: 2020-11-16T19:09:09Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-uae-north/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+  - title: "Public preview: Application Insight in Japan West "
+    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
+    publishedDateTime: 2021-01-21T17:02:59Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "mCqXYDAC2ecQ0VD5RVPUvcN3oo74LJbcumcekEdB9mekqbX+73fjF1nWOlRBsJ95DjtKW8dRHuQdjEy0ZwCEQKR6PAhfKJ5KcAX7ATJKArOyDeNxwJndJZhPNFMpCoTMriPlZanfqqQ+2TRX1qMBuLb/ndMxeZWYF8VJPPVpIEaDyF5nGJGvj3H47EW/wbuwDL8HHIOJnpi0FxXFSKGhBVIVeTFmkF7thjFJq8k+9GP/VM53SND5zt7SvrnMah4aov5m1v3XMBhMBAtb5h/BMLW+ntCWZ9srVg3LooaoXkilBQNZDsX3UKMsbWMf0Rv/4A7FS5xgnON/l8wDXbKCmhnXkIA48taPMeEY9FVMBLY=;H0hZ9BMa3fdYXUtWOia2tw=="
 ---

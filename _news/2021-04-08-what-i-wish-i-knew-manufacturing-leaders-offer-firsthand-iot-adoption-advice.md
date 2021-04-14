@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Azure IoT Edge nesting capabilities are now generally available"
+    excerpt: "Our commitment is to simplify IoT for mainstream adoption. As such, we are announcing general availability of nesting capabilities for Azure IoT Edge for industrials to connect their equipment to the cloud through multiple network layers as recommended by the ANSI/ISA-95 standard."
+    publishedDateTime: 2021-04-14T16:01:18Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-iot-edge-nesting-capabilities-are-now-generally-available/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
 
 secured: "nNlk4RYfXySmqgxmV9r1fVBH/Xo5DeECsJdNPFjdGU4ZDUvrJfxZCwEp4l4uJ35zabUgv/pg10IGAqLuQqJs46iENgk9HAe8goh88kJIslQrydZr56GgTWKB4qGIxPpG4mwF/842nLzk/c9vs4D0pkRqpwLLKjMP8w/ywI4nxdwLT4SdzgJtuf+v6AXnK30w+b9YpNbc0YfQBfsKoF+thTKxY4qxOpsCW9w0SWdzB27uYZeUHeirkrA9Ie6C7+MtVC9ZMq0sRKmcI3Ma25S4Ry5IGsDCov/PW3i+k0DsBbsfY01duj+b0zE/wDKu1EN9GuMvnKaLuPKkTwrmY+E/DUaVRarWiuk/RUP0cIlx9Ms=;lO7UdvMJzRQATv8vSWf0sA=="
 ---

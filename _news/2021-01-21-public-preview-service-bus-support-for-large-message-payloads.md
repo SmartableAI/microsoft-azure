@@ -58,15 +58,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Prevent Shared Key authorization on Azure Storage accounts "
-    excerpt: "Enhance secure access to Azure Storage accounts with Prevent Shared Key authorization."
-    publishedDateTime: 2021-01-21T17:02:50Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/prevent-shared-key-authorization-on-azure-storage-accounts/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
   - title: "Public preview: AKS start/stop cluster feature"
     excerpt: "Customers can save on time and costs by using the start/stop AKS clusters."
     publishedDateTime: 2020-09-22T16:05:26Z
@@ -76,15 +67,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Public preview: Azure Resource Health support in AKS "
-    excerpt: "You can now easily see when your AKS resources were unavailable due to any problems encountered as well as under any maintenance operation."
-    publishedDateTime: 2020-08-17T23:01:22Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-health-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "Public Preview: Steeltoe .NET Application Support in Azure Spring Cloud"
     excerpt: "Develop and release applications faster with Steeltoe .NET application support in Azure Spring Cloud."
     publishedDateTime: 2020-09-22T16:05:01Z
@@ -103,15 +85,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Public preview: Application Insight in Japan West "
-    excerpt: "Application Insight is now in public preview for customers to start collecting telemetry and analyzing their services for health in Japan West."
-    publishedDateTime: 2021-01-21T17:02:59Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-application-insight-in-japan-west/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
 
 secured: "Hx9OeENM4JBaon4j2gjuJgVxF6w05ZW1ICx2m+XJlegsstC6djUfM7/myjisZZMbmXTK5s7Fq2x97cispJGhBL1yqxJZIsbZap0b47f5Mgn5lGsuuMB6H36BPFU/B/2H2vm+ve9Ww8dXf/L1H4TO7TB6oHDBSe+3a1BPAMzveD8xZksCZQXncT4QB+lbb5dmE95IBW0b6bBwCpnqf9u31417Y34SBXXubQuOcy5rwj8oXOwuXa3AzIDjewKQXwJPoJCLOY+C7leGNAjVxjgFerNg3gSHRAETR22Vz2T1geiy3vgCLjZXH2WGsXNqdyBIetaJArhmTfngykeFMT/GXhGMxoHKsuixj+uAFL5cajU=;zoyEG5UvTY1g5VTYCjq4Vg=="
 ---

@@ -56,15 +56,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
-  - title: "Public preview: Calico Windows support in AKS"
-    excerpt: "Use Calico network policy with Windows Server on AKS."
-    publishedDateTime: 2021-03-02T17:00:08Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/public-preview-calico-windows-support-in-aks/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 69
   - title: "Public preview: Automatic key rotation of customer-managed keys for encrypting Azure managed disks"
     excerpt: "Azure Disk Storage now enables you to automatically update keys for encryption of your data. "
     publishedDateTime: 2021-03-02T17:00:11Z

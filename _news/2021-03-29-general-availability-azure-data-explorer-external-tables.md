@@ -171,6 +171,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "General availability: New Azure Policy built-in definitions for data encryption in Azure Monitor"
+    excerpt: "With Azure Monitor built-in policy definitions for data encryption, you can enforce organizational standards and assess compliance of data encryption settings in your environment."
+    publishedDateTime: 2021-04-14T16:02:04Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-new-azure-policy-builtin-definitions-for-data-encryption-in-azure-monitor/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
   - title: "General availability: AKS resources view"
     excerpt: "Azure portal now provides a Kubernetes resource view that improves the developer experience and simplifies dev/test scenarios."
     publishedDateTime: 2020-12-09T17:00:15Z
@@ -193,6 +202,15 @@ related:
     excerpt: "Media Services introduces new security features available in the 2020-05-01 version of the Azure Media Services API allowing you to now bring your own encryption keys, and configure trusted storage using System Managed Identities. "
     publishedDateTime: 2021-03-16T23:00:13Z
     webUrl: "https://azure.microsoft.com/en-us/updates/media-services-introduces-new-security-features/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "General availability: Encryption at host support in AKS"
+    excerpt: "You can now enable host-based encryption in AKS"
+    publishedDateTime: 2021-04-14T16:00:26Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-support-in-aks/"
     type: article
     provider:
       name: Microsoft
