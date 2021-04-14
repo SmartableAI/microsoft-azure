@@ -3,8 +3,8 @@ category: news
 title: "6 Big Things To Know About Microsoft’s Azure Cloud Strategy"
 excerpt: "Microsoft’s JG Chirapurath breaks down the Azure hybrid cloud strategy and industry cloud plays, and Azure’s data, mixed-reality and machine learning/artificial intelligence offerings."
 publishedDateTime: 2021-04-13T17:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
-webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy"
+originalUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/5"
+webUrl: "https://www.crn.com/slide-shows/cloud/6-big-things-to-know-about-microsoft-s-azure-cloud-strategy/5"
 type: article
 quality: 37
 heat: -1
@@ -1902,6 +1902,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "iYcc/p73Rk3QprIIrVqJem4LkSynE5N+T1lgR/YSEFL6h4FwHAx72VuDJVAJMOsfRGcaokoq3jwE00Psgt56RmtTn9wqyJ3mECvTlNlX44Evh4xJhaTwdsc5RdREQLKtkx43oWf0/lF37pwqnaQYRQO5a46wM4A1ezI4vFaQJCYzyRYx9aTZacCj5Lvb+XpQEAxblUkutPTYXPmE6hfRHvtNTxYeAEGZ7a+vrXxQzLkcKBIxTfryVc6xmLl2ftEb2VczJV9zYmQnRblg1qZYxx0+dmENfr+0RwWZWQLQ6ntC8FeyzzqsVlcYYZ2+ZgaQgw0zKLeUr427O4txmSdo8LU4L7Pcd8btSpmPVfEGW7o=;IhPm5NcCPistzWaarRXTvw=="
+secured: "j1h5HGBzKo1KtzZ/5/S/MBiRPe0sdrZU6K8pZ6KetuODll4MuXfY+X6RH6sKWtHcydLjOSaRQ0O2foktFGabzwsHH8k+X8BdEUo0PPlLI82mLPv/eoCU6YuVm+ZpUT9ZdJeqVdBoCdck/j00fSK7sM77wCqpn57GTXltjKFEu0RQcc7n0mixSDXM8whxQgxo5jeKWC9TTF5M4vJCYMTpXB/581KznTaZVUcwoEs4LG+Tmw+47qbf0KoOQbqbbwr9a47rPqI7vWaDAZ0FY0F9yV1gjSrCQGwnz7j4dwYMfLz8ph3vhB2HpZ0Qjfo4b7HGvaEJENQ/GbjHSTIr/9CGZpisrDokISSvxMCHsIEhSm8=;HOQ9bhncLzu0c07ZhCq/aQ=="
 ---
 
