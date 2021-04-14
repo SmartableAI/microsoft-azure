@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-convert-speech-to-text.md",
+      "title": "Transcribe speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to transcribe speech and convert it to text through real-time transcription with the Speech Service in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-convert-speech-to-text/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "52 mins",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        },
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/transcribe-speech-input-text-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Transcribe speech in real time with Azure Cognitive Services",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-azure-fundamentals-part-2-describe-core-azure-services.md",
       "title": "Azure Fundamentals part 2: Describe core Azure services",
       "excerpt": "This learning path provides you with an introduction to the basics of Azure's core services for compute, network, storage, and database.",
@@ -34,8 +81,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
           "length": "PT39M",
           "ratings": {
-            "count": 10608,
-            "average": 4.7224736
+            "count": 10619,
+            "average": 4.722573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -80,8 +127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/",
           "length": "PT52M",
           "ratings": {
-            "count": 9404,
-            "average": 4.7598896
+            "count": 9409,
+            "average": 4.7596984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -125,8 +172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 7523,
-            "average": 4.760202
+            "count": 7528,
+            "average": 4.760361
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -168,8 +215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-networking-fundamentals/",
           "length": "PT38M",
           "ratings": {
-            "count": 8184,
-            "average": 4.63673
+            "count": 8192,
+            "average": 4.6362305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +307,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 11011,
-            "average": 4.775043
+            "count": 11021,
+            "average": 4.775247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -322,8 +369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/",
       "length": "PT27M",
       "ratings": {
-        "count": 11011,
-        "average": 4.775043
+        "count": 11021,
+        "average": 4.775247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -365,8 +412,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/",
       "length": "PT39M",
       "ratings": {
-        "count": 10608,
-        "average": 4.7224736
+        "count": 10619,
+        "average": 4.722573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -434,8 +481,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
           "length": "PT23M",
           "ratings": {
-            "count": 7281,
-            "average": 4.776267
+            "count": 7287,
+            "average": 4.776314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -477,8 +524,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5582,
-            "average": 4.7194552
+            "count": 5588,
+            "average": 4.7193985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -520,8 +567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 4942,
-            "average": 4.7573857
+            "count": 4946,
+            "average": 4.7573795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -564,8 +611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4683,
-            "average": 4.7505875
+            "count": 4684,
+            "average": 4.7506404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-machine-learning-fundamentals/",
       "length": "PT23M",
       "ratings": {
-        "count": 7281,
-        "average": 4.776267
+        "count": 7287,
+        "average": 4.776314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -699,8 +746,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
           "length": "PT28M",
           "ratings": {
-            "count": 1283,
-            "average": 4.7264223
+            "count": 1285,
+            "average": 4.726848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1087,8 +1134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 940,
-            "average": 4.7978725
+            "count": 941,
+            "average": 4.798087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 744,
-            "average": 4.7607527
+            "count": 745,
+            "average": 4.7610736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +1257,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/",
           "length": "PT39M",
           "ratings": {
-            "count": 988,
-            "average": 4.8087044
+            "count": 989,
+            "average": 4.808898
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1960,8 +2007,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-images-computer-vision/",
       "length": "PT28M",
       "ratings": {
-        "count": 1283,
-        "average": 4.7264223
+        "count": 1285,
+        "average": 4.726848
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3402,8 +3449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1025,
-            "average": 4.66439
+            "count": 1026,
+            "average": 4.664717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3534,8 +3581,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 3189,
-            "average": 4.719348
+            "count": 3190,
+            "average": 4.7194357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3811,8 +3858,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 3189,
-        "average": 4.719348
+        "count": 3190,
+        "average": 4.7194357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4534,49 +4581,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/classify-images-custom-vision-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-detect-objects-images-custom-vision.md",
-      "title": "Detect objects in images with the Custom Vision service",
-      "excerpt": "Object detection is a form of computer vision in which artificial intelligence (AI) agents can identify and locate specific types of object in an image or camera feed.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-detect-objects-images-custom-vision/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 973,
-        "average": 4.7461457
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/detect-objects-images-custom-vision-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

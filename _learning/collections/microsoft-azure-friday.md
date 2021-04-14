@@ -251,7 +251,6 @@ items:
   - videos/microsoft-azure-friday-container-native-developer-experiences-part-2-draft
   - videos/microsoft-azure-friday-container-native-developer-experiences-part-1-overview
   - videos/microsoft-azure-friday-azure-notebooks
-  - videos/microsoft-azure-friday-azure-backup
   - videos/microsoft-azure-friday-visually-build-pipelines-for-azure-data-factory-v2
   - videos/microsoft-azure-friday-remote-debug-azure-functions-written-in-java-using-vs-code
   - videos/microsoft-azure-friday-apache-spark-connector-for-azure-cosmos-db
@@ -266,7 +265,6 @@ items:
   - videos/microsoft-azure-friday-azure-analysis-services-visual-model-editor
   - videos/microsoft-azure-friday-azure-batch-rendering-service
   - videos/microsoft-azure-friday-whats-new-in-azure-cosmos-dbs-api-for-mongodb
-  - videos/microsoft-azure-friday-get-intelligent-insights-for-improving-azure-sql-database-performance
   - videos/microsoft-azure-friday-improve-azure-sql-database-performance-with-automatic-tuning
   - videos/microsoft-azure-friday-azure-container-registry-geo-replication
   - videos/microsoft-azure-friday-profiling-live-azure-web-apps-with-application-insights

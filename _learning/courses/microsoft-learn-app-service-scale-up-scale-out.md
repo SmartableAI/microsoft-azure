@@ -7,7 +7,7 @@ price: Free
 length: PT46M
 ratings:
   count: 3064
-  average: 4.5770235
+  average: 4.5763707
 heat: 55
 
 provider:
