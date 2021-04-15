@@ -208,20 +208,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
-    excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-    publishedDateTime: 2021-04-13T13:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "nDivision Launches Its Next Generation IT Operations Platform, Deployed in Kubernetes Containers in Microsoft Azure"
     excerpt: "DALLAS, TX /  / April 6, 2021 / nDivision Inc. (OTCQB:NDVN), a leader in providing cloud-based IT management services using proprietary intelligent automation to replace human labor, announced today the launch of its next generation IT Operations platform fully deployed in the Microsoft Azure Kubernetes Service."
     publishedDateTime: 2021-04-06T12:04:00Z
@@ -376,6 +362,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
+    excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
+    publishedDateTime: 2021-04-13T13:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
   - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
     excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
     publishedDateTime: 2021-04-13T15:39:00Z

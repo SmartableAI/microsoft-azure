@@ -3,26 +3,20 @@ category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
 publishedDateTime: 2021-04-13T13:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+originalUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
+webUrl: "https://www.businesswire.com/news/home/20210413005522/en/Alkira-Teams-Up-with-Microsoft-to-Transform-the-Cloud-Networking-Journey-to-Azure"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Azure
   - Networking
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -465,6 +459,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/H3Lsbis68GGrzK1HNXhHk1wuvzQbrEetdZvnKVkhvMgQWG7ExiN+3fp7c2eAVGruPSwlols0HFkgVKhWaLmF0GNkmAdEk7ItCarn+eSIIuEIyRZvwwmzBK4oOgfwMOARRj19bhG9/llD8awKbMqD/sYVrWTnoz1DebwyqU5IBBuAgzzeALWdu+Yx8dy/igbGBelUkNwJrQax0r6mjNI1XYcJ4vtmbpZZx8F3ThqM+Hk1wBmy5oUVDPnY/OFvXVsbhEqHjXRHpLKF5vohnvwH+yFJ9okpN5JrU6x7dSiDZg7XXbsdN/CRBvWVDE60wf6qbNasqEcp/b/uah8x0TUrTCxiuRH0lXEbZ8XJdIloL4=;1vE2I4Uoa8eISy3mHIannA=="
+secured: "Aabe4+ldPUb4TogQrSKObAMVMugIy7nVRrFSpLN2B0P5aMlbSyOXepHtcfUj6AVHFClce2mFFnj60vEnqw+9NX4PT8TfJGl2RpZVLgvr22C0xmSW2jyXIsFWFGtfW/X4Zldy0EHVAFfoIlkK7BMIeg/HHz7rky2wNVjOLXKX7poYmraoAK+K35GRVvMio4wD3gU9FhjVOC7RC2z76pU/S4iUfX083ckFesRkzz/71mBN4FxvDZ5LCWie7ajsOpq1ZJi98BpepcqAkF09Y130stvJGtkEgZYiyLRP/ohtpvsITw9G0THPOszz0EwPrQF+MX+xtRq+Xqk7Eg1FIbXsr3R8fC5fFiQpR9ansGR/s4rbv/WMPnSl3o0efy7kXhLUGjcCSS2gGCfOd1aaR4sIz1O69EpDHRj9OI+7Uq3c7H2339s8oLVYUBn3ZAeYBgkC1y7cwFpPhRXOM9IJ8/cdAmXxmJklZUWghGNWEOw5Ziurx3kHCvyodAKeYz3RqPTzWUHWTNECc1TrEyvAbDLe1A==;spbTylVG5/5vBXVKvmz6Cw=="
 ---
 
