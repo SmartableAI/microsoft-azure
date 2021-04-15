@@ -4,6 +4,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-send-crop-weather-alerts.md",
+      "title": "Help remote farmers protect their crops with text message weather alerts using Azure Functions",
+      "excerpt": "In this module, you'll create an application that allows farmers to use text messaging to set up temperature alerts. These alerts can help farmers know when to plant, when to water, or when to protect their crops.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-send-crop-weather-alerts/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/send-crop-weather-alerts/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 14,
+        "average": 4.214286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/advocates/send-crop-weather-alerts-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "IoT",
+        "Mobile",
+        "Web",
+        "Serverless",
+        "Compute"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-set-up-iot-edge-gateway.md",
       "title": "Set up an IoT Edge Gateway",
       "excerpt": "This module is theoretical and will walk you through how an IoT Edge device can be used as a gateway.",
@@ -180,8 +227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/",
       "length": "PT42M",
       "ratings": {
-        "count": 346,
-        "average": 4.7254333
+        "count": 347,
+        "average": 4.726225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -436,8 +483,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/train-package-module-iot-edge/",
       "length": "PT1H26M",
       "ratings": {
-        "count": 194,
-        "average": 4.4948454
+        "count": 195,
+        "average": 4.4923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,51 +517,6 @@
         "Azure",
         "IoT",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device.md",
-      "title": "Trigger an Azure Event Grid workflow from an IoT device",
-      "excerpt": "Trigger an Azure Event Grid workflow from an IoT device",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-trigger-azure-event-grid-workflow-iot-device/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/trigger-azure-event-grid-workflow-iot-device/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 24,
-        "average": 4.7916665
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/trigger-azure-event-grid-workflow-iot-device-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "IoT",
-        "Integration",
-        "Blockchain"
       ]
     },
     {
