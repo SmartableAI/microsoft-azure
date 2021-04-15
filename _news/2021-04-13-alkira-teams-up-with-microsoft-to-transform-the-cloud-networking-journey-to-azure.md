@@ -2,9 +2,9 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-publishedDateTime: 2021-04-13T13:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+publishedDateTime: 2021-04-13T08:00:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
 type: article
 quality: 49
 heat: -1
@@ -456,6 +456,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "vUx+5S5XZmTGtUq8rraslP05g5KWuA+10+RVSuDATbrqc4NNRAabboiKDM1g3r58gfGHTjwM1t8eFaUTMxY65P2JprlT3pCJZ0AcsjuDpiXzdk4O6UQ86C5URjm/J9YehLmRN644hhiZD7ZmYvLIhXD1dCpICffnnbpWakgE6p6rwD4U5ZXEcBF4I3s1KskZQta+oxKeQhSegmqVfJDk7Egk3jdwCqKVxY9pmIz3U0iLia5vjkqMIbvM/ZpA+x8MEK/Cpm9zo8EZZqsaZ6CtXmrtx4CqPeqV8hSyPlnlWr1syQrWc37ptD4uyw4WF5waKsNvHqLeuPVGxoPj1AbgZw3l3XLs4iGpQWedM2W/3Hw=;tSd9t8wPq9n7sUQUMvo4jA=="
+secured: "Pv0EF1G9GxXpZSqOdDlcIZYIsBW/gR7/LSCXfD0MV1gSiAzgs5qAA+gm4us9f11HQ7OuTxDaKZ3vmBRZ7r/Xedp7eu5tJlW90QVVv7rVkLR8qP4qpXoeB8lwBxRutyfDn4F/c9vxlHyUTE/n3CrOoznfL8E5L+UcPxN1IhDqUKDPCQiPny6qM1vjbjR3X3I6MLFspQTkwsR4Rd0iza5UJxLiICqsf1EkNw9/imNWHN6S5lomrRhyY6q+TTu0nPGFZCmpOx50IkIDO4P6CTZTXaD3+tjRzbV1DVKOAeUB4QOQkVzsY/Nza2n5uHT7btMtFWqWo8wwltrb+C9huqkEwOY4Zp26LXtfktMrgFu9exk=;dB+urDyMQiG9o8CjnsKJYw=="
 ---
 
