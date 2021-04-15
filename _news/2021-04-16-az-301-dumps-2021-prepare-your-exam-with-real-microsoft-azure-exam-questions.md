@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
-excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
-publishedDateTime: 2021-04-14T16:41:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
+excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
+publishedDateTime: 2021-04-15T18:39:00Z
+originalUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
+webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
 type: article
-quality: 97
-heat: 217
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mad in America
+  domain: madinamerica.com
 
 topics:
   - Azure
 
 images:
-  - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+    width: 300
+    height: 285
     isCached: true
 
 related:
+  - title: "Microsoft-AccuWeather partnership adds capabilities to Azure Maps"
+    excerpt: "The arrangement is intended to help Microsoft customers get the most accurate weather forecast data, the companies said. Here's a novel thought: Instead of worrying about what the weather may bring, know what's headed your enterprise's way with a data ..."
+    publishedDateTime: 2021-04-14T16:41:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 97
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/03/09/c5cac476-ba91-4ab0-aed3-82ab76b8911c/resize/1200x/3345cf54cecda1a5c3648de2557023da/istock-1130476096.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft returns to Java with Azure-focused OpenJDK release"
     excerpt: "It’s been a long time since Microsoft brewed its own Java. But now it’s back, with the Microsoft Build of OpenJDK, fit and finished for running in the Azure cloud."
     publishedDateTime: 2021-04-14T10:00:00Z
@@ -88,20 +98,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AZ-301 Dumps (2021) Prepare Your Exam with Real Microsoft Azure Exam Questions"
-    excerpt: "Recently developed IT companies are constantly looking for successful climbing IT talents like AZ-301 specialists. As a result of this, IT certifications, for example AZ-301 Microsoft Azure Architect Design exam,"
-    publishedDateTime: 2021-04-15T18:39:00Z
-    webUrl: "https://www.madinamerica.com/author/new-az-301-exam-dumps/"
-    type: article
-    provider:
-      name: Mad in America
-      domain: madinamerica.com
-    quality: 33
-    images:
-      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
-        width: 300
-        height: 285
-        isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
     publishedDateTime: 2021-04-14T17:20:00Z
@@ -112,6 +108,6 @@ related:
       domain: businesswire.com
     quality: 13
 
-secured: "1jDKo58WQ/no5eIRtG8nXWjOIQ26NEpYShxKw4r9k51PIAebqAmxunetzF0jSgElMfr2kffTjiStMYD9cFsuFpAdWuFjSKr4bvB7zrKgwDXdqTwbhAh4jUWWxb87CjoFFcm5C2CbR4whOyMwmK7x0GUewiZZknd5HYa91HQTXvEFoExqy31Wg2Ji7oZP5aNPT9m5AmiHHiIm25k5DZQZQsj0sM1w3oiBxNBOg63wM4JxMMt/kQE3ez3KDTwHM6dycKMeauMgn5/cGINM0LPmAi4T3TIaWtVQzvqTOkiSos65olv6CHIXDxFineYwBJ6F2r9yIxWkvVEL1QJ3pprxGFnqxpNBBLQR6Ve20DNOLYrTZAdFqzTRmW+R9RaRU7cqaCFbQ8VZOZCxOReksElQvcvwEmix3zj7zfgU4Qe29EiwBgB71gaKNSBLZ6W2MeiCMJKBGFFs+WSorFmCN2dEHS8hyOFQsSoIQmCqwMKNA43XJmqsrE19tORlkF2KKcCj0KylITZqZIU+bOODvmB7aA==;kSdPQhu2opGff7jEsNLEng=="
+secured: "ErI2NR/6GKgmRdPibr5J/wVFXEs2KuehDwrq1UjHhDmHya9g6os7xIWTt0EzLAiC6OwTN/OG4cxH+VmyJiZjk/NlHuxOKbTEgXrV8vEzbQtsNQaiysn+SSV4sPArgRMTRxLl0xB5ubhkoXV6R2+BjCDCz00zgB/oipo9n5g8Y0gWJJfMVllLjvBE1Fx07kw860Ifc6GRuTZWJJOnu8wuKHwR+afmfDwNxbP/X1hfJCEWJexcC5Vl3gALPWK/1PdT/3+BgajkryADzuN/YjK4N3N5gnfXNIis7iNiN5s0guZdojmcnpfk2yKL2spZtPySb6EfqZ49SjD46WWDBjnIxHY2QP+TQkRX4d7q12ia1tk=;RXO7QkI2RN1aM3F8j8UqQw=="
 ---
 
