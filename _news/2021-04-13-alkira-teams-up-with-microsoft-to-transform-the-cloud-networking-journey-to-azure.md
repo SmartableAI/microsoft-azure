@@ -2,9 +2,9 @@
 category: news
 title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
 excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
-publishedDateTime: 2021-04-13T08:00:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-293292bf9159433f9f79326aa6e90e98"
+publishedDateTime: 2021-04-13T13:06:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-software-industry-e2d2e42cb1db49d6a8fbe5dc6af15828"
 type: article
 quality: 49
 heat: -1
@@ -456,6 +456,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "Pv0EF1G9GxXpZSqOdDlcIZYIsBW/gR7/LSCXfD0MV1gSiAzgs5qAA+gm4us9f11HQ7OuTxDaKZ3vmBRZ7r/Xedp7eu5tJlW90QVVv7rVkLR8qP4qpXoeB8lwBxRutyfDn4F/c9vxlHyUTE/n3CrOoznfL8E5L+UcPxN1IhDqUKDPCQiPny6qM1vjbjR3X3I6MLFspQTkwsR4Rd0iza5UJxLiICqsf1EkNw9/imNWHN6S5lomrRhyY6q+TTu0nPGFZCmpOx50IkIDO4P6CTZTXaD3+tjRzbV1DVKOAeUB4QOQkVzsY/Nza2n5uHT7btMtFWqWo8wwltrb+C9huqkEwOY4Zp26LXtfktMrgFu9exk=;dB+urDyMQiG9o8CjnsKJYw=="
+secured: "/H3Lsbis68GGrzK1HNXhHk1wuvzQbrEetdZvnKVkhvMgQWG7ExiN+3fp7c2eAVGruPSwlols0HFkgVKhWaLmF0GNkmAdEk7ItCarn+eSIIuEIyRZvwwmzBK4oOgfwMOARRj19bhG9/llD8awKbMqD/sYVrWTnoz1DebwyqU5IBBuAgzzeALWdu+Yx8dy/igbGBelUkNwJrQax0r6mjNI1XYcJ4vtmbpZZx8F3ThqM+Hk1wBmy5oUVDPnY/OFvXVsbhEqHjXRHpLKF5vohnvwH+yFJ9okpN5JrU6x7dSiDZg7XXbsdN/CRBvWVDE60wf6qbNasqEcp/b/uah8x0TUrTCxiuRH0lXEbZ8XJdIloL4=;1vE2I4Uoa8eISy3mHIannA=="
 ---
 
