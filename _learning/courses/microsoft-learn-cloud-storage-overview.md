@@ -8,7 +8,7 @@ length: PT2H43M
 ratings:
   count: 61
   average: 4.852459
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Storage
 
-secured: "PoFFeXNSn4rv+C5Q20nQC8ZmNT1yFjZJDdEdiTWiw8mIyCoXcCflhmKE6D7HiQ75O7d0mazeGiorXQzBIqfvuLqeR7hNQlLyg2Zv2qaiTIdJZeBGD2z87fRKxgtVTv6B2vCaGdRuVXdyzW3AABRMFQw482XaMTAiayFfQZl8M0QGH/3BeQYhXC90sVxNEvykr80tHcdZ2y7j8jFaBD+Pk5p7Uhj941D2P3ClaIQdLG2VKA+3O/4NNpeOSfIm77Up0IYvbCiUes9H7oPPRIkNo94ex8Ail3kxDUzcToPqyRRdQBJxh/NkVdPYDUvpcUUP2C8vV62i4Zz7R6aNvkG3hJ/K5C0GY7WRhiY559F5G3bHwhkMz7YmNaODgZwof5yvzjW+ptDIpkMVNHPMc9n6nk0edqgFWw1ppR/pQBqxK7M=;UiE3oLwzVC0RvbbT1kCIZQ=="
+secured: "/EerWx6JUFxmn1FR6eGQisFF8DTMp0VJG9WMApltrUbhXcxQx1uiYundlfnA+oVlCcXrkT9v98/rUHaM3D+/JFTu7uMgGW+0/A92T2DxHK1vPzf7vmxzB++L1xR1AJjyvmzeimYaeOAFL4AT7Dyd8HOZyzyS7L2CLCAQLNAoyWL/WUjflmJlpRTYi+/d3n0p1vFtSNB4KbW4V5Gbkl6YHU6s/YuL7zyC4v9Vnfs+lbWrPFfc+4mwkZ0hhr702Pr4sV5RsE66oZxU0Q6bTayhs1z4n2A/d5OZLv9cAzDltm3W0h+luFOLYseIOM8S3oFDfCc/QACR4Xw3fdFbIqG7MwSP+K6B0YpCVil8mr2OPG3FThuAxa+sxSwcFuqrLKpDnowkLIp4BQ5tzvFTPQEMiy2q4r6wLzPbQJcPLnKR01k=;xJbt6fJcBXSOR7Tte2VIlw=="
 ---
 

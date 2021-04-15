@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H34M
 ratings:
-  count: 8156
-  average: 4.6538744
-heat: 62
+  count: 8160
+  average: 4.6534314
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -26,6 +26,6 @@ topics:
   - Compute
   - Networking
 
-secured: "X/4atT2HXrqHDdq6kf2jwvlFgLysonMXlqwDArYzsyLG1b9txCVoySuSsxgNgyQ3CPCXnxOUtqtIHAb/DmyCUGKdbn8UcdvsV+bZYCzEoJSOh2xLFEyhWhEUuRyXa5rHSXP0+9O/7jMP+wiNAGU1YJpMaD2uGtDpYkA2MceUdn8hymEiq/GOnnCgd2WwL5+wj2Knr7/P0Jp46vwkJkDeb4oviglNT8VZmZxxKdwuBFuXNEdtdxwGpiggo7t2Qckqtk+pAI8PZZO4nPHgpLaCamQbEwhON/+0WzRJpg1LhWevTDGa+vmSCgfRFDGab17a4AHQqjgoYkfuIdC7k82/uz1SsxAe8uIKAiNeGzgQ8xTbZ+GypmYHICN+HyG5onmi3w5f8GfF5zbwvC6MI40tQ2LOa9h2MAQauLMEraj/ejs=;3o4MrSfyW6XgG5CR8BmqBw=="
+secured: "6TSnUhv5bMuGmR+3fW74ZNjgMlcg7VLec9UNekf+a77zUJXBKuAp5i/SLZ91SvwoZlkEifMheisnE7KJirTfpmOydqoEdTikukUT1BzkKHtRlfhmgIN4ptqpSM6zfdo8/8mMdgDJggIf7NnIVD1tGkf++3AdJ3oK+mLOlu8ekOesVriJmgoPmKXbqH3vzWNQ3N8KjUphIUDFW4VsdXOtbx2lZTyUETYJrk2uXaCki3lZtei4c3M11Z/xLDVf5p38CS9HBZKZPakeQuk4KMt6eu8CNHv56zDouSwqXOoqAVA3/9Mr2SQYgtvKD0VMNn9Oqo3Gdbt5zF6dl2yIXTEwU++KgR9PKGJESOhbxzfIVbpwCkF5v7fVWrcrai0KspvH+MtpKQELwNbfrD8IZa9bRqX8aBW0d36ntvpl/t2ZwH0=;R7wZ7hettfwym/vZw9TIkg=="
 ---
 
