@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-
 webUrl: "https://azure.microsoft.com/en-us/updates/new-azure-monitor-agent-available-on-latest-linux-distros-and-new-regions/"
 type: article
 quality: 83
-heat: 104
+heat: 103
 published: true
 
 provider:
