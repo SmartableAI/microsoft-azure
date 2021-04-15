@@ -280,6 +280,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 65
+  - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
+    excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
+    publishedDateTime: 2021-04-15T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-event-source-start-options/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z

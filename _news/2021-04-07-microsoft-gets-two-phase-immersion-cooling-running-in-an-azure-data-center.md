@@ -440,6 +440,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 14
+  - title: "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+    publishedDateTime: 2021-04-08T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 12
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
     excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control ..."
     publishedDateTime: 2021-04-08T13:49:00Z

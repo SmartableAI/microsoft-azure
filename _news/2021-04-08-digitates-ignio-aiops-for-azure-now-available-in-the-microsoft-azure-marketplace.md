@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
-publishedDateTime: 2021-04-13T11:57:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
+title: "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace"
+excerpt: "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
+publishedDateTime: 2021-04-08T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
+webUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
 type: article
-quality: 25
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -404,6 +398,20 @@ related:
         width: 2000
         height: 1047
         isCached: true
+  - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+    excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
+    publishedDateTime: 2021-04-13T11:57:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
     publishedDateTime: 2021-04-06T17:44:00Z
@@ -436,15 +444,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 14
-  - title: "Digitates ignio AIOps For Azure Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Digitate, the leading autonomous enterprise software provider, today announced the availability of ignio™ AIOps for Azure in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure."
-    publishedDateTime: 2021-04-08T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/digitates-ignio-aiops-for-azure-now-available-in-the-microsoft-azure-marketplace/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 12
   - title: "TBWA Worldwide Continues to Innovate by Selecting DBM Cloud Systems to Accelerate Data Replication to Amazon AWS and Microsoft Azure Clouds"
     excerpt: "TBWA is using AIRE to automate the complex and time-consuming process of migrating and replicating data from on-premise object storage to AWS and Azure. Many customers want to maintain control ..."
     publishedDateTime: 2021-04-08T13:49:00Z
@@ -464,6 +463,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "jmfBO/hauV2LP7Iji7PDF/UdoSCysmBpD/A/iAZein68XG5JM+avRCeMQ5XGsAOZMOs90caWsDjP6M4ZFAmeFi1GVrS/5EFKXZX/rZWGjbwdTbguVJ14lVVCa24mQfWF2UCadCAw1u4awv+/sRFa9QUC+1RVTrLmkBUzNiQGrv3lD7wPivAeEa8PrOZAjULd6K65ZBenVL02zGr2unH6RyovLOnlFU9ryMp0vr7HBiAizaa59iPjclWWJMHzLkTEMjAVAh8VlvMJbBn198XlnbLWzddCwGkiO+wioQvdKSJe4wQvWKsqTV0TEOibI9UcqZ9T+0M6y6R3+2YzxeTQ3XEru3lDL6C2PEwesTrQq10=;lxtmzMz01TWp+8ZY2ock1w=="
+secured: "o7ZELnp2mb7N0qLf5jqhUE3Rd/Cj9iN/0/m/FF/Qnf6tDxPTCJr03nzuhPB/ju1i0XipHDMYRPKf90siCDU/MDC0r9/1B9fM9j+Wg/7eHRBJ1hndtoZLATVJtbhQ+HXpO3L6VFa/Sf1NDZRrOoz550Xe9jM1T/54GM0NdGTa9NlNmKiJP5nTb7Odlf2QKYMitc+yvoLlV6MbWeE93QI0zRPOTqs4J2RtIcTBjns1ZeSyCjoDSFsP7SLdhjH6mDlWir6pb7z6xx3oJD9uIpLyf/IPJ8kf3cOEy/zZi40NddiaWrzcmX+LHBRoaQOC/waMNH1VU3lHXw2GUKV6+6YNEl1hxwav6CPlOfAEYmjHICk=;B1BVNwJrDI4lblbS8AN2KA=="
 ---
 

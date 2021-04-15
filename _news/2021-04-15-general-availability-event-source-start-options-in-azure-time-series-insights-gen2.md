@@ -1,12 +1,12 @@
 ---
 category: news
-title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
-excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
-publishedDateTime: 2021-04-01T15:56:14Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
-webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+title: "General availability: Event source start options in Azure Time Series Insights Gen2"
+excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
+publishedDateTime: 2021-04-15T16:00:17Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/tsi-event-source-start-options/"
+webUrl: "https://azure.microsoft.com/en-us/updates/tsi-event-source-start-options/"
 type: article
-quality: 76
+quality: 61
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Azure
-  - Management tools
 
 related:
   - title: "General availability: Networking for Key Vault references on Windows in App Service and Azure Functions"
@@ -154,6 +153,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 80
+  - title: "General availability: Azure Backup supports backup and restore of Azure Dedicated Host "
+    excerpt: "To protect your valuable resources, Azure Backup now supports backup & restore of Azure Virtual Machines with dedicated host. \n\n\n"
+    publishedDateTime: 2021-04-01T15:56:14Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-dedicated-host-backup/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "General availability: New Simplified NSX networking experience for Azure VMware Solution"
     excerpt: "Azure VMware Solution helps simplify migration to the cloud by running VMware environments natively on Azure. With the new simplified NSX networking experience, it is now easier for VMware administrators to execute networking operations for Azure VMware Solution from the Azure portal. "
     publishedDateTime: 2021-03-04T20:09:25Z
@@ -280,15 +288,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
-  - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
-    excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
-    publishedDateTime: 2021-04-15T16:00:17Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-event-source-start-options/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
   - title: "General availability: Azure Media Services – HEVC encoding support in Standard Encoder "
     excerpt: "You can now use High Efficiency Video Coding (HEVC) or H.265 in the Standard Encoder. This new feature is available for Content Aware encoding, Adaptive Bitrate encoding, and creating your own custom transforms. Using HEVC along with supported decoding devices will provide you with the ability to deliver"
     publishedDateTime: 2021-03-12T20:19:26Z
@@ -326,6 +325,6 @@ related:
       domain: microsoft.com
     quality: 52
 
-secured: "PF9UWeCd+e9IccUPAyoTDXJG8Jwh8kNaMIRugXb0vfaT3tkuwvpxFbosj329C/b1V9rWeQb3iWVpttnhCwK7ZexmRNkcrc0AJUkm1EZJ2UyHFeLADQ3RiypZLHKHCM6dIRifHqVuy2fjDKe9ldNa5nGsJboT00c5PE3nqGuzJ5cjhNh9+bBqx0TxZFnuPfmvC5Ez2os0ID7iNvmYMMv6v9TkRT5kGIG1jJ1mCD5ji+Kfo5gqA71AS6GrZ68QyEaJkNNUJ46v4VbNx8ZwxvwzIHQSdczszP8JOqqyp9gGh4GXGrbbnNr+Z6eSVaMhfhUgrwHCWFvyQOyB+DiceRp98T8uCSxZwY0ZouyxD9hEM+4=;4MpaPKS3iN9XCzoKkHETeg=="
+secured: "Bkk/lRtaOFPFZftRoTK4s+DgCPuwpxKvkXmrpA0M9owhdfxB+Lt5bL10dJnp+3rXTkbtuDYJ/fESnDXJn5XbXJHza8tehfSzzKo9zTGmPTwtvqou/KxeS2fS/XKXIJ+n93og12RtBz3lqna5oJ0xARVXoNMdQMS3FLApBoIt3i0ggHRXyom5r2XOH8cRC+aW1hSUjh52QSLhwyu3geJzYiOKf2fRHmK4R+evLoGt/syvUySoiXFv/ivxtOWRF6APGaALoImT1Zbd13kfCkXwMl4IrI574auohrN7BKpFtFZB9WvNe7Bvq3xCt8KpQ05iIAY3tCUasFlQh9qy9675WF42lpG1swsI2L8uw7hKpeQ=;/NeNwS4/FDdCXTaB3PE8uw=="
 ---
 

@@ -288,6 +288,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 64
+  - title: "General availability: Event source start options in Azure Time Series Insights Gen2"
+    excerpt: "The new event source start options feature in Azure Time Series Insights Gen2 gives you flexibility when configuring an event source."
+    publishedDateTime: 2021-04-15T16:00:17Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/tsi-event-source-start-options/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 61
   - title: "General availability: Azure Event Grid now provides support for delivery headers and additional advanced filters among other updates"
     excerpt: "Azure Event Grid now supports additional advanced filters, setting customer headers on requests delivering events, configuring TTL on messages delivered to Azure Storage Queues, and setting system-assigned managed identities on regional System Topics."
     publishedDateTime: 2021-03-29T23:33:55Z
