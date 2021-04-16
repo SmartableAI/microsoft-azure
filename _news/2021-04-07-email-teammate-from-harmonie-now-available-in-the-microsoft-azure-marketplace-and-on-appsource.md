@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
-excerpt: "MODIIN, Israel, April 6, 2021 /PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides ..."
+excerpt: "PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides applications and services for use on Azure,"
 publishedDateTime: 2021-04-06T17:44:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf/gallery/d02b365ffd01a2bc58985d29fab912ae"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-communication-technology-email-computing-and-information-technology-internet-technology-9e69166158c6f4bbaf6db38549d4b0bf/gallery/d02b365ffd01a2bc58985d29fab912ae"
 type: article
 quality: 24
 heat: -1
@@ -459,6 +459,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "KjhC4Q8gIakMpDeMa1olAbZyUng2RzN82+YPxg6rUD3bYtO8dlGiEgJMeSIIm8G3riNn/RlHJhRtBJAlmT71JaNtKEfOwaFwigdmfabs/IncI6Zi2RrBq5/6hWqChbaznydnSGN/dcZ2lIvMsicyCsCf28ZZcpirYoXWfdD3Drr14Owpu8kbZfM0kZixhXV8xlnQy4bQrcAJJww5DKBcUHPkVBXTfE4oKUPUx8XlplAM0U8GsoaPePBzF/Bd8v7b3LTYPPPCZ4CfCQrcBiRzJGOtyObNeKZ5HRh31ilRpUicgsGdco6PN5cs5kNo30/uH1GJkiE6bLsSpd7Jy0kML/nIqS5JbbFrn4tWCrGNn9U=;ctSBd1EbyCmzu1FnATUSaQ=="
+secured: "om0cE+etdFh1KYGdZEYfADkhl9+qJ3i5ZoyXAD0CUn97sqAfnkBBfNnlm1v85whN0xCitbLyoW60Zu33v2/dPSaWmSBHvEde4yiUHF3ClxE9Qc3s70WbU50H2iZS6fyOmSh71+io1JxUCkF5c1Bz8MZx5cGHZUTXUDO1qehwfA3DVtHgtR8W8psWD7FdVghrKlwXK3IaaI5CH3HY4jsh6a86QydHgOIVdrS4FSXr674xs2/MDilt+hDP/T1vF6lD5aDOLQ+clQJd93kAms5dktOQgK8PDRIdWbKeJMbDtMfbWVBeO60qc7zzrJZF2sF5lvF7MNq+k3CyHfsgIyzIATtzAZdCjV+dPjOcOAOx6Xg=;GHGrmf5mNjikTI1L9iEGGg=="
 ---
 
