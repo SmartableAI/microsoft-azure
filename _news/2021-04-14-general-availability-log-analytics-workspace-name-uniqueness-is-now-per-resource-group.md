@@ -68,6 +68,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
+    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
+    publishedDateTime: 2021-04-15T22:00:21Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 65
 
 secured: "XxNTEjdhEUGvxrgVo1UEA3Mlyw2vGOdhjLC7Ath3rxqamEuIDx9wOl8cXsLepys3dt5Zi4kgWhpde98o/UbQzSRNSXU3xlK2QLb7hp4hdgRQ5Tljb5+tadtBX1UBUVPvYeCI/D56GBASpvUCQrWnOelQoAUtcSpZ9tzJqBuJG1BZMiT59nHmU2+VfLTCgkVKnFmk2J3lgXYOm1qL6CR+ZPf/PuKhbx0r6Ix7Gzf7l/BSScBLX9vdcq+29N7ow4I8tpm165FFyLnr2GBm3vYZg41Q5b+xTUFpF6Hzs+C4VfzYNvQnAL5vSvyN5vgH7RV5sv6uuAMAsIrB8E+fzp1GrDKfjhMHGYBOynxAGLGjRb8=;WaqDOOyogz+b9D8wP3InVw=="
 ---

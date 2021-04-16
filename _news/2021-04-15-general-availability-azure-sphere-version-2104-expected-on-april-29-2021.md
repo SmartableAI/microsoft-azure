@@ -1,14 +1,14 @@
 ---
 category: news
-title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
-excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
-publishedDateTime: 2021-04-12T16:00:40Z
-originalUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
-webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
+excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
+publishedDateTime: 2021-04-15T22:00:21Z
+originalUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
+webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
 type: article
-quality: 95
-heat: 215
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -20,9 +20,17 @@ provider:
 
 topics:
   - Azure
-  - Storage
 
 related:
+  - title: "General availability: Azure Blob storage supports objects up to 200 TB in size"
+    excerpt: "When moving from on premises, you no longer need to split your large files into separate parts to store and process in the cloud. Supporting a single object size up to 200TB removes one complexity when using Azure Storage."
+    publishedDateTime: 2021-04-12T16:00:40Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-and-adls-gen2-storage-supports-objects-up-to-200-tb-in-size/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 95
   - title: "Azure API Management support for Availability Zones now generally available"
     excerpt: "Improve the resiliency of your API Management services with Availability Zones."
     publishedDateTime: 2021-04-14T16:00:19Z
@@ -59,15 +67,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "General availability: Azure Sphere version 21.04 expected on April 29, 2021"
-    excerpt: "Participate in the retail evaluation now to ensure full compatibility.  The OS evaluation period provides 14 days for backward compatibility testing."
-    publishedDateTime: 2021-04-15T22:00:21Z
-    webUrl: "https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2104-is-now-available-for-evaluation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 65
   - title: "General availability: Log analytics workspace name uniqueness is now per resource group"
     excerpt: "You can now use the same workspace name in deployments across all your environment without a conflict. This is useful in template deployments when the same name can be used for every deployment for consistency."
     publishedDateTime: 2021-04-14T16:02:07Z
@@ -78,6 +77,6 @@ related:
       domain: microsoft.com
     quality: 61
 
-secured: "CIS/tmvBeHZPKnXX/ogj8raMthzzYJeSbz5BDZh+nw5TH9wDSkmkSsq6rnlH1qtl69Nhst0zCMzklM0rLUnV2onG47/1Mnd5m231T62RVKzSrQwwTBiFW20IMELAZvZr4WI7Mp8HmfI2hlSiwlFBRfMLy+Ntr89UQzrmJnnuYQYmGrM0iPz0J/qr4LSa71ZhfVA1ZUhP2TBcZ8ugZi4aUhl2LqtTF/LaRsgG/ejrQVE4wGb/tW8MercP9OYohBh2zDH98ZB42ubs9Y04NaccMl59pI4hVyzkOp9iVwa75lVqFwuJ6oPjkpIuq/Y1mR893AAn3gN/GoE4zo7KyiWPha33OCmF6gs3Ec9nlW6ebok=;5V2RzItbnS49UoW1y0IVwA=="
+secured: "GEzQRLaEtLfrGQmrGK2bvEo/pW+Otji6jOBgp4BXCtAqhMu8kY3f+Zhy+TBAicwbJTbbbVAMvPKfbrdL9zWfD6TQpFhosTo5TS4XQ0/ae14XolgmNLBuneW5Ec9NFwdcJby8zMdM0Ikh2eJ0egtN50WfGXHwvnyIKSmdVtcXwr6qETy4Q1bnBt1oah9+w2/58IJDwO/LiAEh3PyRjPWlf/TJowL30MoDLeAQrPIqmkyrEKpg04aDO0hrqnv+wtkzXc/i8knX/IeXNVujzyi237ao5ujlqHKeYpUMC9NnYbBwCRPCpLupCD43xcOtbjLPRz9PwLdkDyAKUFCcd2JmNCcyq6dYLD15St7h3iHeXOg=;UYp6O59KK6YsVTIwoDAb/w=="
 ---
 
