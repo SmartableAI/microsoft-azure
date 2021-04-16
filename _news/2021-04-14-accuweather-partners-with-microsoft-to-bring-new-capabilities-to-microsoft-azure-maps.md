@@ -1,27 +1,25 @@
 ---
 category: news
 title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-publishedDateTime: 2021-04-13T18:42:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
+excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather's proven superiority in weather forecast accuracy to benefit its enterprise customers."
+publishedDateTime: 2021-04-13T20:41:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
+webUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
 type: article
-quality: 30
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -101,6 +99,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+    excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
+    publishedDateTime: 2021-04-13T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
@@ -385,20 +397,6 @@ related:
         width: 2000
         height: 1047
         isCached: true
-  - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-    excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
-    publishedDateTime: 2021-04-13T11:57:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides applications and services for use on Azure,"
     publishedDateTime: 2021-04-06T17:44:00Z
@@ -459,6 +457,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "L9BrnyoU60yQIFb21ZXBeokIO3X7o2hT2xRnq/pOo9wF7eKiD1jcm96upWUftHIzQVXFGngmc/WKmLc1JLDzEvi3F+RnYcv5/NGI3VcPJjqs1HeT94HLsPe6TasMZ+cq8Kf0ieuCWNJSY59McNoTqK7yxZpt6vkd5D30Tu47gXGGgLIDUsmN13anVgjUCMfknoZIWCMMaCNL9NYDn0IIVQlEh9X/GBCVEVyT5lpUJF0Pc+xx8yc5QUdp9Ckrxiezr6qwP7Hw1TjQQXIHLPcljVfOLtwwZJ+wnVnk27PR2HNboHTno6pP/tZ4yEUpyV0B0MobN6yV86kTZTCV9pViFxm+0jYzSDfEbkIeoXMn4/Q=;FaE6e5oBtcy61VXJV2GfAA=="
+secured: "pARIArCezdWw0lSuBhVFH6daJHovbtdmwmdT1AaqlpFJhAd0iN0LTC+u+QcE/9mTACwcd4pOkMNakqhuSUslnbB8C9j/G4l9+qvzxnp0uWT2Fc2eaqPdesvG4GjO3oaRg/Pajkd2nQcfPJoZ+CLL2fQMR981Pgzyqvj5DKxQLPTKCU+P0Ax714G/ks7Vo+d8Y0VUlBpG3fh0rs2+xC0YjKEJbqVLONs4/B24d8beac2s5W0NJvxmFZKDMXPQQJh1cz8zCg4iuRgsy9olKuQ2QJ5ZJ69VRA1Cy5UbDBHXZ0bibvKHLzgC1ljeWC7kTzf8QxqHLT0GVcjQFM/kmV0sdc/6NOSCKYbqFowQaKpMElY=;aQ1n3Zk8yB0m3/s/XGWbaQ=="
 ---
 

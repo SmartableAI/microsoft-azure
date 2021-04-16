@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+    excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
+    publishedDateTime: 2021-04-13T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
     publishedDateTime: 2021-03-30T14:00:00Z
@@ -193,6 +207,15 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
+    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather's proven superiority in weather forecast accuracy to benefit its enterprise customers."
+    publishedDateTime: 2021-04-13T20:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/accuweather-partners-with-microsoft-to-bring-new-capabilities-to-microsoft-azure-maps-1030300269"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "Microsoft experiences widespread CRASH affecting multiple products on Azure cloud service"
     excerpt: "MICROSOFT experienced a widespread crash on Thursday evening that affected multiple products on its Azure cloud service. The cloud service acknowledged that there was an issue affecting Azure Portal and Azure services across the US in a tweet around 5.30 ..."
     publishedDateTime: 2021-04-01T22:08:00Z
@@ -349,20 +372,6 @@ related:
         width: 2696
         height: 1414
         isCached: true
-  - title: "AccuWeather Partners with Microsoft to Bring New Capabilities to Microsoft Azure Maps"
-    excerpt: "AccuWeather today announced the integration of its weather data on Microsoft Azure Maps, making it Azure Maps exclusive weather provider. The partnership signifies a recognition by Microsoft of AccuWeather’s proven superiority in weather forecast accuracy to benefit its enterprise customers."
-    publishedDateTime: 2021-04-13T18:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-north-america-earth-science-a34de8f8742023246f0f5536770b77b9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Alkira Teams Up with Microsoft to Transform the Cloud Networking Journey to Azure"
     excerpt: "a select group of emerging businesses hand-picked by Microsoft for the benefits they offer to Microsoft Azure customers in their journey to the cloud. The select start-ups receive growth partnership and ecosystem support from Microsoft including access to ..."
     publishedDateTime: 2021-04-13T13:06:00Z
@@ -385,20 +394,6 @@ related:
       - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
         width: 2000
         height: 1047
-        isCached: true
-  - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-    excerpt: "“Xacta is well known for its ability to streamline the cyber risk management process,” said Zach Kramer, partner engineering manager, Azure Global, Microsoft. “We’re pleased to expand our Xacta deployment and work together with Telos to automate ..."
-    publishedDateTime: 2021-04-13T11:57:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides applications and services for use on Azure,"
