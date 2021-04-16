@@ -31,6 +31,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Open source API Portal now generally available"
+    excerpt: "API Portal is a no-code option to create, manage, and publish API documentation - for free."
+    publishedDateTime: 2021-04-16T16:00:31Z
+    webUrl: "https://azure.microsoft.com/en-us/updates/apiportal/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
 
 secured: "HyoLjQei+PhLZKxts9bf26fbXqjN0EFS6bxcBazHJ/fetpmJluNdhQimflKrZJRjX+ewMXV/o7KNvmFw8p3h/cOJAFrFJXGXKRSzBYbLJUHXaTmTyN2ssqUVLlDULpz5bwl8SxPuknqt6KvtY4ndZk/qdaaXIs6ptUMFmMiIwgcQu00kkdoxNGdLsUFXaCqi/Il12eG9GsyHTNsboQvFLK8n0yR5viKPXevNx7pMMnVkfyOmpLIlzSvkjMh/huojoeRdoPXCCRV0bNxwpopNun9pPYueIwEBNklY1LlJmQJ51PPqhcLl1rXInqrsmdnEvvW+NEYG25vzeN9mnM4Q6xmZ7LQzv6kXQrG5W5SS1Ks=;DEI7U9KrfxRg9S/fyXIHAw=="
 ---
