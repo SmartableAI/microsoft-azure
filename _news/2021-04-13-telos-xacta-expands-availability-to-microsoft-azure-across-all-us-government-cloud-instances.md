@@ -106,6 +106,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "First Student Receives Microsoft Azure Certification from INTERalliance, Microsoft Partnership"
+    excerpt: "The INTERalliance of Greater Cincinnati is thrilled to announce that the first high school student from INTERalliance and Microsoft's partnership in Azure fundamentals has passed the Azure Certification exam and received his professional certificate along with several local teachers."
+    publishedDateTime: 2021-04-12T14:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/first-student-receives-microsoft-azure-certification-from-interalliance-microsoft-partnership-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
     publishedDateTime: 2021-03-30T14:00:00Z

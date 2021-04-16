@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
-excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
-publishedDateTime: 2021-04-06T20:16:00Z
-originalUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
-webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
+title: "First Student Receives Microsoft Azure Certification from INTERalliance, Microsoft Partnership"
+excerpt: "The INTERalliance of Greater Cincinnati is thrilled to announce that the first high school student from INTERalliance and Microsoft's partnership in Azure fundamentals has passed the Azure Certification exam and received his professional certificate along with several local teachers."
+publishedDateTime: 2021-04-12T14:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/first-student-receives-microsoft-azure-certification-from-interalliance-microsoft-partnership-2021-04-12"
+webUrl: "https://www.marketwatch.com/press-release/first-student-receives-microsoft-azure-certification-from-interalliance-microsoft-partnership-2021-04-12"
 type: article
-quality: 37
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Gulf Times
-  domain: gulf-times.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Azure
 
 images:
-  - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
-    width: 620
-    height: 355
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -101,20 +105,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F04%2Fdanial-igdery-FCHlYvR5gJI-unsplash-1.jpg&signature=2f6696d53202861d806bf58d232b91b4"
         width: 1280
         height: 640
-        isCached: true
-  - title: "First Student Receives Microsoft Azure Certification from INTERalliance, Microsoft Partnership"
-    excerpt: "The INTERalliance of Greater Cincinnati is thrilled to announce that the first high school student from INTERalliance and Microsoft's partnership in Azure fundamentals has passed the Azure Certification exam and received his professional certificate along with several local teachers."
-    publishedDateTime: 2021-04-12T14:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/first-student-receives-microsoft-azure-certification-from-interalliance-microsoft-partnership-2021-04-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
     excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
@@ -329,6 +319,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Three centres for Microsoft's Azure Cloud facility in Doha complete"
+    excerpt: "He said this during a ceremony organised virtually by the Ministry of Transport and Communications (MoTC), in partnership with Microsoft, to celebrate the first anniversary of cloud transformation milestones. This comes under the umbrella of the strategic ..."
+    publishedDateTime: 2021-04-06T20:16:00Z
+    webUrl: "https://www.gulf-times.com/story/688299/Three-centres-for-Microsoft-s-Azure-Cloud-facility"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/420216231511173938914.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Microsoft reveals first satellite ground station at Azure data center"
     excerpt: "Microsoft has installed its first satellite ground station infrastructure at an Azure data center. The company this week revealed images of a ground station being deployed at its Quincy data center in Washington."
     publishedDateTime: 2021-04-09T16:31:00Z
@@ -468,6 +472,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "31OUA/RyOvITLxWYGwMWwoHTBgaqjk0WTe7411PNT1HL1pS9Ew5Cm1WqwfBWXjpowWApgUnyDguQmyKdFPcgdIoOLJ5OGiyMiaI7poDWYbvBIKF4QcTNRHaI8jO7DyyGaJu+XCfIxCv+RbMEGu7uySNeoc1n8XCCmHttaQmkRuv7taxOiC4YdFSrJ2jfw3LLepR8CZ3wuP8EZ+qUagvxRLmgSg3T4DvB1MsQzPCysSgp9A8Vp286TRmFC+z5BRwQvE4WqoPyV9fQ5PpfseOyEggxrZma7dpzH4tuEgS91bMP+oF1luK4FWFMwatjXrQfugwilUmRDCyeUoF7h8NGOCqUk9dhUM9m7cpeD1ycH3bgtws6wqvbkhBfIMPoU/IHCGGO7ZlVQnoJIJkHpWAD6wtdT+hf2/jawM/wrRKHJXyvG/csZ5p+q/9JtOKnrSowNWB1hOmpEKAqOLuxgKx9nBT4PmsyAJOPGOjhZdZRlQDt7xyakjGD9SRe/oDJmUhwqdKye21wfSHO7sRlQGjUVw==;HNwDoSVBzYQCOMxlz3mKiQ=="
+secured: "NEg5OMutY/z9VkJDvpKQg5bLRuLf452snvwcDABALBSD0a9PUbLEVWxpuqhUsXePcUfxsW3crUv+mN7cBdtsGezZbo3O8g6/MSSv4kOfbKaEBzzXTkBzi+mWKMLA9YZFgq6tFOqHwlhZ5ZNVtvf3uvUSY0ZyNcv0zqClQ1yTeYx5dUvUi/VHoL7bL1pofpeC4Mjqfb6nkjjgyssCUGrippHFEtG7CoaZu8TJ2B/uWoSR4nxZgP804bQeV6g/S9hCJ4EQJMhVoeUsgc79YkxR45DqdGuEDGCSwK4TcUM0zG8lKiLckYUOz/sJhgaGEWJjLQm0dWNecfvH+vJmuxKhPv5mxFSPA5iXiIdbb1UkPpY=;bjRhDO9XQ2dfCX6ft0oBAQ=="
 ---
 

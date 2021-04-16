@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "First Student Receives Microsoft Azure Certification from INTERalliance, Microsoft Partnership"
+    excerpt: "The INTERalliance of Greater Cincinnati is thrilled to announce that the first high school student from INTERalliance and Microsoft's partnership in Azure fundamentals has passed the Azure Certification exam and received his professional certificate along with several local teachers."
+    publishedDateTime: 2021-04-12T14:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/first-student-receives-microsoft-azure-certification-from-interalliance-microsoft-partnership-2021-04-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
     excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
     publishedDateTime: 2021-04-13T11:55:00Z
