@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
-excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+excerpt: "In light of this rapid acceleration to the cloud, Informatica is announcing in collaboration with Microsoft a new Informatica Cloud Data Integration Free Service to help customers get started quickly and easily with IDMC on Azure. To lower the barrier and ..."
 publishedDateTime: 2021-04-13T15:39:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
-webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on/article_2402ea11-cd80-5200-9436-74647c93a6e1.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on/article_2402ea11-cd80-5200-9436-74647c93a6e1.html"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Azure
   - Integration
 
 images:
-  - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1047
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/a9/3a928c5e-5e65-547d-97c7-49836ac0f0f8/6075bcbf24559.image.jpg?resize=1200%2C413"
+    width: 1200
+    height: 413
     isCached: true
 
 related:
@@ -469,6 +469,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "dMfm8ng5C9gpiQACyrmJZGCg9z3x0r5lNcgB+RbYwHwZ8+nGzrL6sfSY5P4n9Na0kPaRZpFAJx4bJxlf6fNBuw3/+3QWJtMSnAjqeAOItVsTrX7ppvz8to/TrYqOJOz2+4CF8Vq6W/rYpfouy4cvm1rXFKHfLpcQ5Nk3BSESVRnR8lCIgZrRcUHjQCexYlW9YjSF4HhoUnwItjHktxI3GNyZIHNK6PmDY7fGIzX3is1pZoylInAru5tj9oKN19pItgHM8fJoh/FCoUZ0AbVMwmCUapbN1Y72jCcYyjl7yjb7PY/OfYJ7XpS7i5zKqNIgcd0mTivMN8z7+UBJrEROlUJhwYCnNB6NKenK2KEuTNH7A4PTT1QYZoJoKgaXi8GykOpirJbdUhUPlEuc2q0rE2BIX5sweYhqjjhWkX+6/kFLnqS3WuScaSgxTtnDl/AvQkSbiz7h3DOJ1g+nA5+CNXBR6g5QvYQ2XCUhADUtHc1WUAx22FfTcvCAoIsnvYvAcXvOYWHXz2istCEJXitOsA==;mpEi0B6vN58tYVjOAncOTA=="
+secured: "nIEHzpYv1fGyeSUzdh4sC/B5H4bU7qHAULo+Wk0ivYTdBA210H5BPp/n6ODlZLCy2GlP6QGJ9wxG59WMlxxfQrDKPbnqJZHsv63vGCumQx0hfHJjjX5SKETvxdYAih76LVAVIKf+AbcvdV3JYmiYUJpaQ3s1KpTR8w3gMlZ+x18WHQHitH/XavhGYCIK4wA1bUEGt/MZ/vzIpK6Hk+JSVuLb/XGeNutMR/zLbY2wI3T4VDYh/+L/rlUnCav6ys4juMDrlrSER6dF9muKufcwl1GurkiDJJR03FKf2VkSLeprP3AYG75/ZgZudyqxDc1ZSaUMEnlGHoYm0i1cRc7ZeBYpzpiFdNUCiRFLWDMyse8=;R7atZHUohLByvIlbF0gpnQ=="
 ---
 

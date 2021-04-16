@@ -395,18 +395,18 @@ related:
         height: 1414
         isCached: true
   - title: "Informatica Announces New Cloud Data Integration Free Service for Customers to Accelerate Cloud Modernization on Microsoft Azure"
-    excerpt: "Informatica, the enterprise cloud data management leader, today announced a key initiative in collaboration with Microsoft to"
+    excerpt: "In light of this rapid acceleration to the cloud, Informatica is announcing in collaboration with Microsoft a new Informatica Cloud Data Integration Free Service to help customers get started quickly and easily with IDMC on Azure. To lower the barrier and ..."
     publishedDateTime: 2021-04-13T15:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on-microsoft-azure-301267943.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/informatica-announces-new-cloud-data-integration-free-service-for-customers-to-accelerate-cloud-modernization-on/article_2402ea11-cd80-5200-9436-74647c93a6e1.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 25
     images:
-      - url: "https://mma.prnewswire.com/media/692190/Informatica_Corp_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1047
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/a9/3a928c5e-5e65-547d-97c7-49836ac0f0f8/6075bcbf24559.image.jpg?resize=1200%2C413"
+        width: 1200
+        height: 413
         isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides applications and services for use on Azure,"
