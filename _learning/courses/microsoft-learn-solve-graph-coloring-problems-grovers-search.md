@@ -8,7 +8,7 @@ length: PT2H34M
 ratings:
   count: 45
   average: 4.733333
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "acqFj3JjeoLSHhhcMj1LwkzMtM99Lr6EuEgla4U5dBXr7icL+n3gKO4iI1M9OnPbjdy3zgXAtweIqOnGO+eroegR8wiL7U8PHKXCqnTEAohg0QfhmzrYEmoh5ekAtpQsS2s0YPlat4uTqpB0nUolhUDLYLgqOROd/FjhOt/ouaYpQRk3LHQyYAQE7PhCrw75/pgUD6kjElhw6pvnPVzwZ827xtxo2ZgtJ+vtV9/KlIuIko0JV4JVe/GcuvJOYpLa7BV6x3tWspu2PYK1QXk9mJ9uNcwiIed5n7WijSHiJPviDjLuqaLzsm8uEoVufl+b6CT538AKCpGeRYCuGo7XdpYNCWX8RjUfZKOCVGSTaspT5haKs4+5TA1cgMwVik+O0nxFp52EEMkuyLI/8lghijDKuKTyrsRBuoe246cqY0E=;b5nJRB6+a7kwMAJMxtvceQ=="
+secured: "GJ8npGC7dwcZ8SM0P/2qNKnBX7aG8B27MarOt3CxDqw97FlmldKHeLyDnsHyJXPeOEcLVIu/j7LeZah4GuSS9YC3+x5jGyCRZ0685VDPOQM58OjIQ+w+axDGcJxGzgor6pcS4LNyB3+MPwPVEAU+qsS1+lAduljo+J+FqTKSSp6ru3A76uo7vFAawgOw8Q9NLQ6QkMmZGEqze2pC1eTkeb3rmB4+fe/UMa1HCZuKINU4vTpjkj6/9EALcFAOy+G5mS/siyQWxt/Jpbb7yiCWeSf1P0JxmZlqiBqG7Pa8YEdLCoDMBDeyvuEBF2PSbOBbSlpNeVmEga2r4x3MJDX3WYPo7fdLeB9P+/6SFvJUJT2q9ADIlghPCbAhcFLQJycaL2tVzIGzCQrDzKqr06VN8Z7z304yl1GgYGjoheqHFDU=;/Sr/Kt+5B5RVgl6aRjTiGA=="
 ---
 

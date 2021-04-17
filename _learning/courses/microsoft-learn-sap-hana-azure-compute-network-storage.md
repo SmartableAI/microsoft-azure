@@ -8,7 +8,7 @@ length: PT52M
 ratings:
   count: 497
   average: 4.772636
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "t/B9RZ1lYdA/x0iaudDuRCX2Pzob5EE3I+vGVn6iv7mszUpws4eVZMXEs1gtcSiWHSu3MUqZszqpLFaQ6oVIU+nxhgh4rD4BoU0O9TxuZvohhyWZoBL6hWbfTtNRqJ9o4V3buLf3JRpiK/jKMrQHR6Gm4dKbNMxwxxpmT86skYmzHGAIDT4QIKxIJZrTjI98YH+6351jkCVEt91xCCiNTXdvvN0ildIX/A41AUtIzEktLazzsp9KCjA3aoXG4PDsou1mtJSOQgvUOGzeEXXnP0nhrC9xAy5ndNj6KmkEmJ4vQqxQJDGMOgA7RFUWK3ObQYGzW8akzKTfhQ24kBG3jcH1LZ7J4lzRPllFRpioMwT2NSROYpuzZuX/q0DR3h6uGOHxueeZMx65pUE9UQOv7sSr7txPlKisszFibC/cR/I=;NZKVQD2VC19MwgVciC/48g=="
+secured: "nqeOlOrhbH+vG//SLnyIvbPhKiePtQrx9u7543SfbYHSD0uqudlbaS2hvbNtvcOC9WyINfhQ12kD12LBLNjDI4At85j0iLw9dk3WdhKgRSI0N20i556Nl6y0c3s1FamERMRH3Z2I/Jc0WHByKpTf/K/tigaQd5o1+8y+BzlJJeWksUmclEETaZYMeolYI+X1/ilPuG2wfslX1MoiAHH78BXBDtXFEtWu5kl1wBpSCP7Y+aojWJ5vyMej3wI4rRhEuD7CibBSvMn3/zVoHKAogjXE8Q9rG9duwxpwgrBsUHRWn5Lr64GCppZB4yFB3Tgh/cxLKwUcwj9jRwqegI2ud2UDnzY9LPmgv0eX9BI4OQUyr35l3qhnBn8f4HF2zMa5fRDnTPv4S8PaCpoVHKppNICsfosaQW1r8x3lCJ0MyhQ=;fP3mXPqLN7qxocWZwkqGTA=="
 ---
 
