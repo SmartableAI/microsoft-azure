@@ -4,49 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-user-authentication.md",
-      "title": "Manage user authentication",
-      "excerpt": "Manage user authentication",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-manage-user-authentication/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-user-authentication/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 195,
-        "average": 4.830769
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Identity"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-merge-conflict-resolution-github.md",
       "title": "Settle competing commits by using merge conflict resolution on GitHub",
       "excerpt": "Learn to settle overlapping commits across branches by using merge conflict resolution.",
@@ -138,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
       "length": "PT43M",
       "ratings": {
-        "count": 334,
-        "average": 4.763473
+        "count": 335,
+        "average": 4.764179
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -224,8 +181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/",
       "length": "PT35M",
       "ratings": {
-        "count": 391,
-        "average": 4.634271
+        "count": 392,
+        "average": 4.6352043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -617,8 +574,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-your-dev-environment-for-azure-development/",
       "length": "PT28M",
       "ratings": {
-        "count": 5362,
-        "average": 4.7002983
+        "count": 5363,
+        "average": 4.700354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -738,8 +695,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
       "length": "PT38M",
       "ratings": {
-        "count": 1504,
-        "average": 4.6828456
+        "count": 1505,
+        "average": 4.6830564
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1085,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-web-app-background-task-with-webjobs/",
       "length": "PT39M",
       "ratings": {
-        "count": 826,
-        "average": 4.381356
+        "count": 827,
+        "average": 4.382104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1171,8 +1128,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1115,
-        "average": 4.495067
+        "count": 1116,
+        "average": 4.4946237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,6 +1248,48 @@
       "topics": [
         "Azure",
         "IoT"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search.md",
+      "title": "Solve graph coloring problems by using Grover's search",
+      "excerpt": "Learn how Grover's algorithm can help you solve search problems such as graph coloring problems.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-solve-graph-coloring-problems-grovers-search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/solve-graph-coloring-problems-grovers-search/",
+      "length": "PT2H34M",
+      "ratings": {
+        "count": 45,
+        "average": 4.733333
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/quantum/solve-graph-coloring-problems-grovers-search-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
       ]
     }
   ],

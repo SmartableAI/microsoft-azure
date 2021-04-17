@@ -4,208 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure.md",
-      "title": "Architect message brokering and serverless applications in Azure",
-      "excerpt": "Learn how to create reliable messaging for your applications, and how to take advantage of serverless application services in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/index.json",
-      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-architect-message-brokering-and-serverless-applications-in-azure/",
-      "length": "PT6H20M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-serverless-logic-with-functions.md",
-          "title": "Create serverless logic with Azure Functions",
-          "excerpt": "Azure Functions allow you to host business logic that can be executed without managing or provisioning server infrastructure",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-create-serverless-logic-with-functions/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
-          "length": "PT36M",
-          "ratings": {
-            "count": 8457,
-            "average": 4.6614637
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 61,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Compute",
-            "Serverless",
-            "Management Tools"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-route-and-process-data-logic-apps.md",
-          "title": "Route and process data automatically using Logic Apps",
-          "excerpt": "Learn how to define a workflow to run your business with Logic apps using built-in triggers, actions, and conditional operators.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-route-and-process-data-logic-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 1791,
-            "average": 4.499721
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Management Tools",
-            "IoT",
-            "Blockchain",
-            "Integration"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-choose-messaging-model.md",
-          "title": "Choose a messaging model in Azure to loosely connect your services",
-          "excerpt": "Learn how Azure's storage queues, event hubs, event grid, and service bus can improve your communication between devices.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-messaging-model/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
-          "length": "PT45M",
-          "ratings": {
-            "count": 3880,
-            "average": 4.606701
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 53,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Integration",
-            "IoT",
-            "Analytics"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage.md",
-          "title": "Communicate between applications with Azure Queue storage",
-          "excerpt": "Find out to use Azure Queue storage to handle high demand and improve resilience in your distributed applications.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-communicate-between-applications-with-azure-queue-storage/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/",
-          "length": "PT56M",
-          "ratings": {
-            "count": 2175,
-            "average": 4.586207
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Azure",
-            "Storage"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/route-and-process-data-logic-apps-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Serverless",
-        "Analytics",
-        "Integration",
-        "IoT",
-        "Blockchain"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-architect-migration-business-continuity-and-disaster-recovery-in-azure.md",
       "title": "Architect migration, business continuity, and disaster recovery in Azure",
       "excerpt": "Learn how to migrate resources to Azure, how to provide site recovery for your applications in Azure and on-premises, and how to your applications are available through service interruptions and changes in load.",
@@ -236,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-your-migration-to-azure/",
           "length": "PT44M",
           "ratings": {
-            "count": 5472,
-            "average": 4.707237
+            "count": 5478,
+            "average": 4.7071924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -279,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-on-premises-infrastructure-with-azure-site-recovery/",
           "length": "PT33M",
           "ratings": {
-            "count": 1127,
-            "average": 4.624667
+            "count": 1128,
+            "average": 4.625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -323,8 +121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-infrastructure-with-site-recovery/",
           "length": "PT59M",
           "ratings": {
-            "count": 1307,
-            "average": 4.573833
+            "count": 1308,
+            "average": 4.574159
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -367,8 +165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/",
           "length": "PT35M",
           "ratings": {
-            "count": 4888,
-            "average": 4.74284
+            "count": 4889,
+            "average": 4.7426877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-containers/",
           "length": "PT57M",
           "ratings": {
-            "count": 3264,
-            "average": 4.6197915
+            "count": 3265,
+            "average": 4.6199083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/",
           "length": "PT48M",
           "ratings": {
-            "count": 6588,
-            "average": 4.7149363
+            "count": 6589,
+            "average": 4.7149796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -530,8 +328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-and-store-container-images/",
           "length": "PT49M",
           "ratings": {
-            "count": 2640,
-            "average": 4.6242423
+            "count": 2641,
+            "average": 4.624385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -755,8 +553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/",
           "length": "PT37M",
           "ratings": {
-            "count": 6504,
-            "average": 4.6786594
+            "count": 6505,
+            "average": 4.6787086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -879,8 +677,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/migrate-repository-github/",
           "length": "PT43M",
           "ratings": {
-            "count": 334,
-            "average": 4.763473
+            "count": 335,
+            "average": 4.764179
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1259,8 +1057,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-introduction/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 1504,
-            "average": 4.753989
+            "count": 1505,
+            "average": 4.754153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1301,8 +1099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1418,
-            "average": 4.7355433
+            "count": 1420,
+            "average": 4.7359157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1488,8 +1286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3880,
-            "average": 4.606701
+            "count": 3882,
+            "average": 4.6069036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1525,8 +1323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2650,
-            "average": 4.634717
+            "count": 2651,
+            "average": 4.634855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1595,8 +1393,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2381,
-            "average": 4.4573708
+            "count": 2382,
+            "average": 4.4575987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1667,8 +1465,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-cost-optimization/",
           "length": "PT51M",
           "ratings": {
-            "count": 1418,
-            "average": 4.7355433
+            "count": 1420,
+            "average": 4.7359157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1711,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-manage-azure-costs/",
           "length": "PT43M",
           "ratings": {
-            "count": 4900,
-            "average": 4.7983675
+            "count": 4904,
+            "average": 4.798124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2090,8 +1888,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/",
           "length": "PT32M",
           "ratings": {
-            "count": 4544,
-            "average": 4.65625
+            "count": 4545,
+            "average": 4.656326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2168,8 +1966,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/",
           "length": "PT25M",
           "ratings": {
-            "count": 4261,
-            "average": 4.6282563
+            "count": 4262,
+            "average": 4.6283436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2405,8 +2203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/scale-sql-databases-elastic-pools/",
           "length": "PT39M",
           "ratings": {
-            "count": 3895,
-            "average": 4.5966625
+            "count": 3897,
+            "average": 4.596613
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2469,8 +2267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-roles-responsibilities-world-of-data/",
       "length": "PT17M",
       "ratings": {
-        "count": 3068,
-        "average": 4.8298564
+        "count": 3069,
+        "average": 4.829912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3379,8 +3177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
           "length": "PT29M",
           "ratings": {
-            "count": 3228,
-            "average": 4.71995
+            "count": 3229,
+            "average": 4.720037
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3465,8 +3263,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 127,
-            "average": 4.858268
+            "count": 128,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3508,8 +3306,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 99,
-            "average": 4.8080807
+            "count": 100,
+            "average": 4.81
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3551,8 +3349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 90,
-            "average": 4.822222
+            "count": 91,
+            "average": 4.824176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3594,8 +3392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 82,
-            "average": 4.792683
+            "count": 83,
+            "average": 4.795181
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4098,8 +3896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-identity-principles-concepts/",
           "length": "PT20M",
           "ratings": {
-            "count": 127,
-            "average": 4.858268
+            "count": 128,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4141,8 +3939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-basic-services-identity-types/",
           "length": "PT26M",
           "ratings": {
-            "count": 99,
-            "average": 4.8080807
+            "count": 100,
+            "average": 4.81
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4184,8 +3982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-authentication-capabilities/",
           "length": "PT30M",
           "ratings": {
-            "count": 90,
-            "average": 4.822222
+            "count": 91,
+            "average": 4.824176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4227,8 +4025,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-access-management-capabilities/",
           "length": "PT15M",
           "ratings": {
-            "count": 82,
-            "average": 4.792683
+            "count": 83,
+            "average": 4.795181
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4704,8 +4502,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/",
       "length": "PT29M",
       "ratings": {
-        "count": 3228,
-        "average": 4.71995
+        "count": 3229,
+        "average": 4.720037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -5255,6 +5053,221 @@
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-education-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-an-ai-ready-culture.md",
+          "title": "Understand the importance of building an AI-ready culture",
+          "excerpt": "Understand the key elements that make a culture AI-ready and a framework to drive the change needed in your organization for a successful AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-an-ai-ready-culture/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-an-ai-ready-culture/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 1141,
+            "average": 4.7405787
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/build-an-ai-ready-culture-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-foster-ai-culture-finance.md",
+          "title": "Discover how to foster an AI-ready culture in finance",
+          "excerpt": "Learn the necessary cultural changes for enterprise finance organizations to make AI transformation successful, and how they fit into a holistic AI strategy.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-foster-ai-culture-finance/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/foster-ai-ready-culture-finance/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 757,
+            "average": 4.799207
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/foster-ai-ready-culture-finance-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        }
+      ],
+      "size": 12,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-ai-business-school-for-financial-services.md",
+      "title": "AI business school for financial services",
+      "excerpt": "Learn to develop an enterprise AI strategy to create business value in financial services, including machine learning technologies, and culture.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-ai-business-school-for-financial-services/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-ai-business-school-for-financial-services/",
+      "length": "PT9H36M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-to-create-business-value.md",
+          "title": "Define an AI strategy to create business value",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-to-create-business-value/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/",
+          "length": "PT1H10M",
+          "ratings": {
+            "count": 2790,
+            "average": 4.70681
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-to-create-business-value-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-strategy-in-financial-services.md",
+          "title": "Define an AI strategy to create business value in financial services",
+          "excerpt": "Explore the strategic components, use cases, and special factors of an AI strategy in financial services that creates business value, with INSEAD and Microsoft.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-ai-strategy-in-financial-services/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-in-financial-services/",
+          "length": "PT45M",
+          "ratings": {
+            "count": 916,
+            "average": 4.739083
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-strategy-in-financial-services-social.png",
               "width": 800,
               "height": 400,
               "isCached": true

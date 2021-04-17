@@ -4,6 +4,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
+      "title": "Core Cloud Services - Azure compute options",
+      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 64763,
+        "average": 4.7113013
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 161,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Compute",
+        "Web",
+        "Containers",
+        "Serverless",
+        "IoT",
+        "Blockchain",
+        "Integration"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-diagnose-and-solve-problems-with-azure-api-management-azure-friday.md",
       "title": "Diagnose and solve problems with Azure API Management | Azure Friday",
       "excerpt": "Khaled Zayed joins Scott Hanselman to show how to troubleshoot availability, performance, and policy issues in your API Management service using API Management Diagnostics.  0:00 – Introduction 3:43 – Demo: Troubleshooting Availability and Performance 7:49 – Demo: Troubleshooting Gateway Performance",
@@ -116,8 +157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-devops-devtest-labs/",
           "length": "PT21M",
           "ratings": {
-            "count": 5703,
-            "average": 4.719621
+            "count": 5704,
+            "average": 4.7196703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +200,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitoring-fundamentals/",
           "length": "PT22M",
           "ratings": {
-            "count": 5049,
-            "average": 4.758566
+            "count": 5053,
+            "average": 4.7581635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -203,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/management-fundamentals/",
           "length": "PT27M",
           "ratings": {
-            "count": 4777,
-            "average": 4.7513084
+            "count": 4778,
+            "average": 4.7513604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -272,8 +313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/",
       "length": "PT20M",
       "ratings": {
-        "count": 4559,
-        "average": 4.771441
+        "count": 4561,
+        "average": 4.7713223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,47 +346,6 @@
       "topics": [
         "Azure",
         "Compute",
-        "Serverless",
-        "IoT",
-        "Blockchain",
-        "Integration"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-intro-to-compute.md",
-      "title": "Core Cloud Services - Azure compute options",
-      "excerpt": "Explore essential Azure concepts to find out how virtual machines, containers, and apps combined with serverless computing services can fortify your business.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-compute/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-compute/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 64763,
-        "average": 4.7113013
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 81,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Compute",
-        "Web",
-        "Containers",
         "Serverless",
         "IoT",
         "Blockchain",
@@ -385,8 +385,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-security/",
           "length": "PT1H2M",
           "ratings": {
-            "count": 3908,
-            "average": 4.7464175
+            "count": 3909,
+            "average": 4.7464824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/",
           "length": "PT45M",
           "ratings": {
-            "count": 7449,
-            "average": 4.66962
+            "count": 7450,
+            "average": 4.6696644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +464,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2972,
-            "average": 4.6621804
+            "count": 2973,
+            "average": 4.662294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -590,8 +590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/capture-application-logs-app-service/",
           "length": "PT55M",
           "ratings": {
-            "count": 2269,
-            "average": 4.6923757
+            "count": 2273,
+            "average": 4.692917
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/",
           "length": "PT46M",
           "ratings": {
-            "count": 41805,
-            "average": 4.7178326
+            "count": 41806,
+            "average": 4.7178397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -814,8 +814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-against-security-threats-azure/",
           "length": "PT23M",
           "ratings": {
-            "count": 7607,
-            "average": 4.763244
+            "count": 7610,
+            "average": 4.7629433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-security-baselines/",
           "length": "PT60M",
           "ratings": {
-            "count": 2972,
-            "average": 4.6621804
+            "count": 2973,
+            "average": 4.662294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1075,8 +1075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/",
           "length": "PT41M",
           "ratings": {
-            "count": 5025,
-            "average": 4.7367163
+            "count": 5026,
+            "average": 4.7367687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1118,8 +1118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/",
           "length": "PT1H6M",
           "ratings": {
-            "count": 278,
-            "average": 4.6258993
+            "count": 279,
+            "average": 4.62724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1250,8 +1250,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
           "length": "PT36M",
           "ratings": {
-            "count": 8457,
-            "average": 4.6614637
+            "count": 8458,
+            "average": 4.661504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1333,8 +1333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3880,
-            "average": 4.606701
+            "count": 3882,
+            "average": 4.6069036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1453,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
           "length": "PT45M",
           "ratings": {
-            "count": 3880,
-            "average": 4.606701
+            "count": 3882,
+            "average": 4.6069036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1490,8 +1490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
           "length": "PT54M",
           "ratings": {
-            "count": 2650,
-            "average": 4.634717
+            "count": 2651,
+            "average": 4.634855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1560,8 +1560,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/",
           "length": "PT56M",
           "ratings": {
-            "count": 2381,
-            "average": 4.4573708
+            "count": 2382,
+            "average": 4.4575987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1632,8 +1632,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/",
           "length": "PT38M",
           "ratings": {
-            "count": 1504,
-            "average": 4.6828456
+            "count": 1505,
+            "average": 4.6830564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1676,8 +1676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-api-performance-with-apim-caching-policy/",
           "length": "PT47M",
           "ratings": {
-            "count": 936,
-            "average": 4.695513
+            "count": 937,
+            "average": 4.695838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1720,8 +1720,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/protect-apis-on-api-management/",
           "length": "PT43M",
           "ratings": {
-            "count": 968,
-            "average": 4.737603
+            "count": 969,
+            "average": 4.737874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1764,8 +1764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
           "length": "PT55M",
           "ratings": {
-            "count": 2161,
-            "average": 4.6598797
+            "count": 2162,
+            "average": 4.660037
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2554,8 +2554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/azure-iot-strategy-and-solutions/",
           "length": "PT23M",
           "ratings": {
-            "count": 6307,
-            "average": 4.7360077
+            "count": 6308,
+            "average": 4.7360497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2597,8 +2597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1730,
-            "average": 4.6705203
+            "count": 1731,
+            "average": 4.6707106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2640,8 +2640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1257,
-            "average": 4.694511
+            "count": 1259,
+            "average": 4.694996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2980,8 +2980,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-iot-devices/",
           "length": "PT44M",
           "ratings": {
-            "count": 1257,
-            "average": 4.694511
+            "count": 1259,
+            "average": 4.694996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3248,8 +3248,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/",
       "length": "PT54M",
       "ratings": {
-        "count": 2650,
-        "average": 4.634717
+        "count": 2651,
+        "average": 4.634855
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3283,8 +3283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-serverless-api-with-functions-api-management/",
       "length": "PT41M",
       "ratings": {
-        "count": 1820,
-        "average": 4.6516485
+        "count": 1821,
+        "average": 4.6518397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3329,8 +3329,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/",
       "length": "PT45M",
       "ratings": {
-        "count": 3880,
-        "average": 4.606701
+        "count": 3882,
+        "average": 4.6069036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3444,8 +3444,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/control-authentication-with-apim/",
       "length": "PT55M",
       "ratings": {
-        "count": 2161,
-        "average": 4.6598797
+        "count": 2162,
+        "average": 4.660037
       },
       "provider": {
         "name": "Microsoft Learn",

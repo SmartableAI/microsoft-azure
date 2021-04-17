@@ -4,42 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-choose-storage-approach-in-azure.md",
-      "title": "Choose a data storage approach in Azure",
-      "excerpt": "Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-choose-storage-approach-in-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/choose-storage-approach-in-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 13517,
-        "average": 4.6849895
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 61,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure",
-        "Storage",
-        "Databases"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-azure-storage-account.md",
       "title": "Create an Azure Storage account",
       "excerpt": "Discover ways to use an Azure Storage account to manage your data for billing, access, and storage location of your blobs, files, queues, and tables.",
@@ -83,8 +47,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/",
       "length": "PT36M",
       "ratings": {
-        "count": 8457,
-        "average": 4.6614637
+        "count": 8458,
+        "average": 4.661504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -120,8 +84,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/describe-concepts-of-relational-data/",
       "length": "PT24M",
       "ratings": {
-        "count": 2427,
-        "average": 4.8261228
+        "count": 2428,
+        "average": 4.8261943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -306,8 +270,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-iot-hub/",
           "length": "PT28M",
           "ratings": {
-            "count": 1730,
-            "average": 4.6705203
+            "count": 1731,
+            "average": 4.6707106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -349,8 +313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-iot-edge/",
           "length": "PT29M",
           "ratings": {
-            "count": 1032,
-            "average": 4.6656976
+            "count": 1033,
+            "average": 4.6660213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2552,7 +2516,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/plan-your-supporting-infrastructure-for-microsoft-36/",
           "length": "PT35M",
           "ratings": {
-            "count": 5,
+            "count": 6,
             "average": 5.0
           },
           "provider": {
@@ -2837,8 +2801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-your-first-iot-central-app/",
           "length": "PT1H22M",
           "ratings": {
-            "count": 823,
-            "average": 4.617254
+            "count": 824,
+            "average": 4.617718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3543,7 +3507,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -5235,8 +5199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-incidents/",
           "length": "PT33M",
           "ratings": {
-            "count": 230,
-            "average": 4.673913
+            "count": 231,
+            "average": 4.6753244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5277,8 +5241,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/improve-reliability-failure/",
           "length": "PT34M",
           "ratings": {
-            "count": 251,
-            "average": 4.6693225
+            "count": 252,
+            "average": 4.6706347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5327,6 +5291,231 @@
       "price": "Free",
       "topics": [
         "Azure"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-java-on-azure.md",
+      "title": "Java on Azure",
+      "excerpt": "Start here and learn how you can build, migrate and scale Java applications on Azure leveraging Azure services, and using tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform etc.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/collections/microsoft-learn-java-on-azure/index.json",
+      "webUrl": "https://smartable.ai/apps/azure/learning/collections/microsoft-learn-java-on-azure/",
+      "length": "PT4H50M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-intro-to-java-azure.md",
+          "title": "Introduction to Java on Azure",
+          "excerpt": "Goal of this module is to welcome you as Java Developers on Azure. In this module, you'll begin to discover the opportunities for Java developers on Azure.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-intro-to-java-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 80,
+            "average": 4.7125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-java-target-destinations.md",
+          "title": "Choose an Azure service for deploying your Java application",
+          "excerpt": "In this tutorial, you'll learn about running your Java applications on Azure, and choose the best option between Virtual Machines, Azure App Services, Serverless functions, Kubernetes and Azure Spring Cloud.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-java-target-destinations/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/java-target-destinations/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 56,
+            "average": 4.821429
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web",
+            "Serverless",
+            "Containers"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql.md",
+          "title": "Create and deploy a data-driven Spring Boot Java application to Azure App Service with Spring Initializr and Maven",
+          "excerpt": "Create a Spring Boot application, connect it to a MySQL database and then deploy to Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-java-spring-boot-app-service-mysql/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-java-spring-boot-app-service-mysql/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 35,
+            "average": 4.6857142
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute",
+            "Web"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-webapp-java-tomcat.md",
+          "title": "Deploy a Java web app to Azure",
+          "excerpt": "You'll learn how to create a Java web application and deploy it to Azure App Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-build-webapp-java-tomcat/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-java-webapp-to-app-service-linux/",
+          "length": "PT21M",
+          "ratings": {
+            "count": 26,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Azure",
+            "Compute"
+          ]
+        }
+      ],
+      "size": 14,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Azure",
+        "Identity",
+        "Compute",
+        "Web",
+        "Management Tools",
+        "Databases",
+        "Containers",
+        "Mobile"
       ]
     }
   ],
