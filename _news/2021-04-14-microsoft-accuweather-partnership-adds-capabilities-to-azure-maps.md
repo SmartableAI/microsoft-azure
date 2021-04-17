@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-accuweathe
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-accuweather-partnership-adds-capabilities-to-azure-maps/"
 type: article
 quality: 97
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/3565746760001/4e4fed21-7b18-4e51-b89a-24e833b3ab0f/main/1280x720/9m25s205ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Authentic Azure Solutions Architect Expert Microsoft AZ-300 Exam Dumps [2021]"
+    excerpt: "Prepare your AZ-300 exam questions with Dumps2GO Microsoft AZ-300 exam dumps pdf and pass it in your first attempt. Are you hesitant about taking your AZ-300 test because of your Azure Solutions Architect Expert AZ-300 certification exam fear?"
+    publishedDateTime: 2021-04-17T12:25:00Z
+    webUrl: "https://www.madinamerica.com/author/download-az-300-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 34
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
         isCached: true
   - title: "Microsoft Azure Customers Now Able to Acquire beqom with Existing Azure Credit"
     excerpt: "... that Microsoft has designated beqom as an eligible “Microsoft Transact” application for customers of the Microsoft Azure cloud platform. This means that Azure customers can use their existing Azure budget commitment to fund the purchase of the ..."
