@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-prebuilt-module-edge-device/",
       "length": "PT56M",
       "ratings": {
-        "count": 502,
-        "average": 4.4840636
+        "count": 503,
+        "average": 4.4850893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -87,48 +87,6 @@
       "topics": [
         "Azure",
         "DevOps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deploy-sap-certified-offerings.md",
-      "title": "Deploy SAP certified offerings on Azure",
-      "excerpt": "Azure provides a scalable, compliant, and enterprise-proven platform for a range of SAP workloads. In this module, you explore the platform compliance criteria that is stipulated by SAP before deploying SAP solutions in Azure, and look at the different options for deploying SAP in Azure.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-deploy-sap-certified-offerings/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deploy-sap-certified-offerings/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 525,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/deploy-sap-certified-offerings-for-azure-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Azure"
       ]
     },
     {
@@ -1072,8 +1030,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/detect-language-text-analytics-api/",
       "length": "PT18M",
       "ratings": {
-        "count": 127,
-        "average": 4.6850395
+        "count": 128,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1152,8 +1110,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-hub/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 61,
-        "average": 4.7868853
+        "count": 62,
+        "average": 4.790323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1195,8 +1153,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 81,
-        "average": 4.728395
+        "count": 82,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1306,6 +1264,49 @@
           "width": 640,
           "height": 320,
           "title": "Discuss core Azure architectural components",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Azure"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-discuss-why-cloud-services.md",
+      "title": "Discuss why cloud services",
+      "excerpt": "Interested in the cloud, but aren't sure what it can do for you? Come explore cloud concepts, the benefits of cloud computing in Azure, and learn how Azure can save you time and money.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-azure/api/learning/courses/microsoft-learn-discuss-why-cloud-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discuss-why-cloud-services/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/discuss-why-cloud-services-social.png",
+          "width": 640,
+          "height": 320,
+          "title": "Discuss why cloud services",
           "isCached": true
         }
       ],
