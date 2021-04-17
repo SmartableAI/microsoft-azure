@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Telos' Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
-    excerpt: "ASHBURN, Va., April 13, 2021 (GLOBE NEWSWIRE) -- Telos (R) Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world's most security-conscious organizations,"
-    publishedDateTime: 2021-04-13T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/telos-xacta-expands-availability-to-microsoft-azure-across-all-us-government-cloud-instances-2021-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Concentra Bank selects Intellect to power its digital-first specialized banking on Microsoft Azure"
     excerpt: "\"Concentra's new digital banking platform transforms the customer experience with the flexibility, power and reliability that Microsoft Azure provides.\" SHARE THIS POST Find News"
     publishedDateTime: 2021-03-30T14:00:00Z
@@ -407,6 +393,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/a9/3a928c5e-5e65-547d-97c7-49836ac0f0f8/6075bcbf24559.image.jpg?resize=1200%2C413"
         width: 1200
         height: 413
+        isCached: true
+  - title: "Telos’ Xacta Expands Availability to Microsoft Azure across all U.S. Government Cloud Instances"
+    excerpt: "Telos® Corporation (NASDAQ: TLS), a leading provider of cyber, cloud and enterprise security solutions for the world’s most security-conscious organizations, today announced its Xacta® solution will be available to support all Microsoft Azure U."
+    publishedDateTime: 2021-04-13T11:57:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-industrial-products-and-services-government-and-politics-aerospace-and-defense-industry-c373ed46c8a641626015525493e0bf43"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
     excerpt: "PRNewswire/ -- harmon.ie, a leader in user experience (UX) products for Microsoft 365, today announced the availability of its next-generation Email TeamMate™ product in the Azure Marketplace, an online store that provides applications and services for use on Azure,"
