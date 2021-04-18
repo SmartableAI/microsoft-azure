@@ -38,6 +38,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Download AZ-120 Exam Dumps [2021] Microsoft Azure For SAP Workloads Specialty Questions"
+    excerpt: "The ultimate gateway to pass the Microsoft AZ-120 exam with ITExamQuestions AZ-120 dumps pdf. Do you want to bring your IT career to a new level by taking the AZ-120 Planning and Administering Microsoft Azure for SAP Workloads exam?"
+    publishedDateTime: 2021-04-18T12:00:00Z
+    webUrl: "https://www.madinamerica.com/author/download-real-az-120-exam-dumps/"
+    type: article
+    provider:
+      name: Mad in America
+      domain: madinamerica.com
+    quality: 29
+    images:
+      - url: "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg"
+        width: 300
+        height: 285
+        isCached: true
 
 secured: "oTfxWO/P1/SPAoWy8+iWCtzMWhajgAgpmYtCt/1cvpBS0Gx+Qs/aHVAkD2Pq2Lv//8ixU6cwfFAMh4wWmrTM9HixU+Uu7GtlbYkuo3wm6cFdd9qnB2n17xWGz8TWqPdLU9qlDZ0t2lwa10sWD13IMjQhAxp3bcyj8xxFA/dZvKRglL5GSs3Ar2C+jhvp2UHjeK+5uysTxC/3iLF4GM3wSibyzjRopF2qKS6Qc0cnA2DbTLYnBNuD7Hb2sjPt2UFsmmjRp79sIRCRQf9eCRJ320WzJnh/uU1KjBfiQrwkNJ7ld9NWeXreqYrHlLcLKcw8WyGAiXjqsdvB9ihAhrmOvyL2pjY+nJq+swSMdd+tRcOq4G/nX251ROvu42EStthlYNeqtSsEXT9ttIEpUGDY83MdI0UbSrDDYoWM9ITghGPJ9a97Pr8Fhu7tpc43f2oyYnHjeeFOjqFeYHk8b0JZlsH0ro4q8Exj1blrOSQa3W3qvkF0MrYYvBccbFdAHoVhwtRJXb+5CVjLL+9+NrECiw==;27+2ei0E35/T7zBsM2/I/g=="
 ---
