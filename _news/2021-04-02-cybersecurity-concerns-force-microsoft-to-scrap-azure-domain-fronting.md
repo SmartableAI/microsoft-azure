@@ -259,20 +259,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-    publishedDateTime: 2021-03-31T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "ENERGISME: LOAMICS Now Available in the Microsoft Azure Marketplace"
     excerpt: "BOULOGNE-BILLANCOURT, FR / ACCESSWIRE / April 7, 2021 / Microsoft Azure customers worldwide now gain ... Loamics customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management."
     publishedDateTime: 2021-04-07T16:16:00Z
@@ -431,6 +417,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 19
+  - title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure ..."
+    publishedDateTime: 2021-03-31T14:20:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8209196/couchbase-cloud-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "Argus Collaborates with Microsoft to Bring End-to-End Automotive Cyber Security Cloud Solution to Vehicle Manufacturers with Microsoft Azure IoT"
     excerpt: "Argus Cyber Security Suite of Solutions integrated with Microsoft's Azure IoT platform to provide in-vehicle and off-board monitoring, analysis, and mitigation of cyber attacks from the cloud"
     publishedDateTime: 2021-03-30T07:00:00Z

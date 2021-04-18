@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Couchbase Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Santa Clara, Calif., March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure Marketplace, an online store that provides ..."
-publishedDateTime: 2021-03-31T14:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-software-industry-information-technology-tommy-hilfiger-a11d57b46d7bfab38a2375eabb9a8298"
+excerpt: "March 31, 2021 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced the availability of Couchbase Cloud in the Microsoft Azure ..."
+publishedDateTime: 2021-03-31T14:20:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8209196/couchbase-cloud-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8209196/couchbase-cloud-now-available-in-the-microsoft-azure-marketplace"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Azure
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -468,6 +462,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "PbHr9/FqdgLcHhDB2To/cDl/NsCCpm6akeE+rwhSd5UB0e2qH1nBx8QismbL5XeEd/iIxTzR4IC4OkycZGLohmEG23jh5mwbN7PSVyX1rZmq77hGl0+nF27RnWa6hsF5+yhX0iw7XGfDH6lnPyrz8dIuxiUIhvyXm19pvgheeNoPkYWjW5dGibOTPcrASiTEb2sdvEJ1FMtHY8+JB2ErM3eGqKZ+qCK0RzN1pbDZ0ZeuUPzJEQmAISllRKZa/UxY3JeSH1l+hyBhxIzUnygMJ3rPEu0VRSIfV4eqaKUKCtj2A/HOQkgFqmmlv8LyWTt2umWFTsGkBqmIpcVfhAlpzjRDubPDj98pCqMmAZog6Do=;/soFHh7RuUbdJQ/iyWVfBw=="
+secured: "7tulXBFwQnfDtQ6MJVaRCvPFbJoREu2PD3GHBkahHWri+4tnKh9LHsW8kY1+vd0Le9WquoiyKX4WsYy88735CFwTLI+3AD+UX4p292wFkVtYvUR4Au/r8HCJoMxmhUyVnjGl0mLH9mKHM0rI68t/y44yGoxGk1LhAzEU6zMGbWB0uEyclT+eoPVFmEqKzSxQGZcWpDVEEapvq9YIewSjSRcD1H+qcmSvh4lmffpcJwk3cZpuZ5rklbC2eJPBtDK/Plfwbl/AwiasxQUr663e+4J0akSg+8Z4EunvzB4Lgegeqm+2B3/KSUWESIcBs/FaJLZL89XMO8i5zEQ8Ih8X2UbYEsUjSiXKDWtBQ45P+KE=;DiWp1mI4oZr+hS8/O45jSQ=="
 ---
 
