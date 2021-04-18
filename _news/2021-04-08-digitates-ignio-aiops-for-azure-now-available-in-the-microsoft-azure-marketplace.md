@@ -253,6 +253,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
+    excerpt: "harmon.ie customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Email TeamMate for Microsoft Teams enables workers to ..."
+    publishedDateTime: 2021-04-06T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/email-teammate-from-harmon-ie-now-available-in-the-microsoft-azure-marketplace-and-on-appsource-1030278291"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
     publishedDateTime: 2021-04-02T13:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pure-storage-extends-public
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pure-storage-extends-public-cloud-block-storage-to-microsoft-azure/"
 type: article
 quality: 114
-heat: 2894
+heat: 2914
 published: true
 
 provider:
@@ -1792,6 +1792,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google Cloud Platform VS. Microsoft Azure"
+    excerpt: "According to Gartner, Microsoft Azure appeals to organizations that are committed to Microsoft products. However, a series of outages in recent years spurred Gartner to advise organizations to ..."
+    publishedDateTime: 2021-04-06T14:52:00Z
+    webUrl: "https://www.cio.com/resources/216876/google-cloud-platform-vs-microsoft-azure"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z

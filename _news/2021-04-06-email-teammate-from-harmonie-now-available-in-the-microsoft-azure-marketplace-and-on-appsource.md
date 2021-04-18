@@ -1,33 +1,25 @@
 ---
 category: news
-title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
-excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
-publishedDateTime: 2021-04-06T15:24:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
+excerpt: "harmon.ie customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Email TeamMate for Microsoft Teams enables workers to ..."
+publishedDateTime: 2021-04-06T16:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/email-teammate-from-harmon-ie-now-available-in-the-microsoft-azure-marketplace-and-on-appsource-1030278291"
+webUrl: "https://markets.businessinsider.com/news/stocks/email-teammate-from-harmon-ie-now-available-in-the-microsoft-azure-marketplace-and-on-appsource-1030278291"
 type: article
-quality: 96
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/zdnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Azure
-
-images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
-    width: 1786
-    height: 1119
-    isCached: true
 
 related:
   - title: "Acuant joins Microsoft to enable seamless identity verification on Azure AD"
@@ -45,6 +37,22 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1611743746/itpro/AzureWeb_shutterstock.jpg"
         width: 1260
         height: 710
+        isCached: true
+  - title: "Microsoft gets two-phase immersion cooling running in an Azure datacenter"
+    excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its datacenters."
+    publishedDateTime: 2021-04-06T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-gets-two-phase-immersion-cooling-running-in-an-azure-datacenter/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/05/8dc355ba-5643-47bf-a751-1e67572cb3fe/azureliquidcooling.jpg"
+        width: 1786
+        height: 1119
         isCached: true
   - title: "Microsoft gets two-phase immersion cooling running in an Azure data center"
     excerpt: "Microsoft says it's the first major cloud provider to test and implement two-phase liquid immersion cooling in its data centers."
@@ -249,15 +257,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Email TeamMate™ from harmon.ie now available in the Microsoft Azure Marketplace and on AppSource"
-    excerpt: "harmon.ie customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. Email TeamMate for Microsoft Teams enables workers to ..."
-    publishedDateTime: 2021-04-06T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/email-teammate-from-harmon-ie-now-available-in-the-microsoft-azure-marketplace-and-on-appsource-1030278291"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
   - title: "Cybersecurity Concerns Force Microsoft To Scrap Azure Domain Fronting"
     excerpt: "Presently, there is heavy reliance on the Microsoft Azure product for domain fronting in countries such as China, where VPN use is illegal and involves"
     publishedDateTime: 2021-04-02T13:40:00Z
@@ -476,6 +475,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "vFYodBV8QmJILiZm7j/FK1mbjA/0RLhKXROIJbq2TdP1lYOMcECSRAfdbG1Z5Kpp0w3aN+IZCsj0NidgKD7mBTbXjfy+yE/xEjw2wcth5phqwW8X//+puDmoMrmSMMsL0f6A49s1B+gf/rPrwnIXi87GMi7BjxClANb+12fIixq7YXp27h4jwcOy8MbBXfmSKWIAmP+hXXoSZ4cD+d/z4fR/TJlfuT8Y1xU1ZqL5lKg2fZHtfvW5ItLqsHKSw45Sd1Nzrtk1NFVQGJJwLCf4t01mD3VLYLsxT3BpYvaaHCEKWUd857fi7zVM9gQPgeTHP1G+Arg9i9o9FDp1DzpnfLsxEs8MSpaMtO+MVHsD1huw2G83jLZBCNPrjMm7OeRRw69KXVVYqt50cgTbZnXIAD0rMsIJWTkSZ6mbAAttxHXjb5AdKMHoAAWEfsQCrIIcESJbNlatUetKhOrlKVDG9T2ORzvGmsGuXosbO2csozLhUQxIM4G0BYyKMjYNZCdr4Yh2jVJT55uV5wXktFZH6g==;RogFGU3fhg8LB3Gw2KDvkg=="
+secured: "QGV+KFoE1KX4i2qNo5Rqy4lB6Y+1gHMvi91DwW81TJLA+VJbVnPFxn38JXy3FhFLkOLSuvvklObfp4eY05i8SfgwvwFCWkVJivn9TY3JswXDAghcMM70vGofknEQAHHVY36gNl+9RTr7/Gfb0TMDbIIWvoweBvwUKBf3d8WLsd3qlysQ1O8Sxk/lcoBDaxK9q2bq7H4KP6Uug4KEVN3j6YBC1FOZdYQ1J6lMSFYCZPq8cXvK+VNu0uwTNdMuMe68SgEu4s9MpqJspTmZPAmUjnN4ANhQxT5vowzeO2cww7198Ggb5N4hTMV7sYqEJZTIbxLcRyYoAgcVHGJ8sKwTkfAuQp4BQeWz4t9aw15EZIY=;qgK66xxyPZHgXSP57tB0ww=="
 ---
 

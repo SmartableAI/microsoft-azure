@@ -1,34 +1,21 @@
 ---
 category: news
-title: "Azure Defender for Storage powered by Microsoft threat intelligence"
-excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
-publishedDateTime: 2021-03-10T09:00:09Z
-originalUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
-webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+title: "Google Cloud Platform VS. Microsoft Azure"
+excerpt: "According to Gartner, Microsoft Azure appeals to organizations that are committed to Microsoft products. However, a series of outages in recent years spurred Gartner to advise organizations to ..."
+publishedDateTime: 2021-04-06T14:52:00Z
+originalUrl: "https://www.cio.com/resources/216876/google-cloud-platform-vs-microsoft-azure"
+webUrl: "https://www.cio.com/resources/216876/google-cloud-platform-vs-microsoft-azure"
 type: article
-quality: 108
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-azure/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - Azure
-  - Storage
-  - Management tools
-  - Security
-
-images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
-    width: 713
-    height: 439
-    isCached: true
 
 related:
   - title: "Pure Storage extends public cloud block storage to Microsoft Azure"
@@ -46,6 +33,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2020/10/27/6f243821-b6da-4a8c-967e-de7654891543/thumbnail/1200x675/6c5bd02248d7e74a487a2dfbd682b463/20201027-pure-larry.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Azure Defender for Storage powered by Microsoft threat intelligence"
+    excerpt: "With the reality of working from home, more people and devices are now accessing corporate data across home networks."
+    publishedDateTime: 2021-03-10T09:00:09Z
+    webUrl: "https://azure.microsoft.com/blog/azure-defender-for-storage-powered-by-microsoft-threat-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 108
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/44c1e7a8-71f7-41e6-86dd-64ff16caee11.png"
+        width: 713
+        height: 439
         isCached: true
   - title: "13 ways Microsoft Azure beats AWS"
     excerpt: "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS"
@@ -1794,15 +1795,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Google Cloud Platform VS. Microsoft Azure"
-    excerpt: "According to Gartner, Microsoft Azure appeals to organizations that are committed to Microsoft products. However, a series of outages in recent years spurred Gartner to advise organizations to ..."
-    publishedDateTime: 2021-04-06T14:52:00Z
-    webUrl: "https://www.cio.com/resources/216876/google-cloud-platform-vs-microsoft-azure"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
   - title: "EastBanc Technologies Has Earned the Modernization of Web Applications to Microsoft Azure Advanced Specialization"
     excerpt: "EastBanc Technologies (eastbanctech.com) today announced it has earned the Modernization of Web Applications in Microsoft Azure advanced specialization. This specialization recognizes EastBanc Technologies’ deep knowledge,"
     publishedDateTime: 2021-03-18T16:11:00Z
@@ -1918,6 +1910,6 @@ related:
       domain: seekingalpha.com
     quality: 2
 
-secured: "Ag3FtxjKx0lmC+tC0f8C0X9hl8g59tbHelesdhn7wBE1z0FWy6EBrclmsKwG2/SWKFzLrJMLCxTjbrM+h+L5PXpT6o4MTpd6rGkGq6azif9vWTdFtu4LHzM7ap573+aUzd7W8xrWEYazHoWN5O8SUG5zFLz0ofyHrXncAwHmo2tu1v8UObcsXQQU/vU5Ox+5DQ31HD5QMAdgKCs1U6hwNw0lhPjOtOXtWw62IzoO2zJ1acGsgimW4BlGlyqh4nm9agB7WQZ8y9QE1QuWavne7P7TeCMnPpgIjkZ7fWByWPyGtQ0/BA8/02ERzrGwmkxT74asdAn1DrbaKDz6pYD8Hd5fFXngNKTW1yOQziho2OM=;WHEtrYjOg3t69Et3DnIDKw=="
+secured: "xGozYR41mU6rZ33VuKnZutzTSk05r1PjqmXLAzBELY8PdWLvLdsUq08Nfgg9J6mIw4MKpYFOl08PEHX+ajRO6tnicRBB3yaGfJqrtwnwUQGBgHgMqD67LcUVhFgM6IZ9Ho5frUuSgFDdHzLXIPJOy3gVBrEspxaT212hGWRbt43xt/p2OJwkuvjsNgTGHQ39aPscu2E3ZSDX0bnx3gzWpySviWxQaeQm7FnzU9qgYaGTauvKTkem+JZZ/uKzXCkPcFAxdt0PvnYzvxL5IfWi7vA7/qBjcp9FfIgYfpv83gGKbtFBBg/+EX+lO5W6/5qk+Gplbx5tvaVn6VQVynIvLagrCHrzeXdFUq20zyFCjZk=;REukSLylfTOP4av/Ie3wkg=="
 ---
 

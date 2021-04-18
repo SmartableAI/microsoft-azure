@@ -1801,6 +1801,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Google Cloud Platform VS. Microsoft Azure"
+    excerpt: "According to Gartner, Microsoft Azure appeals to organizations that are committed to Microsoft products. However, a series of outages in recent years spurred Gartner to advise organizations to ..."
+    publishedDateTime: 2021-04-06T14:52:00Z
+    webUrl: "https://www.cio.com/resources/216876/google-cloud-platform-vs-microsoft-azure"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
   - title: "Microsoft offers Azure training initiative for 3,000 developers in Gauteng"
     excerpt: "Microsoft is inviting 3,000 software engineers and developers in Gauteng to apply for its Azure skills development programme by the 12 March deadline. The scheme is running in collaboration with the Gauteng Department of e-Government, software start-up ..."
     publishedDateTime: 2021-03-12T13:05:00Z
