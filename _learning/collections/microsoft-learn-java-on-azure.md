@@ -4,7 +4,7 @@ excerpt: "Start here and learn how you can build, migrate and scale Java applica
 type: collection
 price: Free
 length: PT4H50M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

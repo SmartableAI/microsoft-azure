@@ -4,7 +4,7 @@ excerpt: "SC-200 part 3: Mitigate threats using Azure Defender"
 type: collection
 price: Free
 length: PT3H59M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

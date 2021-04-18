@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 3909
-  average: 4.7278075
+  count: 3910
+  average: 4.727877
 heat: 56
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Azure
   - Security
 
-secured: "pJw01bA2JnoQfQwJmuhBRGRyaJtDDgbFq8EGeYro/mQI+6vM9o0+nBWzPMFQJG9zN82G3mmlGtXgkqgDs2/wv0sPFOBR9N5XYO+JZdbj2w4FWNHo/zjUroFO9DITLQtJ+itZtEFP+siWw4KYZ7fLtXnGMfsWmaQEmHqsJkAgAOBcIKsSe7G1EBXA8SiL4hVFtrbMz5J/qVPS12IuKHnQQSVahZLAS9vQpaDS4AblZG0F1SZWjs0BoeceDQij1bfHvSJkR255w9n0kiws+lXtW3AvuXn0MAuXf/6zToWqveAlTJYPHxZZkg4o8gl4Kyhx3fgAiMfLNgSNBNn9FaOstGlY3RMxNoShqqFgQ9UWnX+thSO1ynLZ9+e+4d4/XhM1ZnFsBXwe48cRjDNQ6ebqcB3u2zWst0YWbv4GCwc1DRk=;GagdMgCU4r/SjB8P3eEzkw=="
+secured: "zT3AfJbTtAztZtOU9KRJKY+zFGDE4JYgrvfvNeaaG14ZVwE1FbBGxUZKiRlH4uXknKfFxZ+WxpjVd/Db+GD5Be+4GcWKLSBN4RrwFHYG/g+wPtYw84JS7mS3SXybcPswu4tj2jY+c4kGhXKnlZZxlE6JiP+0yGbeislEBAXt3tZSSv0Q4xRItTZDZRs/wD4lQw2K5DLYWrGMQld0O7uywuZOvpgdE6sRNEc4FaoW2tQ4yzKAMcUXuMOni9CEpu27svQJfRTV9+wn7rd1muoDagjusHfo0qFzf2pzagjE2DKfn/3e86sxWDF4FQwVpPy8UF9raE3dv5CcOAPeFo6lIqqfJU00xBQeZTFhy3C/J4tozgvO4f8FxGLWQFrn5/99cfsKoFxsHQKdo5c57ez2TvKfvTdg9Lcne/m7TsI6W5g=;hIxSWOeLQu5bEiRwrQUUbg=="
 ---
 
